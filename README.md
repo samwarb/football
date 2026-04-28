@@ -1,15 +1,16 @@
-# Premier League Tracker
+# Matchday Ledger
 
-A single-file Premier League 2025/26 dashboard. Live standings, fixtures with UK TV channel info, top-scorer stats, and a merged news feed — all in one `.html` file, no build step, no backend.
+A maintainable Premier League 2025/26 dashboard with a small local data service, normalized provider data, cached API responses, fixtures/results, real last-five form, team stats, club dossiers, TV listings, and a merged news feed.
 
-Open `premier-league-tracker.html` in any modern browser and it just works.
+The original single-file prototype is still available as `premier-league-tracker.html`. The bundled visual experiment that used to be `index.html` has been preserved at `legacy/matchday-ledger-bundle.html`.
 
 ## Features
 
-- **League table** — live standings with European / relegation zone colouring and a form indicator. Click any club for a detail modal (points progression chart, full season results, KPIs).
-- **Scheduled fixtures** — round-by-round view with Prev/Next navigation. Live matches auto-refresh every 60 seconds. Each fixture shows which UK channel it's on (Sky Sports, TNT Sports, Amazon Prime, BBC, ITV, Premier League, HBO) with inline SVG brand logos.
-- **Stats** — team leaderboards for goals scored, goals conceded, goal difference, and wins, plus a combined GF/GA bar chart.
-- **News** — merged feed from ESPN and Sky Sports, newest first, with a source chip on every card. Click to expand, click again to open the full article on the publisher's site.
+- **Standings** — live ESPN table data normalized into a stable club model, with sticky mobile-friendly club column and real last-five form once the current form cache is ready.
+- **Fixtures & Results** — round-by-round TheSportsDB fixtures, date-driven current round detection, TV badges when the server-side TV parser can match listings, and clear finished/live/scheduled states.
+- **Team Stats** — honest team leaderboards for goals scored, goals conceded, goal difference, and wins, plus a GF/GA chart.
+- **News** — server-fetched ESPN and Sky Sports feed with source filtering, search, sanitized text rendering, and outbound article links.
+- **Club dossiers** — accessible modal with focus handling, KPIs, points progression, recent form, and cached fixtures.
 
 ## Data sources
 
@@ -17,37 +18,63 @@ Open `premier-league-tracker.html` in any modern browser and it just works.
 |---|---|---|
 | League table, news (ESPN) | ESPN public JSON API | No key required |
 | Fixtures & results | [TheSportsDB](https://www.thesportsdb.com/) | Free tier, key `3` |
-| UK TV channels | [live-footballontv.com](https://www.live-footballontv.com/) | Scraped via CORS proxy (`api.codetabs.com`) |
-| Sky Sports news | Sky Sports RSS → [rss2json.com](https://rss2json.com) | Free tier; filtered client-side to football only |
+| UK TV channels | [live-footballontv.com](https://www.live-footballontv.com/) | Parsed server-side and cached; no public browser CORS proxy |
+| Sky Sports news | Sky Sports RSS → [rss2json.com](https://rss2json.com) | Fetched server-side and filtered to football |
 
-All calls are made client-side from the browser.
+Provider calls now run through the local server so the browser talks to same-origin `/api/*` endpoints. Responses are normalized, cached, and served stale when a provider has a temporary failure.
 
 ## Running it
 
 ```
-open premier-league-tracker.html
+npm start
 ```
 
-Or double-click the file. That's it — there's nothing to install, nothing to build.
+Then open http://localhost:4173.
 
-If you want to host it: copy the file to any static host (GitHub Pages, Netlify, S3, Cloudflare Pages). It's genuinely just one HTML file.
+There is no build step and no external npm dependency. Node 18+ is required for native `fetch`.
+
+Run the normalization tests with:
+
+```
+npm test
+```
+
+## Publishing to GitHub Pages
+
+This app can run on GitHub Pages even though the development version has a local API. The `build` command exports the app and a static JSON data snapshot into `dist/`.
+
+```
+npm run build
+```
+
+The included GitHub Actions workflow at `.github/workflows/deploy-pages.yml` builds and deploys `dist/` to GitHub Pages on every push to `main`, on manual dispatch, and every six hours. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**.
+
+Because GitHub Pages cannot run a server, the hosted app reads from generated files in `data/` instead of `/api/*`. The scheduled workflow refreshes standings, fixtures, TV listings, and news.
 
 ## Known limitations
 
-- **TV channel data only covers the next ~2 weeks.** live-footballontv.com only publishes the current window, so fixtures further out show no broadcaster badge.
-- **CORS proxy reliance.** Sky Sports and live-footballontv.com don't send CORS headers. If all the public proxies are rate-limited or down, those features will gracefully degrade (you'll see a warning; the rest of the app keeps working).
-- **Free rss2json tier caps Sky articles at 10 per refresh.**
-- **Stats tab uses standings data only** — there's no public per-player leader endpoint that doesn't require auth, so it ranks teams rather than individual scorers.
+- **TV channel data only covers the published TV window.** Future fixtures with no confirmed broadcaster show no badge.
+- **Free provider limits still apply.** The local service caches and degrades gracefully, but it cannot invent missing upstream data. To avoid TheSportsDB rate limits, the form cache fetches a current-round window rather than all 38 rounds at once.
+- **Stats are team stats.** Player leaderboards need a licensed player/stat provider.
 
 ## Tech
 
-Vanilla HTML / CSS / JavaScript. [Chart.js 4](https://www.chartjs.org/) is the only external dependency, loaded from a CDN.
-
-No framework, no bundler, no package.json.
+Vanilla HTML / CSS / JavaScript with a tiny Node server. [Chart.js 4](https://www.chartjs.org/) is loaded from a CDN for charts.
 
 ## File layout
 
 ```
-premier-league-tracker.html    # the whole app
-README.md                      # this file
+.github/workflows/deploy-pages.yml # GitHub Pages deployment workflow
+scripts/build-pages.js             # static exporter for Pages
+index.html                         # current app shell
+server/index.js                    # local API, cache, provider adapters
+src/api.js                         # browser API client
+src/main.js                        # modular browser app
+src/normalizers.js                 # shared provider normalization helpers
+src/teamIdentity.js                # canonical club identity and aliases
+src/styles.css                     # app styling
+tests/normalizers.test.js          # normalization/unit tests
+premier-league-tracker.html        # legacy single-file prototype
+legacy/matchday-ledger-bundle.html # preserved generated bundle
+README.md
 ```
