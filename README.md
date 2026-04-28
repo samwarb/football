@@ -60,6 +60,55 @@ http://localhost:4173
 
 That makes the iOS app point at your local server instead of the hosted site.
 
+## Cloudflare API
+
+The repo includes a Cloudflare Worker API in `worker/index.js`. This is the scalable backend path for public web and iOS clients, so GitHub remains source control rather than the production data host.
+
+Run the Worker API smoke test locally with:
+
+```
+npm run worker:smoke
+```
+
+Check that Wrangler can bundle the Worker with:
+
+```
+npm run worker:deploy -- --dry-run
+```
+
+Before deploying to Cloudflare for real, authenticate Wrangler:
+
+```
+npx wrangler login
+```
+
+Then create a KV namespace for persistent cached football data:
+
+```
+npm run worker:kv:create
+```
+
+Copy the returned namespace id into `wrangler.toml` by uncommenting the `[[kv_namespaces]]` block and replacing `replace_with_cloudflare_kv_namespace_id`. Then deploy to a temporary `workers.dev` URL:
+
+```
+npm run worker:deploy
+```
+
+The Worker exposes:
+
+```
+/v1/standings
+/v1/current-round
+/v1/fixtures/current
+/v1/fixtures/round/:round
+/v1/season
+/v1/news
+/v1/tv
+/v1/health
+```
+
+It also keeps the old `/api/*` routes working while the web and iOS clients migrate.
+
 ## Publishing to GitHub Pages
 
 This app can run on GitHub Pages even though the development version has a local API. The `build` command exports the app and a static JSON data snapshot into `dist/`.
@@ -98,6 +147,8 @@ src/styles.css                     # app styling
 tests/normalizers.test.js          # normalization/unit tests
 ios/MatchdayLedger.xcodeproj       # Xcode project for the iOS wrapper
 ios/MatchdayLedger/*.swift         # SwiftUI shell and WebKit bridge
+worker/index.js                    # Cloudflare Worker API
+wrangler.toml                      # Cloudflare deployment config
 premier-league-tracker.html        # legacy single-file prototype
 legacy/matchday-ledger-bundle.html # preserved generated bundle
 README.md

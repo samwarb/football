@@ -6,9 +6,16 @@
   "scripts": {
     "build": "node scripts/build-pages.js",
     "start": "node server/index.js",
-    "test": "node --test"
+    "test": "node --test",
+    "worker:dev": "wrangler dev",
+    "worker:deploy": "wrangler deploy",
+    "worker:kv:create": "wrangler kv namespace create FOOTBALL_CACHE",
+    "worker:smoke": "node scripts/smoke-worker.js"
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
   }
 }
