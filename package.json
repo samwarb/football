@@ -10,7 +10,8 @@
     "worker:dev": "wrangler dev",
     "worker:deploy": "wrangler deploy",
     "worker:kv:create": "wrangler kv namespace create FOOTBALL_CACHE",
-    "worker:smoke": "node scripts/smoke-worker.js"
+    "worker:smoke": "node scripts/smoke-worker.js",
+    "ios:icon": "node scripts/generate-ios-icon.js"
   },
   "engines": {
     "node": ">=18"

@@ -16,6 +16,7 @@
 		B70000000000000000000002 /* FootballDataClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000002 /* FootballDataClient.swift */; };
 		B70000000000000000000003 /* FootballStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000003 /* FootballStore.swift */; };
 		B70000000000000000000004 /* LeagueTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000004 /* LeagueTableView.swift */; };
+		B70000000000000000000005 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000005 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		F70000000000000000000002 /* FootballDataClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootballDataClient.swift; sourceTree = "<group>"; };
 		F70000000000000000000003 /* FootballStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootballStore.swift; sourceTree = "<group>"; };
 		F70000000000000000000004 /* LeagueTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueTableView.swift; sourceTree = "<group>"; };
+		F70000000000000000000005 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				F70000000000000000000003 /* FootballStore.swift */,
 				F70000000000000000000004 /* LeagueTableView.swift */,
 				F6F6F6F6F6F6F6F6F6F6F6F3 /* WebView.swift */,
+				F70000000000000000000005 /* Assets.xcassets */,
 				F6F6F6F6F6F6F6F6F6F6F6F4 /* Info.plist */,
 			);
 			path = MatchdayLedger;
@@ -142,6 +145,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B70000000000000000000005 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,6 +223,7 @@
 		C3C3C3C3C3C3C3C3C3C3C3D1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -237,6 +242,7 @@
 		C3C3C3C3C3C3C3C3C3C3C3D2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
