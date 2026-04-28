@@ -3,6 +3,7 @@ import Foundation
 enum AppConfiguration {
   static let appName = "Matchday Ledger"
   static let defaultRemoteURL = URL(string: "https://samwarb.github.io/football/")!
+  static let cloudflareApiBaseURL = URL(string: "https://matchday-ledger-api.swgwarburton.workers.dev/v1/")!
 
   static func launchURL() -> URL {
     let arguments = ProcessInfo.processInfo.arguments

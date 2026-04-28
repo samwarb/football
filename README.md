@@ -41,9 +41,9 @@ npm test
 
 ## iOS / Xcode
 
-The repo now includes a native SwiftUI app wrapper in `ios/MatchdayLedger.xcodeproj`. It uses `WKWebView` to load the football experience inside an iPhone app shell.
+The repo now includes a native SwiftUI app in `ios/MatchdayLedger.xcodeproj`. Phase 1 uses native SwiftUI for the league table and keeps a `WKWebView` dashboard tab as a temporary bridge while the rest of the app migrates native.
 
-Open the project in Xcode 15+ and run the `MatchdayLedger` scheme. By default the app loads the live GitHub Pages site at `https://samwarb.github.io/football/`.
+Open the project in Xcode 15+ and run the `MatchdayLedger` scheme. The app opens with a SwiftUI `Table` tab backed directly by the Cloudflare API, and the existing web dashboard remains available in a second tab while fixtures, club pages, and news are moved native in later phases.
 
 For local development, start the web app first:
 
