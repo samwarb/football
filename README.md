@@ -47,9 +47,9 @@ This app can run on GitHub Pages even though the development version has a local
 npm run build
 ```
 
-The included GitHub Actions workflow at `.github/workflows/deploy-pages.yml` builds and deploys `dist/` to GitHub Pages on every push to `main`, on manual dispatch, and every six hours. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**.
+The included GitHub Actions workflow at `.github/workflows/deploy-pages.yml` builds and deploys `dist/` to GitHub Pages on every push to `main`, on manual dispatch, and every six hours. In the repository settings, **Pages → Build and deployment → Source → GitHub Actions** is the preferred setup.
 
-Because GitHub Pages cannot run a server, the hosted app reads from generated files in `data/` instead of `/api/*`. The scheduled workflow refreshes standings, fixtures, TV listings, and news.
+Because GitHub Pages cannot run a server, the hosted app reads from generated files in `data/` instead of `/api/*`. The repository also keeps a root `data/` snapshot so branch-based Pages works immediately; scheduled workflow runs refresh it.
 
 ## Known limitations
 
@@ -66,6 +66,7 @@ Vanilla HTML / CSS / JavaScript with a tiny Node server. [Chart.js 4](https://ww
 ```
 .github/workflows/deploy-pages.yml # GitHub Pages deployment workflow
 scripts/build-pages.js             # static exporter for Pages
+data/                              # generated static data for branch-based Pages
 index.html                         # current app shell
 server/index.js                    # local API, cache, provider adapters
 src/api.js                         # browser API client

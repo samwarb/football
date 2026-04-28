@@ -1,0 +1,66 @@
+{
+  "season": "2025-2026",
+  "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
+  "fixtures": {
+    "leeds united|burnley": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "arsenal|fulham": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "bournemouth|crystal palace": [
+      "Sky Sports+"
+    ],
+    "manchester united|liverpool": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "aston villa|tottenham hotspur": [
+      "TNT Sports 1",
+      "TNT Sports Ultimate",
+      "HBO Max"
+    ],
+    "chelsea|nottingham forest": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "everton|manchester city": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "liverpool|chelsea": [
+      "TNT Sports 1",
+      "TNT Sports Ultimate",
+      "HBO Max"
+    ],
+    "manchester city|brentford": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "burnley|aston villa": [
+      "Sky Sports+"
+    ],
+    "crystal palace|everton": [
+      "Sky Sports F1"
+    ],
+    "nottingham forest|newcastle united": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "west ham united|arsenal": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "tottenham hotspur|leeds united": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ]
+  },
+  "warning": null,
+  "meta": {
+    "cache": "fresh",
+    "cachedAt": "2026-04-28T07:18:36.141Z"
+  }
+}
