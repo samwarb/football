@@ -2,6 +2,197 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48619765,
+      "source": "ESPN",
+      "headline": "Ødegaard: Arsenal want to make history this season",
+      "description": "Martin Ødegaard believes Arsenal have improved since last year's Champions League semifinal elimination.",
+      "publishedAt": "2026-04-28T18:41:29Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0428/dm_260428_COM_SOC_Presser_Odegaard_Arsenal_want_to_make_history_in_this_season_20260428_GLOBAL/dm_260428_COM_SOC_Presser_Odegaard_Arsenal_want_to_make_history_in_this_season_20260428_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip?id=48619765",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Norway"
+      ]
+    },
+    {
+      "id": "964f0ba2fb2772a88d51f5ad56d3b46b",
+      "source": "Sky Sports",
+      "headline": "Olise levels for Bayern in end-to-end thriller at PSG LIVE!",
+      "description": "",
+      "publishedAt": "2026-04-28T17:30:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-michael-olise-bayern-munich_7233592.jpg?20260428204702",
+      "link": "https://www.skysports.com/football/paris-saint-germain-vs-bayern-munich/live/554946",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48617048,
+      "source": "ESPN",
+      "headline": "John Stones to leave Man City in the summer",
+      "description": "John Stones will leave Manchester City this summer, the club have announced.",
+      "publishedAt": "2026-04-28T16:50:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650346_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48617048/john-stones-leave-man-city-summer",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "England"
+      ]
+    },
+    {
+      "id": 48109229,
+      "source": "ESPN",
+      "headline": "Tracking Europe's top soccer leagues: Title races, UCL, relegation",
+      "description": "How are the battles for major honors, Champions League spots and relegation shaping up across the continent? Here's everything you need to know.",
+      "publishedAt": "2026-04-28T16:48:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0421/r1647018_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 48468717,
+      "source": "ESPN",
+      "headline": "Arsenal and Man City's remaining Premier League fixtures compared as title race hots up",
+      "description": "The Premier League title race is well and truly underway with Arsenal being chased down by Pep Guardiola's Manchester City in their hunt for a first top-flight trophy since 2004.",
+      "publishedAt": "2026-04-28T16:26:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48608647,
+      "source": "ESPN",
+      "headline": "What would have happened if Liverpool didn't sign Mo Salah?",
+      "description": "Mohamed Salah will be remembered as one of the best Liverpool players of all time, but it's easy to forget that he almost didn't even end up at Liverpool. How would the last nine seasons have played out if he'd gone somewhere else?",
+      "publishedAt": "2026-04-28T16:00:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650264_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48608647/liverpool-mohamed-salah-julian-brandt-jurgen-klopp-history-transfers",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48617838,
+      "source": "ESPN",
+      "headline": "Man City left frustrated by rescheduled fixtures amid title run-in - sources",
+      "description": "Manchester City have been left frustrated after being told by the Premier League they must play three games in seven days as they chase two trophies during a hectic end to the season.",
+      "publishedAt": "2026-04-28T14:59:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650402_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48617838/man-city-left-frustrated-premier-league-fixture-schedule-amid-title-run-in",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48122272,
+      "source": "ESPN",
+      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
+      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
+      "publishedAt": "2026-04-28T14:42:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "db89da19228bc2b34a332375ec89103e",
+      "source": "Sky Sports",
+      "headline": "Analysis: Is Carrick in pole position to land Man Utd job?",
+      "description": "Sky Sports senior reporter Rob Dorsett explains why Michael Carrick is in a good position to land the head coach job at Manchester United long term, but that the club are in no rush to make an appointment.",
+      "publishedAt": "2026-04-28T14:13:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-michael-carrick-premier_7233289.jpg?20260428152411",
+      "link": "https://www.skysports.com/watch/video/13537653/analysis-is-michael-carrick-in-pole-position-to-land-manchester-utd-job",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "977df931853aa7e5c82b5ffb36985fa0",
+      "source": "Sky Sports",
+      "headline": "Every Arsenal and Man City match live on Sky for title run-in",
+      "description": "Don't miss a moment of the title run-in with every one of Arsenal and Man City's games now confirmed to be shown live on Sky Sports .",
+      "publishedAt": "2026-04-28T14:00:00.000Z",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-premier-league-fixtures_7204726.jpg?20260327154315",
+      "link": "https://www.skysports.com/football/news/12040/13537107/premier-league-fixtures-live-on-sky-sports-every-arsenal-and-man-city-game-live-on-sky-sports-in-thrilling-title-run-in",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "6ef98ef2969a482bcdbe03f4541e54cb",
+      "source": "Sky Sports",
+      "headline": "Barca want second Rashford loan deal",
+      "description": "Barcelona are interested in a second season-long loan deal for Manchester United forward Marcus Rashford.",
+      "publishedAt": "2026-04-28T13:45:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-marcus-rashford-manchester-united_7222932.jpg?20260417175726",
+      "link": "https://www.skysports.com/football/news/12040/13537641/marcus-rashford-barcelona-want-manchester-united-forward-on-a-second-season-long-loan",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48605674,
+      "source": "ESPN",
+      "headline": "Chelsea reach FA Cup final, another ref scandal for Serie A, more",
+      "description": "Chelsea advanced to the FA Cup final days after changing managers (again), but it's hardly proof of the club's \"project\" working. Plus: Is Serie A heading for another referee scandal, and can Arsenal hang on in the English title race?",
+      "publishedAt": "2026-04-28T13:26:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0427/r1649896_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48605674/chelsea-fa-cup-inter-milan-serie-referee-scandal-arsenal-premier-league-analysis-gab-marcotti",
+      "tag": "Internazionale",
+      "teams": [
+        "Internazionale",
+        "Chelsea",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48617299,
+      "source": "ESPN",
+      "headline": "What must happen for Man United to secure Champions League spot?",
+      "description": "Manchester United are on the verge of returning to the Champions League after a significant win over Brentford on Monday.",
+      "publishedAt": "2026-04-28T12:55:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48617299/what-happen-man-united-secure-champions-league-spot",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48616320,
+      "source": "ESPN",
+      "headline": "Tottenham injury list for relegation run-in: More ACL tears than home wins",
+      "description": "Tottenham Hotspur may have won their first Premier League game of 2026 over the weekend but it didn't come without a cost. They lost another two key players to injury.",
+      "publishedAt": "2026-04-28T11:23:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650326_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48616320/tottenham-injury-list-relegation-run-more-acl-tears-home-wins",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48615631,
+      "source": "ESPN",
+      "headline": "Michael Carrick: Bruno Fernandes deserves player of the season award",
+      "description": "Manchester United caretaker manager Michael Carrick has praised Bruno Fernandes' performance in their 2-1 victory over Brentford.",
+      "publishedAt": "2026-04-28T07:30:20Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0428/dm_260428_COM_SOC_Analysis_Michael_Carrick3A_Bruno_Fernandes_deserves_player_of_the_season_award_GLOBAL_2026-/dm_260428_COM_SOC_Analysis_Michael_Carrick3A_Bruno_Fernandes_deserves_player_of_the_season_award_GLOBAL_2026-.jpg",
+      "link": "https://www.espn.com/video/clip?id=48615631",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "Manchester United"
+      ]
+    },
+    {
       "id": 48615556,
       "source": "ESPN",
       "headline": "Michael Carrick nailed on for permanent manager role at Man United - Jamie Carragher",
@@ -60,20 +251,6 @@
       ]
     },
     {
-      "id": 48468717,
-      "source": "ESPN",
-      "headline": "Arsenal and Man City's remaining Premier League fixtures compared as title race hots up",
-      "description": "The Premier League title race is well and truly underway with Arsenal being chased down by Pep Guardiola's Manchester City in their hunt for a first top-flight trophy since 2004.",
-      "publishedAt": "2026-04-28T06:36:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48533691,
       "source": "ESPN",
       "headline": "Five times Arsenal have let the Premier League title slip away",
@@ -85,17 +262,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "22b710f6c395c1ca49a3bec597a004f9",
-      "source": "Sky Sports",
-      "headline": "Can Saints beat Ipswich to blow automatic promotion race wide open?",
-      "description": "It is going to be a cracker at St Mary's on Tuesday night. A season-defining game in the Championship promotion race.",
-      "publishedAt": "2026-04-28T05:00:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-efl-championship_7232137.jpg?20260427141009",
-      "link": "https://www.skysports.com/football/news/12040/13537222/southampton-vs-ipswich-can-saints-beat-tractor-boys-at-st-marys-to-blow-championship-promotion-race-wide-open",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48613134,
@@ -205,39 +371,6 @@
       ]
     },
     {
-      "id": "1f177cf6e696c8b14a0074cf6b850aed",
-      "source": "Sky Sports",
-      "headline": "Casemiro and Sesko on target to boost Man Utd chances of CL return",
-      "description": "Highlights from the Premier League match between Manchester United and Brentford.",
-      "publishedAt": "2026-04-27T21:04:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-man-utd-brentford_7232663.jpg?20260427215822",
-      "link": "https://www.skysports.com/watch/video/13537384/manchester-united-2-1-brentford-premier-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "befee70e437b4fb4e4f4f4b875a027d9",
-      "source": "Sky Sports",
-      "headline": "Man Utd edge closer to Champions League return after Brentford win",
-      "description": "Manchester United are within touching distance of returning to the Champions League after beating Brentford 2-1 at Old Trafford.",
-      "publishedAt": "2026-04-27T21:00:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-casemiro-man-utd_7232563.jpg?20260427201931",
-      "link": "https://www.skysports.com/football/manchester-united-vs-brentford/report/531465",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "d62aed706d87ad2c76b59750139c04ba",
-      "source": "Sky Sports",
-      "headline": "Papers: Three-man shortlist emerges for Chelsea job",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-04-27T21:00:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13537371/andoni-iraola-marco-silva-and-xabi-alonso-emerge-as-contenders-for-chelsea-job-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48607188,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal keeping tabs on Madrid's Endrick",
@@ -292,21 +425,6 @@
       ]
     },
     {
-      "id": 48605674,
-      "source": "ESPN",
-      "headline": "Chelsea reach FA Cup final, another ref scandal for Serie A, more",
-      "description": "Chelsea advanced to the FA Cup final days after changing managers (again), but it's hardly proof of the club's \"project\" working. Plus: Is Serie A heading for another referee scandal, and can Arsenal hang on in the English title race?",
-      "publishedAt": "2026-04-27T14:50:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0427/r1649896_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48605674/chelsea-fa-cup-inter-milan-serie-referee-scandal-arsenal-premier-league-analysis-gab-marcotti",
-      "tag": "Internazionale",
-      "teams": [
-        "Internazionale",
-        "Chelsea",
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48608216,
       "source": "ESPN",
       "headline": "Gab & Juls can't believe VAR missed a penalty for Everton vs. West Ham",
@@ -318,20 +436,6 @@
       "teams": [
         "Everton",
         "West Ham United"
-      ]
-    },
-    {
-      "id": 48606948,
-      "source": "ESPN",
-      "headline": "Tottenham's Xavi Simons ruled out for rest of season, to miss World Cup",
-      "description": "Tottenham forward Xavi Simons will play no further part this season and miss the World Cup this summer after a suspected anterior cruciate ligament injury in Spurs' win over Wolves.",
-      "publishedAt": "2026-04-27T11:17:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0425/r1648969_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48606948/tottenham-xavi-simons-ruled-rest-season-miss-world-cup",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Netherlands"
       ]
     },
     {
@@ -359,118 +463,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 48607235,
-      "source": "ESPN",
-      "headline": "McFarlane: Reaching FA Cup final completely changes feel at Chelsea",
-      "description": "Calum McFarlane speaks about the importance of Chelsea's FA Cup semifinal win over Leeds.",
-      "publishedAt": "2026-04-27T07:36:56Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0427/dm_260427_COM_SOC_Presser_McFarlane_Reaching_FA_Cup_final_completely_changes_feel_at_Chelsea_20260427_GLO/dm_260427_COM_SOC_Presser_McFarlane_Reaching_FA_Cup_final_completely_changes_feel_at_Chelsea_20260427_GLO.jpg",
-      "link": "https://www.espn.com/video/clip?id=48607235",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48587903,
-      "source": "ESPN",
-      "headline": "Man United vs. Brentford: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "Everything you need to know about Manchester United vs. Brentford, including five key talking points.",
-      "publishedAt": "2026-04-27T06:24:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0410/r1641576_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48587903/manchester-united-brentford-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Brentford"
-      ]
-    },
-    {
-      "id": 48122272,
-      "source": "ESPN",
-      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
-      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
-      "publishedAt": "2026-04-27T06:18:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48603561,
-      "source": "ESPN",
-      "headline": "Pep gives Manchester City license for quality time on break",
-      "description": "Pep Guardiola has given his treble-chasing players permission to jet off around the world before Manchester City's final push.",
-      "publishedAt": "2026-04-26T22:29:20Z",
-      "image": "https://a.espncdn.com/photo/2025/0226/r1457050_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48603561/pep-gives-manchester-city-license-quality-break",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48603530,
-      "source": "ESPN",
-      "headline": "Michael Carrick backs Manchester United's defensive options despite availability crisis",
-      "description": "Michael Carrick says he does not have concerns about Manchester United's central defensive options heading into what looks to be a big summer at Old Trafford.",
-      "publishedAt": "2026-04-26T22:21:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0426/r1649701_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48603530/michael-carrick-backs-manchester-united-defensive-options-availability-crisis",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48601375,
-      "source": "ESPN",
-      "headline": "Rosenior's villain turns Chelsea hero: Enzo Fernández books FA Cup final spot",
-      "description": "No player embodied Liam Rosenior's hapless three-month reign like Enzo Fernández. On Sunday, the midfielder was excellent in guiding Chelsea to the FA Cup final.",
-      "publishedAt": "2026-04-26T18:18:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0426/r1649524_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48601375/liam-rosenior-villain-turns-chelsea-hero-enzo-fernandez-books-fa-cup-final-spot-leeds-united",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 48598369,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United monitor AC Milan's Rafael Leão",
-      "description": "AC Milan winger Rafael Leão is subject to attention from Manchester United, while Tijjani Reijnders could leave Manchester City this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-04-26T16:15:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0426/r1649408_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48598369/transfer-rumors-news-man-united-monitor-ac-milan-rafael-leao",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "AC Milan"
-      ]
-    },
-    {
-      "id": 48600159,
-      "source": "ESPN",
-      "headline": "Benjamin Šeško says he wants to win trophies with Man United",
-      "description": "Manchester United forward Benjamin Šeško has said he hopes a strong finish to the season can fuel a future push for trophies.",
-      "publishedAt": "2026-04-26T14:26:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0301/r1621673_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48600159/benjamin-šeško-says-wants-win-trophies-man-united",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-04-28T07:18:36.835Z"
+    "cachedAt": "2026-04-28T19:55:35.772Z"
   }
 }

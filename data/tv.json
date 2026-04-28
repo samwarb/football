@@ -56,11 +56,41 @@
     "tottenham hotspur|leeds united": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
+    ],
+    "manchester city|crystal palace": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "brentford|crystal palace": [
+      "Sky Sports TBC"
+    ],
+    "everton|sunderland": [
+      "Sky Sports TBC"
+    ],
+    "leeds united|brighton and hove albion": [
+      "Sky Sports TBC"
+    ],
+    "wolves|fulham": [
+      "Sky Sports TBC"
+    ],
+    "newcastle united|west ham united": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "arsenal|burnley": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "bournemouth|manchester city": [
+      "Sky Sports TBC"
+    ],
+    "chelsea|tottenham hotspur": [
+      "Sky Sports TBC"
     ]
   },
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-04-28T07:18:36.141Z"
+    "cachedAt": "2026-04-28T19:55:35.687Z"
   }
 }
