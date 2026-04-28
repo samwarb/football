@@ -9,11 +9,6 @@ API_VERSION = "v1"
 [triggers]
 crons = ["*/10 * * * *"]
 
-# Production cache setup:
-# 1. Run `npm run worker:kv:create`
-# 2. Copy the returned namespace id below.
-# 3. Uncomment this block before deploying the public API.
-#
-# [[kv_namespaces]]
-# binding = "FOOTBALL_CACHE"
-# id = "replace_with_cloudflare_kv_namespace_id"
+[[kv_namespaces]]
+binding = "FOOTBALL_CACHE"
+id = "9b3eddcb31a842b3bb1848635c15bca4"

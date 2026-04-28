@@ -64,6 +64,12 @@ That makes the iOS app point at your local server instead of the hosted site.
 
 The repo includes a Cloudflare Worker API in `worker/index.js`. This is the scalable backend path for public web and iOS clients, so GitHub remains source control rather than the production data host.
 
+Temporary deployed API:
+
+```
+https://matchday-ledger-api.swgwarburton.workers.dev
+```
+
 Run the Worker API smoke test locally with:
 
 ```
