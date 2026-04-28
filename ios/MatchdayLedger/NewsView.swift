@@ -14,11 +14,11 @@ struct NewsView: View {
       )
 
       VStack(alignment: .leading, spacing: 12) {
-        LedgerSectionTitle(
-          kicker: "Stories",
-          title: "News",
-          note: "ESPN and Sky Sports stories from the Cloudflare feed"
-        )
+      LedgerSectionTitle(
+        kicker: "Stories",
+        title: "News",
+        note: "Latest Premier League headlines"
+      )
 
         Picker("Source", selection: $sourceFilter) {
           Text("All").tag("all")
@@ -83,9 +83,9 @@ struct NewsView: View {
 
   private var headerPills: [LedgerSourcePill] {
     [
-      LedgerSourcePill(store.news.isEmpty ? "News pending" : "\(store.news.count) stories", status: store.news.isEmpty ? .pending : .ok),
-      LedgerSourcePill(store.newsSources.joined(separator: " · ").isEmpty ? "Sources loading" : store.newsSources.joined(separator: " · "), status: store.newsSources.isEmpty ? .pending : .ok),
-      LedgerSourcePill("External links open safely", status: .ok)
+      LedgerSourcePill(store.news.isEmpty ? "Loading stories" : "\(store.news.count) stories", status: store.news.isEmpty ? .pending : .ok),
+      LedgerSourcePill(store.newsSources.joined(separator: " · ").isEmpty ? "Football news" : store.newsSources.joined(separator: " · "), status: store.newsSources.isEmpty ? .pending : .ok),
+      LedgerSourcePill("Premier League", status: .ok)
     ]
   }
 }

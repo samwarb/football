@@ -19,6 +19,7 @@
 		B70000000000000000000007 /* FixturesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000007 /* FixturesView.swift */; };
 		B70000000000000000000008 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000008 /* StatsView.swift */; };
 		B70000000000000000000009 /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000009 /* NewsView.swift */; };
+		B7000000000000000000000A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7000000000000000000000A /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		F70000000000000000000007 /* FixturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixturesView.swift; sourceTree = "<group>"; };
 		F70000000000000000000008 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
 		F70000000000000000000009 /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
+		F7000000000000000000000A /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				F70000000000000000000007 /* FixturesView.swift */,
 				F70000000000000000000008 /* StatsView.swift */,
 				F70000000000000000000009 /* NewsView.swift */,
+				F7000000000000000000000A /* SettingsView.swift */,
 				F70000000000000000000005 /* Assets.xcassets */,
 				F6F6F6F6F6F6F6F6F6F6F6F4 /* Info.plist */,
 			);
@@ -162,6 +165,7 @@
 				B70000000000000000000007 /* FixturesView.swift in Sources */,
 				B70000000000000000000008 /* StatsView.swift in Sources */,
 				B70000000000000000000009 /* NewsView.swift in Sources */,
+				B7000000000000000000000A /* SettingsView.swift in Sources */,
 				B1B1B1B1B1B1B1B1B1B1B1B1 /* MatchdayLedgerApp.swift in Sources */,
 				B1B1B1B1B1B1B1B1B1B1B1B2 /* ContentView.swift in Sources */,
 			);

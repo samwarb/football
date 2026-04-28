@@ -58,8 +58,8 @@ struct FixturesView: View {
 
     return [
       LedgerSourcePill("Round \(store.selectedRound)", status: .ok),
-      LedgerSourcePill(store.isLoadingFixtures ? "Fixtures loading" : "Fixtures synced", status: store.isLoadingFixtures ? .pending : .ok),
-      LedgerSourcePill(hasTv ? "TV listings cached" : "TV optional", status: hasTv ? .ok : .warning)
+      LedgerSourcePill(store.fixtures.isEmpty ? "Loading matches" : "\(store.fixtures.count) matches", status: store.fixtures.isEmpty ? .pending : .ok),
+      LedgerSourcePill(hasTv ? "TV coverage" : "Kick-off times", status: .ok)
     ]
   }
 }

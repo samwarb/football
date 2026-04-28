@@ -14,7 +14,7 @@ struct StatsView: View {
       LedgerSectionTitle(
         kicker: "Numbers",
         title: "Team Stats",
-        note: "Native panels built from the live standings feed"
+        note: "Goals, defence, wins and goal difference"
       )
 
       if let errorMessage = store.errorMessage, store.teams.isEmpty {
@@ -71,9 +71,9 @@ struct StatsView: View {
 
   private var headerPills: [LedgerSourcePill] {
     [
-      LedgerSourcePill(store.standings == nil ? "Standings pending" : "Standings synced", status: store.standings == nil ? .pending : .ok),
+      LedgerSourcePill(store.standings == nil ? "Loading stats" : "Season totals", status: store.standings == nil ? .pending : .ok),
       LedgerSourcePill("\(store.teams.count) clubs", status: store.teams.isEmpty ? .pending : .ok),
-      LedgerSourcePill("Goals · form · record", status: .ok)
+      LedgerSourcePill("Goals · defence · wins", status: .ok)
     ]
   }
 

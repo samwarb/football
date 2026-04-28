@@ -49,9 +49,9 @@ struct LeagueTableView: View {
 
   private var headerPills: [LedgerSourcePill] {
     [
-      LedgerSourcePill(store.standings == nil ? "Standings pending" : "Standings synced", status: store.standings == nil ? .pending : .ok),
-      LedgerSourcePill(store.seasonFixtures.isEmpty ? "Form cache loading" : "Form cache ready", status: store.seasonFixtures.isEmpty ? .pending : .ok),
-      LedgerSourcePill("Cloudflare API", status: .ok)
+      LedgerSourcePill(store.standings == nil ? "Loading table" : "Live table", status: store.standings == nil ? .pending : .ok),
+      LedgerSourcePill(store.teams.isEmpty ? "Premier League" : "\(store.teams.count) clubs", status: store.teams.isEmpty ? .pending : .ok),
+      LedgerSourcePill(store.seasonFixtures.isEmpty ? "Recent form soon" : "Recent form", status: store.seasonFixtures.isEmpty ? .pending : .ok)
     ]
   }
 }

@@ -32,6 +32,13 @@ struct ContentView: View {
       .tabItem {
         Label("News", systemImage: "newspaper")
       }
+
+      NavigationStack {
+        SettingsView()
+      }
+      .tabItem {
+        Label("Settings", systemImage: "gearshape")
+      }
     }
     .environmentObject(store)
     .task {
