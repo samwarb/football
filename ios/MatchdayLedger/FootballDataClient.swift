@@ -25,6 +25,22 @@ struct FootballDataClient {
     try await get("standings")
   }
 
+  func currentRound() async throws -> CurrentRoundResponse {
+    try await get("current-round")
+  }
+
+  func season() async throws -> SeasonResponse {
+    try await get("season")
+  }
+
+  func round(_ round: Int) async throws -> FixtureRoundResponse {
+    try await get("fixtures/round/\(round)")
+  }
+
+  func news() async throws -> NewsResponse {
+    try await get("news")
+  }
+
   private func get<T: Decodable>(_ path: String) async throws -> T {
     guard let url = URL(string: path, relativeTo: baseURL)?.absoluteURL else {
       throw FootballDataError.invalidURL(path)

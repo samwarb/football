@@ -9,29 +9,33 @@
 /* Begin PBXBuildFile section */
 		B1B1B1B1B1B1B1B1B1B1B1B1 /* MatchdayLedgerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F1 /* MatchdayLedgerApp.swift */; };
 		B1B1B1B1B1B1B1B1B1B1B1B2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F2 /* ContentView.swift */; };
-		B1B1B1B1B1B1B1B1B1B1B1B3 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F3 /* WebView.swift */; };
-		B1B1B1B1B1B1B1B1B1B1B1B4 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F5 /* WebKit.framework */; };
 		B1B1B1B1B1B1B1B1B1B1B1B5 /* AppConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F0 /* AppConfiguration.swift */; };
 		B70000000000000000000001 /* FootballModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000001 /* FootballModels.swift */; };
 		B70000000000000000000002 /* FootballDataClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000002 /* FootballDataClient.swift */; };
 		B70000000000000000000003 /* FootballStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000003 /* FootballStore.swift */; };
 		B70000000000000000000004 /* LeagueTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000004 /* LeagueTableView.swift */; };
 		B70000000000000000000005 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000005 /* Assets.xcassets */; };
+		B70000000000000000000006 /* LedgerTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000006 /* LedgerTheme.swift */; };
+		B70000000000000000000007 /* FixturesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000007 /* FixturesView.swift */; };
+		B70000000000000000000008 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000008 /* StatsView.swift */; };
+		B70000000000000000000009 /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70000000000000000000009 /* NewsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F6F6F6F6F6F6F6F6F6F6F6F0 /* AppConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfiguration.swift; sourceTree = "<group>"; };
 		F6F6F6F6F6F6F6F6F6F6F6F1 /* MatchdayLedgerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchdayLedgerApp.swift; sourceTree = "<group>"; };
 		F6F6F6F6F6F6F6F6F6F6F6F2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		F6F6F6F6F6F6F6F6F6F6F6F3 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		F6F6F6F6F6F6F6F6F6F6F6F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F6F6F6F6F6F6F6F6F6F6F6F5 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		F6F6F6F6F6F6F6F6F6F6F6F6 /* MatchdayLedger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MatchdayLedger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F70000000000000000000001 /* FootballModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootballModels.swift; sourceTree = "<group>"; };
 		F70000000000000000000002 /* FootballDataClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootballDataClient.swift; sourceTree = "<group>"; };
 		F70000000000000000000003 /* FootballStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootballStore.swift; sourceTree = "<group>"; };
 		F70000000000000000000004 /* LeagueTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueTableView.swift; sourceTree = "<group>"; };
 		F70000000000000000000005 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F70000000000000000000006 /* LedgerTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LedgerTheme.swift; sourceTree = "<group>"; };
+		F70000000000000000000007 /* FixturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixturesView.swift; sourceTree = "<group>"; };
+		F70000000000000000000008 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
+		F70000000000000000000009 /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,27 +43,17 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B1B1B1B1B1B1B1B1B1B1B1B4 /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2624ACDB2FA0BF0F00031918 /* Recovered References */ = {
-			isa = PBXGroup;
-			children = (
-				F6F6F6F6F6F6F6F6F6F6F6F5 /* WebKit.framework */,
-			);
-			name = "Recovered References";
-			sourceTree = "<group>";
-		};
 		E5E5E5E5E5E5E5E5E5E5E5E1 = {
 			isa = PBXGroup;
 			children = (
 				E5E5E5E5E5E5E5E5E5E5E5E2 /* MatchdayLedger */,
 				E5E5E5E5E5E5E5E5E5E5E5E3 /* Products */,
-				2624ACDB2FA0BF0F00031918 /* Recovered References */,
 			);
 			sourceTree = "<group>";
 		};
@@ -72,8 +66,11 @@
 				F70000000000000000000001 /* FootballModels.swift */,
 				F70000000000000000000002 /* FootballDataClient.swift */,
 				F70000000000000000000003 /* FootballStore.swift */,
+				F70000000000000000000006 /* LedgerTheme.swift */,
 				F70000000000000000000004 /* LeagueTableView.swift */,
-				F6F6F6F6F6F6F6F6F6F6F6F3 /* WebView.swift */,
+				F70000000000000000000007 /* FixturesView.swift */,
+				F70000000000000000000008 /* StatsView.swift */,
+				F70000000000000000000009 /* NewsView.swift */,
 				F70000000000000000000005 /* Assets.xcassets */,
 				F6F6F6F6F6F6F6F6F6F6F6F4 /* Info.plist */,
 			);
@@ -160,10 +157,13 @@
 				B70000000000000000000002 /* FootballDataClient.swift in Sources */,
 				B70000000000000000000001 /* FootballModels.swift in Sources */,
 				B70000000000000000000003 /* FootballStore.swift in Sources */,
+				B70000000000000000000006 /* LedgerTheme.swift in Sources */,
 				B70000000000000000000004 /* LeagueTableView.swift in Sources */,
+				B70000000000000000000007 /* FixturesView.swift in Sources */,
+				B70000000000000000000008 /* StatsView.swift in Sources */,
+				B70000000000000000000009 /* NewsView.swift in Sources */,
 				B1B1B1B1B1B1B1B1B1B1B1B1 /* MatchdayLedgerApp.swift in Sources */,
 				B1B1B1B1B1B1B1B1B1B1B1B2 /* ContentView.swift in Sources */,
-				B1B1B1B1B1B1B1B1B1B1B1B3 /* WebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

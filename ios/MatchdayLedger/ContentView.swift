@@ -9,81 +9,34 @@ struct ContentView: View {
         LeagueTableView()
       }
       .tabItem {
-        Label("Table", systemImage: "list.number")
+        Label("Standings", systemImage: "list.number")
       }
 
       NavigationStack {
-        WebDashboardView()
+        FixturesView()
       }
       .tabItem {
-        Label("Dashboard", systemImage: "safari")
+        Label("Fixtures", systemImage: "calendar")
+      }
+
+      NavigationStack {
+        StatsView()
+      }
+      .tabItem {
+        Label("Stats", systemImage: "chart.bar.xaxis")
+      }
+
+      NavigationStack {
+        NewsView()
+      }
+      .tabItem {
+        Label("News", systemImage: "newspaper")
       }
     }
     .environmentObject(store)
     .task {
       await store.loadInitialData()
     }
-    .tint(.green)
-  }
-}
-
-private struct WebDashboardView: View {
-  @StateObject private var webViewModel = WebViewModel()
-  @Environment(\.openURL) private var openURL
-
-  var body: some View {
-    ZStack {
-      WebView(model: webViewModel) { url in
-        openURL(url)
-      }
-      .ignoresSafeArea()
-
-      if webViewModel.isLoading {
-        VStack(spacing: 12) {
-          ProgressView()
-          Text("Loading Matchday Ledger")
-            .font(.footnote)
-            .foregroundStyle(.secondary)
-        }
-        .padding(.vertical, 14)
-        .padding(.horizontal, 18)
-        .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 16, style: .continuous))
-      }
-    }
-    .navigationTitle("Dashboard")
-    .navigationBarTitleDisplayMode(.inline)
-    .toolbar {
-      ToolbarItemGroup(placement: .topBarLeading) {
-        Button {
-          webViewModel.goBack()
-        } label: {
-          Image(systemName: "chevron.left")
-        }
-        .disabled(!webViewModel.canGoBack)
-
-        Button {
-          webViewModel.goForward()
-        } label: {
-          Image(systemName: "chevron.right")
-        }
-        .disabled(!webViewModel.canGoForward)
-      }
-
-      ToolbarItemGroup(placement: .topBarTrailing) {
-        Button {
-          webViewModel.reload()
-        } label: {
-          Image(systemName: "arrow.clockwise")
-        }
-
-        Button {
-          webViewModel.openCurrentPage(externalOpen: { url in
-            openURL(url)
-          })
-        } label: {
-          Image(systemName: "safari")
-        }
-      }
-    }
+    .tint(LedgerTheme.green)
   }
 }
