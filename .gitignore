@@ -1,4 +1,10 @@
 node_modules/
 dist/
+.build/
+.derivedData/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
 .DS_Store
 npm-debug.log*

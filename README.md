@@ -39,6 +39,27 @@ Run the normalization tests with:
 npm test
 ```
 
+## iOS / Xcode
+
+The repo now includes a native SwiftUI app wrapper in `ios/MatchdayLedger.xcodeproj`. It uses `WKWebView` to load the football experience inside an iPhone app shell.
+
+Open the project in Xcode 15+ and run the `MatchdayLedger` scheme. By default the app loads the live GitHub Pages site at `https://samwarb.github.io/football/`.
+
+For local development, start the web app first:
+
+```
+npm start
+```
+
+Then in Xcode, add a launch argument:
+
+```
+--url
+http://localhost:4173
+```
+
+That makes the iOS app point at your local server instead of the hosted site.
+
 ## Publishing to GitHub Pages
 
 This app can run on GitHub Pages even though the development version has a local API. The `build` command exports the app and a static JSON data snapshot into `dist/`.
@@ -75,6 +96,8 @@ src/normalizers.js                 # shared provider normalization helpers
 src/teamIdentity.js                # canonical club identity and aliases
 src/styles.css                     # app styling
 tests/normalizers.test.js          # normalization/unit tests
+ios/MatchdayLedger.xcodeproj       # Xcode project for the iOS wrapper
+ios/MatchdayLedger/*.swift         # SwiftUI shell and WebKit bridge
 premier-league-tracker.html        # legacy single-file prototype
 legacy/matchday-ledger-bundle.html # preserved generated bundle
 README.md

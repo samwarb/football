@@ -1,0 +1,254 @@
+// !$*UTF8*$!
+{
+  archiveVersion = 1;
+  classes = {
+  };
+  objectVersion = 56;
+  objects = {
+
+/* Begin PBXBuildFile section */
+    B1B1B1B1B1B1B1B1B1B1B1B1 /* MatchdayLedgerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F1 /* MatchdayLedgerApp.swift */; };
+    B1B1B1B1B1B1B1B1B1B1B1B2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F2 /* ContentView.swift */; };
+    B1B1B1B1B1B1B1B1B1B1B1B3 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F3 /* WebView.swift */; };
+    B1B1B1B1B1B1B1B1B1B1B1B4 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F5 /* WebKit.framework */; };
+    B1B1B1B1B1B1B1B1B1B1B1B5 /* AppConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F6F6F6F6F6F6F6F6F6F6F0 /* AppConfiguration.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+    F6F6F6F6F6F6F6F6F6F6F6F0 /* AppConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfiguration.swift; sourceTree = "<group>"; };
+    F6F6F6F6F6F6F6F6F6F6F6F1 /* MatchdayLedgerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchdayLedgerApp.swift; sourceTree = "<group>"; };
+    F6F6F6F6F6F6F6F6F6F6F6F2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+    F6F6F6F6F6F6F6F6F6F6F6F3 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+    F6F6F6F6F6F6F6F6F6F6F6F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+    F6F6F6F6F6F6F6F6F6F6F6F5 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+    F6F6F6F6F6F6F6F6F6F6F6F6 /* MatchdayLedger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MatchdayLedger.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+    B4B4B4B4B4B4B4B4B4B4B4B4 /* Frameworks */ = {
+      isa = PBXFrameworksBuildPhase;
+      buildActionMask = 2147483647;
+      files = (
+        B1B1B1B1B1B1B1B1B1B1B1B4 /* WebKit.framework in Frameworks */,
+      );
+      runOnlyForDeploymentPostprocessing = 0;
+    };
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+    E5E5E5E5E5E5E5E5E5E5E5E1 = {
+      isa = PBXGroup;
+      children = (
+        E5E5E5E5E5E5E5E5E5E5E5E2 /* MatchdayLedger */,
+        E5E5E5E5E5E5E5E5E5E5E5E3 /* Products */,
+      );
+      sourceTree = "<group>";
+    };
+    E5E5E5E5E5E5E5E5E5E5E5E2 /* MatchdayLedger */ = {
+      isa = PBXGroup;
+      children = (
+        F6F6F6F6F6F6F6F6F6F6F6F0 /* AppConfiguration.swift */,
+        F6F6F6F6F6F6F6F6F6F6F6F1 /* MatchdayLedgerApp.swift */,
+        F6F6F6F6F6F6F6F6F6F6F6F2 /* ContentView.swift */,
+        F6F6F6F6F6F6F6F6F6F6F6F3 /* WebView.swift */,
+        F6F6F6F6F6F6F6F6F6F6F6F4 /* Info.plist */,
+      );
+      path = MatchdayLedger;
+      sourceTree = "<group>";
+    };
+    E5E5E5E5E5E5E5E5E5E5E5E3 /* Products */ = {
+      isa = PBXGroup;
+      children = (
+        F6F6F6F6F6F6F6F6F6F6F6F6 /* MatchdayLedger.app */,
+      );
+      name = Products;
+      sourceTree = "<group>";
+    };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+    B2B2B2B2B2B2B2B2B2B2B2B2 /* MatchdayLedger */ = {
+      isa = PBXNativeTarget;
+      buildConfigurationList = D4D4D4D4D4D4D4D4D4D4D4D5 /* Build configuration list for PBXNativeTarget "MatchdayLedger" */;
+      buildPhases = (
+        B3B3B3B3B3B3B3B3B3B3B3B1 /* Sources */,
+        B4B4B4B4B4B4B4B4B4B4B4B4 /* Frameworks */,
+        B3B3B3B3B3B3B3B3B3B3B3B2 /* Resources */,
+      );
+      buildRules = (
+      );
+      dependencies = (
+      );
+      name = MatchdayLedger;
+      productName = MatchdayLedger;
+      productReference = F6F6F6F6F6F6F6F6F6F6F6F6 /* MatchdayLedger.app */;
+      productType = "com.apple.product-type.application";
+    };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+    A1A1A1A1A1A1A1A1A1A1A1A1 /* Project object */ = {
+      isa = PBXProject;
+      attributes = {
+        LastSwiftUpdateCheck = 2641;
+        LastUpgradeCheck = 2641;
+        TargetAttributes = {
+          B2B2B2B2B2B2B2B2B2B2B2B2 = {
+            CreatedOnToolsVersion = 26.4.1;
+          };
+        };
+      };
+      buildConfigurationList = D4D4D4D4D4D4D4D4D4D4D4D4 /* Build configuration list for PBXProject "MatchdayLedger" */;
+      compatibilityVersion = "Xcode 16.0";
+      developmentRegion = en;
+      hasScannedForEncodings = 0;
+      knownRegions = (
+        en,
+        Base,
+      );
+      mainGroup = E5E5E5E5E5E5E5E5E5E5E5E1;
+      productRefGroup = E5E5E5E5E5E5E5E5E5E5E5E3 /* Products */;
+      projectDirPath = "";
+      projectRoot = "";
+      targets = (
+        B2B2B2B2B2B2B2B2B2B2B2B2 /* MatchdayLedger */,
+      );
+    };
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+    B3B3B3B3B3B3B3B3B3B3B3B2 /* Resources */ = {
+      isa = PBXResourcesBuildPhase;
+      buildActionMask = 2147483647;
+      files = (
+      );
+      runOnlyForDeploymentPostprocessing = 0;
+    };
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+    B3B3B3B3B3B3B3B3B3B3B3B1 /* Sources */ = {
+      isa = PBXSourcesBuildPhase;
+      buildActionMask = 2147483647;
+      files = (
+        B1B1B1B1B1B1B1B1B1B1B1B5 /* AppConfiguration.swift in Sources */,
+        B1B1B1B1B1B1B1B1B1B1B1B1 /* MatchdayLedgerApp.swift in Sources */,
+        B1B1B1B1B1B1B1B1B1B1B1B2 /* ContentView.swift in Sources */,
+        B1B1B1B1B1B1B1B1B1B1B1B3 /* WebView.swift in Sources */,
+      );
+      runOnlyForDeploymentPostprocessing = 0;
+    };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+    C3C3C3C3C3C3C3C3C3C3C3C3 /* Debug */ = {
+      isa = XCBuildConfiguration;
+      buildSettings = {
+        ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+        CODE_SIGN_STYLE = Automatic;
+        CURRENT_PROJECT_VERSION = 1;
+        DEVELOPMENT_TEAM = "";
+        GENERATE_INFOPLIST_FILE = NO;
+        INFOPLIST_FILE = MatchdayLedger/Info.plist;
+        IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+        LD_RUNPATH_SEARCH_PATHS = (
+          "$(inherited)",
+          "@executable_path/Frameworks",
+        );
+        MARKETING_VERSION = 1.0;
+        PRODUCT_BUNDLE_IDENTIFIER = com.samwarb.MatchdayLedger;
+        PRODUCT_NAME = "$(TARGET_NAME)";
+        SDKROOT = iphoneos;
+        SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+        SWIFT_EMIT_LOC_STRINGS = YES;
+        SWIFT_VERSION = 6.0;
+        TARGETED_DEVICE_FAMILY = "1,2";
+      };
+      name = Debug;
+    };
+    C3C3C3C3C3C3C3C3C3C3C3C4 /* Release */ = {
+      isa = XCBuildConfiguration;
+      buildSettings = {
+        ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+        CODE_SIGN_STYLE = Automatic;
+        CURRENT_PROJECT_VERSION = 1;
+        DEVELOPMENT_TEAM = "";
+        GENERATE_INFOPLIST_FILE = NO;
+        INFOPLIST_FILE = MatchdayLedger/Info.plist;
+        IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+        LD_RUNPATH_SEARCH_PATHS = (
+          "$(inherited)",
+          "@executable_path/Frameworks",
+        );
+        MARKETING_VERSION = 1.0;
+        PRODUCT_BUNDLE_IDENTIFIER = com.samwarb.MatchdayLedger;
+        PRODUCT_NAME = "$(TARGET_NAME)";
+        SDKROOT = iphoneos;
+        SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+        SWIFT_EMIT_LOC_STRINGS = YES;
+        SWIFT_VERSION = 6.0;
+        TARGETED_DEVICE_FAMILY = "1,2";
+      };
+      name = Release;
+    };
+    C3C3C3C3C3C3C3C3C3C3C3D1 /* Debug */ = {
+      isa = XCBuildConfiguration;
+      buildSettings = {
+        CLANG_ENABLE_MODULES = YES;
+        CODE_SIGN_STYLE = Automatic;
+        CURRENT_PROJECT_VERSION = 1;
+        DEVELOPMENT_TEAM = "";
+        GENERATE_INFOPLIST_FILE = NO;
+        IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+        MARKETING_VERSION = 1.0;
+        PRODUCT_BUNDLE_IDENTIFIER = com.samwarb.MatchdayLedger;
+        PRODUCT_NAME = MatchdayLedger;
+        SDKROOT = iphoneos;
+        SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+        SWIFT_VERSION = 6.0;
+      };
+      name = Debug;
+    };
+    C3C3C3C3C3C3C3C3C3C3C3D2 /* Release */ = {
+      isa = XCBuildConfiguration;
+      buildSettings = {
+        CLANG_ENABLE_MODULES = YES;
+        CODE_SIGN_STYLE = Automatic;
+        CURRENT_PROJECT_VERSION = 1;
+        DEVELOPMENT_TEAM = "";
+        GENERATE_INFOPLIST_FILE = NO;
+        IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+        MARKETING_VERSION = 1.0;
+        PRODUCT_BUNDLE_IDENTIFIER = com.samwarb.MatchdayLedger;
+        PRODUCT_NAME = MatchdayLedger;
+        SDKROOT = iphoneos;
+        SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+        SWIFT_VERSION = 6.0;
+      };
+      name = Release;
+    };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+    D4D4D4D4D4D4D4D4D4D4D4D4 /* Build configuration list for PBXProject "MatchdayLedger" */ = {
+      isa = XCConfigurationList;
+      buildConfigurations = (
+        C3C3C3C3C3C3C3C3C3C3C3C3 /* Debug */,
+        C3C3C3C3C3C3C3C3C3C3C3C4 /* Release */,
+      );
+      defaultConfigurationIsVisible = 0;
+      defaultConfigurationName = Release;
+    };
+    D4D4D4D4D4D4D4D4D4D4D4D5 /* Build configuration list for PBXNativeTarget "MatchdayLedger" */ = {
+      isa = XCConfigurationList;
+      buildConfigurations = (
+        C3C3C3C3C3C3C3C3C3C3C3D1 /* Debug */,
+        C3C3C3C3C3C3C3C3C3C3C3D2 /* Release */,
+      );
+      defaultConfigurationIsVisible = 0;
+      defaultConfigurationName = Release;
+    };
+/* End XCConfigurationList section */
+  };
+  rootObject = A1A1A1A1A1A1A1A1A1A1A1A1 /* Project object */;
+}
