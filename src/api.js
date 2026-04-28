@@ -1,16 +1,19 @@
 const localApiHosts = new Set(['localhost', '127.0.0.1', '[::1]', '::1']);
 const hasLocalApi = localApiHosts.has(window.location.hostname);
+const apiMode = new URLSearchParams(window.location.search).get('api');
+const cloudflareApiBase = 'https://matchday-ledger-api.swgwarburton.workers.dev/v1';
 
 export async function getJson(path) {
-  if (!hasLocalApi && path.startsWith('/api/')) {
+  if (apiMode === 'static' && path.startsWith('/api/')) {
     return getStaticJson(path);
   }
 
+  const primaryPath = primaryPathFor(path);
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 15000);
 
   try {
-    const response = await fetch(path, { signal: controller.signal });
+    const response = await fetch(primaryPath, { signal: controller.signal });
     const body = await response.json();
     if (!response.ok) {
       throw new Error(body?.error?.message || `HTTP ${response.status}`);
@@ -24,6 +27,28 @@ export async function getJson(path) {
   } finally {
     clearTimeout(timeout);
   }
+}
+
+function primaryPathFor(path) {
+  if (!path.startsWith('/api/')) return path;
+  if (apiMode === 'cloudflare' || !hasLocalApi) return cloudflarePathFor(path);
+  return path;
+}
+
+function cloudflarePathFor(path) {
+  const roundMatch = path.match(/^\/api\/round\/(\d+)$/);
+  if (roundMatch) return `${cloudflareApiBase}/fixtures/round/${roundMatch[1]}`;
+
+  const routes = {
+    '/api/standings': '/standings',
+    '/api/current-round': '/current-round',
+    '/api/season': '/season',
+    '/api/news': '/news',
+    '/api/tv': '/tv',
+    '/api/health': '/health'
+  };
+
+  return routes[path] ? `${cloudflareApiBase}${routes[path]}` : path;
 }
 
 async function getStaticJson(path) {

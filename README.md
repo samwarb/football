@@ -115,6 +115,15 @@ The Worker exposes:
 
 It also keeps the old `/api/*` routes working while the web and iOS clients migrate.
 
+The browser app now uses the Cloudflare API automatically outside local development. Localhost still uses the Node server at `/api/*`, and if that fails it falls back to static `data/*.json`.
+
+For QA, append one of these query parameters:
+
+```
+?api=cloudflare # force Cloudflare API, even on localhost
+?api=static     # force static GitHub Pages JSON fallback
+```
+
 ## Publishing to GitHub Pages
 
 This app can run on GitHub Pages even though the development version has a local API. The `build` command exports the app and a static JSON data snapshot into `dist/`.
