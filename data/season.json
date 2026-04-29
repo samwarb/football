@@ -803,7 +803,7 @@
         {
           "id": "2267379",
           "round": 31,
-          "date": "2026-05-22",
+          "date": "2026-05-13",
           "time": "19:00:00",
           "venue": "Etihad Stadium",
           "status": "Not Started",
@@ -2992,7 +2992,7 @@
     {
       "id": "2267379",
       "round": 31,
-      "date": "2026-05-22",
+      "date": "2026-05-13",
       "time": "19:00:00",
       "venue": "Etihad Stadium",
       "status": "Not Started",
@@ -4370,6 +4370,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-04-28T19:55:37.121Z"
+    "cachedAt": "2026-04-29T04:01:35.785Z"
   }
 }
