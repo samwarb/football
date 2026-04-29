@@ -2,13 +2,71 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "05edf75d68f53a5294147e82d1bea764",
+      "id": 48618513,
+      "source": "ESPN",
+      "headline": "Kerkez's debut Liverpool season: 'I know what I can do and why I am here'",
+      "description": "Milos Kerkez sits down with ESPN to reflect on his debut season at Liverpool, including his close friendship with departing legend Mohamed Salah.",
+      "publishedAt": "2026-04-29T08:25:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650405_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48618513/milos-kerkez-interview-debut-liverpool-season-mohamed-salah-bromance-media-criticism",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Hungary"
+      ]
+    },
+    {
+      "id": 48618562,
+      "source": "ESPN",
+      "headline": "Milos Kerkez: Liverpool will miss Mohamed Salah's professionalism and experience",
+      "description": "ESPN FC's Beth Lindop sits down with Liverpool's Milos Kerkez to discuss his dramatic first season at the club and his close relationship with Mohamed Salah.",
+      "publishedAt": "2026-04-29T08:20:33Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0428/dm_260428_COM_SOC_Analysis_Milos_Kerkez3A_Liverpool_will_miss_Mohamed_SalahE28099s_professionalism_and_experience_/dm_260428_COM_SOC_Analysis_Milos_Kerkez3A_Liverpool_will_miss_Mohamed_SalahE28099s_professionalism_and_experience_.jpg",
+      "link": "https://www.espn.com/video/clip?id=48618562",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48625304,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Atlético ready to reject £130m for Álvarez",
+      "description": "Atlético Madrid are ready to turn down huge offers for Julián Álvarez. Plus, Barcelona eye Chelsea striker João Pedro. Transfer Talk has the latest.",
+      "publishedAt": "2026-04-29T07:57:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0211/r1613892_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48625304/transfer-rumors-news-atletico-madrid-ready-reject-130m-julian-alvarez",
+      "tag": "Atlético Madrid",
+      "teams": [
+        "Atlético Madrid",
+        "Arsenal",
+        "Barcelona",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": 48618699,
+      "source": "ESPN",
+      "headline": "The earliest dates Arsenal or Man City could win the Premier League title",
+      "description": "The Premier League title race between Manchester City and Arsenal is set to go right down to the wire. But when could either side win it earliest?",
+      "publishedAt": "2026-04-29T07:32:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0411/r1641940_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48618699/the-earliest-dates-arsenal-man-city-win-premier-league-title",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "fce2944ca4677af5ee8385d711aa6488",
       "source": "Sky Sports",
-      "headline": "Kane praises 'amazing defending' in nine-goal CL classic - but Rooney disagrees",
-      "description": "Harry Kane labelled the defending in Bayern Munich's 5-4 Champions League semi-final first leg defeat at PSG as \"amazing\" - but Wayne Rooney disagreed.",
-      "publishedAt": "2026-04-28T21:45:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-harry-kane-bayern-munich_7233675.jpg?20260428220721",
-      "link": "https://www.skysports.com/football/news/12040/13537833/psg-and-bayern-munich-champions-league-epic-harry-kane-wayne-rooney-and-jamie-carragher-have-their-say",
+      "headline": "Sky Sports Quiz: Which of these sporting stars is under 6ft tall?",
+      "description": "Warm up for an unmissable Big Weekend of sport on Sky Sports with our quiz!",
+      "publishedAt": "2026-04-29T07:00:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-big-weekend-wta-f1_7231223.jpg?20260426141950",
+      "link": "https://www.skysports.com/football/news/12040/13535331/sky-sports-big-weekend-quiz-premier-league-efl-wsl-formula-1-super-league-and-ipl-trivia-being-tested",
       "tag": "News Story",
       "teams": []
     },
@@ -20,17 +78,6 @@
       "publishedAt": "2026-04-28T21:00:00.000Z",
       "image": "https://e0.365dm.com/26/04/1920x1080/skysports-psg-bayern-munich_7233687.jpg?20260428222021",
       "link": "https://www.skysports.com/football/paris-saint-germain-vs-bayern-munich/report/554946",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "3109ba99f6ed1c555eacf0e9ef2b20e3",
-      "source": "Sky Sports",
-      "headline": "Ipswich comeback sends Southampton to play-offs as automatic race goes to final day",
-      "description": "Jack Clarke struck a late equaliser for Ipswich to end Southampton's automatic-promotion dream in an enthralling 2-2 draw, which will take the race for the Premier League to the final day.",
-      "publishedAt": "2026-04-28T20:30:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-ipswich-town-southampton_7233621.jpg?20260428211823",
-      "link": "https://www.skysports.com/football/southampton-vs-ipswich-town/report/534796",
       "tag": "Report",
       "teams": []
     },
@@ -127,17 +174,6 @@
       ]
     },
     {
-      "id": "7e796f1f6913d3a588723b32f0bc1413",
-      "source": "Sky Sports",
-      "headline": "Arsenal 'ready to make a statement' in quest for Champions League glory",
-      "description": "\"How can you not enjoy it?\" Martin Odegaard seemed almost affronted when asked if he and his Arsenal team-mates could find a way to enjoy the pressure of their trophy hunt ahead of their Champions League semi-final against Atletico Madrid.",
-      "publishedAt": "2026-04-28T14:50:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-mikel-arteta-arsenal_7233630.jpg?20260428212608",
-      "link": "https://www.skysports.com/football/news/12040/13537670/mikel-arteta-and-martin-odegaard-say-arsenal-are-ready-to-make-history-ahead-of-champions-league-semi-final-with-atletico-madrid",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48122272,
       "source": "ESPN",
       "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
@@ -148,21 +184,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48605674,
-      "source": "ESPN",
-      "headline": "Chelsea reach FA Cup final, another ref scandal for Serie A, more",
-      "description": "Chelsea advanced to the FA Cup final days after changing managers (again), but it's hardly proof of the club's \"project\" working. Plus: Is Serie A heading for another referee scandal, and can Arsenal hang on in the English title race?",
-      "publishedAt": "2026-04-28T13:26:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0427/r1649896_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48605674/chelsea-fa-cup-inter-milan-serie-referee-scandal-arsenal-premier-league-analysis-gab-marcotti",
-      "tag": "Internazionale",
-      "teams": [
-        "Internazionale",
-        "Chelsea",
-        "Arsenal"
       ]
     },
     {
@@ -398,20 +419,6 @@
       ]
     },
     {
-      "id": 48607751,
-      "source": "ESPN",
-      "headline": "PSG's Luis Enrique only coach to tick every box for Man United",
-      "description": "Manchester United have settled on two candidates for the permanent manager's job at Old Trafford: Michael Carrick or a unicorn.",
-      "publishedAt": "2026-04-27T15:51:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0427/r1649891_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48607751/paris-saint-germain-coach-luis-enrique-tick-every-box-manchester-united-michael-carrick",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
       "id": 48609910,
       "source": "ESPN",
       "headline": "Ogden: Why Luis Enrique is Man United's 'unicorn' option",
@@ -436,38 +443,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 48608216,
-      "source": "ESPN",
-      "headline": "Gab & Juls can't believe VAR missed a penalty for Everton vs. West Ham",
-      "description": "Gab Marcotti and Julien Laurens criticise Premier League officiating after appearing to miss a handball call against West Ham's Mateus Fernandes against Everton.",
-      "publishedAt": "2026-04-27T12:16:44Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0427/dm_260427_Gab_Juls_cant_believe_VAR_missed_a_penalty_for_Everton_vs_West_Ham/dm_260427_Gab_Juls_cant_believe_VAR_missed_a_penalty_for_Everton_vs_West_Ham.jpg",
-      "link": "https://www.espn.com/video/clip?id=48608216",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48607960,
-      "source": "ESPN",
-      "headline": "Laurens questions why Spurs' Simons attempted to run off an ACL injury",
-      "description": "Julien Laurens feels for Tottenham's Xavi Simons, who will miss the end of the season and the World Cup with an ACL injury.",
-      "publishedAt": "2026-04-27T11:17:09Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0427/dm_260427_Laurens_questions_why_Spurs_Simons_attempted_to_run_off_an_ACL_injury/dm_260427_Laurens_questions_why_Spurs_Simons_attempted_to_run_off_an_ACL_injury.jpg",
-      "link": "https://www.espn.com/video/clip?id=48607960",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-04-29T04:01:35.204Z"
+    "cachedAt": "2026-04-29T08:32:10.705Z"
   }
 }
