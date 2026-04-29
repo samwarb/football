@@ -2,11 +2,134 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48625304,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Atlético ready to reject £130m for Álvarez",
+      "description": "Atlético Madrid are ready to turn down huge offers for Julián Álvarez. Plus, Barcelona eye Chelsea striker João Pedro. Transfer Talk has the latest.",
+      "publishedAt": "2026-04-29T13:05:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0211/r1613892_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48625304/transfer-rumors-news-atletico-madrid-ready-reject-130m-julian-alvarez",
+      "tag": "Atlético Madrid",
+      "teams": [
+        "Atlético Madrid",
+        "Arsenal",
+        "Barcelona",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": 48617299,
+      "source": "ESPN",
+      "headline": "What must happen for Man United to secure Champions League spot?",
+      "description": "Manchester United are on the verge of returning to the Champions League after a significant win over Brentford on Monday.",
+      "publishedAt": "2026-04-29T12:58:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48617299/what-happen-man-united-secure-champions-league-spot",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 47480434,
+      "source": "ESPN",
+      "headline": "Premier League players out of contract: Who could leave your team on a free this summer?",
+      "description": "ESPN takes a look at the players who are out of contract in 2026 across all 20 Premier League clubs.",
+      "publishedAt": "2026-04-29T12:57:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0308/r1625315_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/47480434/premier-league-players-contract-leave-your-team-free-summer",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Burnley",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "West Ham United",
+        "Wolverhampton",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 48122272,
+      "source": "ESPN",
+      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
+      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
+      "publishedAt": "2026-04-29T12:44:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48468717,
+      "source": "ESPN",
+      "headline": "Arsenal and Man City's remaining Premier League fixtures compared as title race hots up",
+      "description": "The Premier League title race is well and truly underway with Arsenal being chased down by Pep Guardiola's Manchester City in their hunt for a first top-flight trophy since 2004.",
+      "publishedAt": "2026-04-29T12:42:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48533691,
+      "source": "ESPN",
+      "headline": "Five times Arsenal have let the Premier League title slip away",
+      "description": "Arsenal's quest for their first Premier League title since the Invincibles' famous triumph in 2003-04 has recently taken a major dent.",
+      "publishedAt": "2026-04-29T12:25:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0419/r1646017_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48533691/panic-streets-london-previous-s-arsenal-let-premier-league-title-slip-away",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "772a049860623ed2f0954457111a400a",
+      "source": "Sky Sports",
+      "headline": "Where would PSG and Bayern finish in the Premier League?",
+      "description": "Sky Sports' writers assess where Paris Saint-Germain and Bayern Munich would finish in the Premier League in the aftermath of their nine-goal thriller in the Champions League on Tuesday night.",
+      "publishedAt": "2026-04-29T12:00:00.000Z",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-premier-league-psg_7233947.jpg?20260429095237",
+      "link": "https://www.skysports.com/football/news/12040/13537914/psg-and-bayern-where-would-both-teams-finish-in-the-premier-league-after-nine-goal-thriller-in-europe",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "fa6fd980ef871d7845965460a86a7562",
+      "source": "Sky Sports",
+      "headline": "EFL final day live on Sky: What's still to play for?",
+      "description": "Ipswich, Millwall and Middlesbrough can still reach the Premier League, while Wrexham, Hull and Derby have hopes of getting into the Championship play-offs.",
+      "publishedAt": "2026-04-29T10:30:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-efl-championship_7234186.jpg?20260429132603",
+      "link": "https://www.skysports.com/football/news/12040/13537951/a-place-in-the-pl-a-title-promotions-relegations-its-all-to-play-for-on-efl-final-day-with-every-game-live-on-sky",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48618513,
       "source": "ESPN",
       "headline": "Kerkez's debut Liverpool season: 'I know what I can do and why I am here'",
       "description": "Milos Kerkez sits down with ESPN to reflect on his debut season at Liverpool, including his close friendship with departing legend Mohamed Salah.",
-      "publishedAt": "2026-04-29T08:25:59Z",
+      "publishedAt": "2026-04-29T08:51:40Z",
       "image": "https://a.espncdn.com/photo/2026/0428/r1650405_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48618513/milos-kerkez-interview-debut-liverpool-season-mohamed-salah-bromance-media-criticism",
       "tag": "Liverpool",
@@ -30,22 +153,6 @@
       ]
     },
     {
-      "id": 48625304,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Atlético ready to reject £130m for Álvarez",
-      "description": "Atlético Madrid are ready to turn down huge offers for Julián Álvarez. Plus, Barcelona eye Chelsea striker João Pedro. Transfer Talk has the latest.",
-      "publishedAt": "2026-04-29T07:57:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0211/r1613892_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48625304/transfer-rumors-news-atletico-madrid-ready-reject-130m-julian-alvarez",
-      "tag": "Atlético Madrid",
-      "teams": [
-        "Atlético Madrid",
-        "Arsenal",
-        "Barcelona",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
       "id": 48618699,
       "source": "ESPN",
       "headline": "The earliest dates Arsenal or Man City could win the Premier League title",
@@ -58,28 +165,6 @@
         "Arsenal",
         "Manchester City"
       ]
-    },
-    {
-      "id": "fce2944ca4677af5ee8385d711aa6488",
-      "source": "Sky Sports",
-      "headline": "Sky Sports Quiz: Which of these sporting stars is under 6ft tall?",
-      "description": "Warm up for an unmissable Big Weekend of sport on Sky Sports with our quiz!",
-      "publishedAt": "2026-04-29T07:00:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-big-weekend-wta-f1_7231223.jpg?20260426141950",
-      "link": "https://www.skysports.com/football/news/12040/13535331/sky-sports-big-weekend-quiz-premier-league-efl-wsl-formula-1-super-league-and-ipl-trivia-being-tested",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e743ba7b7ace790b4997190523db4c72",
-      "source": "Sky Sports",
-      "headline": "Utterly ridiculous! PSG beat Bayern in NINE-goal Champions League epic",
-      "description": "A nine-goal Champions League classic saw holders PSG sensationally beat Bayern Munich 5-4 in the first leg of their semi-final in Paris.",
-      "publishedAt": "2026-04-28T21:00:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-psg-bayern-munich_7233687.jpg?20260428222021",
-      "link": "https://www.skysports.com/football/paris-saint-germain-vs-bayern-munich/report/554946",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 48619829,
@@ -134,20 +219,6 @@
       "teams": []
     },
     {
-      "id": 48468717,
-      "source": "ESPN",
-      "headline": "Arsenal and Man City's remaining Premier League fixtures compared as title race hots up",
-      "description": "The Premier League title race is well and truly underway with Arsenal being chased down by Pep Guardiola's Manchester City in their hunt for a first top-flight trophy since 2004.",
-      "publishedAt": "2026-04-28T16:26:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48608647,
       "source": "ESPN",
       "headline": "What would have happened if Liverpool didn't sign Mo Salah?",
@@ -171,32 +242,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 48122272,
-      "source": "ESPN",
-      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
-      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
-      "publishedAt": "2026-04-28T14:42:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48617299,
-      "source": "ESPN",
-      "headline": "What must happen for Man United to secure Champions League spot?",
-      "description": "Manchester United are on the verge of returning to the Champions League after a significant win over Brentford on Monday.",
-      "publishedAt": "2026-04-28T12:55:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48617299/what-happen-man-united-secure-champions-league-spot",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
       ]
     },
     {
@@ -250,51 +295,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 47480434,
-      "source": "ESPN",
-      "headline": "Premier League players out of contract: Who could leave your team on a free this summer?",
-      "description": "ESPN takes a look at the players who are out of contract in 2026 across all 20 Premier League clubs.",
-      "publishedAt": "2026-04-28T06:39:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0308/r1625315_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/47480434/premier-league-players-contract-leave-your-team-free-summer",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Burnley",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "West Ham United",
-        "Wolverhampton",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 48533691,
-      "source": "ESPN",
-      "headline": "Five times Arsenal have let the Premier League title slip away",
-      "description": "Arsenal's quest for their first Premier League title since the Invincibles' famous triumph in 2003-04 has recently taken a major dent.",
-      "publishedAt": "2026-04-28T06:35:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0419/r1646017_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48533691/panic-streets-london-previous-s-arsenal-let-premier-league-title-slip-away",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
       ]
     },
     {
@@ -448,6 +448,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-04-29T08:32:10.705Z"
+    "cachedAt": "2026-04-29T14:29:43.778Z"
   }
 }
