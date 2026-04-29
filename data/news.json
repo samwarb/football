@@ -2,6 +2,78 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48629924,
+      "source": "ESPN",
+      "headline": "Nottingham Forest's Vitor Pereira keen to 'emulate' European Cup-winning Brian Clough",
+      "description": "Nottingham Forest boss Vitor Pereira has said he does not want a statue in the city centre, but hopes to emulate Brian Clough by bringing European glory to the City Ground.",
+      "publishedAt": "2026-04-29T19:39:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1651087_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48629924/nottingham-forest-vitor-pereira-emulate-european-cup-winning-brian-clough",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": "74af0d604e4a4a78f5c95185384e70d6",
+      "source": "Sky Sports",
+      "headline": "Howson to be first black FA Cup final official",
+      "description": "Akil Howson is set to become the first black official at an FA Cup final in the competition's 154-year history.",
+      "publishedAt": "2026-04-29T19:05:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-akil-howson-referee_7234550.jpg?20260429201355",
+      "link": "https://www.skysports.com/football/news/12040/13538176/akil-howson-set-to-become-first-black-official-at-an-fa-cup-final-as-referee-line-up-confirmed",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48628689,
+      "source": "ESPN",
+      "headline": "Mohamed Salah to return before end of season for Liverpool farewell",
+      "description": "Mohamed Salah is expected to return to action before Liverpool's final game of the season, the club have said.",
+      "publishedAt": "2026-04-29T19:01:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0427/r1649953_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48628689/mohamed-salah-liverpool-injury-minor-muscle-premier-league-return",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48627978,
+      "source": "ESPN",
+      "headline": "Are Newcastle really in danger of being relegated from Premier League this season?",
+      "description": "Newcastle's poor run of form, and the results of their nearest rivals, has them in danger of getting sucked into the relegation conversation - are they safe from the drop?",
+      "publishedAt": "2026-04-29T17:33:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1650980_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48627978/could-newcastle-united-get-dragged-relegation-battle-premier-league-championship",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "909be2f64eb90988d02dcfb2f683bdf5",
+      "source": "Sky Sports",
+      "headline": "Salah expected to return for Liverpool before end of season",
+      "description": "Mohamed Salah is expected to return for Liverpool before the end of the season after suffering a \"minor\" muscle injury, the club has confirmed.",
+      "publishedAt": "2026-04-29T17:15:00.000Z",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-salah-mo-salah-liverpool_7231953.jpg?20260427111417",
+      "link": "https://www.skysports.com/football/news/12040/13537091/mohamed-salah-liverpool-forward-expected-to-return-before-end-of-season-after-sustaining-minor-muscle-injury",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "727f89dd24cc0f09dd2ceb8693a8a79d",
+      "source": "Sky Sports",
+      "headline": "Gyokeres blasts in a penalty to give Arsenal lead in Madrid LIVE!",
+      "description": "",
+      "publishedAt": "2026-04-29T17:15:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-arsenal-atletico_7234582.jpg?20260429204215",
+      "link": "https://www.skysports.com/football/atletico-madrid-vs-arsenal/live/554947",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48625304,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Atlético ready to reject £130m for Álvarez",
@@ -101,28 +173,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "772a049860623ed2f0954457111a400a",
-      "source": "Sky Sports",
-      "headline": "Where would PSG and Bayern finish in the Premier League?",
-      "description": "Sky Sports' writers assess where Paris Saint-Germain and Bayern Munich would finish in the Premier League in the aftermath of their nine-goal thriller in the Champions League on Tuesday night.",
-      "publishedAt": "2026-04-29T12:00:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-premier-league-psg_7233947.jpg?20260429095237",
-      "link": "https://www.skysports.com/football/news/12040/13537914/psg-and-bayern-where-would-both-teams-finish-in-the-premier-league-after-nine-goal-thriller-in-europe",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "fa6fd980ef871d7845965460a86a7562",
-      "source": "Sky Sports",
-      "headline": "EFL final day live on Sky: What's still to play for?",
-      "description": "Ipswich, Millwall and Middlesbrough can still reach the Premier League, while Wrexham, Hull and Derby have hopes of getting into the Championship play-offs.",
-      "publishedAt": "2026-04-29T10:30:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-efl-championship_7234186.jpg?20260429132603",
-      "link": "https://www.skysports.com/football/news/12040/13537951/a-place-in-the-pl-a-title-promotions-relegations-its-all-to-play-for-on-efl-final-day-with-every-game-live-on-sky",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48618513,
@@ -403,51 +453,11 @@
         "Manchester United",
         "Brentford"
       ]
-    },
-    {
-      "id": 48607188,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal keeping tabs on Madrid's Endrick",
-      "description": "Arsenal are among several clubs monitoring Real Madrid striker Endrick. Transfer Talk has the latest.",
-      "publishedAt": "2026-04-27T19:51:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0427/r1650071_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48607188/transfer-rumors-news-arsenal-barcelona-chelsea-liverpool-manchester-united-goal-season-ajax-mika-godts",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 48609910,
-      "source": "ESPN",
-      "headline": "Ogden: Why Luis Enrique is Man United's 'unicorn' option",
-      "description": "Mark Ogden explains why a manager like PSG's Luis Enrique would be an ideal successor to Michael Carrick at Manchester United",
-      "publishedAt": "2026-04-27T15:50:25Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0427/dm_260427_Ogden_Why_Luis_Enrique_is_Man_Uniteds_unicorn_option/dm_260427_Ogden_Why_Luis_Enrique_is_Man_Uniteds_unicorn_option.jpg",
-      "link": "https://www.espn.com/video/clip?id=48609910",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48609489,
-      "source": "ESPN",
-      "headline": "Ogden: Chelsea's players deserved a better coach than Rosenior",
-      "description": "Mark Ogden explains why he has sympathy for any player wishing to leave Chelsea after the sacking of Liam Rosenior.",
-      "publishedAt": "2026-04-27T15:03:59Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0427/dm_260427_COM_SOC_Analysis_Ogden_Chelseas_players_deserved_a_better_coach_than_Rosenior_20260427_GLOBAL/dm_260427_COM_SOC_Analysis_Ogden_Chelseas_players_deserved_a_better_coach_than_Rosenior_20260427_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip?id=48609489",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-04-29T14:29:43.778Z"
+    "cachedAt": "2026-04-29T19:52:36.681Z"
   }
 }
