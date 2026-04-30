@@ -1661,7 +1661,7 @@
           "id": "2267419",
           "round": 35,
           "date": "2026-05-01",
-          "time": "15:30:00",
+          "time": "20:00:00",
           "venue": "Elland Road",
           "status": "Not Started",
           "played": false,
@@ -3830,7 +3830,7 @@
       "id": "2267419",
       "round": 35,
       "date": "2026-05-01",
-      "time": "15:30:00",
+      "time": "20:00:00",
       "venue": "Elland Road",
       "status": "Not Started",
       "played": false,
@@ -4370,6 +4370,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-04-30T08:35:39.283Z"
+    "cachedAt": "2026-04-30T14:23:07.621Z"
   }
 }
