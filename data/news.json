@@ -2,6 +2,42 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48635458,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Rafael Leão could join Man United in player swap",
+      "description": "AC Milan forward Rafael Leão could move to Manchester United in a deal that sees a player move in the other direction. Transfer Talk has the latest.",
+      "publishedAt": "2026-04-30T08:05:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0430/r1651360_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48635458/transfer-rumors-news-ac-milan-rafael-leao-manchester-united-player-swap",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "AC Milan"
+      ]
+    },
+    {
+      "id": "3bb2bc98768cbc47e5cb2787c9c8f391",
+      "source": "Sky Sports",
+      "headline": "Real Madrid president Perez keen on Mourinho reunion but no approach made",
+      "description": "Club president Florentino Perez is thought to be keen on Jose Mourinho returning to Real Madrid but Sky Sports News understands no approach has been made for the Portuguese manager.",
+      "publishedAt": "2026-04-30T07:17:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-jose-mourinho-benfica_7233126.jpg?20260428130209",
+      "link": "https://www.skysports.com/football/news/12040/13538293/jose-mourinho-real-madrid-president-florentino-perez-keen-on-reunion-with-former-boss-but-no-approach-yet",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "f230e40921bfe0bc8b7524a3c3a1f049",
+      "source": "Sky Sports",
+      "headline": "UEFA releases statement on Arsenal penalty decision as Dermot delivers verdict",
+      "description": "UEFA has released a statement to explain why Arsenal had a late penalty overturned in their Champions League semi-final first leg at Atletico Madrid.",
+      "publishedAt": "2026-04-30T06:18:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-eberechi-eze-hancko_7234713.jpg?20260429225044",
+      "link": "https://www.skysports.com/football/news/12040/13538277/arsenals-eberechi-eze-denied-penalty-at-atletico-madrid-uefa-releases-statement-to-explain-var-intervention",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48631838,
       "source": "ESPN",
       "headline": "VAR review: Should Arsenal have gotten second penalty vs. Atleti?",
@@ -28,17 +64,6 @@
         "Barcelona",
         "Chelsea"
       ]
-    },
-    {
-      "id": "b0b81fe0dbabb465f581a231e9644c79",
-      "source": "Sky Sports",
-      "headline": "'Completely unacceptable' - Arteta slams Eze penalty decision",
-      "description": "Mikel Arteta called the decision to overturn a penalty awarded to Eberechi Eze as \"completely unacceptable\" after his Arsenal side were pegged back to draw 1-1 in the first leg of their Champions League semi-final with Atletico Madrid.",
-      "publishedAt": "2026-04-29T22:00:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-eberechi-eze-hancko_7234713.jpg?20260429225044",
-      "link": "https://www.skysports.com/football/news/12040/13537145/arsenal-mikel-arteta-slams-completely-unacceptable-decision-to-overturn-penalty-awarded-to-eberechi-eze-in-champions-league-semi-final-at-atletico-madrid",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48533691,
@@ -73,19 +98,8 @@
       "headline": "Penalty drama reigns as Arsenal draw with Atletico Madrid",
       "description": "Mikel Arteta was left fuming after Arsenal had a penalty controversially overturned following a VAR check in a pulsating 1-1 draw with Atletico Madrid in their Champions League semi-final first leg.",
       "publishedAt": "2026-04-29T21:05:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-eberechi-eze-david-hancko_7234648.jpg?20260429214700",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-viktor-gyokeres-goal_7234602.jpg?20260429211150",
       "link": "https://www.skysports.com/football/atletico-madrid-vs-arsenal/report/554947",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "cae9d977be0fece76cc1e500b79c10af",
-      "source": "Sky Sports",
-      "headline": "Arsenal hit SEVEN past Leicester to fire WSL title warning at Man City",
-      "description": "Arsenal sent an emphatic warning to leaders Manchester City that the Women's Super League title race is far from over with a thumping 7-0 win over bottom-side Leicester at the Emirates Stadium.",
-      "publishedAt": "2026-04-29T20:00:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-leah-williamson-arsenal_7234579.jpg?20260429204037",
-      "link": "https://www.skysports.com/football/arsenal-women-vs-leicester-city-women/report/545682",
       "tag": "Report",
       "teams": []
     },
@@ -101,17 +115,6 @@
       "teams": [
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": "74af0d604e4a4a78f5c95185384e70d6",
-      "source": "Sky Sports",
-      "headline": "Howson to be first black FA Cup final official",
-      "description": "Akil Howson is set to become the first black official at an FA Cup final in the competition's 154-year history.",
-      "publishedAt": "2026-04-29T19:05:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-akil-howson-referee_7234550.jpg?20260429201355",
-      "link": "https://www.skysports.com/football/news/12040/13538176/akil-howson-set-to-become-first-black-official-at-an-fa-cup-final-as-referee-line-up-confirmed",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48628689,
@@ -138,6 +141,17 @@
       "teams": [
         "Newcastle United"
       ]
+    },
+    {
+      "id": "f8ff7fa6b505b206bf7444e0ea7a7437",
+      "source": "Sky Sports",
+      "headline": "Watch out Billam-Smith! | Rozicki brings MASSIVE KO power",
+      "description": "Watch Ryan Rozicki's most explosive knockouts ahead of his Bournemouth showdown with Chris Billam-Smith on Saturday 6th June.",
+      "publishedAt": "2026-04-29T14:30:00.000Z",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-ryan-rozicki-knockouts_7232288.jpg?20260427155739",
+      "link": "https://www.skysports.com/watch/video/13537141/watch-out-chris-billam-smith-ryan-rozicki-brings-massive-ko-power",
+      "tag": "Video",
+      "teams": []
     },
     {
       "id": 48617299,
@@ -448,25 +462,11 @@
       "teams": [
         "Fulham"
       ]
-    },
-    {
-      "id": 48612141,
-      "source": "ESPN",
-      "headline": "Phil Jones: Carrick should get Man United job full-time",
-      "description": "Speaking on ESPN FC, former Manchester United defender Phil Jones calls for interim manager Michael Carrick to be given the job permanently.",
-      "publishedAt": "2026-04-27T21:47:48Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0427/dm_260427_Phil_Jones_Carrick_should_get_Man_United_job_full_time/dm_260427_Phil_Jones_Carrick_should_get_Man_United_job_full_time.jpg",
-      "link": "https://www.espn.com/video/clip?id=48612141",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-04-30T04:02:27.541Z"
+    "cachedAt": "2026-04-30T08:35:38.875Z"
   }
 }
