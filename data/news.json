@@ -2,11 +2,153 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48646529,
+      "source": "ESPN",
+      "headline": "Arsenal's Mikel Arteta: Premier League should help teams competing in Europe",
+      "description": "Mikel Arteta has said the Premier League should provide more help to English teams in Europe but vowed Arsenal will learn from past lessons when facing Fulham.",
+      "publishedAt": "2026-05-01T13:51:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0425/r1649002_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48646529/arsenal-mikel-arteta-premier-league-help-teams-competing-europe",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48646256,
+      "source": "ESPN",
+      "headline": "Carrick: Man United vs. Liverpool still a standout game even if neither challenging for PL title",
+      "description": "Manchester United against Liverpool is still a \"stand out\" game in English football, according to Michael Carrick, despite neither team challenging for the title this season.",
+      "publishedAt": "2026-05-01T13:17:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0427/r1650155_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48646256/carrick-man-united-vs-liverpool-standout-game-even-challenging-pl-title",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48644968,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye West Ham left back",
+      "description": "Man United are keen on West Ham left back El Hadji Malick Diouf, while Liverpool line up a potential Mohamed Salah replacement. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-01T13:08:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0501/r1651824_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48644968/transfer-rumors-news-man-united-eye-west-ham-left-back",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48646232,
+      "source": "ESPN",
+      "headline": "Man City's Pep Guardiola on fixture congestion: 'It is what it is'",
+      "description": "Pep Guardiola has played down Manchester City's frustrations over fixture rescheduling during their domestic treble push.",
+      "publishedAt": "2026-05-01T13:04:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0201/r1608833_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48646232/man-city-pep-guardiola-fixture-congestion-it-is",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "c94813268c8ad5416aba9ec0df4fe071",
+      "source": "Sky Sports",
+      "headline": "Howe confident PIF remain committed to Newcastle after 'challenging conversations'",
+      "description": "Eddie Howe is convinced Newcastle’s Saudi backers remain firmly behind the club’s efforts to establish itself as one of the best in the world after \"challenging conversations\" with the owners this week.",
+      "publishedAt": "2026-05-01T12:18:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-yasir-al-rumayyan_7236084.jpg?20260501105916",
+      "link": "https://www.skysports.com/football/news/12040/13538820/newcastle-eddie-howe-confident-ambitious-saudi-backers-pif-remain-committed-to-club-after",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48645853,
+      "source": "ESPN",
+      "headline": "Tottenham's Antonín Kinsky: Atlético nightmare made me stronger",
+      "description": "Tottenham Hotspur goalkeeper Antonín Kinsky has said that he is a stronger player after enduring Champions League nightmare against Altético Madrid.",
+      "publishedAt": "2026-05-01T12:09:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0310/r1626421_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48645853/tottenham-spurs-premier-league-antonin-kinsky-atletico-nightmare-left-stronger",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48645764,
+      "source": "ESPN",
+      "headline": "Slot confirms Salah will return this season",
+      "description": "Arne Slot provides an update on Mohamed Salah's fitness after his injury against Crystal Palace.",
+      "publishedAt": "2026-05-01T11:43:29Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0501/dm_260501_COM_SOC_PRESSER_Slot_confirms_Salah_will_return_this_season_2026_5_1/dm_260501_COM_SOC_PRESSER_Slot_confirms_Salah_will_return_this_season_2026_5_1.jpg",
+      "link": "https://www.espn.com/video/clip?id=48645764",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "14a9db0ddb52707dd80b8309bc76be6d",
+      "source": "Sky Sports",
+      "headline": "Carrick vs Solskjaer: Whose audition went better after 13 PL games?",
+      "description": "Manchester United find themselves in a familiar scenario as they weigh up appointing Michael Carrick as head coach long-term, with eerie similarities to the route Ole Gunnar Solskjaer took to getting the job full-time.",
+      "publishedAt": "2026-05-01T11:30:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-manchester-united_7234277.jpg?20260429150114",
+      "link": "https://www.skysports.com/football/news/12040/13538375/man-utd-michael-carrick-and-ole-gunnar-solskjaers-auditions-compared-over-first-13-premier-league-games",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48640409,
+      "source": "ESPN",
+      "headline": "Darke: More twists to come in Arsenal, Man City title race",
+      "description": "Pep Guardiola and Man City are in better form, but Arsenal aren't out of the title race yet as Ian Darke predicts one or two more twists in the plot yet.",
+      "publishedAt": "2026-05-01T11:05:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0501/r1651826_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48640409/premier-league-title-race-arsenal-manchester-city-ian-darke-fixtures-analysis",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "350c30158bafef1ee1404c35a58a308d",
+      "source": "Sky Sports",
+      "headline": "Kinsky reflects on CL nightmare and explains Spurs' positivity in relegation battle",
+      "description": "Save of the season? It could save Spurs' season.",
+      "publishedAt": "2026-05-01T11:00:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-antonin-kinsky-tottenham_7235455.jpg?20260430172741",
+      "link": "https://www.skysports.com/football/news/12040/13538547/spurs-antonin-kinsky-on-premier-league-relegation-battle-bouncing-back-from-champions-league-nightmare-and-his-super-save-at-wolves",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48645463,
+      "source": "ESPN",
+      "headline": "Marco Silva calls on Fulham to stall Arsenal's title bid",
+      "description": "Marco Silva hopes Fulham can capitalise on potential nerves and anxiety inside Emirates Stadium during Saturday's visit to table-topping Arsenal.",
+      "publishedAt": "2026-05-01T10:36:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0501/r1651838_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48645463/marco-silva-fulham-arsenal-premier-league-title-race",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48644996,
       "source": "ESPN",
       "headline": "Man United exploring all permanent manager options with Michael Carrick leading race - sources",
       "description": "Manchester United are determined to explore all of their options before appointing their next permanent head coach despite caretaker boss Michael Carrick leading the race to get the job full-time, sources have told ESPN.",
-      "publishedAt": "2026-05-01T08:18:08Z",
+      "publishedAt": "2026-05-01T10:32:07Z",
       "image": "https://a.espncdn.com/photo/2026/0427/r1650143_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48644996/man-united-exploring-all-permanent-manager-options-michael-carrick-leading-race-sources",
       "tag": "Manchester United",
@@ -15,17 +157,40 @@
       ]
     },
     {
-      "id": 48644968,
+      "id": "ac266e282514645726c63778d8fbadba",
+      "source": "Sky Sports",
+      "headline": "McInnes: Hearts 'underdogs' for Rangers test | Röhl admits Tynecastle trip 'huge' in title race",
+      "description": "Come Monday night, the Scottish Premiership’s three-horse title race could lose a horse.",
+      "publishedAt": "2026-05-01T10:00:00.000Z",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-rohl-danny-hearts_7207158.jpg?20260330184238",
+      "link": "https://www.skysports.com/football/news/12040/13538829/hearts-vs-rangers-derek-mcinnes-insists-his-side-are-underdogs-as-danny-r246hl-admits-tynecastle-trip-is-huge-for-title-hopes",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48645277,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye West Ham left back",
-      "description": "Man United are keen on West Ham left back El Hadji Malick Diouf, while Liverpool line up a potential Mohamed Salah replacement. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-01T08:15:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0501/r1651824_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48644968/transfer-rumors-news-man-united-eye-west-ham-left-back",
-      "tag": "Manchester United",
+      "headline": "Wayne Rooney: Age has gotten to Mo Salah and Virgil van Dijk",
+      "description": "Wayne Rooney believes that Mohamed Salah and Virgil van Dijk are starting to succumb to father time, saying that \"age gets to us all\" in relation to the experienced Liverpool duo.",
+      "publishedAt": "2026-05-01T09:32:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0501/r1651834_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48645277/wayne-rooney-age-gotten-mo-salah-virgil-van-dijk-liverpool-vs-man-united",
+      "tag": "Liverpool",
       "teams": [
-        "Manchester United",
-        "West Ham United"
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48645192,
+      "source": "ESPN",
+      "headline": "Liverpool's Arne Slot relieved that Mohamed Salah will return before end of season",
+      "description": "Arne Slot has said it is a \"big relief\" that Mohamed Salah will be able to play for Liverpool again this season after scans revealed the forward's muscle injury is only minor.",
+      "publishedAt": "2026-05-01T09:03:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0501/r1651827_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48645192/liverpool-arne-slot-relieved-mohamed-salah-return-end-season",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
       ]
     },
     {
@@ -154,28 +319,6 @@
       ]
     },
     {
-      "id": "4ab9ebddb239a58a2e4f26b04fe5d6dd",
-      "source": "Sky Sports",
-      "headline": "Explained: Will UEFA ban Rice for comments after Atletico draw?",
-      "description": "Sky Sports' Dave Reed explains whether UEFA will ban Arsenal midfielder Declan Rice after his comments after the Atletico Madrid draw.",
-      "publishedAt": "2026-05-01T06:37:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-rice-uefa_7235979.jpg?20260501082341",
-      "link": "https://www.skysports.com/watch/video/13538758/explained-will-uefa-ban-declan-rice-for-comments-after-atletico-draw",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "875246faa61e7c02571883c80acd4387",
-      "source": "Sky Sports",
-      "headline": "Papers: Carrick favourite for Man Utd job amid Iraola links",
-      "description": "The top stories and transfer rumours from Friday's newspapers...",
-      "publishedAt": "2026-04-30T22:26:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13538684/michael-carrick-favourite-to-become-permanent-man-utd-head-coach-amid-andoni-iraola-links-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48635458,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Barcelona eye move for Romero",
@@ -188,17 +331,6 @@
         "Tottenham Hotspur",
         "Barcelona"
       ]
-    },
-    {
-      "id": "c8b89edd0067313f3a52cd33556b00af",
-      "source": "Sky Sports",
-      "headline": "Wood penalty gives Forest slender semi-final lead over Villa after VAR drama",
-      "description": "Chris Wood's penalty for Nottingham Forest gives them a 1-0 advantage over Aston Villa following the first leg of their Europa League semi-final – after VAR drama at the City Ground.",
-      "publishedAt": "2026-04-30T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-chris-wood-forest_7235710.jpg?20260430213101",
-      "link": "https://www.skysports.com/football/nottingham-forest-vs-aston-villa/report/554960",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 48637733,
@@ -248,19 +380,6 @@
       "teams": [
         "Tottenham Hotspur",
         "United States"
-      ]
-    },
-    {
-      "id": 48628689,
-      "source": "ESPN",
-      "headline": "Mohamed Salah to return before end of season for Liverpool farewell",
-      "description": "Mohamed Salah is expected to return to action before Liverpool's final game of the season, the club have said.",
-      "publishedAt": "2026-04-30T16:32:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0427/r1649953_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48628689/mohamed-salah-liverpool-injury-minor-muscle-premier-league-return",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
       ]
     },
     {
@@ -323,6 +442,28 @@
       ]
     },
     {
+      "id": "4fe01f4e7775702064bc25f3585e9ea1",
+      "source": "Sky Sports",
+      "headline": "League One and Two final day! All the permutations",
+      "description": "",
+      "publishedAt": "2026-04-30T10:40:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-efl-league-one-league-two_7235993.jpg?20260501085009",
+      "link": "https://www.skysports.com/football/live-blog/12040/13538396/league-one-and-league-two-live-scores-match-updates-and-free-highlights-from-the-final-day-of-the-2025-26-season",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "211b1837475154e0c98878a5edab6746",
+      "source": "Sky Sports",
+      "headline": "Championship final day! All the permutations",
+      "description": "",
+      "publishedAt": "2026-04-30T10:32:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-efl-championship_7235994.jpg?20260501085043",
+      "link": "https://www.skysports.com/football/live-blog/12040/13538394/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48635868,
       "source": "ESPN",
       "headline": "Burnley, Scott Parker part ways after Premier League relegation",
@@ -347,120 +488,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 48631838,
-      "source": "ESPN",
-      "headline": "VAR review: Should Arsenal have gotten second penalty vs. Atleti?",
-      "description": "Both Arsenal and Atletico Madrid got penalties in the first leg of their UEFA Champions League semifinal tie, but were the Gunners unjustly denied a second one?",
-      "publishedAt": "2026-04-29T23:54:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1651188_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48631838/var-review-arsenal-gotten-second-penalty-vs-atletico-madrid",
-      "tag": "Atlético Madrid",
-      "teams": [
-        "Atlético Madrid",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48625304,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona looking at move for João Pedro",
-      "description": "Barcelona are reportedly looking to reinforce their attack by signing Chelsea striker João Pedro. Transfer Talk has the latest.",
-      "publishedAt": "2026-04-29T22:17:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1651150_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48625304/transfer-rumors-news-atletico-madrid-ready-reject-130m-julian-alvarez",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48629924,
-      "source": "ESPN",
-      "headline": "Nottingham Forest's Vitor Pereira keen to 'emulate' European Cup-winning Brian Clough",
-      "description": "Nottingham Forest boss Vitor Pereira has said he does not want a statue in the city centre, but hopes to emulate Brian Clough by bringing European glory to the City Ground.",
-      "publishedAt": "2026-04-29T19:39:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1651087_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48629924/nottingham-forest-vitor-pereira-emulate-european-cup-winning-brian-clough",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 48618513,
-      "source": "ESPN",
-      "headline": "Kerkez's debut Liverpool season: 'I know what I can do and why I am here'",
-      "description": "Milos Kerkez sits down with ESPN to reflect on his debut season at Liverpool, including his close friendship with departing legend Mohamed Salah.",
-      "publishedAt": "2026-04-29T08:51:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650405_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48618513/milos-kerkez-interview-debut-liverpool-season-mohamed-salah-bromance-media-criticism",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Hungary"
-      ]
-    },
-    {
-      "id": 48618562,
-      "source": "ESPN",
-      "headline": "Milos Kerkez: Liverpool will miss Mohamed Salah's professionalism and experience",
-      "description": "ESPN FC's Beth Lindop sits down with Liverpool's Milos Kerkez to discuss his dramatic first season at the club and his close relationship with Mohamed Salah.",
-      "publishedAt": "2026-04-29T08:20:33Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0428/dm_260428_COM_SOC_Analysis_Milos_Kerkez3A_Liverpool_will_miss_Mohamed_SalahE28099s_professionalism_and_experience_/dm_260428_COM_SOC_Analysis_Milos_Kerkez3A_Liverpool_will_miss_Mohamed_SalahE28099s_professionalism_and_experience_.jpg",
-      "link": "https://www.espn.com/video/clip?id=48618562",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48619829,
-      "source": "ESPN",
-      "headline": "Martin Ødegaard urges Arsenal to revel in 'amazing position'",
-      "description": "Arsenal skipper Martin Ødegaard has said his side are ready to go a step further in the title race.",
-      "publishedAt": "2026-04-28T20:08:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650504_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48619829/martin-odegaard-urges-arsenal-revel-amazing-position-amid-race-two-major-trophies",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48619765,
-      "source": "ESPN",
-      "headline": "Ødegaard: Arsenal want to make history this season",
-      "description": "Martin Ødegaard believes Arsenal have improved since last year's Champions League semifinal elimination.",
-      "publishedAt": "2026-04-28T18:41:29Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0428/dm_260428_COM_SOC_Presser_Odegaard_Arsenal_want_to_make_history_in_this_season_20260428_GLOBAL/dm_260428_COM_SOC_Presser_Odegaard_Arsenal_want_to_make_history_in_this_season_20260428_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip?id=48619765",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Norway"
-      ]
-    },
-    {
-      "id": 48617838,
-      "source": "ESPN",
-      "headline": "Man City left frustrated by rescheduled fixtures amid title run-in - sources",
-      "description": "Manchester City have been left frustrated after being told by the Premier League they must play three games in seven days as they chase two trophies during a hectic end to the season.",
-      "publishedAt": "2026-04-28T14:59:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650402_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48617838/man-city-left-frustrated-premier-league-fixture-schedule-amid-title-run-in",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-01T08:24:23.347Z"
+    "cachedAt": "2026-05-01T13:53:24.341Z"
   }
 }
