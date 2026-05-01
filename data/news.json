@@ -2,6 +2,151 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48636666,
+      "source": "ESPN",
+      "headline": "Arsenal vs Fulham: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of Saturday's Premier League clash between Arsenal and Fulham.",
+      "publishedAt": "2026-05-01T18:08:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0328/r1635245_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48636666/arsenal-vs-fulham-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 48645853,
+      "source": "ESPN",
+      "headline": "Tottenham's Antonín Kinsky: Atlético nightmare made me stronger",
+      "description": "Tottenham Hotspur goalkeeper Antonín Kinsky has said that he is a stronger player after enduring Champions League nightmare against Altético Madrid.",
+      "publishedAt": "2026-05-01T17:36:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0310/r1626421_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48645853/tottenham-spurs-premier-league-antonin-kinsky-atletico-nightmare-left-stronger",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48647366,
+      "source": "ESPN",
+      "headline": "Aston Villa vs Tottenham in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "Everything you need to know about Aston Villa vs Tottenham in the Premier League, including key talking points.",
+      "publishedAt": "2026-05-01T16:53:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650326_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48647366/aston-villa-vs-tottenham-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": "536dc74b3206e240eaaa58315d4221de",
+      "source": "Sky Sports",
+      "headline": "How to watch Chelsea vs Nott'm Forest at 3pm on Monday",
+      "description": "Chelsea host Nottingham Forest at Stamford Bridge in the Premier League on Monday May 4, live on Sky Sports .",
+      "publishedAt": "2026-05-01T16:46:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-chelsea_7231808.jpg?20260427083016",
+      "link": "https://www.skysports.com/football/news/12040/13538963/watch-spurs-vs-arsenal-tv-channel-live-stream-now-tv-team-news-and-score-prediction",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "15f865a8a64f35c04e44ee4650560aba",
+      "source": "Sky Sports",
+      "headline": "Klopp, Haaland, TAA plus many more pay homage to 'legend' Salah",
+      "description": "Liverpool forward Mo Salah watches on as players and managers dedicate video messages in homage to his legendary craft.",
+      "publishedAt": "2026-05-01T16:35:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-football-salah_7236368.jpg?20260501174702",
+      "link": "https://www.skysports.com/watch/video/13538970/mo-salah-watches-players-and-managers-pay-homage-to-his-legendary-craft",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 48647709,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi urges the Tottenham players to block out the 'negatiivity'",
+      "description": "Tottenham head coach Roberto De Zerbi has urged his players to block out external negativity.",
+      "publishedAt": "2026-05-01T16:27:47Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0501/dm_260501_COM_SOC_Analysis_Roberto_De_Zerbi_urges_747/dm_260501_COM_SOC_Analysis_Roberto_De_Zerbi_urges_747.jpg",
+      "link": "https://www.espn.com/video/clip?id=48647709",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48647341,
+      "source": "ESPN",
+      "headline": "Callum McFarlane: Chelsea can still achieve Champions League football this season",
+      "description": "Chelsea Interim head coach Callum McFarlane believes his side still have many things to play for this season.",
+      "publishedAt": "2026-05-01T15:29:30Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0501/dm_260501_COM_SOC_Analysis_Callum_McFarlane3A_Chelsea_can_still_achieve_Champions_League_football_this_season/dm_260501_COM_SOC_Analysis_Callum_McFarlane3A_Chelsea_can_still_achieve_Champions_League_football_this_season.jpg",
+      "link": "https://www.espn.com/video/clip?id=48647341",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 48647330,
+      "source": "ESPN",
+      "headline": "Mikel Arteta: Arsenal fans need to be positive and behind the players vs. Fulham",
+      "description": "Arsenal manager Mikel Arteta believes home advantage will be key for them when they face Fulham in the Premier League.",
+      "publishedAt": "2026-05-01T15:24:23Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0501/dm_260501_COM_SOC_Analysis_Mikel_Arteta3A_Arsenal_fans_need_to_be_positive_and_behind_the_players_vs_Fulham_/dm_260501_COM_SOC_Analysis_Mikel_Arteta3A_Arsenal_fans_need_to_be_positive_and_behind_the_players_vs_Fulham_.jpg",
+      "link": "https://www.espn.com/video/clip?id=48647330",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 48647176,
+      "source": "ESPN",
+      "headline": "Calum McFarlane: Reece James and Levi Colwill closing in on Chelsea returns",
+      "description": "Reece James and Levi Colwill could return to Chelsea's squad for Monday's meeting with Nottingham Forest, interim head coach Calum McFarlane has revealed.",
+      "publishedAt": "2026-05-01T15:21:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0501/r1651896_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48647176/reece-james-levi-colwill-closing-chelsea-returns",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48646880,
+      "source": "ESPN",
+      "headline": "'I watched you' - Tottenham's Roberto De Zerbi challenges press negativity",
+      "description": "Roberto De Zerbi has warned Tottenham's relegation rivals not to count them out and promised there will be no crying at the club over more injury problems this season.",
+      "publishedAt": "2026-05-01T14:43:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0501/r1651885_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48646880/tottenham-roberto-de-zerbi-aston-villa-premier-league-relegation-battle",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48646883,
+      "source": "ESPN",
+      "headline": "Why Pep chose to watch Stockport County over PSG vs. Bayern Munich",
+      "description": "Pep Guardiola laughs in his press conference when asked about PSG's nine-goal thriller with Bayern Munich in the Champions League.",
+      "publishedAt": "2026-05-01T14:28:43Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0501/dm_260501_COM_SOC_PRESSER_Why_Pep_chose_to_watch_Stockport_County_over_PSG_vs_Bayern_Munich_2026_5_1/dm_260501_COM_SOC_PRESSER_Why_Pep_chose_to_watch_Stockport_County_over_PSG_vs_Bayern_Munich_2026_5_1.jpg",
+      "link": "https://www.espn.com/video/clip?id=48646883",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Manchester City"
+      ]
+    },
+    {
       "id": 48646529,
       "source": "ESPN",
       "headline": "Arsenal's Mikel Arteta: Premier League should help teams competing in Europe",
@@ -56,28 +201,15 @@
       ]
     },
     {
-      "id": "c94813268c8ad5416aba9ec0df4fe071",
+      "id": "bb6b5d766df72ea0de4434bebb915830",
       "source": "Sky Sports",
-      "headline": "Howe confident PIF remain committed to Newcastle after 'challenging conversations'",
-      "description": "Eddie Howe is convinced Newcastle’s Saudi backers remain firmly behind the club’s efforts to establish itself as one of the best in the world after \"challenging conversations\" with the owners this week.",
-      "publishedAt": "2026-05-01T12:18:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-yasir-al-rumayyan_7236084.jpg?20260501105916",
-      "link": "https://www.skysports.com/football/news/12040/13538820/newcastle-eddie-howe-confident-ambitious-saudi-backers-pif-remain-committed-to-club-after",
+      "headline": "Some Hibs fans want to LOSE to Celtic - why? | Gray & O'Neill have their say",
+      "description": "Would you want your team to lose if it helped to stop your rivals winning the league?",
+      "publishedAt": "2026-05-01T13:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-celtic-hibs_7236208.jpg?20260501142958",
+      "link": "https://www.skysports.com/football/news/12040/13538892/hibernian-vs-celtic-david-gray-and-martin-oneill-look-ahead-to-easter-road-clash-live-on-sky-sports",
       "tag": "News Story",
       "teams": []
-    },
-    {
-      "id": 48645853,
-      "source": "ESPN",
-      "headline": "Tottenham's Antonín Kinsky: Atlético nightmare made me stronger",
-      "description": "Tottenham Hotspur goalkeeper Antonín Kinsky has said that he is a stronger player after enduring Champions League nightmare against Altético Madrid.",
-      "publishedAt": "2026-05-01T12:09:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0310/r1626421_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48645853/tottenham-spurs-premier-league-antonin-kinsky-atletico-nightmare-left-stronger",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
     },
     {
       "id": 48645764,
@@ -92,17 +224,6 @@
         "Liverpool",
         "Manchester United"
       ]
-    },
-    {
-      "id": "14a9db0ddb52707dd80b8309bc76be6d",
-      "source": "Sky Sports",
-      "headline": "Carrick vs Solskjaer: Whose audition went better after 13 PL games?",
-      "description": "Manchester United find themselves in a familiar scenario as they weigh up appointing Michael Carrick as head coach long-term, with eerie similarities to the route Ole Gunnar Solskjaer took to getting the job full-time.",
-      "publishedAt": "2026-05-01T11:30:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-manchester-united_7234277.jpg?20260429150114",
-      "link": "https://www.skysports.com/football/news/12040/13538375/man-utd-michael-carrick-and-ole-gunnar-solskjaers-auditions-compared-over-first-13-premier-league-games",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48640409,
@@ -155,17 +276,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "ac266e282514645726c63778d8fbadba",
-      "source": "Sky Sports",
-      "headline": "McInnes: Hearts 'underdogs' for Rangers test | Röhl admits Tynecastle trip 'huge' in title race",
-      "description": "Come Monday night, the Scottish Premiership’s three-horse title race could lose a horse.",
-      "publishedAt": "2026-05-01T10:00:00.000Z",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-rohl-danny-hearts_7207158.jpg?20260330184238",
-      "link": "https://www.skysports.com/football/news/12040/13538829/hearts-vs-rangers-derek-mcinnes-insists-his-side-are-underdogs-as-danny-r246hl-admits-tynecastle-trip-is-huge-for-title-hopes",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48645277,
@@ -356,143 +466,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 48635876,
-      "source": "ESPN",
-      "headline": "Ashley Young, 40, announces retirement at the end of the season",
-      "description": "Ashley Young has announced his retirement at the end of the season, following a career that has spanned 23 years and included spells at Manchester United, Aston Villa, Inter Milan and Everton.",
-      "publishedAt": "2026-04-30T16:39:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0430/r1651367_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48635876/ashley-young-40-announces-retirement-end-season",
-      "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 48636024,
-      "source": "ESPN",
-      "headline": "Mauricio Pochettino: Tottenham downfall 'really sad'",
-      "description": "Former Tottenham manager Mauricio Pochettino has called the club's fall from grace 'really sad.'",
-      "publishedAt": "2026-04-30T16:37:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0430/r1651372_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48636024/mauricio-pochettino-tottenham-premier-league-downfall-really-sad",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "United States"
-      ]
-    },
-    {
-      "id": 48635856,
-      "source": "ESPN",
-      "headline": "How Premier League's sixth place could earn a Champions League spot",
-      "description": "Newcastle United are 14th in the Premier League but, remarkably, Eddie Howe's side and every team above them can still hope to play in the Champions League next season.",
-      "publishedAt": "2026-04-30T12:46:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0430/r1651366_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48635856/how-premier-league-sixth-place-earn-champions-league-spot",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Liverpool",
-        "Brighton & Hove Albion",
-        "AFC Bournemouth",
-        "Everton",
-        "Chelsea",
-        "Brentford",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 48636790,
-      "source": "ESPN",
-      "headline": "Marcotti: I'm glad Salah gets to say goodbye properly after injury scare",
-      "description": "Gab and Juls react to the news that Mohamed Salah will return from injury before the end of his last season at Liverpool.",
-      "publishedAt": "2026-04-30T12:45:35Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0430/dm_260430_Marcotti_Im_glad_Salah_gets_to_say_goodbye_properly_after_injury_scare/dm_260430_Marcotti_Im_glad_Salah_gets_to_say_goodbye_properly_after_injury_scare.jpg",
-      "link": "https://www.espn.com/video/clip?id=48636790",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48636780,
-      "source": "ESPN",
-      "headline": "Marcotti: Ex-United players screaming Carrick should get the job is not enough",
-      "description": "Gab Marcotti says there needs to be \"a proper review\" before any decision is taken over who is the next Manchester United Manager.",
-      "publishedAt": "2026-04-30T12:44:58Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0430/dm_260430_Marcotti_ExUnited_players_screaming_Carrick_should_get_the_job_is_not_enough/dm_260430_Marcotti_ExUnited_players_screaming_Carrick_should_get_the_job_is_not_enough.jpg",
-      "link": "https://www.espn.com/video/clip?id=48636780",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48636290,
-      "source": "ESPN",
-      "headline": "Kobbie Mainoo signs new Man United contract",
-      "description": "Kobbie Mainoo has signed a new contract to extend his stay at Manchester United, the club have confirmed.",
-      "publishedAt": "2026-04-30T11:17:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0318/r1630143_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48636290/kobbie-mainoo-signs-new-man-united-contract",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": "4fe01f4e7775702064bc25f3585e9ea1",
-      "source": "Sky Sports",
-      "headline": "League One and Two final day! All the permutations",
-      "description": "",
-      "publishedAt": "2026-04-30T10:40:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-efl-league-one-league-two_7235993.jpg?20260501085009",
-      "link": "https://www.skysports.com/football/live-blog/12040/13538396/league-one-and-league-two-live-scores-match-updates-and-free-highlights-from-the-final-day-of-the-2025-26-season",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "211b1837475154e0c98878a5edab6746",
-      "source": "Sky Sports",
-      "headline": "Championship final day! All the permutations",
-      "description": "",
-      "publishedAt": "2026-04-30T10:32:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-efl-championship_7235994.jpg?20260501085043",
-      "link": "https://www.skysports.com/football/live-blog/12040/13538394/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 48635868,
-      "source": "ESPN",
-      "headline": "Burnley, Scott Parker part ways after Premier League relegation",
-      "description": "Manager Scott Parker has left Burnley following their relegation from the Premier League, the club has confirmed.",
-      "publishedAt": "2026-04-30T09:33:15Z",
-      "image": "https://a.espncdn.com/photo/2025/1213/r1588935_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48635868/burnley-scott-parker-part-ways-premier-league-relegation",
-      "tag": "Burnley",
-      "teams": [
-        "Burnley"
-      ]
-    },
-    {
-      "id": 48635701,
-      "source": "ESPN",
-      "headline": "Mason Mount: Man United can challenge for Premier League title next season",
-      "description": "Mason Mount believes Manchester United boast the quality and mindset to challenge for the Premier League title next season.",
-      "publishedAt": "2026-04-30T08:47:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0430/r1651361_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48635701/mason-mount-man-united-challenge-premier-league-title-next-season",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-01T13:53:24.341Z"
+    "cachedAt": "2026-05-01T19:37:12.479Z"
   }
 }

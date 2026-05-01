@@ -1663,9 +1663,9 @@
           "date": "2026-05-01",
           "time": "20:00:00",
           "venue": "Elland Road",
-          "status": "Not Started",
-          "played": false,
-          "live": false,
+          "status": "1H",
+          "played": true,
+          "live": true,
           "home": {
             "slug": "leeds-united",
             "name": "Leeds United",
@@ -1679,8 +1679,8 @@
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
           },
           "tvChannels": []
         },
@@ -3832,9 +3832,9 @@
       "date": "2026-05-01",
       "time": "20:00:00",
       "venue": "Elland Road",
-      "status": "Not Started",
-      "played": false,
-      "live": false,
+      "status": "1H",
+      "played": true,
+      "live": true,
       "home": {
         "slug": "leeds-united",
         "name": "Leeds United",
@@ -3848,8 +3848,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "tvChannels": []
     },
@@ -4370,6 +4370,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-01T13:53:25.272Z"
+    "cachedAt": "2026-05-01T19:37:13.297Z"
   }
 }
