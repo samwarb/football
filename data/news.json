@@ -2,6 +2,53 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "875246faa61e7c02571883c80acd4387",
+      "source": "Sky Sports",
+      "headline": "Papers: Carrick favourite for Man Utd job amid Iraola links",
+      "description": "The top stories and transfer rumours from Friday's newspapers...",
+      "publishedAt": "2026-04-30T22:26:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13538684/michael-carrick-favourite-to-become-permanent-man-utd-head-coach-amid-andoni-iraola-links-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "7ccc4f595a5288b6d955880b39c0913c",
+      "source": "Sky Sports",
+      "headline": "'He could have broken his ankle!' - Emery fumes at VAR after Anderson avoids red",
+      "description": "Aston Villa head coach Unai Emery accused VAR of making a \"huge mistake\" in not recommending a red card for Elliot Anderson during his side's 1-0 Europa League semi-final first leg defeat to Nottingham Forest.",
+      "publishedAt": "2026-04-30T22:11:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-unai-emery-aston-villa_7235838.jpg?20260430230908",
+      "link": "https://www.skysports.com/football/news/12040/13538695/aston-villa-boss-unai-emery-fumes-at-var-for-huge-mistake-that-saw-forests-elliot-anderson-avoid-red-card-in-europa-league-semi-final",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48635458,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona eye move for Romero",
+      "description": "Cristian Romero could head to Barcelona next season with his future at Tottenham appearing uncertain. Transfer Talk has the latest.",
+      "publishedAt": "2026-04-30T21:26:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0430/r1651618_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48635458/transfer-rumors-news-ac-milan-rafael-leao-manchester-united-player-swap",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "6d7eb3eada664794bf71421310a91587",
+      "source": "Sky Sports",
+      "headline": "Wood penalty gives Forest slender semi-final lead after VAR drama",
+      "description": "Chris Wood's penalty for Nottingham Forest gives them a 1-0 advantage over Aston Villa following the first leg of their Europa League semi-final – after VAR drama at the City Ground.",
+      "publishedAt": "2026-04-30T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-chris-wood-forest_7235710.jpg?20260430213101",
+      "link": "https://www.skysports.com/football/nottingham-forest-vs-aston-villa/report/554960",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 48637733,
       "source": "ESPN",
       "headline": "Why can't Premier League, all soccer be fun like PSG vs. Bayern?",
@@ -16,17 +63,6 @@
       ]
     },
     {
-      "id": "6ef8f95424cac81aa7962ba5c2450620",
-      "source": "Sky Sports",
-      "headline": "Iran to play World Cup games in USA as planned insists FIFA president",
-      "description": "Iran will play their World Cup matches in the United States, FIFA president Gianni Infantino has insisted.",
-      "publishedAt": "2026-04-30T18:29:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-donald-trump-gianni-infantino_7234271.jpg?20260429145910",
-      "link": "https://www.skysports.com/football/news/12040/13538614/iran-to-play-world-cup-games-in-usa-as-planned-insists-fifa-president-gianni-infantino",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48109229,
       "source": "ESPN",
       "headline": "Tracking title races, relegation: Ronaldo nears Saudi trophy; when Barcelona can win LaLiga",
@@ -35,28 +71,6 @@
       "image": "https://a.espncdn.com/photo/2026/0421/r1647018_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "c9ce7e8873593c55ea182c84e57e3ee3",
-      "source": "Sky Sports",
-      "headline": "Palace take lead over Shakhtar Donetsk after 21 seconds LIVE!",
-      "description": "",
-      "publishedAt": "2026-04-30T17:40:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-ismaila-sarr-goal_7235634.jpg?20260430201547",
-      "link": "https://www.skysports.com/football/shakhtar-donetsk-vs-crystal-palace/live/554959",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "77991b1ff31833db1500b4272ef5b52f",
-      "source": "Sky Sports",
-      "headline": "Forest denied opener by amazing Martinez save for Villa LIVE!",
-      "description": "",
-      "publishedAt": "2026-04-30T17:30:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-europa-league-villa_7235629.jpg?20260430201139",
-      "link": "https://www.skysports.com/football/nottingham-forest-vs-aston-villa/live/554960",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -308,20 +322,6 @@
       ]
     },
     {
-      "id": 48635458,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Rafael Leão could join Man United in player swap",
-      "description": "AC Milan forward Rafael Leão could move to Manchester United in a deal that sees a player move in the other direction. Transfer Talk has the latest.",
-      "publishedAt": "2026-04-30T08:05:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0430/r1651360_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48635458/transfer-rumors-news-ac-milan-rafael-leao-manchester-united-player-swap",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "AC Milan"
-      ]
-    },
-    {
       "id": 48631838,
       "source": "ESPN",
       "headline": "VAR review: Should Arsenal have gotten second penalty vs. Atleti?",
@@ -461,6 +461,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-04-30T19:48:40.027Z"
+    "cachedAt": "2026-05-01T04:14:55.247Z"
   }
 }
