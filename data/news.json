@@ -2,6 +2,169 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48644996,
+      "source": "ESPN",
+      "headline": "Man United exploring all permanent manager options with Michael Carrick leading race - sources",
+      "description": "Manchester United are determined to explore all of their options before appointing their next permanent head coach despite caretaker boss Michael Carrick leading the race to get the job full-time, sources have told ESPN.",
+      "publishedAt": "2026-05-01T08:18:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0427/r1650143_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48644996/man-united-exploring-all-permanent-manager-options-michael-carrick-leading-race-sources",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48644968,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye West Ham left back",
+      "description": "Man United are keen on West Ham left back El Hadji Malick Diouf, while Liverpool line up a potential Mohamed Salah replacement. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-01T08:15:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0501/r1651824_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48644968/transfer-rumors-news-man-united-eye-west-ham-left-back",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48636841,
+      "source": "ESPN",
+      "headline": "Could Bruno Fernandes break long-standing Premier League assist record?",
+      "description": "Bruno Fernandes is on the verge of equalling the record for the most assists registered in a single Premier League season.",
+      "publishedAt": "2026-05-01T06:48:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0430/r1651391_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48636841/could-bruno-fernandes-break-long-standing-premier-league-assist-record",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48618699,
+      "source": "ESPN",
+      "headline": "The earliest dates Arsenal or Man City could win the Premier League title",
+      "description": "The Premier League title race between Manchester City and Arsenal is set to go right down to the wire. But when could either side win it earliest?",
+      "publishedAt": "2026-05-01T06:48:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0411/r1641940_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48618699/the-earliest-dates-arsenal-man-city-win-premier-league-title",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48627978,
+      "source": "ESPN",
+      "headline": "Are Newcastle really in danger of being relegated from Premier League this season?",
+      "description": "Newcastle's poor run of form, and the results of their nearest rivals, has them in danger of getting sucked into the relegation conversation - are they safe from the drop?",
+      "publishedAt": "2026-05-01T06:47:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1650980_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48627978/could-newcastle-united-get-dragged-relegation-battle-premier-league-championship",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 48617299,
+      "source": "ESPN",
+      "headline": "What must happen for Man United to secure Champions League spot?",
+      "description": "Manchester United are on the verge of returning to the Champions League after a significant win over Brentford on Monday.",
+      "publishedAt": "2026-05-01T06:46:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48617299/what-happen-man-united-secure-champions-league-spot",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 47480434,
+      "source": "ESPN",
+      "headline": "Premier League players out of contract: Who could leave your team on a free this summer?",
+      "description": "ESPN takes a look at the players who are out of contract in 2026 across all 20 Premier League clubs.",
+      "publishedAt": "2026-05-01T06:43:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0308/r1625315_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/47480434/premier-league-players-contract-leave-your-team-free-summer",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Burnley",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "West Ham United",
+        "Wolverhampton",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 48122272,
+      "source": "ESPN",
+      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
+      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
+      "publishedAt": "2026-05-01T06:42:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48468717,
+      "source": "ESPN",
+      "headline": "Arsenal and Man City's remaining Premier League fixtures compared as title race hots up",
+      "description": "The Premier League title race is well and truly underway with Arsenal being chased down by Pep Guardiola's Manchester City in their hunt for a first top-flight trophy since 2004.",
+      "publishedAt": "2026-05-01T06:42:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48533691,
+      "source": "ESPN",
+      "headline": "Five times Arsenal have let the Premier League title slip away",
+      "description": "Arsenal's quest for their first Premier League title since the Invincibles' famous triumph in 2003-04 has recently taken a major dent.",
+      "publishedAt": "2026-05-01T06:41:40Z",
+      "image": "https://a.espncdn.com/photo/2026/0419/r1646017_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48533691/panic-streets-london-previous-s-arsenal-let-premier-league-title-slip-away",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4ab9ebddb239a58a2e4f26b04fe5d6dd",
+      "source": "Sky Sports",
+      "headline": "Explained: Will UEFA ban Rice for comments after Atletico draw?",
+      "description": "Sky Sports' Dave Reed explains whether UEFA will ban Arsenal midfielder Declan Rice after his comments after the Atletico Madrid draw.",
+      "publishedAt": "2026-05-01T06:37:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-rice-uefa_7235979.jpg?20260501082341",
+      "link": "https://www.skysports.com/watch/video/13538758/explained-will-uefa-ban-declan-rice-for-comments-after-atletico-draw",
+      "tag": "Video",
+      "teams": []
+    },
+    {
       "id": "875246faa61e7c02571883c80acd4387",
       "source": "Sky Sports",
       "headline": "Papers: Carrick favourite for Man Utd job amid Iraola links",
@@ -9,17 +172,6 @@
       "publishedAt": "2026-04-30T22:26:00.000Z",
       "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
       "link": "https://www.skysports.com/football/news/12040/13538684/michael-carrick-favourite-to-become-permanent-man-utd-head-coach-amid-andoni-iraola-links-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "7ccc4f595a5288b6d955880b39c0913c",
-      "source": "Sky Sports",
-      "headline": "'He could have broken his ankle!' - Emery fumes at VAR after Anderson avoids red",
-      "description": "Aston Villa head coach Unai Emery accused VAR of making a \"huge mistake\" in not recommending a red card for Elliot Anderson during his side's 1-0 Europa League semi-final first leg defeat to Nottingham Forest.",
-      "publishedAt": "2026-04-30T22:11:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-unai-emery-aston-villa_7235838.jpg?20260430230908",
-      "link": "https://www.skysports.com/football/news/12040/13538695/aston-villa-boss-unai-emery-fumes-at-var-for-huge-mistake-that-saw-forests-elliot-anderson-avoid-red-card-in-europa-league-semi-final",
       "tag": "News Story",
       "teams": []
     },
@@ -38,9 +190,9 @@
       ]
     },
     {
-      "id": "6d7eb3eada664794bf71421310a91587",
+      "id": "c8b89edd0067313f3a52cd33556b00af",
       "source": "Sky Sports",
-      "headline": "Wood penalty gives Forest slender semi-final lead after VAR drama",
+      "headline": "Wood penalty gives Forest slender semi-final lead over Villa after VAR drama",
       "description": "Chris Wood's penalty for Nottingham Forest gives them a 1-0 advantage over Aston Villa following the first leg of their Europa League semi-final – after VAR drama at the City Ground.",
       "publishedAt": "2026-04-30T21:00:00.000Z",
       "image": "https://e1.365dm.com/26/04/1920x1080/skysports-chris-wood-forest_7235710.jpg?20260430213101",
@@ -109,131 +261,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": 48618699,
-      "source": "ESPN",
-      "headline": "The earliest dates Arsenal or Man City could win the Premier League title",
-      "description": "The Premier League title race between Manchester City and Arsenal is set to go right down to the wire. But when could either side win it earliest?",
-      "publishedAt": "2026-04-30T13:56:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0411/r1641940_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48618699/the-earliest-dates-arsenal-man-city-win-premier-league-title",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48627978,
-      "source": "ESPN",
-      "headline": "Are Newcastle really in danger of being relegated from Premier League this season?",
-      "description": "Newcastle's poor run of form, and the results of their nearest rivals, has them in danger of getting sucked into the relegation conversation - are they safe from the drop?",
-      "publishedAt": "2026-04-30T13:53:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1650980_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48627978/could-newcastle-united-get-dragged-relegation-battle-premier-league-championship",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 48617299,
-      "source": "ESPN",
-      "headline": "What must happen for Man United to secure Champions League spot?",
-      "description": "Manchester United are on the verge of returning to the Champions League after a significant win over Brentford on Monday.",
-      "publishedAt": "2026-04-30T13:50:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48617299/what-happen-man-united-secure-champions-league-spot",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 47480434,
-      "source": "ESPN",
-      "headline": "Premier League players out of contract: Who could leave your team on a free this summer?",
-      "description": "ESPN takes a look at the players who are out of contract in 2026 across all 20 Premier League clubs.",
-      "publishedAt": "2026-04-30T13:46:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0308/r1625315_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/47480434/premier-league-players-contract-leave-your-team-free-summer",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Burnley",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "West Ham United",
-        "Wolverhampton",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 48122272,
-      "source": "ESPN",
-      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
-      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
-      "publishedAt": "2026-04-30T13:40:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48468717,
-      "source": "ESPN",
-      "headline": "Arsenal and Man City's remaining Premier League fixtures compared as title race hots up",
-      "description": "The Premier League title race is well and truly underway with Arsenal being chased down by Pep Guardiola's Manchester City in their hunt for a first top-flight trophy since 2004.",
-      "publishedAt": "2026-04-30T13:37:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48533691,
-      "source": "ESPN",
-      "headline": "Five times Arsenal have let the Premier League title slip away",
-      "description": "Arsenal's quest for their first Premier League title since the Invincibles' famous triumph in 2003-04 has recently taken a major dent.",
-      "publishedAt": "2026-04-30T13:30:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0419/r1646017_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48533691/panic-streets-london-previous-s-arsenal-let-premier-league-title-slip-away",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48636841,
-      "source": "ESPN",
-      "headline": "Could Bruno Fernandes break long-standing Premier League assist record?",
-      "description": "Bruno Fernandes is on the verge of equalling the record for the most assists registered in a single Premier League season.",
-      "publishedAt": "2026-04-30T13:18:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0430/r1651391_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48636841/could-bruno-fernandes-break-long-standing-premier-league-assist-record",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
       ]
     },
     {
@@ -418,20 +445,6 @@
       ]
     },
     {
-      "id": 48617048,
-      "source": "ESPN",
-      "headline": "John Stones to leave Man City in the summer",
-      "description": "John Stones will leave Manchester City this summer, the club have announced.",
-      "publishedAt": "2026-04-28T16:50:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650346_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48617048/john-stones-leave-man-city-summer",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "England"
-      ]
-    },
-    {
       "id": 48617838,
       "source": "ESPN",
       "headline": "Man City left frustrated by rescheduled fixtures amid title run-in - sources",
@@ -443,24 +456,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 48616320,
-      "source": "ESPN",
-      "headline": "Tottenham injury list for relegation run-in: More ACL tears than home wins",
-      "description": "Tottenham Hotspur may have won their first Premier League game of 2026 over the weekend but it didn't come without a cost. They lost another two key players to injury.",
-      "publishedAt": "2026-04-28T11:23:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650326_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48616320/tottenham-injury-list-relegation-run-more-acl-tears-home-wins",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-01T04:14:55.247Z"
+    "cachedAt": "2026-05-01T08:24:23.347Z"
   }
 }
