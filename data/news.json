@@ -83,17 +83,6 @@
       "teams": []
     },
     {
-      "id": "8404b40e7e3b5f9f9c4a4dc7a7acf30d",
-      "source": "Sky Sports",
-      "headline": "Leeds as good as safe? Thumping Burnley win opens nine-point gap to drop",
-      "description": "Leeds pulled nine points clear of the relegation zone after beating lifeless Burnley 3-1 at Elland Road to take a huge step towards Premier League safety.",
-      "publishedAt": "2026-05-01T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-leeds-burnely_7236520.jpg?20260501212734",
-      "link": "https://www.skysports.com/football/leeds-united-vs-burnley/report/531475",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 48648925,
       "source": "ESPN",
       "headline": "Michael Carrick: Kobbie Mainoo has impressed me since I joined Man United",
@@ -175,17 +164,6 @@
         "Aston Villa",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "c19aa656a7aafcb158ce11d4d993d04a",
-      "source": "Sky Sports",
-      "headline": "Leeds and St Helens both win big to remain level at top of Super League",
-      "description": "Maika Sivo scored a hat-trick as Leeds Rhinos strengthened their position at the top of Super League with a 40-22 win over Wakefield Trinity at Headingley.",
-      "publishedAt": "2026-05-01T15:55:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-maika-sivo-leeds-rhinos_7236557.jpg?20260501222050",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13538946/super-league-leeds-rhinos-st-helens-win-big-over-wakefield-trinity-york-knights-to-remain-level-at-top-of-the-league",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48647341,
@@ -466,6 +444,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-02T03:49:37.482Z"
+    "cachedAt": "2026-05-02T07:58:53.879Z"
   }
 }
