@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "leeds united|burnley": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "arsenal|fulham": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -91,6 +87,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-01T19:37:12.695Z"
+    "cachedAt": "2026-05-02T03:49:37.782Z"
   }
 }
