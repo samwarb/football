@@ -2,15 +2,176 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "d2e77273ff131fb6e2807dfa1b337657",
+      "id": 48648138,
+      "source": "ESPN",
+      "headline": "Viktor Gyökeres' brace helps Arsenal to vital win over Fulham in title race",
+      "description": "Viktor Gyökeres scored twice as Arsenal sent out an emphatic Premier League title warning to Manchester City with a 3-0 victory against Fulham at the Emirates Stadium.",
+      "publishedAt": "2026-05-02T18:35:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0502/r1652436_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740936",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 48468717,
+      "source": "ESPN",
+      "headline": "Arsenal and Man City's remaining Premier League fixtures compared as title race hots up",
+      "description": "The Premier League title race is well and truly underway with Arsenal being chased down by Pep Guardiola's Manchester City in their hunt for a first top-flight trophy since 2004.",
+      "publishedAt": "2026-05-02T18:31:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "032642dbadc08f1fbc8b95f5628d32ae",
       "source": "Sky Sports",
-      "headline": "Hull complete comeback against Norwich to secure play-off spot",
-      "description": "Oli McBurnie scored twice as Hull came from behind to beat Norwich 2-1 and secure a spot in the Championship play offs.",
-      "publishedAt": "2026-05-02T13:35:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-efl-championship_7236913.jpg?20260502143329",
-      "link": "https://www.skysports.com/football/hull-city-vs-norwich-city/report/534862",
+      "headline": "Arsenal go six points clear as Saka and Gyokeres inspire win over Fulham",
+      "description": "Arsenal moved six points clear of Manchester City and boosted their goal difference with a dominant 3-0 win over Fulham.",
+      "publishedAt": "2026-05-02T18:30:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-viktor-gyokeres-arsenal_7237368.jpg?20260502174911",
+      "link": "https://www.skysports.com/football/arsenal-vs-fulham/report/531469",
       "tag": "Report",
       "teams": []
+    },
+    {
+      "id": 48628655,
+      "source": "ESPN",
+      "headline": "Nagelsmann to Man United? Matching top teams to new managers",
+      "description": "Several top Premier League clubs will be in the market for new managers this summer, but which moves actually make sense? We pick the best candidates for teams in the market right now.",
+      "publishedAt": "2026-05-02T18:29:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0502/r1652331_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48628655/manchester-united-manchester-city-julian-nagelsmann-newcastle-united-premier-league-coaching-changes",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Newcastle United",
+        "Crystal Palace",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48655135,
+      "source": "ESPN",
+      "headline": "Ipswich seal Premier League return with comfortable win on final day of Championship season",
+      "description": "Ipswich sealed promotion to the Premier League while Hull won the battle for the final playoff place on a dramatic final day of the Championship season.",
+      "publishedAt": "2026-05-02T18:27:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0502/r1652303_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48655135/ipswich-seal-premier-league-return-comfortable-win-final-day-championship-season",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 48122272,
+      "source": "ESPN",
+      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
+      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
+      "publishedAt": "2026-05-02T18:01:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48617299,
+      "source": "ESPN",
+      "headline": "What must happen for Man United to secure Champions League spot?",
+      "description": "Manchester United are on the verge of returning to the Champions League after Brighton's 3-1 loss to Newcastle on Saturday.",
+      "publishedAt": "2026-05-02T17:33:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48617299/what-happen-man-united-secure-champions-league-spot",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "31002a13745aac28153f13014ce71b76",
+      "source": "Sky Sports",
+      "headline": "Dundee edge closer to Scottish Premiership safety with St Mirren win",
+      "description": "Dundee secured a potentially priceless three points with a narrow 1-0 victory over St Mirren at Dens Park.",
+      "publishedAt": "2026-05-02T17:15:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-dundee-joe-westley_7237407.jpg?20260502181234",
+      "link": "https://www.skysports.com/football/dundee-vs-st-mirren/report/555736",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48648135,
+      "source": "ESPN",
+      "headline": "Dan Ballard sees red for hair pull as Sunderland draw with Wolves",
+      "description": "Sunderland had Dan Ballard sent off for hair pulling as their hopes of European football next season were dented by a 1-1 draw at already-relegated Wolves.",
+      "publishedAt": "2026-05-02T17:07:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0502/r1652369_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740945",
+      "tag": "Wolverhampton Wanderers",
+      "teams": [
+        "Wolverhampton Wanderers",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 48648132,
+      "source": "ESPN",
+      "headline": "Newcastle beat in-form Brighton to end five-game losing streak",
+      "description": "Newcastle snapped their four-game Premier League losing run with a 3-1 win over Brighton in front of their owners at St James' Park.",
+      "publishedAt": "2026-05-02T16:17:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0502/r1652304_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740944",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 48648127,
+      "source": "ESPN",
+      "headline": "Brentford boost Europe chances with West Ham win, opening door for Spurs",
+      "description": "West Ham's Premier League survival is no longer in their own hands after Brentford boosted their European bid with a 3-0 win.",
+      "publishedAt": "2026-05-02T16:13:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0502/r1652329_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740939",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "28c9108eb9bf3c253aa7acaed44c8de8",
+      "source": "Sky Sports",
+      "headline": "West Ham open door for Spurs with damaging defeat at Brentford",
+      "description": "West Ham have presented Tottenham with the opportunity to climb out of the Premier League relegation zone after suffering a damaging 3-0 defeat at Brentford.",
+      "publishedAt": "2026-05-02T16:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-west-ham_7237078.jpg?20260502154442",
+      "link": "https://www.skysports.com/football/brentford-vs-west-ham-united/report/531472",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48636666,
+      "source": "ESPN",
+      "headline": "Arsenal vs Fulham: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of Saturday's Premier League clash between Arsenal and Fulham.",
+      "publishedAt": "2026-05-02T15:58:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0328/r1635245_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48636666/arsenal-vs-fulham-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Fulham"
+      ]
     },
     {
       "id": 48653914,
@@ -25,61 +186,6 @@
         "Manchester City",
         "Everton"
       ]
-    },
-    {
-      "id": "242d2b8bd00cb8da63e371fc616d4b02",
-      "source": "Sky Sports",
-      "headline": "Ipswich promoted back to Premier League at first time of asking",
-      "description": "Ipswich have been promoted to the Premier League after a 3-0 win over QPR.",
-      "publishedAt": "2026-05-02T13:24:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ipswich-town_7236827.jpg?20260502133127",
-      "link": "https://www.skysports.com/football/ipswich-town-vs-queens-park-rangers/report/534863",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "757b358ba9157d6062991264b4bdcf6e",
-      "source": "Sky Sports",
-      "headline": "Man Utd's slim CL hopes dented again by WSL draw with Brighton",
-      "description": "Lea Schuller's first Women's Super League goal for Manchester United snatched a late point as Marc Skinner's side drew 1-1 with Brighton at Leigh Sports Village.",
-      "publishedAt": "2026-05-02T13:10:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-wsl-womens-super-league_7236855.jpg?20260502140206",
-      "link": "https://www.skysports.com/football/manchester-united-women-vs-brighton-and-hove-albion-women/report/545728",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "e59aaffde24a033bd4841dc65aea5a2b",
-      "source": "Sky Sports",
-      "headline": "Joelinton back for Newcastle as Brighton recall Welbeck LIVE!",
-      "description": "",
-      "publishedAt": "2026-05-02T12:30:00.000Z",
-      "image": "https://e2.365dm.com/25/12/1920x1080/skysports-newcastle-united_7122409.jpg?20251230194046",
-      "link": "https://www.skysports.com/football/newcastle-united-vs-brighton-and-hove-albion/live/531477",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "fba5a425b216d28338ceddba95f7e552",
-      "source": "Sky Sports",
-      "headline": "WCL: Super Diani finish sees Lyon ahead vs Arsenal LIVE!",
-      "description": "",
-      "publishedAt": "2026-05-02T12:25:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-womens-champions-league_7236900.jpg?20260502143127",
-      "link": "https://www.skysports.com/football/olympiques-lyon-women-vs-arsenal-women/live/551347",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "6aa53f002977dc28cbdbe8a5eb054c48",
-      "source": "Sky Sports",
-      "headline": "'Club is reborn' - Wednesday takeover completed and points deduction overturned",
-      "description": "US businessman David Storch has completed his takeover of Sheffield Wednesday and the EFL has waived the club's additional 15-point deduction.",
-      "publishedAt": "2026-05-02T11:30:00.000Z",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-hillsborough-sheffield-wednesday_7174846.jpg?20260225154312",
-      "link": "https://www.skysports.com/football/news/12040/13539108/sheffield-wednesday-david-storch-and-arise-capital-partners-consortium-complete-takeover",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48654081,
@@ -108,17 +214,6 @@
         "Chelsea",
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": "02066907ed55b0c594383f53e072e68a",
-      "source": "Sky Sports",
-      "headline": "Arteta: If you lose a match, they destroy you - you have to enjoy it",
-      "description": "Mikel Arteta has urged his Arsenal players to \"love\" the noise and the pressure of being in the Premier League and Champions League finales - as he believes his team can get \"very close\" to lifting a first top-flight title in 22 years by beating Fulham, live on Sky Sports .",
-      "publishedAt": "2026-05-02T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-arteta-saliba-arsenal_7229886.jpg?20260425091359",
-      "link": "https://www.skysports.com/football/news/12040/13538966/mikel-arteta-interview-arsenal-manager-urges-his-players-to-enjoy-final-weeks-of-the-season-with-premier-league-and-champions-league-title-races",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48653788,
@@ -188,19 +283,6 @@
       ]
     },
     {
-      "id": 48617299,
-      "source": "ESPN",
-      "headline": "What must happen for Man United to secure Champions League spot?",
-      "description": "Manchester United are on the verge of returning to the Champions League after a significant win over Brentford on Monday.",
-      "publishedAt": "2026-05-02T07:08:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48617299/what-happen-man-united-secure-champions-league-spot",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 47480434,
       "source": "ESPN",
       "headline": "Premier League players out of contract: Who could leave your team on a free this summer?",
@@ -230,33 +312,6 @@
         "Brentford",
         "Brighton & Hove Albion",
         "Fulham"
-      ]
-    },
-    {
-      "id": 48122272,
-      "source": "ESPN",
-      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
-      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
-      "publishedAt": "2026-05-02T07:07:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48468717,
-      "source": "ESPN",
-      "headline": "Arsenal and Man City's remaining Premier League fixtures compared as title race hots up",
-      "description": "The Premier League title race is well and truly underway with Arsenal being chased down by Pep Guardiola's Manchester City in their hunt for a first top-flight trophy since 2004.",
-      "publishedAt": "2026-05-02T07:06:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Arsenal"
       ]
     },
     {
@@ -330,19 +385,6 @@
       ]
     },
     {
-      "id": 48646529,
-      "source": "ESPN",
-      "headline": "Arsenal's Mikel Arteta: Premier League should help teams competing in Europe",
-      "description": "Mikel Arteta has said the Premier League should provide more help to English teams in Europe but vowed Arsenal will learn from past lessons when facing Fulham.",
-      "publishedAt": "2026-05-01T22:39:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0425/r1649002_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48646529/arsenal-mikel-arteta-premier-league-help-teams-competing-europe",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48648925,
       "source": "ESPN",
       "headline": "Michael Carrick: Kobbie Mainoo has impressed me since I joined Man United",
@@ -368,20 +410,6 @@
       "teams": [
         "Juventus",
         "Liverpool"
-      ]
-    },
-    {
-      "id": 48636666,
-      "source": "ESPN",
-      "headline": "Arsenal vs Fulham: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "All you need to know ahead of Saturday's Premier League clash between Arsenal and Fulham.",
-      "publishedAt": "2026-05-01T18:08:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0328/r1635245_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48636666/arsenal-vs-fulham-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Fulham"
       ]
     },
     {
@@ -439,89 +467,11 @@
         "Arsenal",
         "Fulham"
       ]
-    },
-    {
-      "id": 48647176,
-      "source": "ESPN",
-      "headline": "Calum McFarlane: Reece James and Levi Colwill closing in on Chelsea returns",
-      "description": "Reece James and Levi Colwill could return to Chelsea's squad for Monday's meeting with Nottingham Forest, interim head coach Calum McFarlane has revealed.",
-      "publishedAt": "2026-05-01T15:21:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0501/r1651896_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48647176/reece-james-levi-colwill-closing-chelsea-returns",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48646880,
-      "source": "ESPN",
-      "headline": "'I watched you' - Tottenham's Roberto De Zerbi challenges press negativity",
-      "description": "Roberto De Zerbi has warned Tottenham's relegation rivals not to count them out and promised there will be no crying at the club over more injury problems this season.",
-      "publishedAt": "2026-05-01T14:43:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0501/r1651885_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48646880/tottenham-roberto-de-zerbi-aston-villa-premier-league-relegation-battle",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48646883,
-      "source": "ESPN",
-      "headline": "Why Pep chose to watch Stockport County over PSG vs. Bayern Munich",
-      "description": "Pep Guardiola laughs in his press conference when asked about PSG's nine-goal thriller with Bayern Munich in the Champions League.",
-      "publishedAt": "2026-05-01T14:28:43Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0501/dm_260501_COM_SOC_PRESSER_Why_Pep_chose_to_watch_Stockport_County_over_PSG_vs_Bayern_Munich_2026_5_1/dm_260501_COM_SOC_PRESSER_Why_Pep_chose_to_watch_Stockport_County_over_PSG_vs_Bayern_Munich_2026_5_1.jpg",
-      "link": "https://www.espn.com/video/clip?id=48646883",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48646256,
-      "source": "ESPN",
-      "headline": "Carrick: Man United vs. Liverpool still a standout game even if neither challenging for PL title",
-      "description": "Manchester United against Liverpool is still a \"stand out\" game in English football, according to Michael Carrick, despite neither team challenging for the title this season.",
-      "publishedAt": "2026-05-01T13:17:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0427/r1650155_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48646256/carrick-man-united-vs-liverpool-standout-game-even-challenging-pl-title",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48646232,
-      "source": "ESPN",
-      "headline": "Man City's Pep Guardiola on fixture congestion: 'It is what it is'",
-      "description": "Pep Guardiola has played down Manchester City's frustrations over fixture rescheduling during their domestic treble push.",
-      "publishedAt": "2026-05-01T13:04:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0201/r1608833_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48646232/man-city-pep-guardiola-fixture-congestion-it-is",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "a2a251a89583a4088dc28eceaf1cbefc",
-      "source": "Sky Sports",
-      "headline": "Heaps dreaming of Lyonnes legacy as Arsenal showdown tees up fitting finale",
-      "description": "\"I hope I'm a role model. It's been very unusual for Americans to stay so long at a European club - I've seen so many in the past who found it hard.\"",
-      "publishedAt": "2026-05-01T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-lindsey-heaps-lyon_7236756.jpg?20260502113851",
-      "link": "https://www.skysports.com/football/news/12040/13538488/lindsey-heaps-uswnt-captain-dreaming-of-legacy-at-lyonnes-ahead-of-arsenal-champions-league-semi-final-showdown",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-02T13:46:51.404Z"
+    "cachedAt": "2026-05-02T19:16:17.834Z"
   }
 }
