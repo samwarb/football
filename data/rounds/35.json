@@ -143,9 +143,9 @@
       "date": "2026-05-03",
       "time": "19:00:00",
       "venue": "Villa Park",
-      "status": "Not Started",
-      "played": false,
-      "live": false,
+      "status": "2H",
+      "played": true,
+      "live": true,
       "home": {
         "slug": "aston-villa",
         "name": "Aston Villa",
@@ -159,8 +159,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "tvChannels": []
     },
@@ -170,9 +170,9 @@
       "date": "2026-05-03",
       "time": "14:00:00",
       "venue": "Vitality Stadium",
-      "status": "1H",
+      "status": "Match Finished",
       "played": true,
-      "live": true,
+      "live": false,
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -186,7 +186,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
       },
       "score": {
-        "home": 2,
+        "home": 3,
         "away": 0
       },
       "tvChannels": []
@@ -197,9 +197,9 @@
       "date": "2026-05-03",
       "time": "15:30:00",
       "venue": "Old Trafford",
-      "status": "Not Started",
-      "played": false,
-      "live": false,
+      "status": "2H",
+      "played": true,
+      "live": true,
       "home": {
         "slug": "manchester-united",
         "name": "Manchester United",
@@ -213,8 +213,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 2
       },
       "tvChannels": []
     },
@@ -275,6 +275,6 @@
   ],
   "meta": {
     "cache": "hit",
-    "cachedAt": "2026-05-03T13:47:54.428Z"
+    "cachedAt": "2026-05-03T19:16:54.828Z"
   }
 }

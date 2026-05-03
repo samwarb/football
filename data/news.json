@@ -2,44 +2,145 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "1a404684d83f501a695f22d0e596f9c4",
+      "id": 48666239,
+      "source": "ESPN",
+      "headline": "Fantasy Goal Assist? Why Bruno Fernandes didn't equal Premier League record against Liverpool",
+      "description": "Bruno Fernandes was given FPL points for his \"assist\" against Liverpool. So why hasn't he equalled the record?",
+      "publishedAt": "2026-05-03T19:05:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1652936_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48666239/fantasy-goal-assist-why-bruno-fernandes-equal-premier-league-record-liverpool",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48662874,
+      "source": "ESPN",
+      "headline": "Man United win over Liverpool seals Champions League return",
+      "description": "Kobbie Mainoo's winning goal secured Manchester United's return to the Champions League and left rivals Liverpool facing a nervy end to the season.",
+      "publishedAt": "2026-05-03T18:31:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1652869_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48662874/manchester-united-win-liverpool-seals-champions-league-return",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48666590,
+      "source": "ESPN",
+      "headline": "Michael Carrick on Man United's Champions League return: 'Feels natural'",
+      "description": "Michael Carrick said it \"feels natural\" to be Manchester United manager after guiding the club to Champions League qualification with victory over Liverpool.",
+      "publishedAt": "2026-05-03T18:29:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1652917_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48666590/michael-carrick-man-united-champions-league-return-feels-natural",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48663467,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Malen monitored by Chelsea, Man United",
+      "description": "Chelsea and Manchester United are among the clubs eyeing Aston Villa's Donyell Malen. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-03T18:18:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1652723_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48663467/transfer-rumors-news-donyell-malen-aston-villa-roma-chelsea-manchester-united",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester United",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 48665546,
+      "source": "ESPN",
+      "headline": "Sir Alex Ferguson left Man United vs. Liverpool after receiving medical attention - sources",
+      "description": "Sir Alex Ferguson left Old Trafford ahead of Manchester United's Premier League clash with Liverpool on Sunday after feeling unwell, sources told ESPN.",
+      "publishedAt": "2026-05-03T18:17:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1652818_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48665546/sir-alex-ferguson-leaves-man-united-vs-liverpool-receiving-medical-attention-sources",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "5c29edaabb0edc3c0839ad9468f2c4bb",
       "source": "Sky Sports",
-      "headline": "Knaak's late strike edges Man City closer to WSL title",
-      "description": "Rebecca Knaak's late strike saw Manchester City beat Liverpool 1-0 and take a step closer to the WSL title.",
-      "publishedAt": "2026-05-03T13:15:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-rebecca-knaak-wsl_7237966.jpg?20260503140420",
-      "link": "https://www.skysports.com/football/manchester-city-women-vs-liverpool-women/report/545727",
-      "tag": "Report",
+      "headline": "Carrick in 'pole position' as Man Utd boss passes another key audition",
+      "description": "Gary Neville believes Michael Carrick has put himself in pole position to become the next Man Utd manager after earning Champions League qualification with a 3-2 win over Liverpool.",
+      "publishedAt": "2026-05-03T18:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-michael-carrick_7238469.jpg?20260503193106",
+      "link": "https://www.skysports.com/football/news/12040/13539864/gary-neville-believes-michael-carrick-is-in-pole-position-for-man-utd-job-but-doesnt-believe-he-is-the-right-profile-for-the-role",
+      "tag": "News Story",
       "teams": []
     },
     {
-      "id": "fc306ba66411c30aece6b841ce6acaaa",
-      "source": "Sky Sports",
-      "headline": "Holdt's worldie secures three points for Spurs",
-      "description": "Highlights from Tottenham against London City Lionesses in the Women's Super League.",
-      "publishedAt": "2026-05-03T13:08:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-wsl_7237981.jpg?20260503141732",
-      "link": "https://www.skysports.com/watch/video/13539673/tottenham-2-1-london-city-lionesses-womens-super-league-highlights",
-      "tag": "Video",
-      "teams": []
+      "id": 48666987,
+      "source": "ESPN",
+      "headline": "Carrick: Return to Champions League a huge step for Man United",
+      "description": "Michael Carrick speaks after Man United's win over Liverpool confirmed their Champions League spot for next season.",
+      "publishedAt": "2026-05-03T17:56:56Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0503/dm_260503_COM_SOC_PRESSER_Carrick_Return_to_Champions_League_a_huge_step_for_Man_United_2026_5_3/dm_260503_COM_SOC_PRESSER_Carrick_Return_to_Champions_League_a_huge_step_for_Man_United_2026_5_3.jpg",
+      "link": "https://www.espn.com/video/clip?id=48666987",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester United"
+      ]
     },
     {
-      "id": "6c4e19bd5c455644c87960037a0877b6",
-      "source": "Sky Sports",
-      "headline": "Celtic move level with Hearts after win over 10-man Hibs",
-      "description": "Super-sub Kelechi Iheanacho was the hero for Celtic as the Hoops beat 10-man Hibernian to move level on points with league leaders Hearts.",
-      "publishedAt": "2026-05-03T13:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-celtic-iheanacho_7237967.jpg?20260503140653",
-      "link": "https://www.skysports.com/football/hibernian-vs-celtic/report/555739",
-      "tag": "Report",
-      "teams": []
+      "id": 48666481,
+      "source": "ESPN",
+      "headline": "Slot blames Liverpool loss to Man United on 'pattern' of bad calls",
+      "description": "Arne Slot said there is a \"complete pattern\" of decisions going against his Liverpool team this season after Manchester United inflicted a 3-2 defeat at OId Trafford with a handball on Benjamin Sesko's goal being overlooked by match officials.",
+      "publishedAt": "2026-05-03T17:48:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1652893_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48666481/slot-blames-liverpool-loss-man-united-pattern-bad-calls",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48666812,
+      "source": "ESPN",
+      "headline": "Nicol: Appointing Carrick permanently still a tough call for Man United",
+      "description": "Steve Nicol believes that questions remain over Michael Carrick's experience, despite progress as Manchester United F.C. interim manager.",
+      "publishedAt": "2026-05-03T17:40:58Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0503/dm_260503_COM_SOC_ANALYSIS_Nicol_Appointing_Carrick_permanently_still_a_tough_call_for_Man_United_2026_5_3/dm_260503_COM_SOC_ANALYSIS_Nicol_Appointing_Carrick_permanently_still_a_tough_call_for_Man_United_2026_5_3.jpg",
+      "link": "https://www.espn.com/video/clip?id=48666812",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48666807,
+      "source": "ESPN",
+      "headline": "Nicol: Liverpool defensively are a shambles",
+      "description": "Steve Nicol slams Liverpool's defensive display after their 3-2 defeat to Man United.",
+      "publishedAt": "2026-05-03T17:40:13Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0503/dm_260503_COM_SOC_ANALYSIS_Nicol_Liverpool_defensively_are_a_shambles_2026_5_3/dm_260503_COM_SOC_ANALYSIS_Nicol_Liverpool_defensively_are_a_shambles_2026_5_3.jpg",
+      "link": "https://www.espn.com/video/clip?id=48666807",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester United"
+      ]
     },
     {
       "id": 48647366,
       "source": "ESPN",
       "headline": "Aston Villa vs Tottenham in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
       "description": "Everything you need to know about Aston Villa vs Tottenham in the Premier League, including key talking points.",
-      "publishedAt": "2026-05-03T12:28:32Z",
+      "publishedAt": "2026-05-03T17:36:12Z",
       "image": "https://a.espncdn.com/photo/2026/0428/r1650326_608x342_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48647366/aston-villa-vs-tottenham-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
       "tag": "Tottenham Hotspur",
@@ -49,11 +150,50 @@
       ]
     },
     {
+      "id": 48648187,
+      "source": "ESPN",
+      "headline": "Man United hold off Liverpool fightback to qualify for Champions League",
+      "description": "Homegrown Manchester United star Kobbie Mainoo sealed a helter-skelter 3-2 victory against archrivals Liverpool, earning them Champions League qualification.",
+      "publishedAt": "2026-05-03T17:30:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1652850_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740943",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48666659,
+      "source": "ESPN",
+      "headline": "Slot: VAR decisions have gone against Liverpool all season",
+      "description": "Arne Slot hits out at VAR after Liverpool's 3-2 defeat against Manchester United in the Premier League.",
+      "publishedAt": "2026-05-03T17:27:00Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0503/dm_260503_COM_SOC_Analysis_Slot3A_VAR_decisions_have_gone_against_Liverpool_all_season_GLOBAL_2026-05-03/dm_260503_COM_SOC_Analysis_Slot3A_VAR_decisions_have_gone_against_Liverpool_all_season_GLOBAL_2026-05-03.jpg",
+      "link": "https://www.espn.com/video/clip?id=48666659",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "a0f4e5e41570efbeaf616223de36316b",
+      "source": "Sky Sports",
+      "headline": "How Mainoo seized centre stage after exile under 'nightmare' Amorim",
+      "description": "Kobbie Mainoo emphatically underlined his revival under Michael Carrick by slotting in Man Utd's winning goal against Liverpool on Sunday.",
+      "publishedAt": "2026-05-03T16:56:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kobbie-mainoo-manchester-united_7238265.jpg?20260503172257",
+      "link": "https://www.skysports.com/football/news/12040/13539820/manchester-united-kobbie-mainoo-stars-with-match-winning-goal-against-liverpool-after-nightmare-exile-under-ruben-amorim",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48647161,
       "source": "ESPN",
       "headline": "Manchester United vs. Liverpool in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
       "description": "Everything you need to know about Manchester United vs Liverpool in the Premier League, including five key talking points.",
-      "publishedAt": "2026-05-03T12:28:12Z",
+      "publishedAt": "2026-05-03T13:42:22Z",
       "image": "https://a.espncdn.com/photo/2026/0426/r1649701_608x342_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48647161/manchester-united-vs-liverpool-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
       "tag": "Liverpool",
@@ -203,56 +343,6 @@
       ]
     },
     {
-      "id": 48655135,
-      "source": "ESPN",
-      "headline": "Ipswich seal Premier League return with comfortable win on final day of Championship season",
-      "description": "Ipswich sealed promotion to the Premier League while Hull won the battle for the final playoff place on a dramatic final day of the Championship season.",
-      "publishedAt": "2026-05-03T11:59:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652303_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48655135/ipswich-seal-premier-league-return-comfortable-win-final-day-championship-season",
-      "tag": "Ipswich Town",
-      "teams": [
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 48663467,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Malen monitored by Chelsea, Man United",
-      "description": "Chelsea and Manchester United are among the clubs eyeing Aston Villa's Donyell Malen. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-03T11:35:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0503/r1652723_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48663467/transfer-rumors-news-donyell-malen-aston-villa-roma-chelsea-manchester-united",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester United",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": "b38e97dad632c9f5733ee48ae9ccc0f0",
-      "source": "Sky Sports",
-      "headline": "Celtic move level on points with Hearts thanks to super-sub Iheanacho LIVE!",
-      "description": "",
-      "publishedAt": "2026-05-03T10:30:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-kelechi-iheanacho_7237950.jpg?20260503134248",
-      "link": "https://www.skysports.com/football/hibernian-vs-celtic/live/555739",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "da62b7461c919195afa7126c28c1c6bb",
-      "source": "Sky Sports",
-      "headline": "WSL LIVE! Chelsea face Leicester after Man City beat Liverpool",
-      "description": "",
-      "publishedAt": "2026-05-03T10:05:00.000Z",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-wsl-womens-super-league_7199075.jpg?20260321133823",
-      "link": "https://www.skysports.com/football/leicester-city-women-vs-chelsea-women/live/545726",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48661411,
       "source": "ESPN",
       "headline": "Gyökeres' double lifts Gunners to vital win in title race",
@@ -358,139 +448,11 @@
         "Arsenal",
         "Fulham"
       ]
-    },
-    {
-      "id": 48658668,
-      "source": "ESPN",
-      "headline": "Can Man City catch Arsenal to win the Premier League title?",
-      "description": "ESPN FC's Shaka Hislop believes Arsenal are now the clear favourites to win the Premier League title after their 3-0 victory over Fulham.",
-      "publishedAt": "2026-05-02T19:22:37Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0502/dm_260502_COM_SOC_Analysis_Can_Man_City_catch_Arsenal_to_win_the_Premier_League_title3F_GLOBAL_2026-05-02/dm_260502_COM_SOC_Analysis_Can_Man_City_catch_Arsenal_to_win_the_Premier_League_title3F_GLOBAL_2026-05-02.jpg",
-      "link": "https://www.espn.com/video/clip?id=48658668",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 48653692,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Kompany approves Bayern's Gordon pursuit",
-      "description": "Anthony Gordon could be Bundesliga-bound as Bayern Munich's push to get the winger has been approved by manager Vincent Kompany. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-02T19:13:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652448_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48653692/transfer-rumors-news-liverpool-eye-paris-saint-germain-bradley-barcola-replace-mohamed-salah",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 48648138,
-      "source": "ESPN",
-      "headline": "Viktor Gyökeres' brace helps Arsenal to vital win over Fulham in title race",
-      "description": "Viktor Gyökeres scored twice as Arsenal sent out an emphatic Premier League title warning to Manchester City with a 3-0 victory against Fulham at the Emirates Stadium.",
-      "publishedAt": "2026-05-02T18:35:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652436_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740936",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 48628655,
-      "source": "ESPN",
-      "headline": "Nagelsmann to Man United? Matching top teams to new managers",
-      "description": "Several top Premier League clubs will be in the market for new managers this summer, but which moves actually make sense? We pick the best candidates for teams in the market right now.",
-      "publishedAt": "2026-05-02T18:29:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652331_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48628655/manchester-united-manchester-city-julian-nagelsmann-newcastle-united-premier-league-coaching-changes",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Newcastle United",
-        "Crystal Palace",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48648135,
-      "source": "ESPN",
-      "headline": "Dan Ballard sees red for hair pull as Sunderland draw with Wolves",
-      "description": "Sunderland had Dan Ballard sent off for hair pulling as their hopes of European football next season were dented by a 1-1 draw at already-relegated Wolves.",
-      "publishedAt": "2026-05-02T17:07:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652369_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740945",
-      "tag": "Wolverhampton Wanderers",
-      "teams": [
-        "Wolverhampton Wanderers",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 48648132,
-      "source": "ESPN",
-      "headline": "Newcastle beat in-form Brighton to end five-game losing streak",
-      "description": "Newcastle snapped their four-game Premier League losing run with a 3-1 win over Brighton in front of their owners at St James' Park.",
-      "publishedAt": "2026-05-02T16:17:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652304_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740944",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 48648127,
-      "source": "ESPN",
-      "headline": "Brentford boost Europe chances with West Ham win, opening door for Spurs",
-      "description": "West Ham's Premier League survival is no longer in their own hands after Brentford boosted their European bid with a 3-0 win.",
-      "publishedAt": "2026-05-02T16:13:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0502/r1652329_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740939",
-      "tag": "Brentford",
-      "teams": [
-        "Brentford",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48636666,
-      "source": "ESPN",
-      "headline": "Arsenal vs Fulham: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "All you need to know ahead of Saturday's Premier League clash between Arsenal and Fulham.",
-      "publishedAt": "2026-05-02T15:58:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0328/r1635245_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48636666/arsenal-vs-fulham-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 48654081,
-      "source": "ESPN",
-      "headline": "Liverpool's Arne Slot: Beating Man United won't silence my doubters",
-      "description": "Arne Slot does not think a positive result against arch-rivals Manchester United will prove much to him or his doubters.",
-      "publishedAt": "2026-05-02T10:37:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0411/r1642018_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48654081/liverpool-arne-slot-beating-man-united-silence-my-doubters",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-03T13:47:53.898Z"
+    "cachedAt": "2026-05-03T19:16:54.818Z"
   }
 }

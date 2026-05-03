@@ -1,6 +1,6 @@
 {
   "season": "2025-2026",
-  "updatedAt": "2026-05-03T13:47:53.945Z",
+  "updatedAt": "2026-05-03T19:16:54.532Z",
   "teams": [
     {
       "providerId": "359",
@@ -46,14 +46,14 @@
       "abbreviation": "MAN",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
       "rank": 3,
-      "played": 34,
-      "wins": 17,
+      "played": 35,
+      "wins": 18,
       "draws": 10,
       "losses": 7,
-      "goalsFor": 60,
-      "goalsAgainst": 46,
-      "goalDifference": 14,
-      "points": 61,
+      "goalsFor": 63,
+      "goalsAgainst": 48,
+      "goalDifference": 15,
+      "points": 64,
       "note": "Champions League"
     },
     {
@@ -64,13 +64,13 @@
       "abbreviation": "LIV",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "rank": 4,
-      "played": 34,
+      "played": 35,
       "wins": 17,
       "draws": 7,
-      "losses": 10,
-      "goalsFor": 57,
-      "goalsAgainst": 44,
-      "goalDifference": 13,
+      "losses": 11,
+      "goalsFor": 59,
+      "goalsAgainst": 47,
+      "goalDifference": 12,
       "points": 58,
       "note": "Champions League"
     },
@@ -93,13 +93,31 @@
       "note": "Champions League"
     },
     {
+      "providerId": "349",
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "shortName": "Bournemouth",
+      "abbreviation": "BOU",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+      "rank": 6,
+      "played": 35,
+      "wins": 12,
+      "draws": 16,
+      "losses": 7,
+      "goalsFor": 55,
+      "goalsAgainst": 52,
+      "goalDifference": 3,
+      "points": 52,
+      "note": "Europa League"
+    },
+    {
       "providerId": "337",
       "slug": "brentford",
       "name": "Brentford",
       "shortName": "Brentford",
       "abbreviation": "BRE",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-      "rank": 6,
+      "rank": 7,
       "played": 35,
       "wins": 14,
       "draws": 9,
@@ -108,7 +126,7 @@
       "goalsAgainst": 46,
       "goalDifference": 6,
       "points": 51,
-      "note": "Europa League"
+      "note": "Conference League Playoff Round"
     },
     {
       "providerId": "331",
@@ -117,7 +135,7 @@
       "shortName": "Brighton",
       "abbreviation": "BHA",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "rank": 7,
+      "rank": 8,
       "played": 35,
       "wins": 13,
       "draws": 11,
@@ -126,24 +144,6 @@
       "goalsAgainst": 42,
       "goalDifference": 7,
       "points": 50,
-      "note": "Conference League Playoff Round"
-    },
-    {
-      "providerId": "349",
-      "slug": "bournemouth",
-      "name": "Bournemouth",
-      "shortName": "Bournemouth",
-      "abbreviation": "BOU",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "rank": 8,
-      "played": 34,
-      "wins": 11,
-      "draws": 16,
-      "losses": 7,
-      "goalsFor": 52,
-      "goalsAgainst": 52,
-      "goalDifference": 0,
-      "points": 49,
       "note": ""
     },
     {
@@ -237,31 +237,13 @@
       "note": ""
     },
     {
-      "providerId": "384",
-      "slug": "crystal-palace",
-      "name": "Crystal Palace",
-      "shortName": "Crystal Palace",
-      "abbreviation": "CRY",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "rank": 14,
-      "played": 33,
-      "wins": 11,
-      "draws": 10,
-      "losses": 12,
-      "goalsFor": 36,
-      "goalsAgainst": 39,
-      "goalDifference": -3,
-      "points": 43,
-      "note": ""
-    },
-    {
       "providerId": "357",
       "slug": "leeds-united",
       "name": "Leeds United",
       "shortName": "Leeds",
       "abbreviation": "LEE",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-      "rank": 15,
+      "rank": 14,
       "played": 35,
       "wins": 10,
       "draws": 13,
@@ -269,6 +251,24 @@
       "goalsFor": 47,
       "goalsAgainst": 52,
       "goalDifference": -5,
+      "points": 43,
+      "note": ""
+    },
+    {
+      "providerId": "384",
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "shortName": "Crystal Palace",
+      "abbreviation": "CRY",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "rank": 15,
+      "played": 34,
+      "wins": 11,
+      "draws": 10,
+      "losses": 13,
+      "goalsFor": 36,
+      "goalsAgainst": 42,
+      "goalDifference": -6,
       "points": 43,
       "note": ""
     },
@@ -365,6 +365,6 @@
   ],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-03T13:47:53.945Z"
+    "cachedAt": "2026-05-03T19:16:54.532Z"
   }
 }
