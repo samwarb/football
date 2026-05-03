@@ -170,9 +170,9 @@
       "date": "2026-05-03",
       "time": "14:00:00",
       "venue": "Vitality Stadium",
-      "status": "Not Started",
-      "played": false,
-      "live": false,
+      "status": "1H",
+      "played": true,
+      "live": true,
       "home": {
         "slug": "bournemouth",
         "name": "Bournemouth",
@@ -186,8 +186,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 0
       },
       "tvChannels": []
     },
@@ -275,6 +275,6 @@
   ],
   "meta": {
     "cache": "hit",
-    "cachedAt": "2026-05-03T08:15:17.905Z"
+    "cachedAt": "2026-05-03T13:47:54.428Z"
   }
 }
