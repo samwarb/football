@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "arsenal|fulham": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "bournemouth|crystal palace": [
       "Sky Sports+"
     ],
@@ -87,6 +83,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-02T19:16:17.682Z"
+    "cachedAt": "2026-05-03T04:09:45.010Z"
   }
 }
