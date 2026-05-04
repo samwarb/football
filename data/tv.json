@@ -2,11 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "aston villa|tottenham hotspur": [
-      "TNT Sports 1",
-      "TNT Sports Ultimate",
-      "HBO Max"
-    ],
     "chelsea|nottingham forest": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -76,6 +71,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-03T19:16:54.594Z"
+    "cachedAt": "2026-05-04T04:07:19.440Z"
   }
 }
