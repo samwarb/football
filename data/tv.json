@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "chelsea|nottingham forest": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "everton|manchester city": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -71,6 +67,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-04T08:42:00.507Z"
+    "cachedAt": "2026-05-04T19:54:02.360Z"
   }
 }
