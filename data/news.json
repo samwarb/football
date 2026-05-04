@@ -2,6 +2,94 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "cad3cfb82efac5a0ad88b46fc54c8c04",
+      "source": "Sky Sports",
+      "headline": "'You can't wait 22 minutes!' | Should Sesko's goal have been disallowed for handball?",
+      "description": "Ex-Premier League referee Dermot Gallagher and Jay Bothroyd debate whether Benjamin Sesko's goal, which put Manchester United 2-0 up against Liverpool, should have been disallowed for handball.",
+      "publishedAt": "2026-05-04T08:06:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-pl-united_7238810.jpg?20260504091129",
+      "link": "https://www.skysports.com/watch/video/13540010/ref-watch-should-benjamin-seskos-goal-have-been-disallowed-for-handball",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "d0999f6a43bbd1222d264c1b1eeb4d84",
+      "source": "Sky Sports",
+      "headline": "West Ham's relegation chances DOUBLE after swing weekend",
+      "description": "West Ham's chances of relegation to the Championship have doubled in the space of 48 hours after a swing weekend in the battle for the final survival spot.",
+      "publishedAt": "2026-05-04T07:50:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-relegation-premier-league_7219783.jpg?20260504083422",
+      "link": "https://www.skysports.com/football/news/12040/13509977/premier-league-relegation-battle-2025-26-odds-table-fixtures-and-predictions",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48533691,
+      "source": "ESPN",
+      "headline": "Five times Arsenal have let the Premier League title slip away",
+      "description": "Arsenal's quest for their first Premier League title since the Invincibles' famous triumph in 2003-04 has recently threatened to veer of course.",
+      "publishedAt": "2026-05-04T07:17:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0419/r1646017_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48533691/panic-streets-london-previous-s-arsenal-let-premier-league-title-slip-away",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48122272,
+      "source": "ESPN",
+      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
+      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
+      "publishedAt": "2026-05-04T06:44:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48669767,
+      "source": "ESPN",
+      "headline": "Pep Guardiola says he still has 'incredible energy' amid title race and potential treble",
+      "description": "Pep Guardiola said he still has \"incredible energy\" for his job at Manchester City -- and feels calmer despite the pressures of a treble challenge.",
+      "publishedAt": "2026-05-04T06:30:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0317/r1629930_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48669767/pep-guardiola-manchester-city-incredible-energy-premier-league-future-contract",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48669385,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi: Spurs have '12 players' with Conor Gallagher",
+      "description": "BIRMINGHAM -- Tottenham boss Roberto De Zerbi said he has \"twelve players\" on the pitch when Conor Gallagher is on song after the midfielder scored a crucial goal in Spurs' 2-1 win over Aston Villa on Sunday.",
+      "publishedAt": "2026-05-04T06:26:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1653065_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48669385/roberto-de-zerbi-spurs-12-players-conor-gallagher",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48668571,
+      "source": "ESPN",
+      "headline": "From crisis to PL survival belief, Roberto De Zerbi sparks Tottenham reawakening in crucial Aston Villa win",
+      "description": "Tottenham are out of the relegation zone, and the relief was palpable at Villa Park. ESPN's Aiman Khalid reports from a big win for Spurs, and new boss Roberto De Zerbi.",
+      "publishedAt": "2026-05-04T05:55:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1652986_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48668571/tottenham-crisis-premier-league-survival-belief-relegation-roberto-de-zerbi-reawakening-aston-villa-win",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Aston Villa"
+      ]
+    },
+    {
       "id": 48670652,
       "source": "ESPN",
       "headline": "Spurs beat Villa put pressure back on West Ham",
@@ -41,33 +129,6 @@
       "teams": [
         "Manchester United",
         "Inter Miami CF"
-      ]
-    },
-    {
-      "id": 48669385,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi: Spurs have '12 players' with Conor Gallagher",
-      "description": "BIRMINGHAM -- Tottenham boss Roberto De Zerbi said he has \"twelve players\" on the pitch when Conor Gallagher is on song after the midfielder scored a crucial goal in Spurs' 2-1 win over Aston Villa on Sunday.",
-      "publishedAt": "2026-05-03T22:06:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0503/r1653065_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48669385/roberto-de-zerbi-spurs-12-players-conor-gallagher",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48668571,
-      "source": "ESPN",
-      "headline": "From crisis to PL survival belief, Roberto De Zerbi sparks Tottenham reawakening in crucial Aston Villa win",
-      "description": "Tottenham are out of the relegation zone, and the relief was palpable at Villa Park. ESPN's Aiman Khalid reports from a big win for Spurs, and new boss Roberto De Zerbi.",
-      "publishedAt": "2026-05-03T22:04:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0503/r1652986_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48668571/tottenham-crisis-premier-league-survival-belief-relegation-roberto-de-zerbi-reawakening-aston-villa-win",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Aston Villa"
       ]
     },
     {
@@ -124,17 +185,6 @@
       ]
     },
     {
-      "id": "3e25b75e01891a836296cfc42675bfe0",
-      "source": "Sky Sports",
-      "headline": "De Zerbi proud of Spurs win but warns: 'Don't forget situation we were in'",
-      "description": "Roberto De Zerbi has spoken of his pride at seeing his Tottenham team beat Aston Villa, but warned against forgetting the situation his side were in just a matter of weeks ago.",
-      "publishedAt": "2026-05-03T21:30:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-roberto-de-zerbi_7238686.jpg?20260503222203",
-      "link": "https://www.skysports.com/football/news/12040/13539892/spurs",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48648193,
       "source": "ESPN",
       "headline": "Tottenham beat Aston Villa to move out of relegation places",
@@ -145,19 +195,6 @@
       "tag": "Aston Villa",
       "teams": [
         "Aston Villa",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48122272,
-      "source": "ESPN",
-      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
-      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
-      "publishedAt": "2026-05-03T20:32:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
-      "tag": "Tottenham Hotspur",
-      "teams": [
         "Tottenham Hotspur"
       ]
     },
@@ -184,6 +221,17 @@
       "teams": [
         "Manchester United"
       ]
+    },
+    {
+      "id": "2e51ab072f5a594fd20a85c64d2b1cc5",
+      "source": "Sky Sports",
+      "headline": "Carra 'worried' about Liverpool as Slot rages against decisions",
+      "description": "Jamie Carragher is worried about where Liverpool are heading under Arne Slot, questioning what the identity of his team is, while the Reds' boss said his side have had a \"whole season\" of decisions going against them.",
+      "publishedAt": "2026-05-03T19:30:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-liverpool-jamie-carragher_7238507.jpg?20260503200436",
+      "link": "https://www.skysports.com/football/news/12040/13539865/liverpool-jamie-carragher-is-worried-for-where-arne-slots-side-are-heading",
+      "tag": "Article/Blog",
+      "teams": []
     },
     {
       "id": 48636841,
@@ -392,19 +440,6 @@
       ]
     },
     {
-      "id": 48617299,
-      "source": "ESPN",
-      "headline": "What must happen for Man United to secure Champions League spot?",
-      "description": "Manchester United are on the verge of returning to the Champions League after Brighton's 3-1 loss to Newcastle on Saturday.",
-      "publishedAt": "2026-05-03T12:14:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48617299/what-happen-man-united-secure-champions-league-spot",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 47480434,
       "source": "ESPN",
       "headline": "Premier League players out of contract: Who could leave your team on a free this summer?",
@@ -435,25 +470,11 @@
         "Brighton & Hove Albion",
         "Fulham"
       ]
-    },
-    {
-      "id": 48468717,
-      "source": "ESPN",
-      "headline": "Arsenal and Man City's remaining Premier League fixtures compared as title race hots up",
-      "description": "The Premier League title race is well and truly underway with Arsenal being chased down by Pep Guardiola's Manchester City in their hunt for a first top-flight trophy since 2004.",
-      "publishedAt": "2026-05-03T12:11:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-04T04:07:19.684Z"
+    "cachedAt": "2026-05-04T08:42:00.480Z"
   }
 }
