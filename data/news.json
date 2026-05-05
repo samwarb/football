@@ -2,6 +2,90 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "060631406f2a8d4fe0b55d134f6b8f55",
+      "source": "Sky Sports",
+      "headline": "What's happened to Mac Allister at Liverpool? Analysing his drop-off",
+      "description": "",
+      "publishedAt": "2026-05-05T08:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-alexis-mac-allister_7239472.jpg?20260505084718",
+      "link": "https://www.skysports.com/football/news/12040/13539634/alexis-mac-allister-is-his-liverpool-form-a-physicality-problem-plus-conor-gallagher-and-merlin-rohl-in-the-debrief",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": 48682818,
+      "source": "ESPN",
+      "headline": "Pep Guardiola: The title is no longer in our hands",
+      "description": "Manchester City manager Pep Guardiola believes \"a point is better than no points\" after their dramatic draw against Everton in the Premier League.",
+      "publishedAt": "2026-05-05T07:50:29Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0505/dm_260505_COM_SOC_Analysis_Pep_Guardiola3A_A_point_is_better_than_no_points_GLOBAL_2026-05-05/dm_260505_COM_SOC_Analysis_Pep_Guardiola3A_A_point_is_better_than_no_points_GLOBAL_2026-05-05.jpg",
+      "link": "https://www.espn.com/video/clip?id=48682818",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48682828,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona keen on Newcastle's Gordon",
+      "description": "Barcelona are looking at Newcastle United's Anthony Gordon. Plus, Galatasaray want Bruno Fernandes. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-05T07:40:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0325/r1633627_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48682828/barcelona-keen-newcastle-united-anthony-gordon",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 48678912,
+      "source": "ESPN",
+      "headline": "Why Champions League can't tell us much about Premier League",
+      "description": "It's easy to watch PSG and Bayern Munich light it up in the Champions League and lament that Premier League teams aren't doing the same. But it doesn't mean much.",
+      "publishedAt": "2026-05-05T07:35:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0504/r1653569_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48678912/why-champions-league-tell-us-much-premier-league",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal",
+        "Manchester United",
+        "Liverpool",
+        "Chelsea",
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Newcastle United",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Crystal Palace",
+        "Wolverhampton Wanderers",
+        "AFC Bournemouth",
+        "Everton",
+        "Fulham",
+        "West Ham United",
+        "Ipswich Town",
+        "Leicester City",
+        "Southampton",
+        "Nottingham Forest",
+        "Sunderland",
+        "Leeds United",
+        "Burnley"
+      ]
+    },
+    {
+      "id": "d8ef6d679bf1ef31fd4dcb6c4e973547",
+      "source": "Sky Sports",
+      "headline": "How De Zerbi has finally got Spurs looking upwards again",
+      "description": "It was meant to be over for Tottenham. No Premier League wins in 2026, and no immediate new-manager bounce under Roberto De Zerbi. The biggest question was whether he would stay around for the first Championship game next season.",
+      "publishedAt": "2026-05-05T07:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-roberto-de-zerbi_7239201.jpg?20260504193217",
+      "link": "https://www.skysports.com/football/news/12040/13540082/roberto-de-zerbi-at-tottenham-how-new-head-coach-has-revitalised-spurs-in-four-matches-to-turn-fortunes-around",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48679305,
       "source": "ESPN",
       "headline": "Everton draw could spell doom for Man City in Premier League title race",
@@ -99,23 +183,12 @@
       ]
     },
     {
-      "id": "65be490a282766564014fdf3edb2cb95",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd ready to spend £150m on three midfielders this summer",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-05-04T22:10:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13540227/manchester-united-ready-to-spend-150m-on-three-midfielders-this-summer-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": "6d35caa6939ec9b735aa6c25cd4236f4",
       "source": "Sky Sports",
       "headline": "Carra: If Arsenal beat West Ham, they win the Premier League",
       "description": "If Arsenal beat West Ham at the London Stadium on Sunday, live on Sky Sports, they will win the Premier League title, says Jamie Carragher.",
       "publishedAt": "2026-05-04T21:55:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-mikel-arteta-arsenal_7230667.jpg?20260425193545",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-arsenal_7237471.jpg?20260502183717",
       "link": "https://www.skysports.com/football/news/12040/13540221/everton-3-3-man-city-if-arsenal-beat-west-ham-on-sunday-they-win-the-premier-league-title-says-jamie-carragher",
       "tag": "News Story",
       "teams": []
@@ -135,17 +208,6 @@
       ]
     },
     {
-      "id": "6aac76710a77dde3f8e4c834e6c33214",
-      "source": "Sky Sports",
-      "headline": "Title-race twist! Doku saves Man City with dramatic stoppage-time equaliser",
-      "description": "FREE TO WATCH: Highlights from Everton’s match against Manchester City in the Premier League.",
-      "publishedAt": "2026-05-04T21:44:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-man-city-everton_7239349.jpg?20260504224817",
-      "link": "https://www.skysports.com/watch/video/13540239/everton-3-3-man-city-premier-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 48648202,
       "source": "ESPN",
       "headline": "Marc Guehi gaffe sets Man City draw with Everton in motion",
@@ -160,28 +222,6 @@
       ]
     },
     {
-      "id": "c4911b0516e1e5ab2eb4f5170cab9b7f",
-      "source": "Sky Sports",
-      "headline": "Man City salvage late draw at Everton but hand title advantage to Arsenal",
-      "description": "Manchester City salvaged a point in the 97th minute to draw 3-3 at Everton in a dramatic game that puts Arsenal in charge of the Premier League title race.",
-      "publishedAt": "2026-05-04T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-man-city-erling-haaland_7239320.jpg?20260504220556",
-      "link": "https://www.skysports.com/football/everton-vs-manchester-city/report/531474",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "680b2456bea13a5d1ce473069b84bba5",
-      "source": "Sky Sports",
-      "headline": "Incredible! Doku scores 97th-minute leveller to send Man City fans WILD!",
-      "description": "Jeremy Doku scored a 97th-minute equaliser in Manchester City's Premier League clash with Everton.",
-      "publishedAt": "2026-05-04T21:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-hh-ff_7239319.jpg?20260504220130",
-      "link": "https://www.skysports.com/watch/video/13540226/goal-j-doku-907-everton-3-3-manchester-city",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 48673200,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Reijnders linked with return to Serie A",
@@ -194,17 +234,6 @@
         "Juventus",
         "Manchester City"
       ]
-    },
-    {
-      "id": "fdce4ec7a464544ef443765a3e909194",
-      "source": "Sky Sports",
-      "headline": "Game ON! Haaland pulls one back for Man City",
-      "description": "Erling Haaland pulls one back in Manchester City's Premier League clash with Everton.",
-      "publishedAt": "2026-05-04T20:49:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ff-ftt_7239311.jpg?20260504215242",
-      "link": "https://www.skysports.com/watch/video/13540224/goal-e-haaland-83-everton-3-2-manchester-city",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 48678099,
@@ -232,17 +261,6 @@
       "teams": [
         "Coventry City"
       ]
-    },
-    {
-      "id": "009b4c0fdbf6cd7d0d5f5cc871230a23",
-      "source": "Sky Sports",
-      "headline": "Should Lewis-Skelly start against Atletico? I'd like to see it, says Henry",
-      "description": "Thierry Henry said Myles Lewis-Skelly's future lies in midfield after his \"outstanding\" display against Fulham put him in contention to start the Champions League semi-final with Atletico Madrid.",
-      "publishedAt": "2026-05-04T18:46:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-myles-lewis-skelly_7239246.jpg?20260504202528",
-      "link": "https://www.skysports.com/football/news/12040/13540189/thierry-henry-says-myles-lewis-skellys-future-lies-in-midfield-so-should-he-start-ahead-of-martin-zubimendi-against-atletico-madrid",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48677011,
@@ -472,53 +490,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 48670652,
-      "source": "ESPN",
-      "headline": "Spurs beat Villa put pressure back on West Ham",
-      "description": "Goals from Conor Gallagher and Richarlison give Spurs a much needed win as they leapfrog West Ham in the Premier League table.",
-      "publishedAt": "2026-05-03T23:45:43Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0503/dm_260503_Soccer_HIGHLIGHT_Spurs_beat_Villa_put_pressure_back_on_West_Ham_20260504_AUS/dm_260503_Soccer_HIGHLIGHT_Spurs_beat_Villa_put_pressure_back_on_West_Ham_20260504_AUS.jpg",
-      "link": "https://www.espn.com/video/clip?id=48670652",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48670618,
-      "source": "ESPN",
-      "headline": "Man United sneak past Liverpool at Old Trafford",
-      "description": "Handball or no handball? Benjamin Sesko's goal becomes the big talking point as Manchester United defeat the Reds.",
-      "publishedAt": "2026-05-03T23:39:40Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0503/dm_260503_Soccer_HIGHLIGHT_Man_United_sneak_past_Liverpool_at_Old_Trafford_20260504_AUS/dm_260503_Soccer_HIGHLIGHT_Man_United_sneak_past_Liverpool_at_Old_Trafford_20260504_AUS.jpg",
-      "link": "https://www.espn.com/video/clip?id=48670618",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48663467,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Inter Miami aim to pair Casemiro with Messi",
-      "description": "Casemiro could be the latest star to join Lionel Messi at Inter Miami. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-03T23:13:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0503/r1653035_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48663467/transfer-rumors-news-donyell-malen-aston-villa-roma-chelsea-manchester-united",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Inter Miami CF"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-05T03:48:19.858Z"
+    "cachedAt": "2026-05-05T08:27:10.775Z"
   }
 }
