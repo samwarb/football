@@ -2,6 +2,82 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48686300,
+      "source": "ESPN",
+      "headline": "Casemiro: Michael Carrick 'completely deserves' Man United job permanently",
+      "description": "Casemiro said that Michael Carrick \"completely deserves\" the Manchester United manager role full-time after transforming the club's season.",
+      "publishedAt": "2026-05-05T18:58:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0505/r1653907_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48686300/casemiro-michael-carrick-completely-deserves-manchester-united-job-permanently",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48686625,
+      "source": "ESPN",
+      "headline": "Casemiro backs Carrick for full-time Manchester United job",
+      "description": "Casemiro says interim boss Michael Carrick \"has everything\" to be a great manager for Manchester United.",
+      "publishedAt": "2026-05-05T18:57:24Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0505/dm_260505_Casemiro_backs_Carrick_for_full-time_Manchester_United_job/dm_260505_Casemiro_backs_Carrick_for_full-time_Manchester_United_job.jpg",
+      "link": "https://www.espn.com/video/clip?id=48686625",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48109229,
+      "source": "ESPN",
+      "headline": "Tracking title races, relegation: How Barcelona can win LaLiga title vs. Real Madrid",
+      "description": "How are the battles for major honors, Champions League spots and relegation shaping up across the continent? Here's everything you need to know.",
+      "publishedAt": "2026-05-05T18:06:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0505/r1653862_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 48685118,
+      "source": "ESPN",
+      "headline": "Ipswich announce first signing of Premier League for next season",
+      "description": "Ipswich Town have made their first signing for next season, just days after securing their return to the Premier League.",
+      "publishedAt": "2026-05-05T15:32:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0505/r1653833_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48685118/ipswich-announce-first-signing-premier-league-next-season-chupa-akpom",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 48682828,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona keen on Newcastle's Gordon",
+      "description": "Barcelona are looking at Newcastle United's Anthony Gordon. Plus, Galatasaray want Bruno Fernandes. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-05T15:03:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0325/r1633627_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48682828/barcelona-keen-newcastle-united-anthony-gordon",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 48533691,
+      "source": "ESPN",
+      "headline": "Five times Arsenal have let the Premier League title slip away",
+      "description": "Arsenal's quest for their first Premier League title since the Invincibles' famous triumph in 2003-04 has recently threatened to veer of course.",
+      "publishedAt": "2026-05-05T14:35:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0419/r1646017_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48533691/panic-streets-london-previous-s-arsenal-let-premier-league-title-slip-away",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48684293,
       "source": "ESPN",
       "headline": "Jesse Derry calls Chelsea debut 'dream come true' despite head injury",
@@ -13,17 +89,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "805d9c10d56e32a28e1196c5dff182db",
-      "source": "Sky Sports",
-      "headline": "Rangers defender Sterling fined and banned after admitting drink-driving",
-      "description": "Rangers player Dujon Sterling has been fined more than £2,000 and banned from getting behind the wheel for a year after he admitted drink-driving and careless driving.",
-      "publishedAt": "2026-05-05T13:00:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-dujon-sterling-rangers_7214100.jpg?20260408122406",
-      "link": "https://www.skysports.com/football/news/12040/13540414/dujon-sterling-rangers-defender-fined-and-banned-after-admitting-drink-driving-after-old-firm-win-against-celtic",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48678912,
@@ -71,30 +136,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "f6c3bfa300ca5905e2c8e4118eb43225",
-      "source": "Sky Sports",
-      "headline": "New names emerge as Man Utd midfield plans ramp up",
-      "description": "Manchester United are considering Bournemouth's Tyler Adams and Alex Scott, along with West Ham’s Mateus Fernandes, as part of their midfield rebuild this summer.",
-      "publishedAt": "2026-05-05T12:26:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-tyler-adams_7239653.jpg?20260505123248",
-      "link": "https://www.skysports.com/football/news/12040/13540368/man-utd-transfer-news-tyler-adams-alex-scott-and-mateus-fernandes-emerge-as-possible-signings-as-midfield-plans-ramp-up160",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48682828,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona keen on Newcastle's Gordon",
-      "description": "Barcelona are looking at Newcastle United's Anthony Gordon. Plus, Galatasaray want Bruno Fernandes. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-05T12:08:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0325/r1633627_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48682828/barcelona-keen-newcastle-united-anthony-gordon",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona"
       ]
     },
     {
@@ -186,17 +227,6 @@
       ]
     },
     {
-      "id": "960a7aab2bd9c0b119317e783f8bf818",
-      "source": "Sky Sports",
-      "headline": "Merson: Chelsea are in a mess - who would want the manager's job?",
-      "description": "Paul Merson says Chelsea's project isn't working and he has questioned whether a top manager would want to come to Stamford Bridge with the club in such a \"mess\".",
-      "publishedAt": "2026-05-05T10:34:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-levi-colwill-chelsea_7239589.jpg?20260505111158",
-      "link": "https://www.skysports.com/football/news/12040/13540336/chelsea-blues-are-in-a-mess-who-would-want-the-managers-job-at-stamford-bridge-asks-paul-merson",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
       "id": 48122272,
       "source": "ESPN",
       "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
@@ -249,28 +279,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "b5e8e62ff48d335a9ccca6938e187f11",
-      "source": "Sky Sports",
-      "headline": "40 years of the play-offs: The greatest show on earth in numbers",
-      "description": "",
-      "publishedAt": "2026-05-05T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-watford-qpr_7235073.jpg?20260430124337",
-      "link": "https://www.skysports.com/football/news/12040/13538414/40-years-of-the-play-offs-the-greatest-show-on-earth-in-numbers-as-efl-sides-prepare-for-final-promotion-push",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "0ec36bc7ca287637d72d2c2c8ecd92cd",
-      "source": "Sky Sports",
-      "headline": "Foden agrees terms on new Man City contract",
-      "description": "Phil Foden and Manchester City have agreed terms in principle on a new four-year contract.",
-      "publishedAt": "2026-05-05T07:56:00.000Z",
-      "image": "https://e1.365dm.com/25/11/1920x1080/skysports-phil-foden-man-city_7073320.jpg?20251105231224",
-      "link": "https://www.skysports.com/football/news/12040/13540300/phil-foden-contract-man-city-star-agrees-to-sign-new-four-year-deal-as-he-approaches-final-year",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48682818,
@@ -326,19 +334,6 @@
         "Arsenal",
         "Tottenham Hotspur",
         "Leicester City"
-      ]
-    },
-    {
-      "id": 48533691,
-      "source": "ESPN",
-      "headline": "Five times Arsenal have let the Premier League title slip away",
-      "description": "Arsenal's quest for their first Premier League title since the Invincibles' famous triumph in 2003-04 has recently threatened to veer of course.",
-      "publishedAt": "2026-05-04T22:46:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0419/r1646017_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48533691/panic-streets-london-previous-s-arsenal-let-premier-league-title-slip-away",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
       ]
     },
     {
@@ -451,65 +446,11 @@
         "Chelsea",
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": 48677058,
-      "source": "ESPN",
-      "headline": "Hutchison questions Chelsea's motivation after Forest defeat",
-      "description": "Don Hutchison wonders if Chelsea's players are fully focused after a sixth straight Premier League defeat at the hands of Nottingham Forest.",
-      "publishedAt": "2026-05-04T17:01:20Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0504/dm_260504_Hutchison_questions_Chelseas_motivation_after_Forest_defeat/dm_260504_Hutchison_questions_Chelseas_motivation_after_Forest_defeat.jpg",
-      "link": "https://www.espn.com/video/clip?id=48677058",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 48675013,
-      "source": "ESPN",
-      "headline": "'We aren't kids,' Virgil Van Dijk said after questions over Liverpool holiday time",
-      "description": "Virgil van Dijk was left frustrated by Liverpool's loss to arch-rivals Manchester United and responded with bemusement to the suggestion excess holiday time may have contributed to what he calls an \"unacceptable\" season.",
-      "publishedAt": "2026-05-04T16:46:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653300_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48675013/we-kids-virgil-van-dijk-said-questions-liverpool-holiday",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48648195,
-      "source": "ESPN",
-      "headline": "Chelsea hit new low with sixth straight league defeat as Forest take step closer to safety",
-      "description": "Chelsea fell to their sixth straight defeat in the Premier League at home to Nottingham Forest.",
-      "publishedAt": "2026-05-04T16:19:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653384_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740940",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 48674754,
-      "source": "ESPN",
-      "headline": "Laurens can't understand why Liverpool would stick with Slot",
-      "description": "Julien Laurens explains why he doesn't see Liverpool getting back to their best under Arne Slot.",
-      "publishedAt": "2026-05-04T12:53:51Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0504/dm_260504_Laurens_cant_understand_why_Liverpool_would_stick_with_Slot/dm_260504_Laurens_cant_understand_why_Liverpool_would_stick_with_Slot.jpg",
-      "link": "https://www.espn.com/video/clip?id=48674754",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-05T14:23:22.546Z"
+    "cachedAt": "2026-05-05T19:51:25.203Z"
   }
 }
