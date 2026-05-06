@@ -2,6 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "bf1dcc407d2f005bab8f95c92c3360e1",
+      "source": "Sky Sports",
+      "headline": "Momentum is shifting Arsenal's way – it could lead to two trophies",
+      "description": "The final whistle went and the Emirates Stadium exploded. Arsenal made it to the Champions League final. Mikel Arteta ran onto the pitch, colliding with his Arsenal players - who were all jumping in a huddle.",
+      "publishedAt": "2026-05-05T22:29:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arsenal-atletico_7240126.jpg?20260505233543",
+      "link": "https://www.skysports.com/football/news/12040/13540568/arsenal-reach-champions-league-final-momentum-is-shifting-for-mikel-artetas-side-at-the-right-time",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48688321,
+      "source": "ESPN",
+      "headline": "Klinsmann backs CL finalists Arsenal to 'cruise' to Premier League glory",
+      "description": "Jurgen Klinsmann says Arsenal's momentum from reaching the Champions League final will carry them through to the Premier League title.",
+      "publishedAt": "2026-05-05T22:24:16Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0505/dm_260505_Klinsmann_backs_CL_finalists_Arsenal_to_cruise_to_Premier_League_glory/dm_260505_Klinsmann_backs_CL_finalists_Arsenal_to_cruise_to_Premier_League_glory.jpg",
+      "link": "https://www.espn.com/video/clip?id=48688321",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "f95290b4598deda14f6ae23674d1e5c7",
+      "source": "Sky Sports",
+      "headline": "Saka downs Atletico to send Arsenal into Champions League final",
+      "description": "Arsenal reached the Champions League final for the first time in 20 years as Bukayo Saka's goal clinched a 1-0 win over Atletico Madrid at the Emirates Stadium to complete a 2-1 aggregate victory.",
+      "publishedAt": "2026-05-05T21:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-saka-arsenal-champions-league_7240065.jpg?20260505205619",
+      "link": "https://www.skysports.com/football/arsenal-vs-atletico-madrid/report/554949",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48682828,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Galatasaray eye move for Fernandes",
+      "description": "Galatasaray are looking at Manchester United's Bruno Fernandes as a possible future signing. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-05T20:51:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0505/r1654005_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48682828/barcelona-keen-newcastle-united-anthony-gordon",
+      "tag": "Galatasaray",
+      "teams": [
+        "Galatasaray",
+        "Manchester United"
+      ]
+    },
+    {
       "id": 48686300,
       "source": "ESPN",
       "headline": "Casemiro: Michael Carrick 'completely deserves' Man United job permanently",
@@ -49,19 +98,6 @@
       "tag": "Ipswich Town",
       "teams": [
         "Ipswich Town"
-      ]
-    },
-    {
-      "id": 48682828,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona keen on Newcastle's Gordon",
-      "description": "Barcelona are looking at Newcastle United's Anthony Gordon. Plus, Galatasaray want Bruno Fernandes. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-05T15:03:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0325/r1633627_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48682828/barcelona-keen-newcastle-united-anthony-gordon",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona"
       ]
     },
     {
@@ -432,25 +468,11 @@
       "teams": [
         "Coventry City"
       ]
-    },
-    {
-      "id": 48677011,
-      "source": "ESPN",
-      "headline": "Chelsea's season of gloom hits new low in home defeat to resurgent Forest",
-      "description": "The Blues were thrashed at home by a second-string Nottingham Forest side to fall to their sixth successive defeat in the Premier League.",
-      "publishedAt": "2026-05-04T17:02:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653400_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48677011/chelsea-season-gloom-hits-new-low-home-defeat-resurgent-nottingham-forest",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Nottingham Forest"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-05T19:51:25.203Z"
+    "cachedAt": "2026-05-06T04:03:10.190Z"
   }
 }
