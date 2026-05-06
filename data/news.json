@@ -2,14 +2,88 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "343f8cc81ee065ae6e1b273c6c51d4ed",
+      "id": "8af4fc1a68cb3d3c9a756ebf1c8d1737",
       "source": "Sky Sports",
-      "headline": "Prestianni could miss World Cup openers after discrimination ban extended globally",
-      "description": "Gianluca Prestianni's six-match ban for discriminatory conduct towards Vinicius Junior has been extended worldwide - meaning the Argentina winger could miss his country's first two World Cup games if he is selected in their squad.",
-      "publishedAt": "2026-05-06T12:04:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-gianluca-prestianni_7172911.jpg?20260223163651",
-      "link": "https://www.skysports.com/football/news/12040/13540716/gianluca-prestianni-benfica-winger-could-miss-first-two-games-of-world-cup-after-ban-extended-globally",
+      "headline": "FREE STREAM: Watch Brighton vs Arsenal LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-06T18:35:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-brighton-arsenal_7239811.jpg?20260505151400",
+      "link": "https://www.skysports.com/football/news/12040/13540798/free-stream-brighton-vs-arsenal-live-watch-womens-super-league-fixture-on-sky-sports",
       "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48695139,
+      "source": "ESPN",
+      "headline": "Amad: Every Man United player happy with Michael Carrick",
+      "description": "Amad Diallo has said everyone in the Manchester United dressing room would be happy to see Michael Carrick stay on as head coach next season.",
+      "publishedAt": "2026-05-06T18:22:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0506/r1654422_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48695139/amad-diallo-every-manchester-united-player-happy-michael-carrick",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48694535,
+      "source": "ESPN",
+      "headline": "Michael Owen: Liverpool will have to do 'little bit of surgery' after Salah departure",
+      "description": "Former striker Michael Owen believes Liverpool will have to do a \"little bit of surgery\" on the squad this summer but finding a replacement for the departing Mohamed Salah is the obvious priority.",
+      "publishedAt": "2026-05-06T16:55:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0506/r1654377_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48694535/michael-owen-liverpool-little-bit-surgery-mohamed-salah-departure",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48694270,
+      "source": "ESPN",
+      "headline": "Emery: Not a failure if Aston Villa don't win Europa League",
+      "description": "Aston Villa boss Unai Emery says it will not be a failure if his side do not win the Europa League.",
+      "publishedAt": "2026-05-06T16:46:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0506/r1654374_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48694270/unai-emery-not-failure-aston-villa-do-not-win-europa-league",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 48694275,
+      "source": "ESPN",
+      "headline": "Erling Haaland's agent says Man City are the 'most difficult club' to negotiate with",
+      "description": "Erling Haaland's agent, Rafaela Pimenta, has said that Manchester City are the most difficult club to conduct negotiations with.",
+      "publishedAt": "2026-05-06T16:24:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0404/r1638368_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48694275/erling-haaland-manchester-city-agent-rafaela-pimenta-hardest-club-negotiate",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "26e670368632b3ab588eb94f3e23758f",
+      "source": "Sky Sports",
+      "headline": "World Cup latest: Final ticket on sale for staggering £8.4m!",
+      "description": "",
+      "publishedAt": "2026-05-06T15:40:00.000Z",
+      "image": "https://e2.365dm.com/25/11/1920x1080/skysports-world-cup-trophy_7084567.jpg?20251117221849",
+      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "fd25bc27f50055497375091c6f132a83",
+      "source": "Sky Sports",
+      "headline": "Does Glasner want a statue? Listen to Palace boss' hilarious response!",
+      "description": "Listen to Oliver Glasner's hilarious response when asked if winning the Conference League would merit Crystal Palace building a statue of him.",
+      "publishedAt": "2026-05-06T14:46:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-glasner-oliver-crystal_7240674.jpg?20260506155559",
+      "link": "https://www.skysports.com/watch/video/13540781/oliver-glasner-offers-hilarious-response-when-asked-if-he-deserves-a-statue-at-crystal-palace",
+      "tag": "Video",
       "teams": []
     },
     {
@@ -26,28 +100,6 @@
         "Atlético Madrid",
         "Atalanta"
       ]
-    },
-    {
-      "id": "aab67cab945d7fc12625ca0456dc39ce",
-      "source": "Sky Sports",
-      "headline": "'Rock bottom' Chelsea need manager with PL experience",
-      "description": "After a damaging defeat to Nottingham Forest in the Premier League on Monday, Jamie Carragher described Chelsea as 'a broken club'. Here, Sky Sports News' chief reporter Kaveh Solhekol breaks down the issues at Stamford Bridge this season - and how they fix them...",
-      "publishedAt": "2026-05-06T12:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-graphic-reporter-notebook_7239479.png?20260505085517",
-      "link": "https://www.skysports.com/football/news/12040/13540295/chelsea-blues-need-manager-with-premier-league-experience-and-leaders-on-the-pitch-to-emerge-from-rock-bottom-reporter-notebook",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "30b0f939f5257b96af1bed8f83c70d38",
-      "source": "Sky Sports",
-      "headline": "Still no Salah, Isak, Alisson or Mamardashvilli | Liverpool train ahead of Chelsea clash",
-      "description": "Liverpool have trained without Salah, Isak, Alisson or Mamardashvili, with Florian Wirtz and Ibrahima Konate working away from the main group, as they prepare to take on Chelsea in the Premier League on Saturday.",
-      "publishedAt": "2026-05-06T11:46:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-liverpool-training_7240476.jpg?20260506125142",
-      "link": "https://www.skysports.com/watch/video/13540711/liverpool-latest-no-salah-isak-or-alisson-at-training",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 48122272,
@@ -90,28 +142,6 @@
       ]
     },
     {
-      "id": "0b5b4ef54fab69f2a6ed670a89f280c2",
-      "source": "Sky Sports",
-      "headline": "Arsenal planning summer sales despite prize money topping £120m",
-      "description": "Arsenal are planning significant player sales in this summer's transfer window despite banking more than £120m in UEFA prize money from their run to the Champions League final.",
-      "publishedAt": "2026-05-06T10:07:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arsenal-mikel-arteta_7240524.jpg?20260506132557",
-      "link": "https://www.skysports.com/football/news/12040/13540668/arsenal-transfer-news-gunners-planning-sales-as-well-as-signings-in-summer-window-as-uefa-prize-money-reaches-122m",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "5cbc74d1889a9f65793a0a5f75a163a9",
-      "source": "Sky Sports",
-      "headline": "'You know who we want' - Saka drops big hint over who Arsenal want to face in CL final",
-      "description": "Bukayo Saka has dropped a big hint over whether Arsenal want to face Paris Saint-Germain or Bayern Munich in the Champions League final.",
-      "publishedAt": "2026-05-06T09:38:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-champions-league_7240345.jpg?20260506104741",
-      "link": "https://www.skysports.com/football/news/12040/13540629/bukayo-saka-drops-big-hint-over-whether-arsenal-want-to-face-psg-or-bayern-munich-in-the-champions-league-final-you-know-who-we-want",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48691603,
       "source": "ESPN",
       "headline": "Ian Wright hits back at 'celebration police' after reaction to Arsenal reaching Champions League final",
@@ -123,17 +153,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "23e37d34d881624900ade099259160ff",
-      "source": "Sky Sports",
-      "headline": "Wembley drama, boyhood dreams & forgiving Thierry Henry - Play-off stories from the EFL",
-      "description": "",
-      "publishedAt": "2026-05-06T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-stoires-stories-efl_7239937.jpg?20260505170009",
-      "link": "https://www.skysports.com/football/news/12040/13540417/efl-play-off-stories-wembley-drama-boyhood-dreams-forgiving-thierry-henry",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48682887,
@@ -437,66 +456,11 @@
         "Arsenal",
         "West Ham United"
       ]
-    },
-    {
-      "id": 48648202,
-      "source": "ESPN",
-      "headline": "Marc Guehi gaffe sets Man City draw with Everton in motion",
-      "description": "Manchester City's title bid suffered a crushing blow despite them recovering from a second-half capitulation to snatch a 3-3 draw at Everton on Monday.",
-      "publishedAt": "2026-05-04T21:31:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653551_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740941",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48673200,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Reijnders linked with return to Serie A",
-      "description": "Juventus are among the clubs linked with a move for Manchester City midfielder Tijjani Reijnders. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-04T20:52:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653541_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48673200/transfer-rumors-news-liverpool-arsenal-eye-psgs-bradley-barcola",
-      "tag": "Juventus",
-      "teams": [
-        "Juventus",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48678099,
-      "source": "ESPN",
-      "headline": "McFarlane: Chelsea start 'not acceptable' in Forest defeat",
-      "description": "Calum McFarlane reacts to Chelsea's \"disappointing\" 3-1 loss to Nottingham Forest to mark their sixth straight Premier League defeat.",
-      "publishedAt": "2026-05-04T19:26:13Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0504/dm_260504_COM_SOC_Presser_McFarlane_Chelsea_start_not_acceptable_in_Forest_defeat_20260504_GLOBAL/dm_260504_COM_SOC_Presser_McFarlane_Chelsea_start_not_acceptable_in_Forest_defeat_20260504_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip?id=48678099",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 48677796,
-      "source": "ESPN",
-      "headline": "Coventry fans serenade Frank Lampard: 'Sign the contract'",
-      "description": "Frank Lampard was serenaded with chants of \"sign the contract\" as an estimated 50,000 Coventry City supporters flocked to War Memorial Park to celebrate their long-awaited return to the Premier League.",
-      "publishedAt": "2026-05-04T19:22:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653485_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48677796/coventry-fans-serenade-frank-lampard",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-06T14:45:14.429Z"
+    "cachedAt": "2026-05-06T20:00:40.448Z"
   }
 }
