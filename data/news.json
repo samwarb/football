@@ -2,6 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48122272,
+      "source": "ESPN",
+      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
+      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
+      "publishedAt": "2026-05-07T08:28:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48693301,
+      "source": "ESPN",
+      "headline": "Rice, Rodri, Olise among players big club academies let go too soon",
+      "description": "There are a host of players out there who had a very different early career to where they ended up. You'd be surprised who started at Chelsea, for example.",
+      "publishedAt": "2026-05-07T08:19:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0506/r1654325_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48693301/declan-rice-rodri-michael-olise-players-big-club-academies-let-go-too-soon",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Arsenal",
+        "Atlético Madrid",
+        "Barcelona",
+        "Bayern Munich",
+        "Chelsea",
+        "Manchester City",
+        "Real Madrid",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48700562,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Palmer, Lewis-Skelly on Man United radar",
+      "description": "Chelsea midfielder Cole Palmer would consider a move to Manchester United, while the club also want Arsenal left back Myles Lewis-Skelly. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-07T07:45:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654734_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48700562/transfer-rumors-news-palmer-lewis-skelly-manchester-united-radar",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester United",
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48691227,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Chelsea eye move for Cologne's El Mala",
@@ -21,7 +70,7 @@
       "headline": "Arsenal beware - PSG don't look like giving up their crown...",
       "description": "Mikel Arteta and the Arsenal squad will have watched Paris Saint-Germain dismantle Bayern Munich and felt a sense of déjà vu from the French side. They've seen it before.",
       "publishedAt": "2026-05-06T22:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-psg-arsenal_7240988.jpg?20260506225912",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-psg-arsenal_7240988.jpg?20260507074719",
       "link": "https://www.skysports.com/football/news/12040/13540913/psg-vs-arsenal-the-dismantling-of-bayern-munich-by-french-champions-is-a-champions-league-final-warning-for-mikel-arteta",
       "tag": "News Story",
       "teams": []
@@ -120,30 +169,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": "26e670368632b3ab588eb94f3e23758f",
-      "source": "Sky Sports",
-      "headline": "World Cup latest: Final ticket on sale for staggering £8.4m!",
-      "description": "",
-      "publishedAt": "2026-05-06T15:40:00.000Z",
-      "image": "https://e2.365dm.com/25/11/1920x1080/skysports-world-cup-trophy_7084567.jpg?20251117221849",
-      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 48122272,
-      "source": "ESPN",
-      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
-      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
-      "publishedAt": "2026-05-06T11:44:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -460,39 +485,11 @@
         "Tottenham Hotspur",
         "Leicester City"
       ]
-    },
-    {
-      "id": 48679298,
-      "source": "ESPN",
-      "headline": "Onuoha: Man City second half an 'abomination' in title race slip",
-      "description": "Nedum Onuoha reacts to Manchester City's 3-3 draw vs. Everton in their pursuit of the Premier League title.",
-      "publishedAt": "2026-05-04T22:17:28Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0504/dm_260504_COM_SOC_Analysis_Onuoha_Man_City_second_half_an_abomination_in_title_race_slip_20260504_GLOBA/dm_260504_COM_SOC_Analysis_Onuoha_Man_City_second_half_an_abomination_in_title_race_slip_20260504_GLOBA.jpg",
-      "link": "https://www.espn.com/video/clip?id=48679298",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48679021,
-      "source": "ESPN",
-      "headline": "Hislop: West Ham-Arsenal could decide Premier League title race",
-      "description": "Shaka Hislop assesses Arsenal's chances of winning the Premier League after Manchester City slip in the title race with Everton draw.",
-      "publishedAt": "2026-05-04T21:46:15Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0504/dm_260504_COM_SOC_Analysis_Hislop_West_Ham_Arsenal_could_decide_Premier_League_title_race_20260504_GLOBAL/dm_260504_COM_SOC_Analysis_Hislop_West_Ham_Arsenal_could_decide_Premier_League_title_race_20260504_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip?id=48679021",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-07T04:03:03.031Z"
+    "cachedAt": "2026-05-07T08:47:25.920Z"
   }
 }
