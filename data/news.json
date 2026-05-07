@@ -2,16 +2,189 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 48122272,
+      "id": 48702837,
       "source": "ESPN",
-      "headline": "Are Tottenham going to be relegated from the Premier League? What stats, charts say",
-      "description": "For Tottenham fans, the team's nosedive into the relegation zone has forced them to think the unthinkable - are they really going to go down?",
-      "publishedAt": "2026-05-07T08:28:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0309/r1625579_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
-      "tag": "Tottenham Hotspur",
+      "headline": "Chelsea's Calum McFarlane: Players 'in a good place' despite dismal run",
+      "description": "Chelsea interim boss Calum McFarlane has denied accusations that his players have \"downed tools\" this season and insists they are \"in a good place\" despite bad results.",
+      "publishedAt": "2026-05-07T14:33:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654816_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48702837/chelsea-calum-mcfarlane-players-good-place-dismal-run",
+      "tag": "Chelsea",
       "teams": [
-        "Tottenham Hotspur"
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "84d05e41aa4a013bbe467ca315101079",
+      "source": "Sky Sports",
+      "headline": "Transfer Centre LIVE! De Zerbi wants Palhinha to stay at Spurs",
+      "description": "",
+      "publishedAt": "2026-05-07T14:31:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-joao-palhinha-roberto-de-zerbi_7241470.jpg?20260507153317",
+      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48701402,
+      "source": "ESPN",
+      "headline": "Manchester City vs. Brentford in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of Saturday's Premier League clash between Manchester City and Brentford.",
+      "publishedAt": "2026-05-07T14:27:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0504/r1653600_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48701402/manchester-city-vs-brentford-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Brentford"
+      ]
+    },
+    {
+      "id": "6d9afc92057baa5d2f522c9f897580c1",
+      "source": "Sky Sports",
+      "headline": "Spurs latest: De Zerbi speaks ahead of huge Leeds game LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-07T14:26:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "8b302a8265168c2ea6db794a68fa477d",
+      "source": "Sky Sports",
+      "headline": "Sunderland latest: Rule unclear in case of Ballard dismissal, says Le Bris",
+      "description": "",
+      "publishedAt": "2026-05-07T14:13:00.000Z",
+      "image": "https://e2.365dm.com/25/05/1920x1080/skysports-sunderland-club-blog_6929406.jpg?20250528092613",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48702682,
+      "source": "ESPN",
+      "headline": "Carrick: Manchester United 'Clarity is important' but focused on ending season strongly",
+      "description": "Michael Carrick says \"clarity is important\" but is more concerned about ending the season strongly than getting answers about his Manchester United future.",
+      "publishedAt": "2026-05-07T14:08:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654805_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48702682/carrick-manchester-united-clarity-important-focused-ending-season-strongly",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "956c5631695ea8c0cf66b9ba8c46f414",
+      "source": "Sky Sports",
+      "headline": "Shaw expected to leave champions Man City",
+      "description": "Khadija 'Bunny' Shaw is expected to leave Manchester City when her contract expires at the end of the season.",
+      "publishedAt": "2026-05-07T13:15:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-bunny-shaw-man-city_7241271.jpg?20260507112353",
+      "link": "https://www.skysports.com/football/news/12040/13541017/khadija-bunny-shaw-man-city-striker-expected-to-leave-womens-super-league-club-when-contract-expires-this-summer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "40fb0811f947e1f18594909d66362b25",
+      "source": "Sky Sports",
+      "headline": "Middlesbrough vs Southampton: 'Neither side are capable of playing safe football'",
+      "description": "There was a time not too long ago where it seemed nearly impossible that this would end up as a Championship play-off semi-final.",
+      "publishedAt": "2026-05-07T13:07:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-middlesbrough-southampton_7240517.jpg?20260506131825",
+      "link": "https://www.skysports.com/football/news/12040/13540433/middlesbrough-vs-southampton-championship-semi-final-preview-neither-side-are-capable-of-playing-safe-football",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "afbb64e5eff6d341de433a2915cbb271",
+      "source": "Sky Sports",
+      "headline": "Bartley resigns as Livingston boss following relegation",
+      "description": "",
+      "publishedAt": "2026-05-07T13:00:00.000Z",
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-marvin-bartley-livingston_7199576.jpg?20260321194546",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48700562,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Palmer, Lewis-Skelly on Man United radar",
+      "description": "Chelsea midfielder Cole Palmer would consider a move to Manchester United, while the club also want Arsenal left back Myles Lewis-Skelly. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-07T12:59:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654734_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48700562/transfer-rumors-news-palmer-lewis-skelly-manchester-united-radar",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester United",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "81400f27c168fe93b6421e5279d44a21",
+      "source": "Sky Sports",
+      "headline": "Mbappe Q&A: Why have over 30m Real Madrid 'fans' signed petition for striker's exit?",
+      "description": "An online petition calling for Real Madrid to get rid of Kylian Mbappe now has more than 30m signatures, but why are the fans unhappy with the France striker?",
+      "publishedAt": "2026-05-07T12:57:00.000Z",
+      "image": "https://e0.365dm.com/24/06/1920x1080/skysports-mbappe-real-madrid_6572497.jpg?20240603185821",
+      "link": "https://www.skysports.com/football/news/12040/13541073/kylian-mbappe-qa-why-have-over-30m-real-madrid-fans-signed-petition-for-strikers-exit",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48702030,
+      "source": "ESPN",
+      "headline": "Laurens: I did not see Man City's collapse against Everton coming",
+      "description": "Gab Marcotti and Julien Laurens react to Manchester City dropping points to Arsenal in the title race after drawing at Everton on Monday.",
+      "publishedAt": "2026-05-07T12:40:32Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0507/dm_260507_Laurens_I_did_not_see_Man_Citys_collapse_against_Everton_coming/dm_260507_Laurens_I_did_not_see_Man_Citys_collapse_against_Everton_coming.jpg",
+      "link": "https://www.espn.com/video/clip?id=48702030",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48701610,
+      "source": "ESPN",
+      "headline": "Marcotti: 'Huge call' from Arteta to start Myles Lewis-Skelly in midfield",
+      "description": "Gab Marcotti gives his thoughts on Arteta's decision to drop Martin Zubimendi for Myles Lewis-Skelly against Atletico Madrid.",
+      "publishedAt": "2026-05-07T11:19:34Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0507/dm_260507_Marcotti_Huge_call_from_Arteta_to_start_Myles_Lewis_Skelly_in_midfield/dm_260507_Marcotti_Huge_call_from_Arteta_to_start_Myles_Lewis_Skelly_in_midfield.jpg",
+      "link": "https://www.espn.com/video/clip?id=48701610",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48701088,
+      "source": "ESPN",
+      "headline": "Sir Dave Brailsford leaves role as director at Man United",
+      "description": "Sir Dave Brailsford is no longer a director at Manchester United, a filing by the Premier League club has confirmed.",
+      "publishedAt": "2026-05-07T10:03:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654744_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48701088/sir-dave-brailsford-leaves-role-director-man-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48700268,
+      "source": "ESPN",
+      "headline": "Liverpool vs Chelsea in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "Everything you need to know about Liverpool vs Chelsea in the Premier League, including five key talking points.",
+      "publishedAt": "2026-05-07T09:38:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0414/r1643583_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48700268/liverpool-vs-chelsea-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Chelsea"
       ]
     },
     {
@@ -36,21 +209,6 @@
       ]
     },
     {
-      "id": 48700562,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Palmer, Lewis-Skelly on Man United radar",
-      "description": "Chelsea midfielder Cole Palmer would consider a move to Manchester United, while the club also want Arsenal left back Myles Lewis-Skelly. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-07T07:45:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654734_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48700562/transfer-rumors-news-palmer-lewis-skelly-manchester-united-radar",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester United",
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48691227,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Chelsea eye move for Cologne's El Mala",
@@ -63,61 +221,6 @@
         "FC Cologne",
         "Chelsea"
       ]
-    },
-    {
-      "id": "80f4d6944398d14d536d052bb8a41534",
-      "source": "Sky Sports",
-      "headline": "Arsenal beware - PSG don't look like giving up their crown...",
-      "description": "Mikel Arteta and the Arsenal squad will have watched Paris Saint-Germain dismantle Bayern Munich and felt a sense of déjà vu from the French side. They've seen it before.",
-      "publishedAt": "2026-05-06T22:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-psg-arsenal_7240988.jpg?20260507074719",
-      "link": "https://www.skysports.com/football/news/12040/13540913/psg-vs-arsenal-the-dismantling-of-bayern-munich-by-french-champions-is-a-champions-league-final-warning-for-mikel-arteta",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "3e25f999f8a6886738a4cfceafefb60b",
-      "source": "Sky Sports",
-      "headline": "Papers: Arsenal set to hold contract talks with Arteta",
-      "description": "The top stories and transfer rumours from Thursday's newspapers...",
-      "publishedAt": "2026-05-06T21:30:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13540905/mikel-arteta-contract-arsenal-set-to-hold-talks-with-manager-over-new-deal-this-summer-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b3381e68b98913c67dd9b7aae50b8c24",
-      "source": "Sky Sports",
-      "headline": "PSG knock out Bayern to set up Champions League final with Arsenal",
-      "description": "Paris Saint-Germain put in a professional and positive display to claim a 1-1 draw away at Bayern Munich and set up a Champions League final with Arsenal on May 30 via a 6-5 aggregate win.",
-      "publishedAt": "2026-05-06T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-psg-bayern_7240937.jpg?20260506214047",
-      "link": "https://www.skysports.com/football/bayern-munich-vs-paris-saint-germain/report/554948",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "4d71a2906e7a248342774ae2260d84a7",
-      "source": "Sky Sports",
-      "headline": "Arsenal draw at Brighton to hand Man City WSL title",
-      "description": "Manchester City were crowned Women’s Super League champions after title rivals Arsenal slumped to a disappointing 1-1 draw at Brighton.",
-      "publishedAt": "2026-05-06T20:45:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arsenal-mariona-caldentey_7240964.jpg?20260506220449",
-      "link": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-arsenal-women/report/545695",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "c20fae8f6b97958dd2ddee503345b8da",
-      "source": "Sky Sports",
-      "headline": "Man City win first WSL title in 10 years",
-      "description": "Manchester City have clinched their first Women's Super League title in 10 years.",
-      "publishedAt": "2026-05-06T20:00:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-wsl-womens-super-league_7228026.jpg?20260423095112",
-      "link": "https://www.skysports.com/football/news/12040/13537112/manchester-city-win-first-womens-super-league-title-in-10-years-to-end-chelsea-dominance",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48695139,
@@ -169,19 +272,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 48533691,
-      "source": "ESPN",
-      "headline": "Five times Arsenal have let the Premier League title slip away",
-      "description": "Arsenal's quest for their first Premier League title since the Invincibles' famous triumph in 2003-04 has recently threatened to veer of course.",
-      "publishedAt": "2026-05-06T11:38:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0419/r1646017_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48533691/panic-streets-london-previous-s-arsenal-let-premier-league-title-slip-away",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
       ]
     },
     {
@@ -390,21 +480,6 @@
       ]
     },
     {
-      "id": 48679373,
-      "source": "ESPN",
-      "headline": "Man City and Arsenal will be disappointed with Everton draw - Jamie Carragher",
-      "description": "Manchester City's last-gasp draw at Everton will have left both them and title rivals Arsenal disappointed, according to Jamie Carragher.",
-      "publishedAt": "2026-05-05T09:49:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653592_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48679373/man-city-arsenal-disappointed-everton-draw-jamie-carragher",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City",
-        "Everton"
-      ]
-    },
-    {
       "id": 48683222,
       "source": "ESPN",
       "headline": "Will Casemiro join Lionel Messi at Inter Miami?",
@@ -431,65 +506,20 @@
       ]
     },
     {
-      "id": 48682818,
-      "source": "ESPN",
-      "headline": "Pep Guardiola: The title is no longer in our hands",
-      "description": "Manchester City manager Pep Guardiola believes \"a point is better than no points\" after their dramatic draw against Everton in the Premier League.",
-      "publishedAt": "2026-05-05T07:50:29Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0505/dm_260505_COM_SOC_Analysis_Pep_Guardiola3A_A_point_is_better_than_no_points_GLOBAL_2026-05-05/dm_260505_COM_SOC_Analysis_Pep_Guardiola3A_A_point_is_better_than_no_points_GLOBAL_2026-05-05.jpg",
-      "link": "https://www.espn.com/video/clip?id=48682818",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48679305,
-      "source": "ESPN",
-      "headline": "Everton draw could spell doom for Man City in Premier League title race",
-      "description": "Manchester City handed control of the Premier League title race to Arsenal with their dramatic second-half collapse on Merseyside.",
-      "publishedAt": "2026-05-05T00:03:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653600_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48679305/everton-draw-spell-doom-man-city-premier-league-title-race",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48679116,
-      "source": "ESPN",
-      "headline": "Guardiola says Premier League out of City's hands after draw",
-      "description": "Manchester City coach Pep Guardiola praised the determination of his team after it snatched a dramatic 3-3 draw at Everton, but he knows his squad faces an uphill battle in the Premier League title race.",
-      "publishedAt": "2026-05-04T23:40:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653576_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48679116/guardiola-premier-league-city-hands-draw",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 42269743,
-      "source": "ESPN",
-      "headline": "Who are the top scorers in Premier League history?",
-      "description": "Alan Shearer has scored the most goals in Premier League history. Which other players are at the top of the list? Check out the breakdown now.",
-      "publishedAt": "2026-05-04T23:00:03Z",
-      "image": "https://a.espncdn.com/photo/2018/0501/r364055_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/42269743/who-top-scorers-premier-league-history",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Arsenal",
-        "Tottenham Hotspur",
-        "Leicester City"
-      ]
+      "id": "d1fabb25b749ca6dc6ba1db09f136cbb",
+      "source": "Sky Sports",
+      "headline": "Chelsea latest: McFarlane responds to Carra's 'broken club' comments",
+      "description": "",
+      "publishedAt": "2026-05-04T14:50:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-chelsea_7227885.jpg?20260423071903",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-07T08:47:25.920Z"
+    "cachedAt": "2026-05-07T14:48:53.411Z"
   }
 }
