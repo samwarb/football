@@ -2,6 +2,59 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48709632,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City eye Vinícius Júnior this summer",
+      "description": "Manchester City are waiting in the wings should Vinícius Júnior become available this summer. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-08T07:31:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0318/r1630172_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709632/transfer-rumors-news-man-city-eye-vinicius-junior-summer",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 48701402,
+      "source": "ESPN",
+      "headline": "Manchester City vs. Brentford in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of Saturday's Premier League clash between Manchester City and Brentford.",
+      "publishedAt": "2026-05-08T06:47:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0504/r1653600_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48701402/manchester-city-vs-brentford-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Brentford"
+      ]
+    },
+    {
+      "id": 48700268,
+      "source": "ESPN",
+      "headline": "Liverpool vs Chelsea in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "Everything you need to know about Liverpool vs Chelsea in the Premier League, including five key talking points.",
+      "publishedAt": "2026-05-08T06:47:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0414/r1643583_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48700268/liverpool-vs-chelsea-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "4631be6c09d63fea0f473c0f933b0279",
+      "source": "Sky Sports",
+      "headline": "McGinn: Villa are not nearly men, we are trying to become legends",
+      "description": "Aston Villa captain John McGinn says his side must shed the \"nearly men\" tag and become legends by ending the club's 30-year wait for silverware with Europa League success.",
+      "publishedAt": "2026-05-08T06:45:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-john-mcginn-aston-villa_7242223.jpg?20260508080308",
+      "link": "https://www.skysports.com/football/news/12040/13541392/aston-villa-john-mcginn-wants-team-to-become-legends-by-ending-30-year-trophy-drought-with-europa-league-triumph",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "89167d4e675d70437b32e6ef418faa27",
       "source": "Sky Sports",
       "headline": "Villa blow Forest away to reach Europa League final",
@@ -127,17 +180,6 @@
       ]
     },
     {
-      "id": "b1841a29a14fedad07f5c3d136a9a999",
-      "source": "Sky Sports",
-      "headline": "How Boro recruited Hellberg - the man who has them dreaming of PL return",
-      "description": "It was in a high-rise central London hotel that Middlesbrough were first blown away by Kim Hellberg.",
-      "publishedAt": "2026-05-07T15:15:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-kim-hellberg-middlesbrough_7241379.jpg?20260507135116",
-      "link": "https://www.skysports.com/football/news/12040/13541100/middlesbrough-how-boro-recruited-kim-hellberg-rob-edwards-successor-who-has-them-dreaming-of-premier-league-return",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48702837,
       "source": "ESPN",
       "headline": "Chelsea's Calum McFarlane: Players 'in a good place' despite dismal run",
@@ -148,20 +190,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 48701402,
-      "source": "ESPN",
-      "headline": "Manchester City vs. Brentford in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "All you need to know ahead of Saturday's Premier League clash between Manchester City and Brentford.",
-      "publishedAt": "2026-05-07T14:27:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0504/r1653600_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48701402/manchester-city-vs-brentford-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Brentford"
       ]
     },
     {
@@ -202,20 +230,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 48700268,
-      "source": "ESPN",
-      "headline": "Liverpool vs Chelsea in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "Everything you need to know about Liverpool vs Chelsea in the Premier League, including five key talking points.",
-      "publishedAt": "2026-05-07T09:38:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0414/r1643583_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48700268/liverpool-vs-chelsea-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Chelsea"
       ]
     },
     {
@@ -424,24 +438,11 @@
       "teams": [
         "Ipswich Town"
       ]
-    },
-    {
-      "id": 48684293,
-      "source": "ESPN",
-      "headline": "Jesse Derry calls Chelsea debut 'dream come true' despite head injury",
-      "description": "Jesse Derry has said it was a \"dream come true\" to make his debut for Chelsea, despite suffering a head injury in the 3-1 loss to Nottingham Forest.",
-      "publishedAt": "2026-05-05T13:37:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0505/r1653783_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48684293/jesse-derry-calls-chelsea-debut-dream-come-true-head-injury",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-08T03:52:09.349Z"
+    "cachedAt": "2026-05-08T07:56:38.591Z"
   }
 }
