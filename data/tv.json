@@ -33,6 +33,14 @@
       "Sky Sports Main Event",
       "Sky Sports Premier League"
     ],
+    "aston villa|liverpool": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "manchester united|nottingham forest": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
     "brentford|crystal palace": [
       "Sky Sports TBC"
     ],
@@ -63,6 +71,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-07T19:52:57.825Z"
+    "cachedAt": "2026-05-08T03:52:09.201Z"
   }
 }

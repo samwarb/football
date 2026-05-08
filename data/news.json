@@ -2,6 +2,17 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "89167d4e675d70437b32e6ef418faa27",
+      "source": "Sky Sports",
+      "headline": "Villa blow Forest away to reach Europa League final",
+      "description": "Aston Villa blew Nottingham Forest away 4-0 at Villa Park to win 4-1 on aggregate and reach the Europa League final.",
+      "publishedAt": "2026-05-07T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ollie-watkins-villa_7241786.jpg?20260507204809",
+      "link": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/report/554962",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 48704747,
       "source": "ESPN",
       "headline": "Liverpool scale back plans for ticket price increases after protests from fans",
@@ -55,28 +66,6 @@
       ]
     },
     {
-      "id": "508640a1595cb1c313aa9d54100b1d9c",
-      "source": "Sky Sports",
-      "headline": "Middlesbrough accuse Southampton of spying ahead of play-offs",
-      "description": "Middlesbrough have made a formal complaint to the EFL alleging a man they believe to be a Southampton member of staff was spying on their training session on Thursday, ahead of the first leg of the Championship play-off semi-final between the two teams, Sky Sports News understands.",
-      "publishedAt": "2026-05-07T18:13:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-eckert-southampton_7241771.jpg?20260507202456",
-      "link": "https://www.skysports.com/football/news/12040/13541212/middlesbrough-vs-southamption-boro-accuse-member-of-saints-coaching-staff-of-spying-on-training-ahead-of-championshipplay-off-clash",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "594fce29dd4383b04411077257848c8e",
-      "source": "Sky Sports",
-      "headline": "Watkins levels Europa League decider for Villa against Forest LIVE!",
-      "description": "",
-      "publishedAt": "2026-05-07T17:30:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ollie-watkins-villa_7241786.jpg?20260507204809",
-      "link": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/live/554962",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48703826,
       "source": "ESPN",
       "headline": "Brighton boss Fabian Hürzeler signs three-year contract extension",
@@ -88,6 +77,17 @@
       "teams": [
         "Brighton & Hove Albion"
       ]
+    },
+    {
+      "id": "267557cb3549a56e6f15a8aeae5f5b19",
+      "source": "Sky Sports",
+      "headline": "PL predictions: How may he assist you? Back Bruno again for Man Utd",
+      "description": "Our football betting expert Jones Knows offers his insight ahead of another exciting weekend of Premier League action.",
+      "publishedAt": "2026-05-07T17:00:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-premier-league-prediction_7223294.jpg?20260418114637",
+      "link": "https://www.skysports.com/football/news/12040/13541224/premier-league-predictions-and-best-bets-how-may-he-assist-you-back-bruno-fernandes-again-for-man-utd",
+      "tag": "Article/Blog",
+      "teams": []
     },
     {
       "id": 48109229,
@@ -127,17 +127,6 @@
       ]
     },
     {
-      "id": "9805431e795bcacec58c97326e113b37",
-      "source": "Sky Sports",
-      "headline": "Villa latest: Club interested in Fulham forward Wilson",
-      "description": "",
-      "publishedAt": "2026-05-07T15:17:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": "b1841a29a14fedad07f5c3d136a9a999",
       "source": "Sky Sports",
       "headline": "How Boro recruited Hellberg - the man who has them dreaming of PL return",
@@ -160,17 +149,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "84d05e41aa4a013bbe467ca315101079",
-      "source": "Sky Sports",
-      "headline": "Transfer Centre LIVE! De Zerbi wants Palhinha to stay at Spurs",
-      "description": "",
-      "publishedAt": "2026-05-07T14:31:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-joao-palhinha-roberto-de-zerbi_7241470.jpg?20260507153317",
-      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48701402,
@@ -328,17 +306,6 @@
       ]
     },
     {
-      "id": "05efa5d69bcc95893cd2caa6c482d31f",
-      "source": "Sky Sports",
-      "headline": "World Cup latest: I would not pay $1,000 for World Cup tickets, says Trump",
-      "description": "",
-      "publishedAt": "2026-05-06T15:40:00.000Z",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-trump-donald-usa_7190386.jpg?20260312165822",
-      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48691864,
       "source": "ESPN",
       "headline": "Declan Rice on facing struggling former club West Ham: 'It's not nice but I've got a job to do'",
@@ -475,6 +442,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-07T19:52:58.014Z"
+    "cachedAt": "2026-05-08T03:52:09.349Z"
   }
 }
