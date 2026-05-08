@@ -2,6 +2,97 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48709632,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City eye Vinícius Júnior this summer",
+      "description": "Manchester City are waiting in the wings should Vinícius Júnior become available this summer. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-08T18:38:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0318/r1630172_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709632/transfer-rumors-news-man-city-eye-vinicius-junior-summer",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 48713096,
+      "source": "ESPN",
+      "headline": "How Bruno Fernandes beat Arsenal stars to the FWA Player of the Year award",
+      "description": "ESPN FC's Mark Ogden explains why Bruno Fernandes won the FWA Player of the Year award ahead of Declan Rice and other players from Arsenal's potential title-winning side.",
+      "publishedAt": "2026-05-08T17:17:49Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_COM_SOC_ANALYSIS_How_Bruno_Fernandes_beat_Arsenal_stars_to_the_FWA_Player_of_the_Year_award_2026_5/dm_260508_COM_SOC_ANALYSIS_How_Bruno_Fernandes_beat_Arsenal_stars_to_the_FWA_Player_of_the_Year_award_2026_5.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48713096/how-bruno-fernandes-beat-arsenal-stars-fwa-player-year-award",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Portugal"
+      ]
+    },
+    {
+      "id": 48711508,
+      "source": "ESPN",
+      "headline": "Man United captain Bruno Fernandes wins FWA Footballer of the Year award",
+      "description": "Manchester United captain Bruno Fernandes has been crowned the 2026 Footballer of the Year by the Football Writers' Association (FWA)",
+      "publishedAt": "2026-05-08T17:05:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0508/r1655295_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48711508/manchester-united-captain-bruno-fernandes-wins-fwa-football-year-award",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48712414,
+      "source": "ESPN",
+      "headline": "Arteta: We will have time to prep for UCL final but now we focus on West Ham",
+      "description": "Mikel Arteta says that \"all the Arsenal's energy\" is being put into earning 3 points against West Ham, after the \"high emotions\" of qualifying for the UEFA Champions League final.",
+      "publishedAt": "2026-05-08T15:19:38Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_Arteta_We_will_have_time_to_prep_for_UCL_final_but_now_we_focus_on_West_Ham/dm_260508_Arteta_We_will_have_time_to_prep_for_UCL_final_but_now_we_focus_on_West_Ham.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48712414/to-prep-ucl-final-now-focus-west-ham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "905c8160a86b88bc510a9ad80843d988",
+      "source": "Sky Sports",
+      "headline": "Andrews: I don't care about title race - but Brentford can match anyone",
+      "description": "Keith Andrews is not particularly interested in becoming Arsenal’s unlikely hero but Brentford’s fearless approach has created a side fully convinced they can impact the Premier League title race.",
+      "publishedAt": "2026-05-08T15:06:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-keith-andrews-brentford_7242835.jpg?20260508175203",
+      "link": "https://www.skysports.com/football/news/12040/13541577/man-city-vs-brentford-keith-andrews-doesnt-care-about-title-race-but-says-his-overachieving-side-can-match-anyone",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48712114,
+      "source": "ESPN",
+      "headline": "Mikel Arteta dismisses criticism from 'celebration police' over Arsenal Champions League reaction",
+      "description": "Mikel Arteta has dismissed criticism from the so-called \"celebration police\" over Arsenal's reaction to reaching the Champions League Final.",
+      "publishedAt": "2026-05-08T14:45:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0508/r1655316_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48712114/mikel-arteta-dismisses-criticism-celebration-police-arsenal-champions-league-reaction",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48711933,
+      "source": "ESPN",
+      "headline": "Alexander Isak could return for Liverpool against Chelsea - Arne Slot",
+      "description": "Arne Slot has confirmed that striker Alexander Isak could return to the squad for Liverpool's Premier League clash with Chelsea this weekend.",
+      "publishedAt": "2026-05-08T14:16:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0414/r1643606_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48711933/alexander-isak-return-liverpool-chelsea-arne-slot",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": 48711964,
       "source": "ESPN",
       "headline": "Arne Slot: Liverpool will need a 'transition' this summer",
@@ -68,31 +159,6 @@
       ]
     },
     {
-      "id": "c4371a5342b8585fde871b75c6a08342",
-      "source": "Sky Sports",
-      "headline": "Bournemouth drop Jimenez amid investigation into social media posts",
-      "description": "Bournemouth have released a statement confirming they have dropped Alex Jimenez for their game against Fulham this weekend.",
-      "publishedAt": "2026-05-08T12:19:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-alex-jimenez-bournemouth_7242520.jpg?20260508123402",
-      "link": "https://www.skysports.com/football/news/12040/13541494/alex-jimenez-bournemouth-drop-defender-amid-investigation-into-social-media-posts",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48709632,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City eye Vinícius Júnior this summer",
-      "description": "Manchester City are waiting in the wings should Vinícius Júnior become available this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-08T12:10:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0318/r1630172_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709632/transfer-rumors-news-man-city-eye-vinicius-junior-summer",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Real Madrid"
-      ]
-    },
-    {
       "id": 48710159,
       "source": "ESPN",
       "headline": "Man United's Michael Carrick admits Sunderland nightmare 'sticks in memory' ahead of return",
@@ -143,17 +209,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "4631be6c09d63fea0f473c0f933b0279",
-      "source": "Sky Sports",
-      "headline": "McGinn: Villa are not nearly men, we are trying to become legends",
-      "description": "Aston Villa captain John McGinn says his side must shed the \"nearly men\" tag and become legends by ending the club's 30-year wait for silverware with Europa League success.",
-      "publishedAt": "2026-05-08T06:45:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-john-mcginn-aston-villa_7242223.jpg?20260508080308",
-      "link": "https://www.skysports.com/football/news/12040/13541392/aston-villa-john-mcginn-wants-team-to-become-legends-by-ending-30-year-trophy-drought-with-europa-league-triumph",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48704747,
@@ -261,17 +316,6 @@
       ]
     },
     {
-      "id": "2afb3c768e2a97584cceb9a3bc7677b0",
-      "source": "Sky Sports",
-      "headline": "Has White unlocked Saka for Arsenal?",
-      "description": "",
-      "publishedAt": "2026-05-07T13:05:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ben-white-bukayo_7242470.jpg?20260508112040",
-      "link": "https://www.skysports.com/football/news/12040/13541070/bukayo-saka-returning-to-top-form-for-trophy-chasing-arsenal-thanks-in-part-to-ben-whites-service-the-radar",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48702030,
       "source": "ESPN",
       "headline": "Laurens: I did not see Man City's collapse against Everton coming",
@@ -299,17 +343,6 @@
       ]
     },
     {
-      "id": "0457a157a2bb98a9091173c00665967d",
-      "source": "Sky Sports",
-      "headline": "Why Spurs have the edge on West Ham in two-way relegation scrap",
-      "description": "And then there were two. It seems either West Ham or Tottenham will be the final team relegated from the Premier League this season, and, with three games to go, their next matches – both live on Sky Sports – could be decisive in the fight for survival.",
-      "publishedAt": "2026-05-07T11:09:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-spurs_7240334.jpg?20260506103658",
-      "link": "https://www.skysports.com/football/news/12040/13541041/tottenham-and-west-ham-in-two-way-premier-league-relegation-scrap-with-three-games-left-of-the-season",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48701088,
       "source": "ESPN",
       "headline": "Sir Dave Brailsford leaves role as director at Man United",
@@ -321,6 +354,17 @@
       "teams": [
         "Manchester United"
       ]
+    },
+    {
+      "id": "51325641f4dc3e9aee454e1b01189d7a",
+      "source": "Sky Sports",
+      "headline": "Hull and Millwall locked in tense battle in play-offs opener on Sky LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-07T09:03:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-hull-city_7242985.jpg?20260508201259",
+      "link": "https://www.skysports.com/football/hull-city-vs-millwall/live/555901",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48693301,
@@ -384,73 +428,20 @@
       ]
     },
     {
-      "id": 48694270,
-      "source": "ESPN",
-      "headline": "Emery: Not a failure if Aston Villa don't win Europa League",
-      "description": "Aston Villa boss Unai Emery says it will not be a failure if his side do not win the Europa League.",
-      "publishedAt": "2026-05-06T16:46:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654374_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48694270/unai-emery-not-failure-aston-villa-do-not-win-europa-league",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 48694275,
-      "source": "ESPN",
-      "headline": "Erling Haaland's agent says Man City are the 'most difficult club' to negotiate with",
-      "description": "Erling Haaland's agent, Rafaela Pimenta, has said that Manchester City are the most difficult club to conduct negotiations with.",
-      "publishedAt": "2026-05-06T16:24:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0404/r1638368_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48694275/erling-haaland-manchester-city-agent-rafaela-pimenta-hardest-club-negotiate",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48691864,
-      "source": "ESPN",
-      "headline": "Declan Rice on facing struggling former club West Ham: 'It's not nice but I've got a job to do'",
-      "description": "Declan Rice has said that \"without West Ham, there's no me\" but insisted that he \"has a job to do\" when Arsenal face his struggling former club on May 10, as the Gunners seek a first Premier League title in 22 years.",
-      "publishedAt": "2026-05-06T10:35:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654233_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48691864/not-nice-got-job-do",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48691603,
-      "source": "ESPN",
-      "headline": "Ian Wright hits back at 'celebration police' after reaction to Arsenal reaching Champions League final",
-      "description": "Ian Wright has told Arsenal fans to enjoy reaching the Champions League final and urged them to ignore the \"celebration police,\" not long after Wayne Rooney said the Gunners' celebrations were a \"little bit too much.\"",
-      "publishedAt": "2026-05-06T09:27:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654226_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48691603/ian-wright-hits-back-celebration-police-reaction-arsenal-reaching-champions-league-final",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48682887,
-      "source": "ESPN",
-      "headline": "Revisiting ESPN's 39 U21 men's lists: Who flopped? Who should have been higher?",
-      "description": "For eight years, ESPN has brought you a list of the game's next young stars aged 21 or under. But what has happened to some of the players from years gone by?",
-      "publishedAt": "2026-05-06T08:05:45Z",
-      "image": "https://a.espncdn.com/photo/2021/0420/soc_36-under-21_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48682887/revisiting-espn-39-u21-men-lists-flopped-been-higher",
-      "tag": "Story",
+      "id": "ac909c28cba5527c8e387c072b8ae5a3",
+      "source": "Sky Sports",
+      "headline": "Leeds latest: Okafor to miss Tottenham trip",
+      "description": "",
+      "publishedAt": "2026-04-30T07:50:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-leeds-news-club-blog_7039256.jpg?20251002160345",
+      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
       "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-08T14:15:37.101Z"
+    "cachedAt": "2026-05-08T19:44:09.276Z"
   }
 }
