@@ -2,13 +2,167 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48723108,
+      "source": "ESPN",
+      "headline": "Leboeuf: Arsenal must beat West Ham",
+      "description": "Frank Leboeuf says Arsenal cannot afford to draw against West Ham as the pressure mounts in the title race.",
+      "publishedAt": "2026-05-09T19:09:22Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0509/dm_260509_Leboeuf_Arsenal_must_beat_West_Ham/dm_260509_Leboeuf_Arsenal_must_beat_West_Ham.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48723108/arsenal-beat-west-ham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48722840,
+      "source": "ESPN",
+      "headline": "VAR review: Did Man United deserve to be up a man at Sunderland?",
+      "description": "Man United settled for a scoreless draw at Sunderland, but Bruno Fernandes was adamant the hosts should've gone down to 10 men. Was he right?",
+      "publishedAt": "2026-05-09T19:06:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655826_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48722840/var-review-did-manchester-united-deserve-a-man-premier-league-draw-sunderland",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": "e5d658381e18e16a67dbf5bb45919f03",
+      "source": "Sky Sports",
+      "headline": "Title race back ON! Doku inspires City to HUGE Brentford win",
+      "description": "Highlights from the Premier League clash between Manchester City and Brentford.",
+      "publishedAt": "2026-05-09T18:45:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-manchester-city-brentford_7243878.jpg?20260509191636",
+      "link": "https://www.skysports.com/watch/video/13542094/manchester-city-3-0-brentford-premier-league-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 48713681,
+      "source": "ESPN",
+      "headline": "Jeremy Doku inspires 3-0 Man City win over Brentford to close gap on Arsenal",
+      "description": "Jérémy Doku struck again as Manchester City kept their title hopes alive with a vital 3-0 win over Brentford in the Premier League on Saturday.",
+      "publishedAt": "2026-05-09T18:42:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655818_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740951",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Brentford"
+      ]
+    },
+    {
       "id": 48704622,
       "source": "ESPN",
-      "headline": "Premier League live updates: Chelsea snap losing streak with Liverpool draw",
-      "description": "Chelsea put an end to their Premier League losing streak at Liverpool. Comimg up, Man United face Sunderland. Follow live with ESPN.",
-      "publishedAt": "2026-05-09T13:35:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655683_1296x729_16-9.jpg",
+      "headline": "Premier League recap: Man City keep title hopes alive vs. Brentford",
+      "description": "Man City kept the pressure on Premier League leaders Arsenal by beating Brentford 3-0 to close within two points. Relive all the action with ESPN.",
+      "publishedAt": "2026-05-09T18:24:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655798_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48704622/premier-league-live-updates-liverpool-chelsea-sunderland-manchester-united-manchester-city-brentford",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Brentford"
+      ]
+    },
+    {
+      "id": 48722615,
+      "source": "ESPN",
+      "headline": "Wolves boss planning clearout after 'embarrassing' Brighton loss: 'Still in our nice hotel'",
+      "description": "Wolves boss Rob Edwards is intent on having a summer clearout after accusing some of his players of failing to follow instructions and showing a lack of interest during a woeful 3-0 defeat at Brighton.",
+      "publishedAt": "2026-05-09T18:07:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655799_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48722615/wolves-edwards-looked-were-our-nice-hotel-brighton-premier-league",
+      "tag": "Wolverhampton Wanderers",
+      "teams": [
+        "Wolverhampton Wanderers"
+      ]
+    },
+    {
+      "id": "104e296958ba6d706b8336ca1147ff55",
+      "source": "Sky Sports",
+      "headline": "WSL latest: Russo scores twice as Arsenal beat Aston Villa",
+      "description": "",
+      "publishedAt": "2026-05-09T17:25:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-alessia-russo-arsenal_7243373.jpg?20260509123401",
+      "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48711534,
+      "source": "ESPN",
+      "headline": "West Ham vs Arsenal: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of Sunday's crucial Premier League clash between West Ham United and Arsenal.",
+      "publishedAt": "2026-05-09T16:38:16Z",
+      "image": "https://a.espncdn.com/photo/2025/1004/r1555395_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48711534/west-ham-united-vs-arsenal-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48721876,
+      "source": "ESPN",
+      "headline": "Michallik: Man United need major squad improvements",
+      "description": "Janusz Michallik believes Manchester United must invest in their squad to reach the next level.",
+      "publishedAt": "2026-05-09T16:33:51Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0509/dm_260509_COM_SOC_Analysis_Michallik3A_Man_United_need_major_squad_improvements_GLOBAL_2026-05-09/dm_260509_COM_SOC_Analysis_Michallik3A_Man_United_need_major_squad_improvements_GLOBAL_2026-05-09.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48721876/man-united-need-major-squad-improvements",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 48713658,
+      "source": "ESPN",
+      "headline": "Brighton ease past hapless Wolves to keep Champions League dream alive",
+      "description": "",
+      "publishedAt": "2026-05-09T16:20:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655746_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740946",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Wolverhampton Wanderers"
+      ]
+    },
+    {
+      "id": "1850600ad524264bc17c88f1d314fa9f",
+      "source": "Sky Sports",
+      "headline": "Curtis scores twice as Kilmarnock ease relegation worries at St Mirren",
+      "description": "A Findlay Curtis double and an own goal from St Mirren's Miguel Freckleton helped Kilmarnock to their first away win since September as they eased their Scottish Premiership relegation worries.",
+      "publishedAt": "2026-05-09T15:50:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-kilmarnock-st-mirren_7243747.jpg?20260509174320",
+      "link": "https://www.skysports.com/football/st-mirren-vs-kilmarnock/report/555745",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "ea7f8144527c1de86c3451196a8ee261",
+      "source": "Sky Sports",
+      "headline": "Campbell scores twice on return as Hibernian beat Falkirk to boost Euro hopes",
+      "description": "Josh Campbell marked his first start of 2026 with a double as Hibernian boosted their European hopes with a 3-1 win at Falkirk.",
+      "publishedAt": "2026-05-09T15:50:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-josh-campbell-hibernian_7243735.jpg?20260509173730",
+      "link": "https://www.skysports.com/football/falkirk-vs-hibernian/report/555743",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48721300,
+      "source": "ESPN",
+      "headline": "Arne Slot on Liverpool boos after Chelsea draw: I can win back fans",
+      "description": "Arne Slot has backed himself to win back the Liverpool fanbase after supporters booed the Dutchman and his team during Saturday's 1-1 draw with Chelsea.",
+      "publishedAt": "2026-05-09T15:19:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655730_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48721300/arne-slot-liverpool-boos-chelsea-draw-win-back-fans",
       "tag": "Liverpool",
       "teams": [
         "Liverpool",
@@ -16,26 +170,101 @@
       ]
     },
     {
-      "id": "996c893d6ff3b30d22111430d07a22ac",
-      "source": "Sky Sports",
-      "headline": "Boro & Saints tie in the balance after first-leg stalemate",
-      "description": "Middlesbrough and Southampton played out a goalless draw to leave their Championship play-off semi-final finely poised at the midway point.",
-      "publishedAt": "2026-05-09T13:20:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-tom-fellows-riley-mcgree_7243379.jpg?20260509124548",
-      "link": "https://www.skysports.com/football/middlesbrough-vs-southampton/report/555902",
-      "tag": "Report",
-      "teams": []
+      "id": 48719479,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea, Newcastle monitor free agent Darwin Núñez",
+      "description": "Could free agent Darwin Núñez return to the Premier League? Plus, Bayern are not in talks with Arsenal's Kai Havertz. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-09T15:17:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655668_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48719479/transfer-rumors-news-chelsea-newcastle-monitor-former-liverpool-free-agent-darwin-nunez",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Newcastle United",
+        "Al Hilal"
+      ]
     },
     {
-      "id": "1358b3d0dc02e51401e7cbba38c40404",
-      "source": "Sky Sports",
-      "headline": "Frustration at Anfield as Liverpool can only draw with Chelsea",
-      "description": "There was frustration at Anfield as Liverpool drew 1-1 with a visiting Chelsea side who ended their six-game losing streak.",
-      "publishedAt": "2026-05-09T13:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-wesley-fofana_7243408.jpg?20260509132220",
-      "link": "https://www.skysports.com/football/liverpool-vs-chelsea/report/531483",
-      "tag": "Report",
-      "teams": []
+      "id": 48721128,
+      "source": "ESPN",
+      "headline": "Levi Colwill 'exceptional,' could start FA Cup final vs. Man City -- Chelsea boss",
+      "description": "Calum McFarlane said defender Levi Colwill is on course to start next Saturday's FA Cup final against Manchester City after helping Chelsea earn a 1-1 draw at Liverpool in his first 90 minutes since suffering a pre-season cruciate ligament injury.",
+      "publishedAt": "2026-05-09T15:03:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655721_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48721128/levi-colwill-exceptional-start-fa-cup-final-vs-man-city-chelsea-boss",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48721198,
+      "source": "ESPN",
+      "headline": "Slot admits boos 'make sense' after Liverpool's draw vs. Chelsea",
+      "description": "Arne Slot speaks about his decision to take off Rio Ngumoha and his reaction to fans booing at full-time.",
+      "publishedAt": "2026-05-09T15:03:23Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0509/dm_260509_COM_SOC_Presser_Slot_admits_boos_make_sense_after_Liverpools_draw_vs_Chelsea__20260509_GLOBA/dm_260509_COM_SOC_Presser_Slot_admits_boos_make_sense_after_Liverpools_draw_vs_Chelsea__20260509_GLOBA.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48721198/slot-admits-boos-make-sense-liverpool-draw-vs-chelsea",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48720758,
+      "source": "ESPN",
+      "headline": "Anfield losing patience with Liverpool's Slot; Chelsea snap streak",
+      "description": "Liverpool were booed off by their own fans at Anfield as they drew 1-1 to Chelsea, who snapped their six-game losing streak.",
+      "publishedAt": "2026-05-09T14:41:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655696_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48720758/anfield-losing-patience-liverpool-slot-chelsea-snap-streak",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48720963,
+      "source": "ESPN",
+      "headline": "Michallik: Andoni Iraola would be perfect for Chelsea",
+      "description": "ESPN's Mark Donaldson is joined by Janusz Michallik to react to Liverpool and Chelsea drawing 1-1 in the Premier League.",
+      "publishedAt": "2026-05-09T14:25:52Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0509/dm_260509_COM_SOC_ANALYSIS_Michallik_Andoni_Iraola_would_be_perfect_for_Chelsea_2026_5_9/dm_260509_COM_SOC_ANALYSIS_Michallik_Andoni_Iraola_would_be_perfect_for_Chelsea_2026_5_9.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48720963/andoni-iraola-perfect-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48713653,
+      "source": "ESPN",
+      "headline": "Liverpool still waiting to secure Champions League spot after Chelsea draw",
+      "description": "Liverpool's wait to secure Champions League football goes on while Chelsea avoided a club record-equalling seventh straight defeat in a 1-1 draw at Anfield.",
+      "publishedAt": "2026-05-09T14:20:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655703_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740950",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48720923,
+      "source": "ESPN",
+      "headline": "Were the Liverpool fans wrong to boo Arne Slot for taking off Rio Ngumoha?",
+      "description": "Janusz Michallik reacts to Liverpool's 1-1 draw with Chelsea in the Premier League.",
+      "publishedAt": "2026-05-09T14:20:08Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0509/dm_260509_COM_SOC_ANALYSIS_Were_the_Liverpool_fans_wrong_to_boo_Arne_Slot_for_taking_off_Rio_Ngumoha_2026_5/dm_260509_COM_SOC_ANALYSIS_Were_the_Liverpool_fans_wrong_to_boo_Arne_Slot_for_taking_off_Rio_Ngumoha_2026_5.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48720923/were-liverpool-fans-wrong-boo-arne-slot-taking-rio-ngumoha",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Liverpool"
+      ]
     },
     {
       "id": 48719405,
@@ -51,19 +280,15 @@
       ]
     },
     {
-      "id": 48719479,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea, Newcastle monitor free agent Darwin Núñez",
-      "description": "Could free agent Darwin Núñez return to the Premier League? Plus, Bayern are not in talks with Arsenal's Kai Havertz. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-09T10:41:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655668_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48719479/transfer-rumors-news-chelsea-newcastle-monitor-former-liverpool-free-agent-darwin-nunez",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Newcastle United",
-        "Al Hilal"
-      ]
+      "id": "a3c51388d91df00acd17990810b3f30a",
+      "source": "Sky Sports",
+      "headline": "Bournemouth close in on European place with crucial win at Fulham",
+      "description": "Bournemouth strengthened their grip on a European place and extended their extraordinary unbeaten run to 16 games with a 1-0 victory at Fulham, in which both teams had a player sent off.",
+      "publishedAt": "2026-05-09T11:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-rayan-bournemouth_7243621.jpg?20260509162249",
+      "link": "https://www.skysports.com/football/fulham-vs-bournemouth/report/531482",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 48715380,
@@ -132,31 +357,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 48711534,
-      "source": "ESPN",
-      "headline": "West Ham vs Arsenal: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "All you need to know ahead of Sunday's crucial Premier League clash between West Ham United and Arsenal.",
-      "publishedAt": "2026-05-08T21:21:17Z",
-      "image": "https://a.espncdn.com/photo/2025/1004/r1555395_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48711534/west-ham-united-vs-arsenal-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": "7e278825d17927976be7f94924ec1cab",
-      "source": "Sky Sports",
-      "headline": "Papers: Van Dijk 'ready to leave' Liverpool",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-05-08T21:15:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13541686/virgil-van-dijk-liverpool-captain-ready-to-leave-club-with-approach-from-european-club-imminent-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48714576,
@@ -265,180 +465,20 @@
       ]
     },
     {
-      "id": 48711549,
-      "source": "ESPN",
-      "headline": "Pep Guardiola: Man City's Rodri not fully fit ahead of Brentford clash",
-      "description": "Pep Guardiola: Man City's Rodri not fully fit ahead of Brentford clash Manchester City boss Pep Guardiola explains that Rodri is still \"not completely comfortable\" ahead of crucial game against Brentford in the Premier League.",
-      "publishedAt": "2026-05-08T12:55:15Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_Pep_Guardiola_Man_Citys_Rodri_not_fully_fit_ahead_of_Brentford_clash/dm_260508_Pep_Guardiola_Man_Citys_Rodri_not_fully_fit_ahead_of_Brentford_clash.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48711549/man-city-rodri-not-fully-fit-ahead-brentford-clash",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48711123,
-      "source": "ESPN",
-      "headline": "Álex Jiménez investigated by Bournemouth, left out of next match",
-      "description": "Álex Jiménez has been left out of Bournemouth's next match amid a club investigation.",
-      "publishedAt": "2026-05-08T12:39:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0508/r1655272_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48711123/alex-jimenez-investigated-bournemouth-left-next-match",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 48711252,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi: We must stay humble despite relegation zone exit",
-      "description": "Tottenham manager Roberto De Zerbi has called for his side to remain humble despite exiting the relegation zone after their victory against Aston Villa.",
-      "publishedAt": "2026-05-08T12:27:34Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_COM_SOC_Analysis_Roberto_De_Zerbi3A_We_must_stay_humble_despite_relegation_zone_exit_GLOBAL_2026-05/dm_260508_COM_SOC_Analysis_Roberto_De_Zerbi3A_We_must_stay_humble_despite_relegation_zone_exit_GLOBAL_2026-05.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48711252/stay-humble-relegation-zone-exit",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48710159,
-      "source": "ESPN",
-      "headline": "Man United's Michael Carrick admits Sunderland nightmare 'sticks in memory' ahead of return",
-      "description": "Michael Carrick is expecting a tough test against Sunderland as he returns to the scene of one of his worst days as a Manchester United player.",
-      "publishedAt": "2026-05-08T11:55:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0423/r1648064_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48710159/manchester-uniteds-michael-carrick-admits-sunderland-nightmare-sticks-memory-ahead-return",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48711177,
-      "source": "ESPN",
-      "headline": "Michael Carrick: Man Utd contract is out of my hands",
-      "description": "Michael Carrick says \"clarity\" is needed about his future at Manchester United but believes the decision is not up to him.",
-      "publishedAt": "2026-05-08T11:54:06Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_Michael_Carrick_Man_Utd_contract_is_out_of_my_hands/dm_260508_Michael_Carrick_Man_Utd_contract_is_out_of_my_hands.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48711177/man-utd-contract-my-hands",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48710853,
-      "source": "ESPN",
-      "headline": "Goalkeeper to wicketkeeper: World Cup veteran picked by England over-60s cricket team",
-      "description": "Former England goalkeeper has traded goalkeeping for wicketkeeping as he is selected to represent England Seniors at cricket this summer.",
-      "publishedAt": "2026-05-08T11:09:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0508/r1655267_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48710853/from-goalkeeper-wicketkeeper-former-england-shotstopper-selected-national-seniors-cricket-side",
-      "tag": "England",
-      "teams": [
-        "England"
-      ]
-    },
-    {
-      "id": 48710296,
-      "source": "ESPN",
-      "headline": "McFarlane: Chelsea performances not good enough",
-      "description": "Chelsea interim head coach Calum McFarlane said his team 'is not performing the way we should be' ahead of Premier League clash against Liverpool.",
-      "publishedAt": "2026-05-08T09:24:59Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_McFarlane_Chelsea_performances_not_good_enough/dm_260508_McFarlane_Chelsea_performances_not_good_enough.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48710296/chelsea-performances-not-good-enough",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48704747,
-      "source": "ESPN",
-      "headline": "Liverpool scale back plans for ticket price increases after protests from fans",
-      "description": "After facing a call to sell the Red Sox, Fenway Sports Group moved to quell protests from Liverpool fans by backing down over planned ticket price increases.",
-      "publishedAt": "2026-05-07T19:20:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654960_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48704747/liverpool-scales-back-plans-ticket-price-increases-protests-fans",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48700562,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea's Fernández to make shock move to Arsenal?",
-      "description": "Chelsea midfielder Enzo Fernández is reportedly linked with a move to Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-07T19:17:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654963_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48700562/transfer-rumors-news-palmer-lewis-skelly-manchester-united-radar",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48704491,
-      "source": "ESPN",
-      "headline": "Carrick admits 'clarity is important' on Manchester United future",
-      "description": "Michael Carrick says his future at Manchester United is not in his hands.",
-      "publishedAt": "2026-05-07T18:33:25Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0507/dm_260507_COM_SOC_Presser_Carrick_admits_clarity_is_important_on_Manchester_United_future__20260507_GLOB/dm_260507_COM_SOC_Presser_Carrick_admits_clarity_is_important_on_Manchester_United_future__20260507_GLOB.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48704491/carrick-admits-clarity-important-manchester-united-future",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48703826,
-      "source": "ESPN",
-      "headline": "Brighton boss Fabian Hürzeler signs three-year contract extension",
-      "description": "Brighton boss Fabian Hürzeler has agreed a new three-year contract until June 2029.",
-      "publishedAt": "2026-05-07T17:02:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654880_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48703826/brighton-boss-fabian-hurzeler-signs-three-year-contract-extension",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 48703598,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi slams critics downplaying Tottenham win over rotated Aston Villa",
-      "description": "Roberto De Zerbi has snapped back at criticism in the wake of Tottenham's 2-0 win at a much-rotated Aston Villa.",
-      "publishedAt": "2026-05-07T16:43:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0503/r1653065_576x324_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48703598/roberto-de-zerbi-slams-critics-downplaying-tottenham-win-rotated-aston-villa",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48703758,
-      "source": "ESPN",
-      "headline": "De Zerbi says Spurs 'know they have the quality' to beat Leeds",
-      "description": "Tottenham Hotspur coach Roberto De Zerbi encourages his team to \"keep the mentality\" ahead of their fixture vs. Leeds.",
-      "publishedAt": "2026-05-07T16:38:57Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0507/dm_260507_De_Zerbi_says_Spurs_know_they_have_the_quality_to_beat_Leeds/dm_260507_De_Zerbi_says_Spurs_know_they_have_the_quality_to_beat_Leeds.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48703758/de-zerbi-says-spurs-know-quality-beat-leeds",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
+      "id": "7646a128c86dea607c9777a55fdb63c4",
+      "source": "Sky Sports",
+      "headline": "Bolton vs Bradford: League One play-off semi-final on Sky LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-07T09:26:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-bolton-bradford_7243947.jpg?20260509201058",
+      "link": "https://www.skysports.com/football/bolton-wanderers-vs-bradford-city/live/555905",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-09T13:50:56.636Z"
+    "cachedAt": "2026-05-09T19:21:33.149Z"
   }
 }
