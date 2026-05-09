@@ -249,7 +249,7 @@
       "id": "2267379",
       "round": 31,
       "date": "2026-05-13",
-      "time": "19:00:00",
+      "time": "20:00:00",
       "venue": "Etihad Stadium",
       "status": "Not Started",
       "played": false,
@@ -275,6 +275,6 @@
   ],
   "meta": {
     "cache": "hit",
-    "cachedAt": "2026-05-09T03:53:49.460Z"
+    "cachedAt": "2026-05-09T08:10:11.189Z"
   }
 }
