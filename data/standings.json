@@ -1,6 +1,6 @@
 {
   "season": "2025-2026",
-  "updatedAt": "2026-05-09T08:10:10.965Z",
+  "updatedAt": "2026-05-09T13:50:56.542Z",
   "teams": [
     {
       "providerId": "359",
@@ -64,14 +64,14 @@
       "abbreviation": "LIV",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
       "rank": 4,
-      "played": 35,
+      "played": 36,
       "wins": 17,
-      "draws": 7,
+      "draws": 8,
       "losses": 11,
-      "goalsFor": 59,
-      "goalsAgainst": 47,
+      "goalsFor": 60,
+      "goalsAgainst": 48,
       "goalDifference": 12,
-      "points": 58,
+      "points": 59,
       "note": "Champions League"
     },
     {
@@ -154,14 +154,14 @@
       "abbreviation": "CHE",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
       "rank": 9,
-      "played": 35,
+      "played": 36,
       "wins": 13,
-      "draws": 9,
+      "draws": 10,
       "losses": 13,
-      "goalsFor": 54,
-      "goalsAgainst": 48,
+      "goalsFor": 55,
+      "goalsAgainst": 49,
       "goalDifference": 6,
-      "points": 48,
+      "points": 49,
       "note": ""
     },
     {
@@ -365,6 +365,6 @@
   ],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-09T08:10:10.965Z"
+    "cachedAt": "2026-05-09T13:50:56.542Z"
   }
 }

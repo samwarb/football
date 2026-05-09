@@ -1,284 +1,9 @@
 {
   "season": "2025-2026",
-  "currentRound": 35,
+  "currentRound": 36,
   "complete": false,
-  "scope": "Rounds 30-37",
+  "scope": "Rounds 31-38",
   "rounds": [
-    {
-      "round": 30,
-      "fixtures": [
-        {
-          "id": "2267363",
-          "round": 30,
-          "date": "2026-03-14",
-          "time": "17:30:00",
-          "venue": "Emirates Stadium",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "arsenal",
-            "name": "Arsenal",
-            "shortName": "Arsenal",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
-          },
-          "away": {
-            "slug": "everton",
-            "name": "Everton",
-            "shortName": "Everton",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
-          },
-          "score": {
-            "home": 2,
-            "away": 0
-          },
-          "tvChannels": []
-        },
-        {
-          "id": "2267365",
-          "round": 30,
-          "date": "2026-03-14",
-          "time": "15:00:00",
-          "venue": "",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "burnley",
-            "name": "Burnley",
-            "shortName": "Burnley",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
-          },
-          "away": {
-            "slug": "bournemouth",
-            "name": "Bournemouth",
-            "shortName": "Bournemouth",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
-          },
-          "score": {
-            "home": 0,
-            "away": 0
-          },
-          "tvChannels": []
-        },
-        {
-          "id": "2267366",
-          "round": 30,
-          "date": "2026-03-14",
-          "time": "17:30:00",
-          "venue": "",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "chelsea",
-            "name": "Chelsea",
-            "shortName": "Chelsea",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
-          },
-          "away": {
-            "slug": "newcastle-united",
-            "name": "Newcastle United",
-            "shortName": "Newcastle",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
-          },
-          "score": {
-            "home": 0,
-            "away": 1
-          },
-          "tvChannels": []
-        },
-        {
-          "id": "2267371",
-          "round": 30,
-          "date": "2026-03-14",
-          "time": "15:00:00",
-          "venue": "",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "sunderland",
-            "name": "Sunderland",
-            "shortName": "Sunderland",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
-          },
-          "away": {
-            "slug": "brighton",
-            "name": "Brighton and Hove Albion",
-            "shortName": "Brighton",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
-          },
-          "score": {
-            "home": 0,
-            "away": 1
-          },
-          "tvChannels": []
-        },
-        {
-          "id": "2267372",
-          "round": 30,
-          "date": "2026-03-14",
-          "time": "20:00:00",
-          "venue": "London Stadium",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "west-ham-united",
-            "name": "West Ham United",
-            "shortName": "West Ham",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
-          },
-          "away": {
-            "slug": "manchester-city",
-            "name": "Manchester City",
-            "shortName": "Man City",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
-          },
-          "score": {
-            "home": 1,
-            "away": 1
-          },
-          "tvChannels": []
-        },
-        {
-          "id": "2267367",
-          "round": 30,
-          "date": "2026-03-15",
-          "time": "14:00:00",
-          "venue": "Selhurst Park",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "crystal-palace",
-            "name": "Crystal Palace",
-            "shortName": "Crystal Palace",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
-          },
-          "away": {
-            "slug": "leeds-united",
-            "name": "Leeds United",
-            "shortName": "Leeds",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
-          },
-          "score": {
-            "home": 0,
-            "away": 0
-          },
-          "tvChannels": []
-        },
-        {
-          "id": "2267368",
-          "round": 30,
-          "date": "2026-03-15",
-          "time": "16:30:00",
-          "venue": "Anfield",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "liverpool",
-            "name": "Liverpool",
-            "shortName": "Liverpool",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
-          },
-          "away": {
-            "slug": "tottenham-hotspur",
-            "name": "Tottenham Hotspur",
-            "shortName": "Tottenham",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
-          },
-          "score": {
-            "home": 1,
-            "away": 1
-          },
-          "tvChannels": []
-        },
-        {
-          "id": "2267369",
-          "round": 30,
-          "date": "2026-03-15",
-          "time": "14:00:00",
-          "venue": "Old Trafford",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "manchester-united",
-            "name": "Manchester United",
-            "shortName": "Man United",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
-          },
-          "away": {
-            "slug": "aston-villa",
-            "name": "Aston Villa",
-            "shortName": "Aston Villa",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
-          },
-          "score": {
-            "home": 3,
-            "away": 1
-          },
-          "tvChannels": []
-        },
-        {
-          "id": "2267370",
-          "round": 30,
-          "date": "2026-03-15",
-          "time": "14:00:00",
-          "venue": "City Ground",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "nottingham-forest",
-            "name": "Nottingham Forest",
-            "shortName": "Nottingham Forest",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
-          },
-          "away": {
-            "slug": "fulham",
-            "name": "Fulham",
-            "shortName": "Fulham",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
-          },
-          "score": {
-            "home": 0,
-            "away": 0
-          },
-          "tvChannels": []
-        },
-        {
-          "id": "2267364",
-          "round": 30,
-          "date": "2026-03-16",
-          "time": "20:00:00",
-          "venue": "Brentford Community Stadium",
-          "status": "Match Finished",
-          "played": true,
-          "live": false,
-          "home": {
-            "slug": "brentford",
-            "name": "Brentford",
-            "shortName": "Brentford",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
-          },
-          "away": {
-            "slug": "wolverhampton-wanderers",
-            "name": "Wolverhampton Wanderers",
-            "shortName": "Wolves",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
-          },
-          "score": {
-            "home": 2,
-            "away": 2
-          },
-          "tvChannels": []
-        }
-      ]
-    },
     {
       "round": 31,
       "fixtures": [
@@ -1717,9 +1442,9 @@
           "date": "2026-05-09",
           "time": "12:30:00",
           "venue": "Anfield",
-          "status": "Not Started",
-          "played": false,
-          "live": false,
+          "status": "2H",
+          "played": true,
+          "live": true,
           "home": {
             "slug": "liverpool",
             "name": "Liverpool",
@@ -1733,8 +1458,8 @@
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
           },
           "tvChannels": []
         },
@@ -2203,279 +1928,284 @@
           "tvChannels": []
         }
       ]
+    },
+    {
+      "round": 38,
+      "fixtures": [
+        {
+          "id": "2267443",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "American Express Stadium",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "brighton",
+            "name": "Brighton and Hove Albion",
+            "shortName": "Brighton",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+          },
+          "away": {
+            "slug": "manchester-united",
+            "name": "Manchester United",
+            "shortName": "Man United",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267444",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "Turf Moor",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "burnley",
+            "name": "Burnley",
+            "shortName": "Burnley",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
+          },
+          "away": {
+            "slug": "wolverhampton-wanderers",
+            "name": "Wolverhampton Wanderers",
+            "shortName": "Wolves",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267445",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "Selhurst Park",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "crystal-palace",
+            "name": "Crystal Palace",
+            "shortName": "Crystal Palace",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+          },
+          "away": {
+            "slug": "arsenal",
+            "name": "Arsenal",
+            "shortName": "Arsenal",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267446",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "Craven Cottage",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "fulham",
+            "name": "Fulham",
+            "shortName": "Fulham",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+          },
+          "away": {
+            "slug": "newcastle-united",
+            "name": "Newcastle United",
+            "shortName": "Newcastle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267447",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "Anfield",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "liverpool",
+            "name": "Liverpool",
+            "shortName": "Liverpool",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+          },
+          "away": {
+            "slug": "brentford",
+            "name": "Brentford",
+            "shortName": "Brentford",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267448",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "Etihad Stadium",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "manchester-city",
+            "name": "Manchester City",
+            "shortName": "Man City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+          },
+          "away": {
+            "slug": "aston-villa",
+            "name": "Aston Villa",
+            "shortName": "Aston Villa",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267449",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "City Ground",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "nottingham-forest",
+            "name": "Nottingham Forest",
+            "shortName": "Nottingham Forest",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
+          },
+          "away": {
+            "slug": "bournemouth",
+            "name": "Bournemouth",
+            "shortName": "Bournemouth",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267450",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "Stadium of Light",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "sunderland",
+            "name": "Sunderland",
+            "shortName": "Sunderland",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+          },
+          "away": {
+            "slug": "chelsea",
+            "name": "Chelsea",
+            "shortName": "Chelsea",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267451",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "Tottenham Hotspur Stadium",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "tottenham-hotspur",
+            "name": "Tottenham Hotspur",
+            "shortName": "Tottenham",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+          },
+          "away": {
+            "slug": "everton",
+            "name": "Everton",
+            "shortName": "Everton",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267452",
+          "round": 38,
+          "date": "2026-05-24",
+          "time": "15:00:00",
+          "venue": "London Stadium",
+          "status": "Not Started",
+          "played": false,
+          "live": false,
+          "home": {
+            "slug": "west-ham-united",
+            "name": "West Ham United",
+            "shortName": "West Ham",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
+          },
+          "away": {
+            "slug": "leeds-united",
+            "name": "Leeds United",
+            "shortName": "Leeds",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+          },
+          "score": {
+            "home": null,
+            "away": null
+          },
+          "tvChannels": []
+        }
+      ]
     }
   ],
   "fixtures": [
-    {
-      "id": "2267363",
-      "round": 30,
-      "date": "2026-03-14",
-      "time": "17:30:00",
-      "venue": "Emirates Stadium",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "arsenal",
-        "name": "Arsenal",
-        "shortName": "Arsenal",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
-      },
-      "away": {
-        "slug": "everton",
-        "name": "Everton",
-        "shortName": "Everton",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 0
-      },
-      "tvChannels": []
-    },
-    {
-      "id": "2267365",
-      "round": 30,
-      "date": "2026-03-14",
-      "time": "15:00:00",
-      "venue": "",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "burnley",
-        "name": "Burnley",
-        "shortName": "Burnley",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
-      },
-      "away": {
-        "slug": "bournemouth",
-        "name": "Bournemouth",
-        "shortName": "Bournemouth",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "tvChannels": []
-    },
-    {
-      "id": "2267366",
-      "round": 30,
-      "date": "2026-03-14",
-      "time": "17:30:00",
-      "venue": "",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "chelsea",
-        "name": "Chelsea",
-        "shortName": "Chelsea",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
-      },
-      "away": {
-        "slug": "newcastle-united",
-        "name": "Newcastle United",
-        "shortName": "Newcastle",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "tvChannels": []
-    },
-    {
-      "id": "2267371",
-      "round": 30,
-      "date": "2026-03-14",
-      "time": "15:00:00",
-      "venue": "",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "sunderland",
-        "name": "Sunderland",
-        "shortName": "Sunderland",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
-      },
-      "away": {
-        "slug": "brighton",
-        "name": "Brighton and Hove Albion",
-        "shortName": "Brighton",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 1
-      },
-      "tvChannels": []
-    },
-    {
-      "id": "2267372",
-      "round": 30,
-      "date": "2026-03-14",
-      "time": "20:00:00",
-      "venue": "London Stadium",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "west-ham-united",
-        "name": "West Ham United",
-        "shortName": "West Ham",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
-      },
-      "away": {
-        "slug": "manchester-city",
-        "name": "Manchester City",
-        "shortName": "Man City",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "tvChannels": []
-    },
-    {
-      "id": "2267367",
-      "round": 30,
-      "date": "2026-03-15",
-      "time": "14:00:00",
-      "venue": "Selhurst Park",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "crystal-palace",
-        "name": "Crystal Palace",
-        "shortName": "Crystal Palace",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
-      },
-      "away": {
-        "slug": "leeds-united",
-        "name": "Leeds United",
-        "shortName": "Leeds",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "tvChannels": []
-    },
-    {
-      "id": "2267368",
-      "round": 30,
-      "date": "2026-03-15",
-      "time": "16:30:00",
-      "venue": "Anfield",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "liverpool",
-        "name": "Liverpool",
-        "shortName": "Liverpool",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
-      },
-      "away": {
-        "slug": "tottenham-hotspur",
-        "name": "Tottenham Hotspur",
-        "shortName": "Tottenham",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 1
-      },
-      "tvChannels": []
-    },
-    {
-      "id": "2267369",
-      "round": 30,
-      "date": "2026-03-15",
-      "time": "14:00:00",
-      "venue": "Old Trafford",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "manchester-united",
-        "name": "Manchester United",
-        "shortName": "Man United",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
-      },
-      "away": {
-        "slug": "aston-villa",
-        "name": "Aston Villa",
-        "shortName": "Aston Villa",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
-      },
-      "score": {
-        "home": 3,
-        "away": 1
-      },
-      "tvChannels": []
-    },
-    {
-      "id": "2267370",
-      "round": 30,
-      "date": "2026-03-15",
-      "time": "14:00:00",
-      "venue": "City Ground",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "nottingham-forest",
-        "name": "Nottingham Forest",
-        "shortName": "Nottingham Forest",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
-      },
-      "away": {
-        "slug": "fulham",
-        "name": "Fulham",
-        "shortName": "Fulham",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "tvChannels": []
-    },
-    {
-      "id": "2267364",
-      "round": 30,
-      "date": "2026-03-16",
-      "time": "20:00:00",
-      "venue": "Brentford Community Stadium",
-      "status": "Match Finished",
-      "played": true,
-      "live": false,
-      "home": {
-        "slug": "brentford",
-        "name": "Brentford",
-        "shortName": "Brentford",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
-      },
-      "away": {
-        "slug": "wolverhampton-wanderers",
-        "name": "Wolverhampton Wanderers",
-        "shortName": "Wolves",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 2
-      },
-      "tvChannels": []
-    },
     {
       "id": "2267382",
       "round": 31,
@@ -3886,9 +3616,9 @@
       "date": "2026-05-09",
       "time": "12:30:00",
       "venue": "Anfield",
-      "status": "Not Started",
-      "played": false,
-      "live": false,
+      "status": "2H",
+      "played": true,
+      "live": true,
       "home": {
         "slug": "liverpool",
         "name": "Liverpool",
@@ -3902,8 +3632,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
       "tvChannels": []
     },
@@ -4365,11 +4095,281 @@
         "away": null
       },
       "tvChannels": []
+    },
+    {
+      "id": "2267443",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "American Express Stadium",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "brighton",
+        "name": "Brighton and Hove Albion",
+        "shortName": "Brighton",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+      },
+      "away": {
+        "slug": "manchester-united",
+        "name": "Manchester United",
+        "shortName": "Man United",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267444",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "Turf Moor",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "burnley",
+        "name": "Burnley",
+        "shortName": "Burnley",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
+      },
+      "away": {
+        "slug": "wolverhampton-wanderers",
+        "name": "Wolverhampton Wanderers",
+        "shortName": "Wolves",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267445",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "Selhurst Park",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "crystal-palace",
+        "name": "Crystal Palace",
+        "shortName": "Crystal Palace",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+      },
+      "away": {
+        "slug": "arsenal",
+        "name": "Arsenal",
+        "shortName": "Arsenal",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267446",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "Craven Cottage",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "fulham",
+        "name": "Fulham",
+        "shortName": "Fulham",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+      },
+      "away": {
+        "slug": "newcastle-united",
+        "name": "Newcastle United",
+        "shortName": "Newcastle",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267447",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "Anfield",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "liverpool",
+        "name": "Liverpool",
+        "shortName": "Liverpool",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+      },
+      "away": {
+        "slug": "brentford",
+        "name": "Brentford",
+        "shortName": "Brentford",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267448",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "Etihad Stadium",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "manchester-city",
+        "name": "Manchester City",
+        "shortName": "Man City",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+      },
+      "away": {
+        "slug": "aston-villa",
+        "name": "Aston Villa",
+        "shortName": "Aston Villa",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267449",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "City Ground",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "nottingham-forest",
+        "name": "Nottingham Forest",
+        "shortName": "Nottingham Forest",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
+      },
+      "away": {
+        "slug": "bournemouth",
+        "name": "Bournemouth",
+        "shortName": "Bournemouth",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267450",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "Stadium of Light",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "sunderland",
+        "name": "Sunderland",
+        "shortName": "Sunderland",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+      },
+      "away": {
+        "slug": "chelsea",
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267451",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "Tottenham Hotspur Stadium",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "tottenham-hotspur",
+        "name": "Tottenham Hotspur",
+        "shortName": "Tottenham",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+      },
+      "away": {
+        "slug": "everton",
+        "name": "Everton",
+        "shortName": "Everton",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267452",
+      "round": 38,
+      "date": "2026-05-24",
+      "time": "15:00:00",
+      "venue": "London Stadium",
+      "status": "Not Started",
+      "played": false,
+      "live": false,
+      "home": {
+        "slug": "west-ham-united",
+        "name": "West Ham United",
+        "shortName": "West Ham",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
+      },
+      "away": {
+        "slug": "leeds-united",
+        "name": "Leeds United",
+        "shortName": "Leeds",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "tvChannels": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-09T08:10:11.305Z"
+    "cachedAt": "2026-05-09T13:50:56.878Z"
   }
 }

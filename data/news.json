@@ -2,6 +2,70 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48704622,
+      "source": "ESPN",
+      "headline": "Premier League live updates: Chelsea snap losing streak with Liverpool draw",
+      "description": "Chelsea put an end to their Premier League losing streak at Liverpool. Comimg up, Man United face Sunderland. Follow live with ESPN.",
+      "publishedAt": "2026-05-09T13:35:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655683_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48704622/premier-league-live-updates-liverpool-chelsea-sunderland-manchester-united-manchester-city-brentford",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "996c893d6ff3b30d22111430d07a22ac",
+      "source": "Sky Sports",
+      "headline": "Boro & Saints tie in the balance after first-leg stalemate",
+      "description": "Middlesbrough and Southampton played out a goalless draw to leave their Championship play-off semi-final finely poised at the midway point.",
+      "publishedAt": "2026-05-09T13:20:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-tom-fellows-riley-mcgree_7243379.jpg?20260509124548",
+      "link": "https://www.skysports.com/football/middlesbrough-vs-southampton/report/555902",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "1358b3d0dc02e51401e7cbba38c40404",
+      "source": "Sky Sports",
+      "headline": "Frustration at Anfield as Liverpool can only draw with Chelsea",
+      "description": "There was frustration at Anfield as Liverpool drew 1-1 with a visiting Chelsea side who ended their six-game losing streak.",
+      "publishedAt": "2026-05-09T13:00:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-wesley-fofana_7243408.jpg?20260509132220",
+      "link": "https://www.skysports.com/football/liverpool-vs-chelsea/report/531483",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48719405,
+      "source": "ESPN",
+      "headline": "Gabriel says Arsenal will be in his heart forever as club chases Premier League and Champions League success",
+      "description": "Gabriel Magalhães says Arsenal are a club that will be 'in his heart' forever as the club continues to chase a Premier League and Champions League double.",
+      "publishedAt": "2026-05-09T12:14:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655664_1296x864_3-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48719405/gabriel-magalhaes-arsenal-premier-league-champions-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48719479,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea, Newcastle monitor free agent Darwin Núñez",
+      "description": "Could free agent Darwin Núñez return to the Premier League? Plus, Bayern are not in talks with Arsenal's Kai Havertz. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-09T10:41:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655668_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48719479/transfer-rumors-news-chelsea-newcastle-monitor-former-liverpool-free-agent-darwin-nunez",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Newcastle United",
+        "Al Hilal"
+      ]
+    },
+    {
       "id": 48715380,
       "source": "ESPN",
       "headline": "Burley: Brentford are 'playing with house money' ahead of Manchester City clash",
@@ -92,28 +156,6 @@
       "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
       "link": "https://www.skysports.com/football/news/12040/13541686/virgil-van-dijk-liverpool-captain-ready-to-leave-club-with-approach-from-european-club-imminent-paper-talk",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "c5e8ef9afec8ed80f8529a9ccf2f74cb",
-      "source": "Sky Sports",
-      "headline": "Southampton charged by EFL after Middlesbrough spying allegation",
-      "description": "Southampton have been charged with a breach of EFL regulations after a member of staff was alleged to have spied on Middlesbrough's training ahead of their play-off tie.",
-      "publishedAt": "2026-05-08T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-southampton-badge_7243058.jpg?20260508212740",
-      "link": "https://www.skysports.com/football/news/12040/13541724/middlesbrough-vs-southampton-efl-charges-saints-after-member-of-staff-was-alleged-to-have-spied-on-boro-training",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b4e02b63178e0072140174d3058038be",
-      "source": "Sky Sports",
-      "headline": "Millwall have controversial late goal ruled out in tense first leg at Hull",
-      "description": "Hull City and Millwall played out a goalless draw in the first leg of their Championship play-off semi-final to leave the tie on a knife edge.",
-      "publishedAt": "2026-05-08T20:57:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-hull-millwall_7243019.jpg?20260508205008",
-      "link": "https://www.skysports.com/football/hull-city-vs-millwall/report/555901",
-      "tag": "Report",
       "teams": []
     },
     {
@@ -263,17 +305,6 @@
       ]
     },
     {
-      "id": "d6680f2b07e7e656a7698bf871161fb7",
-      "source": "Sky Sports",
-      "headline": "Palace latest: Eagles not giving up on Iraola chase",
-      "description": "",
-      "publishedAt": "2026-05-08T12:00:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-crystal-palace-news_7039251.jpg?20251002160103",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48710159,
       "source": "ESPN",
       "headline": "Man United's Michael Carrick admits Sunderland nightmare 'sticks in memory' ahead of return",
@@ -353,19 +384,6 @@
       ]
     },
     {
-      "id": 48702682,
-      "source": "ESPN",
-      "headline": "Carrick: Manchester United 'Clarity is important' but focused on ending season strongly",
-      "description": "Michael Carrick says \"clarity is important\" but is more concerned about ending the season strongly than getting answers about his Manchester United future.",
-      "publishedAt": "2026-05-07T18:34:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654805_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48702682/carrick-manchester-united-clarity-important-focused-ending-season-strongly",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 48704491,
       "source": "ESPN",
       "headline": "Carrick admits 'clarity is important' on Manchester United future",
@@ -416,49 +434,11 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 48702837,
-      "source": "ESPN",
-      "headline": "Chelsea's Calum McFarlane: Players 'in a good place' despite dismal run",
-      "description": "Chelsea interim boss Calum McFarlane has denied accusations that his players have \"downed tools\" this season and insists they are \"in a good place\" despite bad results.",
-      "publishedAt": "2026-05-07T14:33:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654816_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48702837/chelsea-calum-mcfarlane-players-good-place-dismal-run",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48702030,
-      "source": "ESPN",
-      "headline": "Laurens: I did not see Man City's collapse against Everton coming",
-      "description": "Gab Marcotti and Julien Laurens react to Manchester City dropping points to Arsenal in the title race after drawing at Everton on Monday.",
-      "publishedAt": "2026-05-07T12:40:32Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0507/dm_260507_Laurens_I_did_not_see_Man_Citys_collapse_against_Everton_coming/dm_260507_Laurens_I_did_not_see_Man_Citys_collapse_against_Everton_coming.jpg",
-      "link": "https://www.espn.com/video/clip?id=48702030",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "ab17e0c9939903210f1d17fd9f3aa5c3",
-      "source": "Sky Sports",
-      "headline": "Sunderland vs Man Utd preview: Sesko a doubt for visitors",
-      "description": "",
-      "publishedAt": "2026-05-07T10:13:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-benjamin-sesko-manchester-united_7238090.jpg?20260503155454",
-      "link": "https://www.skysports.com/football/sunderland-vs-manchester-united/live/531486",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-09T08:10:11.153Z"
+    "cachedAt": "2026-05-09T13:50:56.636Z"
   }
 }
