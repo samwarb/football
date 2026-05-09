@@ -2,17 +2,132 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 48709632,
+      "id": 48715380,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City eye Vinícius Júnior this summer",
-      "description": "Manchester City are waiting in the wings should Vinícius Júnior become available this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-08T18:38:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0318/r1630172_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709632/transfer-rumors-news-man-city-eye-vinicius-junior-summer",
+      "headline": "Burley: Brentford are 'playing with house money' ahead of Manchester City clash",
+      "description": "Craig Burley suggests Brentford can play freely, with Manchester City under pressure in the title race.",
+      "publishedAt": "2026-05-08T22:36:46Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_Burley_Brentford_are_playing_with_house_money_ahead_of_Manchester_City_clash/dm_260508_Burley_Brentford_are_playing_with_house_money_ahead_of_Manchester_City_clash.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48715380/brentford-playing-house-money-ahead-manchester-city-clash",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48715378,
+      "source": "ESPN",
+      "headline": "Burley: Could be the nail in Slot's coffin if Chelsea beat Liverpool",
+      "description": "Craig Burley says that Arne Slot's Liverpool job could be at threat if Chelsea manage to get a result against them.",
+      "publishedAt": "2026-05-08T22:36:00Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_Burley_Could_be_the_nail_in_Slots_coffin_if_Chelsea_beat_Liverpool/dm_260508_Burley_Could_be_the_nail_in_Slots_coffin_if_Chelsea_beat_Liverpool.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48715378/nail-slot-coffin-chelsea-beat-liverpool",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48714969,
+      "source": "ESPN",
+      "headline": "Man City's Pep Guardiola: Phil Foden will 'explode' once he rediscovers joy of football",
+      "description": "Pep Guardiola says Phil Foden will \"explode\" and break his slump once the Manchester City midfielder rediscovers his love of football.",
+      "publishedAt": "2026-05-08T22:23:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0508/r1655522_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48714969/foden-explode-once-rediscovers-joy-football",
       "tag": "Manchester City",
       "teams": [
-        "Manchester City",
-        "Real Madrid"
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48709632,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Chelsea could spend big for wing back",
+      "description": "Manchester United and Chelsea are keeping tabs on Sporting CP's Maxi Araújo. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-08T22:08:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0508/r1655533_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709632/transfer-rumors-news-man-city-eye-vinicius-junior-summer",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48715178,
+      "source": "ESPN",
+      "headline": "Is Bruno Fernandes a worthy FWA Footballer of the Year?",
+      "description": "The ESPN FC panel debate whether Bruno Fernandes is a worthy winner of the FWA Footballer of the Year, ahead of players such as Declan Rice.",
+      "publishedAt": "2026-05-08T22:01:30Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_Is_Bruno_Fernandes_a_worthy_FWA_Footballer_of_the_Year/dm_260508_Is_Bruno_Fernandes_a_worthy_FWA_Footballer_of_the_Year.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48715178/is-bruno-fernandes-worthy-fwa-footballer-year",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48711534,
+      "source": "ESPN",
+      "headline": "West Ham vs Arsenal: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of Sunday's crucial Premier League clash between West Ham United and Arsenal.",
+      "publishedAt": "2026-05-08T21:21:17Z",
+      "image": "https://a.espncdn.com/photo/2025/1004/r1555395_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48711534/west-ham-united-vs-arsenal-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "7e278825d17927976be7f94924ec1cab",
+      "source": "Sky Sports",
+      "headline": "Papers: Van Dijk 'ready to leave' Liverpool",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-05-08T21:15:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13541686/virgil-van-dijk-liverpool-captain-ready-to-leave-club-with-approach-from-european-club-imminent-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "c5e8ef9afec8ed80f8529a9ccf2f74cb",
+      "source": "Sky Sports",
+      "headline": "Southampton charged by EFL after Middlesbrough spying allegation",
+      "description": "Southampton have been charged with a breach of EFL regulations after a member of staff was alleged to have spied on Middlesbrough's training ahead of their play-off tie.",
+      "publishedAt": "2026-05-08T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-southampton-badge_7243058.jpg?20260508212740",
+      "link": "https://www.skysports.com/football/news/12040/13541724/middlesbrough-vs-southampton-efl-charges-saints-after-member-of-staff-was-alleged-to-have-spied-on-boro-training",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b4e02b63178e0072140174d3058038be",
+      "source": "Sky Sports",
+      "headline": "Millwall have controversial late goal ruled out in tense first leg at Hull",
+      "description": "Hull City and Millwall played out a goalless draw in the first leg of their Championship play-off semi-final to leave the tie on a knife edge.",
+      "publishedAt": "2026-05-08T20:57:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-hull-millwall_7243019.jpg?20260508205008",
+      "link": "https://www.skysports.com/football/hull-city-vs-millwall/report/555901",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48714576,
+      "source": "ESPN",
+      "headline": "Atlético Madrid in talks to sign Wolves' João Gomes - sources",
+      "description": "Atlético Madrid are in advanced talks to sign Wolverhampton midfielder João Gomes.",
+      "publishedAt": "2026-05-08T20:35:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0508/r1655488_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48714576/atletico-madrid-talks-sign-wolves-joao-gomes-sources",
+      "tag": "Wolverhampton Wanderers",
+      "teams": [
+        "Wolverhampton Wanderers",
+        "Atlético Madrid"
       ]
     },
     {
@@ -54,17 +169,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "905c8160a86b88bc510a9ad80843d988",
-      "source": "Sky Sports",
-      "headline": "Andrews: I don't care about title race - but Brentford can match anyone",
-      "description": "Keith Andrews is not particularly interested in becoming Arsenal’s unlikely hero but Brentford’s fearless approach has created a side fully convinced they can impact the Premier League title race.",
-      "publishedAt": "2026-05-08T15:06:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-keith-andrews-brentford_7242835.jpg?20260508175203",
-      "link": "https://www.skysports.com/football/news/12040/13541577/man-city-vs-brentford-keith-andrews-doesnt-care-about-title-race-but-says-his-overachieving-side-can-match-anyone",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48712114,
@@ -157,6 +261,17 @@
         "Leeds United",
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": "d6680f2b07e7e656a7698bf871161fb7",
+      "source": "Sky Sports",
+      "headline": "Palace latest: Eagles not giving up on Iraola chase",
+      "description": "",
+      "publishedAt": "2026-05-08T12:00:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-crystal-palace-news_7039251.jpg?20251002160103",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48710159,
@@ -330,111 +445,24 @@
       ]
     },
     {
-      "id": 48701610,
-      "source": "ESPN",
-      "headline": "Marcotti: 'Huge call' from Arteta to start Myles Lewis-Skelly in midfield",
-      "description": "Gab Marcotti gives his thoughts on Arteta's decision to drop Martin Zubimendi for Myles Lewis-Skelly against Atletico Madrid.",
-      "publishedAt": "2026-05-07T11:19:34Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0507/dm_260507_Marcotti_Huge_call_from_Arteta_to_start_Myles_Lewis_Skelly_in_midfield/dm_260507_Marcotti_Huge_call_from_Arteta_to_start_Myles_Lewis_Skelly_in_midfield.jpg",
-      "link": "https://www.espn.com/video/clip?id=48701610",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48701088,
-      "source": "ESPN",
-      "headline": "Sir Dave Brailsford leaves role as director at Man United",
-      "description": "Sir Dave Brailsford is no longer a director at Manchester United, a filing by the Premier League club has confirmed.",
-      "publishedAt": "2026-05-07T10:03:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654744_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48701088/sir-dave-brailsford-leaves-role-director-man-united",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": "51325641f4dc3e9aee454e1b01189d7a",
+      "id": "ab17e0c9939903210f1d17fd9f3aa5c3",
       "source": "Sky Sports",
-      "headline": "Hull and Millwall locked in tense battle in play-offs opener on Sky LIVE!",
+      "headline": "Sunderland vs Man Utd preview: Sesko a doubt for visitors",
       "description": "",
-      "publishedAt": "2026-05-07T09:03:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-hull-city_7242985.jpg?20260508201259",
-      "link": "https://www.skysports.com/football/hull-city-vs-millwall/live/555901",
+      "publishedAt": "2026-05-07T10:13:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-benjamin-sesko-manchester-united_7238090.jpg?20260503155454",
+      "link": "https://www.skysports.com/football/sunderland-vs-manchester-united/live/531486",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": 48693301,
-      "source": "ESPN",
-      "headline": "Rice, Rodri, Olise among players big club academies let go too soon",
-      "description": "There are a host of players out there who had a very different early career to where they ended up. You'd be surprised who started at Chelsea, for example.",
-      "publishedAt": "2026-05-07T08:19:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654325_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48693301/declan-rice-rodri-michael-olise-players-big-club-academies-let-go-too-soon",
-      "tag": "Paris Saint-Germain",
-      "teams": [
-        "Paris Saint-Germain",
-        "Arsenal",
-        "Atlético Madrid",
-        "Barcelona",
-        "Bayern Munich",
-        "Chelsea",
-        "Manchester City",
-        "Real Madrid",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48691227,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea eye move for Cologne's El Mala",
-      "description": "Chelsea are looking to land FC Cologne winger Said El Mala next season. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-06T22:47:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654546_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48691227/transfer-rumors-news-man-united-atletico-madrid-eye-atalanta-star-ederson",
-      "tag": "FC Cologne",
-      "teams": [
-        "FC Cologne",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48695139,
-      "source": "ESPN",
-      "headline": "Amad: Every Man United player happy with Michael Carrick",
-      "description": "Amad Diallo has said everyone in the Manchester United dressing room would be happy to see Michael Carrick stay on as head coach next season.",
-      "publishedAt": "2026-05-06T18:22:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654422_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48695139/amad-diallo-every-manchester-united-player-happy-michael-carrick",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48694535,
-      "source": "ESPN",
-      "headline": "Michael Owen: Liverpool will have to do 'little bit of surgery' after Salah departure",
-      "description": "Former striker Michael Owen believes Liverpool will have to do a \"little bit of surgery\" on the squad this summer but finding a replacement for the departing Mohamed Salah is the obvious priority.",
-      "publishedAt": "2026-05-06T16:55:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654377_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48694535/michael-owen-liverpool-little-bit-surgery-mohamed-salah-departure",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ac909c28cba5527c8e387c072b8ae5a3",
+      "id": "2133b91b2430a9e34697064b032dfc52",
       "source": "Sky Sports",
-      "headline": "Leeds latest: Okafor to miss Tottenham trip",
+      "headline": "Hull City 0-0 Millwall highlights",
       "description": "",
-      "publishedAt": "2026-04-30T07:50:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-leeds-news-club-blog_7039256.jpg?20251002160345",
-      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-05-07T09:03:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-hull-city_7242985.jpg?20260508201259",
+      "link": "https://www.skysports.com/football/hull-city-vs-millwall/live/555901",
       "tag": "Liveblog",
       "teams": []
     }
@@ -442,6 +470,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-08T19:44:09.276Z"
+    "cachedAt": "2026-05-09T03:53:49.347Z"
   }
 }
