@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "manchester city|brentford": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "burnley|aston villa": [
       "Sky Sports+"
     ],
@@ -66,6 +62,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-09T19:21:33.306Z"
+    "cachedAt": "2026-05-10T04:13:14.454Z"
   }
 }

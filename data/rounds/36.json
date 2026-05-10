@@ -35,8 +35,8 @@
       "date": "2026-05-09",
       "time": "15:00:00",
       "venue": "Craven Cottage",
-      "status": "Match Finished",
-      "played": true,
+      "status": "Not Started",
+      "played": false,
       "live": false,
       "home": {
         "slug": "fulham",
@@ -51,8 +51,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
       },
       "score": {
-        "home": 0,
-        "away": 1
+        "home": null,
+        "away": null
       },
       "tvChannels": []
     },
@@ -62,8 +62,8 @@
       "date": "2026-05-09",
       "time": "12:30:00",
       "venue": "Anfield",
-      "status": "Match Finished",
-      "played": true,
+      "status": "Not Started",
+      "played": false,
       "live": false,
       "home": {
         "slug": "liverpool",
@@ -78,8 +78,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
       },
       "score": {
-        "home": 1,
-        "away": 1
+        "home": null,
+        "away": null
       },
       "tvChannels": []
     },
@@ -89,8 +89,8 @@
       "date": "2026-05-09",
       "time": "17:30:00",
       "venue": "Etihad Stadium",
-      "status": "Match Finished",
-      "played": true,
+      "status": "Not Started",
+      "played": false,
       "live": false,
       "home": {
         "slug": "manchester-city",
@@ -105,8 +105,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
       },
       "score": {
-        "home": 3,
-        "away": 0
+        "home": null,
+        "away": null
       },
       "tvChannels": []
     },
@@ -116,8 +116,8 @@
       "date": "2026-05-09",
       "time": "15:00:00",
       "venue": "Stadium of Light",
-      "status": "Match Finished",
-      "played": true,
+      "status": "Not Started",
+      "played": false,
       "live": false,
       "home": {
         "slug": "sunderland",
@@ -132,8 +132,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
       },
       "score": {
-        "home": 0,
-        "away": 0
+        "home": null,
+        "away": null
       },
       "tvChannels": []
     },
@@ -275,6 +275,6 @@
   ],
   "meta": {
     "cache": "hit",
-    "cachedAt": "2026-05-09T19:21:34.636Z"
+    "cachedAt": "2026-05-10T04:13:14.583Z"
   }
 }
