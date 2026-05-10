@@ -2,20 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "burnley|aston villa": [
-      "Sky Sports+"
-    ],
-    "crystal palace|everton": [
-      "Sky Sports F1"
-    ],
-    "nottingham forest|newcastle united": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
-    "west ham united|arsenal": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "tottenham hotspur|leeds united": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -62,6 +48,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-10T13:54:18.541Z"
+    "cachedAt": "2026-05-10T19:23:05.688Z"
   }
 }
