@@ -2,6 +2,71 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48722422,
+      "source": "ESPN",
+      "headline": "Tottenham vs Leeds in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "Everything you need to know about Tottenham vs Leeds in the Premier League, including key talking points.",
+      "publishedAt": "2026-05-10T12:03:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0503/r1652979_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48722422/tottenham-vs-leeds-united-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 48711534,
+      "source": "ESPN",
+      "headline": "West Ham vs Arsenal: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of Sunday's crucial Premier League clash between West Ham United and Arsenal.",
+      "publishedAt": "2026-05-10T12:02:12Z",
+      "image": "https://a.espncdn.com/photo/2025/1004/r1555395_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48711534/west-ham-united-vs-arsenal-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "c4dad9722f5e516fae1dbbc3fe81b6df",
+      "source": "Sky Sports",
+      "headline": "Barkley heads Aston Villa level away at Burnley LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-10T11:30:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-jaidon-anthony-burnley_7244439.jpg?20260510141406",
+      "link": "https://www.skysports.com/football/burnley-vs-aston-villa/live/531480",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "d2ebfa81e86dce31e52f89659713f61f",
+      "source": "Sky Sports",
+      "headline": "Women's FA Cup: Brighton vs Liverpool - Latest score",
+      "description": "",
+      "publishedAt": "2026-05-10T11:10:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-madison-haley-brighton_7244408.jpg?20260510135320",
+      "link": "https://www.skysports.com/football/liverpool-women-vs-brighton-and-hove-albion-women/555727",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48729140,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Real Madrid, Bayern Munich eye Man City's Gvardiol",
+      "description": "Real Madrid and Bayern Munich want Manchester City's Josko Gvardiol. Plus, could Chelsea's João Pedro join Barcelona this summer? Transfer Talk has the latest.",
+      "publishedAt": "2026-05-10T09:02:00Z",
+      "image": "https://a.espncdn.com/photo/2025/1208/r1586634_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48729140/transfer-rumors-news-real-madrid-bayern-munich-eye-man-city-gvardiol",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Bayern Munich",
+        "Real Madrid"
+      ]
+    },
+    {
       "id": 48725772,
       "source": "ESPN",
       "headline": "Liverpool and Chelsea play out 1-1 stalemate",
@@ -70,53 +135,6 @@
         "Arsenal",
         "Manchester City",
         "West Ham United"
-      ]
-    },
-    {
-      "id": "3ecc7b394d3c39c3ceeb01f90d176b4a",
-      "source": "Sky Sports",
-      "headline": "Bolton edge Bradford in first leg of L1 semi after super Cozier-Duberry strike",
-      "description": "Amario Cozier-Duberry's brilliant strike was enough for Bolton to earn a 1-0 first-leg win over Bradford in their League One play-off semi-final.",
-      "publishedAt": "2026-05-09T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-bolton-wanderers_7244020.jpg?20260509212854",
-      "link": "https://www.skysports.com/football/bolton-wanderers-vs-bradford-city/report/555905",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "d9f784414529add9f788316e40812ddb",
-      "source": "Sky Sports",
-      "headline": "'Come on you Irons!' | Pep's hilarious message ahead of West Ham vs Arsenal!",
-      "description": "Pep Guardiola ended his press conference with a clear message ahead of Arsenal's trip to West Ham.",
-      "publishedAt": "2026-05-09T20:36:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-man-city-pep_7244027.jpg?20260509214117",
-      "link": "https://www.skysports.com/watch/video/13542135/come-on-you-irons-pep-guardiola-has-all-eyes-on-arsenals-west-ham-showdown",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "7db97ebc3157b56359da7ccf9fbeb851",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Khusanov injury absence explained",
-      "description": "",
-      "publishedAt": "2026-05-09T19:59:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-man-city-news-club_7039261.jpg?20251002160441",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 48722422,
-      "source": "ESPN",
-      "headline": "Tottenham vs Leeds in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "Everything you need to know about Tottenham vs Leeds in the Premier League, including key talking points.",
-      "publishedAt": "2026-05-09T19:58:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0503/r1652979_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48722422/tottenham-vs-leeds-united-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Leeds United"
       ]
     },
     {
@@ -226,20 +244,6 @@
       "tag": "Wolverhampton Wanderers",
       "teams": [
         "Wolverhampton Wanderers"
-      ]
-    },
-    {
-      "id": 48711534,
-      "source": "ESPN",
-      "headline": "West Ham vs Arsenal: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "All you need to know ahead of Sunday's crucial Premier League clash between West Ham United and Arsenal.",
-      "publishedAt": "2026-05-09T16:38:16Z",
-      "image": "https://a.espncdn.com/photo/2025/1004/r1555395_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48711534/west-ham-united-vs-arsenal-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
       ]
     },
     {
@@ -436,37 +440,24 @@
       ]
     },
     {
-      "id": 48715178,
-      "source": "ESPN",
-      "headline": "Is Bruno Fernandes a worthy FWA Footballer of the Year?",
-      "description": "The ESPN FC panel debate whether Bruno Fernandes is a worthy winner of the FWA Footballer of the Year, ahead of players such as Declan Rice.",
-      "publishedAt": "2026-05-08T22:01:30Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0508/dm_260508_Is_Bruno_Fernandes_a_worthy_FWA_Footballer_of_the_Year/dm_260508_Is_Bruno_Fernandes_a_worthy_FWA_Footballer_of_the_Year.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48715178/is-bruno-fernandes-worthy-fwa-footballer-year",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": "ce9e1bd490ccc2dd26daa45d4b7e5fa0",
+      "id": "e6514c8fd79035b09d6992b7ff59064e",
       "source": "Sky Sports",
-      "headline": "Papers: Crystal Palace step up Iraola efforts",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-05-08T21:15:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13542154/andoni-iraola-crystal-palace-step-up-efforts-to-hire-bournemouth-boss-on-three-year-deal-paper-talk",
-      "tag": "News Story",
+      "headline": "Grimsby vs Salford: League Two play-offs begin on Sky LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-07T09:32:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-league-two-playoffs_7239822.jpg?20260505151742",
+      "link": "https://www.skysports.com/football/grimsby-town-vs-salford-city/live/555910",
+      "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "cce35bee8ab7b1c5981e52c7bdecc058",
+      "id": "eadbc170fcb0475752927c42a359074e",
       "source": "Sky Sports",
-      "headline": "Brentford latest: How Andrews bamboozled Pep - for a bit - using 4-4-2",
+      "headline": "Live on Sky: Millwall vs Hull",
       "description": "",
-      "publishedAt": "2026-05-08T12:57:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-brentford-news-club_7039245.jpg?20251002155849",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-05-06T14:19:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-hull-city_7242985.jpg?20260508201259",
+      "link": "https://www.skysports.com/football/millwall-vs-hull-city/live/555903",
       "tag": "Liveblog",
       "teams": []
     }
@@ -474,6 +465,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-10T08:21:24.269Z"
+    "cachedAt": "2026-05-10T13:54:18.701Z"
   }
 }
