@@ -251,9 +251,9 @@
       "date": "2026-05-11",
       "time": "20:00:00",
       "venue": "Tottenham Hotspur Stadium",
-      "status": "Not Started",
-      "played": false,
-      "live": false,
+      "status": "HT",
+      "played": true,
+      "live": true,
       "home": {
         "slug": "tottenham-hotspur",
         "name": "Tottenham Hotspur",
@@ -267,14 +267,14 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "tvChannels": []
     }
   ],
   "meta": {
     "cache": "hit",
-    "cachedAt": "2026-05-11T15:34:35.436Z"
+    "cachedAt": "2026-05-11T20:02:37.165Z"
   }
 }
