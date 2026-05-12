@@ -3,8 +3,7 @@
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
     "manchester city|crystal palace": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
+      "Sky Sports Main Event"
     ],
     "aston villa|liverpool": [
       "Sky Sports Main Event",
@@ -44,6 +43,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-12T14:48:55.766Z"
+    "cachedAt": "2026-05-12T20:06:18.161Z"
   }
 }
