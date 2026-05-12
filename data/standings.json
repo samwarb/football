@@ -1,6 +1,6 @@
 {
   "season": "2025-2026",
-  "updatedAt": "2026-05-11T20:02:36.884Z",
+  "updatedAt": "2026-05-12T04:03:35.455Z",
   "teams": [
     {
       "providerId": "359",
@@ -237,13 +237,31 @@
       "note": ""
     },
     {
+      "providerId": "357",
+      "slug": "leeds-united",
+      "name": "Leeds United",
+      "shortName": "Leeds",
+      "abbreviation": "LEE",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "rank": 14,
+      "played": 36,
+      "wins": 10,
+      "draws": 14,
+      "losses": 12,
+      "goalsFor": 48,
+      "goalsAgainst": 53,
+      "goalDifference": -5,
+      "points": 44,
+      "note": ""
+    },
+    {
       "providerId": "384",
       "slug": "crystal-palace",
       "name": "Crystal Palace",
       "shortName": "Crystal Palace",
       "abbreviation": "CRY",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "rank": 14,
+      "rank": 15,
       "played": 35,
       "wins": 11,
       "draws": 11,
@@ -261,7 +279,7 @@
       "shortName": "Nottingham Forest",
       "abbreviation": "NFO",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-      "rank": 15,
+      "rank": 16,
       "played": 36,
       "wins": 11,
       "draws": 10,
@@ -273,24 +291,6 @@
       "note": ""
     },
     {
-      "providerId": "357",
-      "slug": "leeds-united",
-      "name": "Leeds United",
-      "shortName": "Leeds",
-      "abbreviation": "LEE",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-      "rank": 16,
-      "played": 35,
-      "wins": 10,
-      "draws": 13,
-      "losses": 12,
-      "goalsFor": 47,
-      "goalsAgainst": 52,
-      "goalDifference": -5,
-      "points": 43,
-      "note": ""
-    },
-    {
       "providerId": "367",
       "slug": "tottenham-hotspur",
       "name": "Tottenham Hotspur",
@@ -298,14 +298,14 @@
       "abbreviation": "TOT",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
       "rank": 17,
-      "played": 35,
+      "played": 36,
       "wins": 9,
-      "draws": 10,
+      "draws": 11,
       "losses": 16,
-      "goalsFor": 45,
-      "goalsAgainst": 54,
+      "goalsFor": 46,
+      "goalsAgainst": 55,
       "goalDifference": -9,
-      "points": 37,
+      "points": 38,
       "note": ""
     },
     {
@@ -365,6 +365,6 @@
   ],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-11T20:02:36.885Z"
+    "cachedAt": "2026-05-12T04:03:35.455Z"
   }
 }

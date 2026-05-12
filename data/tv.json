@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "tottenham hotspur|leeds united": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "manchester city|crystal palace": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -48,6 +44,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-11T20:02:37.201Z"
+    "cachedAt": "2026-05-12T04:03:35.933Z"
   }
 }

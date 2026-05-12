@@ -2,6 +2,191 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48742600,
+      "source": "ESPN",
+      "headline": "Tottenham 1-1 Leeds: Roberto De Zerbi's side blow another chance to move towards safety",
+      "description": "Tottenham missed the chance to boost their survival hopes by opening up a four-point gap to West Ham as they were held to a 1-1 home draw with Leeds.",
+      "publishedAt": "2026-05-12T01:06:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0512/r1656968_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48742600/tottenham-1-1-leeds-roberto-de-zerbi-side-blow-another-chance-move-towards-safety",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 48745313,
+      "source": "ESPN",
+      "headline": "Leeds' late equaliser keeps relegation pressure on Tottenham",
+      "description": "Spurs forward Mathys Tel both scores Tottenham's lone goal and concedes a late, reckless penalty to leave his club mired in relegation trouble.",
+      "publishedAt": "2026-05-12T00:29:49Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0511/dm_260511_Soccer_Highlight_Leeds_late_equaliser_keeps_relegation_pressure_on_Tottenham_20260512_AUS_ONLY/dm_260511_Soccer_Highlight_Leeds_late_equaliser_keeps_relegation_pressure_on_Tottenham_20260512_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48745313/leeds-late-equaliser-keeps-relegation-pressure-tottenham",
+      "tag": "Leeds United",
+      "teams": [
+        "Leeds United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48744857,
+      "source": "ESPN",
+      "headline": "De Zerbi claims referee 'was not calm' as Tottenham held by Leeds",
+      "description": "Tottenham coach Roberto De Zerbi hit out at the officiating after his team's Monday draw with Leeds, which left Spurs still fighting to secure their Premier League survival.",
+      "publishedAt": "2026-05-11T23:23:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656919_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48744857/de-zerbi-claims-referee-was-not-calm-tottenham-held-leeds",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48522746,
+      "source": "ESPN",
+      "headline": "Tottenham's James Maddison returns from ACL injury after nine months",
+      "description": "James Maddison made his Tottenham Hotspur return on Monday night, nine months on from rupturing his anterior cruciate ligament (ACL).",
+      "publishedAt": "2026-05-11T22:49:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656881_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48522746/tottenham-james-maddison-returns-acl-injury-nine-months",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "1f72d7e3cea8c7a0c3ec32136c1d29a6",
+      "source": "Sky Sports",
+      "headline": "Jakirovic: Taking Hull to Wembley the best thing I've experienced in football",
+      "description": "Sergej Jakirovic says taking Hull to the Sky Bet Championship play-off final is \"maybe the best thing that happened in football in my life\" and that leading the Tigers out at Wembley will be \"a dream come true\".",
+      "publishedAt": "2026-05-11T22:15:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-sergej-jakirovic_7246082.jpg?20260511230558",
+      "link": "https://www.skysports.com/football/news/12040/13542785/sergej-jakirovic-says-taking-hull-to-the-championship-play-off-final-is-the-best-thing-ive-experienced-in-football",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48714043,
+      "source": "ESPN",
+      "headline": "Relegation pressure still on Tottenham after draw with Leeds",
+      "description": "Tottenham forward Mathys Tel went from hero to zero after he gave away a reckless penalty following his opener in a 1-1 draw with Leeds to leave his team mired in relegation trouble.",
+      "publishedAt": "2026-05-11T21:34:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656886_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740954",
+      "tag": "Leeds United",
+      "teams": [
+        "Leeds United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "e6e812bf4d0a75daf54f410d61099af6",
+      "source": "Sky Sports",
+      "headline": "Twist in the Tel! Winger goes from hero to villain as Spurs drop points at home",
+      "description": "FREE TO WATCH: Highlights from Spurs’ match against Leeds in the Premier League.",
+      "publishedAt": "2026-05-11T21:29:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-leeds-spurs_7246056.jpg?20260511223031",
+      "link": "https://www.skysports.com/watch/video/13542930/spurs-1-1-leeds-premier-league-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "037cba4f5a7f982d3eb0df2d63c0ce7a",
+      "source": "Sky Sports",
+      "headline": "The biggest VAR call in 24 hours! Should Spurs have been awarded a 90+13 penalty?",
+      "description": "The biggest VAR call in 24 hours! Should Spurs have been awarded a 90+13 penalty?",
+      "publishedAt": "2026-05-11T21:15:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-var-spurs_7246033.jpg?20260511221716",
+      "link": "https://www.skysports.com/watch/video/13542919/pen-appeal-j-maddison-tottenham-hotspur-1-1-leeds",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "d44abc18ec93a2e6a06f2e1f8113db04",
+      "source": "Sky Sports",
+      "headline": "Kinsky's wonder save earns Spurs a point",
+      "description": "Kinsky produces a MAGIC save for Spurs against Leeds in the Premier League.",
+      "publishedAt": "2026-05-11T21:03:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kinsky-save_7246025.jpg?20260511220919",
+      "link": "https://www.skysports.com/watch/video/13542913/save-a-kinsky-908-tottenham-hotspur-1-1-leeds",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "bd549113ab60c7ee1c85a2db590950e1",
+      "source": "Sky Sports",
+      "headline": "Hull sink Millwall to reach Championship play-off final",
+      "description": "Hull produced a clinical display at Millwall to win 2-0 in the second leg and reach the Championship play-off final.",
+      "publishedAt": "2026-05-11T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-hull-millwall_7246022.jpg?20260511220638",
+      "link": "https://www.skysports.com/football/millwall-vs-hull-city/report/555903",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48743534,
+      "source": "ESPN",
+      "headline": "Fulham eye Filipe Luis as potential Marco Silva replacement - sources",
+      "description": "Fulham are eyeing Filipe Luis as a potential replacement for manager Marco Silva, should he leave the London club this summer, sources have told ESPN Brasil.",
+      "publishedAt": "2026-05-11T20:59:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656851_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48743534/fulham-eye-filipe-luis-potential-marco-silva-replacement",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham"
+      ]
+    },
+    {
+      "id": "95d23894c04f4de7e444d7b0d07d2fbb",
+      "source": "Sky Sports",
+      "headline": "Calvert-Lewin converts VAR awarded penalty to draw Leeds level against Spurs",
+      "description": "Dominic Calvert-Lewin converts VAR awarded penalty to draw Leeds level against Spurs in the Premier League",
+      "publishedAt": "2026-05-11T20:42:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-goal-leeds_7245998.jpg?20260511214648",
+      "link": "https://www.skysports.com/watch/video/13542904/goal-d-calvert-lewin-pen-tottenham-hotspur-1-1-leeds",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 48738933,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Arsenal eye Juve's Cambiaso",
+      "description": "Several Premier League clubs are interested in signing Juventus' Andrea Cambiaso. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-11T20:33:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656860_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48738933/transfer-rumors-news-liverpool-eye-akliouche-salah-replacement",
+      "tag": "Juventus",
+      "teams": [
+        "Juventus",
+        "Manchester United",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a6bbc1342229abc5468f5a96997e570c",
+      "source": "Sky Sports",
+      "headline": "'What a mighty blow that is!' | Tel SCREAMER fires Spurs ahead!",
+      "description": "Tel scores screamer to fire Spurs ahead against Leeds in the Premier League",
+      "publishedAt": "2026-05-11T20:25:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tel-goal_7245959.jpg?20260511212707",
+      "link": "https://www.skysports.com/watch/video/13542891/goal-m-tel-50-tottenham-hotspur-1-0-leeds",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "326080b1d7616535b70b1652589f9946",
+      "source": "Sky Sports",
+      "headline": "Carra: Only people who don't want Arsenal to win PL thought VAR call was wrong",
+      "description": "Jamie Carragher believes only people who don't want Arsenal to win the Premier League title have an issue with the VAR call to rule out the Hammers' equaliser against Arsenal on Sunday.",
+      "publishedAt": "2026-05-11T19:30:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-david-raya-pablo_7245418.jpg?20260511110229",
+      "link": "https://www.skysports.com/football/news/12040/13542862/jamie-carragher-david-raya-was-fouled-vs-west-ham-people-just-dont-want-arsenal-to-win-the-premier-league-title",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48743059,
       "source": "ESPN",
       "headline": "Rio Ferdinand backs Senne Lammens to be Manchester United No. 1 for next decade",
@@ -16,17 +201,6 @@
       ]
     },
     {
-      "id": "cd04e567f29915ad7d57731bb5260b09",
-      "source": "Sky Sports",
-      "headline": "Man Utd or Liverpool: Who will finish higher next season? Merse makes BOLD prediction",
-      "description": "Who does Paul Merson think will finish higher between Liverpool and Manchester United next season?",
-      "publishedAt": "2026-05-11T19:01:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-football-man-utd_7245855.jpg?20260511200359",
-      "link": "https://www.skysports.com/watch/video/13542846/paul-merson-makes-bold-prediction-on-man-utd-and-liverpool-next-season",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": "d9e1be5163a3b04fdc509f8da9036410",
       "source": "Sky Sports",
       "headline": "Scienza: Play-off goal in Germany was pure ecstasy - I want that with Southampton",
@@ -34,42 +208,6 @@
       "publishedAt": "2026-05-11T16:15:00.000Z",
       "image": "https://e1.365dm.com/26/05/1920x1080/skysports-leo-scienza-southampton_7244421.jpg?20260510140438",
       "link": "https://www.skysports.com/football/news/12040/13542076/leo-scienza-interview",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "d3057dcfd7da3f4353283d46e0035ae1",
-      "source": "Sky Sports",
-      "headline": "VOTE: Will Southampton or Middlesbrough book Championship play-off final spot?",
-      "description": "",
-      "publishedAt": "2026-05-11T15:39:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-southampton-middlesbrough_7244549.jpg?20260510152737",
-      "link": "https://www.skysports.com/football/live-blog/12040/13540766/southampton-vs-middlesbrough-live-championship-play-off-semi-final-second-leg-match-updates-score-stream-and-free-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 48738933,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye Akliouche as Salah replacement",
-      "description": "Liverpool are showing interest in AS Monaco forward Maghnes Akliouche. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-11T14:38:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0407/r1639703_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48738933/transfer-rumors-news-liverpool-eye-akliouche-salah-replacement",
-      "tag": "AS Monaco",
-      "teams": [
-        "AS Monaco",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a0fcac0d8d8bce7ba109e58ce57e4cdb",
-      "source": "Sky Sports",
-      "headline": "Mourinho increasingly likely to become next Real Madrid head coach",
-      "description": "Jose Mourinho is believed to be increasingly likely to become the next Real Madrid boss.",
-      "publishedAt": "2026-05-11T14:11:00.000Z",
-      "image": "https://e0.365dm.com/19/03/1920x1080/skysports-jose-mourinho-real-madrid_4600442.jpg?20190312112729",
-      "link": "https://www.skysports.com/football/news/12040/13542755/jose-mourinho-portuguese-increasingly-likely-to-become-next-real-madrid-head-coach",
       "tag": "News Story",
       "teams": []
     },
@@ -127,17 +265,6 @@
         "Arsenal",
         "West Ham United"
       ]
-    },
-    {
-      "id": "006e0e3ae3a6af451d03682a685f813f",
-      "source": "Sky Sports",
-      "headline": "Alonso, Iraola and Silva on Chelsea shortlist as search for new manager steps up",
-      "description": "Kaveh Solhekol indicates that Chelsea are hoping to finalise a deal for their new head coach before the World Cup, with Xabi Alonso, Andoni Iraola and Marco Silva in the shortlist for the role.",
-      "publishedAt": "2026-05-11T11:13:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-chelsea-alonso-iraola_7245514.jpg?20260511122644",
-      "link": "https://www.skysports.com/watch/video/13542687/xabi-alonso-andoni-iraola-and-marco-silva-on-chelsea-shortlist-as-blues-eye-new-boss",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 48739956,
@@ -290,20 +417,6 @@
       ]
     },
     {
-      "id": 48733220,
-      "source": "ESPN",
-      "headline": "West Ham's Jarrod Bowen, Nuno slam Arsenal VAR call: 'PL is physical'",
-      "description": "West Ham captain Jarrod Bowen and manager Nuno Espirito Santo have both hit out at the officials following the late disallowed goal against Arsenal, questioning refereeing consistency.",
-      "publishedAt": "2026-05-10T21:47:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656271_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48733220/west-ham-jarrod-bowen-nuno-slam-arsenal-var-call-pl-physical",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United",
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48734120,
       "source": "ESPN",
       "headline": "Tottenham's Kevin Danso: Racist abuse 'doesn't define me'",
@@ -384,47 +497,6 @@
       ]
     },
     {
-      "id": 48732949,
-      "source": "ESPN",
-      "headline": "Arsenal survived 'biggest VAR moment in PL history' at West Ham - Gary Neville",
-      "description": "Arsenal survived the \"biggest moment in VAR history in the Premier League\" in the win at West Ham, according to former Manchester United defender Gary Neville.",
-      "publishedAt": "2026-05-10T19:27:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656268_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48732949/arsenal-survived-biggest-moment-var-history-premier-league-west-ham-gary-neville-david-raya",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48704788,
-      "source": "ESPN",
-      "headline": "Premier League recap: Trossard with Arsenal winner over West Ham",
-      "description": "Leandro Trossard scored the winning goal against West Ham United to help Arsenal edge closer to the Premier League title.",
-      "publishedAt": "2026-05-10T19:21:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656240_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48704788/premier-league-live-updates-arsenal-face-west-ham-high-stakes-clash",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48713963,
-      "source": "ESPN",
-      "headline": "Arsenal closer to PL title after Leandro Trossard winner, VAR escape",
-      "description": "Arsenal took a giant leap toward their first Premier League title in 20 years after beating West Ham 1-0 at the London Stadium on Sunday.",
-      "publishedAt": "2026-05-10T19:21:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656246_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740955",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
-    },
-    {
       "id": 48733297,
       "source": "ESPN",
       "headline": "Michallik expects Arsenal to go on and win the Premier League",
@@ -437,40 +509,11 @@
         "Arsenal",
         "West Ham United"
       ]
-    },
-    {
-      "id": 48733291,
-      "source": "ESPN",
-      "headline": "'No question about it!' - Michallik backs West Ham-Arsenal VAR decision",
-      "description": "Janusz Michallik reacts to the decision to overturn Callum Wilson's equaliser for West Ham vs. Arsenal.",
-      "publishedAt": "2026-05-10T19:00:29Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0510/dm_260510_COM_SOC_Analysis_No_question_about_it_Michallik_backs_West_Ham_Arsenal_VAR_decision_2026100/dm_260510_COM_SOC_Analysis_No_question_about_it_Michallik_backs_West_Ham_Arsenal_VAR_decision_2026100.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48733291/no-question-michallik-backs-west-ham-arsenal-var-decision",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48732137,
-      "source": "ESPN",
-      "headline": "Nottingham Forest boss: Man United, Man City-linked Elliot Anderson 'deserves top of the world'",
-      "description": "Nottingham Forest boss Vitor Pereira has said Elliot Anderson deserves \"the top of the world\" and cannot say whether he will be at the club next season.",
-      "publishedAt": "2026-05-10T18:27:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656231_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48732137/nottingham-forest-boss-man-united-man-city-linked-elliot-anderson-deserves-top-world",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Manchester United",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-11T20:02:37.053Z"
+    "cachedAt": "2026-05-12T04:03:35.648Z"
   }
 }
