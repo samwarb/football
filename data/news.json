@@ -2,17 +2,96 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "067a4898713f1dd2838dcb21a378a8c0",
+      "source": "Sky Sports",
+      "headline": "Schumacher: I won at Wembley as a player - it would mean everything to lead Bolton there",
+      "description": "Bolton Wanderers have carried the weight of expectation on them for several years now.",
+      "publishedAt": "2026-05-12T09:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-efl-league-one-bolton_7240175.jpg?20260506072858",
+      "link": "https://www.skysports.com/football/news/12040/13540824/steven-schumacher-exclusive-bolton-head-coach-on-facing-graham-alexander-and-why-it-would-mean-everything-to-reach-wembley",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48744645,
+      "source": "ESPN",
+      "headline": "Why Man United should think twice about hiring Carrick as permanent coach",
+      "description": "Everyone seems to agree Michael Carrick should be Man United's next permanent manager -- but they aren't looking at what matters.",
+      "publishedAt": "2026-05-12T07:49:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656927_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48744645/why-man-united-think-twice-hiring-carrick-permanent-coach",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48747741,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool look to Martinez as Alisson replacement",
+      "description": "Liverpool's move to sign Aston Villa goalkeeper Emiliano Martinez is gaining momentum. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-12T07:48:11Z",
+      "image": "https://a.espncdn.com/photo/2025/0906/r1541731_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48747741/transfer-rumors-news-liverpool-look-martinez-alisson-replacement",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 48747194,
+      "source": "ESPN",
+      "headline": "Haunted Tottenham return West Ham's favour as relegation battle takes fresh twist",
+      "description": "After West Ham missed the chance to move four points clear of Tottenham in April, Roberto De Zerbi's haunted team returned the favour against Leeds.",
+      "publishedAt": "2026-05-12T07:46:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0512/r1657053_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48747194/haunted-tottenham-return-west-ham-favour-relegation-battle-takes-fresh-twist-mathys-tel-roberto-de-zerbi",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Leeds United"
+      ]
+    },
+    {
       "id": 48742600,
       "source": "ESPN",
       "headline": "Tottenham 1-1 Leeds: Roberto De Zerbi's side blow another chance to move towards safety",
-      "description": "Tottenham missed the chance to boost their survival hopes by opening up a four-point gap to West Ham as they were held to a 1-1 home draw with Leeds.",
-      "publishedAt": "2026-05-12T01:06:54Z",
+      "description": "Tottenham fail to win at home again as they move two points clear of West Ham in an absorbing relegation battle, rather than the intended four.",
+      "publishedAt": "2026-05-12T07:46:02Z",
       "image": "https://a.espncdn.com/photo/2026/0512/r1656968_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48742600/tottenham-1-1-leeds-roberto-de-zerbi-side-blow-another-chance-move-towards-safety",
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur",
         "Leeds United"
+      ]
+    },
+    {
+      "id": 48747822,
+      "source": "ESPN",
+      "headline": "De Zerbi: Spurs have the quality to stay up",
+      "description": "Tottenham Hotspur boss Roberto De Zerbi says his side have the quality to stay in the Premier League after their 1-1 draw against Leeds.",
+      "publishedAt": "2026-05-12T07:44:53Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0512/dm_260512_De_Zerbi_Spurs_have_the_quality_to_stay_up/dm_260512_De_Zerbi_Spurs_have_the_quality_to_stay_up.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48747822/spurs-quality-stay-up",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48738302,
+      "source": "ESPN",
+      "headline": "Manchester City vs. Crystal Palace in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of the Premier League clash between Manchester City and Crystal Palace,",
+      "publishedAt": "2026-05-12T06:24:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655865_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48738302/manchester-city-vs-crystal-palace-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Crystal Palace"
       ]
     },
     {
@@ -103,17 +182,6 @@
       "teams": []
     },
     {
-      "id": "d44abc18ec93a2e6a06f2e1f8113db04",
-      "source": "Sky Sports",
-      "headline": "Kinsky's wonder save earns Spurs a point",
-      "description": "Kinsky produces a MAGIC save for Spurs against Leeds in the Premier League.",
-      "publishedAt": "2026-05-11T21:03:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kinsky-save_7246025.jpg?20260511220919",
-      "link": "https://www.skysports.com/watch/video/13542913/save-a-kinsky-908-tottenham-hotspur-1-1-leeds",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": "bd549113ab60c7ee1c85a2db590950e1",
       "source": "Sky Sports",
       "headline": "Hull sink Millwall to reach Championship play-off final",
@@ -138,17 +206,6 @@
       ]
     },
     {
-      "id": "95d23894c04f4de7e444d7b0d07d2fbb",
-      "source": "Sky Sports",
-      "headline": "Calvert-Lewin converts VAR awarded penalty to draw Leeds level against Spurs",
-      "description": "Dominic Calvert-Lewin converts VAR awarded penalty to draw Leeds level against Spurs in the Premier League",
-      "publishedAt": "2026-05-11T20:42:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-goal-leeds_7245998.jpg?20260511214648",
-      "link": "https://www.skysports.com/watch/video/13542904/goal-d-calvert-lewin-pen-tottenham-hotspur-1-1-leeds",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 48738933,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United, Arsenal eye Juve's Cambiaso",
@@ -163,17 +220,6 @@
         "Arsenal",
         "Liverpool"
       ]
-    },
-    {
-      "id": "a6bbc1342229abc5468f5a96997e570c",
-      "source": "Sky Sports",
-      "headline": "'What a mighty blow that is!' | Tel SCREAMER fires Spurs ahead!",
-      "description": "Tel scores screamer to fire Spurs ahead against Leeds in the Premier League",
-      "publishedAt": "2026-05-11T20:25:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tel-goal_7245959.jpg?20260511212707",
-      "link": "https://www.skysports.com/watch/video/13542891/goal-m-tel-50-tottenham-hotspur-1-0-leeds",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": "326080b1d7616535b70b1652589f9946",
@@ -199,17 +245,6 @@
         "Manchester United",
         "Belgium"
       ]
-    },
-    {
-      "id": "d9e1be5163a3b04fdc509f8da9036410",
-      "source": "Sky Sports",
-      "headline": "Scienza: Play-off goal in Germany was pure ecstasy - I want that with Southampton",
-      "description": "It was a remarkable second half of the season for Southampton, and one of the key men behind the change in fortune is Leo Scienza.",
-      "publishedAt": "2026-05-11T16:15:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-leo-scienza-southampton_7244421.jpg?20260510140438",
-      "link": "https://www.skysports.com/football/news/12040/13542076/leo-scienza-interview",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48741114,
@@ -294,20 +329,6 @@
       ]
     },
     {
-      "id": 48738302,
-      "source": "ESPN",
-      "headline": "Manchester City vs. Crystal Palace in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "All you need to know ahead of the Premier League clash between Manchester City and Crystal Palace,",
-      "publishedAt": "2026-05-11T10:44:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655865_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48738302/manchester-city-vs-crystal-palace-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Crystal Palace"
-      ]
-    },
-    {
       "id": 48739450,
       "source": "ESPN",
       "headline": "Man United's Bruno Fernandes congratulates Marcus Rashford on LaLiga triumph",
@@ -355,20 +376,6 @@
       "publishedAt": "2026-05-11T07:20:00Z",
       "image": "https://a.espncdn.com/photo/2026/0510/r1656250_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48732378/var-review-were-refs-right-disallow-west-ham-equalizer-vs-arsenal",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48733536,
-      "source": "ESPN",
-      "headline": "Arsenal hold their nerve and are on the brink of the Premier League title",
-      "description": "It was a dramatic last few minutes, but Arsenal's late win over West Ham United puts the Gunners closer to their first Premier League title in 22 years.",
-      "publishedAt": "2026-05-11T07:10:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656301_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48733536/arsenal-hold-their-nerve-the-brink-premier-league-title",
       "tag": "West Ham United",
       "teams": [
         "West Ham United",
@@ -457,19 +464,6 @@
       ]
     },
     {
-      "id": 48733610,
-      "source": "ESPN",
-      "headline": "Arteta says 'brave' VAR call could alter Arsenal history",
-      "description": "Mikel Arteta congratulated the match officials for disallowing West Ham's 94th-minute equalizer -- a decision that he called brave and that leaves Arsenal on course to win the Premier League title.",
-      "publishedAt": "2026-05-10T21:05:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656313_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48733610/arteta-says-brave-var-call-alter-arsenal-history",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48734734,
       "source": "ESPN",
       "headline": "Mikel Arteta praises 'brave' officials after controversial VAR call",
@@ -481,39 +475,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 48733569,
-      "source": "ESPN",
-      "headline": "Joe Gomez understands frustration as fans boo Chelsea draw: 'We get it'",
-      "description": "Liverpool defender Joe Gomez has said it \"hurt\" to hear supporters booing after Saturday's 1-1 draw with Chelsea but admitted he understands their frustration.",
-      "publishedAt": "2026-05-10T19:46:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656311_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48733569/joe-gomez-liverpool-vs-chelsea-fans-boo-premier-league",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48733297,
-      "source": "ESPN",
-      "headline": "Michallik expects Arsenal to go on and win the Premier League",
-      "description": "Janusz Michallik talks about Arsenal's title pursuit following their 1-0 win over West Ham to extend their league lead.",
-      "publishedAt": "2026-05-10T19:01:06Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0510/dm_260510_COM_SOC_Analysis_Michallik_expects_Arsenal_to_go_on_and_win_the_Premier_League_20261005_GLOBAL/dm_260510_COM_SOC_Analysis_Michallik_expects_Arsenal_to_go_on_and_win_the_Premier_League_20261005_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48733297/michallik-expects-arsenal-go-win-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-12T04:03:35.648Z"
+    "cachedAt": "2026-05-12T09:12:27.200Z"
   }
 }
