@@ -2,6 +2,87 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "a1e4bb14020b8b5f948c96a814b91229",
+      "source": "Sky Sports",
+      "headline": "'It breaks my heart': Emotional Hellberg hits out at 'disgraceful spying'",
+      "description": "Kim Hellberg said the 'Spygate' saga that overshadowed his Middlesbrough side's Championship play-off semi-final defeat to Southampton was \"disgraceful\" and \"breaks my heart\".",
+      "publishedAt": "2026-05-12T23:30:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-kim-hellberg-middlesbrough_7247017.jpg?20260513000222",
+      "link": "https://www.skysports.com/football/news/12040/13543134/dnp-spygate-shell-for-after-saints-boro",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48753603,
+      "source": "ESPN",
+      "headline": "Moreno: VAR's tone was too dismissive of other fouls in Arsenal game",
+      "description": "As VAR Audio of the disallowed West Ham goal vs. Arsenal is released, Alejandro Moreno says the VAR official was \"leading the witness\" in the way they spoke to the referee.",
+      "publishedAt": "2026-05-12T22:38:47Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0512/dm_260512_Moreno_VARs_tone_was_too_dismissive_of_other_fouls_in_Arsenal_game/dm_260512_Moreno_VARs_tone_was_too_dismissive_of_other_fouls_in_Arsenal_game.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48753603/var-tone-was-too-dismissive-other-fouls-arsenal-game",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48752998,
+      "source": "ESPN",
+      "headline": "Tottenham's James Maddison: Officials 'petrified' to make decisions",
+      "description": "Tottenham Hotspur midfielder James Maddison has said officials are \"petrified\" to make decisions after being denied a stoppage-time penalty against Leeds.",
+      "publishedAt": "2026-05-12T21:48:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0512/r1657356_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48752998/tottenham-james-maddison-officials-petrified-make-decisions",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "eddc29032670fe5206fc4f34cf1721a2",
+      "source": "Sky Sports",
+      "headline": "Pep: I have never trusted anything with VAR",
+      "description": "Manchester City manager Pep Guardiola says he has \"never trusted anything\" with referees and VAR after a pivotal decision in the Premier League title race.",
+      "publishedAt": "2026-05-12T21:30:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-pep-guardiola-man-city_7246757.jpg?20260512175255",
+      "link": "https://www.skysports.com/football/news/12040/13543220/pep-guardiola-i-have-never-trusted-anything-with-var-man-city-must-be-better-and-focus-vs-crystal-palace-instead",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48747741,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United looking at five summer signings",
+      "description": "Manchester United are looking at a big summer to sign several new players in key positions. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-12T21:01:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0512/r1657334_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48747741/transfer-rumors-news-liverpool-look-martinez-alisson-replacement",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Nottingham Forest",
+        "Newcastle United",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Wolverhampton Wanderers",
+        "West Ham United",
+        "Real Madrid",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "65935bd3e559b99fa1dbc408a194b01a",
+      "source": "Sky Sports",
+      "headline": "Saints edge Boro late in extra-time to reach play-off final amid 'Spygate' drama",
+      "description": "Southampton beat Middlesbrough 2-1 at St Mary's to book their place in the Sky Bet Championship play-off final for the second time in three seasons.",
+      "publishedAt": "2026-05-12T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-southampton-shea-charles_7246964.jpg?20260512224654",
+      "link": "https://www.skysports.com/football/southampton-vs-middlesbrough/report/555904",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 48752133,
       "source": "ESPN",
       "headline": "Andrey Santos: Representing Brazil at the World Cup will be the best moment of my career",
@@ -43,39 +124,6 @@
       ]
     },
     {
-      "id": "c716f2a9fce935535dd057bf2a663869",
-      "source": "Sky Sports",
-      "headline": "Live on Sky: Stockport vs Stevenage",
-      "description": "",
-      "publishedAt": "2026-05-12T18:11:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-stockport-county_7244550.jpg?20260510152739",
-      "link": "https://www.skysports.com/football/stockport-county-vs-stevenage/live/555907",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "89ba98b69b51843298e3c8a5bc354b25",
-      "source": "Sky Sports",
-      "headline": "LISTEN IN! The fascinating debate VAR had for West Ham's disallowed goal",
-      "description": "Listen in on the audio from VAR during the huge moment between West Ham and Arsenal on Sunday in the Premier League.",
-      "publishedAt": "2026-05-12T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-west-ham_7246545.jpg?20260512141058",
-      "link": "https://www.skysports.com/watch/video/13543111/match-officials-micd-up-the-fascinating-debate-var-had-for-west-hams-disallowed-goal-against-arsenal",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "9b497b176858afe16d76ac0c7e510df2",
-      "source": "Sky Sports",
-      "headline": "VAR audio reveals why Sesko goal stood against Liverpool",
-      "description": "Listen in on the VAR audio after Benjamin Sesko scored against Liverpool, with many suggesting the Slovenian put the ball in the net with his hand.",
-      "publishedAt": "2026-05-12T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-man-utd-football_7246557.jpg?20260512142547",
-      "link": "https://www.skysports.com/watch/video/13543121/match-officials-micd-up-listen-in-on-the-var-audio-after-benjamin-sesko-scored-against-liverpool",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 48738302,
       "source": "ESPN",
       "headline": "Manchester City vs. Crystal Palace in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
@@ -100,31 +148,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "5c1a66cc4436b6860d8dfa79c3f7f4a0",
-      "source": "Sky Sports",
-      "headline": "Join Chelsea or wait for 'dream' Liverpool job? Alonso's big dilemma",
-      "description": "Xabi Alonso has a big decision to make if he is offered the Chelsea job.",
-      "publishedAt": "2026-05-12T13:40:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-xabi-alonso-chelsea_7246434.jpg?20260512120937",
-      "link": "https://www.skysports.com/football/news/12040/13543053/xabi-alonso-former-real-madrid-and-bayer-leverkusen-coach-has-dilemma-of-moving-to-chelsea-or-waiting-for-dream-liverpool-job",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48747741,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool look to Martinez as Alisson replacement",
-      "description": "Liverpool's move to sign Aston Villa goalkeeper Emiliano Martinez is gaining momentum. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-12T13:39:32Z",
-      "image": "https://a.espncdn.com/photo/2025/0906/r1541731_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48747741/transfer-rumors-news-liverpool-look-martinez-alisson-replacement",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Aston Villa"
       ]
     },
     {
@@ -429,38 +452,11 @@
         "Arsenal",
         "West Ham United"
       ]
-    },
-    {
-      "id": 48739450,
-      "source": "ESPN",
-      "headline": "Man United's Bruno Fernandes congratulates Marcus Rashford on LaLiga triumph",
-      "description": "Manchester United captain Bruno Fernandes was pleased to see Marcus Rashford clinch the LaLiga title with Barcelona.",
-      "publishedAt": "2026-05-11T09:54:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656614_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48739450/man-united-bruno-fernandes-congratulates-marcus-rashford-laliga-title",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 48739301,
-      "source": "ESPN",
-      "headline": "Peter Schmeichel on 'wrong' Arsenal VAR call: 'That's how they've scored so many'",
-      "description": "Former Premier League-winning goalkeeper Peter Schmeichel has said the decision to disallow Arsenal's equaliser vs. West Ham on Sunday and award a free-kick the other way was \"wrong on so many levels.\"",
-      "publishedAt": "2026-05-11T09:31:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656608_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48739301/peter-schmeichel-arsenal-free-kick-decision-wrong-levels-west-ham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-12T20:06:17.975Z"
+    "cachedAt": "2026-05-13T04:11:23.017Z"
   }
 }
