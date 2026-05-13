@@ -2,12 +2,104 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "b307c214f8660fbde5dc65771ff11f92",
+      "source": "Sky Sports",
+      "headline": "Man Utd latest: Mainoo must use fear of losing place to become better, says Casemiro",
+      "description": "",
+      "publishedAt": "2026-05-13T08:55:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48756980,
+      "source": "ESPN",
+      "headline": "Refs' chief Webb: 'Obvious foul' on Arsenal's David Raya, VAR correct",
+      "description": "Referees' chief Howard Webb has confirmed that the decision to rule out West Ham's equaliser against Arsenal was correct due to \"a clear and obvious offence\" on David Raya, and called for discussions to take place on grappling in the penalty area.",
+      "publishedAt": "2026-05-13T08:48:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656608_600x400_3-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48756980/refs-chief-webb-obvious-foul-arsenal-david-raya-var-correct",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48756794,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United monitor Valverde amid Real Madrid bust-up",
+      "description": "Manchester United are plotting a move for Real Madrid midfielder Federico Valverde. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-13T07:46:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654830_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48756794/transfer-rumors-news-man-united-monitor-valverde-amid-real-madrid-bust-up",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "bd9177daad30df13ebf38123a18d5813",
+      "source": "Sky Sports",
+      "headline": "Southampton could be thrown out of play-offs if found guilty of alleged spying",
+      "description": "It is possible that Southampton could be thrown out of the Championship play-offs and denied the chance of promotion to the Premier League if an independent commission upholds the charge that they spied on a Middlesbrough training session in the build-up to their play-off semi-final.",
+      "publishedAt": "2026-05-13T06:32:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-southampton-middlesbrough_7243372.jpg?20260509123211",
+      "link": "https://www.skysports.com/football/news/12040/13543396/spygate-southampton-could-be-thrown-out-of-championship-play-offs-if-found-guilty-of-alleged-spying-on-middlesbrough",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48747779,
+      "source": "ESPN",
+      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
+      "description": "",
+      "publishedAt": "2026-05-13T06:31:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48738302,
+      "source": "ESPN",
+      "headline": "Manchester City vs. Crystal Palace in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of the Premier League clash between Manchester City and Crystal Palace,",
+      "publishedAt": "2026-05-13T06:21:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655865_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48738302/manchester-city-vs-crystal-palace-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": 48714109,
+      "source": "ESPN",
+      "headline": "Shea Charles strikes in extra-time, sends Southampton to Wembley playoff final",
+      "description": "Shea Charles struck a fortuitous extra-time winner as Southampton ensured the 'spygate' scandal will rumble on by booking their place in the Championship play-off final with a dramatic 2-1 comeback victory over Middlesbrough.",
+      "publishedAt": "2026-05-13T06:17:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0512/r1657361_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401871356",
+      "tag": "Southampton",
+      "teams": [
+        "Southampton",
+        "Middlesbrough"
+      ]
+    },
+    {
       "id": "a1e4bb14020b8b5f948c96a814b91229",
       "source": "Sky Sports",
       "headline": "'It breaks my heart': Emotional Hellberg hits out at 'disgraceful spying'",
       "description": "Kim Hellberg said the 'Spygate' saga that overshadowed his Middlesbrough side's Championship play-off semi-final defeat to Southampton was \"disgraceful\" and \"breaks my heart\".",
       "publishedAt": "2026-05-12T23:30:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-kim-hellberg-middlesbrough_7247017.jpg?20260513000222",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kim-hellberg-middlesbrough_7247062.jpg?20260513061911",
       "link": "https://www.skysports.com/football/news/12040/13543134/dnp-spygate-shell-for-after-saints-boro",
       "tag": "News Story",
       "teams": []
@@ -38,17 +130,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "eddc29032670fe5206fc4f34cf1721a2",
-      "source": "Sky Sports",
-      "headline": "Pep: I have never trusted anything with VAR",
-      "description": "Manchester City manager Pep Guardiola says he has \"never trusted anything\" with referees and VAR after a pivotal decision in the Premier League title race.",
-      "publishedAt": "2026-05-12T21:30:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-pep-guardiola-man-city_7246757.jpg?20260512175255",
-      "link": "https://www.skysports.com/football/news/12040/13543220/pep-guardiola-i-have-never-trusted-anything-with-var-man-city-must-be-better-and-focus-vs-crystal-palace-instead",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48747741,
@@ -124,20 +205,6 @@
       ]
     },
     {
-      "id": 48738302,
-      "source": "ESPN",
-      "headline": "Manchester City vs. Crystal Palace in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "All you need to know ahead of the Premier League clash between Manchester City and Crystal Palace,",
-      "publishedAt": "2026-05-12T15:06:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655865_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48738302/manchester-city-vs-crystal-palace-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Crystal Palace"
-      ]
-    },
-    {
       "id": 48750405,
       "source": "ESPN",
       "headline": "Arsenal's Ben White out for rest of season with knee injury, set to miss World Cup",
@@ -162,20 +229,6 @@
       "teams": [
         "Crystal Palace",
         "Manchester City"
-      ]
-    },
-    {
-      "id": 48747779,
-      "source": "ESPN",
-      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
-      "description": "",
-      "publishedAt": "2026-05-12T11:47:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
       ]
     },
     {
@@ -411,52 +464,11 @@
         "Brighton & Hove Albion",
         "Japan"
       ]
-    },
-    {
-      "id": 48739444,
-      "source": "ESPN",
-      "headline": "Fans, managers can hate on VAR, but Raya incident is why it exists",
-      "description": "Arsenal boss Mikel Arteta is the embodiment of how football wants VAR to work both ways. But Sunday's decision was right, and isn't that what we all want?",
-      "publishedAt": "2026-05-11T12:22:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656603_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48739444/fans-managers-hate-var-raya-incident-why-exists",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48739956,
-      "source": "ESPN",
-      "headline": "Hutchison: Liverpool cannot lose window with so many managers available",
-      "description": "Don Hutchison says that Liverpool's ownership \"need to have a conversation\" about changing manager from Arne Slot \"to someone better out there like Xabi Alonso.\"",
-      "publishedAt": "2026-05-11T11:08:21Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0511/dm_260511_Hutchison_Liverpool_cannot_lose_window_with_so_many_managers_available/dm_260511_Hutchison_Liverpool_cannot_lose_window_with_so_many_managers_available.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48739956/liverpool-cannot-lose-window-many-managers-available",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48739921,
-      "source": "ESPN",
-      "headline": "Hutchison: VAR was right in Arsenal game but there were other fouls",
-      "description": "Don Hutchison and Julien Laurens discuss the decision to rule out West Ham's equaliser against Arsenal, saying \"there were fouls from Rice and Trossard\" in the same play.",
-      "publishedAt": "2026-05-11T10:59:00Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0511/dm_260511_Hutchison_VAR_was_right_in_Arsenal_game_but_there_were_other_fouls/dm_260511_Hutchison_VAR_was_right_in_Arsenal_game_but_there_were_other_fouls.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48739921/var-was-right-arsenal-game-there-were-other-fouls",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-13T04:11:23.017Z"
+    "cachedAt": "2026-05-13T09:18:49.965Z"
   }
 }
