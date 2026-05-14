@@ -2,39 +2,164 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "7019fe43c1049b153fc980cd0f6a3670",
-      "source": "Sky Sports",
-      "headline": "Slot has 'every reason to believe' he will be in charge of Liverpool next season",
-      "description": "Liverpool head coach Arne Slot believes he will still be in charge next season.",
-      "publishedAt": "2026-05-14T08:15:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arne-slot-liverpool_7243662.jpg?20260509165150",
-      "link": "https://www.skysports.com/football/news/12040/13543863/arne-slot-future-liverpool-head-coach-says-he-has-every-reason-to-believe-he-will-be-in-charge-next-season",
-      "tag": "News Story",
-      "teams": []
+      "id": 48768589,
+      "source": "ESPN",
+      "headline": "Michael Carrick: Man United head coach shortlisted for Manager of the Season",
+      "description": "Manchester United head coach Michael Carrick has been named on the shortlist for the Premier League's Manager of the Season award.",
+      "publishedAt": "2026-05-14T14:03:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658098_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48768589/michael-carrick-man-united-manager-season-shortlist",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
     },
     {
-      "id": "f74181db24da47669aed7b07301b3192",
+      "id": 48766313,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye Dortmund's Bellingham",
+      "description": "Borussia Dortmund midfielder Jobe Bellingham is back on Manchester United's radar. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-14T13:10:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658016_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48766313/transfer-rumors-news-manchester-united-borussia-dortmund-jobe-bellingham",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Borussia Dortmund"
+      ]
+    },
+    {
+      "id": 48766629,
+      "source": "ESPN",
+      "headline": "Man United unveil new 2026-27 home kit ahead of Champions League return",
+      "description": "Manchester United have rolled out their home kit for the 2026-27 season in the Premier League and their return to the Champions League.",
+      "publishedAt": "2026-05-14T12:53:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658022_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48766629/manchester-united-new-2026-27-home-kit-champions-league-return",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "feb8a1f382dd2d35e6ab8f92a1148e26",
       "source": "Sky Sports",
-      "headline": "Liverpool latest: Slot gives positive update on Salah",
+      "headline": "Brentford latest: Andrews and Thiago nominated for PL awards",
       "description": "",
-      "publishedAt": "2026-05-14T08:01:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-liverpool-news-club_7039258.jpg?20251002160409",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-05-14T12:44:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-brentford-news-club_7039245.jpg?20251002155849",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": 48756342,
+      "id": "9c5d768ce0140d6f7e5908ee86574387",
+      "source": "Sky Sports",
+      "headline": "Q&A: Was Celtic penalty 'worst VAR decision in history' or 'clear cut'?",
+      "description": "It is the decision that has got the footballing world talking. Celtic’s match-winning penalty at Fir Park.",
+      "publishedAt": "2026-05-14T12:30:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-celtic-motherwell_7248499.jpg?20260514122348",
+      "link": "https://www.skysports.com/football/news/12040/13543869/qa-was-var-call-for-celtic-penalty-at-motherwell-clear-cut-or-worst-decision-in-history",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48767799,
       "source": "ESPN",
-      "headline": "Aston Villa vs. Liverpool in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "Everything you need to know about Aston Villa vs Liverpool in the Premier League, including five key talking points.",
-      "publishedAt": "2026-05-14T06:26:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655696_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48756342/aston-villa-vs-liverpool-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
+      "headline": "Ex-boss backs James Maddison for 'important' role as Tottenham battle relegation",
+      "description": "Tottenham Hotspur remain mired in relegation trouble, but fit-again James Maddison has been backed to make a difference after his eagerly-anticipated return from injury on Monday.",
+      "publishedAt": "2026-05-14T12:12:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0502/r1652212_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48767799/ex-boss-backs-james-maddison-important-role-tottenham-battle-relegation",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "2542f2a72370cec04866348473aed60c",
+      "source": "Sky Sports",
+      "headline": "Carrick up for PL Manager of Season award - after just 15 games in charge",
+      "description": "Man Utd head coach Michael Carrick is among the contenders for the Premier League Manager of the Season award - after just 15 league matches in charge.",
+      "publishedAt": "2026-05-14T11:28:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-manager_7248561.jpg?20260514133549",
+      "link": "https://www.skysports.com/football/news/12040/13543921/michael-carrick-man-utd-head-coach-up-for-manager-of-the-season-award-despite-overseeing-just-15-premier-league-games",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48767292,
+      "source": "ESPN",
+      "headline": "Arteta: Arsenal are 'living in the moment'",
+      "description": "Mikel Arteta says his Arsenal side are enjoying every moment in the Premier League title race and in their preparations for the Champions League final.",
+      "publishedAt": "2026-05-14T10:43:49Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0514/dm_260514_Arteta_Arsenal_are_living_in_the_moment/dm_260514_Arteta_Arsenal_are_living_in_the_moment.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48767292/arsenal-living-moment",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48766976,
+      "source": "ESPN",
+      "headline": "Slot: I have every reason to believe I'm the Liverpool manager next season",
+      "description": "Arne Slot believes he will remain Liverpool manager next season, but stresses he will not be making the decision alone.",
+      "publishedAt": "2026-05-14T10:01:36Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0514/dm_260514_Slot_I_have_every_reason_to_believe_Im_the_Liverpool_manager_next_season/dm_260514_Slot_I_have_every_reason_to_believe_Im_the_Liverpool_manager_next_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48766976/every-reason-believe-liverpool-manager-next-season",
       "tag": "Liverpool",
       "teams": [
-        "Liverpool",
-        "Aston Villa"
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48766630,
+      "source": "ESPN",
+      "headline": "Middlesbrough hold team meeting as Southampton spying drama continues",
+      "description": "Middlesbrough players were back at their training ground for a team meeting on Thursday, unsure if their season is finished as the 'spygate' scandal rumbles on.",
+      "publishedAt": "2026-05-14T09:34:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658031_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48766630/middlesbrough-hold-team-meeting-southampton-spying-drama-continues",
+      "tag": "Southampton",
+      "teams": [
+        "Southampton",
+        "Middlesbrough"
+      ]
+    },
+    {
+      "id": "d12cfe382e0ab520f82fea6c80635721",
+      "source": "Sky Sports",
+      "headline": "Live on Sky: League Two play-off semi-final second legs",
+      "description": "",
+      "publishedAt": "2026-05-14T09:30:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-league-two-play-offs_7244544.jpg?20260510152733",
+      "link": "https://www.skysports.com/football/salford-city-vs-grimsby-town/live/555912",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48758776,
+      "source": "ESPN",
+      "headline": "Want to hire the next Jürgen Klopp? This is how data can help clubs pick a manager",
+      "description": "All clubs now use analytics to sign players in the transfer window, but now some are embracing it in their managerial searches too.",
+      "publishedAt": "2026-05-14T08:57:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0106/r1597405_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48758776/want-hire-next-jurgen-klopp-how-data-help-clubs-pick-manager",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 48766491,
+      "source": "ESPN",
+      "headline": "Pep Guardiola: Man City focus on FA Cup final after Crystal Palace win",
+      "description": "Manchester City boss Pep Guardiola says his side's focus is on the FA Cup final at Wembley, not the league, after their win against Crystal Palace.",
+      "publishedAt": "2026-05-14T08:00:44Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0514/dm_260514_Pep_Guardiola_Man_City_focus_on_FA_Cup_final_after_Crystal_Palace_win/dm_260514_Pep_Guardiola_Man_City_focus_on_FA_Cup_final_after_Crystal_Palace_win.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48766491/man-city-focus-fa-cup-final-crystal-palace-win",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
       ]
     },
     {
@@ -92,6 +217,17 @@
       ]
     },
     {
+      "id": "097bc549182527f78b586a3c38425314",
+      "source": "Sky Sports",
+      "headline": "Aston Villa latest: Emery apologises to Elliott over 'embarrassing' lack of minutes",
+      "description": "",
+      "publishedAt": "2026-05-13T22:40:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48762713,
       "source": "ESPN",
       "headline": "Nicol: The final day of the Premier League will be ruined by reserve lineups",
@@ -134,17 +270,6 @@
       ]
     },
     {
-      "id": "bbc321f41fb4c34684e88c814ee7f311",
-      "source": "Sky Sports",
-      "headline": "Stockport see off Stevenage to reach League One play-off final",
-      "description": "Stockport County sealed their passage to Wembley as they beat Stevenage 3-0 on aggregate to reach the League One play-off final.",
-      "publishedAt": "2026-05-13T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-kyle-wootton-stockport_7248034.jpg?20260513212923",
-      "link": "https://www.skysports.com/football/stockport-county-vs-stevenage/report/555907",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 48760769,
       "source": "ESPN",
       "headline": "Erling Haaland, Jérémy Doku on bench for crucial Man City clash",
@@ -152,20 +277,6 @@
       "publishedAt": "2026-05-13T18:43:19Z",
       "image": "https://a.espncdn.com/photo/2026/0513/r1657709_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48760769/erling-haaland-jeremy-doku-man-city-crystal-palace-bench-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Crystal Palace"
-      ]
-    },
-    {
-      "id": 48738302,
-      "source": "ESPN",
-      "headline": "Manchester City vs. Crystal Palace in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "All you need to know ahead of the Premier League clash between Manchester City and Crystal Palace,",
-      "publishedAt": "2026-05-13T18:02:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655865_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48738302/manchester-city-vs-crystal-palace-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
       "tag": "Manchester City",
       "teams": [
         "Manchester City",
@@ -184,17 +295,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "7018e46cc3cf92450ec22a3d503314ed",
-      "source": "Sky Sports",
-      "headline": "PSG clinch record-extending 14th French league title",
-      "description": "",
-      "publishedAt": "2026-05-13T16:29:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-psg-lens_7248099.jpg?20260513223008",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48752900,
@@ -327,17 +427,6 @@
       ]
     },
     {
-      "id": "c6caa30befbad5fee45c169945855ebf",
-      "source": "Sky Sports",
-      "headline": "Palace latest: Glasner hints at 'huge' rotation vs Arsenal",
-      "description": "",
-      "publishedAt": "2026-05-12T13:49:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-crystal-palace-news_7039251.jpg?20251002160103",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48749510,
       "source": "ESPN",
       "headline": "Pep Guardiola: Rodri and Abdukodir Khusanov will be fit to face Chelsea in FA Cup final",
@@ -379,105 +468,20 @@
       ]
     },
     {
-      "id": 48748075,
-      "source": "ESPN",
-      "headline": "Xabi Alonso, Andoni Iraola in frame for Chelsea job, but no preferred candidate - sources",
-      "description": "Alonso and Iraola are two prominent names on Chelsea's manager shortlist, but there is no firm front runner at this stage, sources have told ESPN.",
-      "publishedAt": "2026-05-12T09:38:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0512/r1657065_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48748075/xabi-alonso-andoni-iraola-frame-chelsea-job-no-preferred-candidate-sources",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 48747194,
-      "source": "ESPN",
-      "headline": "Haunted Tottenham return West Ham's favour as relegation battle takes fresh twist",
-      "description": "After West Ham missed the chance to move four points clear of Tottenham in April, Roberto De Zerbi's haunted team returned the favour against Leeds.",
-      "publishedAt": "2026-05-12T09:18:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0512/r1657053_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48747194/haunted-tottenham-return-west-ham-favour-relegation-battle-takes-fresh-twist-mathys-tel-roberto-de-zerbi",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 48747953,
-      "source": "ESPN",
-      "headline": "Do West Ham still have a chance of staying up over Tottenham?",
-      "description": "The 'FC TV' crew react to Tottenham's 1-1 draw with Leeds United in the Premier League.",
-      "publishedAt": "2026-05-12T08:20:49Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0512/dm_260512_COM_SOC_Analysis_Do_West_Ham_still_have_a_chance_of_staying_up_over_Tottenham3F_GLOBAL_2026-05-12/dm_260512_COM_SOC_Analysis_Do_West_Ham_still_have_a_chance_of_staying_up_over_Tottenham3F_GLOBAL_2026-05-12.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48747953/do-west-ham-chance-staying-tottenham",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48742600,
-      "source": "ESPN",
-      "headline": "Tottenham 1-1 Leeds: Roberto De Zerbi's side blow another chance to move towards safety",
-      "description": "Tottenham fail to win at home again as they move two points clear of West Ham in an absorbing relegation battle, rather than the intended four.",
-      "publishedAt": "2026-05-12T07:46:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0512/r1656968_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48742600/tottenham-1-1-leeds-roberto-de-zerbi-side-blow-another-chance-move-towards-safety",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 48747822,
-      "source": "ESPN",
-      "headline": "De Zerbi: Spurs have the quality to stay up",
-      "description": "Tottenham Hotspur boss Roberto De Zerbi says his side have the quality to stay in the Premier League after their 1-1 draw against Leeds.",
-      "publishedAt": "2026-05-12T07:44:53Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0512/dm_260512_De_Zerbi_Spurs_have_the_quality_to_stay_up/dm_260512_De_Zerbi_Spurs_have_the_quality_to_stay_up.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48747822/spurs-quality-stay-up",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48745313,
-      "source": "ESPN",
-      "headline": "Leeds' late equaliser keeps relegation pressure on Tottenham",
-      "description": "Spurs forward Mathys Tel both scores Tottenham's lone goal and concedes a late, reckless penalty to leave his club mired in relegation trouble.",
-      "publishedAt": "2026-05-12T00:29:49Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0511/dm_260511_Soccer_Highlight_Leeds_late_equaliser_keeps_relegation_pressure_on_Tottenham_20260512_AUS_ONLY/dm_260511_Soccer_Highlight_Leeds_late_equaliser_keeps_relegation_pressure_on_Tottenham_20260512_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48745313/leeds-late-equaliser-keeps-relegation-pressure-tottenham",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48744857,
-      "source": "ESPN",
-      "headline": "De Zerbi claims referee 'was not calm' as Tottenham held by Leeds",
-      "description": "Tottenham coach Roberto De Zerbi hit out at the officiating after his team's Monday draw with Leeds, which left Spurs still fighting to secure their Premier League survival.",
-      "publishedAt": "2026-05-11T23:23:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656919_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48744857/de-zerbi-claims-referee-was-not-calm-tottenham-held-leeds",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
+      "id": "91ad1bc63a77fdac222983a4ba0458a4",
+      "source": "Sky Sports",
+      "headline": "Brighton latest: World Cup worry for Mitoma",
+      "description": "",
+      "publishedAt": "2026-05-09T17:30:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-14T08:49:37.237Z"
+    "cachedAt": "2026-05-14T14:38:31.982Z"
   }
 }
