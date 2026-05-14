@@ -2,6 +2,39 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "914fe36f1a954f7f164549275b0f9983",
+      "source": "Sky Sports",
+      "headline": "PL predictions: Liverpool set for a dirty dozen league defeats at Villa",
+      "description": "Our football betting expert Jones Knows offers his insight ahead of another exciting weekend of Premier League action.",
+      "publishedAt": "2026-05-14T17:00:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-premier-league-prediction_7223294.jpg?20260418114637",
+      "link": "https://www.skysports.com/football/news/12040/13543936/premier-league-predictions-and-best-bets-liverpool-set-for-a-dirty-dozen-league-defeats-at-aston-villa",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": "8c2813c177212266c43f90616e90b91c",
+      "source": "Sky Sports",
+      "headline": "Championship play-off final may be delayed by 'Spygate' hearing",
+      "description": "The independent hearing to determine Southampton's Championship play-off final fate will take place on or before Tuesday May 19 - but the date of the Wembley game four days later could be changed.",
+      "publishedAt": "2026-05-14T15:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-efl-championship_7247272.jpg?20260513102240",
+      "link": "https://www.skysports.com/football/news/12040/13543548/spygate-southamptons-championship-play-off-final-fate-to-be-determined-as-date-set-for-independent-hearing",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "343c8c065a13b2e3d678270c67577bed",
+      "source": "Sky Sports",
+      "headline": "World Cup latest: Camavinga left out of France squad",
+      "description": "",
+      "publishedAt": "2026-05-14T14:47:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-camavinga-france_7248914.jpg?20260514194443",
+      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48768589,
       "source": "ESPN",
       "headline": "Michael Carrick: Man United head coach shortlisted for Manager of the Season",
@@ -42,28 +75,6 @@
       ]
     },
     {
-      "id": "feb8a1f382dd2d35e6ab8f92a1148e26",
-      "source": "Sky Sports",
-      "headline": "Brentford latest: Andrews and Thiago nominated for PL awards",
-      "description": "",
-      "publishedAt": "2026-05-14T12:44:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-brentford-news-club_7039245.jpg?20251002155849",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "9c5d768ce0140d6f7e5908ee86574387",
-      "source": "Sky Sports",
-      "headline": "Q&A: Was Celtic penalty 'worst VAR decision in history' or 'clear cut'?",
-      "description": "It is the decision that has got the footballing world talking. Celtic’s match-winning penalty at Fir Park.",
-      "publishedAt": "2026-05-14T12:30:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-celtic-motherwell_7248499.jpg?20260514122348",
-      "link": "https://www.skysports.com/football/news/12040/13543869/qa-was-var-call-for-celtic-penalty-at-motherwell-clear-cut-or-worst-decision-in-history",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48767799,
       "source": "ESPN",
       "headline": "Ex-boss backs James Maddison for 'important' role as Tottenham battle relegation",
@@ -75,17 +86,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "2542f2a72370cec04866348473aed60c",
-      "source": "Sky Sports",
-      "headline": "Carrick up for PL Manager of Season award - after just 15 games in charge",
-      "description": "Man Utd head coach Michael Carrick is among the contenders for the Premier League Manager of the Season award - after just 15 league matches in charge.",
-      "publishedAt": "2026-05-14T11:28:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-manager_7248561.jpg?20260514133549",
-      "link": "https://www.skysports.com/football/news/12040/13543921/michael-carrick-man-utd-head-coach-up-for-manager-of-the-season-award-despite-overseeing-just-15-premier-league-games",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48767292,
@@ -126,17 +126,6 @@
         "Southampton",
         "Middlesbrough"
       ]
-    },
-    {
-      "id": "d12cfe382e0ab520f82fea6c80635721",
-      "source": "Sky Sports",
-      "headline": "Live on Sky: League Two play-off semi-final second legs",
-      "description": "",
-      "publishedAt": "2026-05-14T09:30:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-league-two-play-offs_7244544.jpg?20260510152733",
-      "link": "https://www.skysports.com/football/salford-city-vs-grimsby-town/live/555912",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48758776,
@@ -466,22 +455,11 @@
         "Crystal Palace",
         "Senegal"
       ]
-    },
-    {
-      "id": "91ad1bc63a77fdac222983a4ba0458a4",
-      "source": "Sky Sports",
-      "headline": "Brighton latest: World Cup worry for Mitoma",
-      "description": "",
-      "publishedAt": "2026-05-09T17:30:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-14T14:38:31.982Z"
+    "cachedAt": "2026-05-14T20:01:13.325Z"
   }
 }
