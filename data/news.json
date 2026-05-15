@@ -2,6 +2,128 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48771056,
+      "source": "ESPN",
+      "headline": "Each Premier League team reranked: Man City rise; Chelsea, Liverpool collapse",
+      "description": "Let's rank all 20 Premier League teams for the final time this season: Why Man City have overtaken Arsenal, and why both Liverpool and Chelsea collapsed.",
+      "publishedAt": "2026-05-15T08:41:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658315_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48771056/every-premier-league-team-reranked-man-city-rise-chelsea-liverpool-collapse",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Arsenal",
+        "Manchester City",
+        "Aston Villa",
+        "Everton",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Brentford",
+        "Nottingham Forest",
+        "Manchester United",
+        "Fulham",
+        "Brighton & Hove Albion",
+        "Newcastle United",
+        "Chelsea",
+        "Crystal Palace",
+        "West Ham United",
+        "Wolverhampton Wanderers",
+        "Leeds United",
+        "Burnley",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 48747779,
+      "source": "ESPN",
+      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
+      "description": "",
+      "publishedAt": "2026-05-15T08:36:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48766629,
+      "source": "ESPN",
+      "headline": "Man United unveil new 2026-27 home kit ahead of Champions League return",
+      "description": "Manchester United have rolled out their home kit for the 2026-27 season in the Premier League and their return to the Champions League.",
+      "publishedAt": "2026-05-15T08:08:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658022_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48766629/manchester-united-new-2026-27-home-kit-champions-league-return",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48775723,
+      "source": "ESPN",
+      "headline": "Arsenal unveil new 2026-27 home kit ahead of Champions League final",
+      "description": "With three absolutely huge games left to play this season, Arsenal are already looking ahead to next term with the release of their 2026-27 home kit.",
+      "publishedAt": "2026-05-15T08:02:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0515/r1658480_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48775723/arsenal-unveil-new-2026-27-home-kit-ahead-champions-league-final",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48770179,
+      "source": "ESPN",
+      "headline": "Weekend predictions: Man City or Chelsea in FA Cup final?",
+      "description": "Silverware is on the line at Wembley, and in Scotland and Belgium. Who will claim the trophies? Julien Laurens makes his predictions.",
+      "publishedAt": "2026-05-15T08:00:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0512/r1657072_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48770179/weekend-soccer-predictions-fa-cup-final-premier-league-man-city-chelsea-arsenal-burnley-title-deciders-europe",
+      "tag": "Celtic",
+      "teams": [
+        "Celtic",
+        "Manchester City",
+        "Chelsea",
+        "Arsenal",
+        "Burnley",
+        "Heart of Midlothian",
+        "Lyon",
+        "Lens",
+        "Club Brugge",
+        "Union St.-Gilloise",
+        "VfB Stuttgart",
+        "Eintracht Frankfurt"
+      ]
+    },
+    {
+      "id": 48775519,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal join Man United in race for West Ham youngster",
+      "description": "Arsenal are set to join Paris Saint-Germain, Atlético Madrid and Manchester United in the race for West Ham midfielder Mateus Fernandes. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-15T07:31:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0405/r1638826_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48775519/transfer-rumors-news-arsenal-join-man-united-race-west-ham-youngster",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Arsenal",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "32952e290266650c9238b18b725a7978",
+      "source": "Sky Sports",
+      "headline": "Arteta: Arsenal ready to take final step in trophy hunt",
+      "description": "Mikel Arteta has urged Arsenal to seize their chance against Burnley on Monday Night Football and move a step closer to \"finalising the business\" of winning major silverware.",
+      "publishedAt": "2026-05-15T07:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-arsenal_7242700.jpg?20260508152227",
+      "link": "https://www.skysports.com/football/news/12040/13543898/mikel-arteta-says-arsenal-ready-to-take-final-step-of-winning-major-trophies-as-title-race-with-man-city-nears-climax",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48766313,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Chelsea eye move for Barrenetxea",
@@ -16,28 +138,6 @@
       ]
     },
     {
-      "id": "eddc29a46d322a4fce7c0982721b259e",
-      "source": "Sky Sports",
-      "headline": "Bolton hit Bradford with sucker-punch to reach L1 play-off final",
-      "description": "Bolton reached the Sky Bet League One play-off final after clinching 1-0 semi-final second leg win at Bradford. Xavier Simons scored the only goal to seal a 2-0 aggregate victory.",
-      "publishedAt": "2026-05-14T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-bolton-bradford-xavier-simons_7249020.jpg?20260514220202",
-      "link": "https://www.skysports.com/football/bradford-city-vs-bolton-wanderers/report/555908",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "914fe36f1a954f7f164549275b0f9983",
-      "source": "Sky Sports",
-      "headline": "PL predictions: Liverpool set for a dirty dozen league defeats at Villa",
-      "description": "Our football betting expert Jones Knows offers his insight ahead of another exciting weekend of Premier League action.",
-      "publishedAt": "2026-05-14T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-premier-league-prediction_7223294.jpg?20260418114637",
-      "link": "https://www.skysports.com/football/news/12040/13543936/premier-league-predictions-and-best-bets-liverpool-set-for-a-dirty-dozen-league-defeats-at-aston-villa",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
       "id": 48768589,
       "source": "ESPN",
       "headline": "Michael Carrick: Man United head coach shortlisted for Manager of the Season",
@@ -45,19 +145,6 @@
       "publishedAt": "2026-05-14T14:03:52Z",
       "image": "https://a.espncdn.com/photo/2026/0514/r1658098_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48768589/michael-carrick-man-united-manager-season-shortlist",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48766629,
-      "source": "ESPN",
-      "headline": "Man United unveil new 2026-27 home kit ahead of Champions League return",
-      "description": "Manchester United have rolled out their home kit for the 2026-27 season in the Premier League and their return to the Champions League.",
-      "publishedAt": "2026-05-14T12:53:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0514/r1658022_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48766629/manchester-united-new-2026-27-home-kit-champions-league-return",
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
@@ -138,20 +225,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 48747779,
-      "source": "ESPN",
-      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
-      "description": "",
-      "publishedAt": "2026-05-14T06:25:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
       ]
     },
     {
@@ -379,65 +452,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 48750405,
-      "source": "ESPN",
-      "headline": "Arsenal's Ben White out for rest of season with knee injury, set to miss World Cup",
-      "description": "Arsenal have confirmed that defender Ben White will miss the remainder of the season due to a knee injury.",
-      "publishedAt": "2026-05-12T14:59:32Z",
-      "image": "https://a.espncdn.com/photo/2025/1028/r1567287_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48750405/arsenal-ben-white-rest-season-knee-injury-set-miss-world-cup",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48749510,
-      "source": "ESPN",
-      "headline": "Pep Guardiola: Rodri and Abdukodir Khusanov will be fit to face Chelsea in FA Cup final",
-      "description": "Manchester City manager Pep Guardiola has revealed that Rodri and Abdukodir Khusanov will be available for selection to face Chelsea in the FA Cup final.",
-      "publishedAt": "2026-05-12T12:45:37Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0512/dm_260512_COM_SOC_Analysis_Pep_Guardiola3A_Rodri_and_Abdukodir_Khusanov_will_be_fit_to_face_Chelsea_in_FA_Cup/dm_260512_COM_SOC_Analysis_Pep_Guardiola3A_Rodri_and_Abdukodir_Khusanov_will_be_fit_to_face_Chelsea_in_FA_Cup.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48749510/rodri-abdukodir-khusanov-fit-face-chelsea-fa-cup-final",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48744645,
-      "source": "ESPN",
-      "headline": "Why Man United should think twice about hiring Carrick as permanent coach",
-      "description": "Everyone seems to agree Michael Carrick should be Man United's next permanent manager -- but they aren't looking at what matters.",
-      "publishedAt": "2026-05-12T11:00:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656927_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48744645/why-man-united-think-twice-hiring-carrick-permanent-coach",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48748329,
-      "source": "ESPN",
-      "headline": "Senegal winger Ismaila Sarr's skill has caught up to his speed at Crystal Palace's finishing school",
-      "description": "Crystal Palace is a club that has a fine track record for developing wide players to go onto bigger and better things, and Senegal's Ismaila Sarr, who now has 20 goals this season, is the latest proof of that.",
-      "publishedAt": "2026-05-12T10:20:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0512/r1657070_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/48748329/senegal-winger-ismaila-sarr-skill-caught-speed-crystal-palace-finishing-school",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Senegal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-15T04:15:45.069Z"
+    "cachedAt": "2026-05-15T09:24:07.468Z"
   }
 }
