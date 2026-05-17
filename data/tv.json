@@ -2,22 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "manchester united|nottingham forest": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
-    "brentford|crystal palace": [
-      "Sky Sports Football"
-    ],
-    "everton|sunderland": [
-      "Sky Sports Premier League"
-    ],
-    "leeds united|brighton and hove albion": [
-      "Sky Sports Main Event"
-    ],
-    "wolves|fulham": [
-      "Sky Sports F1"
-    ],
     "newcastle united|west ham united": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -66,6 +50,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-17T13:55:48.902Z"
+    "cachedAt": "2026-05-17T19:34:41.842Z"
   }
 }
