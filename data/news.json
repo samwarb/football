@@ -2,30 +2,137 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 48789151,
+      "id": 48779721,
       "source": "ESPN",
-      "headline": "Chelsea appoint Xabi Alonso as new manager",
-      "description": "Xabi Alonso has been named Chelsea's new manager and will begin his role on July 1, the club have announced.",
-      "publishedAt": "2026-05-17T08:25:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0516/r1659023_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48789151/chelsea-xabi-alonso-new-manager-premier-league-real-madrid-calum-mcfarlane",
+      "headline": "Man United wrap up third in eventful win over Nottingham Forest",
+      "description": "Manchester United wrapped up third spot with Sunday's entertaining 3-2 victory against Nottingham Forest as Bruno Fernandes' memorable season reached a new height.",
+      "publishedAt": "2026-05-17T13:49:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0517/r1659350_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740963",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 48794163,
+      "source": "ESPN",
+      "headline": "Why Chelsea hired Xabi Alonso now, and what went wrong at Real Madrid",
+      "description": "Chelsea moved quickly to hire former Real Madrid boss Xabi Alonso, but what will he bring to the club? And will he get the control he wants?",
+      "publishedAt": "2026-05-17T13:47:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0517/r1659297_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48794163/why-chelsea-hired-xabi-alonso-now-went-wrong-real-madrid",
       "tag": "Chelsea",
       "teams": [
-        "Chelsea"
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 48665214,
+      "source": "ESPN",
+      "headline": "Man United's Bruno Fernandes equals Premier League assist record",
+      "description": "Manchester United's Bruno Fernandes has equalled the Premier League record for the most assists recorded in a season, after registering his 20th of the campaign.",
+      "publishedAt": "2026-05-17T13:44:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0517/r1659357_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48665214/man-united-bruno-fernandes-equals-premier-league-assist-record-nottingham-forest-thierry-henry-kevin-de-bruyne",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
       ]
     },
     {
       "id": 48793833,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Mourinho wants Rodri at Real Madrid",
-      "description": "Jose Mourinho is pushing for Real Madrid to make Manchester City midfielder Rodri his first signing. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-17T08:22:24Z",
+      "description": "José Mourinho is pushing for Real Madrid to make Manchester City midfielder Rodri his first signing. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-17T13:33:20Z",
       "image": "https://a.espncdn.com/photo/2026/0310/r1626419_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48793833/transfer-rumors-news-mourinho-wants-man-city-rodri-real-madrid",
       "tag": "Real Madrid",
       "teams": [
         "Real Madrid",
         "Manchester City"
+      ]
+    },
+    {
+      "id": "ea44837026311bf9755293ae4487f531",
+      "source": "Sky Sports",
+      "headline": "Bruno's record equaling 20th assist! Mbeumo delicately finishes Fernandes' cross!",
+      "description": "Bruno Fernandes gets his record-equaling 20th assist as Bryan Mbeumo delicately finishes the Manchester United captains' cross",
+      "publishedAt": "2026-05-17T13:08:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-goal-bruno_7251186.jpg?20260517141656",
+      "link": "https://www.skysports.com/watch/video/13545042/goal-b-mbeumo-76-manchester-utd-3-1-nottm-forest",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "a691fa9efbde63093e859671ef77fdf8",
+      "source": "Sky Sports",
+      "headline": "Coleman on bench for his final Everton home game LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-17T12:25:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-everton_7245322.jpg?20260511091236",
+      "link": "https://www.skysports.com/football/everton-vs-sunderland/live/531494",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "9e307ed2ee007951e4d15119f82e7637",
+      "source": "Sky Sports",
+      "headline": "Leeds and Brighton change one each LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-17T12:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-leeds_7245323.jpg?20260511091258",
+      "link": "https://www.skysports.com/football/leeds-united-vs-brighton-and-hove-albion/live/531495",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "a3ae36c4a94422c9f32bc021c96d8839",
+      "source": "Sky Sports",
+      "headline": "Shaw half-volley strike gives Man Utd early lead!",
+      "description": "A Luke Shaw half-volley strike gives Man Utd early lead against Nottingham Forest in the Premier League.",
+      "publishedAt": "2026-05-17T11:41:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-shaw-goal_7251113.jpg?20260517124503",
+      "link": "https://www.skysports.com/watch/video/13545013/goal-l-shaw-5-manchester-utd-1-0-nottm-forest",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "34bda67a3effb13a31ef8090ed94836b",
+      "source": "Sky Sports",
+      "headline": "Fernandes equals PL assists record in Man Utd win LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-17T10:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-bruno-fernandes-premier-league_7251187.jpg?20260517142347",
+      "link": "https://www.skysports.com/football/manchester-united-vs-nottingham-forest/live/531496",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "d22ae0323d6620401a92d399f9c7b7aa",
+      "source": "Sky Sports",
+      "headline": "Mourinho admits Real Madrid return is on ahead of decisive week",
+      "description": "He's been the Special One. He's been the Happy One. Now it seems Jose Mourinho is the Chosen One. Chosen to return to Real Madrid 13 years after he left.",
+      "publishedAt": "2026-05-17T08:48:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-jose-mourinho-benfica_7250918.jpg?20260516224824",
+      "link": "https://www.skysports.com/football/news/12040/13544991/jose-mourinho-opens-up-on-real-madrid-return-after-potential-benfica-farewell-reporter-notebook",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48789151,
+      "source": "ESPN",
+      "headline": "Chelsea appoint Xabi Alonso as new manager on four-year deal",
+      "description": "Xabi Alonso has been named Chelsea's new manager and will begin his role on July 1, the club have announced.",
+      "publishedAt": "2026-05-17T08:38:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0516/r1659023_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48789151/chelsea-xabi-alonso-new-manager-premier-league-real-madrid-calum-mcfarlane",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
       ]
     },
     {
@@ -150,17 +257,6 @@
       ]
     },
     {
-      "id": "e410ce0dbced1e5bba68de63bb49dfd4",
-      "source": "Sky Sports",
-      "headline": "Hearts slam 'disgraceful' pitch invasion and report 'serious' abuse at Celtic Park",
-      "description": "Hearts say their players and staff have reported \"serious physical and verbal abuse\" following the \"shameful\", \"unacceptable\" and \"disgraceful\" pitch invasion at Celtic Park.",
-      "publishedAt": "2026-05-16T18:50:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-hearts-celtic_7250819.jpg?20260516194013",
-      "link": "https://www.skysports.com/football/news/12040/13544702/celtic-3-1-hearts-visitors-say-players-staff-suffer-serious-physical-and-verbal-abuse-after-disgraceful-celtic-park-pitch-invasion",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48788811,
       "source": "ESPN",
       "headline": "Burley: Xabi Alonso will need control to survive at Chelsea",
@@ -183,20 +279,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/48786098/man-united-michael-carrick-close-agreeing-permanent-manager-appointment-sources",
       "tag": "Manchester United",
       "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48776104,
-      "source": "ESPN",
-      "headline": "Bruno Fernandes: 'I was really sad when Declan Rice chose to go to Arsenal'",
-      "description": "Manchester United star Bruno Fernandes said he was 'really sad' when Declan Rice chose to go to Arsenal and not join Manchester United.",
-      "publishedAt": "2026-05-16T09:32:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0515/r1658499_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48776104/bruno-fernandes-was-really-sad-declan-rice-chose-go-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
         "Manchester United"
       ]
     },
@@ -377,38 +459,6 @@
       ]
     },
     {
-      "id": 48771056,
-      "source": "ESPN",
-      "headline": "Each Premier League team reranked: Man City rise; Chelsea, Liverpool collapse",
-      "description": "Let's rank all 20 Premier League teams for the final time this season: Why Man City have overtaken Arsenal, and why both Liverpool and Chelsea collapsed.",
-      "publishedAt": "2026-05-15T13:01:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0514/r1658315_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48771056/every-premier-league-team-reranked-man-city-rise-chelsea-liverpool-collapse",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Arsenal",
-        "Manchester City",
-        "Aston Villa",
-        "Everton",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Brentford",
-        "Nottingham Forest",
-        "Manchester United",
-        "Fulham",
-        "Brighton & Hove Albion",
-        "Newcastle United",
-        "Chelsea",
-        "Crystal Palace",
-        "West Ham United",
-        "Wolverhampton Wanderers",
-        "Leeds United",
-        "Burnley",
-        "Sunderland"
-      ]
-    },
-    {
       "id": 48776772,
       "source": "ESPN",
       "headline": "Bernardo Silva: 'Only natural Arsenal would man up and challenge for titles'",
@@ -423,22 +473,20 @@
       ]
     },
     {
-      "id": 48776490,
-      "source": "ESPN",
-      "headline": "Fernandes: Carrick has the character to become a top manager",
-      "description": "Bruno Fernandes speaks about Michael Carrick's potential future as Manchester United manager.",
-      "publishedAt": "2026-05-15T11:14:39Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0515/dm_260515_COM_SOC_Interview_Fernandes_Carrick_has_the_character_to_become_a_top_manager_20260515_GLOBAL/dm_260515_COM_SOC_Interview_Fernandes_Carrick_has_the_character_to_become_a_top_manager_20260515_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48776490/carrick-character-become-top-manager",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
+      "id": "59fe97cf62cb7f5b06c088be5b49aa92",
+      "source": "Sky Sports",
+      "headline": "Fernandes matches PL assist record as United seal third with Forest win",
+      "description": "Bruno Fernandes equalled the Premier League assists record as Man Utd sealed a third-place finish with an entertaining 3-2 win over Nottingham Forest at Old Trafford.",
+      "publishedAt": "2026-05-13T08:47:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-bruno-fernandes-man-utd_7251207.jpg?20260517143526",
+      "link": "https://www.skysports.com/football/manchester-united-vs-nottingham-forest/report/531496",
+      "tag": "Report",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-17T08:31:48.712Z"
+    "cachedAt": "2026-05-17T13:55:49.011Z"
   }
 }

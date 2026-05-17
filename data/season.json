@@ -1496,8 +1496,8 @@
           "date": "2026-05-17",
           "time": "12:30:00",
           "venue": "Old Trafford",
-          "status": "Not Started",
-          "played": false,
+          "status": "Match Finished",
+          "played": true,
           "live": false,
           "home": {
             "slug": "manchester-united",
@@ -1512,8 +1512,8 @@
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
           },
           "score": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 2
           },
           "tvChannels": []
         },
@@ -3395,8 +3395,8 @@
       "date": "2026-05-17",
       "time": "12:30:00",
       "venue": "Old Trafford",
-      "status": "Not Started",
-      "played": false,
+      "status": "Match Finished",
+      "played": true,
       "live": false,
       "home": {
         "slug": "manchester-united",
@@ -3411,8 +3411,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 2
       },
       "tvChannels": []
     },
@@ -3825,6 +3825,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-17T08:31:48.829Z"
+    "cachedAt": "2026-05-17T13:55:49.129Z"
   }
 }
