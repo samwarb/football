@@ -2,6 +2,39 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "ed9426b2a0a6df0e754255c7241e487e",
+      "source": "Sky Sports",
+      "headline": "Who will land a spot in Clarke's Scotland World Cup squad?",
+      "description": "The wait is almost over. Not just for the fans, but also the players, as Steve Clarke reveals his Scotland squad for the World Cup.",
+      "publishedAt": "2026-05-18T18:30:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-scotland-football_7208281.jpg?20260401084059",
+      "link": "https://www.skysports.com/football/news/12040/13545584/scotland-world-cup-2026-squad-who-will-land-spot-in-steve-clarkes-26-man-group-heading-to-north-america",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b2a2ca983d2e7fb0abf177546d75d62f",
+      "source": "Sky Sports",
+      "headline": "MNF awards: Neville and Carragher pick team and player of the season",
+      "description": "Gary Neville and Jamie Carragher have picked their Premier League team and player of the season.",
+      "publishedAt": "2026-05-18T18:00:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-player-of-the-season_7252571.jpg?20260518202142",
+      "link": "https://www.skysports.com/football/news/12040/13545613/gary-neville-and-jamie-carraghers-2025-26-awards-player-team-of-the-season-and-more-on-monday-night-football",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "eb220eef40be4e440933e0eae43ba0e5",
+      "source": "Sky Sports",
+      "headline": "Havertz nods Arsenal ahead to make huge breakthrough Burnley LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-18T17:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-burnleyuu_7252595.jpg?20260518204557",
+      "link": "https://www.skysports.com/football/arsenal-vs-burnley/live/531489",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48806385,
       "source": "ESPN",
       "headline": "Roberto De Zerbi warns Spurs 'not safe yet' from Premier League relegation",
@@ -138,17 +171,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "7607c51fa838a4f109ec92388f26a53c",
-      "source": "Sky Sports",
-      "headline": "Mourinho agrees Real Madrid return",
-      "description": "Jose Mourinho has agreed to return to Real Madrid as head coach on a two-year deal.",
-      "publishedAt": "2026-05-18T09:54:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-jose-mourinho-real-madrid_7252177.jpg?20260518114400",
-      "link": "https://www.skysports.com/football/news/12040/13544711/jose-mourinho-real-madrid-agree-deal-for-ex-man-utd-boss-to-return-as-head-coach-on-two-year-deal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48747779,
@@ -440,6 +462,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-18T15:55:49.042Z"
+    "cachedAt": "2026-05-18T19:59:25.750Z"
   }
 }
