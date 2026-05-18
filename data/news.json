@@ -2,6 +2,164 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48800925,
+      "source": "ESPN",
+      "headline": "Fernandes makes history as United defeat Forest",
+      "description": "Bruno Fernandes becomes just the third Premier League player to record 20 assists in a season as Manchester United wrap up third spot with a 3-2 win.",
+      "publishedAt": "2026-05-18T00:06:30Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_EPL_HIGHLIGHT_Fernandes_makes_history_as_United_defeat_Forest_20260518_AUS/dm_260517_EPL_HIGHLIGHT_Fernandes_makes_history_as_United_defeat_Forest_20260518_AUS.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48800925/fernandes-makes-history-united-defeat-forest",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48800817,
+      "source": "ESPN",
+      "headline": "Newcastle push West Ham to the brink of relegation",
+      "description": "Will Osula bags a double for Newcastle as the Magpies keep the Hammers mired in the relegation zone with a 3-1 win at St. James' Park.",
+      "publishedAt": "2026-05-17T23:39:41Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_EPL_Highlight_Newcastle_push_West_Ham_to_the_brink_of_relegation_20260518_AUS_ONLY/dm_260517_EPL_Highlight_Newcastle_push_West_Ham_to_the_brink_of_relegation_20260518_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48800817/newcastle-push-west-ham-brink-relegation",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48800388,
+      "source": "ESPN",
+      "headline": "Guardiola: 'The cards are on the table' for Manchester City in title pursuit",
+      "description": "Manchester City boss Pep Guardiola says he has told his players \"they are not special\" after their FA Cup win, as they target winning the Premier League.",
+      "publishedAt": "2026-05-17T22:40:04Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_Guardiola_The_cards_are_on_the_table_for_Manchester_City_in_title_pursuit/dm_260517_Guardiola_The_cards_are_on_the_table_for_Manchester_City_in_title_pursuit.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48800388/cards-table-manchester-city-title-pursuit",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48800355,
+      "source": "ESPN",
+      "headline": "Leboeuf: Man United handball controversy 'simply unfair'",
+      "description": "Frank Leboeuf and Ale Moreno react to an apparent handball by Bryan Mbeumo during Manchester United's 3-2 win over Nottingham Forest.",
+      "publishedAt": "2026-05-17T22:35:12Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_COM_SOC_Analysis_Leboeuf_Man_United_handball_controversy_simply_unfair_20260517_GLOBAL/dm_260517_COM_SOC_Analysis_Leboeuf_Man_United_handball_controversy_simply_unfair_20260517_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48800355/man-united-handball-controversy-simply-unfair",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 48793833,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea, Liverpool eye new goalkeeper",
+      "description": "Both Chelsea and Liverpool are looking at a new goalkeeper: Sunderland's Robin Roefs. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-17T22:11:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0517/r1659625_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48793833/transfer-rumors-news-chelsea-liverpool-eye-new-goalkeeper",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Liverpool",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": "909ffcf090afeb0ede82dd6a8d50bee3",
+      "source": "Sky Sports",
+      "headline": "Papers: Chelsea showing interest in Rogers",
+      "description": "The top stories and transfer rumours from Monday's newspapers...",
+      "publishedAt": "2026-05-17T22:00:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13545341/morgan-rogers-transfer-news-chelsea-showing-interest-in-aston-villa-star-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48800005,
+      "source": "ESPN",
+      "headline": "Mikel Arteta praises 'magic' Emirates energy in Arsenal's trophy hunt",
+      "description": "Mikel Arteta has challenged Arsenal's \"magic 12th man\" to carry his side to the brink of Premier League glory against Burnley at the Emirates Stadium on Monday night.",
+      "publishedAt": "2026-05-17T21:56:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0411/r1641803_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48800005/mikel-arteta-praises-magic-emirates-energy-arsenal-trophy-hunt",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48798116,
+      "source": "ESPN",
+      "headline": "Pep Guardiola warns Man City players against thinking they're 'special' after trophy double",
+      "description": "Pep Guardiola has warned his Manchester City players against thinking that they're \"special\" after winning a domestic cup double this season.",
+      "publishedAt": "2026-05-17T21:30:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0517/r1659501_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48798116/pep-guardiola-warns-man-city-players-thinking-special-trophy-double",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48799341,
+      "source": "ESPN",
+      "headline": "Nuno Espírito Santo says West Ham fans were right to criticise players",
+      "description": "Nuno Espirito Santo admitted West Ham fans were right to chant that players were \"not fit to wear the shirt.\"",
+      "publishedAt": "2026-05-17T20:49:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0517/r1659581_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48799341/west-ham-newcastle-premier-league-nuno-espirito-santo",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "5bfe1f1ca30145eb77a9d3b97a95e7b3",
+      "source": "Sky Sports",
+      "headline": "Match abandoned after Nantes fans storm the field on Ligue 1 final day",
+      "description": "",
+      "publishedAt": "2026-05-17T20:43:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-nantes-ligue-1-france_7251864.jpg?20260517214143",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48747779,
+      "source": "ESPN",
+      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
+      "description": "With just two games remaining in the campaign, both teams know the paths they must travel to avoid the drop.",
+      "publishedAt": "2026-05-17T19:29:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48798627,
+      "source": "ESPN",
+      "headline": "Nicol: West Ham won't get the win to save themselves",
+      "description": "Steve Nicol has no hope for West Ham to get a result in a must-win clash against Leeds on the final day of the Premier League season.",
+      "publishedAt": "2026-05-17T19:25:43Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_Nicol_West_Ham_wont_get_the_win_to_save_themselves/dm_260517_Nicol_West_Ham_wont_get_the_win_to_save_themselves.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48798627/west-ham-get-win-save",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United"
+      ]
+    },
+    {
       "id": "a8c1d3a8ad963ee02f753ef24110f132",
       "source": "Sky Sports",
       "headline": "'No intensity, no desire' - Keane slams 'schoolboy' West Ham",
@@ -94,17 +252,6 @@
       ]
     },
     {
-      "id": "e9cb01e1564f0b59c9d912974c08c891",
-      "source": "Sky Sports",
-      "headline": "Fulham held to frustrating draw at Wolves as European hopes all but end",
-      "description": "Fulham were held to a frustrating 1-1 draw with already-relegated Wolves to all but end any faint hope of finishing inside the European spots.",
-      "publishedAt": "2026-05-17T16:30:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-wolves_7251472.jpg?20260517162814",
-      "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-fulham/report/531498",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 48779725,
       "source": "ESPN",
       "headline": "Ouattara scores late equaliser vs. Crystal Palace to keep Brentford's Europe hopes alive",
@@ -147,17 +294,6 @@
       ]
     },
     {
-      "id": "d346d7de5c5e515daf0ee488a5d994c9",
-      "source": "Sky Sports",
-      "headline": "Ouattara saves Brentford twice vs Palace to keep Europe dream alive",
-      "description": "Dango Ouattara was Brentford's saviour as they twice came from behind to rescue a 2-2 draw with Crystal Palace - and keep their European chances alive.",
-      "publishedAt": "2026-05-17T16:07:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-dango-ouattara-premier-league_7251337.jpg?20260517154553",
-      "link": "https://www.skysports.com/football/brentford-vs-crystal-palace/report/531492",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 48796405,
       "source": "ESPN",
       "headline": "Carrick congratulates Fernandes on 'fantastic' assist record",
@@ -169,6 +305,17 @@
       "teams": [
         "Manchester United"
       ]
+    },
+    {
+      "id": "286bae3091b83d4d0631881436ec297f",
+      "source": "Sky Sports",
+      "headline": "'Shocker' - Neville stunned by handball call as Pereira wants PL meeting",
+      "description": "Gary Neville was stunned by a \"shocker\" of a handball decision in Manchester United's 3-2 win over Nottingham Forest, while Vitor Pereira called for a Premier League meeting to clarify the rules.",
+      "publishedAt": "2026-05-17T15:09:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-gary-neville_7251642.jpg?20260517175828",
+      "link": "https://www.skysports.com/football/news/12040/13545159/man-utd-3-2-nottingham-forest-vitor-pereira-calls-for-premier-league-meeting-to-clarify-rules-after-very-clear-handball",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48665214,
@@ -252,20 +399,6 @@
       ]
     },
     {
-      "id": 48793833,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Mourinho wants Rodri at Real Madrid",
-      "description": "José Mourinho is pushing for Real Madrid to make Manchester City midfielder Rodri his first signing. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-17T13:33:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0310/r1626419_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48793833/transfer-rumors-news-mourinho-wants-man-city-rodri-real-madrid",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 48789151,
       "source": "ESPN",
       "headline": "Chelsea appoint Xabi Alonso as new manager on four-year deal",
@@ -276,20 +409,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 48747779,
-      "source": "ESPN",
-      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
-      "description": "With just two games remaining in the campaign, both teams know the paths they must travel to avoid the drop.",
-      "publishedAt": "2026-05-17T06:52:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
       ]
     },
     {
@@ -347,128 +466,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 48787941,
-      "source": "ESPN",
-      "headline": "Mohamed Salah urges 'crumbling' Liverpool to return to 'heavy metal' football",
-      "description": "Mohamed Salah has hit out at Liverpool's style of play, saying the club need to rediscover their \"heavy metal\" brand of football.",
-      "publishedAt": "2026-05-16T21:21:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0515/r1658789_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48787941/mohamed-salah-urges-crumbling-liverpool-return-heavy-metal-football",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48788430,
-      "source": "ESPN",
-      "headline": "Sources: Xabi Alonso agrees to terms to become next Chelsea head coach",
-      "description": "Xabi Alonso is set to be confirmed as Chelsea head coach within the next 24 hours, sources have told ESPN, after agreeing to terms to take charge at Stamford Bridge.",
-      "publishedAt": "2026-05-16T18:57:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0516/r1659027_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48788430/chelsea-close-appointing-xabi-alonso-new-head-coach-sources",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48788811,
-      "source": "ESPN",
-      "headline": "Burley: Xabi Alonso will need control to survive at Chelsea",
-      "description": "Mark Ogden joins the 'ESPN FC' crew with the news that Xabi Alonso could be in charge of Chelsea in time for their next home game on Tuesday.",
-      "publishedAt": "2026-05-16T18:30:51Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0516/dm_260516_Burley_Xabi_Alonso_will_need_control_to_survive_at_Chelsea/dm_260516_Burley_Xabi_Alonso_will_need_control_to_survive_at_Chelsea.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48788811/xabi-alonso-need-control-survive-chelsea",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48786098,
-      "source": "ESPN",
-      "headline": "Man United, Michael Carrick close to agreeing permanent appointment - sources",
-      "description": "Manchester United are close to an agreement with Michael Carrick to become the club's permanent head coach, sources have told ESPN.",
-      "publishedAt": "2026-05-16T12:54:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0516/r1658909_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48786098/man-united-michael-carrick-close-agreeing-permanent-manager-appointment-sources",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48784706,
-      "source": "ESPN",
-      "headline": "Villa clinch UCL spot to leave Liverpool in doubt",
-      "description": "Morgan Rogers, John McGinn produce stellar goals to down Liverpool and crush their UCL aspirations.",
-      "publishedAt": "2026-05-16T07:35:49Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0516/dm_260516_Soccer_HIGHLIGHT_Villa_clinch_UCL_spot_to_leave_Liverpool_in_doubt_20260516_AUS/dm_260516_Soccer_HIGHLIGHT_Villa_clinch_UCL_spot_to_leave_Liverpool_in_doubt_20260516_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48784706/villa-clinch-ucl-spot-leave-liverpool-doubt",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48781627,
-      "source": "ESPN",
-      "headline": "Liverpool's latest stumble becomes reflection of poor season",
-      "description": "Liverpool were looking to secure a spot in the Champions League next season. But because of their loss to Aston Villa, they will need to sweat it out to qualify for it next week.",
-      "publishedAt": "2026-05-16T00:20:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0515/r1658789_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48781627/liverpools-latest-stumble-becomes-reflection-poor-season",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 48781332,
-      "source": "ESPN",
-      "headline": "Arne Slot accepts Liverpool fans' doubts after 'damaging' loss",
-      "description": "Arne Slot has acknowledged that Liverpool's 4-2 defeat Aston Villa could prove \"damaging\" in their pursuit of UEFA Champions League qualification.",
-      "publishedAt": "2026-05-15T23:38:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0515/r1658772_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48781332/arne-slot-liverpool-aston-villa-loss-champions-league-premier",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48781442,
-      "source": "ESPN",
-      "headline": "Slot's message to Liverpool fans: We know where we can improve",
-      "description": "Liverpool boss Arne Slot says he is \"understanding\" of Liverpool fans' feelings that \"things can be better.\"",
-      "publishedAt": "2026-05-15T22:50:39Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0515/dm_260515_Slots_message_to_Liverpool_fans_We_know_where_we_can_improve/dm_260515_Slots_message_to_Liverpool_fans_We_know_where_we_can_improve.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48781442/know-where-improve",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "04fbfa65c991b2b25826fdede5f6b90c",
-      "source": "Sky Sports",
-      "headline": "Anderson and Wharton impress - where will they end up this summer?",
-      "description": "",
-      "publishedAt": "2026-05-15T22:38:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-crystal-palace_7251752.jpg?20260517193324",
-      "link": "https://www.skysports.com/football/news/12040/13544534/elliot-anderson-and-adam-wharton-impress-as-transfer-speculation-inevitably-grows-premier-league-hits-and-misses",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-17T19:34:42.141Z"
+    "cachedAt": "2026-05-18T04:40:23.257Z"
   }
 }

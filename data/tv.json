@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "newcastle united|west ham united": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "arsenal|burnley": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -50,6 +46,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-17T19:34:41.842Z"
+    "cachedAt": "2026-05-18T04:40:22.956Z"
   }
 }
