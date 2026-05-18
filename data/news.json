@@ -2,6 +2,104 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48806385,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi warns Spurs 'not safe yet' from Premier League relegation",
+      "description": "Roberto De Zerbi has warned Tottenham \"are not safe yet\" as they bid to secure their Premier League status against rivals Chelsea on Tuesday.",
+      "publishedAt": "2026-05-18T14:54:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0518/r1659926_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48806385/roberto-de-zerbi-warns-spurs-not-safe-yet-premier-league-relegation",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48806085,
+      "source": "ESPN",
+      "headline": "Guardiola: Man City must end Bournemouth's unbeaten streak",
+      "description": "Manchester City boss Pep Guardiola says his side must end Bournemouth's unbeaten streak to keep the title race alive.",
+      "publishedAt": "2026-05-18T14:16:30Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_Pep_Guardiola_Man_City_must_end_Bournemouth_unbeaten_streak/dm_260518_Pep_Guardiola_Man_City_must_end_Bournemouth_unbeaten_streak.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48806085/man-city-end-bournemouth-unbeaten-streak",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48805782,
+      "source": "ESPN",
+      "headline": "Pep Guardiola: Vital that Man City reach final day with title race still alive",
+      "description": "Pep Guardiola has said it's vital that his side take the title race to the final game of the season.",
+      "publishedAt": "2026-05-18T14:15:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0518/r1659892_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48805782/pep-guardiola-vital-manchester-city-reach-final-day-title-race-alive",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48804818,
+      "source": "ESPN",
+      "headline": "Chelsea players challenged to perform for Xabi Alonso - Calum McFarlane",
+      "description": "Chelsea interim head coach Calum McFarlane said the players will need to prove to incoming manager Xabi Alonso they can perform consistently as an underwhelming season comes to a close.",
+      "publishedAt": "2026-05-18T12:26:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0518/r1659826_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48804818/chelsea-calum-mcfarlane-squad-consistent-basis-xabi-alonso",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48804057,
+      "source": "ESPN",
+      "headline": "Why this Premier League season has been the most dramatic ever",
+      "description": "This season won't give us the most outstanding champions or an invincible record, but the 2025-26 Premier League has been the best ever.",
+      "publishedAt": "2026-05-18T12:15:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0518/r1659794_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48804057/why-premier-league-season-most-dramatic-ever",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Chelsea",
+        "Arsenal",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48804321,
+      "source": "ESPN",
+      "headline": "Laurens: I cannot believe Liverpool missed out on Xabi Alonso",
+      "description": "Julien Laurens says Liverpool should have gone for Xabi Alonso instead of keeping Arne Slot, after Alonso agreed to become the next Chelsea manager.",
+      "publishedAt": "2026-05-18T10:47:01Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_Laurens_I_cannot_believe_Liverpool_missed_out_on_Xabi_Alonso/dm_260518_Laurens_I_cannot_believe_Liverpool_missed_out_on_Xabi_Alonso.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48804321/cannot-believe-liverpool-missed-xabi-alonso",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48804275,
+      "source": "ESPN",
+      "headline": "Marcotti: Bernardo Silva to Real Madrid would be a 'smart move'",
+      "description": "Gab Marcotti explains why Bernardo Silva moving to Real Madrid after he departs Manchester City would \"make a lot of sense.\"",
+      "publishedAt": "2026-05-18T10:37:33Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_Marcotti_Bernardo_Silva_to_Real_Madrid_would_be_a_smart_move/dm_260518_Marcotti_Bernardo_Silva_to_Real_Madrid_would_be_a_smart_move.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48804275/bernardo-silva-real-madrid-smart-move",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Real Madrid"
+      ]
+    },
+    {
       "id": 48803160,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Who will Xabi Alonso sign first as Chelsea manager?",
@@ -47,23 +145,10 @@
       "headline": "Mourinho agrees Real Madrid return",
       "description": "Jose Mourinho has agreed to return to Real Madrid as head coach on a two-year deal.",
       "publishedAt": "2026-05-18T09:54:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-jose-mourinho-benfica_7233126.jpg?20260428130209",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-jose-mourinho-real-madrid_7252177.jpg?20260518114400",
       "link": "https://www.skysports.com/football/news/12040/13544711/jose-mourinho-real-madrid-agree-deal-for-ex-man-utd-boss-to-return-as-head-coach-on-two-year-deal",
       "tag": "News Story",
       "teams": []
-    },
-    {
-      "id": 48789151,
-      "source": "ESPN",
-      "headline": "Chelsea appoint Xabi Alonso as new manager on four-year deal",
-      "description": "Xabi Alonso has been named Chelsea's new manager and will begin his role on July 1, the club have announced.",
-      "publishedAt": "2026-05-18T09:50:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0516/r1659023_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48789151/chelsea-xabi-alonso-new-manager-premier-league-real-madrid-calum-mcfarlane",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     },
     {
       "id": 48747779,
@@ -350,103 +435,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 48665214,
-      "source": "ESPN",
-      "headline": "Man United's Bruno Fernandes equals Premier League assist record",
-      "description": "Manchester United's Bruno Fernandes has equalled the Premier League record for the most assists recorded in a season after registering his 20th of the campaign.",
-      "publishedAt": "2026-05-17T14:46:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0517/r1659357_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48665214/man-united-bruno-fernandes-equals-premier-league-assist-record-nottingham-forest-thierry-henry-kevin-de-bruyne",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48794957,
-      "source": "ESPN",
-      "headline": "Man United ratings: Bruno Fernandes gets 9/10 after tying assist record",
-      "description": "Manchester United beat Nottingham Forest 3-2 as Bruno Fernandes tied the Premier League assist record with Kevin De Bruyne and Thierry Henry.",
-      "publishedAt": "2026-05-17T14:44:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0517/r1659342_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48794957/man-united-ratings-bruno-fernandes-gets-9-10-tying-assist-record",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48795905,
-      "source": "ESPN",
-      "headline": "Nicol: Bruno Fernandes has carried Manchester United this season",
-      "description": "Steve Nicol praises the performances of Bruno Fernandes after the Manchester United midfielder equalled the record for assists in a single Premier League season.",
-      "publishedAt": "2026-05-17T14:30:18Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_Nicol_Bruno_Fernandes_has_carried_Manchester_United_this_season/dm_260517_Nicol_Bruno_Fernandes_has_carried_Manchester_United_this_season.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48795905/bruno-fernandes-carried-manchester-united-season",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48795850,
-      "source": "ESPN",
-      "headline": "Nicol slams 'shocking decision' to award Manchester United's second goal",
-      "description": "Steve Nicol can't believe Manchester United's second goal against Nottingham Forest was allowed to stand after an apparent handball by Bryan Mbeumo.",
-      "publishedAt": "2026-05-17T14:24:55Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_Nicol_slams_shocking_decision_to_award_Manchester_Uniteds_second_goal/dm_260517_Nicol_slams_shocking_decision_to_award_Manchester_Uniteds_second_goal.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48795850/nicol-slams-shocking-decision-award-manchester-united-second-goal",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 48794163,
-      "source": "ESPN",
-      "headline": "Why Chelsea hired Xabi Alonso now, and what went wrong at Real Madrid",
-      "description": "Chelsea moved quickly to hire former Real Madrid boss Xabi Alonso, but what will he bring to the club? And will he get the control he wants?",
-      "publishedAt": "2026-05-17T13:58:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0517/r1659297_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48794163/why-chelsea-hired-xabi-alonso-now-went-wrong-real-madrid",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 48779721,
-      "source": "ESPN",
-      "headline": "Man United wrap up third in eventful win over Nottingham Forest",
-      "description": "Manchester United wrapped up third spot with Sunday's entertaining 3-2 victory against Nottingham Forest as Bruno Fernandes' memorable season reached a new height.",
-      "publishedAt": "2026-05-17T13:49:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0517/r1659350_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740963",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": "9f68bc0d9d3f29928d7dbe84d5f7404c",
-      "source": "Sky Sports",
-      "headline": "Warrington hold off Toulouse fightback",
-      "description": "Warrington Wolves held off a Toulouse Olympique fightback to claim a 24-16 victory in the Betfred Super League.",
-      "publishedAt": "2026-05-16T23:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-toulouse-wolves-warringotn_7250824.jpg?20260516194340",
-      "link": "https://www.skysports.com/watch/video/13544892/toulouse-olympique-16-24-warrington-wolves-betfred-super-league-highlights",
-      "tag": "Video",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-18T10:39:41.207Z"
+    "cachedAt": "2026-05-18T15:55:49.042Z"
   }
 }
