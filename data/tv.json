@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "arsenal|burnley": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "bournemouth|manchester city": [
       "Sky Sports Main Event"
     ],
@@ -46,6 +42,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-18T19:59:25.809Z"
+    "cachedAt": "2026-05-19T04:32:33.774Z"
   }
 }
