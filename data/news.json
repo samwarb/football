@@ -2,6 +2,172 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48814240,
+      "source": "ESPN",
+      "headline": "Carlo Ancelotti explains why João Pedro, Chelsea's Player of the Season, missed out on Brazil World Cup squad",
+      "description": "João Pedro has been named Chelsea Men's Player of the Season, just hours after finding out he would not be in Brazil's World Cup squad.",
+      "publishedAt": "2026-05-19T09:25:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1651150_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48814240/carlo-ancelotti-joao-pedro-chelsea-brazil-world-cup",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Brazil"
+      ]
+    },
+    {
+      "id": 48813438,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United linked with Dortmund duo",
+      "description": "Manchester United are eyeing a pair of Borussia Dortmund stars, but they face stiff competition from other European clubs. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-19T09:02:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660271_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48813438/transfer-rumors-news-man-united-linked-dortmund-duo",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Borussia Dortmund"
+      ]
+    },
+    {
+      "id": "367cceed0ed5747cb12c67cb287a09e9",
+      "source": "Sky Sports",
+      "headline": "'Worst kept secret' | Is Pep to leave Man City and the end of this season?",
+      "description": "Sky Sports Ben Ransom is at the Etihad Stadium as speculation grows that pep Guardiola will leave Manchester City at the end of this season.",
+      "publishedAt": "2026-05-19T08:38:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-ben-ransom-pep-guardiola_7252893.jpg?20260519094800",
+      "link": "https://www.skysports.com/watch/video/13545795/is-pep-guardiola-to-leave-man-city-and-the-end-of-this-season",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 48813641,
+      "source": "ESPN",
+      "headline": "Mohamed Salah's heavy metal Liverpool post 'selfish' - Jamie Carragher",
+      "description": "Jamie Carragher has reignited his war of words with Mohamed Salah by labelling the departing star as \"selfish\" for hitting out at Liverpool's style of play on social media.",
+      "publishedAt": "2026-05-19T08:13:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660275_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48813641/mohamed-salah-heavy-metal-liverpool-post-selfish-jamie-carragher",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48813005,
+      "source": "ESPN",
+      "headline": "After hitting out at Slot, Salah's Liverpool farewell will be far from harmonious",
+      "description": "Mohamed Salah's comments following Liverpool's loss to Aston Villa have set the stage for a strange farewell at Anfield. The acrimony is fitting for what has been a disastrous season for the defending champs.",
+      "publishedAt": "2026-05-19T08:09:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660264_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48813005/after-hitting-slot-salahs-liverpool-farewell-far-harmonious",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5cb8f2e3f48ca8581fcea78a5f5e7d85",
+      "source": "Sky Sports",
+      "headline": "Neville: I don't see how Arsenal waste this opportunity",
+      "description": "Sky Sports pundit Gary Neville says he does not see how Arsenal \"waste this opportunity\" to win their first Premier League title in 22 years, as Manchester City face a tough trip to Bournemouth on Tuesday night.",
+      "publishedAt": "2026-05-19T08:00:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-david-raya-gabriel_7252881.jpg?20260519091838",
+      "link": "https://www.skysports.com/football/news/12040/13545773/premier-league-title-race-i-dont-see-how-arsenal-waste-this-opportunity-says-gary-neville-as-man-city-face-tough-bournemouth-test",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48813408,
+      "source": "ESPN",
+      "headline": "Antoine Semenyo's backheel closes a glittering chapter for Manchester City, one that began with Yaya Toure",
+      "description": "Antoine Semenyo's moment of magic in this weekend's FA Cup final secured a domestic double for Manchester City, as the Ghana international wrote the latest chapter in Africa's memorable relationship with the competition.",
+      "publishedAt": "2026-05-19T07:59:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660270_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/48813408/antoine-semenyo-backheel-closes-glittering-chapter-manchester-city-one-began-yaya-toure",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Ghana"
+      ]
+    },
+    {
+      "id": 48813794,
+      "source": "ESPN",
+      "headline": "Liverpool revive an all-time classic for 2026-27 home kit",
+      "description": "After putting up a half-hearted Premier League title defence, Liverpool are already looking to next season with the launch of their new home kit.",
+      "publishedAt": "2026-05-19T07:59:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0518/r1659980_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48813794/liverpool-revive-all-classic-2026-27-home-kit",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a2c90129a8c5ac0663c05abdc0de662f",
+      "source": "Sky Sports",
+      "headline": "How Guardiola transformed English football",
+      "description": "Pep Guardiola is expected to leave Manchester City at the end of the season, calling time on a decade-long stay during which he made a transformative impact on English football.",
+      "publishedAt": "2026-05-19T07:35:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-between-the-lines_7249237.jpg?20260515081945",
+      "link": "https://www.skysports.com/football/news/12040/13503172/pep-guardiola-will-leave-man-city-having-transformed-english-football-from-the-top-down-between-the-lines",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48802080,
+      "source": "ESPN",
+      "headline": "Ranked: Top 50 USMNT players for World Cup, based on club form",
+      "description": "Who are the 50 best Americans that should be selected for the World Cup roster? We look at club form and rank them as the USMNT Player Performance Index returns.",
+      "publishedAt": "2026-05-19T07:23:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0513/soc_usmnt_50-rank_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48802080/ranked-top-50-usmnt-players-world-cup-based-club-form",
+      "tag": "United States",
+      "teams": [
+        "United States"
+      ]
+    },
+    {
+      "id": "5191a3ce5e20704038396f84c97d6afa",
+      "source": "Sky Sports",
+      "headline": "Who is the heir to Casemiro's throne at Man Utd?",
+      "description": "Cries for 'one more year' have fallen on deaf ears. Casemiro's final game at Old Trafford has sparked the end of a four-year era at the Theatre of Dreams while simultaneously opening a new chapter that has to be written this summer.",
+      "publishedAt": "2026-05-19T07:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-casemiro-manchester-united_7252408.jpg?20260518164422",
+      "link": "https://www.skysports.com/football/news/12040/13534570/manchester-united-midfield-targets-analysed-as-red-devils-look-to-find-the-right-man-to-replace-casemiro",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48809487,
+      "source": "ESPN",
+      "headline": "Unconvincing Arsenal close on Premier League title after Burnley win",
+      "description": "Despite barely beating Burnley, Arsenal are one win away from the Premier League title and could celebrate if Manchester City fails to win their next game.",
+      "publishedAt": "2026-05-19T06:58:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0518/r1660122_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48809487/despite-unconvincing-arsenal-inches-away-winning-premier-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Burnley"
+      ]
+    },
+    {
+      "id": 48747779,
+      "source": "ESPN",
+      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
+      "description": "With just two games remaining in the campaign, both teams know the paths they must travel to avoid the drop.",
+      "publishedAt": "2026-05-19T06:20:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
       "id": 48803160,
       "source": "ESPN",
       "headline": "Transfer rumors, news: El Mala to make move to Brentford?",
@@ -14,20 +180,6 @@
         "Chelsea",
         "Brentford",
         "FC Cologne"
-      ]
-    },
-    {
-      "id": 48809487,
-      "source": "ESPN",
-      "headline": "Despite being unconvincing, Arsenal are close to the Premier League title",
-      "description": "Despite barely beating Burnley, Arsenal are one win away from the Premier League title and could celebrate if Manchester City fails to win their next game.",
-      "publishedAt": "2026-05-18T23:02:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1660122_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48809487/despite-unconvincing-arsenal-inches-away-winning-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Burnley"
       ]
     },
     {
@@ -115,17 +267,6 @@
       ]
     },
     {
-      "id": "4500665d440117b167da0afdbd540bbd",
-      "source": "Sky Sports",
-      "headline": "Arteta: I'm going to be the biggest Bournemouth fan ever!",
-      "description": "Mikel Arteta says he will be the \"biggest\" Bournemouth fan ever on Tuesday night - with his Arsenal side now on the brink of winning the Premier League title.",
-      "publishedAt": "2026-05-18T22:23:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arteta-arsenal_7252706.jpg?20260518225656",
-      "link": "https://www.skysports.com/football/news/12040/13545722/bournemouth-vs-man-city-mikel-arteta-says-hes-going-to-be-the-biggest-cherries-fan-ever-as-arsenal-can-win-title-on-tuesday",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48809497,
       "source": "ESPN",
       "headline": "Robson: Havertz 'very lucky' to avoid red card vs. Burnley",
@@ -194,17 +335,6 @@
       ]
     },
     {
-      "id": "cbb401a80770c9f874d6f9b06e65ce59",
-      "source": "Sky Sports",
-      "headline": "Arsenal on brink of title after nervy win over Burnley",
-      "description": "Arsenal secured a nervy 1-0 win over already-relegated Burnley and could be crowned Premier League champions on Tuesday if Manchester City fail to win against Bournemouth.",
-      "publishedAt": "2026-05-18T21:07:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-burnley_7252635.jpg?20260518214744",
-      "link": "https://www.skysports.com/football/arsenal-vs-burnley/report/531489",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 48808577,
       "source": "ESPN",
       "headline": "Arsenal owners: 'No standing still' after coming weeks",
@@ -216,17 +346,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "ed9426b2a0a6df0e754255c7241e487e",
-      "source": "Sky Sports",
-      "headline": "Who will land a spot in Clarke's Scotland World Cup squad?",
-      "description": "The wait is almost over. Not just for the fans, but also the players, as Steve Clarke reveals his Scotland squad for the World Cup.",
-      "publishedAt": "2026-05-18T18:30:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-scotland-football_7208281.jpg?20260401084059",
-      "link": "https://www.skysports.com/football/news/12040/13545584/scotland-world-cup-2026-squad-who-will-land-spot-in-steve-clarkes-26-man-group-heading-to-north-america",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48806385,
@@ -338,132 +457,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 48803735,
-      "source": "ESPN",
-      "headline": "Alexander-Arnold joins current Liverpool players to 'like' Mo Salah's controversial social media post",
-      "description": "A number of former and current Liverpool players have liked Mohamed Salah's recent Instagram post, in which he said the club must return to a \"heavy metal style\" of football.",
-      "publishedAt": "2026-05-18T10:06:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1659788_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48803735/mohamed-salah-liverpool-heavy-metal-social-media-likes-hugo-ekitike-trent-alexander-arnold-florian-wirtz",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48747779,
-      "source": "ESPN",
-      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
-      "description": "With just two games remaining in the campaign, both teams know the paths they must travel to avoid the drop.",
-      "publishedAt": "2026-05-18T08:21:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48788068,
-      "source": "ESPN",
-      "headline": "Arsenal vs Burnley: TV channel, kick-off time, live stream, referee, injury and team news",
-      "description": "All you need to know ahead of Monday's crunch Premier League clash between Arsenal and Burnley",
-      "publishedAt": "2026-05-18T07:57:08Z",
-      "image": "https://a.espncdn.com/photo/2025/1004/r1555395_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48788068/arsenal-burnley-tv-channel-kickoff-live-stream-referee-injury-team-news-premier-league-2025-26",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Burnley"
-      ]
-    },
-    {
-      "id": "40011f1a4dd5f2e633a1c4313d34aafd",
-      "source": "Sky Sports",
-      "headline": "Ref Watch LIVE! Celtic-Hearts fallout, Mbeumo handball - and a missed Soucek red?",
-      "description": "",
-      "publishedAt": "2026-05-18T06:47:00.000Z",
-      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-ref-watch-arsenal_7097559.jpg?20251201130707",
-      "link": "https://www.skysports.com/football/live-blog/12040/13545403/ref-watch-live-matheus-cunhas-man-utd-goal-and-celtic-hearts-fallout-analysed-by-former-referee-dermot-gallagher",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 48800925,
-      "source": "ESPN",
-      "headline": "Fernandes makes history as United defeat Forest",
-      "description": "Bruno Fernandes becomes just the third Premier League player to record 20 assists in a season as Manchester United wrap up third spot with a 3-2 win.",
-      "publishedAt": "2026-05-18T00:06:30Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_EPL_HIGHLIGHT_Fernandes_makes_history_as_United_defeat_Forest_20260518_AUS/dm_260517_EPL_HIGHLIGHT_Fernandes_makes_history_as_United_defeat_Forest_20260518_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48800925/fernandes-makes-history-united-defeat-forest",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48800817,
-      "source": "ESPN",
-      "headline": "Newcastle push West Ham to the brink of relegation",
-      "description": "Will Osula bags a double for Newcastle as the Magpies keep the Hammers mired in the relegation zone with a 3-1 win at St. James' Park.",
-      "publishedAt": "2026-05-17T23:39:41Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_EPL_Highlight_Newcastle_push_West_Ham_to_the_brink_of_relegation_20260518_AUS_ONLY/dm_260517_EPL_Highlight_Newcastle_push_West_Ham_to_the_brink_of_relegation_20260518_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48800817/newcastle-push-west-ham-brink-relegation",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48800388,
-      "source": "ESPN",
-      "headline": "Guardiola: 'The cards are on the table' for Manchester City in title pursuit",
-      "description": "Manchester City boss Pep Guardiola says he has told his players \"they are not special\" after their FA Cup win, as they target winning the Premier League.",
-      "publishedAt": "2026-05-17T22:40:04Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_Guardiola_The_cards_are_on_the_table_for_Manchester_City_in_title_pursuit/dm_260517_Guardiola_The_cards_are_on_the_table_for_Manchester_City_in_title_pursuit.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48800388/cards-table-manchester-city-title-pursuit",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48800355,
-      "source": "ESPN",
-      "headline": "Leboeuf: Man United handball controversy 'simply unfair'",
-      "description": "Frank Leboeuf and Ale Moreno react to an apparent handball by Bryan Mbeumo during Manchester United's 3-2 win over Nottingham Forest.",
-      "publishedAt": "2026-05-17T22:35:12Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0517/dm_260517_COM_SOC_Analysis_Leboeuf_Man_United_handball_controversy_simply_unfair_20260517_GLOBAL/dm_260517_COM_SOC_Analysis_Leboeuf_Man_United_handball_controversy_simply_unfair_20260517_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48800355/man-united-handball-controversy-simply-unfair",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 48793833,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea, Liverpool eye new goalkeeper",
-      "description": "Both Chelsea and Liverpool are looking at a new goalkeeper: Sunderland's Robin Roefs. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-17T22:11:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0517/r1659625_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48793833/transfer-rumors-news-chelsea-liverpool-eye-new-goalkeeper",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Liverpool",
-        "Sunderland"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-19T04:32:33.677Z"
+    "cachedAt": "2026-05-19T10:05:26.241Z"
   }
 }
