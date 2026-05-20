@@ -2,6 +2,63 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "44c68d878bb49a0422b6d885734d6ba0",
+      "source": "Sky Sports",
+      "headline": "Hearts slam ‘premature ending’ to title decider that set ‘troubling precedent’",
+      "description": "Hearts have written to the Scottish FA and SPFL questioning the \"troubling precedent\" set by the \"premature end\" to last Saturday's Scottish Premiership title decider at Celtic Park.",
+      "publishedAt": "2026-05-20T15:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-celtic-hearts_7254126.jpg?20260520161421",
+      "link": "https://www.skysports.com/football/news/12040/13546300/celtic-park-pitch-invasion-hearts-slam-premature-ending-to-title-decider-that-set-troubling-precedent",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "c73acd6ad6a3dbe7ff61e06914db0eda",
+      "source": "Sky Sports",
+      "headline": "Why Bournemouth and Brighton want Aston Villa to win Europa League",
+      "description": "Aston Villa can take one step towards opening up a sixth Champions League qualification spot for the Premier League by winning the Europa League on Wednesday night.",
+      "publishedAt": "2026-05-20T13:15:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ollie-watkins-villa_7241786.jpg?20260507204809",
+      "link": "https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "323eb7996635de8f1fdcedbad28873b7",
+      "source": "Sky Sports",
+      "headline": "Southampton criticise 'unacceptable' play-off expulsion over 'spygate'",
+      "description": "Southampton have claimed their expulsion from the Championship play-off final is unacceptable despite admitting to breaching EFL regulations over the 'spygate' scandal.",
+      "publishedAt": "2026-05-20T13:10:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-efl-championship_7247272.jpg?20260513102240",
+      "link": "https://www.skysports.com/football/news/12040/13546248/southampton-expelled-from-play-offs-saints-chief-executive-describes-spygate-punishment-as-manifestly-disproportionate-to-the-offence",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "674c3922f84ac8615f86c3a5ef1dc0be",
+      "source": "Sky Sports",
+      "headline": "Premier League 26/27 season - key dates and fixtures day",
+      "description": "Already thinking about the next Premier League season? There's a World Cup to fit in first - but the key dates are out for the 2026/27 term.",
+      "publishedAt": "2026-05-20T12:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kai-havertz-arsenal_7252880.jpg?20260519091749",
+      "link": "https://www.skysports.com/football/news/12040/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48824100,
+      "source": "ESPN",
+      "headline": "Arsenal reveal Premier League title parade plans in north London",
+      "description": "Arsenal will parade the Premier League trophy around Islington on May 31.",
+      "publishedAt": "2026-05-20T10:43:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1660861_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48824100/arsenal-reveal-premier-league-title-parade-plans-north-london",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48823731,
       "source": "ESPN",
       "headline": "'EPIC!': Arsenal players, Keir Starmer and other famous fans react to Premier League title triumph",
@@ -414,69 +471,11 @@
         "AFC Bournemouth",
         "Manchester City"
       ]
-    },
-    {
-      "id": "ab9ae0be954b8788992d1781b8ab3017",
-      "source": "Sky Sports",
-      "headline": "Arsenal players and fans celebrate being crowned Premier League champions",
-      "description": "Arsenal have been crowned Premier League champions for the first time in 22 years.",
-      "publishedAt": "2026-05-19T20:26:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-arsenal_7253612.jpg?20260519225228",
-      "link": "https://www.skysports.com/football/news/12040/13545591/arsenal-win-premier-league-mikel-artetas-side-end-22-year-wait-for-title",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "bff0ed84d14aa734165d0ca3f08cae14",
-      "source": "Sky Sports",
-      "headline": "Man City's title bid over as Bournemouth draw sees Arsenal crowned champions",
-      "description": "Manchester City's hopes of winning the Premier League title are over after a 1-1 draw at Bournemouth saw Arsenal crowned champions.",
-      "publishedAt": "2026-05-19T20:25:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-erling-haaland_7253482.jpg?20260519210750",
-      "link": "https://www.skysports.com/football/bournemouth-vs-manchester-city/report/531491",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 48813438,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Milan's Maignan to Chelsea?",
-      "description": "Chelsea will reportedly be looking to sign a goalkeeper to kick off the Xabi Alonso era. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-19T20:16:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660565_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48813438/transfer-rumors-news-man-united-linked-dortmund-duo",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "AC Milan"
-      ]
-    },
-    {
-      "id": "a38650d6cf9c871c41f38d5df9ff0308",
-      "source": "Sky Sports",
-      "headline": "Ten moments that won Arsenal the title",
-      "description": "Arsenal have won their first Premier League title in 22 years after a topsy-turvy season and riveting title race with Manchester City.",
-      "publishedAt": "2026-05-19T08:30:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-arsenal-man-city_7225573.jpg?20260519173341",
-      "link": "https://www.skysports.com/football/news/12040/13545791/arsenal-win-the-premier-league-the-10-moments-that-won-the-gunners-the-title-for-the-first-time-in-22-years",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "f00fd7624b72e11c9be586fcd4c2ccc7",
-      "source": "Sky Sports",
-      "headline": "Chelsea deny Spurs comeback to send race for survival to final day",
-      "description": "Tottenham's fight for Premier League survival will go down to the last day of the season after Chelsea held off their London rivals' late fightback to win an ill-tempered derby 2-1.",
-      "publishedAt": "2026-05-15T07:52:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-andrey-santos-premier-league_7253528.jpg?20260519214554",
-      "link": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/531493",
-      "tag": "Report",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-20T09:53:20.949Z"
+    "cachedAt": "2026-05-20T15:54:22.573Z"
   }
 }
