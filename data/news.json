@@ -2,11 +2,51 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48823731,
+      "source": "ESPN",
+      "headline": "'EPIC!': Arsenal players, Keir Starmer and other famous fans react to Premier League title triumph",
+      "description": "Arsenal secured their first Premier League title in 22 years after Manchester City's 1-1 draw with Bournemouth at the Vitality Stadium and fans from around the globe reacted.",
+      "publishedAt": "2026-05-20T09:36:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1660848_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48823731/epic-arsenal-players-keir-starmer-other-famous-fans-react-premier-league-title-triumph",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48823436,
+      "source": "ESPN",
+      "headline": "Arsenal players Eze, Rice, Saka celebrate outside Emirates after title victory",
+      "description": "Arsenal players joined the celebrations at the Emirates Stadium in the early hours of Wednesday morning to mark their first Premier League title victory in 22 years.",
+      "publishedAt": "2026-05-20T09:33:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1660853_1080x607_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48823436/arsenal-players-eberechi-eze-declan-rice-bukayo-saka-celebrate-emirates-title-victory",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48823645,
+      "source": "ESPN",
+      "headline": "Man City 'should be angry' after not winning Premier League - Erling Haaland",
+      "description": "Erling Haaland has urged Manchester City to use the pain of missing out on the Premier League trophy for a second successive year to fuel next season's title challenge.",
+      "publishedAt": "2026-05-20T09:06:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655774_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48823645/erling-haaland-man-city-angry-not-winning-premier-league",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48813813,
       "source": "ESPN",
-      "headline": "Arsenal win 1st Premier League title in 22 years after Man City draw",
+      "headline": "Arsenal win first Premier League title in 22 years after Man City draw",
       "description": "Arsenal were crowned Premier League champions for the first time in 22 years after Manchester City failed to beat Bournemouth on Tuesday.",
-      "publishedAt": "2026-05-20T00:55:26Z",
+      "publishedAt": "2026-05-20T09:04:35Z",
       "image": "https://a.espncdn.com/photo/2026/0519/r1660593_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48813813/arsenal-win-premier-league-title-2026-manchester-city-bournemouth",
       "tag": "Arsenal",
@@ -16,17 +56,146 @@
       ]
     },
     {
+      "id": "c957260b2c08254ec93035191e5f7e96",
+      "source": "Sky Sports",
+      "headline": "5am trip to the Emirates - how Arsenal players celebrated PL title win",
+      "description": "A trip to the Emirates at 5am and lots of bottles - Arsenal players celebrated long into the night after their Premier League title win was confirmed.",
+      "publishedAt": "2026-05-20T08:10:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-declan-rice-arsenal_7253631.jpg?20260519232901",
+      "link": "https://www.skysports.com/football/news/12040/13546135/arsenal-win-the-premier-league-title-5am-trip-to-the-emirates-and-lots-of-bottles-how-the-players-celebrated-victory",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48815498,
+      "source": "ESPN",
+      "headline": "West Ham, Spurs, Leicester beware: How men's relegation impacts a WSL team",
+      "description": "When an affiliated men's team gets relegated, it can have a bad knock-on effect on their Women's Super League counterparts.",
+      "publishedAt": "2026-05-20T08:07:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660339_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48815498/west-ham-spurs-leicester-beware-how-mens-relegation-impacts-wsl-team",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 48823330,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea, Liverpool, Man United eye Bowen move",
+      "description": "West Ham United captain Jarrod Bowen has caught the eye of Chelsea, Liverpool, and Manchester United. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-20T08:04:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0131/r1608451_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "West Ham United",
+        "Liverpool",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48819847,
+      "source": "ESPN",
+      "headline": "De Zerbi: Tottenham relegation decider bigger than Europa final",
+      "description": "Roberto de Zerbi says Tottenham's final match of the season against Everton on Sunday is a bigger match for the club than last season's Europa League final as they seek to secure their topflight status and avoid relegation.",
+      "publishedAt": "2026-05-20T08:03:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660631_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48819847/roberto-de-zerbi-tottenham-relegation-final-premier-league",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48823428,
+      "source": "ESPN",
+      "headline": "De Zerbi: Tottenham's relegation decider bigger than Europa League final",
+      "description": "Roberto de Zerbi believes Tottenham's relegation decider against Everton is a bigger match than last season's Europa League final.",
+      "publishedAt": "2026-05-20T08:02:15Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0520/dm_260520_COM_SOC_Presser_De_Zerbi_Tottenhams_relegation_decider_bigger_than_Europa_League_final_2026052/dm_260520_COM_SOC_Presser_De_Zerbi_Tottenhams_relegation_decider_bigger_than_Europa_League_final_2026052.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48823428/tottenham-relegation-decider-bigger-europa-league-final",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48818953,
+      "source": "ESPN",
+      "headline": "After 8,060-day drought, Arsenal are deserved Premier League champions",
+      "description": "Mikel Arteta deserves plenty of praise for Arsenal's first Premier League title in 2004, but the Gunners are well-set to win more thanks to him and the flaws of their rivals.",
+      "publishedAt": "2026-05-20T07:52:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660593_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48818953/arsenal-premier-league-champions-manchester-city-mikel-arteta-mark-ogden",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48819563,
+      "source": "ESPN",
+      "headline": "Five games that won Arsenal the Premier League",
+      "description": "After Arsenal won the Premier League title on Tuesday, here are five wins which got them there.",
+      "publishedAt": "2026-05-20T07:52:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660611_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48819563/arsenal-premier-league-five-key-games",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48817408,
       "source": "ESPN",
       "headline": "Arsenal finally win Premier League title after so many near-misses",
       "description": "Finally! After waiting more than 20 years to be crowned Premier League champions again, Arsenal can now lay the ghosts of the past few seasons to rest.",
-      "publishedAt": "2026-05-19T23:36:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660665_1296x729_16-9.jpg",
+      "publishedAt": "2026-05-20T07:45:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660592_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48817408/arsenal-beat-manchester-city-win-premier-league-title-many-misses",
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
       ]
+    },
+    {
+      "id": 48812059,
+      "source": "ESPN",
+      "headline": "Liverpool Keep or Dump: Slot's future, rebuilding the midfield, more",
+      "description": "It's been a somewhat disastrous season for defending Premier League champions Liverpool. So what next? Gab Marcotti and Mark Ogden weigh in on how to fix Arne Slot's side.",
+      "publishedAt": "2026-05-20T07:14:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0518/260519_soc_trades_liverpool_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48812059/liverpool-keep-dump-slots-future-rebuilding-midfield-more",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48747779,
+      "source": "ESPN",
+      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
+      "description": "With just two games remaining in the campaign, both Tottenham and West Ham know the paths they must travel to avoid the drop.",
+      "publishedAt": "2026-05-20T06:40:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "1b049ca120bd23d83f631adb0f5eb1fc",
+      "source": "Sky Sports",
+      "headline": "'They're not laughing anymore!' | Arsenal players react to title win on social media",
+      "description": "How the Arsenal players reacted to their Premier League title win on social media.",
+      "publishedAt": "2026-05-20T06:25:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/football-arsenal-premier-league_7253684.jpg?20260520074056",
+      "link": "https://www.skysports.com/watch/video/13546126/how-arsenal-players-reacted-to-first-premier-league-title-win-in-22-years-on-social-media",
+      "tag": "Video",
+      "teams": []
     },
     {
       "id": 48818162,
@@ -127,20 +296,6 @@
       ]
     },
     {
-      "id": 48819847,
-      "source": "ESPN",
-      "headline": "De Zerbi: Tottenham relegation decider bigger than Europa final",
-      "description": "Roberto de Zerbi says Tottenham's final match of the season against Everton on Sunday is a bigger match for the club than last season's Europa League final as they seek to secure their topflight status and avoid relegation.",
-      "publishedAt": "2026-05-19T22:49:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660631_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48819847/roberto-de-zerbi-tottenham-relegation-final-premier-league",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 48819855,
       "source": "ESPN",
       "headline": "Hutchison: Guardiola will go down as the greatest Premier League manager",
@@ -152,19 +307,6 @@
       "teams": [
         "AFC Bournemouth",
         "Manchester City"
-      ]
-    },
-    {
-      "id": 48802080,
-      "source": "ESPN",
-      "headline": "Ranked: Top 50 USMNT players for World Cup, based on club form",
-      "description": "Who are the 50 best Americans who should be selected for the World Cup roster? We look at club form and rank them as the USMNT Player Performance Index returns.",
-      "publishedAt": "2026-05-19T22:41:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0513/soc_usmnt_50-rank_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48802080/ranked-top-50-usmnt-players-world-cup-based-club-form",
-      "tag": "United States",
-      "teams": [
-        "United States"
       ]
     },
     {
@@ -181,19 +323,6 @@
       ]
     },
     {
-      "id": 48818953,
-      "source": "ESPN",
-      "headline": "After 8,060-day drought, Arsenal are deserved Premier League champions",
-      "description": "Mikel Arteta deserves plenty of praise for Arsenal's first Premier League title in 2004, but the Gunners are well-set to win more thanks to him and the flaws of their rivals.",
-      "publishedAt": "2026-05-19T22:27:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660548_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48818953/arsenal-premier-league-champions-manchester-city-mikel-arteta-mark-ogden",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48818640,
       "source": "ESPN",
       "headline": "Guardiola's final act a letdown, but he leaves Man City in strong position",
@@ -205,19 +334,6 @@
       "teams": [
         "Manchester City",
         "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 48819563,
-      "source": "ESPN",
-      "headline": "Five games that won Arsenal the Premier League",
-      "description": "After Arsenal won the Premier League title on Tuesday, here are five wins which got them there.",
-      "publishedAt": "2026-05-19T22:23:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660611_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48819563/arsenal-premier-league-five-key-games",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
       ]
     },
     {
@@ -262,17 +378,6 @@
       ]
     },
     {
-      "id": "d8310d45ce4fe2ab58114b2647cf1ebc",
-      "source": "Sky Sports",
-      "headline": "Relegation scrap continues! Chelsea send Spurs' survival hopes to final day",
-      "description": "FREE TO WATCH: Highlights from Chelsea’s match against Tottenham Hotspur in the Premier League.",
-      "publishedAt": "2026-05-19T21:18:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-spurs-chelsea_7253579.jpg?20260519222119",
-      "link": "https://www.skysports.com/watch/video/13546082/chelsea-2-1-tottenham-premier-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 48819189,
       "source": "ESPN",
       "headline": "Arsenal's Premier League title win in numbers",
@@ -311,12 +416,12 @@
       ]
     },
     {
-      "id": "2b3ade1ae22f46c09464d0e274274bae",
+      "id": "ab9ae0be954b8788992d1781b8ab3017",
       "source": "Sky Sports",
-      "headline": "Arsenal crowned Premier League champions",
+      "headline": "Arsenal players and fans celebrate being crowned Premier League champions",
       "description": "Arsenal have been crowned Premier League champions for the first time in 22 years.",
       "publishedAt": "2026-05-19T20:26:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-premier-league_7252427.jpg?20260518170750",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-arsenal_7253612.jpg?20260519225228",
       "link": "https://www.skysports.com/football/news/12040/13545591/arsenal-win-premier-league-mikel-artetas-side-end-22-year-wait-for-title",
       "tag": "News Story",
       "teams": []
@@ -347,82 +452,6 @@
       ]
     },
     {
-      "id": "97e6b5483460eee08177b12887b4b7c1",
-      "source": "Sky Sports",
-      "headline": "Southampton expelled from Championship play-offs",
-      "description": "Southampton have been expelled from the Championship play-offs over the 'spygate' scandal.",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-southampton-middlesbrough_7243372.jpg?20260509123211",
-      "link": "https://www.skysports.com/football/news/12040/13545415/southampton-expelled-from-championship-play-offs-over-spygate-with-middlesbrough-reinstated",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48813005,
-      "source": "ESPN",
-      "headline": "After hitting out at Slot, Salah's Liverpool farewell will be far from harmonious",
-      "description": "Mohamed Salah's comments following Liverpool's loss to Aston Villa have set the stage for a strange farewell at Anfield. The acrimony is fitting for what has been a disastrous season for the defending champs.",
-      "publishedAt": "2026-05-19T16:46:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660264_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48813005/after-hitting-slot-salahs-liverpool-farewell-far-harmonious",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "168e259d669a810b84cda3e5f966c87d",
-      "source": "Sky Sports",
-      "headline": "Papers: Chelsea, Liverpool and Man Utd target Bowen",
-      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "publishedAt": "2026-05-19T16:18:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13545968/west-ham-forward-jarrod-bowen-is-wanted-by-chelsea-liverpool-and-man-utd-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48817455,
-      "source": "ESPN",
-      "headline": "Gomez not convinced Ricardo Pepi would thrive in the Premier League",
-      "description": "Herculez Gomez wonders if Ricardo Pepi has outgrown the Eredivisie, after scoring 19 league goals for PSV this season.",
-      "publishedAt": "2026-05-19T16:15:48Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_Gomez_not_convinced_Ricardo_Pepi_would_thrive_in_the_Premier_League/dm_260519_Gomez_not_convinced_Ricardo_Pepi_would_thrive_in_the_Premier_League.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48817455/gomez-not-convinced-ricardo-pepi-thrive-premier-league",
-      "tag": "PSV Eindhoven",
-      "teams": [
-        "PSV Eindhoven",
-        "United States"
-      ]
-    },
-    {
-      "id": 48815474,
-      "source": "ESPN",
-      "headline": "Roy Keane slams 'circus act' around Bruno Fernandes' assist record",
-      "description": "Roy Keane has criticised Bruno Fernandes' mindset in his pursuit of the Premier League's assist record as he called it a \"circus act.\"",
-      "publishedAt": "2026-05-19T12:41:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660332_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48815474/roy-keane-slams-circus-act-bruno-fernandes-assist-record",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48814240,
-      "source": "ESPN",
-      "headline": "Carlo Ancelotti explains why João Pedro, Chelsea's Player of the Season, missed out on Brazil World Cup squad",
-      "description": "João Pedro has been named Chelsea Men's Player of the Season, just hours after finding out he would not be in Brazil's World Cup squad.",
-      "publishedAt": "2026-05-19T09:25:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1651150_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48814240/carlo-ancelotti-joao-pedro-chelsea-brazil-world-cup",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Brazil"
-      ]
-    },
-    {
       "id": "a38650d6cf9c871c41f38d5df9ff0308",
       "source": "Sky Sports",
       "headline": "Ten moments that won Arsenal the title",
@@ -432,46 +461,6 @@
       "link": "https://www.skysports.com/football/news/12040/13545791/arsenal-win-the-premier-league-the-10-moments-that-won-the-gunners-the-title-for-the-first-time-in-22-years",
       "tag": "News Story",
       "teams": []
-    },
-    {
-      "id": 48813641,
-      "source": "ESPN",
-      "headline": "Mohamed Salah's heavy metal Liverpool post 'selfish' - Jamie Carragher",
-      "description": "Jamie Carragher has reignited his war of words with Mohamed Salah by labelling the departing star as \"selfish\" for hitting out at Liverpool's style of play on social media.",
-      "publishedAt": "2026-05-19T08:13:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660275_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48813641/mohamed-salah-heavy-metal-liverpool-post-selfish-jamie-carragher",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48813408,
-      "source": "ESPN",
-      "headline": "Antoine Semenyo's backheel closes a glittering chapter for Manchester City, one that began with Yaya Toure",
-      "description": "Antoine Semenyo's moment of magic in this weekend's FA Cup final secured a domestic double for Manchester City, as the Ghana international wrote the latest chapter in Africa's memorable relationship with the competition.",
-      "publishedAt": "2026-05-19T07:59:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660270_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/48813408/antoine-semenyo-backheel-closes-glittering-chapter-manchester-city-one-began-yaya-toure",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Ghana"
-      ]
-    },
-    {
-      "id": 48813794,
-      "source": "ESPN",
-      "headline": "Liverpool revive an all-time classic for 2026-27 home kit",
-      "description": "After putting up a half-hearted Premier League title defence, Liverpool are already looking to next season with the launch of their new home kit.",
-      "publishedAt": "2026-05-19T07:59:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1659980_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48813794/liverpool-revive-all-classic-2026-27-home-kit",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     },
     {
       "id": "f00fd7624b72e11c9be586fcd4c2ccc7",
@@ -488,6 +477,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-20T04:34:54.548Z"
+    "cachedAt": "2026-05-20T09:53:20.949Z"
   }
 }
