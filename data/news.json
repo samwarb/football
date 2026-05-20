@@ -2,15 +2,107 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "44c68d878bb49a0422b6d885734d6ba0",
+      "id": 48823731,
+      "source": "ESPN",
+      "headline": "'EPIC!': Arsenal players, Keir Starmer and other famous fans react to Premier League title triumph",
+      "description": "Arsenal secured their first Premier League title in 22 years after Manchester City's 1-1 draw with Bournemouth at the Vitality Stadium and fans from around the globe reacted.",
+      "publishedAt": "2026-05-20T17:51:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1660848_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48823731/epic-arsenal-players-keir-starmer-other-famous-fans-react-premier-league-title-triumph",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9463b6543eb33bb1a1be5a8bdda647f5",
       "source": "Sky Sports",
-      "headline": "Hearts slam ‘premature ending’ to title decider that set ‘troubling precedent’",
-      "description": "Hearts have written to the Scottish FA and SPFL questioning the \"troubling precedent\" set by the \"premature end\" to last Saturday's Scottish Premiership title decider at Celtic Park.",
-      "publishedAt": "2026-05-20T15:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-celtic-hearts_7254126.jpg?20260520161421",
-      "link": "https://www.skysports.com/football/news/12040/13546300/celtic-park-pitch-invasion-hearts-slam-premature-ending-to-title-decider-that-set-troubling-precedent",
-      "tag": "News Story",
+      "headline": "Villa with a hand on the trophy! Rogers adds third in EL final LIVE!",
+      "description": "",
+      "publishedAt": "2026-05-20T16:36:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-emi-buendia-aston_7254359.jpg?20260520211908",
+      "link": "https://www.skysports.com/football/sc-freiburg-vs-aston-villa/live/554963",
+      "tag": "Liveblog",
       "teams": []
+    },
+    {
+      "id": 48812059,
+      "source": "ESPN",
+      "headline": "Liverpool Keep or Dump: Slot's future, rebuilding the midfield, more",
+      "description": "It's been a somewhat disastrous season for defending Premier League champions Liverpool. So what next? Gab Marcotti and Mark Ogden weigh in on how to fix Arne Slot's side.",
+      "publishedAt": "2026-05-20T15:09:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0518/260519_soc_trades_liverpool_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48812059/liverpool-keep-dump-slots-future-rebuilding-midfield-more",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48823578,
+      "source": "ESPN",
+      "headline": "Inside Arsenal's 5-phase plan to win Premier League title",
+      "description": "Arsenal's Premier League title triumph has been years in the making. For the first time, ESPN can reveal the strategy which took them back to the top.",
+      "publishedAt": "2026-05-20T13:29:17Z",
+      "image": "https://a.espncdn.com/photo/2024/1107/r1411567_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48823578/inside-arsenal-five-phase-plan-win-premier-league-title-mikel-arteta-edu",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48823645,
+      "source": "ESPN",
+      "headline": "Man City 'should be angry' after not winning Premier League - Erling Haaland",
+      "description": "Erling Haaland has urged Manchester City to use the pain of missing out on the Premier League trophy for a second successive year to fuel next season's title challenge.",
+      "publishedAt": "2026-05-20T13:25:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655774_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48823645/erling-haaland-man-city-angry-not-winning-premier-league",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48824782,
+      "source": "ESPN",
+      "headline": "Arsenal's Max Dowman, 16, becomes youngest Premier League title winner",
+      "description": "Arsenal teenager Max Dowman has become the youngest player to win the Premier League title, adding another record to his collection in a remarkable season.",
+      "publishedAt": "2026-05-20T13:23:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0318/r1630104_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48824782/arsenal-max-dowman-16-becomes-youngest-premier-league-title-winner",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48817408,
+      "source": "ESPN",
+      "headline": "Arsenal finally win Premier League title after so many near-misses",
+      "description": "Finally! After waiting more than 20 years to be crowned Premier League champions again, Arsenal can now lay the ghosts of the past few seasons to rest.",
+      "publishedAt": "2026-05-20T13:22:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660592_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48817408/arsenal-beat-manchester-city-win-premier-league-title-many-misses",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48818953,
+      "source": "ESPN",
+      "headline": "After 8,060-day drought, Arsenal are deserved Premier League champions",
+      "description": "Mikel Arteta deserves plenty of praise for Arsenal's first Premier League title in 2004, but the Gunners are well-set to win more thanks to him and the flaws of their rivals.",
+      "publishedAt": "2026-05-20T13:20:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660593_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48818953/arsenal-premier-league-champions-manchester-city-mikel-arteta-mark-ogden",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
     },
     {
       "id": "c73acd6ad6a3dbe7ff61e06914db0eda",
@@ -35,6 +127,17 @@
       "teams": []
     },
     {
+      "id": 48109229,
+      "source": "ESPN",
+      "headline": "Tracking title races, relegation: How Ronaldo can win first trophy in five years",
+      "description": "How are the battles for major honors, Champions League spots and relegation shaping up across the continent? Here's everything you need to know.",
+      "publishedAt": "2026-05-20T12:54:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0205/r1610990_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
+      "tag": "Story",
+      "teams": []
+    },
+    {
       "id": "674c3922f84ac8615f86c3a5ef1dc0be",
       "source": "Sky Sports",
       "headline": "Premier League 26/27 season - key dates and fixtures day",
@@ -46,6 +149,22 @@
       "teams": []
     },
     {
+      "id": 48823330,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea, Liverpool, Man United eye Bowen move",
+      "description": "West Ham United captain Jarrod Bowen has caught the eye of Chelsea, Liverpool, and Manchester United. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-20T11:13:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0131/r1608451_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "West Ham United",
+        "Liverpool",
+        "Manchester United"
+      ]
+    },
+    {
       "id": 48824100,
       "source": "ESPN",
       "headline": "Arsenal reveal Premier League title parade plans in north London",
@@ -53,19 +172,6 @@
       "publishedAt": "2026-05-20T10:43:50Z",
       "image": "https://a.espncdn.com/photo/2026/0520/r1660861_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48824100/arsenal-reveal-premier-league-title-parade-plans-north-london",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48823731,
-      "source": "ESPN",
-      "headline": "'EPIC!': Arsenal players, Keir Starmer and other famous fans react to Premier League title triumph",
-      "description": "Arsenal secured their first Premier League title in 22 years after Manchester City's 1-1 draw with Bournemouth at the Vitality Stadium and fans from around the globe reacted.",
-      "publishedAt": "2026-05-20T09:36:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1660848_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48823731/epic-arsenal-players-keir-starmer-other-famous-fans-react-premier-league-title-triumph",
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
@@ -82,34 +188,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 48823645,
-      "source": "ESPN",
-      "headline": "Man City 'should be angry' after not winning Premier League - Erling Haaland",
-      "description": "Erling Haaland has urged Manchester City to use the pain of missing out on the Premier League trophy for a second successive year to fuel next season's title challenge.",
-      "publishedAt": "2026-05-20T09:06:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655774_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48823645/erling-haaland-man-city-angry-not-winning-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48813813,
-      "source": "ESPN",
-      "headline": "Arsenal win first Premier League title in 22 years after Man City draw",
-      "description": "Arsenal were crowned Premier League champions for the first time in 22 years after Manchester City failed to beat Bournemouth on Tuesday.",
-      "publishedAt": "2026-05-20T09:04:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660593_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48813813/arsenal-win-premier-league-title-2026-manchester-city-bournemouth",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City"
       ]
     },
     {
@@ -133,22 +211,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/48815498/west-ham-spurs-leicester-beware-how-mens-relegation-impacts-wsl-team",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 48823330,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea, Liverpool, Man United eye Bowen move",
-      "description": "West Ham United captain Jarrod Bowen has caught the eye of Chelsea, Liverpool, and Manchester United. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-20T08:04:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0131/r1608451_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "West Ham United",
-        "Liverpool",
-        "Manchester United"
-      ]
     },
     {
       "id": 48819847,
@@ -178,19 +240,6 @@
       ]
     },
     {
-      "id": 48818953,
-      "source": "ESPN",
-      "headline": "After 8,060-day drought, Arsenal are deserved Premier League champions",
-      "description": "Mikel Arteta deserves plenty of praise for Arsenal's first Premier League title in 2004, but the Gunners are well-set to win more thanks to him and the flaws of their rivals.",
-      "publishedAt": "2026-05-20T07:52:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660593_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48818953/arsenal-premier-league-champions-manchester-city-mikel-arteta-mark-ogden",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48819563,
       "source": "ESPN",
       "headline": "Five games that won Arsenal the Premier League",
@@ -201,32 +250,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 48817408,
-      "source": "ESPN",
-      "headline": "Arsenal finally win Premier League title after so many near-misses",
-      "description": "Finally! After waiting more than 20 years to be crowned Premier League champions again, Arsenal can now lay the ghosts of the past few seasons to rest.",
-      "publishedAt": "2026-05-20T07:45:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660592_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48817408/arsenal-beat-manchester-city-win-premier-league-title-many-misses",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48812059,
-      "source": "ESPN",
-      "headline": "Liverpool Keep or Dump: Slot's future, rebuilding the midfield, more",
-      "description": "It's been a somewhat disastrous season for defending Premier League champions Liverpool. So what next? Gab Marcotti and Mark Ogden weigh in on how to fix Arne Slot's side.",
-      "publishedAt": "2026-05-20T07:14:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/260519_soc_trades_liverpool_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48812059/liverpool-keep-dump-slots-future-rebuilding-midfield-more",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
       ]
     },
     {
@@ -242,17 +265,6 @@
         "Tottenham Hotspur",
         "West Ham United"
       ]
-    },
-    {
-      "id": "1b049ca120bd23d83f631adb0f5eb1fc",
-      "source": "Sky Sports",
-      "headline": "'They're not laughing anymore!' | Arsenal players react to title win on social media",
-      "description": "How the Arsenal players reacted to their Premier League title win on social media.",
-      "publishedAt": "2026-05-20T06:25:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/football-arsenal-premier-league_7253684.jpg?20260520074056",
-      "link": "https://www.skysports.com/watch/video/13546126/how-arsenal-players-reacted-to-first-premier-league-title-win-in-22-years-on-social-media",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 48818162,
@@ -446,36 +458,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 48109229,
-      "source": "ESPN",
-      "headline": "Tracking title races, relegation: Arsenal clinch Premier League",
-      "description": "How are the battles for major honors, Champions League spots and relegation shaping up across the continent? Here's everything you need to know.",
-      "publishedAt": "2026-05-19T21:04:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660513_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 48817339,
-      "source": "ESPN",
-      "headline": "Manchester City draw with Bournemouth ends title chase",
-      "description": "Arsenal were crowned Premier League champions for the first time in 22 years after second-placed Manchester City were held to a 1-1 draw by a Europe-bound AFC Bournemouth side.",
-      "publishedAt": "2026-05-19T20:58:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660566_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740958",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-20T15:54:22.573Z"
+    "cachedAt": "2026-05-20T20:29:44.290Z"
   }
 }
