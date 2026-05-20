@@ -2,11 +2,164 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48813813,
+      "source": "ESPN",
+      "headline": "Arsenal win 1st Premier League title in 22 years after Man City draw",
+      "description": "Arsenal were crowned Premier League champions for the first time in 22 years after Manchester City failed to beat Bournemouth on Tuesday.",
+      "publishedAt": "2026-05-20T00:55:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660593_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48813813/arsenal-win-premier-league-title-2026-manchester-city-bournemouth",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48817408,
+      "source": "ESPN",
+      "headline": "Arsenal finally win Premier League title after so many near-misses",
+      "description": "Finally! After waiting more than 20 years to be crowned Premier League champions again, Arsenal can now lay the ghosts of the past few seasons to rest.",
+      "publishedAt": "2026-05-19T23:36:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660665_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48817408/arsenal-beat-manchester-city-win-premier-league-title-many-misses",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48818162,
+      "source": "ESPN",
+      "headline": "Spygate explainer: Why Southampton were booted from Championship playoff",
+      "description": "Southampton were preparing for the Championship playoff final until the league ruled them guilty of spying and expelled them days before the game. What did they do, and where do we go from here?",
+      "publishedAt": "2026-05-19T23:29:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660511_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48818162/southampton-middlesbrough-spygate-efl-championship-playoff-explainer-analysis-tom-hamilton",
+      "tag": "Middlesbrough",
+      "teams": [
+        "Middlesbrough",
+        "Southampton"
+      ]
+    },
+    {
+      "id": 48820250,
+      "source": "ESPN",
+      "headline": "Nicol: Liverpool cannot succeed if players stop backing Slot",
+      "description": "The ESPN FC panel debate whether Liverpool can remain successful under Arne Slot, suggesting that the club will not be able to move forward unless the squad back him.",
+      "publishedAt": "2026-05-19T23:26:48Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_Nicol_Liverpool_cannot_succeed_if_players_stop_backing_Slot/dm_260519_Nicol_Liverpool_cannot_succeed_if_players_stop_backing_Slot.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48820250/liverpool-cannot-succeed-players-stop-backing-slot",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48820094,
+      "source": "ESPN",
+      "headline": "Nicol: West Ham's defence could cost them against Leeds",
+      "description": "Steve Nicol discusses the Premier League relegation battle between West Ham and Tottenham Hotspur, believing that West Ham's defence could hinder them against Leeds.",
+      "publishedAt": "2026-05-19T23:12:47Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_Nicol_West_Hams_defence_could_cost_them_against_Leeds/dm_260519_Nicol_West_Hams_defence_could_cost_them_against_Leeds.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48820094/west-ham-defence-cost-leeds",
+      "tag": "Leeds United",
+      "teams": [
+        "Leeds United",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 42269743,
+      "source": "ESPN",
+      "headline": "Who are the top scorers in Premier League history?",
+      "description": "Alan Shearer has scored the most goals in Premier League history. Which other players are at the top of the list? Check out the breakdown now.",
+      "publishedAt": "2026-05-19T23:12:35Z",
+      "image": "https://a.espncdn.com/photo/2018/0501/r364055_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/42269743/who-top-scorers-premier-league-history",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Arsenal",
+        "Tottenham Hotspur",
+        "Leicester City"
+      ]
+    },
+    {
+      "id": 48819567,
+      "source": "ESPN",
+      "headline": "Arsenal celebrate Premier League title victory",
+      "description": "Arsenal players and staff celebrate after watching Bournemouth's 1-1 draw against Manchester City, confirming their Premier League victory.",
+      "publishedAt": "2026-05-19T23:00:48Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_Arsenal_celebrate_Premier_League_title_victory/dm_260519_Arsenal_celebrate_Premier_League_title_victory.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48819567/arsenal-celebrate-premier-league-title-victory",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48820046,
+      "source": "ESPN",
+      "headline": "Man City's draw with Bournemouth ends title chase",
+      "description": "Arsenal are crowned Premier League champions for the first time in 22 years after Manchester City fail in their title chase with a draw at Bournemouth.",
+      "publishedAt": "2026-05-19T22:58:01Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_EPL_Highlight_Man_Citys_draw_with_Bournemouth_ends_title_chase_20260520_AUS_ONLY/dm_260519_EPL_Highlight_Man_Citys_draw_with_Bournemouth_ends_title_chase_20260520_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48820046/man-city-draw-bournemouth-ends-title-chase",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48819379,
+      "source": "ESPN",
+      "headline": "While Arsenal win Premier League glory, Spurs still teeter on the brink",
+      "description": "As their fierce rivals celebrated a long-awaited league title, Spurs remained in danger of relegation after losing to Chelsea.",
+      "publishedAt": "2026-05-19T22:55:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660596_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48819379/while-arsenal-win-premier-league-glory-spurs-teeter-brink",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48819847,
+      "source": "ESPN",
+      "headline": "De Zerbi: Tottenham relegation decider bigger than Europa final",
+      "description": "Roberto de Zerbi says Tottenham's final match of the season against Everton on Sunday is a bigger match for the club than last season's Europa League final as they seek to secure their topflight status and avoid relegation.",
+      "publishedAt": "2026-05-19T22:49:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660631_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48819847/roberto-de-zerbi-tottenham-relegation-final-premier-league",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48819855,
+      "source": "ESPN",
+      "headline": "Hutchison: Guardiola will go down as the greatest Premier League manager",
+      "description": "Don Hutchison reflects on Pep Guardiola's impact on the Premier League, stating that he has been an influence for many other managers in the league.",
+      "publishedAt": "2026-05-19T22:43:16Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_Hutchison_Guardiola_will_go_down_as_the_greatest_Premier_League_manager/dm_260519_Hutchison_Guardiola_will_go_down_as_the_greatest_Premier_League_manager.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48819855/guardiola-go-greatest-premier-league-manager",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Manchester City"
+      ]
+    },
+    {
       "id": 48802080,
       "source": "ESPN",
       "headline": "Ranked: Top 50 USMNT players for World Cup, based on club form",
       "description": "Who are the 50 best Americans who should be selected for the World Cup roster? We look at club form and rank them as the USMNT Player Performance Index returns.",
-      "publishedAt": "2026-05-19T19:48:27Z",
+      "publishedAt": "2026-05-19T22:41:51Z",
       "image": "https://a.espncdn.com/photo/2026/0513/soc_usmnt_50-rank_16x9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48802080/ranked-top-50-usmnt-players-world-cup-based-club-form",
       "tag": "United States",
@@ -15,26 +168,183 @@
       ]
     },
     {
-      "id": "3a058f219dfae5d233530d9b72c2fba2",
+      "id": 48819699,
+      "source": "ESPN",
+      "headline": "Pep Guardiola set for talks with Man City chair over exit",
+      "description": "Pep Guardiola said he will hold talks with chairman Khaldoon Al Mubarak before confirming his plans to step down as Manchester City boss this summer.",
+      "publishedAt": "2026-05-19T22:27:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660623_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48819699/pep-guardiola-set-talks-man-city-chair-exit",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48818953,
+      "source": "ESPN",
+      "headline": "After 8,060-day drought, Arsenal are deserved Premier League champions",
+      "description": "Mikel Arteta deserves plenty of praise for Arsenal's first Premier League title in 2004, but the Gunners are well-set to win more thanks to him and the flaws of their rivals.",
+      "publishedAt": "2026-05-19T22:27:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660548_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48818953/arsenal-premier-league-champions-manchester-city-mikel-arteta-mark-ogden",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48818640,
+      "source": "ESPN",
+      "headline": "Guardiola's final act a letdown, but he leaves Man City in strong position",
+      "description": "After Man City conceded the Premier League title, Pep Guardiola wouldn't admit he's leaving, but that'll come soon enough.",
+      "publishedAt": "2026-05-19T22:24:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660618_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48818640/guardiola-final-act-letdown-leaves-man-city-strong-position",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "AFC Bournemouth"
+      ]
+    },
+    {
+      "id": 48819563,
+      "source": "ESPN",
+      "headline": "Five games that won Arsenal the Premier League",
+      "description": "After Arsenal won the Premier League title on Tuesday, here are five wins which got them there.",
+      "publishedAt": "2026-05-19T22:23:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660611_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48819563/arsenal-premier-league-five-key-games",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48817350,
+      "source": "ESPN",
+      "headline": "Relegation fight goes to last day as Chelsea beat Tottenham",
+      "description": "Tottenham's fight to avoid relegation from the Premier League will go to the final day of the season after they were beaten 2-1 by Chelsea at Stamford Bridge to hand 18th-place West Ham a lifeline.",
+      "publishedAt": "2026-05-19T22:22:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660575_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740960",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48819662,
+      "source": "ESPN",
+      "headline": "Guardiola congratulates Arsenal amid questions on his future",
+      "description": "Pep Guardiola responds to questions about his Manchester City future by congratulating Arsenal on winning the Premier League title.",
+      "publishedAt": "2026-05-19T22:16:27Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_Guardiola_congratulates_Arsenal_amid_questions_on_his_future/dm_260519_Guardiola_congratulates_Arsenal_amid_questions_on_his_future.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48819662/guardiola-congratulates-arsenal-amid-questions-future",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48819502,
+      "source": "ESPN",
+      "headline": "Hutchison: Arteta deserves all the credit for Arsenal's title win",
+      "description": "Don Hutchison credits Mikel Arteta and Arsenal's recruitment for their Premier League title win.",
+      "publishedAt": "2026-05-19T21:50:53Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_Hutchison_Arteta_deserves_all_the_credit_for_Arsenals_title_win/dm_260519_Hutchison_Arteta_deserves_all_the_credit_for_Arsenals_title_win.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48819502/arteta-deserves-all-credit-arsenal-title-win",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": "d8310d45ce4fe2ab58114b2647cf1ebc",
       "source": "Sky Sports",
-      "headline": "'What a strike!' - Fernandez STUNNER gives Chelsea the lead",
-      "description": "Enzo Fernandez scored a stunner to give Chelsea the lead at Stamford Bridge in their Premier League clash with Tottenham.",
-      "publishedAt": "2026-05-19T19:40:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-chelsea-spurs_7253475.jpg?20260519205744",
-      "link": "https://www.skysports.com/watch/video/13546039/goal-e-fernandez-18-chelsea-1-0-tottenham-hotspur",
+      "headline": "Relegation scrap continues! Chelsea send Spurs' survival hopes to final day",
+      "description": "FREE TO WATCH: Highlights from Chelsea’s match against Tottenham Hotspur in the Premier League.",
+      "publishedAt": "2026-05-19T21:18:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-spurs-chelsea_7253579.jpg?20260519222119",
+      "link": "https://www.skysports.com/watch/video/13546082/chelsea-2-1-tottenham-premier-league-highlights",
       "tag": "Video",
       "teams": []
     },
     {
+      "id": 48819189,
+      "source": "ESPN",
+      "headline": "Arsenal's Premier League title win in numbers",
+      "description": "Dominant in defence and on set pieces, take a look at the key numbers behind Arsenal's Premier League title win.",
+      "publishedAt": "2026-05-19T21:09:26Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_Arsenals_Premier_League_title_win_in_numbers/dm_260519_Arsenals_Premier_League_title_win_in_numbers.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48819189/arsenal-premier-league-title-win-numbers",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48109229,
       "source": "ESPN",
-      "headline": "Tracking title races, relegation: When can Arsenal win Premier League?",
+      "headline": "Tracking title races, relegation: Arsenal clinch Premier League",
       "description": "How are the battles for major honors, Champions League spots and relegation shaping up across the continent? Here's everything you need to know.",
-      "publishedAt": "2026-05-19T19:26:44Z",
+      "publishedAt": "2026-05-19T21:04:08Z",
       "image": "https://a.espncdn.com/photo/2026/0519/r1660513_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
       "tag": "Story",
       "teams": []
+    },
+    {
+      "id": 48817339,
+      "source": "ESPN",
+      "headline": "Manchester City draw with Bournemouth ends title chase",
+      "description": "Arsenal were crowned Premier League champions for the first time in 22 years after second-placed Manchester City were held to a 1-1 draw by a Europe-bound AFC Bournemouth side.",
+      "publishedAt": "2026-05-19T20:58:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660566_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/740958",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "2b3ade1ae22f46c09464d0e274274bae",
+      "source": "Sky Sports",
+      "headline": "Arsenal crowned Premier League champions",
+      "description": "Arsenal have been crowned Premier League champions for the first time in 22 years.",
+      "publishedAt": "2026-05-19T20:26:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-premier-league_7252427.jpg?20260518170750",
+      "link": "https://www.skysports.com/football/news/12040/13545591/arsenal-win-premier-league-mikel-artetas-side-end-22-year-wait-for-title",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "bff0ed84d14aa734165d0ca3f08cae14",
+      "source": "Sky Sports",
+      "headline": "Man City's title bid over as Bournemouth draw sees Arsenal crowned champions",
+      "description": "Manchester City's hopes of winning the Premier League title are over after a 1-1 draw at Bournemouth saw Arsenal crowned champions.",
+      "publishedAt": "2026-05-19T20:25:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-erling-haaland_7253482.jpg?20260519210750",
+      "link": "https://www.skysports.com/football/bournemouth-vs-manchester-city/report/531491",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48813438,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Milan's Maignan to Chelsea?",
+      "description": "Chelsea will reportedly be looking to sign a goalkeeper to kick off the Xabi Alonso era. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-19T20:16:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660565_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48813438/transfer-rumors-news-man-united-linked-dortmund-duo",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "AC Milan"
+      ]
     },
     {
       "id": "97e6b5483460eee08177b12887b4b7c1",
@@ -45,17 +355,6 @@
       "image": "https://e2.365dm.com/26/05/1920x1080/skysports-southampton-middlesbrough_7243372.jpg?20260509123211",
       "link": "https://www.skysports.com/football/news/12040/13545415/southampton-expelled-from-championship-play-offs-over-spygate-with-middlesbrough-reinstated",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "aa3f580c202aeacc79b6e3284a56ceb8",
-      "source": "Sky Sports",
-      "headline": "Enzo wondergoal puts Chelsea ahead vs scrappy Spurs LIVE!",
-      "description": "",
-      "publishedAt": "2026-05-19T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-chelsea_7253462.jpg?20260519204412",
-      "link": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/live/531493",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -72,14 +371,14 @@
       ]
     },
     {
-      "id": "acdc08b2e87c79a00cb75f6ed388c693",
+      "id": "168e259d669a810b84cda3e5f966c87d",
       "source": "Sky Sports",
-      "headline": "Bournemouth lead Man City as Arsenal close in on title LIVE! & highlights",
-      "description": "",
-      "publishedAt": "2026-05-19T16:45:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-eli-junior-kroupi_7253433.jpg?20260519201654",
-      "link": "https://www.skysports.com/football/bournemouth-vs-manchester-city/live/531491",
-      "tag": "Liveblog",
+      "headline": "Papers: Chelsea, Liverpool and Man Utd target Bowen",
+      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "publishedAt": "2026-05-19T16:18:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13545968/west-ham-forward-jarrod-bowen-is-wanted-by-chelsea-liverpool-and-man-utd-paper-talk",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -124,18 +423,15 @@
       ]
     },
     {
-      "id": 48813438,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United linked with Dortmund duo",
-      "description": "Manchester United are eyeing a pair of Borussia Dortmund stars, but they face stiff competition from other European clubs. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-19T09:02:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660271_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48813438/transfer-rumors-news-man-united-linked-dortmund-duo",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Borussia Dortmund"
-      ]
+      "id": "a38650d6cf9c871c41f38d5df9ff0308",
+      "source": "Sky Sports",
+      "headline": "Ten moments that won Arsenal the title",
+      "description": "Arsenal have won their first Premier League title in 22 years after a topsy-turvy season and riveting title race with Manchester City.",
+      "publishedAt": "2026-05-19T08:30:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-arsenal-man-city_7225573.jpg?20260519173341",
+      "link": "https://www.skysports.com/football/news/12040/13545791/arsenal-win-the-premier-league-the-10-moments-that-won-the-gunners-the-title-for-the-first-time-in-22-years",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48813641,
@@ -178,283 +474,20 @@
       ]
     },
     {
-      "id": 48809487,
-      "source": "ESPN",
-      "headline": "Unconvincing Arsenal close on Premier League title after Burnley win",
-      "description": "Despite barely beating Burnley, Arsenal are one win away from the Premier League title and could celebrate if Manchester City fails to win their next game.",
-      "publishedAt": "2026-05-19T06:58:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1660122_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48809487/despite-unconvincing-arsenal-inches-away-winning-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Burnley"
-      ]
-    },
-    {
-      "id": 48747779,
-      "source": "ESPN",
-      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
-      "description": "With just two games remaining in the campaign, both teams know the paths they must travel to avoid the drop.",
-      "publishedAt": "2026-05-19T06:20:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48803160,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: El Mala to make move to Brentford?",
-      "description": "Brentford are looking to sign one of the best young talents in the Bundesliga. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-19T02:02:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1660095_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48803160/transfer-rumors-news-xabi-alonso-sign-first-chelsea-manager",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Brentford",
-        "FC Cologne"
-      ]
-    },
-    {
-      "id": 48809592,
-      "source": "ESPN",
-      "headline": "VAR review: Arsenal should've got a red card in crucial win over Burnley",
-      "description": "Arsenal's Kai Havertz didn't see red for an obviously reckless tackle vs. Burnley, which may alter the Premier League title race.",
-      "publishedAt": "2026-05-18T23:01:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1660145_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48809592/var-review-arsenal-shouldve-got-red-card-crucial-win-burnley",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Burnley"
-      ]
-    },
-    {
-      "id": 48809994,
-      "source": "ESPN",
-      "headline": "Arteta pledges to be 'biggest-ever' Bournemouth fan",
-      "description": "Mikel Arteta jokes about becoming a Bournemouth supporter ahead of their game against Manchester City.",
-      "publishedAt": "2026-05-18T22:54:52Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_Arteta_pledges_to_be_biggest_ever_Bournemouth_fan/dm_260518_Arteta_pledges_to_be_biggest_ever_Bournemouth_fan.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48809994/arteta-pledges-biggest-ever-bournemouth-fan",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Arsenal",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48809921,
-      "source": "ESPN",
-      "headline": "Arsenal just one win away from claiming EPL title",
-      "description": "Kai Havertz scores the only goal of the game against Burnley to give Arsenal a five-point lead over Manchester City.",
-      "publishedAt": "2026-05-18T22:49:06Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_EPL_HIGHLIGHT_Arsenal_just_one_win_away_from_claiming_EPL_title_20260519_AUS/dm_260518_EPL_HIGHLIGHT_Arsenal_just_one_win_away_from_claiming_EPL_title_20260519_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48809921/arsenal-just-one-win-away-claiming-epl-title",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48809737,
-      "source": "ESPN",
-      "headline": "Arsenal's Mikel Arteta: I will be 'the biggest ever' Bournemouth fan",
-      "description": "Mikel Arteta said he will be the \"biggest ever\" Bournemouth fan on Tuesday with his Arsenal team on the brink of their first Premier League title for more than 20 years.",
-      "publishedAt": "2026-05-18T22:27:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1660133_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48809737/arsenal-mikel-arteta-the-biggest-ever-bournemouth-fan",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City",
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 48809801,
-      "source": "ESPN",
-      "headline": "Spurs' De Zerbi can't promise he will be 'calm' against Chelsea",
-      "description": "Tottenham Hotspur boss Roberto De Zerbi says he has to \"be himself\" on the touchline at Stamford Bridge, in a game that could secure Premier League survival.",
-      "publishedAt": "2026-05-18T22:25:48Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_Spurs_De_Zerbi_cant_promise_he_will_be_calm_against_Chelsea/dm_260518_Spurs_De_Zerbi_cant_promise_he_will_be_calm_against_Chelsea.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48809801/spurs-de-zerbi-promise-calm-chelsea",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48809604,
-      "source": "ESPN",
-      "headline": "Burnley say 'dangerous' Havertz tackles should have been red",
-      "description": "Burnley interim manager Mike Jackson said Kai Havertz should been sent off for a \"dangerous\" challenge during Arsenal's 1-0 win at the Emirates -- a victory which left the Gunners within one win of the Premier League title.",
-      "publishedAt": "2026-05-18T22:24:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1660130_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48809604/burnley-say-dangerous-havertz-tackles-red",
-      "tag": "Burnley",
-      "teams": [
-        "Burnley",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48809497,
-      "source": "ESPN",
-      "headline": "Robson: Havertz 'very lucky' to avoid red card vs. Burnley",
-      "description": "The \"ESPN FC\" crew question why VAR didn't intervene following Kai Havertz's \"dangerous\" challenge during Arsenal's win over Burnley.",
-      "publishedAt": "2026-05-18T21:56:02Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_COM_SOC_Analysis_Robson_Havertz_very_lucky_to_avoid_red_card_vs_Burnley_20260518_GLOBAL/dm_260518_COM_SOC_Analysis_Robson_Havertz_very_lucky_to_avoid_red_card_vs_Burnley_20260518_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48809497/havertz-very-lucky-avoid-red-card-vs-burnley",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Burnley"
-      ]
-    },
-    {
-      "id": 48809120,
-      "source": "ESPN",
-      "headline": "Sources: Manchester City expect Guardiola exit after season",
-      "description": "Manchester City are resigned to losing Pep Guardiola as their manager at the end of the season, sources have told ESPN.",
-      "publishedAt": "2026-05-18T21:53:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0516/r1659016_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48809120/manchester-city-expect-guardiola-exit-season",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48809479,
-      "source": "ESPN",
-      "headline": "Nicol: Chelsea's loss is Man City's gain with Enzo Maresca",
-      "description": "Steve Nicol believes it's \"not a surprise\" there are reports that Enzo Maresca could replace Pep Guardiola at Manchester City.",
-      "publishedAt": "2026-05-18T21:52:06Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_Nicol_Chelseas_loss_is_Man_Citys_gain_with_Enzo_Maresca/dm_260518_Nicol_Chelseas_loss_is_Man_Citys_gain_with_Enzo_Maresca.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48809479/chelsea-loss-man-city-gain-enzo-maresca",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48809468,
-      "source": "ESPN",
-      "headline": "Marcotti reacts to reports of Guardiola's Man City exit",
-      "description": "Gab Marcotti discusses Pep Guardiola's reported Manchester City departure at the end of the season, with Enzo Maresca lined up as a replacement.",
-      "publishedAt": "2026-05-18T21:51:44Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_Marcotti_reacts_to_reports_of_Guardiolas_Man_City_exit/dm_260518_Marcotti_reacts_to_reports_of_Guardiolas_Man_City_exit.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48809468/marcotti-reacts-reports-guardiola-man-city-exit",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48779943,
-      "source": "ESPN",
-      "headline": "Arsenal beat Burnley to go one win from Premier League title",
-      "description": "Arsenal have one hand on their first Premier League title in 22 years following a 1-0 win against Burnley at the Emirates Stadium.",
-      "publishedAt": "2026-05-18T21:12:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1660106_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/740956",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Burnley"
-      ]
-    },
-    {
-      "id": 48808577,
-      "source": "ESPN",
-      "headline": "Arsenal owners: 'No standing still' after coming weeks",
-      "description": "Arsenal co-owners Stan and Josh Kroenke insisted \"there will be no standing still when the season ends\" with the club in striking range of a Premier League and Champions League double.",
-      "publishedAt": "2026-05-18T20:57:19Z",
-      "image": "https://a.espncdn.com/photo/2025/1111/r1574073_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48808577/arsenal-owners-standing-season",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48806385,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi warns Spurs 'not safe yet' from Premier League relegation",
-      "description": "Roberto De Zerbi has warned Tottenham \"are not safe yet\" as they bid to secure their Premier League status against rivals Chelsea on Tuesday.",
-      "publishedAt": "2026-05-18T14:54:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1659926_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48806385/roberto-de-zerbi-warns-spurs-not-safe-yet-premier-league-relegation",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48806085,
-      "source": "ESPN",
-      "headline": "Guardiola: Man City must end Bournemouth's unbeaten streak",
-      "description": "Manchester City boss Pep Guardiola says his side must end Bournemouth's unbeaten streak to keep the title race alive.",
-      "publishedAt": "2026-05-18T14:16:30Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_Pep_Guardiola_Man_City_must_end_Bournemouth_unbeaten_streak/dm_260518_Pep_Guardiola_Man_City_must_end_Bournemouth_unbeaten_streak.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48806085/man-city-end-bournemouth-unbeaten-streak",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48805782,
-      "source": "ESPN",
-      "headline": "Pep Guardiola: Vital that Man City reach final day with title race still alive",
-      "description": "Pep Guardiola has said it's vital that his side take the title race to the final game of the season.",
-      "publishedAt": "2026-05-18T14:15:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1659892_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48805782/pep-guardiola-vital-manchester-city-reach-final-day-title-race-alive",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48804818,
-      "source": "ESPN",
-      "headline": "Chelsea players challenged to perform for Xabi Alonso - Calum McFarlane",
-      "description": "Chelsea interim head coach Calum McFarlane said the players will need to prove to incoming manager Xabi Alonso they can perform consistently as an underwhelming season comes to a close.",
-      "publishedAt": "2026-05-18T12:26:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1659826_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48804818/chelsea-calum-mcfarlane-squad-consistent-basis-xabi-alonso",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48804321,
-      "source": "ESPN",
-      "headline": "Laurens: I cannot believe Liverpool missed out on Xabi Alonso",
-      "description": "Julien Laurens says Liverpool should have gone for Xabi Alonso instead of keeping Arne Slot, after Alonso agreed to become the next Chelsea manager.",
-      "publishedAt": "2026-05-18T10:47:01Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0518/dm_260518_Laurens_I_cannot_believe_Liverpool_missed_out_on_Xabi_Alonso/dm_260518_Laurens_I_cannot_believe_Liverpool_missed_out_on_Xabi_Alonso.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48804321/cannot-believe-liverpool-missed-xabi-alonso",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
+      "id": "f00fd7624b72e11c9be586fcd4c2ccc7",
+      "source": "Sky Sports",
+      "headline": "Chelsea deny Spurs comeback to send race for survival to final day",
+      "description": "Tottenham's fight for Premier League survival will go down to the last day of the season after Chelsea held off their London rivals' late fightback to win an ill-tempered derby 2-1.",
+      "publishedAt": "2026-05-15T07:52:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-andrey-santos-premier-league_7253528.jpg?20260519214554",
+      "link": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/531493",
+      "tag": "Report",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-19T20:05:25.039Z"
+    "cachedAt": "2026-05-20T04:34:54.548Z"
   }
 }

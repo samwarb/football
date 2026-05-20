@@ -2,12 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "bournemouth|manchester city": [
-      "Sky Sports Main Event"
-    ],
-    "chelsea|tottenham hotspur": [
-      "Sky Sports Premier League"
-    ],
     "brighton and hove albion|manchester united": [
       "Sky Sports TBC"
     ],
@@ -42,6 +36,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-19T20:05:24.688Z"
+    "cachedAt": "2026-05-20T04:34:54.627Z"
   }
 }
