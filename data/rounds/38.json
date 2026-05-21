@@ -6,9 +6,9 @@
       "id": "2267443",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "American Express Stadium",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -33,9 +33,9 @@
       "id": "2267444",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "Turf Moor",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -60,9 +60,9 @@
       "id": "2267445",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "Selhurst Park",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -87,9 +87,9 @@
       "id": "2267446",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "Craven Cottage",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -114,9 +114,9 @@
       "id": "2267447",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "Anfield",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -141,9 +141,9 @@
       "id": "2267448",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "Etihad Stadium",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -168,9 +168,9 @@
       "id": "2267449",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "City Ground",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -195,9 +195,9 @@
       "id": "2267450",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "Stadium of Light",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -222,9 +222,9 @@
       "id": "2267451",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "Tottenham Hotspur Stadium",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -249,9 +249,9 @@
       "id": "2267452",
       "round": 38,
       "date": "2026-05-24",
-      "time": "15:00:00",
+      "time": "16:00:00",
       "venue": "London Stadium",
-      "status": "Not Started",
+      "status": "NS",
       "played": false,
       "live": false,
       "home": {
@@ -275,6 +275,6 @@
   ],
   "meta": {
     "cache": "hit",
-    "cachedAt": "2026-05-21T04:42:25.238Z"
+    "cachedAt": "2026-05-21T10:01:44.743Z"
   }
 }
