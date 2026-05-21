@@ -2,6 +2,80 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48829800,
+      "source": "ESPN",
+      "headline": "Nicol: Arteta needs to \"calm down\" next season",
+      "description": "The ESPN FC team reflect on Arsenal's Premier League win, praising their attacking dominance but suggesting Mikel Arteta needs to \"remain calm\" on the sidelines.",
+      "publishedAt": "2026-05-20T22:34:40Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0520/dm_260520_Nicol_Arteta_needs_to_calm_down_next_season/dm_260520_Nicol_Arteta_needs_to_calm_down_next_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48829800/arteta-needs-calm-next-season",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48823330,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Liverpool eye move for Bremer",
+      "description": "Manchester United and Liverpool are competing to sign Juventus and Brazil defender Bremer. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-20T22:33:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1661153_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester United",
+        "Juventus"
+      ]
+    },
+    {
+      "id": 48829740,
+      "source": "ESPN",
+      "headline": "Ogden: Guardiola is on a par with Sir Alex Ferguson",
+      "description": "Mark Ogden says that it will be really hard for Manchester City to replicate future success they had under Pep Guardiola, because \"players signed and stayed for Pep.\"",
+      "publishedAt": "2026-05-20T22:30:39Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0520/dm_260520_Ogden_Guardiola_is_on_a_par_with_Sir_Alex_Ferguson/dm_260520_Ogden_Guardiola_is_on_a_par_with_Sir_Alex_Ferguson.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48829740/guardiola-par-sir-alex-ferguson",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "db618d2843c787e534acecc2117e1be1",
+      "source": "Sky Sports",
+      "headline": "Five Europa Leagues later, it’s time to recognise Emery as an elite manager",
+      "description": "After winning a fifth Europa Leagues title, it’s time to call Unai Emery what he is: an elite manager.",
+      "publishedAt": "2026-05-20T21:25:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-unai-emery-europa_7254432.png?20260520224313",
+      "link": "https://www.skysports.com/football/news/12040/13546446/unai-emery-wins-fifth-europa-league-its-time-to-recognise-aston-villa-manager-as-one-of-the-best-in-the-business",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "4f61a8cc3b4ba188b11f28ff57a8eacd",
+      "source": "Sky Sports",
+      "headline": "Emery does it again as Villa beat Freiburg to claim Europa League trophy",
+      "description": "Aston Villa are Europa League champions after thrashing Freiburg 3-0 in the final in Istanbul.",
+      "publishedAt": "2026-05-20T20:50:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-aston-villa-europa_7254414.jpg?20260520222130",
+      "link": "https://www.skysports.com/football/sc-freiburg-vs-aston-villa/report/554963",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "5abd10534288d7dd5834974d7d383557",
+      "source": "Sky Sports",
+      "headline": "Southampton's play-off appeal dismissed - Hull to face Boro in final",
+      "description": "Southampton's appeal against their expulsion from the Championship play-off final as a result of the 'spygate' scandal has been dismissed.",
+      "publishedAt": "2026-05-20T20:30:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-southampton-fc_7254382.png?20260520214401",
+      "link": "https://www.skysports.com/football/news/12040/13544383/southamptons-appeal-against-championship-play-off-final-explusion-dismissed-after-spygate-scandal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48823731,
       "source": "ESPN",
       "headline": "'EPIC!': Arsenal players, Keir Starmer and other famous fans react to Premier League title triumph",
@@ -15,9 +89,9 @@
       ]
     },
     {
-      "id": "9463b6543eb33bb1a1be5a8bdda647f5",
+      "id": "10c6f0010c6058da8561194376c9b987",
       "source": "Sky Sports",
-      "headline": "Villa with a hand on the trophy! Rogers adds third in EL final LIVE!",
+      "headline": "Villa beat Freiburg to win the Europa League - reaction",
       "description": "",
       "publishedAt": "2026-05-20T16:36:00.000Z",
       "image": "https://e1.365dm.com/26/05/1920x1080/skysports-emi-buendia-aston_7254359.jpg?20260520211908",
@@ -105,24 +179,13 @@
       ]
     },
     {
-      "id": "c73acd6ad6a3dbe7ff61e06914db0eda",
+      "id": "b22bc28ac4703f59e742b99f1344765e",
       "source": "Sky Sports",
-      "headline": "Why Bournemouth and Brighton want Aston Villa to win Europa League",
-      "description": "Aston Villa can take one step towards opening up a sixth Champions League qualification spot for the Premier League by winning the Europa League on Wednesday night.",
+      "headline": "How Villa's Europa League win opens up CL shot for Bournemouth and Brighton",
+      "description": "Aston Villa's Europa League win has opened the door for a sixth Champions League qualification spot for the Premier League.",
       "publishedAt": "2026-05-20T13:15:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ollie-watkins-villa_7241786.jpg?20260507204809",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-rogers-morgan-aston_7254391.jpg?20260520215209",
       "link": "https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "323eb7996635de8f1fdcedbad28873b7",
-      "source": "Sky Sports",
-      "headline": "Southampton criticise 'unacceptable' play-off expulsion over 'spygate'",
-      "description": "Southampton have claimed their expulsion from the Championship play-off final is unacceptable despite admitting to breaching EFL regulations over the 'spygate' scandal.",
-      "publishedAt": "2026-05-20T13:10:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-efl-championship_7247272.jpg?20260513102240",
-      "link": "https://www.skysports.com/football/news/12040/13546248/southampton-expelled-from-play-offs-saints-chief-executive-describes-spygate-punishment-as-manifestly-disproportionate-to-the-offence",
       "tag": "News Story",
       "teams": []
     },
@@ -149,22 +212,6 @@
       "teams": []
     },
     {
-      "id": 48823330,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea, Liverpool, Man United eye Bowen move",
-      "description": "West Ham United captain Jarrod Bowen has caught the eye of Chelsea, Liverpool, and Manchester United. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-20T11:13:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0131/r1608451_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "West Ham United",
-        "Liverpool",
-        "Manchester United"
-      ]
-    },
-    {
       "id": 48824100,
       "source": "ESPN",
       "headline": "Arsenal reveal Premier League title parade plans in north London",
@@ -189,17 +236,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "c957260b2c08254ec93035191e5f7e96",
-      "source": "Sky Sports",
-      "headline": "5am trip to the Emirates - how Arsenal players celebrated PL title win",
-      "description": "A trip to the Emirates at 5am and lots of bottles - Arsenal players celebrated long into the night after their Premier League title win was confirmed.",
-      "publishedAt": "2026-05-20T08:10:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-declan-rice-arsenal_7253631.jpg?20260519232901",
-      "link": "https://www.skysports.com/football/news/12040/13546135/arsenal-win-the-premier-league-title-5am-trip-to-the-emirates-and-lots-of-bottles-how-the-players-celebrated-victory",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48815498,
@@ -264,20 +300,6 @@
       "teams": [
         "Tottenham Hotspur",
         "West Ham United"
-      ]
-    },
-    {
-      "id": 48818162,
-      "source": "ESPN",
-      "headline": "Spygate explainer: Why Southampton were booted from Championship playoff",
-      "description": "Southampton were preparing for the Championship playoff final until the league ruled them guilty of spying and expelled them days before the game. What did they do, and where do we go from here?",
-      "publishedAt": "2026-05-19T23:29:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660511_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48818162/southampton-middlesbrough-spygate-efl-championship-playoff-explainer-analysis-tom-hamilton",
-      "tag": "Middlesbrough",
-      "teams": [
-        "Middlesbrough",
-        "Southampton"
       ]
     },
     {
@@ -445,24 +467,11 @@
         "Arsenal",
         "Crystal Palace"
       ]
-    },
-    {
-      "id": 48819189,
-      "source": "ESPN",
-      "headline": "Arsenal's Premier League title win in numbers",
-      "description": "Dominant in defence and on set pieces, take a look at the key numbers behind Arsenal's Premier League title win.",
-      "publishedAt": "2026-05-19T21:09:26Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0519/dm_260519_Arsenals_Premier_League_title_win_in_numbers/dm_260519_Arsenals_Premier_League_title_win_in_numbers.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48819189/arsenal-premier-league-title-win-numbers",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-20T20:29:44.290Z"
+    "cachedAt": "2026-05-21T04:42:25.068Z"
   }
 }
