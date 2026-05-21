@@ -2,6 +2,83 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48836173,
+      "source": "ESPN",
+      "headline": "Arteta: It is one of the best feelings I've ever had",
+      "description": "Mikel Arteta reveals the moment he found out that Arsenal had won the Premier League and says Arsenal must continue to 'reinvent' themselves ahead of the Champions League final.",
+      "publishedAt": "2026-05-21T16:38:26Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0521/dm_260521_Arteta_It_is_one_of_the_best_feelings_Ive_ever_had/dm_260521_Arteta_It_is_one_of_the_best_feelings_Ive_ever_had.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48836173/one-best-feelings-ever-had",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ebebc17b8132b1d0d7530fdd039b18df",
+      "source": "Sky Sports",
+      "headline": "'Gutted' Maguire left out of World Cup squad as Toney earns surprise recall",
+      "description": "Harry Maguire has been left out of England's World Cup squad by boss Thomas Tuchel, while Ivan Toney has earned a shock recall.",
+      "publishedAt": "2026-05-21T16:22:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-maguire-toney_7255079.jpg?20260521190400",
+      "link": "https://www.skysports.com/football/news/12040/13546713/england-world-cup-squad-man-utd-centre-back-harry-maguire-left-out-by-thomas-tuchel",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48833337,
+      "source": "ESPN",
+      "headline": "FA launch investigation into Southampton over Spygate case",
+      "description": "The FA has launched an investigation into Southampton and the spygate case which could lead to complicit individuals being charged.",
+      "publishedAt": "2026-05-21T16:08:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0514/r1658027_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48833337/fa-launch-investigation-southampton-spygate-case",
+      "tag": "Southampton",
+      "teams": [
+        "Southampton"
+      ]
+    },
+    {
+      "id": 48835646,
+      "source": "ESPN",
+      "headline": "Conference League final: Premier League deny Crystal Palace plea to move Arsenal clash",
+      "description": "Oliver Glasner has revealed that Crystal Palace asked the Premier League for their final day fixture against Arsenal to be moved to Saturday.",
+      "publishedAt": "2026-05-21T16:02:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661495_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48835646/conference-league-final-premier-league-deny-crystal-palace-plea-move-arsenal-clash",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48830293,
+      "source": "ESPN",
+      "headline": "Weekend predictions: Will Tottenham or West Ham stay up?",
+      "description": "Relegation beckons in the Premier League for either Spurs or West Ham, while there's a David vs. Golaith battle happening in Portugal. Julien Laurens makes his predictions.",
+      "publishedAt": "2026-05-21T15:55:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0409/r1640841_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48830293/weekend-predictions-tottenham-west-ham-stay-up",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Everton",
+        "West Ham United",
+        "Leeds United",
+        "Nice",
+        "Lens",
+        "OL Lyonnes",
+        "Barcelona",
+        "Bayern Munich",
+        "VfB Stuttgart",
+        "Torino",
+        "Juventus",
+        "Sporting CP",
+        "Torreense"
+      ]
+    },
+    {
       "id": 48834926,
       "source": "ESPN",
       "headline": "Mikel Arteta didn't watch Arsenal's title-winning moment: 'I went home to BBQ'",
@@ -17,17 +94,6 @@
       ]
     },
     {
-      "id": "0fa9f130f8e7159d44b0cc013df0cd8e",
-      "source": "Sky Sports",
-      "headline": "Transforming Tottenham: How owners and hierarchy are reshaping Spurs",
-      "description": "Tottenham face a final-day battle to stay in the Premier League but even if they stay up, this will go down as probably their worst season in modern history.",
-      "publishedAt": "2026-05-21T14:25:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-spurs_7254716.jpg?20260521125314",
-      "link": "https://www.skysports.com/football/news/12040/13546565/tottenham-hotspur-how-spurs-hierarchy-are-trying-to-transform-club-regardless-of-premier-league-status",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48833095,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Barcelona look to land Tottenham captain",
@@ -40,28 +106,6 @@
         "Tottenham Hotspur",
         "Barcelona"
       ]
-    },
-    {
-      "id": "c81ab0da9c5c115c795934acb8894935",
-      "source": "Sky Sports",
-      "headline": "Arteta on title win: I asked myself - am I good enough?",
-      "description": "Mikel Arteta has admitted he questioned whether he was good enough to deliver a major trophy for Arsenal - claiming he was \"vulnerable\" before finally winning a Premier League title for the Gunners.",
-      "publishedAt": "2026-05-21T14:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-arteta_7254817.jpg?20260521151727",
-      "link": "https://www.skysports.com/football/news/12040/13546579/mikel-arteta-arsenal-manager-questioned-whether-he-was-good-enough-to-deliver-a-major-trophy-now-hes-a-premier-league-champion",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b879fd87442299d5e89f12564e02e240",
-      "source": "Sky Sports",
-      "headline": "Hellberg: It has been a 'weird' and 'crazy' fortnight since start of 'Spygate' scandal",
-      "description": "Middlesbrough head coach Kim Hellberg has spoken for the first time since his side were reinstated to the Sky Bet Championship play-off final after the 'Spygate' scandal.",
-      "publishedAt": "2026-05-21T13:48:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kim-hellberg-middlesbrough_7254818.jpg?20260521144744",
-      "link": "https://www.skysports.com/football/news/12040/13546630/championship-play-off-final-middlesbroughs-kim-hellberg-and-hulls-sergej-jakirovic-discuss-spygate-scandal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48834489,
@@ -142,17 +186,6 @@
       ]
     },
     {
-      "id": "4dd2411d18509d59bb80f21a2dfc8297",
-      "source": "Sky Sports",
-      "headline": "Football kits 2026/27: Arsenal, Liverpool, Man City reveal new kits",
-      "description": "",
-      "publishedAt": "2026-05-21T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-liverpool_7252858.jpg?20260519083830",
-      "link": "https://www.skysports.com/football/live-blog/12040/13546546/premier-league-kits-26-27-plus-more-football-home-away-and-third-strips-from-nike-adidas-puma-and-others",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48833507,
       "source": "ESPN",
       "headline": "Alonso's first big Chelsea test? Facing a team that hasn't lost in five years",
@@ -217,17 +250,6 @@
       ]
     },
     {
-      "id": "938bbd3f9e4b1553defd86114c7d6849",
-      "source": "Sky Sports",
-      "headline": "Live on Sky: Notts County vs Salford - L2 play-off final",
-      "description": "",
-      "publishedAt": "2026-05-21T09:43:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-efl-league-two-playoffs_7254009.jpg?20260520135641",
-      "link": "https://www.skysports.com/football/notts-county-vs-salford-city/live/555951",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48833407,
       "source": "ESPN",
       "headline": "Hope for Bournemouth, Brighton? How sixth place in Premier League could get Champions League spot",
@@ -254,30 +276,6 @@
       "teams": [
         "Liverpool",
         "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": "9e567e01f414d92e9219b3ff70af0975",
-      "source": "Sky Sports",
-      "headline": "FA to investigate Southampton over 'Spygate' scandal",
-      "description": "The FA has confirmed in a statement that it has launched an investigation into Southampton amid the 'Spygate' scandal.",
-      "publishedAt": "2026-05-21T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-southampton-badge_7243058.jpg?20260508212740",
-      "link": "https://www.skysports.com/football/news/12040/13546521/southampton-the-fa-to-launch-investigation-into-south-coast-club-amid-spygate-scandal",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48833337,
-      "source": "ESPN",
-      "headline": "FA launch investigation into Southampton over Spygate case",
-      "description": "The FA has launched an investigation into Southampton and the spygate case which could lead to complicit individuals being charged.",
-      "publishedAt": "2026-05-21T08:56:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0514/r1658027_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48833337/fa-launch-investigation-southampton-spygate-case",
-      "tag": "Southampton",
-      "teams": [
-        "Southampton"
       ]
     },
     {
@@ -378,17 +376,6 @@
       ]
     },
     {
-      "id": "9b817e420938368ea020b5bf7cc90633",
-      "source": "Sky Sports",
-      "headline": "Beers with Prince William, a broken finger and CL next? Villa's Europa triumph!",
-      "description": "It was a night that Aston Villa fans will never forget. A first trophy in 30 years, and their 1982 European conquerors have some competition.",
-      "publishedAt": "2026-05-21T06:24:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-europa-league-aston-villa_7254521.jpg?20260521075220",
-      "link": "https://www.skysports.com/football/news/12040/13546486/aston-villa-win-europa-league-inside-unai-emerys-latest-european-triumph-including-emiliano-martinezs-broken-finger-and-beers-with-prince-william",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48829800,
       "source": "ESPN",
       "headline": "Nicol: Arteta needs to \"calm down\" next season",
@@ -430,19 +417,6 @@
       ]
     },
     {
-      "id": 48823578,
-      "source": "ESPN",
-      "headline": "Inside Arsenal's 5-phase plan to win Premier League title",
-      "description": "Arsenal's Premier League title triumph has been years in the making. For the first time, ESPN can reveal the strategy which took them back to the top.",
-      "publishedAt": "2026-05-20T13:29:17Z",
-      "image": "https://a.espncdn.com/photo/2024/1107/r1411567_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48823578/inside-arsenal-five-phase-plan-win-premier-league-title-mikel-arteta-edu",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48824782,
       "source": "ESPN",
       "headline": "Arsenal's Max Dowman, 16, becomes youngest Premier League title winner",
@@ -454,37 +428,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 48824100,
-      "source": "ESPN",
-      "headline": "Arsenal reveal Premier League title parade plans in north London",
-      "description": "Arsenal will parade the Premier League trophy around Islington on May 31.",
-      "publishedAt": "2026-05-20T10:43:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1660861_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48824100/arsenal-reveal-premier-league-title-parade-plans-north-london",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48823436,
-      "source": "ESPN",
-      "headline": "Arsenal players Eze, Rice, Saka celebrate outside Emirates after title victory",
-      "description": "Arsenal players joined the celebrations at the Emirates Stadium in the early hours of Wednesday morning to mark their first Premier League title victory in 22 years.",
-      "publishedAt": "2026-05-20T09:33:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1660853_1080x607_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48823436/arsenal-players-eberechi-eze-declan-rice-bukayo-saka-celebrate-emirates-title-victory",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-21T15:50:44.253Z"
+    "cachedAt": "2026-05-21T20:08:17.764Z"
   }
 }
