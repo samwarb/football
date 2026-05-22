@@ -2,6 +2,164 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "dcfb3b6c1295fa189b76b5eaae15f169",
+      "source": "Sky Sports",
+      "headline": "Ruthless Tuchel leaves big names out of England's World Cup squad",
+      "description": "Ruthless Thomas Tuchel has left a number of high-profile names out of his England squad for the World Cup, while striker Ivan Toney has earned a shock recall.",
+      "publishedAt": "2026-05-22T08:45:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255440.jpg?20260522083227",
+      "link": "https://www.skysports.com/football/news/12040/13543455/england-world-cup-squad-announcement-ruthless-thomas-tuchel-leaves-big-names-out-of-26-man-squad",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48841475,
+      "source": "ESPN",
+      "headline": "Tottenham vs. Everton: TV channel, kick-off time, live stream, referee, injury and team news",
+      "description": "All you need to know ahead of the Tottenham vs. Everton Premier League clash.",
+      "publishedAt": "2026-05-22T08:41:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0505/r1653774_608x342_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48841475/tottenham-hotspur-vs-everton-tv-channel-kick-live-stream-referee-injury-team-news-premier-league-2025-26",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Everton"
+      ]
+    },
+    {
+      "id": 48841869,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Manchester United eye double midfield swoop",
+      "description": "Newcastle United's Sandro Tonali and Atalanta's Éderson are being lined up by Manchester United. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-22T07:57:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1650980_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48841869/transfer-rumors-news-manchester-united-eye-double-midfield-swoop",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Atalanta",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48838211,
+      "source": "ESPN",
+      "headline": "9 stats that explain how Arsenal won the Premier League",
+      "description": "All Arsenal had to do to win the Premier League was become the best defensive team we've ever seen. Here's how they did it.",
+      "publishedAt": "2026-05-22T07:26:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661656_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48838211/9-stats-explain-how-arsenal-won-premier-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48830020,
+      "source": "ESPN",
+      "headline": "After nine years, Robertson leaves Liverpool as 'The People's Champion'",
+      "description": "Andy Robertson will leave Liverpool at the end of the season, but the impact that the Scotland defender has had on Merseyside sees him depart as a legend.",
+      "publishedAt": "2026-05-22T07:22:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1661191_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48830020/after-nine-years-andy-robertson-leaves-liverpool-people-champion",
+      "tag": "Scotland",
+      "teams": [
+        "Scotland",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48837431,
+      "source": "ESPN",
+      "headline": "The Premier League relegation battle, through the eyes of fans",
+      "description": "What's it like to watch your team teeter on the brink of relegation? West Ham, Tottenham and Forest fans share their tales of agony and elation.",
+      "publishedAt": "2026-05-22T07:11:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0522/r1661787_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48837431/premier-league-relegation-battle-eyes-fans-tottenham-west-ham-nottingham-forest",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 48109229,
+      "source": "ESPN",
+      "headline": "Tracking title races, relegation: What's at stake on final PL day?",
+      "description": "How are the battles for major honors, Champions League spots and relegation shaping up across the continent? Here's everything you need to know.",
+      "publishedAt": "2026-05-22T07:05:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0319/r1630806_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "4ec5304f16c3bda07b617d0c647c26d0",
+      "source": "Sky Sports",
+      "headline": "Unprecedented and emotional - can Boro rally from 'Spygate' saga for play-off final?",
+      "description": "'Unprecedented' is a word that can be thrown about a bit too easily in football.",
+      "publishedAt": "2026-05-22T07:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-efl-championship_7254547.jpg?20260521082508",
+      "link": "https://www.skysports.com/football/news/12040/13546584/can-middlesbrough-rally-from-spygate-saga-for-the-championship-play-off-final-against-hull-at-wembley",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "6e648dbfd34aed77be9c45ada8cfab0a",
+      "source": "Sky Sports",
+      "headline": "How Hull have defied all data and logic this season to reach Wembley",
+      "description": "Amid the drama of 'Spygate', it's worth remembering that Hull City are in this Championship play-off final too. They have been in it this whole time.",
+      "publishedAt": "2026-05-22T07:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-efl-championship_7254546.jpg?20260521082412",
+      "link": "https://www.skysports.com/football/news/12040/13546334/championship-play-off-final-hull-city-have-defied-data-and-logic-this-season-as-they-stand-one-win-away-from-the-premier-league",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48747779,
+      "source": "ESPN",
+      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
+      "description": "With just two games remaining in the campaign, both Tottenham and West Ham know the paths they must travel to avoid the drop.",
+      "publishedAt": "2026-05-22T06:36:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48833407,
+      "source": "ESPN",
+      "headline": "Hope for Bournemouth, Brighton? How sixth place in Premier League could get Champions League spot",
+      "description": "Aston Villa secured the Europa League with a resounding 3-0 win over Freiburg to win their first European trophy since 1982 and with that, they may have unlocked another Champions League place for a Premier League side.",
+      "publishedAt": "2026-05-22T06:34:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661391_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48833407/hope-bournemouth-brighton-how-sixth-place-premier-league-get-champions-league-spot-aston-villa-europa-league-triumph",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 48833335,
+      "source": "ESPN",
+      "headline": "Liverpool vs. Bournemouth in a Premier League playoff? How historic 39th game could be played",
+      "description": "Liverpool against Bournemouth in an historic Premier League playoff? ESPN explains how a first-ever 39th Premier League game could be played.",
+      "publishedAt": "2026-05-22T06:33:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0124/r1605059_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48833335/liverpool-vs-bournemouth-premier-league-playoff-how-historic-39th-game-played",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "AFC Bournemouth"
+      ]
+    },
+    {
       "id": 48839224,
       "source": "ESPN",
       "headline": "Onuoha: Pep Guardiola changed English football",
@@ -67,17 +225,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "87525b6a3c87cc2b2658b0cabec1854e",
-      "source": "Sky Sports",
-      "headline": "PL predictions: One final twist? Moyes to save West Ham again, by relegating Spurs",
-      "description": "Our football betting expert Jones Knows offers his insight ahead of the final weekend of the Premier League season.",
-      "publishedAt": "2026-05-21T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-premier-league-prediction_7223294.jpg?20260418114637",
-      "link": "https://www.skysports.com/football/news/12040/13546814/premier-league-predictions-and-best-bets-david-moyes-to-save-west-ham-again-by-relegating-spurs",
-      "tag": "Article/Blog",
-      "teams": []
     },
     {
       "id": 48836173,
@@ -173,17 +320,6 @@
         "England",
         "Manchester City"
       ]
-    },
-    {
-      "id": 48109229,
-      "source": "ESPN",
-      "headline": "Tracking title races, relegation: How Ronaldo can win first trophy in five years",
-      "description": "How are the battles for major honors, Champions League spots and relegation shaping up across the continent? Here's everything you need to know.",
-      "publishedAt": "2026-05-21T11:34:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0205/r1610990_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 48832966,
@@ -289,49 +425,6 @@
       ]
     },
     {
-      "id": 48833407,
-      "source": "ESPN",
-      "headline": "Hope for Bournemouth, Brighton? How sixth place in Premier League could get Champions League spot",
-      "description": "Aston Villa secured the Europa League with a resounding 3-0 win over Freiburg to win their first European trophy since 1982 and with that, they may have unlocked another Champions League place for a Premier League side.",
-      "publishedAt": "2026-05-21T09:13:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661391_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48833407/hope-bournemouth-brighton-how-sixth-place-premier-league-get-champions-league-spot-aston-villa-europa-league-triumph",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 48833335,
-      "source": "ESPN",
-      "headline": "Liverpool vs. Bournemouth in a Premier League playoff? How historic 39th game could be played",
-      "description": "Liverpool against Bournemouth in an historic Premier League playoff? ESPN explains how a first-ever 39th Premier League game could be played.",
-      "publishedAt": "2026-05-21T09:08:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0124/r1605059_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48833335/liverpool-vs-bournemouth-premier-league-playoff-how-historic-39th-game-played",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 48747779,
-      "source": "ESPN",
-      "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
-      "description": "With just two games remaining in the campaign, both Tottenham and West Ham know the paths they must travel to avoid the drop.",
-      "publishedAt": "2026-05-21T08:15:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656858_800x450_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
-      ]
-    },
-    {
       "id": 48833204,
       "source": "ESPN",
       "headline": "Cash: Prince William was drinking beer in the changing room after UEL win",
@@ -357,79 +450,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 48818162,
-      "source": "ESPN",
-      "headline": "Spygate explainer: Why Southampton were booted from Championship playoff",
-      "description": "Southampton were preparing for the \"richest game in soccer\" in the Championship playoff final until the league ruled them guilty of spying and expelled them days before the game. What did they do?",
-      "publishedAt": "2026-05-21T07:07:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660511_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48818162/southampton-middlesbrough-spygate-efl-championship-playoff-explainer-analysis-tom-hamilton",
-      "tag": "Middlesbrough",
-      "teams": [
-        "Middlesbrough",
-        "Southampton"
-      ]
-    },
-    {
-      "id": 48832947,
-      "source": "ESPN",
-      "headline": "Unai Emery will become PL's best manager after Pep Guardiola leaves - Owen Hargreaves",
-      "description": "Former England midfielder Owen Hargreaves has claimed Unai Emery will usurp Pep Guardiola as the best manager in the Premier League.",
-      "publishedAt": "2026-05-21T06:34:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1661152_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48832947/aston-villa-unai-emery-become-premier-league-best-manager-pep-guardiola-leaves-owen-hargreaves",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 48829800,
-      "source": "ESPN",
-      "headline": "Nicol: Arteta needs to \"calm down\" next season",
-      "description": "The ESPN FC team reflect on Arsenal's Premier League win, praising their attacking dominance but suggesting Mikel Arteta needs to \"remain calm\" on the sidelines.",
-      "publishedAt": "2026-05-20T22:34:40Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0520/dm_260520_Nicol_Arteta_needs_to_calm_down_next_season/dm_260520_Nicol_Arteta_needs_to_calm_down_next_season.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48829800/arteta-needs-calm-next-season",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48823330,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, Liverpool eye move for Bremer",
-      "description": "Manchester United and Liverpool are competing to sign Juventus and Brazil defender Bremer. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-20T22:33:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1661153_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester United",
-        "Juventus"
-      ]
-    },
-    {
-      "id": 48829740,
-      "source": "ESPN",
-      "headline": "Ogden: Guardiola is on a par with Sir Alex Ferguson",
-      "description": "Mark Ogden says that it will be really hard for Manchester City to replicate future success they had under Pep Guardiola, because \"players signed and stayed for Pep.\"",
-      "publishedAt": "2026-05-20T22:30:39Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0520/dm_260520_Ogden_Guardiola_is_on_a_par_with_Sir_Alex_Ferguson/dm_260520_Ogden_Guardiola_is_on_a_par_with_Sir_Alex_Ferguson.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48829740/guardiola-par-sir-alex-ferguson",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-22T04:34:09.194Z"
+    "cachedAt": "2026-05-22T09:48:16.652Z"
   }
 }
