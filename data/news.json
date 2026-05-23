@@ -2,6 +2,58 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48833505,
+      "source": "ESPN",
+      "headline": "When does the 2026 summer transfer window open and close?",
+      "description": "Find out when the 2026 summer transfer window will close in the Premier League, LaLiga, Serie A, Bundesliga and Ligue 1.",
+      "publishedAt": "2026-05-22T22:56:32Z",
+      "image": "https://a.espncdn.com/photo/2025/1113/r1574948_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48833505/when-does-summer-transfer-window-close-premier-league-serie-laliga-bundesliga-ligue-1",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 48847304,
+      "source": "ESPN",
+      "headline": "Moreno: Pep Guardiola has influenced the Premier League",
+      "description": "Alejandro Moreno reflects on the impact of Pep Guardiola, highlighting how his style of play has influenced teams across the Premier League.",
+      "publishedAt": "2026-05-22T22:45:48Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0522/dm_260522_Moreno_Pep_Guardiola_has_influenced_the_Premier_League/dm_260522_Moreno_Pep_Guardiola_has_influenced_the_Premier_League.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48847304/pep-guardiola-influenced-premier-league",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48847363,
+      "source": "ESPN",
+      "headline": "Fjørtoft: Michael Carrick deserves to be head coach",
+      "description": "Jan Åge Fjørtoft says Michael Carrick is the right choice for Manchester United due to his club knowledge and strong start.",
+      "publishedAt": "2026-05-22T22:45:43Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0522/dm_260522_Fjortoft_Michael_Carrick_deserves_to_be_head_coach/dm_260522_Fjortoft_Michael_Carrick_deserves_to_be_head_coach.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48847363/michael-carrick-deserves-head-coach",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48841869,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea, Arsenal eye Bournemouth's Kroupi",
+      "description": "Chelsea and Arsenal are competing to sign Bournemouth's Junior Kroupi. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-22T21:58:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0522/r1662171_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48841869/transfer-rumors-news-manchester-united-eye-double-midfield-swoop",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Chelsea",
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48842190,
       "source": "ESPN",
       "headline": "West Ham vs. Leeds United: TV channel, kick-off time, live stream, referee, injury and team news",
@@ -14,28 +66,6 @@
         "West Ham United",
         "Leeds United"
       ]
-    },
-    {
-      "id": "6bcf30f31e7bfd0ec349a3dee1afeaff",
-      "source": "Sky Sports",
-      "headline": "Wrong to award Celtic match-winning penalty at Motherwell, rule SFA panel",
-      "description": "Celtic should not have been awarded the match-winning penalty away to Motherwell last week that dented Hearts' title hopes, the Scottish FA's key match incident (KMI) panel has ruled.",
-      "publishedAt": "2026-05-22T18:19:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-celtic-motherwell_7248499.jpg?20260514122348",
-      "link": "https://www.skysports.com/football/news/12040/13547143/celtic-penalty-award-at-motherwell-referee-wrong-to-issue-match-winning-spot-kick-after-var-check-rule-sfa-panel",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "102b53acbbc562010fe5d7ba0a95caf0",
-      "source": "Sky Sports",
-      "headline": "Arteta: I saw our title win coming in March",
-      "description": "Mikel Arteta has said he saw Arsenal's Premier League success coming in March after ending their 22-year wait for the title.",
-      "publishedAt": "2026-05-22T17:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-mikel-arteta-arsenal_7244969.jpg?20260510193456",
-      "link": "https://www.skysports.com/football/news/12040/13547046/mikel-arteta-interview-arsenal-boss-tells-tom-hiddleston-he-saw-premier-league-title-triumph-coming-in-march",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48843477,
@@ -103,6 +133,17 @@
       ]
     },
     {
+      "id": "dcb7fc0625ba6b4a942dfa8322f23c19",
+      "source": "Sky Sports",
+      "headline": "Leeds hammer Huddersfield to move top of Super League",
+      "description": "Mikolaj Oledzki and Harry Newman both scored twice as Leeds bounced back from last week's defeat at Wigan by thrashing Huddersfield 52-0.",
+      "publishedAt": "2026-05-22T15:22:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-chris-hankinson-leeds-rhinos_7256245.jpg?20260522232031",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13547075/super-league-leeds-rhinos-hammer-huddersfield-giants-to-return-to-top-josh-charnley-hat-trick-sees-leigh-leopards-beat-hull-fc",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48109229,
       "source": "ESPN",
       "headline": "Tracking title races, relegation: What's at stake on final PL day?",
@@ -138,21 +179,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 48841869,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Manchester United eye double midfield swoop",
-      "description": "Newcastle United's Sandro Tonali and Atalanta's Éderson are being lined up by Manchester United. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-22T12:56:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1650980_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48841869/transfer-rumors-news-manchester-united-eye-double-midfield-swoop",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Atalanta",
-        "Manchester United"
       ]
     },
     {
@@ -277,28 +303,6 @@
       ]
     },
     {
-      "id": "1e7e67fce0a4f0ad32fb2438bab54ede",
-      "source": "Sky Sports",
-      "headline": "Toney? Injured full-backs? Stones? 26 questions about this England squad",
-      "description": "Thomas Tuchel has named his 26-player England squad for the World Cup, with some big calls made by the Three Lions boss.",
-      "publishedAt": "2026-05-22T10:15:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-england-world-cup_7255571.jpg?20260522152848",
-      "link": "https://www.skysports.com/football/news/12040/13543460/england-world-cup-squad-26-questions-about-thomas-tuchels-selections-for-the-tournament",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "543d1706653548bd82fdba6c221fae10",
-      "source": "Sky Sports",
-      "headline": "'Specialists' and 'a brotherhood' - Tuchel defends shock World Cup squad calls",
-      "description": "Thomas Tuchel has defended his England World Cup selection by insisting he has \"specialists\" in his squad ready to form a \"brotherhood\" to win the tournament this summer.",
-      "publishedAt": "2026-05-22T10:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tuchel-thomas-england_7255723.jpg?20260522124100",
-      "link": "https://www.skysports.com/football/news/12040/13546983/england-world-cup-squad-thomas-tuchel-defends-his-specialist-selections-after-cole-palmer-phil-foden-and-harry-maguire-left-out",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48841475,
       "source": "ESPN",
       "headline": "Tottenham vs. Everton: TV channel, kick-off time, live stream, referee, injury and team news",
@@ -409,51 +413,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 48833095,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Bayern eye move for Man City's Stones",
-      "description": "Bayern Munich are reportedly at a move for Manchester City defender John Stones. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-21T22:05:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661672_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48833095/transfer-rumors-news-barcelona-look-land-tottenham-captain",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Bayern Munich"
-      ]
-    },
-    {
-      "id": 48825794,
-      "source": "ESPN",
-      "headline": "Andy Robertson backs Liverpool to bounce back next season",
-      "description": "Andy Robertson has downplayed fears over Liverpool's future and insists the squad can be successful next season, despite a disappointing campaign.",
-      "publishedAt": "2026-05-21T21:30:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1660946_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48825794/andy-robertson-backs-liverpool-successful-next-season",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48838366,
-      "source": "ESPN",
-      "headline": "Carrick: It was a good time for Casemiro to finish",
-      "description": "Michael Carrick confirms that Casemiro's recent appearance was his final game for Manchester United and stresses the importance of giving younger players opportunities to move forward.",
-      "publishedAt": "2026-05-21T21:14:52Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0521/dm_260521_Carrick_It_was_a_good_time_for_Casemiro_to_finish/dm_260521_Carrick_It_was_a_good_time_for_Casemiro_to_finish.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48838366/was-good-casemiro-finish",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-22T20:06:43.499Z"
+    "cachedAt": "2026-05-23T04:06:27.410Z"
   }
 }
