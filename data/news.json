@@ -2,6 +2,103 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "08868cd154d84f6f1cb14607af6638f0",
+      "source": "Sky Sports",
+      "headline": "Transfer Centre LIVE! Four Premier League clubs interested in Dumfries",
+      "description": "",
+      "publishedAt": "2026-05-23T19:06:00.000Z",
+      "image": "https://e0.365dm.com/22/12/1920x1080/skysports-netherlands-usa-world-cup_5985874.jpg?20221203165343",
+      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "f1ea9e3464a686cbff616ff0a7da3c71",
+      "source": "Sky Sports",
+      "headline": "Whitehouse's penalty heroics secure Charlton promotion to WSL",
+      "description": "",
+      "publishedAt": "2026-05-23T18:54:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-sophie-whitehouse_7256665.jpg?20260523195314",
+      "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48851763,
+      "source": "ESPN",
+      "headline": "Congrats, you've been promoted to the Premier League! Now what?",
+      "description": "The English Championship playoff final is known as the richest game in sport as it gets you promoted to the Premier League, but how do you go about staying there?",
+      "publishedAt": "2026-05-23T18:49:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0523/r1662423_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48851763/premier-league-promotion-relegation-coventry-city-ipswich-town-hull-city",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48852636,
+      "source": "ESPN",
+      "headline": "Hull City promoted to the Premier League after beating Middlesbrough in Championship playoff final",
+      "description": "Hull City have been promoted to the Premier League after a 1-0 win in the Championship playoff final against Middlesbrough on Saturday at Wembley Stadium.",
+      "publishedAt": "2026-05-23T18:36:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0523/r1662397_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48852636/hull-city-promoted-premier-league-beating-middlesbrough-championship-playoff-final",
+      "tag": "Middlesbrough",
+      "teams": [
+        "Middlesbrough",
+        "Hull City"
+      ]
+    },
+    {
+      "id": "b15cdd4e106d1d0e7186c857d3cf4270",
+      "source": "Sky Sports",
+      "headline": "Forest latest: Murillo signs new deal until 2030",
+      "description": "",
+      "publishedAt": "2026-05-23T18:04:00.000Z",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-nottingham-forest_7164238.jpg?20260213164146",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "cbd442dcc197e3ad96c4c49c2240921a",
+      "source": "Sky Sports",
+      "headline": "McBurnie fires Hull City to the Premier League with late goal at Wembley!",
+      "description": "Highlights of the Sky Bet Championship play-off final between Hull City and Middlesbrough.",
+      "publishedAt": "2026-05-23T16:56:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-hull-city-middlesbrough_7256578.jpg?20260523180445",
+      "link": "https://www.skysports.com/watch/video/13547355/hull-city-1-0-middlesbrough-championship-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 48841999,
+      "source": "ESPN",
+      "headline": "Mohamed Salah has given everything to Liverpool and deserves fitting finale",
+      "description": "Mohamed Salah arrived at Liverpool in 2017 under pressure to shake off his \"Chelsea flop\" tag, but nine years later, he leaves as a legend who transcended the sport.",
+      "publishedAt": "2026-05-23T16:53:04Z",
+      "image": "https://a.espncdn.com/photo/2017/0626/r224444_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48841999/mohamed-salah-given-everything-liverpool-deserves-fitting-finale",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d2a9f5dbf847d14cede3a91421f5e986",
+      "source": "Sky Sports",
+      "headline": "McBurnie scores stoppage-time winner to send Hull to Premier League",
+      "description": "Oli McBurnie struck in injury-time to dramatically send Hull City into the Premier League as they beat Middlesbrough 1-0 at Wembley.",
+      "publishedAt": "2026-05-23T16:48:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-hull-city_7256570.jpg?20260523175809",
+      "link": "https://www.skysports.com/football/hull-city-vs-middlesbrough/report/555960",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 48851064,
       "source": "ESPN",
       "headline": "Bruno Fernandes named Premier League Player of the Season",
@@ -56,17 +153,6 @@
       ]
     },
     {
-      "id": "699478aa57f0e63324971db1828ce80c",
-      "source": "Sky Sports",
-      "headline": "Championship play-off final: Hull vs Middlesbrough LIVE!",
-      "description": "",
-      "publishedAt": "2026-05-23T11:27:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-trophy-wembley_7256385.jpg?20260523131558",
-      "link": "https://www.skysports.com/football/hull-city-vs-middlesbrough/live/555960",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48747779,
       "source": "ESPN",
       "headline": "What Tottenham and West Ham need to happen to ensure their own Premier League survival",
@@ -110,19 +196,6 @@
       ]
     },
     {
-      "id": 48841999,
-      "source": "ESPN",
-      "headline": "Mohamed Salah has given everything to Liverpool and deserves fitting finale",
-      "description": "Mohamed Salah arrived at Liverpool in 2017 under pressure to shake off his \"Chelsea flop\" tag but, nine years later, he leaves as a legend who transcended the sport.",
-      "publishedAt": "2026-05-23T09:43:40Z",
-      "image": "https://a.espncdn.com/photo/2017/0626/r224444_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48841999/mohamed-salah-given-everything-liverpool-deserves-fitting-finale",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": 48850476,
       "source": "ESPN",
       "headline": "Pep reveals his biggest regret on eve of Man City farewell",
@@ -162,28 +235,6 @@
         "West Ham United",
         "Leeds United"
       ]
-    },
-    {
-      "id": "83f442aa4d092c747b43b6c0931b18e1",
-      "source": "Sky Sports",
-      "headline": "Premier League final day: Arsenal's party, Spurs' battle, Pep's goodbye",
-      "description": "",
-      "publishedAt": "2026-05-23T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-final-day_7255817.jpg?20260522143026",
-      "link": "https://www.skysports.com/football/news/12040/13546552/premier-league-final-day-live-on-sky-arsenals-party-tottenhams-battle-pep-guardiolas-man-city-goodbye",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "9e4223e111c45c468c7e9a41ab7ff125",
-      "source": "Sky Sports",
-      "headline": "Spurs face biggest game in recent history - but how's it come to this?",
-      "description": "Sunday’s Premier League home match against Everton is Tottenham’s biggest game in recent history.",
-      "publishedAt": "2026-05-23T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-reporter-notebook_7254613.jpg?20260521100844",
-      "link": "https://www.skysports.com/football/news/12040/13547125/tottenham-vs-everton-spurs-premier-league-status-on-the-line-on-final-day-in-their-biggest-game-in-recent-history",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48833505,
@@ -384,19 +435,6 @@
       ]
     },
     {
-      "id": 48789147,
-      "source": "ESPN",
-      "headline": "Man United appoint Michael Carrick as permanent head coach",
-      "description": "Michael Carrick has been confirmed as Manchester United permanent head coach on a two-year deal.",
-      "publishedAt": "2026-05-22T10:57:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655699_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48789147/man-united-michael-carrick-appointed-permanent-head-coach",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 48842522,
       "source": "ESPN",
       "headline": "Tuchel: No fear leaving Foden, Palmer & Trent out of England squad",
@@ -423,24 +461,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 48836149,
-      "source": "ESPN",
-      "headline": "Premier League, Man City won't be the same after Guardiola",
-      "description": "It's been suspected for months, but Pep Guardiola has confirmed he is leaving Manchester City after nearly a decade of excellence. The league, and City, will never be the same again.",
-      "publishedAt": "2026-05-22T10:23:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661542_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48836149/pep-guardiola-manchester-city-enzo-maresca-premier-league-coaching-legacy-rob-dawson",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-23T14:01:14.952Z"
+    "cachedAt": "2026-05-23T19:36:26.697Z"
   }
 }
