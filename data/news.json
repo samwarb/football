@@ -2,48 +2,11 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "08868cd154d84f6f1cb14607af6638f0",
-      "source": "Sky Sports",
-      "headline": "Transfer Centre LIVE! Four Premier League clubs interested in Dumfries",
-      "description": "",
-      "publishedAt": "2026-05-23T19:06:00.000Z",
-      "image": "https://e0.365dm.com/22/12/1920x1080/skysports-netherlands-usa-world-cup_5985874.jpg?20221203165343",
-      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "f1ea9e3464a686cbff616ff0a7da3c71",
-      "source": "Sky Sports",
-      "headline": "Whitehouse's penalty heroics secure Charlton promotion to WSL",
-      "description": "",
-      "publishedAt": "2026-05-23T18:54:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-sophie-whitehouse_7256665.jpg?20260523195314",
-      "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 48851763,
-      "source": "ESPN",
-      "headline": "Congrats, you've been promoted to the Premier League! Now what?",
-      "description": "The English Championship playoff final is known as the richest game in sport as it gets you promoted to the Premier League, but how do you go about staying there?",
-      "publishedAt": "2026-05-23T18:49:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0523/r1662423_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48851763/premier-league-promotion-relegation-coventry-city-ipswich-town-hull-city",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
-      ]
-    },
-    {
       "id": 48852636,
       "source": "ESPN",
       "headline": "Hull City promoted to the Premier League after beating Middlesbrough in Championship playoff final",
       "description": "Hull City have been promoted to the Premier League after a 1-0 win in the Championship playoff final against Middlesbrough on Saturday at Wembley Stadium.",
-      "publishedAt": "2026-05-23T18:36:35Z",
+      "publishedAt": "2026-05-24T01:54:54Z",
       "image": "https://a.espncdn.com/photo/2026/0523/r1662397_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48852636/hull-city-promoted-premier-league-beating-middlesbrough-championship-playoff-final",
       "tag": "Middlesbrough",
@@ -53,26 +16,104 @@
       ]
     },
     {
-      "id": "b15cdd4e106d1d0e7186c857d3cf4270",
+      "id": 48854357,
+      "source": "ESPN",
+      "headline": "Pep Guardiola won't advise Man City on successor, says new manager can't be 'copy and paste'",
+      "description": "Pep Guardiola has said he won't advise Manchester City on which manager should replace him.",
+      "publishedAt": "2026-05-24T00:27:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0515/r1658721_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48854357/pep-guardiola-advise-manchester-city-successor-end-season-departure",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48855950,
+      "source": "ESPN",
+      "headline": "Burley: No guarantee for Tottenham to stay up on final day",
+      "description": "Craig Burley looks ahead to the Premier League final day relegation battle between Tottenham and West Ham.",
+      "publishedAt": "2026-05-23T22:17:51Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0523/dm_260523_COM_SOC_Analysis_Burley_No_guarantee_for_Tottenham_to_stay_up_on_final_day_20260523_GLOBAL/dm_260523_COM_SOC_Analysis_Burley_No_guarantee_for_Tottenham_to_stay_up_on_final_day_20260523_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48855950/no-guarantee-tottenham-stay-final-day",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48850358,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City eye move for Chelsea's Fernández",
+      "description": "Manchester City are reportedly setting their sights on Chelsea's Enzo Fernández. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-23T22:13:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0523/r1662564_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48850358/transfer-rumors-news-harry-kane-barcelona-targets-replace-lewandowski",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "4db77dfe46365c90a57910afebde8d59",
       "source": "Sky Sports",
-      "headline": "Forest latest: Murillo signs new deal until 2030",
+      "headline": "Man Utd latest: Carrick not planning break after turnaround",
       "description": "",
-      "publishedAt": "2026-05-23T18:04:00.000Z",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-nottingham-forest_7164238.jpg?20260213164146",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-05-23T21:46:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "cbd442dcc197e3ad96c4c49c2240921a",
+      "id": "a011e1f91397718c97e8387e19467a22",
       "source": "Sky Sports",
-      "headline": "McBurnie fires Hull City to the Premier League with late goal at Wembley!",
-      "description": "Highlights of the Sky Bet Championship play-off final between Hull City and Middlesbrough.",
-      "publishedAt": "2026-05-23T16:56:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-hull-city-middlesbrough_7256578.jpg?20260523180445",
-      "link": "https://www.skysports.com/watch/video/13547355/hull-city-1-0-middlesbrough-championship-highlights",
-      "tag": "Video",
+      "headline": "Man City latest: New City boss ‘has to be himself', says Pep",
+      "description": "",
+      "publishedAt": "2026-05-23T21:39:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-man-city-news-club_7039261.jpg?20251002160441",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
       "teams": []
+    },
+    {
+      "id": "a55d0ee9667a061d90a1a9f6588a3b22",
+      "source": "Sky Sports",
+      "headline": "Newcastle latest: Howe targets finish above Sunderland",
+      "description": "",
+      "publishedAt": "2026-05-23T21:35:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "7eececa214a8ea3d38853eb6aee57a1d",
+      "source": "Sky Sports",
+      "headline": "Papers: Real Madrid keeping tabs on Haaland",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-05-23T21:14:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13547427/real-madrid-keeping-tabs-on-erling-haaland-as-man-city-prepare-for-post-pep-guardiola-era-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48851763,
+      "source": "ESPN",
+      "headline": "Congrats, you've been promoted to the Premier League! Now what?",
+      "description": "The English Championship playoff final is known as \"the richest game in sports\" as it gets you promoted to the Premier League, but how do you go about staying there?",
+      "publishedAt": "2026-05-23T20:36:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0523/r1662423_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48851763/premier-league-promotion-relegation-coventry-city-ipswich-town-hull-city",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
     },
     {
       "id": 48841999,
@@ -86,17 +127,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "d2a9f5dbf847d14cede3a91421f5e986",
-      "source": "Sky Sports",
-      "headline": "McBurnie scores stoppage-time winner to send Hull to Premier League",
-      "description": "Oli McBurnie struck in injury-time to dramatically send Hull City into the Premier League as they beat Middlesbrough 1-0 at Wembley.",
-      "publishedAt": "2026-05-23T16:48:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-hull-city_7256570.jpg?20260523175809",
-      "link": "https://www.skysports.com/football/hull-city-vs-middlesbrough/report/555960",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 48851064,
@@ -381,19 +411,6 @@
       ]
     },
     {
-      "id": 48813681,
-      "source": "ESPN",
-      "headline": "Pep Guardiola to step down as Man City boss at end of season",
-      "description": "Pep Guardiola will step down as Manchester City manager this summer, the club confirmed on Friday.",
-      "publishedAt": "2026-05-22T12:28:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660277_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48813681/pep-guardiola-step-man-city-boss-end-season",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 48842702,
       "source": "ESPN",
       "headline": "The final week of the season - What's still on the line for African players in Europe?",
@@ -433,39 +450,11 @@
         "England",
         "Manchester City"
       ]
-    },
-    {
-      "id": 48842522,
-      "source": "ESPN",
-      "headline": "Tuchel: No fear leaving Foden, Palmer & Trent out of England squad",
-      "description": "Thomas Tuchel speaks about some of the exclusions from his England squad for the FIFA World Cup.",
-      "publishedAt": "2026-05-22T10:56:54Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0522/dm_260522_COM_SOC_Presser_Tuchel_No_fear_leaving_Foden_Palmer_Trent_out_of_England_squad_20260522_GLOB/dm_260522_COM_SOC_Presser_Tuchel_No_fear_leaving_Foden_Palmer_Trent_out_of_England_squad_20260522_GLOB.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48842522/no-fear-leaving-foden-palmer-trent-england-squad",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "England",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48842474,
-      "source": "ESPN",
-      "headline": "Pep Guardiola's decade of Man City dominance in numbers",
-      "description": "Check out the most impressive stats from Pep Guardiola's 10 years at Manchester City, after the club confirmed he will leave at the end of the season.",
-      "publishedAt": "2026-05-22T10:53:28Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0522/dm_260522_Pep_Guardiola_decade_of_Man_City_dominance_in_numbers/dm_260522_Pep_Guardiola_decade_of_Man_City_dominance_in_numbers.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48842474/pep-guardiola-decade-man-city-dominance-numbers",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-23T19:36:26.697Z"
+    "cachedAt": "2026-05-24T04:37:40.716Z"
   }
 }
