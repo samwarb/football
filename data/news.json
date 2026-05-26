@@ -2,11 +2,38 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48879765,
+      "source": "ESPN",
+      "headline": "João Palhinha keen to extend Tottenham 'marriage' after loan: 'I have everything I need here'",
+      "description": "João Palhinha has reiterated his desire to stay at Tottenham.",
+      "publishedAt": "2026-05-26T09:34:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0524/r1662838_2_800x533_3-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48879765/joao-palhinha-keen-extend-tottenham-marriage-loan-everything-need-here",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48843668,
+      "source": "ESPN",
+      "headline": "After midseason toxicity, Oliver Glasner and Crystal Palace ready for emotional Conference League final farewell",
+      "description": "With miracle man Oliver Glasner to depart Crystal Palace in the summer, the club have the opportunity to give him the perfect send-off by securing a first-ever European trophy in Leipzig.",
+      "publishedAt": "2026-05-26T09:24:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0526/r1663809_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48843668/oliver-glasner-crystal-palace-ready-uefa-conference-league-rayo-vallecano-leipzig",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Rayo Vallecano"
+      ]
+    },
+    {
       "id": 48875543,
       "source": "ESPN",
       "headline": "Nicol: Slot faces total rebuild at Liverpool next season",
       "description": "Steve Nicol believes Arne Slot needs to \"start from scratch\" at Liverpool after finishing 5th in the Premier League.",
-      "publishedAt": "2026-05-25T22:28:10Z",
+      "publishedAt": "2026-05-26T09:13:51Z",
       "image": "https://a.espncdn.com/media/motion/2026/0525/dm_260525_COM_SOC_Analysis_Nicol_Slot_faces_total_rebuild_at_Liverpool_next_season_20260525_GLOBAL/dm_260525_COM_SOC_Analysis_Nicol_Slot_faces_total_rebuild_at_Liverpool_next_season_20260525_GLOBAL.jpg",
       "link": "https://www.espn.com/video/clip/_/id/48875543/slot-faces-total-rebuild-liverpool-next-season",
       "tag": "Brentford",
@@ -14,6 +41,144 @@
         "Brentford",
         "Liverpool"
       ]
+    },
+    {
+      "id": "989f28f2db4b603a2943e4570d0571a3",
+      "source": "Sky Sports",
+      "headline": "Neville: Next step for Arsenal is to win CL - but 'best in Europe' await",
+      "description": "Gary Neville says the \"next step\" for Premier League winners Arsenal is to lift the Champions League, but they are underdogs against \"special\" Paris Saint-Germain.",
+      "publishedAt": "2026-05-26T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsneal-title-arsenal_7257496.jpg?20260524191747",
+      "link": "https://www.skysports.com/football/news/12040/13547837/arsenal-underdogs-in-champions-league-final-vs-best-team-in-europe-psg-warns-gary-neville",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48872957,
+      "source": "ESPN",
+      "headline": "Man City host parade as Pep Guardiola bids farewell with domestic cup double",
+      "description": "Manchester City's trophy parade for the FA Cup and League Cup is underway, as fans line the streets to say goodbye to long-serving boss Pep Guardiola.",
+      "publishedAt": "2026-05-26T08:42:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663557_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48872957/man-city-host-parade-pep-guardiola-bids-farewell-domestic-cup-double ",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48712585,
+      "source": "ESPN",
+      "headline": "How did Premier League giants Tottenham, one of world's 10 richest clubs, go to brink of relegation?",
+      "description": "Tottenham Hotspur escaped relegation on the final day of the season. How did it come to this for one of the Premier League's so-called \"Big Six\" clubs?",
+      "publishedAt": "2026-05-26T08:40:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663333_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48712585/how-did-premier-league-giants-tottenham-hotspur-one-worlds-10-richest-clubs-go-brink-relegation",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48842702,
+      "source": "ESPN",
+      "headline": "The final week of the season - What's still on the line for African players in Europe?",
+      "description": "As we enter the final week of the 2025-26 season, there's still much at stake for African stars across Europe's biggest competitions. Here's everything that's still up for grabs for the continent's stars in Europe's major leagues.",
+      "publishedAt": "2026-05-26T08:16:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0224/r1619366_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/48842702/the-final-week-season-line-african-players-europe",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a3cc3d7ac3af8014f13c51d01e6850c9",
+      "source": "Sky Sports",
+      "headline": "Forest latest: Gibbs-White opens up on England snub",
+      "description": "",
+      "publishedAt": "2026-05-26T08:00:00.000Z",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-nottingham-forest_7164238.jpg?20260213164146",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48871136,
+      "source": "ESPN",
+      "headline": "Arsenal parade: When is it, what time and will it take place if they lose the Champions League final?",
+      "description": "Everything you need to know about Arsenal's parade following their Premier League title win.",
+      "publishedAt": "2026-05-26T07:45:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48871136/arsenal-parade-what-take-place-lose-champions-league-final",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48845495,
+      "source": "ESPN",
+      "headline": "Ranking Guardiola's 18 seasons at Barcelona, Bayern, Man City",
+      "description": "Pep Guardiola is leaving Man City after 10 stunning seasons, and with 18 full campaigns in his career across three big clubs, we ranked each one from best to worst.",
+      "publishedAt": "2026-05-26T07:38:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0526/r1663796_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48845495/pep-guardiola-manager-season-ranking-barcelona-manchester-city-bayern-munich",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Barcelona",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": 48879166,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United make early move to keep Fernandes",
+      "description": "Man United want to keep midfielder Bruno Fernandes. Plus, Tottenham Hotspur chase multiple players. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-26T07:29:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0508/r1655295_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48879166/transfer-rumors-news-man-united-make-early-move-keep-bruno-fernandes",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48879154,
+      "source": "ESPN",
+      "headline": "Michael Jordan leads tributes to Pep Guardiola as Man City boss bids farewell",
+      "description": "Basketball legend Michael Jordan headlined the cast of stars that paid tribute to Pep Guardiola's achievements at Manchester City in his farewell party.",
+      "publishedAt": "2026-05-26T07:11:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0526/r1663791_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48879154/michael-jordan-leads-tributes-pep-guardiola-man-city-boss-bids-farewell",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "43550368c3cd4c5b7a9d57709429063e",
+      "source": "Sky Sports",
+      "headline": "The PL clubs changing manager... and the others that could follow",
+      "description": "Chelsea and Manchester United have already made big decisions over who will be in the dugout for them moving forward. Pep Guardiola has decided to leave Manchester City while there have been doubts around Liverpool boss Arne Slot this past season.",
+      "publishedAt": "2026-05-26T07:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-maresca_7258601.jpg?20260526082529",
+      "link": "https://www.skysports.com/football/news/12040/13547917/premier-league-set-for-big-managerial-shake-up-this-summer-with-at-least-five-clubs-making-a-change-in-the-dugout",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "34b8202d4db28d60db79faba9590ee2b",
+      "source": "Sky Sports",
+      "headline": "From Macclesfield to Leipzig: How Palace reached Conference League final",
+      "description": "Game 60. The longest season in Crystal Palace's history has reached its final destination. Leipzig.",
+      "publishedAt": "2026-05-26T07:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-europa-conference-league_7257926.jpg?20260525092943",
+      "link": "https://www.skysports.com/football/news/12040/13547959/crystal-palace-vs-rayo-vallecano-how-oliver-glasners-eagles-reached-europa-conference-league-final",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48874914,
@@ -37,30 +202,6 @@
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-st-mirren-partick_7258487.jpg?20260525221926",
       "link": "https://www.skysports.com/football/st-mirren-vs-partick-thistle/report/555975",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 48872957,
-      "source": "ESPN",
-      "headline": "Man City host parade as Pep Guardiola bids farewell with domestic cup double",
-      "description": "Manchester City's trophy parade for the FA Cup and League Cup is underway, as fans line the streets to say goodbye to long-serving boss Pep Guardiola.",
-      "publishedAt": "2026-05-25T19:57:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663557_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48872957/man-city-host-parade-pep-guardiola-bids-farewell-domestic-cup-double ",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "d5cc446cc226594ae85e89592d75fdb8",
-      "source": "Sky Sports",
-      "headline": "Slot, Alisson, Diomande and Konate - Liverpool's big summer analysed",
-      "description": "Liverpool are set to have a busy summer transfer window - so what is next for the Anfield club?",
-      "publishedAt": "2026-05-25T18:27:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-liverpool_7226276.jpg?20260421135929",
-      "link": "https://www.skysports.com/football/news/12040/13547979/liverpool-transfer-news-arne-slot-set-to-bring-in-new-assistant-etienne-reijnen-alisson-becker-set-to-stay-and-ibrahima-konates-future-unclear",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -117,19 +258,6 @@
       ]
     },
     {
-      "id": 48712585,
-      "source": "ESPN",
-      "headline": "How did Premier League giants Tottenham, one of world's 10 richest clubs, go to brink of relegation?",
-      "description": "Tottenham Hotspur escaped relegation on the final day of the season. How did it come to this for one of the Premier League's so-called \"Big Six\" clubs?",
-      "publishedAt": "2026-05-25T13:11:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663333_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48712585/how-did-premier-league-giants-tottenham-hotspur-one-worlds-10-richest-clubs-go-brink-relegation",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 48871610,
       "source": "ESPN",
       "headline": "James Maddison heaps praise on Roberto De Zerbi for saving Spurs from 'disaster'",
@@ -153,19 +281,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 48871136,
-      "source": "ESPN",
-      "headline": "Arsenal parade: When is it, what time and will it take place if they lose the Champions League final?",
-      "description": "Everything you need to know about Arsenal's parade following their Premier League title win.",
-      "publishedAt": "2026-05-25T11:45:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48871136/arsenal-parade-what-take-place-lose-champions-league-final",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
       ]
     },
     {
@@ -292,19 +407,6 @@
       ]
     },
     {
-      "id": 48863440,
-      "source": "ESPN",
-      "headline": "Relegated West Ham feel the heat as London Stadium bubble bursts",
-      "description": "The final whistle at the Tottenham Hotspur Stadium may have condemned West Ham to the Championship, but their relegation has been a long time coming.",
-      "publishedAt": "2026-05-25T07:11:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0524/r1663012_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48863440/west-ham-relegated-feel-heat-london-stadium-bubble-bursts-leeds-united-david-sullivan",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United"
-      ]
-    },
-    {
       "id": 48860230,
       "source": "ESPN",
       "headline": "Mohamed Salah's greatest moments at Liverpool: A timeline",
@@ -355,100 +457,11 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 48862987,
-      "source": "ESPN",
-      "headline": "End of an era in Liverpool: Salah and Robertson say goodbye as questions linger for future",
-      "description": "A golden era at Liverpool is now well and truly over, and questions remain for coach Arne Slot and the team as Salah and Robertson say goodbye.",
-      "publishedAt": "2026-05-24T21:25:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0524/r1662996_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48862987/end-era-liverpool-salah-robertson-say-goodbye-questions-linger-future",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48864977,
-      "source": "ESPN",
-      "headline": "Pep Guardiola applauded out of final Man City press conference",
-      "description": "Pep Guardiola ends his final Manchester City press conference after a decade at the club with a round of applause.",
-      "publishedAt": "2026-05-24T20:56:22Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0524/dm_260524_COM_SOC_Presser_Pep_Guardiola_applauded_out_of_final_Man_City_press_conference_20260524_GLOBAL/dm_260524_COM_SOC_Presser_Pep_Guardiola_applauded_out_of_final_Man_City_press_conference_20260524_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48864977/pep-guardiola-applauded-final-man-city-press-conference",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48864771,
-      "source": "ESPN",
-      "headline": "'Embarrassing' Tottenham battling relegation on final day 'unacceptable' - Micky van de Ven",
-      "description": "Tottenham's Micky van de Ven said it was \"embarrassing\" the club were left needing a result on the final day against Everton.",
-      "publishedAt": "2026-05-24T20:53:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0524/r1663064_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48864771/embarrassing-tottenham-battling-relegation-final-day-unacceptable-micky-van-de-ven",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48863660,
-      "source": "ESPN",
-      "headline": "Arsenal owners promise more after Premier League trophy lift",
-      "description": "Arsenal co-chair Josh Kroenke has vowed owners Kroenke Sports Enterprises (KSE) will provide the financial backing for future success after hailing the \"slow burn\" success of the club's first Premier League title win in 22 years.",
-      "publishedAt": "2026-05-24T20:17:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0524/r1662986_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48863660/arsenal-owners-more-premier-league-trophy-lift",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48864176,
-      "source": "ESPN",
-      "headline": "Leboeuf: Chelsea need to 'wake up' ahead of Xabi Alonso's arrival",
-      "description": "Frank Leboeuf hopes Xabi Alonso can turn things around at Chelsea next season after finishing 10th in the Premier League.",
-      "publishedAt": "2026-05-24T19:58:56Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0524/dm_260524_COM_SOC_Analysis_Lebouef_Chelsea_need_to_wake_up_ahead_of_Xabi_Alonsos_arrival_20260524_GLOB/dm_260524_COM_SOC_Analysis_Lebouef_Chelsea_need_to_wake_up_ahead_of_Xabi_Alonsos_arrival_20260524_GLOB.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48864176/chelsea-need-wake-ahead-xabi-alonso-arrival",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": "59ec0a431dbd9e7aa0b6ac45c7626656",
-      "source": "Sky Sports",
-      "headline": "Arsenal latest: Kroenke lifts lid on transfer plans",
-      "description": "",
-      "publishedAt": "2026-05-24T19:08:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "51082c8cdfd9e34ed8e871a0c276fb13",
-      "source": "Sky Sports",
-      "headline": "Brighton latest: Mitoma undergoes hamstring surgery",
-      "description": "",
-      "publishedAt": "2026-05-24T18:41:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-26T04:33:15.732Z"
+    "cachedAt": "2026-05-26T10:17:12.865Z"
   }
 }
