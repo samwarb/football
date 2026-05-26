@@ -2,6 +2,146 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48881982,
+      "source": "ESPN",
+      "headline": "Pep Guardiola assistants Pep Lijnders, Kolo Toure leave Man City",
+      "description": "Manchester City have confirmed Kolo Toure will leave the club as part of a backroom staff overhaul following the departure of manager Pep Guardiola.",
+      "publishedAt": "2026-05-26T15:55:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0526/r1663939_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48881982/pep-guardiola-assistants-pep-lijnders-kolo-toure-leave-man-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48876175,
+      "source": "ESPN",
+      "headline": "Arsenal Keep or Dump: Find Ødegaard replacement? Move Gyokeres and Havertz?",
+      "description": "Arsenal have some big decisions ahead that will affect their finances and their squad. Gab Marcotti and Mark Ogden break it down.",
+      "publishedAt": "2026-05-26T15:42:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0514/260518_soc_trades_arsenal_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48876175/arsenal-keep-dump-martin-odegaard-viktor-gyokeres-kai-havertz-gab-marcotti-mark-ogden",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48845495,
+      "source": "ESPN",
+      "headline": "Ranking Guardiola's 18 seasons at Barcelona, Bayern, Man City",
+      "description": "Pep Guardiola is leaving Man City after 10 stunning seasons, and with 18 full campaigns in his career across three big clubs, we ranked each one from best to worst.",
+      "publishedAt": "2026-05-26T14:15:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0526/r1663796_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48845495/pep-guardiola-manager-season-ranking-barcelona-manchester-city-bayern-munich",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Barcelona",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-05-26T11:36:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48880223,
+      "source": "ESPN",
+      "headline": "Puma unveils Premier League's new 2026-27 match ball: the Stellar Nitro Ultimate",
+      "description": "The 2025-26 Premier League season ended a matter of days ago, but Puma just couldn't wait to show us the official match ball for the 2026-27 campaign.",
+      "publishedAt": "2026-05-26T11:25:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0526/r1663819_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48880223/puma-unveils-premier-league-new-2026-27-match-ball-stellar-nitro-ultimate",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Arsenal",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "acfdf028d69adcb82d434d3c35c401a4",
+      "source": "Sky Sports",
+      "headline": "EFL latest: Southampton's head of scouting leaves club",
+      "description": "",
+      "publishedAt": "2026-05-26T10:55:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-southampton-spygate_7254046.jpg?20260520144113",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "024b2018c5e5595d85608c9a0f413f03",
+      "source": "Sky Sports",
+      "headline": "Bournemouth latest: Iraola set for further talks with AC Milan",
+      "description": "",
+      "publishedAt": "2026-05-26T10:53:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-bournemouth-news_7039242.jpg?20251002155747",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48879166,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United make early move to keep Fernandes",
+      "description": "Man United want to keep midfielder Bruno Fernandes. Plus, Tottenham Hotspur chase multiple players. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-26T10:17:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0508/r1655295_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48879166/transfer-rumors-news-man-united-make-early-move-keep-bruno-fernandes",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
       "id": 48879765,
       "source": "ESPN",
       "headline": "João Palhinha keen to extend Tottenham 'marriage' after loan: 'I have everything I need here'",
@@ -118,34 +258,6 @@
       ]
     },
     {
-      "id": 48845495,
-      "source": "ESPN",
-      "headline": "Ranking Guardiola's 18 seasons at Barcelona, Bayern, Man City",
-      "description": "Pep Guardiola is leaving Man City after 10 stunning seasons, and with 18 full campaigns in his career across three big clubs, we ranked each one from best to worst.",
-      "publishedAt": "2026-05-26T07:38:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0526/r1663796_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48845495/pep-guardiola-manager-season-ranking-barcelona-manchester-city-bayern-munich",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Barcelona",
-        "Bayern Munich"
-      ]
-    },
-    {
-      "id": 48879166,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United make early move to keep Fernandes",
-      "description": "Man United want to keep midfielder Bruno Fernandes. Plus, Tottenham Hotspur chase multiple players. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-26T07:29:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0508/r1655295_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48879166/transfer-rumors-news-man-united-make-early-move-keep-bruno-fernandes",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 48879154,
       "source": "ESPN",
       "headline": "Michael Jordan leads tributes to Pep Guardiola as Man City boss bids farewell",
@@ -170,17 +282,6 @@
       "teams": []
     },
     {
-      "id": "34b8202d4db28d60db79faba9590ee2b",
-      "source": "Sky Sports",
-      "headline": "From Macclesfield to Leipzig: How Palace reached Conference League final",
-      "description": "Game 60. The longest season in Crystal Palace's history has reached its final destination. Leipzig.",
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-europa-conference-league_7257926.jpg?20260525092943",
-      "link": "https://www.skysports.com/football/news/12040/13547959/crystal-palace-vs-rayo-vallecano-how-oliver-glasners-eagles-reached-europa-conference-league-final",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48874914,
       "source": "ESPN",
       "headline": "Erling Haaland: Man City can still 'win everything' without Pep Guardiola",
@@ -192,17 +293,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "4349d3df8304b5541baefa8c47e3a107",
-      "source": "Sky Sports",
-      "headline": "St Mirren retain Premiership status as Fraser volley downs Partick Thistle",
-      "description": "Marcus Fraser's close-range volley kept St Mirren in the William Hill Premiership as the Buddies beat Partick Thistle 1-0 in the play-off final.",
-      "publishedAt": "2026-05-25T21:14:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-st-mirren-partick_7258487.jpg?20260525221926",
-      "link": "https://www.skysports.com/football/st-mirren-vs-partick-thistle/report/555975",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 48873907,
@@ -407,61 +497,20 @@
       ]
     },
     {
-      "id": 48860230,
-      "source": "ESPN",
-      "headline": "Mohamed Salah's greatest moments at Liverpool: A timeline",
-      "description": "Over nine years at Anfield, Mo Salah has cemented himself in not just Liverpool's but the Premier League's hall of fame.",
-      "publishedAt": "2026-05-25T06:16:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0524/r1662757_608x342_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48860230/mohamed-salah-greatest-moments-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48823107,
-      "source": "ESPN",
-      "headline": "As Arsenal win the Premier League after 22 years, where are the Invincibles now?",
-      "description": "As the last Arsenal team to lift the Premier League trophy, where are Thierry Henry and co now?",
-      "publishedAt": "2026-05-25T06:15:53Z",
-      "image": "https://a.espncdn.com/photo/2020/0103/r648171_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48823107/as-arsenal-win-league-22-years-where-invincibles-now",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48865945,
-      "source": "ESPN",
-      "headline": "The Gunners claim the Premier League title",
-      "description": "Arsenal lift the Premier league trophy for the first time in 22 years after beating Crystal Palace at Selhurst Park.",
-      "publishedAt": "2026-05-24T22:28:13Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0524/dm_260524_Soccer_HIGHLIGHT_The_Gunners_claim_the_Premier_League_title_20260523_AUS/dm_260524_Soccer_HIGHLIGHT_The_Gunners_claim_the_Premier_League_title_20260523_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48865945/the-gunners-claim-premier-league-title",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48865457,
-      "source": "ESPN",
-      "headline": "Palhinha's lone goal proves decisive as Tottenham avoid relegation",
-      "description": "Joao Palhinha was the hero for the North London side as they remained in the Premier League with a tight victory over Everton.",
-      "publishedAt": "2026-05-24T21:42:04Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0524/dm_260524_Soccer_HIGHLIGHT_Palhinhas_lone_goal_proves_decisive_as_Tottenham_avoid_relegation_20260525_AUS/dm_260524_Soccer_HIGHLIGHT_Palhinhas_lone_goal_proves_decisive_as_Tottenham_avoid_relegation_20260525_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48865457/palhinha-lone-goal-proves-decisive-tottenham-avoid-relegation",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
+      "id": "dd315e602cc25e4101d0066bb547b928",
+      "source": "Sky Sports",
+      "headline": "Crystal Palace latest: There are no underdogs in finals, says Henderson",
+      "description": "",
+      "publishedAt": "2026-05-21T15:30:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-crystal-palace-news_7039251.jpg?20251002160103",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-26T10:17:12.865Z"
+    "cachedAt": "2026-05-26T16:07:01.635Z"
   }
 }
