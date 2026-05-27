@@ -2,14 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "ae5aac61f8382ba8c8bfa7d6bddee275",
+      "id": 48888679,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Tottenham explore move for Baleba",
+      "description": "Manchester United and Tottenham Hotspur are reportedly interested in signing Brighton & Hove Albion's Carlos Baleba. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-27T18:57:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0527/r1664512_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48888679/transfer-rumors-news-juventus-move-salah-liverpool-exit",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "6d1e0691bdb4d131cada4fd72fb452a5",
       "source": "Sky Sports",
-      "headline": "Crystal Palace vs Rayo Vallecano build-up: Wharton and Richards to start",
-      "description": "",
-      "publishedAt": "2026-05-27T16:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-adam-wharton-crystal-palace_7251444.jpg?20260517161719",
-      "link": "https://www.skysports.com/football/crystal-palace-vs-rayo-vallecano/live/554966",
-      "tag": "Liveblog",
+      "headline": "Barcelona reach agreement with Newcastle for Gordon over £69m deal",
+      "description": "Barcelona have reached an agreement with Newcastle to sign winger Anthony Gordon.",
+      "publishedAt": "2026-05-27T18:50:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-gordon-anthony-gordon_7259774.jpg?20260527194549",
+      "link": "https://www.skysports.com/football/news/12040/13548532/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48892138,
+      "source": "ESPN",
+      "headline": "Marsden: Rashford return unlikely if Barcelona sign Gordon",
+      "description": "Samuel Marsden examines Barcelona's interest in Newcastle winger Anthony Gordon.",
+      "publishedAt": "2026-05-27T16:56:21Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0527/dm_260527_COM_SOC_Analysis_Marsden_Rashford_return_unlikely_if_Barcelona_sign_Gordon_20260527_GLOBAL/dm_260527_COM_SOC_Analysis_Marsden_Rashford_return_unlikely_if_Barcelona_sign_Gordon_20260527_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48892138/rashford-return-unlikely-barcelona-sign-gordon",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "England",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "9ce55653fe66edae7310d185a94f3fd3",
+      "source": "Sky Sports",
+      "headline": "CL final predictions: Arsenal can go from nearly-men to double winners",
+      "description": "Arsenal face Paris Saint-Germain in the Champions League final and by ending their wait for the Premier League title, the Gunners have removed the fear, tension and doubt that has haunted previous campaigns, writes betting guru Lewis Jones. He has three tips for the big one.....",
+      "publishedAt": "2026-05-27T16:40:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-champions-league_7259322.jpg?20260527074941",
+      "link": "https://www.skysports.com/football/news/12040/13548219/champions-league-final-predictions-and-best-bets-arsenal-to-go-from-nearly-men-to-double-winners-by-beating-psg",
+      "tag": "Article/Blog",
       "teams": []
     },
     {
@@ -109,42 +150,6 @@
       "publishedAt": "2026-05-27T11:00:00.000Z",
       "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ederson-atalanta_7257057.jpg?20260524130218",
       "link": "https://www.skysports.com/football/news/12040/13547526/manchester-united-transfer-news-ederson-close-to-agreeing-move-from-atalanta",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48888679,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Juventus turn to Liverpool's Salah",
-      "description": "Juventus are interested in signing Liverpool winger Mohamed Salah on a free transfer. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-27T10:41:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0524/r1662930_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48888679/transfer-rumors-news-juventus-move-salah-liverpool-exit",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "60afcece8655cadb942fbcd2d9ae1548",
-      "source": "Sky Sports",
-      "headline": "Cost of Amorim sacking revealed as Man Utd finances announced",
-      "description": "Man Utd's latest financial results show the club are on a positive track, despite having to pay out £16.7m to sacked Ruben Amorim and his coaching staff.",
-      "publishedAt": "2026-05-27T10:09:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7259390.jpg?20260527101149",
-      "link": "https://www.skysports.com/football/news/12040/13548413/man-utd-financial-report-reveals-16-7m-payout-to-sacked-ruben-amorim-but-reflects-positive-progress",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "88aee19c77f19eb80b2cf58da0ab32e6",
-      "source": "Sky Sports",
-      "headline": "Barcelona make offer to sign Gordon as talks advance",
-      "description": "Barcelona have made an offer in the region of £70m for Anthony Gordon.",
-      "publishedAt": "2026-05-27T10:00:00.000Z",
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-anthony-gordon-newcastle_7126089.jpg?20260527141654",
-      "link": "https://www.skysports.com/football/news/12040/13547826/anthony-gordon-transfer-news-barcelona-join-bayern-munich-in-race-to-sign-newcastle-winger",
       "tag": "News Story",
       "teams": []
     },
@@ -499,25 +504,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 48872024,
-      "source": "ESPN",
-      "headline": "Ian Darke's Premier League best XI and most disappointing team of the season",
-      "description": "The Premier League season delivered plenty of memorable moments, but who were the best players of the campaign and who will want to forget all about it?",
-      "publishedAt": "2026-05-25T15:23:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663449_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48872024/ian-darke-premier-league-best-xi-most-disappointing-team-season",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-27T16:11:19.567Z"
+    "cachedAt": "2026-05-27T20:28:47.255Z"
   }
 }
