@@ -2,6 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48894909,
+      "source": "ESPN",
+      "headline": "How do Man City move forward after Pep Guardiola?",
+      "description": "Alejandro Moreno discusses the impact Pep Guardiola's absence could have on Manchester City's recruitment.",
+      "publishedAt": "2026-05-27T22:49:41Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0527/dm_260527_COM_SOC_ANALYSIS_How_do_Man_City_move_forward_after_Pep_Guardiola_2026_5_27/dm_260527_COM_SOC_ANALYSIS_How_do_Man_City_move_forward_after_Pep_Guardiola_2026_5_27.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48894909/how-do-man-city-move-forward-pep-guardiola",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48894841,
+      "source": "ESPN",
+      "headline": "Is Anthony Gordon good enough for Barcelona?",
+      "description": "Nedum Onuoha questions the reported €70 million fee for Newcastle winger Anthony Gordon as he edges closer to a move to Barcelona.",
+      "publishedAt": "2026-05-27T22:48:07Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0527/dm_260527_COM_SOC_ANALAYSIS_Is_Anthony_Gordon_good_enough_for_Barcelona_2026_5_27/dm_260527_COM_SOC_ANALAYSIS_Is_Anthony_Gordon_good_enough_for_Barcelona_2026_5_27.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48894841/is-anthony-gordon-good-enough-barcelona",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "2b8e92e2f5a9a848e573d6cdc2564c98",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd concede defeat to Man City in race for Anderson",
+      "description": "The top stories and transfer rumours from Thursday's newspapers...",
+      "publishedAt": "2026-05-27T21:50:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13548522/x-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "5c028110594e8372c26acc561804c6e2",
+      "source": "Sky Sports",
+      "headline": "Palace beat Rayo to win Conference League and give Glasner perfect farewell",
+      "description": "Crystal Palace defeated Rayo Vallecano 1-0 in the UEFA Conference League final in Leipzig with Jean-Philippe Mateta scoring the winner to give Oliver Glasner the perfect farewell.",
+      "publishedAt": "2026-05-27T20:57:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-crystal-palace-rayo-vallecano_7259882.jpg?20260527222635",
+      "link": "https://www.skysports.com/football/crystal-palace-vs-rayo-vallecano/report/554966",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 48888679,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United, Tottenham explore move for Baleba",
@@ -69,17 +118,6 @@
       ]
     },
     {
-      "id": "e8f14371a1acd9973c922c23ab1aed41",
-      "source": "Sky Sports",
-      "headline": "Littler's chat with Prince William revealed and determination to reclaim PL title!",
-      "description": "Luke Littler says he wants to reclaim the Premier League trophy, whilst also revealing his more about his talks with fan Prince William.",
-      "publishedAt": "2026-05-27T15:21:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-darts-luke-littler_7259647.jpg?20260527162813",
-      "link": "https://www.skysports.com/watch/video/13548494/luke-littler-reveals-chat-with-prince-william-and-determination-to-reclaim-pl-title",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 48891224,
       "source": "ESPN",
       "headline": "Koeman: Arsenal won the Premier League because of corners",
@@ -141,17 +179,6 @@
         "Liverpool",
         "Wrexham"
       ]
-    },
-    {
-      "id": "d4c90f2e7c18a472473af83761c8f952",
-      "source": "Sky Sports",
-      "headline": "Man Utd close to agreeing deal for Atalanta's Ederson",
-      "description": "Manchester United are close to agreeing a deal with Atalanta for Ederson.",
-      "publishedAt": "2026-05-27T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ederson-atalanta_7257057.jpg?20260524130218",
-      "link": "https://www.skysports.com/football/news/12040/13547526/manchester-united-transfer-news-ederson-close-to-agreeing-move-from-atalanta",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48888727,
@@ -478,37 +505,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 48874914,
-      "source": "ESPN",
-      "headline": "Erling Haaland: Man City can still 'win everything' without Pep Guardiola",
-      "description": "Erling Haaland has promised Manchester City will keep fighting to \"win everything\" following the end of their \"amazing journey\" with Pep Guardiola.",
-      "publishedAt": "2026-05-25T21:38:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663594_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48874914/erling-haaland-man-city-win-everything-pep-guardiola",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48873907,
-      "source": "ESPN",
-      "headline": "Man United captain Bruno Fernandes responds to Roy Keane: Put 'words in my mouth'",
-      "description": "Manchester United captain Bruno Fernandes has accused Roy Keane of telling a \"lie\" about his pursuit of the Premier League assists record.",
-      "publishedAt": "2026-05-25T18:24:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0412/r1642304_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48873907/man-united-captain-bruno-fernandes-responds-roy-keane-put-words-my-mouth",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-27T20:28:47.255Z"
+    "cachedAt": "2026-05-28T04:37:35.492Z"
   }
 }
