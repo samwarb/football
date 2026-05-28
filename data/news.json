@@ -2,6 +2,113 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "c356dc95489e2321ff8745c67f2cdc41",
+      "source": "Sky Sports",
+      "headline": "Clarke signs new Scotland deal until 2030 World Cup",
+      "description": "Scotland head coach Steve Clarke has agreed a new deal to stay as national team boss until the 2030 World Cup.",
+      "publishedAt": "2026-05-28T10:23:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-steve-clarke-clarke_7253813.jpg?20260520102929",
+      "link": "https://www.skysports.com/football/news/12040/13531616/steve-clarke-scotland-head-coach-signs-new-contract-to-lead-national-side-until-2030-world-cup",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48897775,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona want Álvarez before World Cup, after Gordon deal",
+      "description": "Barcelona are looking to sign Atlético Madrid striker Julián Álvarez before the 2026 World Cup. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-28T10:08:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1651148_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48897775/transfer-rumors-news-barcelona-want-alvarez-world-cup-gordon-deal",
+      "tag": "Atlético Madrid",
+      "teams": [
+        "Atlético Madrid",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 48898174,
+      "source": "ESPN",
+      "headline": "Can Arsenal win Champions League final to give Premier League clean sweep of European trophies?",
+      "description": "First Aston Villa, now Crystal Palace, then Arsenal? The Premier League is one game away from joining an exclusive European club.",
+      "publishedAt": "2026-05-28T09:13:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664746_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48898174/can-arsenal-win-champions-league-final-give-premier-league-clean-sweep-european-trophies-europa-league-conference-league-aston-villa-crystal-palace",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": "5d1cdb966647723f699a97504fcfec69",
+      "source": "Sky Sports",
+      "headline": "Arteta's big Champions League final selection dilemmas",
+      "description": "It's Arsenal's biggest game in two decades - and Mikel Arteta has some decisions to make.",
+      "publishedAt": "2026-05-28T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-champions-league_7259597.jpg?20260527152724",
+      "link": "https://www.skysports.com/football/news/12040/13548482/champions-league-final-who-does-mikel-arteta-pick-in-his-arsenal-starting-xi-to-face-psg-in-budapest",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "316a127ad63d102cf93cdfd894e28c6e",
+      "source": "Sky Sports",
+      "headline": "Gordon set to have Barcelona medical after Newcastle agree deal",
+      "description": "Anthony Gordon will undergo a medical at Barcelona on Thursday after the club agreed a fee with Newcastle to sign the winger.",
+      "publishedAt": "2026-05-28T08:20:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-gordon-anthony-gordon_7259774.jpg?20260527194549",
+      "link": "https://www.skysports.com/football/news/12040/13548532/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-05-28T07:25:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48871136,
+      "source": "ESPN",
+      "headline": "Arsenal parade: When is it, what time and will it take place if they lose the Champions League final?",
+      "description": "Everything you need to know about Arsenal's parade following their Premier League title win.",
+      "publishedAt": "2026-05-28T07:10:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48871136/arsenal-parade-what-take-place-lose-champions-league-final",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48894909,
       "source": "ESPN",
       "headline": "How do Man City move forward after Pep Guardiola?",
@@ -66,17 +173,6 @@
       ]
     },
     {
-      "id": "6d1e0691bdb4d131cada4fd72fb452a5",
-      "source": "Sky Sports",
-      "headline": "Barcelona reach agreement with Newcastle for Gordon over £69m deal",
-      "description": "Barcelona have reached an agreement with Newcastle to sign winger Anthony Gordon.",
-      "publishedAt": "2026-05-27T18:50:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-gordon-anthony-gordon_7259774.jpg?20260527194549",
-      "link": "https://www.skysports.com/football/news/12040/13548532/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48892138,
       "source": "ESPN",
       "headline": "Marsden: Rashford return unlikely if Barcelona sign Gordon",
@@ -90,17 +186,6 @@
         "England",
         "Newcastle United"
       ]
-    },
-    {
-      "id": "9ce55653fe66edae7310d185a94f3fd3",
-      "source": "Sky Sports",
-      "headline": "CL final predictions: Arsenal can go from nearly-men to double winners",
-      "description": "Arsenal face Paris Saint-Germain in the Champions League final and by ending their wait for the Premier League title, the Gunners have removed the fear, tension and doubt that has haunted previous campaigns, writes betting guru Lewis Jones. He has three tips for the big one.....",
-      "publishedAt": "2026-05-27T16:40:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-champions-league_7259322.jpg?20260527074941",
-      "link": "https://www.skysports.com/football/news/12040/13548219/champions-league-final-predictions-and-best-bets-arsenal-to-go-from-nearly-men-to-double-winners-by-beating-psg",
-      "tag": "Article/Blog",
-      "teams": []
     },
     {
       "id": 48888905,
@@ -241,19 +326,6 @@
       ]
     },
     {
-      "id": 48871136,
-      "source": "ESPN",
-      "headline": "Arsenal parade: When is it, what time and will it take place if they lose the Champions League final?",
-      "description": "Everything you need to know about Arsenal's parade following their Premier League title win.",
-      "publishedAt": "2026-05-27T07:07:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48871136/arsenal-parade-what-take-place-lose-champions-league-final",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48842702,
       "source": "ESPN",
       "headline": "The final week of the season - What's still on the line for African players in Europe?",
@@ -278,38 +350,6 @@
       "tag": "Coventry City",
       "teams": [
         "Coventry City"
-      ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-05-26T23:01:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
       ]
     },
     {
@@ -467,20 +507,6 @@
       ]
     },
     {
-      "id": 48875543,
-      "source": "ESPN",
-      "headline": "Nicol: Slot faces total rebuild at Liverpool next season",
-      "description": "Steve Nicol believes Arne Slot needs to \"start from scratch\" at Liverpool after finishing 5th in the Premier League.",
-      "publishedAt": "2026-05-26T09:13:51Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0525/dm_260525_COM_SOC_Analysis_Nicol_Slot_faces_total_rebuild_at_Liverpool_next_season_20260525_GLOBAL/dm_260525_COM_SOC_Analysis_Nicol_Slot_faces_total_rebuild_at_Liverpool_next_season_20260525_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48875543/slot-faces-total-rebuild-liverpool-next-season",
-      "tag": "Brentford",
-      "teams": [
-        "Brentford",
-        "Liverpool"
-      ]
-    },
-    {
       "id": 48872957,
       "source": "ESPN",
       "headline": "Man City host parade as Pep Guardiola bids farewell with domestic cup double",
@@ -492,24 +518,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 48879154,
-      "source": "ESPN",
-      "headline": "Michael Jordan leads tributes to Pep Guardiola as Man City boss bids farewell",
-      "description": "Basketball legend Michael Jordan headlined the cast of stars that paid tribute to Pep Guardiola's achievements at Manchester City in his farewell party.",
-      "publishedAt": "2026-05-26T07:11:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0526/r1663791_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48879154/michael-jordan-leads-tributes-pep-guardiola-man-city-boss-bids-farewell",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-28T04:37:35.492Z"
+    "cachedAt": "2026-05-28T10:33:35.074Z"
   }
 }
