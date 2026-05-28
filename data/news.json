@@ -2,6 +2,30 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "5dbb3665efc2bf0f2722fa9b5ee42c8f",
+      "source": "Sky Sports",
+      "headline": "Republic of Ireland vs Qatar latest score",
+      "description": "",
+      "publishedAt": "2026-05-28T18:40:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-nathan-collins-goal_7260624.jpg?20260528202550",
+      "link": "https://www.skysports.com/football/republic-of-ireland-vs-qatar/553969",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48901784,
+      "source": "ESPN",
+      "headline": "Arsenal keeping Mikel Arteta is 'utmost priority,' Josh Kroenke says",
+      "description": "Arsenal co-owner Josh Kroenke has said tying Mikel Arteta down to a new contract is an \"utmost priority\" ahead of the club's Champions League final against Paris Saint-Germain.",
+      "publishedAt": "2026-05-28T18:11:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664916_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48901784/arsenal-mikel-arteta-manager-josh-kroenke-contract",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48899831,
       "source": "ESPN",
       "headline": "How Kroenkes ended Arsenal 'banter era' to win Premier League title",
@@ -15,10 +39,10 @@
       ]
     },
     {
-      "id": "d99a98b3bf82eb9f8fa05bd7a719f251",
+      "id": "1c0eca81117ef0e8c25f7304ceea14ee",
       "source": "Sky Sports",
       "headline": "Arsenal owners planning new contract for Arteta",
-      "description": "Arsenal's Kroenke family owners have confirmed plans to offer manager Mikel Arteta a new contract as an \"utmost priority\".",
+      "description": "Arsenal's owners the Kroenke family have confirmed plans to offer manager Mikel Arteta a new contract as an \"utmost priority\".",
       "publishedAt": "2026-05-28T16:00:00.000Z",
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-arsenal_7259386.jpg?20260527100137",
       "link": "https://www.skysports.com/football/news/12040/13548735/mikel-arteta-new-contract-arsenal-owners-optimistic-of-tying-manager-to-new-deal-after-premier-league-win",
@@ -78,28 +102,6 @@
       ]
     },
     {
-      "id": "715d5a378aa465f683bfaf7c29f1b0bf",
-      "source": "Sky Sports",
-      "headline": "Why have Barca prioritised Gordon over Rashford?",
-      "description": "Anthony Gordon's imminent move from Newcastle to Barcelona has raised more questions than answers.",
-      "publishedAt": "2026-05-28T11:45:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-football-gordon_7259832.jpg?20260527212617",
-      "link": "https://www.skysports.com/football/news/12040/13548655/anthony-gordon-to-barcelona-why-forward-is-in-such-high-demand-after-scoring-just-six-premier-league-goals-last-season",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e3e8e645447ee85e365d918ec9cc1a61",
-      "source": "Sky Sports",
-      "headline": "EXCLUSIVE! Gordon boards flight ahead of £69.3m Barcelona move!",
-      "description": "Watch Sky Sports News exclusive footage of Anthony Gordon departing from Newcastle to complete his medical at Barcelona, alongside his representative Adam Dugdale.",
-      "publishedAt": "2026-05-28T11:25:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-gordon-barca_7260218.jpg?20260528122641",
-      "link": "https://www.skysports.com/watch/video/13548706/exclusive-anthony-gordon-boards-flight-to-barcelona-to-complete-medical",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 48898768,
       "source": "ESPN",
       "headline": "Arsenal had the right 'type of player' for Premier League glory - Mikel Arteta",
@@ -121,28 +123,6 @@
       "image": "https://a.espncdn.com/photo/2026/0528/r1664768_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48898521/premier-league-joint-record-nine-teams-europe-next-season",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "0f2ed30bcca9d09e950f8bd44de959a5",
-      "source": "Sky Sports",
-      "headline": "Rashford could still rejoin Barca despite Gordon pursuit but Alvarez a factor",
-      "description": "Barcelona remain interested in another deal for Marcus Rashford regardless of the imminent signing of Anthony Gordon - but the Spanish club are targeting Julian Alvarez next.",
-      "publishedAt": "2026-05-28T10:10:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-marcus-rashford-anthony-gordon_7260182.jpg?20260528115101",
-      "link": "https://www.skysports.com/football/news/12040/13548681/manchester-united-transfer-news-marcus-rashford-could-still-re-join-barcelona-despite-anthony-gordon-deal-but-julian-alvarez-a-factor",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "5d1cdb966647723f699a97504fcfec69",
-      "source": "Sky Sports",
-      "headline": "Arteta's big Champions League final selection dilemmas",
-      "description": "It's Arsenal's biggest game in two decades - and Mikel Arteta has some decisions to make.",
-      "publishedAt": "2026-05-28T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-champions-league_7259597.jpg?20260527152724",
-      "link": "https://www.skysports.com/football/news/12040/13548482/champions-league-final-who-does-mikel-arteta-pick-in-his-arsenal-starting-xi-to-face-psg-in-budapest",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -481,19 +461,6 @@
       ]
     },
     {
-      "id": 48876175,
-      "source": "ESPN",
-      "headline": "Arsenal Keep or Dump: Find Ødegaard replacement? Move Gyökeres and Havertz?",
-      "description": "Arsenal have some big decisions ahead that will affect their finances and their squad. Gab Marcotti and Mark Ogden break it down.",
-      "publishedAt": "2026-05-26T17:25:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0514/260518_soc_trades_arsenal_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48876175/arsenal-keep-dump-martin-odegaard-viktor-gyokeres-kai-havertz-gab-marcotti-mark-ogden",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48881982,
       "source": "ESPN",
       "headline": "Pep Guardiola assistants Pep Lijnders, Kolo Toure leave Man City",
@@ -510,6 +477,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-28T16:32:27.209Z"
+    "cachedAt": "2026-05-28T20:36:24.646Z"
   }
 }
