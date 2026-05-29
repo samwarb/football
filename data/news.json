@@ -2,13 +2,35 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "5dbb3665efc2bf0f2722fa9b5ee42c8f",
+      "id": "d877ce42087c154330731252f32b2d65",
       "source": "Sky Sports",
-      "headline": "Republic of Ireland vs Qatar latest score",
-      "description": "",
-      "publishedAt": "2026-05-28T18:40:00.000Z",
+      "headline": "Papers: Barcelona weighing up approach for Arsenal defender",
+      "description": "The top stories and transfer rumours from Friday's newspapers...",
+      "publishedAt": "2026-05-28T21:58:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13548854/arsenal-transfer-news-barcelona-weigh-up-approach-for-defender-piero-hincapie-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "e8e6440f795bb779667e55f532de251a",
+      "source": "Sky Sports",
+      "headline": "Republic of Ireland edge past Qatar in friendly as both sides end with 10",
+      "description": "Captain Nathan Collins headed the Republic of Ireland to a 1-0 friendly victory over World Cup-bound Qatar as both sides were reduced to 10 men.",
+      "publishedAt": "2026-05-28T21:00:00.000Z",
       "image": "https://e2.365dm.com/26/05/1920x1080/skysports-nathan-collins-goal_7260624.jpg?20260528202550",
-      "link": "https://www.skysports.com/football/republic-of-ireland-vs-qatar/553969",
+      "link": "https://www.skysports.com/football/republic-of-ireland-vs-qatar/report/553969",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "bcc31ea28096e4bb447d11db3a082ef8",
+      "source": "Sky Sports",
+      "headline": "Konate set to leave Liverpool on free transfer",
+      "description": "Ibrahima Konate is set to leave Liverpool after five years at Anfield.",
+      "publishedAt": "2026-05-28T20:57:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-ibrahima-konate-liverpool_7260704.jpg?20260528220812",
+      "link": "https://www.skysports.com/football/news/12040/13548896/liverpool-transfer-news-ibrahima-konate",
       "tag": "News Story",
       "teams": []
     },
@@ -37,17 +59,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "1c0eca81117ef0e8c25f7304ceea14ee",
-      "source": "Sky Sports",
-      "headline": "Arsenal owners planning new contract for Arteta",
-      "description": "Arsenal's owners the Kroenke family have confirmed plans to offer manager Mikel Arteta a new contract as an \"utmost priority\".",
-      "publishedAt": "2026-05-28T16:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-arsenal_7259386.jpg?20260527100137",
-      "link": "https://www.skysports.com/football/news/12040/13548735/mikel-arteta-new-contract-arsenal-owners-optimistic-of-tying-manager-to-new-deal-after-premier-league-win",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": "8ce36eb7f6cec2a5080c5b0e8b93407a",
@@ -86,19 +97,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 48897775,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United tracking Botafogo's Danilo",
-      "description": "Man United could land another Brazilian midfielder as they are tracking Botafogo's Danilo alongside AC Milan. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-28T12:13:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664770_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48897775/transfer-rumors-news-man-united-tracking-botafogo-danilo",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
       ]
     },
     {
@@ -461,6 +459,19 @@
       ]
     },
     {
+      "id": 48876175,
+      "source": "ESPN",
+      "headline": "Arsenal Keep or Dump: Find Ødegaard replacement? Move Gyökeres and Havertz?",
+      "description": "Arsenal have some big decisions ahead that will affect their finances and their squad. Gab Marcotti and Mark Ogden break it down.",
+      "publishedAt": "2026-05-26T17:25:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0514/260518_soc_trades_arsenal_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48876175/arsenal-keep-dump-martin-odegaard-viktor-gyokeres-kai-havertz-gab-marcotti-mark-ogden",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48881982,
       "source": "ESPN",
       "headline": "Pep Guardiola assistants Pep Lijnders, Kolo Toure leave Man City",
@@ -477,6 +488,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-28T20:36:24.646Z"
+    "cachedAt": "2026-05-29T04:40:37.444Z"
   }
 }
