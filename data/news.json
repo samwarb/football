@@ -2,18 +2,56 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48904926,
+      "source": "ESPN",
+      "headline": "Barcelona sign Anthony Gordon from Newcastle in €70m transfer",
+      "description": "Barcelona have announced the signing of England forward Anthony Gordon from Newcastle United on a five-year contract.",
+      "publishedAt": "2026-05-29T20:06:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0529/r1665499_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48904926/barcelona-anthony-gordon-newcastle-united-transfer",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Newcastle United",
+        "England"
+      ]
+    },
+    {
       "id": 48910353,
       "source": "ESPN",
       "headline": "Ousmane Dembélé declares himself fit for Champions League final",
       "description": "Ousmane Dembélé has declared himself fit for Paris Saint-Germain's Champions League final Arsenal on Saturday and said that winning last year's Ballon d'Or cannot compare to winning major honours with the Ligue 1 champions.",
-      "publishedAt": "2026-05-29T15:10:54Z",
+      "publishedAt": "2026-05-29T19:08:50Z",
       "image": "https://a.espncdn.com/photo/2026/0430/r1651545_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48910353/ousmane-dembele-declares-fit-champions-league-final-psg-arsenal",
       "tag": "Paris Saint-Germain",
       "teams": [
         "Paris Saint-Germain",
-        "Arsenal"
+        "Arsenal",
+        "France"
       ]
+    },
+    {
+      "id": "fd673362193124ea5a5231767adad7f3",
+      "source": "Sky Sports",
+      "headline": "Atletico accuse Barcelona of 'smear campaign' over Alvarez deal",
+      "description": "Atletico Madrid have accused Barcelona of running a \"smear campaign\" and \"fake news\" over their attempts to sign Julian Alvarez.",
+      "publishedAt": "2026-05-29T19:06:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-julian-alvarez-atletico-madrid_7261294.jpg?20260529191506",
+      "link": "https://www.skysports.com/football/news/12040/13549155/atletico-madrid-accuse-barcelona-of-smear-campaign-over-potential-bid-for-julian-alvarez-this-summer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "1a2c14de9afdbf8bc8e6b61022b481ae",
+      "source": "Sky Sports",
+      "headline": "Coventry latest: Thomas and Torp sign new contracts",
+      "description": "",
+      "publishedAt": "2026-05-29T16:26:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-club-rumours_7242342.jpg?20260508093716",
+      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": "c60cdb4eb42f1a989eb36ab77be21321",
@@ -97,39 +135,6 @@
       ]
     },
     {
-      "id": "112926be97bd5e3cf27b175e213bb2d0",
-      "source": "Sky Sports",
-      "headline": "Coventry latest: Torp signs new contract",
-      "description": "",
-      "publishedAt": "2026-05-29T13:15:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-club-rumours_7242342.jpg?20260508093716",
-      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "d8f178df6d1b84d4791292e6baf285e9",
-      "source": "Sky Sports",
-      "headline": "Konate's Liverpool exit an unwanted complication ahead of crucial window",
-      "description": "Liverpool went to great lengths to keep Ibrahima Konate, but for a second summer running they face losing a first-team defender in their prime years with their contract running down.",
-      "publishedAt": "2026-05-29T13:15:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ibrahima-konate-liverpool_7261097.jpg?20260529143442",
-      "link": "https://www.skysports.com/football/news/12040/13548995/ibrahima-konates-liverpool-exit-summer-transfer-window-becomes-more-complicated-for-arne-slot",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "ce39de9f867398bd4a1508126cd9068c",
-      "source": "Sky Sports",
-      "headline": "Wolves agree deal to sign Trippier",
-      "description": "Wolves have agreed a deal to sign former Newcastle defender Kieran Trippier.",
-      "publishedAt": "2026-05-29T12:30:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-kieran-trippier-newcastle_7261056.jpg?20260529132750",
-      "link": "https://www.skysports.com/football/news/12040/13549042/kieran-trippier-wolves-agree-deal-to-sign-former-newcastle-defender",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48907583,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Barcelona to beat Arsenal to Hincapié?",
@@ -167,6 +172,17 @@
       "teams": [
         "Liverpool"
       ]
+    },
+    {
+      "id": "d9fd91e924f286d79571937ab63e264e",
+      "source": "Sky Sports",
+      "headline": "Arsenal ready to take their shot at immortality",
+      "description": "Arsenal face Paris Saint-Germain in Saturday's Champions League final still riding high from their domestic success. Their title win was their first in 22 years but their 14th in top-flight history. Only Liverpool and Manchester United have won more.",
+      "publishedAt": "2026-05-29T09:34:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-psg_7260026.png?20260528082741",
+      "link": "https://www.skysports.com/football/news/12040/13549001/arsenal-ready-to-take-shot-at-immortality-in-champions-league-final-against-psg-but-which-side-has-the-edge",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48907979,
@@ -332,6 +348,17 @@
       ]
     },
     {
+      "id": "98dcc47b419af8e743facdad41ebf46a",
+      "source": "Sky Sports",
+      "headline": "Gordon completes blockbuster Barcelona move",
+      "description": "Barcelona have completed the signing of Anthony Gordon from Newcastle.",
+      "publishedAt": "2026-05-27T20:54:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-anthony-gordon-barcelona_7261099.png?20260529143620",
+      "link": "https://www.skysports.com/football/news/12040/13548577/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48888679,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United, Tottenham explore move for Baleba",
@@ -423,23 +450,6 @@
       ]
     },
     {
-      "id": 48884240,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 predictions: Arsenal, Chelsea, Liverpool, more",
-      "description": "With Arsenal crowned Premier League champions in 2025-26, it's time to spin it forward: Will the Gunners add flair again? Can Chelsea contend? Will Arne Slot survive at Liverpool? Our writers make their predictions.",
-      "publishedAt": "2026-05-27T12:34:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0526/r1664094_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48884240/premier-league-2026-27-predictions-arsenal-chelsea-liverpool-manchester-city",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester City",
-        "Liverpool",
-        "Wrexham"
-      ]
-    },
-    {
       "id": 48888727,
       "source": "ESPN",
       "headline": "Ranking all 78 African players in the Premier League this season, from meh to magnificent",
@@ -485,6 +495,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-29T16:07:20.645Z"
+    "cachedAt": "2026-05-29T20:37:01.442Z"
   }
 }
