@@ -2,6 +2,17 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "4997ebf02fb1681bbf0ea4e209b94247",
+      "source": "Sky Sports",
+      "headline": "Walcott: Arteta is going to continue to dominate",
+      "description": "“I think he is just going to continue to dominate. I do,” says Theo Walcott. He is talking about Mikel Arteta and his Arsenal team. It is just days since the Gunners ended their wait for a trophy. Now, there is a sense that they are on the cusp of something greater.",
+      "publishedAt": "2026-05-30T07:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-mikel-arteta-arsenal_7258629.jpg?20260526085536",
+      "link": "https://www.skysports.com/football/news/12040/13549182/mikel-artetas-arsenal-are-going-to-win-the-champions-league-final-against-psg-and-go-on-to-dominate-says-theo-walcott",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48904926,
       "source": "ESPN",
       "headline": "Barcelona sign Anthony Gordon from Newcastle in €70m transfer",
@@ -30,17 +41,6 @@
       ]
     },
     {
-      "id": "01f63f865e8421a3e10a632c039ad4a8",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd have £250m to spend - but Leao to turn down summer PL move",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-05-29T22:17:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13549123/x-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48910353,
       "source": "ESPN",
       "headline": "Ousmane Dembélé declares himself fit for Champions League final",
@@ -56,25 +56,14 @@
       ]
     },
     {
-      "id": "fd673362193124ea5a5231767adad7f3",
+      "id": "85fe56cc67d5adbdeb953d169ab656a2",
       "source": "Sky Sports",
-      "headline": "Atletico accuse Barcelona of 'smear campaign' over Alvarez deal",
-      "description": "Atletico Madrid have accused Barcelona of running a \"smear campaign\" and \"fake news\" over their attempts to sign Julian Alvarez.",
-      "publishedAt": "2026-05-29T19:06:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-julian-alvarez-atletico-madrid_7261294.jpg?20260529191506",
-      "link": "https://www.skysports.com/football/news/12040/13549155/atletico-madrid-accuse-barcelona-of-smear-campaign-over-potential-bid-for-julian-alvarez-this-summer",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "c60cdb4eb42f1a989eb36ab77be21321",
-      "source": "Sky Sports",
-      "headline": "Clarke to lead 'evolution' instead of 'revolution' after signing new deal",
-      "description": "Scotland head coach Steve Clarke has vowed to lead \"evolution\" instead of \"revolution\" after signing a new four-year contract extension until the World Cup in 2030.",
-      "publishedAt": "2026-05-29T14:49:00.000Z",
-      "image": "https://e1.365dm.com/25/11/1920x1080/skysports-steve-clarke-scotland_7086721.jpg?20251120121159",
-      "link": "https://www.skysports.com/football/news/12040/13548898/steve-clarke-scotland-head-coach-will-lead-natural-evolution-over-revolution-after-signing-new-contract",
-      "tag": "News Story",
+      "headline": "Arsenal latest: Timber pictured as Gunners train in high spirits before final",
+      "description": "",
+      "publishedAt": "2026-05-29T16:00:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -322,17 +311,6 @@
       ]
     },
     {
-      "id": "98dcc47b419af8e743facdad41ebf46a",
-      "source": "Sky Sports",
-      "headline": "Gordon completes blockbuster Barcelona move",
-      "description": "Barcelona have completed the signing of Anthony Gordon from Newcastle.",
-      "publishedAt": "2026-05-27T20:54:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-anthony-gordon-barcelona_7261099.png?20260529143620",
-      "link": "https://www.skysports.com/football/news/12040/13548577/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48888679,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United, Tottenham explore move for Baleba",
@@ -481,11 +459,22 @@
         "Crystal Palace",
         "Rayo Vallecano"
       ]
+    },
+    {
+      "id": "d25cee4c307c5db041f24834b2dff13f",
+      "source": "Sky Sports",
+      "headline": "PSG vs Arsenal build-up: Dembele declares himself '100 per cent' fit for final",
+      "description": "",
+      "publishedAt": "2026-05-26T15:29:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-champions-league_7257928.jpg?20260525093031",
+      "link": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-30T04:16:00.403Z"
+    "cachedAt": "2026-05-30T08:39:43.126Z"
   }
 }
