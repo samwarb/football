@@ -2,23 +2,12 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "0dc7dad8cd49ea5afd7e268c0266f968",
-      "source": "Sky Sports",
-      "headline": "Slot sacked with Iraola frontrunner for Liverpool job",
-      "description": "Arne Slot has been sacked as head coach of Liverpool.",
-      "publishedAt": "2026-05-30T13:30:00.000Z",
-      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-arne-slot-liverpool_7146722.jpg?20260126210126",
-      "link": "https://www.skysports.com/football/news/12040/13476707/arne-slot-liverpool-head-coach-sacked-a-year-after-premier-league-title-win-following-fifth-place-finish-this-season",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48903823,
       "source": "ESPN",
       "headline": "UEFA Champions League final live updates: Paris Saint-Germain vs. Arsenal",
-      "description": "Who will win the UEFA Champions League? Enjoy all of Saturday's updates for the final between Paris Saint-Germain and Arsenal in Budapest.",
-      "publishedAt": "2026-05-30T13:10:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0530/r1665671_1296x729_16-9.jpg",
+      "description": "Paris Saint-Germain have won the UEFA Champions League for a second straight season, defeating Arsenal on penalties. Here's how it happened.",
+      "publishedAt": "2026-05-30T19:15:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0530/r1665851_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48903823/uefa-champions-league-final-live-updates-paris-saint-germain-vs-arsenal",
       "tag": "Paris Saint-Germain",
       "teams": [
@@ -27,11 +16,33 @@
       ]
     },
     {
+      "id": "692ea0aa14862e2af98bf91a7b148385",
+      "source": "Sky Sports",
+      "headline": "Scotland injury blow as Gilmour ruled out of World Cup",
+      "description": "Scotland midfielder Billy Gilmour has been ruled out of the World Cup after suffering a knee injury in the win over Curacao.",
+      "publishedAt": "2026-05-30T19:14:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-billy-gilmour-scotland_7261764.jpg?20260530163950",
+      "link": "https://www.skysports.com/football/news/12040/13549373/billy-gilmour-scotland-midfielder-ruled-out-of-world-cup-with-knee-injury",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "ea59bda4bbbbc717ca9a9a08b6fc682d",
+      "source": "Sky Sports",
+      "headline": "Arsenal suffer penalty heartbreak as PSG win Champions League final",
+      "description": "Arsenal suffered heartbreak in the Champions League final in Budapest as they were beaten 4-3 on penalties by PSG after a tense 1-1 draw in 120 minutes.",
+      "publishedAt": "2026-05-30T19:05:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-psg-arsenal_7261889.jpg?20260530200634",
+      "link": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 48918737,
       "source": "ESPN",
-      "headline": "Andoni Iraola the frontrunner to succeed Slot as Liverpool boss",
+      "headline": "Andoni Iraola the frontrunner to succeed Slot as Liverpool boss - sources",
       "description": "Andoni Iraola is the leading candidate to succeed Arne Slot as Liverpool head coach, sources have told ESPN.",
-      "publishedAt": "2026-05-30T12:31:28Z",
+      "publishedAt": "2026-05-30T18:29:36Z",
       "image": "https://a.espncdn.com/photo/2026/0414/r1643329_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48918737/andoni-iraola-frontrunner-succeed-slot-liverpool-boss",
       "tag": "Liverpool",
@@ -41,17 +52,55 @@
       ]
     },
     {
+      "id": 48919598,
+      "source": "ESPN",
+      "headline": "Slot leaves Liverpool after tough season, but with legacy safe",
+      "description": "Arne Slot's tenure at Liverpool felt untenable until, on Saturday, he was finally dismissed as manager. While it didn't end well, he should be remembered warmly for his work succeeding a club legend in Jurgen Klopp.",
+      "publishedAt": "2026-05-30T18:23:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0530/r1665767_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48919598/liverpool-arne-slot-dismissed-manager-jurgen-klopp-andoni-iraola-analysis-beth-lindop",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": 48918413,
       "source": "ESPN",
-      "headline": "Arne Slot leaves Liverpool with immediate effect",
+      "headline": "Liverpool sack Arne Slot 1 year after Premier League title",
       "description": "Liverpool have confirmed that head coach Arne Slot will leave the club with immediate effect.",
-      "publishedAt": "2026-05-30T12:21:47Z",
+      "publishedAt": "2026-05-30T18:15:30Z",
       "image": "https://a.espncdn.com/photo/2026/0402/r1637547_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48918413/arne-slot-leaves-liverpool-immediate-effect",
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
       ]
+    },
+    {
+      "id": 48919660,
+      "source": "ESPN",
+      "headline": "Steven Gerrard on Andoni Iraola: 'His style would suit Liverpool'",
+      "description": "Steven Gerrard has said Andoni Iraola's management style would be an ideal fit for Liverpool but that other managers will also be in contention after the club sacked Arne Slot.",
+      "publishedAt": "2026-05-30T16:11:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0530/r1665740_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48919660/steven-gerrard-andoni-iraola-style-suit-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "AFC Bournemouth"
+      ]
+    },
+    {
+      "id": 48898521,
+      "source": "ESPN",
+      "headline": "Why will Premier League have joint-record nine teams in Europe next season?",
+      "description": "Crystal Palace's Conference League win saw them become the ninth Premier League team to qualify for Europe.",
+      "publishedAt": "2026-05-30T14:48:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664768_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48898521/premier-league-joint-record-nine-teams-europe-next-season",
+      "tag": "Story",
+      "teams": []
     },
     {
       "id": 48709856,
@@ -111,17 +160,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "e872f1dd9ca3efcb22c1ffd730a1b012",
-      "source": "Sky Sports",
-      "headline": "Sterling arrested on suspicion of drug driving",
-      "description": "Former England international Raheem Sterling has been arrested on suspicion of drug driving, according to Sky News .",
-      "publishedAt": "2026-05-30T09:36:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-raheem-sterling-feyenoord_7261497.jpg?20260530104513",
-      "link": "https://www.skysports.com/football/news/12040/13549234/raheem-sterling-former-england-international-arrested-on-suspicion-of-drug-driving-sky-news-understands",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48917673,
@@ -193,28 +231,6 @@
         "Arsenal",
         "France"
       ]
-    },
-    {
-      "id": "af52f62102fd16ed1d7eb536593a0fcc",
-      "source": "Sky Sports",
-      "headline": "Shankland double puts Scotland in control against 10-player Curacao LIVE!",
-      "description": "",
-      "publishedAt": "2026-05-29T18:45:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-shankland-scotland_7261641.jpg?20260530143948",
-      "link": "https://www.skysports.com/football/scotland-vs-curacao/live/552902",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 48898521,
-      "source": "ESPN",
-      "headline": "Why will Premier League have joint-record nine teams in Europe next season?",
-      "description": "Crystal Palace's Conference League win saw them become the ninth Premier League team to qualify for Europe.",
-      "publishedAt": "2026-05-29T14:36:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664768_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48898521/premier-league-joint-record-nine-teams-europe-next-season",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 48909873,
@@ -433,49 +449,11 @@
         "England",
         "Newcastle United"
       ]
-    },
-    {
-      "id": 48891224,
-      "source": "ESPN",
-      "headline": "Koeman: Arsenal won the Premier League because of corners",
-      "description": "Ronald Koeman believes England will rely on set pieces at the 2026 FIFA World Cup.",
-      "publishedAt": "2026-05-27T14:43:40Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0527/dm_260527_COM_SOC_Presser_Koeman_Arsenal_won_the_Premier_League_because_of_corners_20260526_GLOBAL/dm_260527_COM_SOC_Presser_Koeman_Arsenal_won_the_Premier_League_because_of_corners_20260526_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48891224/arsenal-won-premier-league-corners",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Netherlands"
-      ]
-    },
-    {
-      "id": 48889982,
-      "source": "ESPN",
-      "headline": "Tottenham hierarchy pledge to completely reset club and \"recapture\" its spirit",
-      "description": "The hierarchy at Tottenham Hotspur have acknowledged that the past season -- in which the north London club narrowly avoided relegation -- was a disaster and have promised to rebuild their relationship with supporters.",
-      "publishedAt": "2026-05-27T12:37:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0527/r1664347_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48889982/tottenham-hierarchy-pledge-complete-reset-club",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "71c7907a0cfe4de250ab7f0cc9f56568",
-      "source": "Sky Sports",
-      "headline": "World Sevens tournament continues live on Sky Sports",
-      "description": "The World Sevens Football tournament begins on Thursday, live on Sky Sports , with eight WSL and WSL2 teams taking part. From the teams to the fixture schedule and format, here's all you need to know...",
-      "publishedAt": "2026-05-25T13:20:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-womens-football-world-sevens_7258182.jpg?20260525135707",
-      "link": "https://www.skysports.com/football/news/12040/13547830/world-sevens-football-fixtures-schedule-teams-and-how-to-watch-live-on-sky-sports",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-30T14:03:31.105Z"
+    "cachedAt": "2026-05-30T19:40:09.321Z"
   }
 }
