@@ -6,7 +6,7 @@
       "source": "ESPN",
       "headline": "Barcelona sign Anthony Gordon from Newcastle in €70m transfer",
       "description": "Barcelona have announced the signing of England forward Anthony Gordon from Newcastle United on a five-year contract.",
-      "publishedAt": "2026-05-29T20:06:36Z",
+      "publishedAt": "2026-05-29T23:11:16Z",
       "image": "https://a.espncdn.com/photo/2026/0529/r1665499_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48904926/barcelona-anthony-gordon-newcastle-united-transfer",
       "tag": "Barcelona",
@@ -15,6 +15,30 @@
         "Newcastle United",
         "England"
       ]
+    },
+    {
+      "id": 48908272,
+      "source": "ESPN",
+      "headline": "Ibrahima Konaté set to leave Liverpool for free - sources",
+      "description": "Ibrahima Konaté is set to leave Liverpool on a free transfer this summer, sources have told ESPN.",
+      "publishedAt": "2026-05-29T22:48:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0529/r1665258_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48908272/ibrahima-konate-set-leave-liverpool-free-sources",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "01f63f865e8421a3e10a632c039ad4a8",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd have £250m to spend - but Leao to turn down summer PL move",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-05-29T22:17:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13549123/x-paper-talk",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48910353,
@@ -40,17 +64,6 @@
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-julian-alvarez-atletico-madrid_7261294.jpg?20260529191506",
       "link": "https://www.skysports.com/football/news/12040/13549155/atletico-madrid-accuse-barcelona-of-smear-campaign-over-potential-bid-for-julian-alvarez-this-summer",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "1a2c14de9afdbf8bc8e6b61022b481ae",
-      "source": "Sky Sports",
-      "headline": "Coventry latest: Thomas and Torp sign new contracts",
-      "description": "",
-      "publishedAt": "2026-05-29T16:26:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-club-rumours_7242342.jpg?20260508093716",
-      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -135,21 +148,6 @@
       ]
     },
     {
-      "id": 48907583,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona to beat Arsenal to Hincapié?",
-      "description": "Barcelona are considering a move for Bayer Leverkusen's Piero Hincapié this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-29T12:25:52Z",
-      "image": "https://a.espncdn.com/photo/2025/1203/r1584381_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48907583/transfer-rumors-news-barcelona-beat-arsenal-hincapie",
-      "tag": "Bayer Leverkusen",
-      "teams": [
-        "Bayer Leverkusen",
-        "Barcelona",
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48908617,
       "source": "ESPN",
       "headline": "Fewer than one in five Premier League fans want VAR scrapped, survey finds",
@@ -158,30 +156,6 @@
       "image": "https://a.espncdn.com/photo/2026/0529/r1665283_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48908617/fewer-one-five-premier-league-fans-want-var-scrapped",
       "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 48908272,
-      "source": "ESPN",
-      "headline": "Ibrahima Konaté set to leave Liverpool for free - sources",
-      "description": "Ibrahima Konaté is set to leave Liverpool on a free transfer this summer, sources have told ESPN.",
-      "publishedAt": "2026-05-29T09:45:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0529/r1665258_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48908272/ibrahima-konate-set-leave-liverpool-free-sources",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d9fd91e924f286d79571937ab63e264e",
-      "source": "Sky Sports",
-      "headline": "Arsenal ready to take their shot at immortality",
-      "description": "Arsenal face Paris Saint-Germain in Saturday's Champions League final still riding high from their domestic success. Their title win was their first in 22 years but their 14th in top-flight history. Only Liverpool and Manchester United have won more.",
-      "publishedAt": "2026-05-29T09:34:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-psg_7260026.png?20260528082741",
-      "link": "https://www.skysports.com/football/news/12040/13549001/arsenal-ready-to-take-shot-at-immortality-in-champions-league-final-against-psg-but-which-side-has-the-edge",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -450,6 +424,23 @@
       ]
     },
     {
+      "id": 48884240,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 predictions: Arsenal, Chelsea, Liverpool, more",
+      "description": "With Arsenal crowned Premier League champions in 2025-26, it's time to spin it forward: Will the Gunners add flair again? Can Chelsea contend? Will Arne Slot survive at Liverpool? Our writers make their predictions.",
+      "publishedAt": "2026-05-27T12:34:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0526/r1664094_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48884240/premier-league-2026-27-predictions-arsenal-chelsea-liverpool-manchester-city",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester City",
+        "Liverpool",
+        "Wrexham"
+      ]
+    },
+    {
       "id": 48888727,
       "source": "ESPN",
       "headline": "Ranking all 78 African players in the Premier League this season, from meh to magnificent",
@@ -495,6 +486,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-29T20:37:01.442Z"
+    "cachedAt": "2026-05-30T04:16:00.403Z"
   }
 }
