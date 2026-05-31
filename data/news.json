@@ -2,6 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48927451,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Álvarez still pushing for Barcelona move",
+      "description": "Atlético Madrid's Julián Álvarez still has his heart set on joining Barcelona. Transfer Talk has the latest.",
+      "publishedAt": "2026-05-31T09:07:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0211/r1613892_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48927451/transfer-rumors-news-julian-alvarez-pushing-barcelona-move",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Atlético Madrid",
+        "Arsenal",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": "a244431852fef6d9c02d9ba158a390cd",
+      "source": "Sky Sports",
+      "headline": "Hundreds arrested in France as clashes disrupt PSG celebrations",
+      "description": "Hundreds of arrests have been made across France in the aftermath of Paris Saint-Germain's Champions League final victory over Arsenal.",
+      "publishedAt": "2026-05-31T07:35:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-police-paris_7262051.jpg?20260531085238",
+      "link": "https://www.skysports.com/football/news/12040/13549453/psg-vs-arsenal-hundreds-of-arrests-made-across-france-after-paris-saint-germain-win-champions-league-final",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48918737,
       "source": "ESPN",
       "headline": "Andoni Iraola the frontrunner to succeed Slot as Liverpool boss - sources",
@@ -14,17 +41,6 @@
         "Liverpool",
         "AFC Bournemouth"
       ]
-    },
-    {
-      "id": "c9964cda2c26298f77da07f50919ac7c",
-      "source": "Sky Sports",
-      "headline": "Papers: Liverpool U-turn for Salah now Slot is gone?",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-05-30T22:00:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13549412/liverpool-u-turn-for-mohamed-salah-now-arne-slot-is-gone-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48921805,
@@ -432,26 +448,11 @@
         "Barcelona",
         "Newcastle United"
       ]
-    },
-    {
-      "id": 48888679,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, Tottenham explore move for Baleba",
-      "description": "Manchester United and Tottenham Hotspur are reportedly interested in signing Brighton & Hove Albion's Carlos Baleba. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-27T18:57:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0527/r1664512_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48888679/transfer-rumors-news-juventus-move-salah-liverpool-exit",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Manchester United",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-31T04:48:58.256Z"
+    "cachedAt": "2026-05-31T09:22:51.546Z"
   }
 }
