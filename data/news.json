@@ -2,11 +2,49 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48918737,
+      "source": "ESPN",
+      "headline": "Andoni Iraola the frontrunner to succeed Slot as Liverpool boss - sources",
+      "description": "Andoni Iraola is the leading candidate to succeed Arne Slot as Liverpool head coach, sources have told ESPN.",
+      "publishedAt": "2026-05-30T23:44:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0414/r1643329_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48918737/andoni-iraola-frontrunner-succeed-slot-liverpool-boss",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "AFC Bournemouth"
+      ]
+    },
+    {
+      "id": "c9964cda2c26298f77da07f50919ac7c",
+      "source": "Sky Sports",
+      "headline": "Papers: Liverpool U-turn for Salah now Slot is gone?",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-05-30T22:00:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13549412/liverpool-u-turn-for-mohamed-salah-now-arne-slot-is-gone-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48921805,
+      "source": "ESPN",
+      "headline": "Robson: Big contracts created problems for Slot at Liverpool",
+      "description": "Stewart Robson believes Liverpool's decision to hand major contracts to underperforming senior players last summer, played a role in the issues that Arne Slot was left with.",
+      "publishedAt": "2026-05-30T20:42:14Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0530/dm_260530_Robson_Big_contracts_created_problems_for_Slot_at_Liverpool/dm_260530_Robson_Big_contracts_created_problems_for_Slot_at_Liverpool.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48921805/big-contracts-created-problems-slot-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": 48903823,
       "source": "ESPN",
       "headline": "UEFA Champions League final live updates: Paris Saint-Germain vs. Arsenal",
       "description": "Paris Saint-Germain have won the UEFA Champions League for a second straight season, defeating Arsenal on penalties. Here's how it happened.",
-      "publishedAt": "2026-05-30T19:15:42Z",
+      "publishedAt": "2026-05-30T19:38:14Z",
       "image": "https://a.espncdn.com/photo/2026/0530/r1665851_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48903823/uefa-champions-league-final-live-updates-paris-saint-germain-vs-arsenal",
       "tag": "Paris Saint-Germain",
@@ -16,40 +54,15 @@
       ]
     },
     {
-      "id": "692ea0aa14862e2af98bf91a7b148385",
+      "id": "e880ecea6e3f4fba5be20e29deb45929",
       "source": "Sky Sports",
-      "headline": "Scotland injury blow as Gilmour ruled out of World Cup",
-      "description": "Scotland midfielder Billy Gilmour has been ruled out of the World Cup after suffering a knee injury in the win over Curacao.",
-      "publishedAt": "2026-05-30T19:14:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-billy-gilmour-scotland_7261764.jpg?20260530163950",
-      "link": "https://www.skysports.com/football/news/12040/13549373/billy-gilmour-scotland-midfielder-ruled-out-of-world-cup-with-knee-injury",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "ea59bda4bbbbc717ca9a9a08b6fc682d",
-      "source": "Sky Sports",
-      "headline": "Arsenal suffer penalty heartbreak as PSG win Champions League final",
+      "headline": "Arsenal suffer penalty heartache as PSG win Champions League final",
       "description": "Arsenal suffered heartbreak in the Champions League final in Budapest as they were beaten 4-3 on penalties by PSG after a tense 1-1 draw in 120 minutes.",
       "publishedAt": "2026-05-30T19:05:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-psg-arsenal_7261889.jpg?20260530200634",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-psg-trophy-champions-league_7261919.jpg?20260530203916",
       "link": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
       "tag": "Report",
       "teams": []
-    },
-    {
-      "id": 48918737,
-      "source": "ESPN",
-      "headline": "Andoni Iraola the frontrunner to succeed Slot as Liverpool boss - sources",
-      "description": "Andoni Iraola is the leading candidate to succeed Arne Slot as Liverpool head coach, sources have told ESPN.",
-      "publishedAt": "2026-05-30T18:29:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0414/r1643329_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48918737/andoni-iraola-frontrunner-succeed-slot-liverpool-boss",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "AFC Bournemouth"
-      ]
     },
     {
       "id": 48919598,
@@ -434,26 +447,11 @@
         "Manchester United",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 48892138,
-      "source": "ESPN",
-      "headline": "Marsden: Rashford return unlikely if Barcelona sign Gordon",
-      "description": "Samuel Marsden examines Barcelona's interest in Newcastle winger Anthony Gordon.",
-      "publishedAt": "2026-05-27T16:56:21Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0527/dm_260527_COM_SOC_Analysis_Marsden_Rashford_return_unlikely_if_Barcelona_sign_Gordon_20260527_GLOBAL/dm_260527_COM_SOC_Analysis_Marsden_Rashford_return_unlikely_if_Barcelona_sign_Gordon_20260527_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48892138/rashford-return-unlikely-barcelona-sign-gordon",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "England",
-        "Newcastle United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-05-30T19:40:09.321Z"
+    "cachedAt": "2026-05-31T04:48:58.256Z"
   }
 }
