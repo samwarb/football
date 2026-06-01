@@ -2,6 +2,146 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "80f7fa7bf739bcb7fd5aef98ab4b5f7c",
+      "source": "Sky Sports",
+      "headline": "Chelsea confirm signing of Arsenal great McCabe",
+      "description": "Chelsea are set to sign Republic of Ireland captain Katie McCabe when her Arsenal contract expires on July 1.",
+      "publishedAt": "2026-06-01T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-katie-mccabe-arsenal_7153124.jpg?20260202134615",
+      "link": "https://www.skysports.com/football/news/12040/13549902/katie-mccabe-signs-for-chelsea-republic-of-ireland-captain-to-swap-arsenal-for-wsl-rivals",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "f831ffcc2b22860402905a810c5376e2",
+      "source": "Sky Sports",
+      "headline": "Earps set to join London City Lionesses",
+      "description": "Former England goalkeeper Mary Earps is close to joining London City Lionesses.",
+      "publishedAt": "2026-06-01T16:27:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-mary-earps-england_7263157.jpg?20260601174328",
+      "link": "https://www.skysports.com/football/news/12040/13549879/mary-earps-transfer-news-former-england-goalkeeper-set-for-london-city-lionesses-move",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "cbb76cdf8418d17167700e28818d477a",
+      "source": "Sky Sports",
+      "headline": "Bellamy commits to Wales: I’m not going anywhere",
+      "description": "Craig Bellamy has committed himself to Wales after speculation linking him with the Celtic and Burnley jobs.",
+      "publishedAt": "2026-06-01T15:14:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-craig-bellamy-wales_7263098.jpg?20260601163126",
+      "link": "https://www.skysports.com/football/news/12040/13549858/craig-bellamy-commits-future-to-wales-im-not-going-anywhere",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48936926,
+      "source": "ESPN",
+      "headline": "Inside Arsenal's mammoth 63-game season: Premier League glory, UCL heartbreak",
+      "description": "Arsenal's Premier League title triumph has been years in the making. For the first time, ESPN can reveal the strategy which took them back to the top.",
+      "publishedAt": "2026-06-01T14:39:11Z",
+      "image": "sportscenter://x-callback-url/showStory?uid=48936926",
+      "link": "https://www.espn.com/soccer/story/_/id/48936926/inside-arsenal-mammoth-63game-season-premier-league-glory-ucl-heartbreak",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48936654,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Real Madrid show interest in Arsenal's Declan Rice",
+      "description": "Could Real Madrid make an attempt to sign Declan Rice from Arsenal? Transfer Talk has the latest.",
+      "publishedAt": "2026-06-01T14:37:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666554_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48936654/transfer-rumors-news-real-madrid-show-interest-arsenal-declan-rice",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 48937142,
+      "source": "ESPN",
+      "headline": "Arsenal parade: Six stabbings, 75 people rescued from heights",
+      "description": "Sixteen people were arrested, and 75 were rescued from heights, at the Arsenal celebration parade, emergency services confirmed.",
+      "publishedAt": "2026-06-01T14:22:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666563_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48937142/arsenal-parade-sixteen-arrests-75-people-rescued-heights",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48938327,
+      "source": "ESPN",
+      "headline": "Rodri will wait until World Cup is over to discuss future amid Real Madrid links",
+      "description": "Manchester City midfielder Rodri has said he'll \"wait until the World Cup is over\" before discussing his future, after being linked with a summer switch to Real Madrid.",
+      "publishedAt": "2026-06-01T13:39:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666621_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48938327/rodri-wait-world-cup-discuss-future",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Spain",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 48938131,
+      "source": "ESPN",
+      "headline": "Marcotti: Liverpool need to explain Xabi Alonso's Chelsea appointment",
+      "description": "Gab Marcotti questions why Xabi Alonso isn't a potential replacement for Arne Slot at Liverpool with reports linking Andoni Iraola to the job instead.",
+      "publishedAt": "2026-06-01T12:50:00Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0601/dm_260601_COM_SOC_Analysis_Marcotti_Liverpool_need_to_explain_Xabi_Alonsos_Chelsea_appointment_20260601/dm_260601_COM_SOC_Analysis_Marcotti_Liverpool_need_to_explain_Xabi_Alonsos_Chelsea_appointment_20260601.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48938131/liverpool-need-explain-xabi-alonso-chelsea-appointment",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48938049,
+      "source": "ESPN",
+      "headline": "France's William Saliba very doubtful for World Cup - sources",
+      "description": "Arsenal and France defender William Saliba is very doubtful for the World Cup after injuring his back a few weeks ago, sources told ESPN.",
+      "publishedAt": "2026-06-01T12:40:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666600_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48938049/france-william-saliba-doubtful-world-cup-sources",
+      "tag": "France",
+      "teams": [
+        "France",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48833479,
+      "source": "ESPN",
+      "headline": "Transfer window preview: What do Europe's big clubs need?",
+      "description": "The transfer window is set to open across Europe in June and July, so what are the top clubs planning? Who comes in? Who will go?",
+      "publishedAt": "2026-06-01T12:31:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661406_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48833479/transfer-window-preview-do-europes-big-clubs-need",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "Paris Saint-Germain",
+        "Bayern Munich",
+        "Juventus",
+        "Internazionale",
+        "Napoli",
+        "Borussia Dortmund",
+        "Aston Villa"
+      ]
+    },
+    {
       "id": 48937702,
       "source": "ESPN",
       "headline": "Bruno Fernandes: 'I wanted to have won more' with Man United",
@@ -54,19 +194,6 @@
       ]
     },
     {
-      "id": 48936926,
-      "source": "ESPN",
-      "headline": "Inside Arsenal's mammoth 63-game season: Premier League glory, UCL heartbreak",
-      "description": "Arsenal's Premier League title triumph has been years in the making. For the first time, ESPN can reveal the strategy which took them back to the top.",
-      "publishedAt": "2026-06-01T10:43:14Z",
-      "image": "sportscenter://x-callback-url/showStory?uid=48936926",
-      "link": "https://www.espn.com/soccer/story/_/id/48936926/inside-arsenal-mammoth-63game-season-premier-league-glory-ucl-heartbreak",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "37c2579bc6b83b81277832729d7c9fdf",
       "source": "Sky Sports",
       "headline": "Keegan 'responding well' to treatment after stage four cancer diagnosis",
@@ -89,17 +216,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "b7bf3a286c35d9f63381b0f45322b712",
-      "source": "Sky Sports",
-      "headline": "Former Man Utd starlet Fosu-Mensah on Fernandes, Carrick and what's to come",
-      "description": "“Nothing is given, everything is earned.”",
-      "publishedAt": "2026-06-01T09:57:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-manchester-united_7262852.jpg?20260601120126",
-      "link": "https://www.skysports.com/football/news/12040/13549755/timothy-fosu-mensah-former-manchester-united-defender-talks-michael-carrick-bruno-fernandes-and-being-a-free-agent",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48709856,
@@ -134,19 +250,6 @@
       ]
     },
     {
-      "id": 48937142,
-      "source": "ESPN",
-      "headline": "Arsenal parade: Sixteen arrests, 75 people rescued from heights",
-      "description": "Sixteen people were arrested, and 75 were rescued from heights, at the Arsenal celebration parade, emergency services confirmed.",
-      "publishedAt": "2026-06-01T09:33:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666563_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48937142/arsenal-parade-sixteen-arrests-75-people-rescued-heights",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 48936909,
       "source": "ESPN",
       "headline": "James Milner retires after 24 Premier League seasons",
@@ -163,78 +266,6 @@
         "Leeds United",
         "Brighton & Hove Albion"
       ]
-    },
-    {
-      "id": "b71b28159787492b5c89c8651bed1f28",
-      "source": "Sky Sports",
-      "headline": "Premier League record appearance holder Milner retires",
-      "description": "James Milner has announced his retirement from football at the age of 40.",
-      "publishedAt": "2026-06-01T08:11:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-james-milner-brighton_7170959.jpg?20260601123752",
-      "link": "https://www.skysports.com/football/news/12040/13549725/james-milner-premier-league-record-appearance-holder-announces-retirement-at-age-of-40-after-24-year-top-flight-career",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "5d4bbcede7dd1d50ac257ec4ab9801ee",
-      "source": "Sky Sports",
-      "headline": "Sacked Slot says Liverpool connection 'goes beyond football'",
-      "description": "Arne Slot has said the connection he shares with Liverpool and the club's fans \"goes beyond football\".",
-      "publishedAt": "2026-06-01T08:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arne-slot-liverpool_7243662.jpg?20260509165150",
-      "link": "https://www.skysports.com/football/news/12040/13549716/arne-slot-sacked-former-liverpool-boss-says-his-connection-with-cub-goes-beyond-football-in-farewell-letter",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48936654,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid show interest in Arsenal's Declan Rice",
-      "description": "Could Real Madrid make an attempt to sign Declan Rice from Arsenal? Transfer Talk has the latest.",
-      "publishedAt": "2026-06-01T07:49:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666554_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48936654/transfer-rumors-news-real-madrid-show-interest-arsenal-declan-rice",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 48833479,
-      "source": "ESPN",
-      "headline": "Transfer window preview: What do Europe's big clubs need?",
-      "description": "The transfer window is set to open across Europe in June and July, so what are the top clubs planning? Who comes in? Who will go?",
-      "publishedAt": "2026-06-01T07:09:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661406_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48833479/transfer-window-preview-do-europes-big-clubs-need",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "Paris Saint-Germain",
-        "Bayern Munich",
-        "Juventus",
-        "Internazionale",
-        "Napoli",
-        "Borussia Dortmund",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": "e16c24acf5954e5d7acd480a553e27a6",
-      "source": "Sky Sports",
-      "headline": "Tuchel: Full belief England are capable of winning World Cup",
-      "description": "Thomas Tuchel says he and his England players have \"full belief\" they are capable of winning the World Cup.",
-      "publishedAt": "2026-06-01T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-kane-declan-rice_7262687.jpg?20260601084147",
-      "link": "https://www.skysports.com/football/news/12040/13549709/world-cup-2026-england-boss-thomas-tuchel-has-full-belief-his-side-can-mount-serious-challenge-to-win-tournament",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48936503,
@@ -302,19 +333,6 @@
         "Atlético Madrid",
         "Arsenal",
         "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 48901787,
-      "source": "ESPN",
-      "headline": "Chelsea Keep or Dump: How can Blues help Xabi Alonso?",
-      "description": "Chelsea have an exciting new manager but question marks nearly everywhere else. Gab Marcotti and Mark Ogden examine them all.",
-      "publishedAt": "2026-05-31T15:03:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0528/260512_soc_trades_chelsea_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48901787/chelsea-keep-dump-xabi-alonso-enzo-fernandez-cole-palmer-gab-marcotti-mark-ogden",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
       ]
     },
     {
@@ -461,40 +479,11 @@
         "AFC Bournemouth",
         "Liverpool"
       ]
-    },
-    {
-      "id": 48917673,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool's Jones an Inter Milan target",
-      "description": "Liverpool's Curtis Jones could be another player leaving Anfield this summer, with Inter Milan trying to sign him. Transfer Talk has the latest.",
-      "publishedAt": "2026-05-30T09:22:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0530/r1665653_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48917673/transfer-rumors-news-liverpool-curtis-jones-inter-milan-target",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Internazionale"
-      ]
-    },
-    {
-      "id": 48904926,
-      "source": "ESPN",
-      "headline": "Barcelona sign Anthony Gordon from Newcastle in €70m transfer",
-      "description": "Barcelona have announced the signing of England forward Anthony Gordon from Newcastle United on a five-year contract.",
-      "publishedAt": "2026-05-29T23:11:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0529/r1665499_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48904926/barcelona-anthony-gordon-newcastle-united-transfer",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Newcastle United",
-        "England"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-01T12:08:07.695Z"
+    "cachedAt": "2026-06-01T18:15:29.235Z"
   }
 }
