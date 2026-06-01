@@ -2,13 +2,62 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "80f7fa7bf739bcb7fd5aef98ab4b5f7c",
+      "id": 48833479,
+      "source": "ESPN",
+      "headline": "Transfer window preview: What do Europe's big clubs need?",
+      "description": "The transfer window is set to open across Europe in June and July, so what are the top clubs planning? Who comes in? Who will go?",
+      "publishedAt": "2026-06-01T21:07:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661406_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48833479/transfer-window-preview-do-europes-big-clubs-need",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "Paris Saint-Germain",
+        "Bayern Munich",
+        "Juventus",
+        "Internazionale",
+        "Napoli",
+        "Borussia Dortmund",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": "dacc4c039b8a0d23aae547d2882091e4",
       "source": "Sky Sports",
-      "headline": "Chelsea confirm signing of Arsenal great McCabe",
-      "description": "Chelsea are set to sign Republic of Ireland captain Katie McCabe when her Arsenal contract expires on July 1.",
-      "publishedAt": "2026-06-01T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-katie-mccabe-arsenal_7153124.jpg?20260202134615",
-      "link": "https://www.skysports.com/football/news/12040/13549902/katie-mccabe-signs-for-chelsea-republic-of-ireland-captain-to-swap-arsenal-for-wsl-rivals",
+      "headline": "Papers: Cucurella wanted by Barcelona & Real Madrid",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "publishedAt": "2026-06-01T19:00:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48939848,
+      "source": "ESPN",
+      "headline": "What can Andoni Iraola expect when he gets to Liverpool?",
+      "description": "Beth Lindop explains what Andoni Iraola will need to do at Liverpool once his appointment is confirmed.",
+      "publishedAt": "2026-06-01T18:39:54Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0601/dm_260601_What_can_Andoni_Iraola_expect_when_he_gets_to_Liverpool/dm_260601_What_can_Andoni_Iraola_expect_when_he_gets_to_Liverpool.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48939848/what-andoni-iraola-expect-gets-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "abce7bb6720ff879f3ae6cf4e5eb1b99",
+      "source": "Sky Sports",
+      "headline": "New WhatsApps and deleted LinkedIn profiles - latest Spygate details revealed",
+      "description": "Southampton manager Tonda Eckert \"loved\" the information a junior analyst intern gathered when spying on one of his team's opponents, according to newly released messages.",
+      "publishedAt": "2026-06-01T16:39:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-tonda-eckert-southampton_7255454.jpg?20260522084830",
+      "link": "https://www.skysports.com/football/news/12040/13549883/spygate-latest-southampton-boss-tonda-eckert-loved-information-gathered-when-intern-spied-on-opponent-panels-written-reasons-reveal",
       "tag": "News Story",
       "teams": []
     },
@@ -45,20 +94,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 48936654,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid show interest in Arsenal's Declan Rice",
-      "description": "Could Real Madrid make an attempt to sign Declan Rice from Arsenal? Transfer Talk has the latest.",
-      "publishedAt": "2026-06-01T14:37:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666554_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48936654/transfer-rumors-news-real-madrid-show-interest-arsenal-declan-rice",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
       ]
     },
     {
@@ -117,31 +152,6 @@
       ]
     },
     {
-      "id": 48833479,
-      "source": "ESPN",
-      "headline": "Transfer window preview: What do Europe's big clubs need?",
-      "description": "The transfer window is set to open across Europe in June and July, so what are the top clubs planning? Who comes in? Who will go?",
-      "publishedAt": "2026-06-01T12:31:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661406_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48833479/transfer-window-preview-do-europes-big-clubs-need",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "Paris Saint-Germain",
-        "Bayern Munich",
-        "Juventus",
-        "Internazionale",
-        "Napoli",
-        "Borussia Dortmund",
-        "Aston Villa"
-      ]
-    },
-    {
       "id": 48937702,
       "source": "ESPN",
       "headline": "Bruno Fernandes: 'I wanted to have won more' with Man United",
@@ -192,17 +202,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "37c2579bc6b83b81277832729d7c9fdf",
-      "source": "Sky Sports",
-      "headline": "Keegan 'responding well' to treatment after stage four cancer diagnosis",
-      "description": "Kevin Keegan has said he is responding well to treatment after being diagnosed with stage four cancer.",
-      "publishedAt": "2026-06-01T10:42:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-kevin-keegan_7262850.jpg?20260601120027",
-      "link": "https://www.skysports.com/football/news/12040/13549772/kevin-keegan-former-newcastle-and-england-manager-responding-well-to-treatment-after-stage-four-cancer-diagnosis",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48909458,
@@ -484,6 +483,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-01T18:15:29.235Z"
+    "cachedAt": "2026-06-01T21:43:35.612Z"
   }
 }
