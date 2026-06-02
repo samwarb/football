@@ -2,17 +2,67 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48950331,
+      "source": "ESPN",
+      "headline": "Sources: Crystal Palace readying offer for Lens coach Sage",
+      "description": "Crystal Palace are preparing an offer for the Ligue 1 manager of the season Pierre Sage, sources have told ESPN.",
+      "publishedAt": "2026-06-02T20:53:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0602/r1667381_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48950331/crystal-palace-offer-lens-coach-sage",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Lens"
+      ]
+    },
+    {
+      "id": 48950261,
+      "source": "ESPN",
+      "headline": "Mainoo: England can 100% win the World Cup",
+      "description": "Kobbie Mainoo speaks about England's World Cup hopes after their first training session in Florida.",
+      "publishedAt": "2026-06-02T20:21:39Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0602/dm_260602_COM_SOC_Presser_Mainoo_England_can_100_win_the_World_Cup_20260602_GLOBAL/dm_260602_COM_SOC_Presser_Mainoo_England_can_100_win_the_World_Cup_20260602_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48950261/england-100-win-world-cup",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "dc2535cb414bc04473621b86aefe9c36",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Do Reds have the finances to rebuild under Iraola?",
+      "description": "",
+      "publishedAt": "2026-06-02T17:50:00.000Z",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-iraola-bournemouth_7219746.jpg?20260414122935",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48948294,
       "source": "ESPN",
       "headline": "Fulham confirm Marco Silva to leave club as manager this summer",
       "description": "Fulham have confirmed that Marco Silva will be leaving the club this summer after a five-year stint at Craven Cottage.",
-      "publishedAt": "2026-06-02T16:30:05Z",
+      "publishedAt": "2026-06-02T17:20:16Z",
       "image": "https://a.espncdn.com/photo/2026/0501/r1651838_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48948294/fulham-confirm-marco-silva-leave-club-manager-summer",
       "tag": "Fulham",
       "teams": [
         "Fulham"
       ]
+    },
+    {
+      "id": "15fc97f3ed5fbe8284987326d581a2ed",
+      "source": "Sky Sports",
+      "headline": "Everton latest: No concerns over Ndiaye's future",
+      "description": "",
+      "publishedAt": "2026-06-02T17:15:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": "4e69d111d8de1edfb9c33b53267433f9",
@@ -22,17 +72,6 @@
       "publishedAt": "2026-06-02T16:30:00.000Z",
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-gunn-gordon-angus_7263895.jpg?20260602172040",
       "link": "https://www.skysports.com/football/news/12040/13550179/world-cup-2026-scotland-squad-numbers-revealed-with-angus-gunn-handed-no-1-jersey-ahead-of-craig-gordon",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "18a8d4cd944323274bfcaa7969d65570",
-      "source": "Sky Sports",
-      "headline": "Silva set to take over at Benfica after Fulham exit confirmed",
-      "description": "Marco Silva is set to take over as Benfica head coach after his exit from Fulham was confirmed.",
-      "publishedAt": "2026-06-02T16:25:00.000Z",
-      "image": "https://e1.365dm.com/25/11/1920x1080/skysports-marco-silva-fulham_7094368.jpg?20251128110513",
-      "link": "https://www.skysports.com/football/news/12040/13546506/marco-silva-to-leave-fulham-portuguese-head-coach-to-depart-after-five-seasons-in-charge-amid-benfica-links",
       "tag": "News Story",
       "teams": []
     },
@@ -51,24 +90,13 @@
       ]
     },
     {
-      "id": "cd9d3e3b66866943cf07c48d9642b30b",
+      "id": "fbbae121333fe7a9040eb32ad9feeb48",
       "source": "Sky Sports",
-      "headline": "Liverpool latest: 'Real Madrid agree deal to sign Konate'",
+      "headline": "Ghana held by Wales in World Cup warm-up LIVE!",
       "description": "",
-      "publishedAt": "2026-06-02T16:16:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ibrahim-konate-liverpool_7261084.jpg?20260529141704",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "9e0be0b4b9f1c6a2718669acbc48d192",
-      "source": "Sky Sports",
-      "headline": "Fulham latest: Successor set to be appointed 'soon', says owner",
-      "description": "",
-      "publishedAt": "2026-06-02T15:40:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-fulham-news-club_7039253.jpg?20251002160142",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-06-02T16:09:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-daniel-james_7264040.jpg?20260602210931",
+      "link": "https://www.skysports.com/football/wales-vs-ghana/live/554991",
       "tag": "Liveblog",
       "teams": []
     },
@@ -411,19 +439,6 @@
       ]
     },
     {
-      "id": 48929931,
-      "source": "ESPN",
-      "headline": "Sources: Liverpool set to open talks with Andoni Iraola this week",
-      "description": "Liverpool are set to open formal talks with Andoni Iraola this week as they work to appoint Arne Slot's successor, sources told ESPN.",
-      "publishedAt": "2026-06-01T10:48:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0531/r1666241_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48929931/sources-liverpool-set-open-formal-talks-iraola-week",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": 48909458,
       "source": "ESPN",
       "headline": "Which players have left Liverpool on free transfers?",
@@ -492,24 +507,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 48929257,
-      "source": "ESPN",
-      "headline": "Arsenal hold trophy parade to celebrate first Premier League title win in 22 years",
-      "description": "Arsenal celebrates their first Premier League title in 22 years with a massive trophy parade in Islington, London.",
-      "publishedAt": "2026-05-31T14:33:51Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0531/dm_260531_Arsenal_hold_trophy_parade_to_celebrate_first_Premier_League_title_win_in_22_years/dm_260531_Arsenal_hold_trophy_parade_to_celebrate_first_Premier_League_title_win_in_22_years.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48929257/arsenal-hold-trophy-parade-celebrate-first-premier-league-title-win-22-years",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-02T16:53:52.111Z"
+    "cachedAt": "2026-06-02T21:23:10.364Z"
   }
 }
