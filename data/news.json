@@ -2,6 +2,19 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48941404,
+      "source": "ESPN",
+      "headline": "Hislop: Andoni Iraola 'will be a success' at Liverpool",
+      "description": "ESPN FC's Shaka Hislop explains why Andoni Iraola can succeed if he is appointed to replace Arne Slot at Liverpool.",
+      "publishedAt": "2026-06-01T22:05:24Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0601/dm_260601_Hislop_Andoni_Iraola_will_be_a_success_at_Liverpool/dm_260601_Hislop_Andoni_Iraola_will_be_a_success_at_Liverpool.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48941404/andoni-iraola-success-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": 48833479,
       "source": "ESPN",
       "headline": "Transfer window preview: What do Europe's big clubs need?",
@@ -25,17 +38,6 @@
         "Borussia Dortmund",
         "Aston Villa"
       ]
-    },
-    {
-      "id": "dacc4c039b8a0d23aae547d2882091e4",
-      "source": "Sky Sports",
-      "headline": "Papers: Cucurella wanted by Barcelona & Real Madrid",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-06-01T19:00:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48939848,
@@ -372,19 +374,6 @@
       ]
     },
     {
-      "id": 48918413,
-      "source": "ESPN",
-      "headline": "Liverpool sack Arne Slot 1 year after Premier League title",
-      "description": "Liverpool have confirmed that head coach Arne Slot will leave the club with immediate effect.",
-      "publishedAt": "2026-05-31T11:28:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0402/r1637547_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48918413/arne-slot-leaves-liverpool-immediate-effect",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": 48918737,
       "source": "ESPN",
       "headline": "Andoni Iraola the frontrunner to succeed Slot as Liverpool boss - sources",
@@ -483,6 +472,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-01T21:43:35.612Z"
+    "cachedAt": "2026-06-02T04:59:05.284Z"
   }
 }
