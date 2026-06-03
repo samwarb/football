@@ -2,6 +2,71 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "581a7252fbf8c8a7aed65be8bde1294e",
+      "source": "Sky Sports",
+      "headline": "Newcastle latest: Magpies join Brighton in race to sign winger",
+      "description": "",
+      "publishedAt": "2026-06-03T16:45:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48953983,
+      "source": "ESPN",
+      "headline": "Man United agree deal with Atalanta for Éderson - sources",
+      "description": "Manchester United have agreed a deal with Atalanta for midfielder Éderson, sources have told ESPN.",
+      "publishedAt": "2026-06-03T16:09:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0603/r1667540_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48953983/man-united-agree-deal-atalanta-ederson-sources",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Atalanta"
+      ]
+    },
+    {
+      "id": 48954336,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, Bayern battle for Germany defender",
+      "description": "Eintracht Frankfurt full back Nathaniel Brown is of interest to Bayern Munich and Arsenal. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-03T15:04:14Z",
+      "image": "https://a.espncdn.com/photo/2025/1002/r1554473_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48954336/transfer-rumors-news-arsenal-bayern-munich-battle-germany-defender-nathaniel-brown",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Eintracht Frankfurt",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": 48955010,
+      "source": "ESPN",
+      "headline": "Rasmus Højlund seals permanent move to Napoli from Manchester United",
+      "description": "Rasmus Højlund has joined Napoli in a permanent move from Manchester United.",
+      "publishedAt": "2026-06-03T11:35:50Z",
+      "image": "https://a.espncdn.com/photo/2025/1005/r1555993_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955010/rasmus-hojlund-seals-permanent-move-napoli-manchester-united",
+      "tag": "Napoli",
+      "teams": [
+        "Napoli",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "dc9d9bdf08e7083a88257a93089cec07",
+      "source": "Sky Sports",
+      "headline": "Man management and 'a bottle of magic' - How Iraola can step up at Liverpool",
+      "description": "Andoni Iraola will face a \"completely different\" challenge at Liverpool - but after his \"small scale\" success on the south coast he is primed to bring his \"magic\" with him to Anfield.",
+      "publishedAt": "2026-06-03T11:27:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-liverpool-andoni_7264436.jpg?20260603122747",
+      "link": "https://www.skysports.com/football/news/12040/13550409/liverpool-andoni-iraola-can-make-success-of-step-up-from-bournemouth-at-anfield-with-spaniard-primed-to-become-next-reds-boss-after-arne-slots-sacking",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48955200,
       "source": "ESPN",
       "headline": "Crystal Palace have more players at World Cup than Real Madrid, Liverpool",
@@ -13,35 +78,6 @@
       "teams": [
         "Crystal Palace",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": 48955010,
-      "source": "ESPN",
-      "headline": "Rasmus Højlund seals permanent move to Napoli from Manchester United",
-      "description": "Rasmus Højlund has joined Napoli in a permanent move from Manchester United.",
-      "publishedAt": "2026-06-03T11:05:22Z",
-      "image": "https://a.espncdn.com/photo/2025/1005/r1555993_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955010/rasmus-hojlund-seals-permanent-move-napoli-manchester-united",
-      "tag": "Napoli",
-      "teams": [
-        "Napoli",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48954336,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Bayern battle for Germany defender",
-      "description": "Eintracht Frankfurt full back Nathaniel Brown is of interest to Bayern Munich and Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-03T10:29:16Z",
-      "image": "https://a.espncdn.com/photo/2025/1002/r1554473_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48954336/transfer-rumors-news-arsenal-bayern-munich-battle-germany-defender-nathaniel-brown",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Eintracht Frankfurt",
-        "Bayern Munich"
       ]
     },
     {
@@ -75,17 +111,6 @@
         "Ipswich Town",
         "Hull City"
       ]
-    },
-    {
-      "id": "8fa70d31c9006e5b26aaa4ab02f2de31",
-      "source": "Sky Sports",
-      "headline": "Gannon-Doak 'much more prepared' for Scotland's WC trip after Euros hurt",
-      "description": "They say hindsight is a wonderful thing, and Scotland midfielder Ben Gannon-Doak is hoping it is a sentiment that rings true this summer.",
-      "publishedAt": "2026-06-03T07:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gannon-doak-ben-scotland_7263539.jpg?20260602122023",
-      "link": "https://www.skysports.com/football/news/12040/13550048/world-cup-2026-scotland-winger-ben-gannon-doak-much-more-prepared-after-hurt-of-missing-euro-2024-due-to-injury",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48948006,
@@ -130,20 +155,6 @@
       ]
     },
     {
-      "id": 48953983,
-      "source": "ESPN",
-      "headline": "Man United agree deal with Atalanta for Éderson - sources",
-      "description": "Manchester United have agreed a deal with Atalanta for midfielder Éderson, sources have told ESPN.",
-      "publishedAt": "2026-06-03T06:12:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667540_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48953983/man-united-agree-deal-atalanta-ederson-sources",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Atalanta"
-      ]
-    },
-    {
       "id": 48951109,
       "source": "ESPN",
       "headline": "Sources: Liverpool reach agreement to name Andoni Iraola new coach",
@@ -172,17 +183,6 @@
         "Newcastle United",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "46a969cd8c6c35ee88a0ce9aa2769370",
-      "source": "Sky Sports",
-      "headline": "Man Utd agree deal to sign Ederson",
-      "description": "Manchester United have agreed a deal to sign Atalanta midfielder Ederson.",
-      "publishedAt": "2026-06-02T21:30:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ederson-atalanta_7257057.jpg?20260524130218",
-      "link": "https://www.skysports.com/football/news/12040/13548678/man-utd-agree-ederson-deal-atalanta-midfielder-set-for-old-trafford-in-38m-transfer",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48950331,
@@ -467,11 +467,22 @@
       "teams": [
         "Arsenal"
       ]
+    },
+    {
+      "id": "343ac19e34bb762cebb2c8be396d0c00",
+      "source": "Sky Sports",
+      "headline": "Man City negotiating Maresca compensation fee with Chelsea",
+      "description": "Manchester City are in talks with Chelsea about compensation for Enzo Maresca.",
+      "publishedAt": "2026-05-26T15:50:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-graphic-enzo-maresca_7253099.jpg?20260519131305",
+      "link": "https://www.skysports.com/football/news/12040/13550486/enzo-maresca-to-man-city-compensation-negotiations-ongoing-with-chelsea-for-italian-to-be-pep-guardiolas-replacement",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-03T11:21:44.798Z"
+    "cachedAt": "2026-06-03T17:15:57.805Z"
   }
 }
