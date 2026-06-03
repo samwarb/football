@@ -2,6 +2,47 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48951109,
+      "source": "ESPN",
+      "headline": "Sources: Liverpool reach agreement to name Andoni Iraola new coach",
+      "description": "Liverpool have reached an agreement to appoint Andoni Iraola as their new head coach, sources confirmed to ESPN.",
+      "publishedAt": "2026-06-02T22:13:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0602/r1667420_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48951109/liverpool-agreement-andoni-iraola-new-head-coach",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48944857,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, Chelsea eye move for Rashford",
+      "description": "Could Marcus Rashford make a move to another Premier League club? Transfer Talk has the latest.",
+      "publishedAt": "2026-06-02T21:45:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0602/r1667415_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944857/transfer-rumors-news-barcelona-turn-kane-alvarez-deal-falls-through",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "afbe3ec3972aaa28044a7a3c1191fda2",
+      "source": "Sky Sports",
+      "headline": "Man Utd agree deal to sign Ederson",
+      "description": "Manchester United have agreed a deal to sign Atalanta midfielder Ederson.",
+      "publishedAt": "2026-06-02T21:30:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ederson-atalanta_7257057.jpg?20260524130218",
+      "link": "https://www.skysports.com/football/news/12040/13548678/man-utd-agree-ederson-deal-atlanta-midfielder-set-for-old-trafford-in-38m-transfer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48950331,
       "source": "ESPN",
       "headline": "Sources: Crystal Palace readying offer for Lens coach Sage",
@@ -30,17 +71,6 @@
       ]
     },
     {
-      "id": "dc2535cb414bc04473621b86aefe9c36",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Do Reds have the finances to rebuild under Iraola?",
-      "description": "",
-      "publishedAt": "2026-06-02T17:50:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-iraola-bournemouth_7219746.jpg?20260414122935",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48948294,
       "source": "ESPN",
       "headline": "Fulham confirm Marco Silva to leave club as manager this summer",
@@ -65,17 +95,6 @@
       "teams": []
     },
     {
-      "id": "4e69d111d8de1edfb9c33b53267433f9",
-      "source": "Sky Sports",
-      "headline": "Scotland's squad numbers for World Cup revealed",
-      "description": "Scotland's squad numbers for the World Cup have been revealed.",
-      "publishedAt": "2026-06-02T16:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-gunn-gordon-angus_7263895.jpg?20260602172040",
-      "link": "https://www.skysports.com/football/news/12040/13550179/world-cup-2026-scotland-squad-numbers-revealed-with-angus-gunn-handed-no-1-jersey-ahead-of-craig-gordon",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48948519,
       "source": "ESPN",
       "headline": "Sheffield United in talks to re-sign Man City's Kalvin Phillips - sources",
@@ -88,17 +107,6 @@
         "Manchester City",
         "Sheffield United"
       ]
-    },
-    {
-      "id": "fbbae121333fe7a9040eb32ad9feeb48",
-      "source": "Sky Sports",
-      "headline": "Ghana held by Wales in World Cup warm-up LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-02T16:09:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-daniel-james_7264040.jpg?20260602210931",
-      "link": "https://www.skysports.com/football/wales-vs-ghana/live/554991",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48947772,
@@ -185,17 +193,6 @@
         "Manchester City",
         "Spain"
       ]
-    },
-    {
-      "id": "d529c5134d43508f66296ec440e761b5",
-      "source": "Sky Sports",
-      "headline": "Inside the story of Man City's historic double-winning season",
-      "description": "Never be satisfied. The words of Andree Jeglertz. His guiding principle for success.",
-      "publishedAt": "2026-06-02T09:44:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-manchester-city-women_7263734.jpg?20260602134455",
-      "link": "https://www.skysports.com/football/news/12040/13550061/man-city-win-domestic-double-inside-the-story-of-their-fantastic-first-season-under-andree-jeglertz",
-      "tag": "Feature Story",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -426,19 +423,6 @@
       ]
     },
     {
-      "id": 48930579,
-      "source": "ESPN",
-      "headline": "Ibrahima Konaté 'deeply saddened' over Liverpool exit",
-      "description": "Liverpool have confirmed Ibrahima Konaté will be leaving the club when his contract expires this summer.",
-      "publishedAt": "2026-06-01T10:48:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0320/r1631160_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48930579/liverpool-confirm-ibrahima-konate-leaving-club-summer",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": 48909458,
       "source": "ESPN",
       "headline": "Which players have left Liverpool on free transfers?",
@@ -494,24 +478,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 48930407,
-      "source": "ESPN",
-      "headline": "Declan Rice promises Arsenal will be 'coming back for more' after UCL loss",
-      "description": "Declan Rice celebrated Arsenal's Premier League title success by rapping to 'Ice Ice Baby' on their open-top bus - and then vowed his side are \"coming back for more\" next season.",
-      "publishedAt": "2026-05-31T17:12:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0531/r1666267_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48930407/declan-rice-arsenal-parade-london-coming-back-more",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-02T21:23:10.364Z"
+    "cachedAt": "2026-06-03T05:14:12.551Z"
   }
 }
