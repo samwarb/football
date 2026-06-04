@@ -2,15 +2,31 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "057bd43c0afa770994df919059ba58bc",
-      "source": "Sky Sports",
-      "headline": "Iraola set to sign Liverpool contract on Thursday",
-      "description": "Andoni Iraola is expected to arrive on Merseyside on Thursday to sign his contract and become Liverpool's new head coach.",
-      "publishedAt": "2026-06-03T20:11:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-andoni-iraola_7264852.jpg?20260603211937",
-      "link": "https://www.skysports.com/football/news/12040/13550570/andoni-iraola-set-to-sign-liverpool-contract-on-thursday-after-reaching-agreement-to-become-arne-slots-successor",
-      "tag": "News Story",
-      "teams": []
+      "id": 48959710,
+      "source": "ESPN",
+      "headline": "Leboeuf: Iraola will need to add more muscle to Liverpool squad",
+      "description": "Frank Leboeuf says that Andoni Iraola will face \"issues\" at Liverpool, such as handling Hugo Ekitike's return from injury.",
+      "publishedAt": "2026-06-03T22:09:20Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0603/dm_260603_Leboeuf_Iraola_will_need_to_add_more_muscle_to_Liverpool_squad/dm_260603_Leboeuf_Iraola_will_need_to_add_more_muscle_to_Liverpool_squad.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48959710/iraola-need-add-more-muscle-liverpool-squad",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48954336,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool eye move for West Ham's Fernandes",
+      "description": "After getting relegated with West Ham last season, could Mateus Fernandes make a move for Liverpool? Transfer Talk has the latest.",
+      "publishedAt": "2026-06-03T21:36:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0603/r1667825_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48954336/transfer-rumors-news-arsenal-bayern-munich-battle-germany-defender-nathaniel-brown",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "West Ham United"
+      ]
     },
     {
       "id": 48958407,
@@ -26,17 +42,6 @@
       ]
     },
     {
-      "id": "581a7252fbf8c8a7aed65be8bde1294e",
-      "source": "Sky Sports",
-      "headline": "Newcastle latest: Magpies join Brighton in race to sign winger",
-      "description": "",
-      "publishedAt": "2026-06-03T16:45:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48953983,
       "source": "ESPN",
       "headline": "Man United agree deal with Atalanta for Éderson - sources",
@@ -48,21 +53,6 @@
       "teams": [
         "Manchester United",
         "Atalanta"
-      ]
-    },
-    {
-      "id": 48954336,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Bayern battle for Germany defender",
-      "description": "Eintracht Frankfurt full back Nathaniel Brown is of interest to Bayern Munich and Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-03T15:04:14Z",
-      "image": "https://a.espncdn.com/photo/2025/1002/r1554473_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48954336/transfer-rumors-news-arsenal-bayern-munich-battle-germany-defender-nathaniel-brown",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Eintracht Frankfurt",
-        "Bayern Munich"
       ]
     },
     {
@@ -454,35 +444,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 48937473,
-      "source": "ESPN",
-      "headline": "'Jealousy everywhere' - Declan Rice blasts Arsenal detractors",
-      "description": "Declan Rice and Noni Madueke have hit back at Arsenal's critics after their Champions League final loss.",
-      "publishedAt": "2026-06-01T11:02:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666572_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48937473/declan-rice-blasts-jealously-everywhere-arsenal-detractors",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "343ac19e34bb762cebb2c8be396d0c00",
-      "source": "Sky Sports",
-      "headline": "Man City negotiating Maresca compensation fee with Chelsea",
-      "description": "Manchester City are in talks with Chelsea about compensation for Enzo Maresca.",
-      "publishedAt": "2026-05-26T15:50:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-graphic-enzo-maresca_7253099.jpg?20260519131305",
-      "link": "https://www.skysports.com/football/news/12040/13550486/enzo-maresca-to-man-city-compensation-negotiations-ongoing-with-chelsea-for-italian-to-be-pep-guardiolas-replacement",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-03T21:28:59.147Z"
+    "cachedAt": "2026-06-04T05:03:18.133Z"
   }
 }
