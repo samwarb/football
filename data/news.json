@@ -2,6 +2,106 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48963013,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Real Madrid keen on Arsenal's Calafiori",
+      "description": "Real Madrid are weighing up an approach for Arsenal defender Riccardo Calafiori. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-04T13:40:31Z",
+      "image": "https://a.espncdn.com/photo/2025/1115/r1575833_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48963013/transfer-rumors-news-real-madrid-keen-arsenals-calafiori",
+      "tag": "Real Madrid",
+      "teams": [
+        "Real Madrid",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48965097,
+      "source": "ESPN",
+      "headline": "Man United goalkeeper Tom Heaton signs one-year contract extension",
+      "description": "Manchester United's third-choice goalkeeper Tom Heaton has signed a new one-year contract, the club have announced.",
+      "publishedAt": "2026-06-04T12:59:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0604/r1668062_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48965097/man-united-keeper-tom-heaton-signs-one-year-contract-extension",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "2dda0ac721a91397cadce0fe115ae237",
+      "source": "Sky Sports",
+      "headline": "James fit as England reignite Spain rivalry with World Cup spot at stake",
+      "description": "Lauren James is fit to play in England's World Cup qualifier as the Lionesses reignite their rivalry with Spain in a bid to reach the tournament in 2027.",
+      "publishedAt": "2026-06-04T12:50:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-sarina-wiegman-lionesses_7265270.jpg?20260604134651",
+      "link": "https://www.skysports.com/football/news/12040/13550740/england-women-lauren-james-fit-for-lionesses-vs-spain-as-sarina-wiegmans-side-target-world-cup-qualification",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48963728,
+      "source": "ESPN",
+      "headline": "Pep Guardiola tried to quit '100 times,' says Man City chairman",
+      "description": "Manchester City chairman Khaldoon Al-Mubarak has revealed Pep Guardiola tried to quit \"100 times\" before finally walking away from the Etihad Stadium this summer.",
+      "publishedAt": "2026-06-04T12:00:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663348_600x400_3-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48963728/pep-guardiola-tried-quit-100-s-says-manchester-city-chairman",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "2c55c3a97fadbcc8d2fd8eba1776b4c6",
+      "source": "Sky Sports",
+      "headline": "Man City chairman on Pep exit, next manager and summer transfers",
+      "description": "Manchester City chairman Khaldoon Al Mubarak has given an update on the club's search for a new manager following Pep Guardiola's exit.",
+      "publishedAt": "2026-06-04T12:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-man-city-mubarak_7265150.jpg?20260604110039",
+      "link": "https://www.skysports.com/football/news/12040/13550687/khaldoon-al-mubarak-man-city-chairman-discusses-pep-guardiolas-exit-new-manager-update-and-summer-transfer-window-plans",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48964489,
+      "source": "ESPN",
+      "headline": "Tottenham's opening offer for Jan Paul van Hecke rejected by Brighton - sources",
+      "description": "Tottenham have had an opening offer for Jan Paul van Hecke rejected by Brighton & Hove Albion, sources have told ESPN.",
+      "publishedAt": "2026-06-04T11:43:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0604/r1668042_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48964489/tottenham-opening-offer-jan-paul-van-hecke-rejected-brighton-sources",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": "eb98a1ff12148c3d30450d7ca5f29d64",
+      "source": "Sky Sports",
+      "headline": "Leeds chairman Marathe: I hope Farke stays long beyond next season",
+      "description": "Leeds chairman Paraag Marathe says he wants manager Daniel Farke to remain at Elland Road \"much beyond this year\".",
+      "publishedAt": "2026-06-04T11:23:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-daniel-farke-leeds_7265235.jpg?20260604122028",
+      "link": "https://www.skysports.com/football/news/12040/13550727/daniel-farke-leeds-chairman-paraag-marathe-says-he-hopes-the-german-manager-stays-at-elland-road-much-beyond-this-year",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48957795,
+      "source": "ESPN",
+      "headline": "Man City Keep or Dump: Who should stay post-Guardiola?",
+      "description": "How should Manchester City approach key decisions ahead of their first season without Pep Guardiola in a decade? Gab Marcotti and Mark Ogden break it down.",
+      "publishedAt": "2026-06-04T11:02:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0529/260512_soc_trades_man-city_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48957795/manchester-city-keep-dump-stay-pep-guardiola-gab-marcotti-mark-ogden",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": "66e583c566c66de9563c509a43954f3b",
       "source": "Sky Sports",
       "headline": "Man City threaten legal action over Real presidential candidate's Haaland pledge",
@@ -9,17 +109,6 @@
       "publishedAt": "2026-06-04T08:25:00.000Z",
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-erling-haaland-man-city_7265065.png?20260604091832",
       "link": "https://www.skysports.com/football/news/12040/13550652/erling-haaland-man-city-threaten-legal-action-over-real-madrid-presidential-candidates-pledge-to-sign-striker",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e55a75c73470c2f1f91580f8ad7d0fcb",
-      "source": "Sky Sports",
-      "headline": "Spurs in talks with Brighton over Van Hecke",
-      "description": "Tottenham are in talks with Brighton over the signing of centre-back Jan Paul van Hecke.",
-      "publishedAt": "2026-06-04T07:52:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-van-hecke-brighton_7265043.jpg?20260604085638",
-      "link": "https://www.skysports.com/football/news/12040/13550663/jan-paul-van-hecke-tottenham-in-talks-with-brighton-over-defender-and-also-could-make-move-for-man-city-winger-savinho",
       "tag": "News Story",
       "teams": []
     },
@@ -35,20 +124,6 @@
       "teams": [
         "Real Madrid",
         "Manchester City"
-      ]
-    },
-    {
-      "id": 48963013,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid keen on Arsenal's Calafiori",
-      "description": "Real Madrid are weighing up an approach for Arsenal defender Riccardo Calafiori. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-04T06:53:59Z",
-      "image": "https://a.espncdn.com/photo/2025/1115/r1575833_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48963013/transfer-rumors-news-real-madrid-keen-arsenals-calafiori",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Arsenal"
       ]
     },
     {
@@ -414,65 +489,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/48898521/premier-league-joint-record-nine-teams-europe-next-season",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 48941404,
-      "source": "ESPN",
-      "headline": "Hislop: Andoni Iraola 'will be a success' at Liverpool",
-      "description": "ESPN FC's Shaka Hislop explains why Andoni Iraola can succeed if he is appointed to replace Arne Slot at Liverpool.",
-      "publishedAt": "2026-06-01T22:05:24Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0601/dm_260601_Hislop_Andoni_Iraola_will_be_a_success_at_Liverpool/dm_260601_Hislop_Andoni_Iraola_will_be_a_success_at_Liverpool.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48941404/andoni-iraola-success-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48939848,
-      "source": "ESPN",
-      "headline": "What can Andoni Iraola expect when he gets to Liverpool?",
-      "description": "Beth Lindop explains what Andoni Iraola will need to do at Liverpool once his appointment is confirmed.",
-      "publishedAt": "2026-06-01T18:39:54Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0601/dm_260601_What_can_Andoni_Iraola_expect_when_he_gets_to_Liverpool/dm_260601_What_can_Andoni_Iraola_expect_when_he_gets_to_Liverpool.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48939848/what-andoni-iraola-expect-gets-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48937142,
-      "source": "ESPN",
-      "headline": "Arsenal parade: Six stabbings, 75 people rescued from heights",
-      "description": "Sixteen people were arrested, and 75 were rescued from heights, at the Arsenal celebration parade, emergency services confirmed.",
-      "publishedAt": "2026-06-01T14:22:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666563_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48937142/arsenal-parade-sixteen-arrests-75-people-rescued-heights",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48938327,
-      "source": "ESPN",
-      "headline": "Rodri will wait until World Cup is over to discuss future amid Real Madrid links",
-      "description": "Manchester City midfielder Rodri has said he'll \"wait until the World Cup is over\" before discussing his future, after being linked with a summer switch to Real Madrid.",
-      "publishedAt": "2026-06-01T13:39:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666621_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48938327/rodri-wait-world-cup-discuss-future",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Spain",
-        "Real Madrid"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-04T10:11:19.610Z"
+    "cachedAt": "2026-06-04T15:39:39.153Z"
   }
 }
