@@ -2,6 +2,116 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "1fddbd8332db03e1683300f26d6a2258",
+      "source": "Sky Sports",
+      "headline": "Celtic fan groups sign letter opposing Keane appointment",
+      "description": "Dozens of Celtic supporters clubs have put their names to a statement opposing the potential appointment of Robbie Keane as manager over his previous role with Maccabi Tel Aviv.",
+      "publishedAt": "2026-06-04T19:31:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-robbie-keane_7264692.jpg?20260603170743",
+      "link": "https://www.skysports.com/football/news/12040/13550904/robbie-keane-to-celtic-fan-groups-sign-letter-opposing-appointment-due-to-maccabi-tel-aviv-links",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48945214,
+      "source": "ESPN",
+      "headline": "Liverpool name Andoni Iraola head coach, replacing Arne Slot",
+      "description": "Liverpool have confirmed the appointment of Andoni Iraola as their new head coach.",
+      "publishedAt": "2026-06-04T18:58:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0604/r1668221_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48945214/liverpool-appoint-andoni-iraola-arne-slot-successor",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "3a940810ecca675256bf64dd49304d7e",
+      "source": "Sky Sports",
+      "headline": "Iraola's Liverpool to-do list: Fix defence, get Isak firing and stop the Anfield boos",
+      "description": "Andoni Iraola has been appointed Liverpool head coach after Arne Slot's sudden departure from Anfield and he has a whole host of issues to find answers to before the start of the next campaign.",
+      "publishedAt": "2026-06-04T18:30:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-iraola-liverpool_7264341.jpg?20260603104031",
+      "link": "https://www.skysports.com/football/news/12040/13550159/andoni-iraola-whats-on-new-liverpool-head-coachs-to-do-list-at-anfield-following-reds-disappointing-season",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "ff2f8fb14d56d56f1e4b2d022db8c187",
+      "source": "Sky Sports",
+      "headline": "Liverpool announce Iraola as head coach",
+      "description": "Liverpool have appointed Andoni Iraola as their new head coach.",
+      "publishedAt": "2026-06-04T18:28:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-iraola-liverpool_7265606.jpg?20260604200340",
+      "link": "https://www.skysports.com/football/news/12040/13550174/andoni-iraola-liverpool-appoint-former-bournemouth-boss-as-arne-slots-successor-on-two-year-deal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48957795,
+      "source": "ESPN",
+      "headline": "Man City Keep or Dump: Who should stay post-Guardiola?",
+      "description": "How should Manchester City approach key decisions ahead of their first season without Pep Guardiola in a decade? Gab Marcotti and Mark Ogden break it down.",
+      "publishedAt": "2026-06-04T18:26:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0529/260512_soc_trades_man-city_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48957795/manchester-city-keep-dump-stay-pep-guardiola-gab-marcotti-mark-ogden",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48966590,
+      "source": "ESPN",
+      "headline": "Man United CEO: Signing Premier League proven talent could be summer strategy again",
+      "description": "Manchester United CEO Omar Berrada has hinted that the club will again look to target players with Premier League experience in the transfer window after signing Bryan Mbeumo and Matheus Cunha from domestic rivals last summer.",
+      "publishedAt": "2026-06-04T16:30:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0604/r1668122_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48966590/manchester-united-omar-berrada-premier-league-talent-bryan-mbeumo-matheus-cunha",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48956370,
+      "source": "ESPN",
+      "headline": "A father-son Transatlantic, cross-generational voyage to visit Burnley",
+      "description": "It took a Transatlantic trip to the North of England, in search of a family's football history, to truly experience the purity and love of the game.",
+      "publishedAt": "2026-06-04T16:18:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0603/r1667800_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48956370/a-father-son-transatlantic-cross-generational-voyage-visit-burnley",
+      "tag": "Burnley",
+      "teams": [
+        "Burnley"
+      ]
+    },
+    {
+      "id": 48963240,
+      "source": "ESPN",
+      "headline": "Man City threaten legal action after Real Madrid candidate vows to sign Erling Haaland",
+      "description": "Manchester City have threatened legal action after Real Madrid presidential candidate Enrique Riquelme promised to sign Erling Haaland if he's elected.",
+      "publishedAt": "2026-06-04T16:17:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0422/r1647668_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48963240/manchester-city-threaten-legal-action-real-madrid-erling-haaland-comments-enrique-riquelme-election",
+      "tag": "Real Madrid",
+      "teams": [
+        "Real Madrid",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "f5fbff1f66be7a05d55814336744a6f8",
+      "source": "Sky Sports",
+      "headline": "Super League LIVE! St Helens stretch lead further at Leeds",
+      "description": "",
+      "publishedAt": "2026-06-04T15:47:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-mark-percival-st-helens_7265640.jpg?20260604203833",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13550811/super-league-live-leeds-rhinos-vs-st-helens-in-battle-for-top-spot-updates-latest-scores-team-news-commentary",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48963013,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Real Madrid keen on Arsenal's Calafiori",
@@ -29,17 +139,6 @@
       ]
     },
     {
-      "id": "2dda0ac721a91397cadce0fe115ae237",
-      "source": "Sky Sports",
-      "headline": "James fit as England reignite Spain rivalry with World Cup spot at stake",
-      "description": "Lauren James is fit to play in England's World Cup qualifier as the Lionesses reignite their rivalry with Spain in a bid to reach the tournament in 2027.",
-      "publishedAt": "2026-06-04T12:50:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-sarina-wiegman-lionesses_7265270.jpg?20260604134651",
-      "link": "https://www.skysports.com/football/news/12040/13550740/england-women-lauren-james-fit-for-lionesses-vs-spain-as-sarina-wiegmans-side-target-world-cup-qualification",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48963728,
       "source": "ESPN",
       "headline": "Pep Guardiola tried to quit '100 times,' says Man City chairman",
@@ -53,17 +152,6 @@
       ]
     },
     {
-      "id": "2c55c3a97fadbcc8d2fd8eba1776b4c6",
-      "source": "Sky Sports",
-      "headline": "Man City chairman on Pep exit, next manager and summer transfers",
-      "description": "Manchester City chairman Khaldoon Al Mubarak has given an update on the club's search for a new manager following Pep Guardiola's exit.",
-      "publishedAt": "2026-06-04T12:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-man-city-mubarak_7265150.jpg?20260604110039",
-      "link": "https://www.skysports.com/football/news/12040/13550687/khaldoon-al-mubarak-man-city-chairman-discusses-pep-guardiolas-exit-new-manager-update-and-summer-transfer-window-plans",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48964489,
       "source": "ESPN",
       "headline": "Tottenham's opening offer for Jan Paul van Hecke rejected by Brighton - sources",
@@ -75,55 +163,6 @@
       "teams": [
         "Tottenham Hotspur",
         "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": "eb98a1ff12148c3d30450d7ca5f29d64",
-      "source": "Sky Sports",
-      "headline": "Leeds chairman Marathe: I hope Farke stays long beyond next season",
-      "description": "Leeds chairman Paraag Marathe says he wants manager Daniel Farke to remain at Elland Road \"much beyond this year\".",
-      "publishedAt": "2026-06-04T11:23:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-daniel-farke-leeds_7265235.jpg?20260604122028",
-      "link": "https://www.skysports.com/football/news/12040/13550727/daniel-farke-leeds-chairman-paraag-marathe-says-he-hopes-the-german-manager-stays-at-elland-road-much-beyond-this-year",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48957795,
-      "source": "ESPN",
-      "headline": "Man City Keep or Dump: Who should stay post-Guardiola?",
-      "description": "How should Manchester City approach key decisions ahead of their first season without Pep Guardiola in a decade? Gab Marcotti and Mark Ogden break it down.",
-      "publishedAt": "2026-06-04T11:02:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0529/260512_soc_trades_man-city_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48957795/manchester-city-keep-dump-stay-pep-guardiola-gab-marcotti-mark-ogden",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "66e583c566c66de9563c509a43954f3b",
-      "source": "Sky Sports",
-      "headline": "Man City threaten legal action over Real presidential candidate's Haaland pledge",
-      "description": "Man City are considering taking legal action after a Real Madrid presedential candidate said he would sign Erling Haaland, if elected.",
-      "publishedAt": "2026-06-04T08:25:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-erling-haaland-man-city_7265065.png?20260604091832",
-      "link": "https://www.skysports.com/football/news/12040/13550652/erling-haaland-man-city-threaten-legal-action-over-real-madrid-presidential-candidates-pledge-to-sign-striker",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48963240,
-      "source": "ESPN",
-      "headline": "Man City threaten legal action after Real Madrid candidate vows to sign Erling Haaland",
-      "description": "Manchester City have threatened legal action after Real Madrid presidential candidate Enrique Riquelme promised to sign Erling Haaland if he's elected.",
-      "publishedAt": "2026-06-04T07:39:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0422/r1647668_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48963240/manchester-city-threaten-legal-action-real-madrid-erling-haaland-comments-enrique-riquelme-election",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Manchester City"
       ]
     },
     {
@@ -283,6 +322,17 @@
       ]
     },
     {
+      "id": "0740e896b3a5890b926da2d8e0364090",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: 'I want to be one of you' - Iraola's first words as Reds boss",
+      "description": "",
+      "publishedAt": "2026-06-03T09:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-andoni-iraola-liverpool_7264992.png?20260604073411",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48948006,
       "source": "ESPN",
       "headline": "Why Liverpool sacked Slot and how Iraola's Klopp comparisons set up his successor",
@@ -395,20 +445,6 @@
       ]
     },
     {
-      "id": 48786147,
-      "source": "ESPN",
-      "headline": "Ranking the 21 best U21 players at the 2026 World Cup?",
-      "description": "Ahead of the 2026 World Cup, ESPN brings you our list of the tournament's next young stars aged 21 or under. Who is good enough to make it?",
-      "publishedAt": "2026-06-02T13:04:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0529/r1665268_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48786147/ranking-21-best-mens-u21-players-world-cup-yamal-guler-neves",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
       "id": 48945789,
       "source": "ESPN",
       "headline": "Sir Kenny Dalglish reveals he is undergoing cancer treatment",
@@ -464,36 +500,11 @@
         "Chelsea",
         "Manchester City"
       ]
-    },
-    {
-      "id": 48942742,
-      "source": "ESPN",
-      "headline": "Justin Rose, MC Hariel help Chelsea release 2026-27 home kit",
-      "description": "Chelsea have unveiled their new 2026-27 home kit, though there's every chance you might have caught a fleeting glimpse before its official release.",
-      "publishedAt": "2026-06-02T07:24:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1666957_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48942742/justin-rose-mc-hariel-help-chelsea-release-2026-27-home-kit",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48898521,
-      "source": "ESPN",
-      "headline": "Why will Premier League have joint-record nine teams in Europe next season?",
-      "description": "Crystal Palace's Conference League win saw them become the ninth Premier League team to qualify for Europe.",
-      "publishedAt": "2026-06-02T06:55:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664768_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48898521/premier-league-joint-record-nine-teams-europe-next-season",
-      "tag": "Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-04T15:39:39.153Z"
+    "cachedAt": "2026-06-04T20:22:52.220Z"
   }
 }
