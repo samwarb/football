@@ -2,6 +2,129 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48968362,
+      "source": "ESPN",
+      "headline": "Arsenal's Max Dowman shortlisted for PFA Young Player of the Year award despite sole PL start",
+      "description": "Arsenal teenager Max Dowman has been shortlisted to win the 2026 PFA Young Player of the Year award, despite starting just one Premier League game in his breakout season with the newly-crowned English champions.",
+      "publishedAt": "2026-06-05T09:00:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0318/r1630104_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48968362/arsenal-max-dowman-shortlisted-pfa-young-player-year-award-sole-pl-start",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4e18ce729b69519132c4d2ec8733a644",
+      "source": "Sky Sports",
+      "headline": "Rice, James shortlisted for PFA Player of the Year awards",
+      "description": "The PFA has released the shortlists for its Men's and Women's Player of the Year awards.",
+      "publishedAt": "2026-06-05T08:45:00.000Z",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-declan-rice-arsenal_7221153.jpg?20260528170653",
+      "link": "https://www.skysports.com/football/news/12040/13551019/arsenal-midfielder-declan-rice-and-chelsea-forward-lauren-james-shortlisted-for-pfa-player-of-the-year-awards",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48967450,
+      "source": "ESPN",
+      "headline": "Man United's Bruno Fernandes targeting award double after PFA nomination",
+      "description": "Bruno Fernandes is on course to seal a prestigious award double after being shortlisted for the 2026 PFA Player of the Year prize.",
+      "publishedAt": "2026-06-05T08:28:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0412/r1642249_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48967450/manchester-united-bruno-fernandes-targeting-award-double-pfa-nomination",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48972628,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool begin talks for Yan Diomande",
+      "description": "Liverpool begin talks to sign Yan Diomande, and could Man City switch their attention from Elliot Anderson to Sandro Tonali? Transfer Talk has the latest.",
+      "publishedAt": "2026-06-05T07:45:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48972628/transfer-rumors-news-liverpool-begin-talks-yan-diomande",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "RB Leipzig",
+        "Ivory Coast"
+      ]
+    },
+    {
+      "id": "43367de57bd4e1404173b8a4861b43ab",
+      "source": "Sky Sports",
+      "headline": "Robertson relishing chance to lead Scotland at World Cup",
+      "description": "Andy Robertson was expected to be named in Scotland's World Cup squad, but he admitted it was a \"huge pinch yourself moment\"when he was confirmed as one of Steve Clarke's 26-man party.",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-robertson-andy-scotland_7262941.jpg?20260601125742",
+      "link": "https://www.skysports.com/football/news/12040/13549779/world-cup-2026-scotland-captain-andy-robertson-on-pinch-yourself-moment-of-being-part-of-historic-squad",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-06-05T06:21:38Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-05T06:17:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
       "id": 48969279,
       "source": "ESPN",
       "headline": "Hislop: Andoni Iraola deserves 'patience' at Liverpool",
@@ -15,6 +138,17 @@
       ]
     },
     {
+      "id": "91384bddc70e6f8d9faaad12dd2d127b",
+      "source": "Sky Sports",
+      "headline": "Leeds see off Saints in Headingley thriller",
+      "description": "Highlights of the Super League clash between Leeds Rhinos and St Helens.",
+      "publishedAt": "2026-06-04T21:09:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-leeds-saints_7265718.jpg?20260604221157",
+      "link": "https://www.skysports.com/watch/video/13550938/leeds-rhinos-vs-st-helens-highlights-rhinos-beat-saints-24-16-in-super-league-thriller",
+      "tag": "Video",
+      "teams": []
+    },
+    {
       "id": 48945214,
       "source": "ESPN",
       "headline": "Liverpool name Andoni Iraola head coach, replacing Arne Slot",
@@ -26,39 +160,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "1fddbd8332db03e1683300f26d6a2258",
-      "source": "Sky Sports",
-      "headline": "Celtic fan groups sign letter opposing Keane appointment",
-      "description": "Dozens of Celtic supporters clubs have put their names to a statement opposing the potential appointment of Robbie Keane as manager over his previous role with Maccabi Tel Aviv.",
-      "publishedAt": "2026-06-04T19:31:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-robbie-keane_7264692.jpg?20260603170743",
-      "link": "https://www.skysports.com/football/news/12040/13550904/robbie-keane-to-celtic-fan-groups-sign-letter-opposing-appointment-due-to-maccabi-tel-aviv-links",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "3a940810ecca675256bf64dd49304d7e",
-      "source": "Sky Sports",
-      "headline": "Iraola's Liverpool to-do list: Fix defence, get Isak firing and stop the Anfield boos",
-      "description": "Andoni Iraola has been appointed Liverpool head coach after Arne Slot's sudden departure from Anfield and he has a whole host of issues to find answers to before the start of the next campaign.",
-      "publishedAt": "2026-06-04T18:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-iraola-liverpool_7264341.jpg?20260603104031",
-      "link": "https://www.skysports.com/football/news/12040/13550159/andoni-iraola-whats-on-new-liverpool-head-coachs-to-do-list-at-anfield-following-reds-disappointing-season",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "ff2f8fb14d56d56f1e4b2d022db8c187",
-      "source": "Sky Sports",
-      "headline": "Liverpool announce Iraola as head coach",
-      "description": "Liverpool have appointed Andoni Iraola as their new head coach.",
-      "publishedAt": "2026-06-04T18:28:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-iraola-liverpool_7265606.jpg?20260604200340",
-      "link": "https://www.skysports.com/football/news/12040/13550174/andoni-iraola-liverpool-appoint-former-bournemouth-boss-as-arne-slots-successor-on-two-year-deal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48957795,
@@ -114,17 +215,6 @@
       ]
     },
     {
-      "id": "c199de687d636da26ad89bda6bd58519",
-      "source": "Sky Sports",
-      "headline": "Leeds fight back to beat St Helens and move top of Super League",
-      "description": "Leeds Rhinos fought from eight points behind to edge St Helens 24-16 on Thursday and move top of the Super League table.",
-      "publishedAt": "2026-06-04T15:58:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jake-connor-george-delaney_7265687.jpg?20260604213837",
-      "link": "https://www.skysports.com/rugby-league/leeds-vs-st-helens/report/63240",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 48965097,
       "source": "ESPN",
       "headline": "Man United goalkeeper Tom Heaton signs one-year contract extension",
@@ -162,66 +252,6 @@
       "teams": [
         "Tottenham Hotspur",
         "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-04T06:44:55Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-04T06:37:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
       ]
     },
     {
@@ -444,55 +474,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 48945569,
-      "source": "ESPN",
-      "headline": "Rodri: My focus is on the World Cup, my future can wait",
-      "description": "Rodri insists that his full focus is on the World Cup, despite ongoing speculation over his current contract at Manchester City.",
-      "publishedAt": "2026-06-02T10:47:31Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0602/dm_260602_Rodri_My_focus_is_on_the_World_Cup_my_future_can_wait/dm_260602_Rodri_My_focus_is_on_the_World_Cup_my_future_can_wait.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48945569/my-focus-world-cup-my-future-wait",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Spain"
-      ]
-    },
-    {
-      "id": 48945155,
-      "source": "ESPN",
-      "headline": "Liverpool open formal talks with Andoni Iraola - sources",
-      "description": "Liverpool have now opened formal talks with Andoni Iraola as they begin the process of appointing a new head coach, sources told ESPN.",
-      "publishedAt": "2026-06-02T09:08:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0211/r1613615_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48945155/liverpool-open-formal-talks-andoni-iraola-sources",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48937196,
-      "source": "ESPN",
-      "headline": "Premier League giants hit managerial reset button, but who will capitalize?",
-      "description": "The Premier League season ended just nine days ago, but Arne Slot's dismissal as Liverpool manager means the biggest clubs are preparing for a new battle at the top already.",
-      "publishedAt": "2026-06-02T07:39:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666565_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48937196/premier-league-giants-hit-managerial-reset-button-capitalize",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester United",
-        "Arsenal",
-        "Chelsea",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-05T04:45:12.042Z"
+    "cachedAt": "2026-06-05T10:14:37.263Z"
   }
 }
