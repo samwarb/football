@@ -2,6 +2,32 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48969279,
+      "source": "ESPN",
+      "headline": "Hislop: Andoni Iraola deserves 'patience' at Liverpool",
+      "description": "ESPN FC's Shaka Hislop says Andoni Iraola faces a big challenge to turn things around at Liverpool.",
+      "publishedAt": "2026-06-04T21:59:17Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0604/dm_260604_Hislop_Andoni_Iraola_deserves_patience_at_Liverpool/dm_260604_Hislop_Andoni_Iraola_deserves_patience_at_Liverpool.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48969279/andoni-iraola-deserves-patience-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48945214,
+      "source": "ESPN",
+      "headline": "Liverpool name Andoni Iraola head coach, replacing Arne Slot",
+      "description": "Liverpool have confirmed the appointment of Andoni Iraola as their new head coach.",
+      "publishedAt": "2026-06-04T19:44:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0604/r1668221_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48945214/liverpool-appoint-andoni-iraola-arne-slot-successor",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": "1fddbd8332db03e1683300f26d6a2258",
       "source": "Sky Sports",
       "headline": "Celtic fan groups sign letter opposing Keane appointment",
@@ -11,19 +37,6 @@
       "link": "https://www.skysports.com/football/news/12040/13550904/robbie-keane-to-celtic-fan-groups-sign-letter-opposing-appointment-due-to-maccabi-tel-aviv-links",
       "tag": "News Story",
       "teams": []
-    },
-    {
-      "id": 48945214,
-      "source": "ESPN",
-      "headline": "Liverpool name Andoni Iraola head coach, replacing Arne Slot",
-      "description": "Liverpool have confirmed the appointment of Andoni Iraola as their new head coach.",
-      "publishedAt": "2026-06-04T18:58:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0604/r1668221_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48945214/liverpool-appoint-andoni-iraola-arne-slot-successor",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     },
     {
       "id": "3a940810ecca675256bf64dd49304d7e",
@@ -101,29 +114,15 @@
       ]
     },
     {
-      "id": "f5fbff1f66be7a05d55814336744a6f8",
+      "id": "c199de687d636da26ad89bda6bd58519",
       "source": "Sky Sports",
-      "headline": "Super League LIVE! St Helens stretch lead further at Leeds",
-      "description": "",
-      "publishedAt": "2026-06-04T15:47:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-mark-percival-st-helens_7265640.jpg?20260604203833",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13550811/super-league-live-leeds-rhinos-vs-st-helens-in-battle-for-top-spot-updates-latest-scores-team-news-commentary",
-      "tag": "Liveblog",
+      "headline": "Leeds fight back to beat St Helens and move top of Super League",
+      "description": "Leeds Rhinos fought from eight points behind to edge St Helens 24-16 on Thursday and move top of the Super League table.",
+      "publishedAt": "2026-06-04T15:58:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jake-connor-george-delaney_7265687.jpg?20260604213837",
+      "link": "https://www.skysports.com/rugby-league/leeds-vs-st-helens/report/63240",
+      "tag": "Report",
       "teams": []
-    },
-    {
-      "id": 48963013,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid keen on Arsenal's Calafiori",
-      "description": "Real Madrid are weighing up an approach for Arsenal defender Riccardo Calafiori. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-04T13:40:31Z",
-      "image": "https://a.espncdn.com/photo/2025/1115/r1575833_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48963013/transfer-rumors-news-real-madrid-keen-arsenals-calafiori",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Arsenal"
-      ]
     },
     {
       "id": 48965097,
@@ -322,17 +321,6 @@
       ]
     },
     {
-      "id": "0740e896b3a5890b926da2d8e0364090",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: 'I want to be one of you' - Iraola's first words as Reds boss",
-      "description": "",
-      "publishedAt": "2026-06-03T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-andoni-iraola-liverpool_7264992.png?20260604073411",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48948006,
       "source": "ESPN",
       "headline": "Why Liverpool sacked Slot and how Iraola's Klopp comparisons set up his successor",
@@ -505,6 +493,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-04T20:22:52.220Z"
+    "cachedAt": "2026-06-05T04:45:12.042Z"
   }
 }
