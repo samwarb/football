@@ -2,11 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "5b6a9826b5a93d4dfa025b308e62e729",
+      "source": "Sky Sports",
+      "headline": "Dominant Spain add second vs England LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-05T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-alexia-putellas-spain-women_7266506.jpg?20260605204726",
+      "link": "https://www.skysports.com/football/spain-women-vs-england-women/live/550122",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "207434f9a5905ae30ba02226355b70ad",
+      "source": "Sky Sports",
+      "headline": "O'Neill agrees to take Celtic job on permanent basis",
+      "description": "Martin O'Neill has agreed to become Celtic's permanent manager.",
+      "publishedAt": "2026-06-05T16:26:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-martin-oneill-celtic_7255832.jpg?20260522144713",
+      "link": "https://www.skysports.com/football/news/12040/13551203/celtic-manager-search-martin-oneill-agrees-to-take-job-on-permanent-basis-after-dermot-desmond-talks",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48975273,
       "source": "ESPN",
       "headline": "Ex-Spurs boss Thomas Frank has had 'opportunities,' but won't 'rush' into next role",
       "description": "Former Tottenham Hotspur head coach Thomas Frank has said he does not want to \"rush\" into his next role.",
-      "publishedAt": "2026-06-05T14:55:28Z",
+      "publishedAt": "2026-06-05T14:54:50Z",
       "image": "https://a.espncdn.com/photo/2026/0124/r1605048_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48975273/ex-spurs-boss-thomas-frank-wont-rush-new-role-opportunities-roberto-de-zerbi",
       "tag": "Tottenham Hotspur",
@@ -15,33 +37,11 @@
       ]
     },
     {
-      "id": "0489c1f9bef63205fed6789d2c6c75c8",
-      "source": "Sky Sports",
-      "headline": "Frank rules out return to management this summer",
-      "description": "",
-      "publishedAt": "2026-06-05T14:00:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-thomas-frank-tottenham_7161596.jpg?20260210223613",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "92621b947fc6673372c9704ba1e34cbb",
-      "source": "Sky Sports",
-      "headline": "Leeds Rhinos head coach Arthur signs contract extension",
-      "description": "Leeds Rhinos head coach Brad Arthur has agreed a two-year extension to his contract with the club.",
-      "publishedAt": "2026-06-05T13:45:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-brad-arthur-leeds-rhinos_7266017.jpg?20260605115418",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13551044/brad-arthur-leeds-rhinos-head-coach-signs-two-year-contract-extension-with-super-league-club",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48908484,
       "source": "ESPN",
       "headline": "Andy Robertson joins Tottenham on free transfer after leaving Liverpool",
       "description": "Tottenham have completed the signing of Andy Robertson on a free transfer following his departure from Liverpool, the north London club has confirmed.",
-      "publishedAt": "2026-06-05T13:15:51Z",
+      "publishedAt": "2026-06-05T12:53:27Z",
       "image": "https://a.espncdn.com/photo/2026/0529/r1665271_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48908484/andy-robertson-tottenham-free-transfer-liverpool",
       "tag": "Liverpool",
@@ -64,22 +64,25 @@
       ]
     },
     {
-      "id": "f761f5ae6c1245951d0b454e2f2a42bc",
-      "source": "Sky Sports",
-      "headline": "Angry Rozicki claims Billam-Smith struggled to make weight",
-      "description": "Chris Billam-Smith and Ryan Rozicki react to their weigh-in ahead of the world cruiserweight title bout in Bournemouth.",
-      "publishedAt": "2026-06-05T11:29:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-billam-smith-rozicki_7266181.jpg?20260605141933",
-      "link": "https://www.skysports.com/watch/video/13551092/boxing-angry-ryan-rozicki-claims-chris-billam-smith-struggled-to-make-weight",
-      "tag": "Video",
-      "teams": []
+      "id": 48973574,
+      "source": "ESPN",
+      "headline": "Marco Silva announced as Jose Mourinho replacement at Benfica",
+      "description": "Former Fulham manager Marco Silva has officially been announced as the replacement for Jose Mourinho at Benfica.",
+      "publishedAt": "2026-06-05T11:41:58Z",
+      "image": "https://a.espncdn.com/photo/2023/0722/r1201017_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48973574/marco-silva-announced-jose-mourinho-replacement-benfica",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Benfica"
+      ]
     },
     {
       "id": 48968362,
       "source": "ESPN",
       "headline": "Arsenal's Max Dowman shortlisted for PFA Young Player of the Year award despite sole PL start",
       "description": "Arsenal teenager Max Dowman has been shortlisted to win the 2026 PFA Young Player of the Year award, despite starting just one Premier League game in his breakout season with the newly-crowned English champions.",
-      "publishedAt": "2026-06-05T09:00:20Z",
+      "publishedAt": "2026-06-05T08:52:54Z",
       "image": "https://a.espncdn.com/photo/2026/0318/r1630104_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48968362/arsenal-max-dowman-shortlisted-pfa-young-player-year-award-sole-pl-start",
       "tag": "Arsenal",
@@ -105,7 +108,7 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool begin talks for Yan Diomande",
       "description": "Liverpool begin talks to sign Yan Diomande, and could Man City switch their attention from Elliot Anderson to Sandro Tonali? Transfer Talk has the latest.",
-      "publishedAt": "2026-06-05T07:45:24Z",
+      "publishedAt": "2026-06-05T07:44:55Z",
       "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48972628/transfer-rumors-news-liverpool-begin-talks-yan-diomande",
       "tag": "Liverpool",
@@ -193,7 +196,7 @@
       "source": "ESPN",
       "headline": "Liverpool name Andoni Iraola head coach, replacing Arne Slot",
       "description": "Liverpool have confirmed the appointment of Andoni Iraola as their new head coach.",
-      "publishedAt": "2026-06-04T19:44:33Z",
+      "publishedAt": "2026-06-04T19:09:23Z",
       "image": "https://a.espncdn.com/photo/2026/0604/r1668221_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48945214/liverpool-appoint-andoni-iraola-arne-slot-successor",
       "tag": "Liverpool",
@@ -202,24 +205,11 @@
       ]
     },
     {
-      "id": 48957795,
-      "source": "ESPN",
-      "headline": "Man City Keep or Dump: Who should stay post-Guardiola?",
-      "description": "How should Manchester City approach key decisions ahead of their first season without Pep Guardiola in a decade? Gab Marcotti and Mark Ogden break it down.",
-      "publishedAt": "2026-06-04T18:26:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0529/260512_soc_trades_man-city_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48957795/manchester-city-keep-dump-stay-pep-guardiola-gab-marcotti-mark-ogden",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 48966590,
       "source": "ESPN",
       "headline": "Man United CEO: Signing Premier League proven talent could be summer strategy again",
       "description": "Manchester United CEO Omar Berrada has hinted that the club will again look to target players with Premier League experience in the transfer window after signing Bryan Mbeumo and Matheus Cunha from domestic rivals last summer.",
-      "publishedAt": "2026-06-04T16:30:04Z",
+      "publishedAt": "2026-06-04T16:29:57Z",
       "image": "https://a.espncdn.com/photo/2026/0604/r1668122_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48966590/manchester-united-omar-berrada-premier-league-talent-bryan-mbeumo-matheus-cunha",
       "tag": "Manchester United",
@@ -228,24 +218,11 @@
       ]
     },
     {
-      "id": 48956370,
-      "source": "ESPN",
-      "headline": "A father-son Transatlantic, cross-generational voyage to visit Burnley",
-      "description": "It took a Transatlantic trip to the North of England, in search of a family's football history, to truly experience the purity and love of the game.",
-      "publishedAt": "2026-06-04T16:18:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667800_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48956370/a-father-son-transatlantic-cross-generational-voyage-visit-burnley",
-      "tag": "Burnley",
-      "teams": [
-        "Burnley"
-      ]
-    },
-    {
       "id": 48963240,
       "source": "ESPN",
       "headline": "Man City threaten legal action after Real Madrid candidate vows to sign Erling Haaland",
       "description": "Manchester City have threatened legal action after Real Madrid presidential candidate Enrique Riquelme promised to sign Erling Haaland if he's elected.",
-      "publishedAt": "2026-06-04T16:17:35Z",
+      "publishedAt": "2026-06-04T16:16:40Z",
       "image": "https://a.espncdn.com/photo/2026/0422/r1647668_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48963240/manchester-city-threaten-legal-action-real-madrid-erling-haaland-comments-enrique-riquelme-election",
       "tag": "Real Madrid",
@@ -255,22 +232,24 @@
       ]
     },
     {
-      "id": "f6dfcb212b04f421ec9ec4d7db798b8e",
-      "source": "Sky Sports",
-      "headline": "England eye statement win over rivals Spain to seal World Cup 2027 spot",
-      "description": "You'd think both sets of players were getting sick of each other but it appears the battle between England and Spain remains as strong as ever.",
-      "publishedAt": "2026-06-04T13:03:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-alessia-russo-mapi-leon_7220274.jpg?20260414210243",
-      "link": "https://www.skysports.com/football/news/12040/13550753/spain-vs-england-lucy-bronze-says-rivalry-makes-teams-stronger-as-lionesses-eye-statement-win-to-seal-2027-world-cup-spot",
-      "tag": "News Story",
-      "teams": []
+      "id": 48956370,
+      "source": "ESPN",
+      "headline": "A father-son Transatlantic, cross-generational voyage to visit Burnley",
+      "description": "It took a Transatlantic trip to the North of England, in search of a family's football history, to truly experience the purity and love of the game.",
+      "publishedAt": "2026-06-04T16:05:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0603/r1667800_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48956370/a-father-son-transatlantic-cross-generational-voyage-visit-burnley",
+      "tag": "Burnley",
+      "teams": [
+        "Burnley"
+      ]
     },
     {
       "id": 48965097,
       "source": "ESPN",
       "headline": "Man United goalkeeper Tom Heaton signs one-year contract extension",
       "description": "Manchester United's third-choice goalkeeper Tom Heaton has signed a new one-year contract, the club have announced.",
-      "publishedAt": "2026-06-04T12:59:38Z",
+      "publishedAt": "2026-06-04T12:59:30Z",
       "image": "https://a.espncdn.com/photo/2026/0604/r1668062_594x334_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48965097/man-united-keeper-tom-heaton-signs-one-year-contract-extension",
       "tag": "Manchester United",
@@ -296,7 +275,7 @@
       "source": "ESPN",
       "headline": "Tottenham's opening offer for Jan Paul van Hecke rejected by Brighton - sources",
       "description": "Tottenham have had an opening offer for Jan Paul van Hecke rejected by Brighton & Hove Albion, sources have told ESPN.",
-      "publishedAt": "2026-06-04T11:43:57Z",
+      "publishedAt": "2026-06-04T11:42:04Z",
       "image": "https://a.espncdn.com/photo/2026/0604/r1668042_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48964489/tottenham-opening-offer-jan-paul-van-hecke-rejected-brighton-sources",
       "tag": "Tottenham Hotspur",
@@ -306,11 +285,38 @@
       ]
     },
     {
+      "id": 48957795,
+      "source": "ESPN",
+      "headline": "Man City Keep or Dump: Who should stay post-Guardiola?",
+      "description": "How should Manchester City approach key decisions ahead of their first season without Pep Guardiola in a decade? Gab Marcotti and Mark Ogden break it down.",
+      "publishedAt": "2026-06-04T11:02:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0529/260512_soc_trades_man-city_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48957795/manchester-city-keep-dump-stay-pep-guardiola-gab-marcotti-mark-ogden",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48963165,
+      "source": "ESPN",
+      "headline": "Manchester United complete Éderson signing from Atalanta",
+      "description": "Manchester United have completed the signing of Éderson from Atalanta.",
+      "publishedAt": "2026-06-04T07:06:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0604/r1667992_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48963165/manchester-united-complete-ederson-signing-atalanta",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Atalanta"
+      ]
+    },
+    {
       "id": 48962858,
       "source": "ESPN",
       "headline": "Man City's first bid for Elliot Anderson rejected by Nottingham Forest - sources",
       "description": "Manchester City have had their opening bid for Elliot Anderson rejected by Nottingham Forest, sources have told ESPN.",
-      "publishedAt": "2026-06-04T06:16:21Z",
+      "publishedAt": "2026-06-04T06:16:14Z",
       "image": "https://a.espncdn.com/photo/2026/0113/r1600209_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48962858/man-city-first-bid-elliot-anderson-rejected-nottingham-forest-sources",
       "tag": "Nottingham Forest",
@@ -333,25 +339,11 @@
       ]
     },
     {
-      "id": 48954336,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye move for West Ham's Fernandes",
-      "description": "After getting relegated with West Ham last season, could Mateus Fernandes make a move for Liverpool? Transfer Talk has the latest.",
-      "publishedAt": "2026-06-03T21:36:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667825_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48954336/transfer-rumors-news-arsenal-bayern-munich-battle-germany-defender-nathaniel-brown",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "West Ham United"
-      ]
-    },
-    {
       "id": 48958407,
       "source": "ESPN",
       "headline": "Former Liverpool defender Ibrahima Konaté opens up on struggles amid personal tragedies",
       "description": "Former Liverpool defender Ibrahima Konate has spoken about the struggles he faced in a year of personal tragedy in which the death of teammate Diogo Jota was followed by that of his father.",
-      "publishedAt": "2026-06-03T19:19:14Z",
+      "publishedAt": "2026-06-03T19:19:09Z",
       "image": "https://a.espncdn.com/photo/2026/0320/r1631160_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48958407/former-liverpool-defender-ibrahima-konate-struggles-amid-personal-tragedies",
       "tag": "Liverpool",
@@ -374,11 +366,25 @@
       ]
     },
     {
+      "id": 48954336,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool eye move for West Ham's Fernandes",
+      "description": "After getting relegated with West Ham last season, could Mateus Fernandes make a move for Liverpool? Transfer Talk has the latest.",
+      "publishedAt": "2026-06-03T15:04:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0603/r1667825_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48954336/transfer-rumors-news-arsenal-bayern-munich-battle-germany-defender-nathaniel-brown",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "West Ham United"
+      ]
+    },
+    {
       "id": 48955010,
       "source": "ESPN",
       "headline": "Rasmus Højlund seals permanent move to Napoli from Manchester United",
       "description": "Rasmus Højlund has joined Napoli in a permanent move from Manchester United.",
-      "publishedAt": "2026-06-03T11:35:50Z",
+      "publishedAt": "2026-06-03T11:28:02Z",
       "image": "https://a.espncdn.com/photo/2025/1005/r1555993_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48955010/rasmus-hojlund-seals-permanent-move-napoli-manchester-united",
       "tag": "Napoli",
@@ -392,7 +398,7 @@
       "source": "ESPN",
       "headline": "Crystal Palace have more players at World Cup than Real Madrid, Liverpool",
       "description": "Crystal Palace have more players at the 2026 World Cup than Spanish giants Real Madrid.",
-      "publishedAt": "2026-06-03T11:15:53Z",
+      "publishedAt": "2026-06-03T11:07:20Z",
       "image": "https://a.espncdn.com/photo/2026/0603/r1667582_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48955200/crystal-palace-more-players-world-cup-real-madrid-liverpool",
       "tag": "Crystal Palace",
@@ -458,39 +464,11 @@
         "Crystal Palace",
         "Lens"
       ]
-    },
-    {
-      "id": 48950261,
-      "source": "ESPN",
-      "headline": "Mainoo: England can 100% win the World Cup",
-      "description": "Kobbie Mainoo speaks about England's World Cup hopes after their first training session in Florida.",
-      "publishedAt": "2026-06-02T20:21:39Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0602/dm_260602_COM_SOC_Presser_Mainoo_England_can_100_win_the_World_Cup_20260602_GLOBAL/dm_260602_COM_SOC_Presser_Mainoo_England_can_100_win_the_World_Cup_20260602_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48950261/england-100-win-world-cup",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48948519,
-      "source": "ESPN",
-      "headline": "Sheffield United in talks to re-sign Man City's Kalvin Phillips - sources",
-      "description": "Sheffield United are in talks with Manchester City about re-signing midfielder Kalvin Phillips, sources have told ESPN.",
-      "publishedAt": "2026-06-02T16:22:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667226_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48948519/sheffield-united-talks-resign-man-city-kalvin-phillips-sources",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Sheffield United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-05T15:27:03.590Z"
+    "cachedAt": "2026-06-05T20:09:56.660Z"
   }
 }
