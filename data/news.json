@@ -2,6 +2,79 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48975273,
+      "source": "ESPN",
+      "headline": "Ex-Spurs boss Thomas Frank has had 'opportunities,' but won't 'rush' into next role",
+      "description": "Former Tottenham Hotspur head coach Thomas Frank has said he does not want to \"rush\" into his next role.",
+      "publishedAt": "2026-06-05T14:55:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0124/r1605048_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48975273/ex-spurs-boss-thomas-frank-wont-rush-new-role-opportunities-roberto-de-zerbi",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "0489c1f9bef63205fed6789d2c6c75c8",
+      "source": "Sky Sports",
+      "headline": "Frank rules out return to management this summer",
+      "description": "",
+      "publishedAt": "2026-06-05T14:00:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-thomas-frank-tottenham_7161596.jpg?20260210223613",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "92621b947fc6673372c9704ba1e34cbb",
+      "source": "Sky Sports",
+      "headline": "Leeds Rhinos head coach Arthur signs contract extension",
+      "description": "Leeds Rhinos head coach Brad Arthur has agreed a two-year extension to his contract with the club.",
+      "publishedAt": "2026-06-05T13:45:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-brad-arthur-leeds-rhinos_7266017.jpg?20260605115418",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13551044/brad-arthur-leeds-rhinos-head-coach-signs-two-year-contract-extension-with-super-league-club",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48908484,
+      "source": "ESPN",
+      "headline": "Andy Robertson joins Tottenham on free transfer after leaving Liverpool",
+      "description": "Tottenham have completed the signing of Andy Robertson on a free transfer following his departure from Liverpool, the north London club has confirmed.",
+      "publishedAt": "2026-06-05T13:15:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0529/r1665271_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48908484/andy-robertson-tottenham-free-transfer-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48973572,
+      "source": "ESPN",
+      "headline": "Man City chairman 'wants to' talk about 115 charges against club, but not until ruling",
+      "description": "Manchester City chairman Khaldoon Al-Mubarak has things he \"wants to say\" about the club's legal fight with the Premier League, but insists it will have to wait until a verdict is delivered.",
+      "publishedAt": "2026-06-05T12:00:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0605/r1668481_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48973572/man-city-chairman-khaldoon-al-mubarak-man-city-115-charges-pep-guardiola",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "f761f5ae6c1245951d0b454e2f2a42bc",
+      "source": "Sky Sports",
+      "headline": "Angry Rozicki claims Billam-Smith struggled to make weight",
+      "description": "Chris Billam-Smith and Ryan Rozicki react to their weigh-in ahead of the world cruiserweight title bout in Bournemouth.",
+      "publishedAt": "2026-06-05T11:29:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-billam-smith-rozicki_7266181.jpg?20260605141933",
+      "link": "https://www.skysports.com/watch/video/13551092/boxing-angry-ryan-rozicki-claims-chris-billam-smith-struggled-to-make-weight",
+      "tag": "Video",
+      "teams": []
+    },
+    {
       "id": 48968362,
       "source": "ESPN",
       "headline": "Arsenal's Max Dowman shortlisted for PFA Young Player of the Year award despite sole PL start",
@@ -13,17 +86,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "4e18ce729b69519132c4d2ec8733a644",
-      "source": "Sky Sports",
-      "headline": "Rice, James shortlisted for PFA Player of the Year awards",
-      "description": "The PFA has released the shortlists for its Men's and Women's Player of the Year awards.",
-      "publishedAt": "2026-06-05T08:45:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-declan-rice-arsenal_7221153.jpg?20260528170653",
-      "link": "https://www.skysports.com/football/news/12040/13551019/arsenal-midfielder-declan-rice-and-chelsea-forward-lauren-james-shortlisted-for-pfa-player-of-the-year-awards",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48967450,
@@ -52,17 +114,6 @@
         "RB Leipzig",
         "Ivory Coast"
       ]
-    },
-    {
-      "id": "43367de57bd4e1404173b8a4861b43ab",
-      "source": "Sky Sports",
-      "headline": "Robertson relishing chance to lead Scotland at World Cup",
-      "description": "Andy Robertson was expected to be named in Scotland's World Cup squad, but he admitted it was a \"huge pinch yourself moment\"when he was confirmed as one of Steve Clarke's 26-man party.",
-      "publishedAt": "2026-06-05T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-robertson-andy-scotland_7262941.jpg?20260601125742",
-      "link": "https://www.skysports.com/football/news/12040/13549779/world-cup-2026-scotland-captain-andy-robertson-on-pinch-yourself-moment-of-being-part-of-historic-squad",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -138,17 +189,6 @@
       ]
     },
     {
-      "id": "91384bddc70e6f8d9faaad12dd2d127b",
-      "source": "Sky Sports",
-      "headline": "Leeds see off Saints in Headingley thriller",
-      "description": "Highlights of the Super League clash between Leeds Rhinos and St Helens.",
-      "publishedAt": "2026-06-04T21:09:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-leeds-saints_7265718.jpg?20260604221157",
-      "link": "https://www.skysports.com/watch/video/13550938/leeds-rhinos-vs-st-helens-highlights-rhinos-beat-saints-24-16-in-super-league-thriller",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 48945214,
       "source": "ESPN",
       "headline": "Liverpool name Andoni Iraola head coach, replacing Arne Slot",
@@ -213,6 +253,17 @@
         "Real Madrid",
         "Manchester City"
       ]
+    },
+    {
+      "id": "f6dfcb212b04f421ec9ec4d7db798b8e",
+      "source": "Sky Sports",
+      "headline": "England eye statement win over rivals Spain to seal World Cup 2027 spot",
+      "description": "You'd think both sets of players were getting sick of each other but it appears the battle between England and Spain remains as strong as ever.",
+      "publishedAt": "2026-06-04T13:03:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-alessia-russo-mapi-leon_7220274.jpg?20260414210243",
+      "link": "https://www.skysports.com/football/news/12040/13550753/spain-vs-england-lucy-bronze-says-rivalry-makes-teams-stronger-as-lionesses-eye-statement-win-to-seal-2027-world-cup-spot",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48965097,
@@ -423,19 +474,6 @@
       ]
     },
     {
-      "id": 48948294,
-      "source": "ESPN",
-      "headline": "Fulham confirm Marco Silva to leave club as manager this summer",
-      "description": "Fulham have confirmed that Marco Silva will be leaving the club this summer after a five-year stint at Craven Cottage.",
-      "publishedAt": "2026-06-02T17:20:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0501/r1651838_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48948294/fulham-confirm-marco-silva-leave-club-manager-summer",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham"
-      ]
-    },
-    {
       "id": 48948519,
       "source": "ESPN",
       "headline": "Sheffield United in talks to re-sign Man City's Kalvin Phillips - sources",
@@ -448,37 +486,11 @@
         "Manchester City",
         "Sheffield United"
       ]
-    },
-    {
-      "id": 48947772,
-      "source": "ESPN",
-      "headline": "Newcastle's Fabian Schär extends contract: 'Much more to come'",
-      "description": "Newcastle defender Fabian Schär has signed a new one-year deal to extend his stay at St James' Park to a ninth season.",
-      "publishedAt": "2026-06-02T15:31:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667195_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48947772/fabian-schar-newcastle-magpies-contract-extension-one-year-deal",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 48945789,
-      "source": "ESPN",
-      "headline": "Sir Kenny Dalglish reveals he is undergoing cancer treatment",
-      "description": "Sir Kenny Dalglish has revealed that he is undergoing treatment for cancer.",
-      "publishedAt": "2026-06-02T12:09:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667080_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48945789/kenny-dalglish-undergoing-cancer-treatment",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-05T10:14:37.263Z"
+    "cachedAt": "2026-06-05T15:27:03.590Z"
   }
 }
