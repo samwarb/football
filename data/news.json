@@ -2,24 +2,52 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "5b6a9826b5a93d4dfa025b308e62e729",
+      "id": 48978343,
+      "source": "ESPN",
+      "headline": "Ogden: West Ham's £80m Fernandes valuation is an 'opening gambit'",
+      "description": "Mark Ogden says West Ham's reported £80m valuation of Mateus Fernandes is an 'opening gambit', with relegation also making it difficult to hold on to key players.",
+      "publishedAt": "2026-06-05T22:05:32Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0605/dm_260605_Ogden_West_Hams_Fernandes_valuation_is_an_opening_gambit/dm_260605_Ogden_West_Hams_Fernandes_valuation_is_an_opening_gambit.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48978343/west-ham-80m-fernandes-valuation-opening-gambit",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "68865eb89068e6260ab4e720faaaffdb",
       "source": "Sky Sports",
-      "headline": "Dominant Spain add second vs England LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-05T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-alexia-putellas-spain-women_7266506.jpg?20260605204726",
-      "link": "https://www.skysports.com/football/spain-women-vs-england-women/live/550122",
-      "tag": "Liveblog",
+      "headline": "Riquelme: Klopp will be first choice for Real Madrid job if I win election",
+      "description": "Real Madrid presidential candidate Enrique Riquelme has released a statement confirming that Jurgen Klopp will be his choice for the manager's job at the Bernabeu if he is elected on Sunday.",
+      "publishedAt": "2026-06-05T21:15:00.000Z",
+      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-klopp-real-madrid_7134168.jpg?20260113130142",
+      "link": "https://www.skysports.com/football/news/12040/13551282/jurgen-klopp-real-madrid-presidential-candidate-enrique-riquelme-says-former-liverpool-boss-will-be-his-first-choice-head-coach-choice-if-elected",
+      "tag": "News Story",
       "teams": []
     },
     {
-      "id": "207434f9a5905ae30ba02226355b70ad",
+      "id": 48972628,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City could prioritize move for Tonali",
+      "description": "Could Man City switch their attention from Elliot Anderson to Sandro Tonali? Transfer Talk has the latest.",
+      "publishedAt": "2026-06-05T21:07:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0605/r1668708_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48972628/transfer-rumors-news-liverpool-begin-talks-yan-diomande",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "0af3b8dc335b1be19d1dd86e156f321d",
       "source": "Sky Sports",
-      "headline": "O'Neill agrees to take Celtic job on permanent basis",
-      "description": "Martin O'Neill has agreed to become Celtic's permanent manager.",
-      "publishedAt": "2026-06-05T16:26:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-martin-oneill-celtic_7255832.jpg?20260522144713",
-      "link": "https://www.skysports.com/football/news/12040/13551203/celtic-manager-search-martin-oneill-agrees-to-take-job-on-permanent-basis-after-dermot-desmond-talks",
+      "headline": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
+      "description": "Thomas Tuchel gave his first World Cup press conference since touching down with the England team in the United States - and there was a lot to cover.",
+      "publishedAt": "2026-06-05T20:01:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-tuchel-engladn_7266517.jpg?20260605210844",
+      "link": "https://www.skysports.com/football/news/12040/13551266/thomas-tuchel-england-manager-discusses-harry-kanes-fitness-player-transfers-and-tampa-bay-pitch-concerns-ahead-of-new-zealand-friendly",
       "tag": "News Story",
       "teams": []
     },
@@ -64,20 +92,6 @@
       ]
     },
     {
-      "id": 48973574,
-      "source": "ESPN",
-      "headline": "Marco Silva announced as Jose Mourinho replacement at Benfica",
-      "description": "Former Fulham manager Marco Silva has officially been announced as the replacement for Jose Mourinho at Benfica.",
-      "publishedAt": "2026-06-05T11:41:58Z",
-      "image": "https://a.espncdn.com/photo/2023/0722/r1201017_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48973574/marco-silva-announced-jose-mourinho-replacement-benfica",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Benfica"
-      ]
-    },
-    {
       "id": 48968362,
       "source": "ESPN",
       "headline": "Arsenal's Max Dowman shortlisted for PFA Young Player of the Year award despite sole PL start",
@@ -101,21 +115,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 48972628,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool begin talks for Yan Diomande",
-      "description": "Liverpool begin talks to sign Yan Diomande, and could Man City switch their attention from Elliot Anderson to Sandro Tonali? Transfer Talk has the latest.",
-      "publishedAt": "2026-06-05T07:44:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48972628/transfer-rumors-news-liverpool-begin-talks-yan-diomande",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "RB Leipzig",
-        "Ivory Coast"
       ]
     },
     {
@@ -190,6 +189,17 @@
       "teams": [
         "Liverpool"
       ]
+    },
+    {
+      "id": "d5af9437419cd71bb43464b10c5904df",
+      "source": "Sky Sports",
+      "headline": "Papers: Slot turns down Fulham job offer",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-06-04T21:30:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13551289/arne-slot-sacked-liverpool-boss-turns-down-immediate-premier-league-return-offer-by-fulham-paper-talk",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48945214,
@@ -295,20 +305,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 48963165,
-      "source": "ESPN",
-      "headline": "Manchester United complete Éderson signing from Atalanta",
-      "description": "Manchester United have completed the signing of Éderson from Atalanta.",
-      "publishedAt": "2026-06-04T07:06:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0604/r1667992_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48963165/manchester-united-complete-ederson-signing-atalanta",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Atalanta"
       ]
     },
     {
@@ -464,11 +460,25 @@
         "Crystal Palace",
         "Lens"
       ]
+    },
+    {
+      "id": 48950261,
+      "source": "ESPN",
+      "headline": "Mainoo: England can 100% win the World Cup",
+      "description": "Kobbie Mainoo speaks about England's World Cup hopes after their first training session in Florida.",
+      "publishedAt": "2026-06-02T20:21:39Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0602/dm_260602_COM_SOC_Presser_Mainoo_England_can_100_win_the_World_Cup_20260602_GLOBAL/dm_260602_COM_SOC_Presser_Mainoo_England_can_100_win_the_World_Cup_20260602_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/48950261/england-100-win-world-cup",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Manchester United"
+      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-05T20:09:56.660Z"
+    "cachedAt": "2026-06-06T04:18:36.772Z"
   }
 }
