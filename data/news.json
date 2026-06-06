@@ -2,11 +2,50 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-06-06T13:17:17Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": "da749882bc180cb99d50cf476930b1cb",
+      "source": "Sky Sports",
+      "headline": "Doubts and disbelief - dissecting England's nightmare in Spain",
+      "description": "Is it over the top to stage a post-mortem after Friday's heavy defeat to Spain?",
+      "publishedAt": "2026-06-06T13:05:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-england-women-spain_7266816.jpg?20260606142538",
+      "link": "https://www.skysports.com/football/news/12040/13551388/spain-4-0-england-analysing-the-fallout-from-the-lionesses-heaviest-defeat-under-sarina-wiegman",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48956021,
       "source": "ESPN",
       "headline": "16 players who could use World Cup to get a big transfer in Europe",
       "description": "The World Cup is the biggest stage in sports, so which players are hoping to use it to get their next big transfer?",
-      "publishedAt": "2026-06-06T07:21:55Z",
+      "publishedAt": "2026-06-06T12:06:42Z",
       "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
       "tag": "Chelsea",
@@ -20,15 +59,58 @@
       ]
     },
     {
-      "id": "a12458aaad8ca20bda60fd2c10587167",
+      "id": "a8570e2643a1dd6686ee69843a442f7f",
       "source": "Sky Sports",
-      "headline": "Why England players wanting a transfer face a logistical NIGHTMARE",
-      "description": "Thomas Tuchel says he does have some concerns that transfer speculation could become a distraction for some members of his squad during this World Cup, but he also says it is unavoidable.",
-      "publishedAt": "2026-06-06T07:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-rogers-anderson_7266580.jpg?20260605234110",
-      "link": "https://www.skysports.com/football/news/12040/13551277/englands-world-cup-schedule-why-its-a-logistical-nightmare-for-three-lions-players-wanting-a-transfer-this-summer-under-thomas-tuchels-rules",
+      "headline": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game",
+      "description": "",
+      "publishedAt": "2026-06-06T11:15:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-steve-clarke-scotland_7261687.jpg?20260530152647",
+      "link": "https://www.skysports.com/football/bolivia-vs-scotland/live/555767",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "047811ac65eb4c24357ef4f01b955874",
+      "source": "Sky Sports",
+      "headline": "West Ham joint-chair Sullivan steps down from position",
+      "description": "David Sullivan has stepped down from his position as joint-chair of West Ham.",
+      "publishedAt": "2026-06-06T11:14:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-david-sullivan-west-ham_7266783.jpg?20260606133503",
+      "link": "https://www.skysports.com/football/news/12040/13551368/david-sullivan-west-ham-joint-chair-resigns-from-position-with-immediate-effect",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-06T10:27:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
     },
     {
       "id": 48978343,
@@ -44,17 +126,6 @@
       ]
     },
     {
-      "id": "68865eb89068e6260ab4e720faaaffdb",
-      "source": "Sky Sports",
-      "headline": "Riquelme: Klopp will be first choice for Real Madrid job if I win election",
-      "description": "Real Madrid presidential candidate Enrique Riquelme has released a statement confirming that Jurgen Klopp will be his choice for the manager's job at the Bernabeu if he is elected on Sunday.",
-      "publishedAt": "2026-06-05T21:15:00.000Z",
-      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-klopp-real-madrid_7134168.jpg?20260113130142",
-      "link": "https://www.skysports.com/football/news/12040/13551282/jurgen-klopp-real-madrid-presidential-candidate-enrique-riquelme-says-former-liverpool-boss-will-be-his-first-choice-head-coach-choice-if-elected",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48972628,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man City could prioritize move for Tonali",
@@ -68,17 +139,6 @@
         "Nottingham Forest",
         "Newcastle United"
       ]
-    },
-    {
-      "id": "0af3b8dc335b1be19d1dd86e156f321d",
-      "source": "Sky Sports",
-      "headline": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
-      "description": "Thomas Tuchel gave his first World Cup press conference since touching down with the England team in the United States - and there was a lot to cover.",
-      "publishedAt": "2026-06-05T20:01:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-tuchel-engladn_7266517.jpg?20260605210844",
-      "link": "https://www.skysports.com/football/news/12040/13551266/thomas-tuchel-england-manager-discusses-harry-kanes-fitness-player-transfers-and-tampa-bay-pitch-concerns-ahead-of-new-zealand-friendly",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48975273,
@@ -147,66 +207,6 @@
       ]
     },
     {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-05T06:21:38Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-05T06:17:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
-      ]
-    },
-    {
       "id": 48969279,
       "source": "ESPN",
       "headline": "Hislop: Andoni Iraola deserves 'patience' at Liverpool",
@@ -218,17 +218,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "d5af9437419cd71bb43464b10c5904df",
-      "source": "Sky Sports",
-      "headline": "Papers: Slot turns down Fulham job offer",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-06-04T21:30:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13551289/arne-slot-sacked-liverpool-boss-turns-down-immediate-premier-league-return-offer-by-fulham-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48945214,
@@ -494,6 +483,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-06T08:45:55.337Z"
+    "cachedAt": "2026-06-06T14:06:39.681Z"
   }
 }
