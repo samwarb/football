@@ -2,6 +2,17 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "ea75e942f7a1e83ac202efe5538a08ce",
+      "source": "Sky Sports",
+      "headline": "Tuchel starts Kane and Watkins as England face New Zealand LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-06T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-harry-kane_7267031.jpg?20260606190427",
+      "link": "https://www.skysports.com/football/england-vs-new-zealand/live/553972",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
@@ -30,17 +41,6 @@
       ]
     },
     {
-      "id": "da749882bc180cb99d50cf476930b1cb",
-      "source": "Sky Sports",
-      "headline": "Doubts and disbelief - dissecting England's nightmare in Spain",
-      "description": "Is it over the top to stage a post-mortem after Friday's heavy defeat to Spain?",
-      "publishedAt": "2026-06-06T13:05:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-england-women-spain_7266816.jpg?20260606142538",
-      "link": "https://www.skysports.com/football/news/12040/13551388/spain-4-0-england-analysing-the-fallout-from-the-lionesses-heaviest-defeat-under-sarina-wiegman",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48956021,
       "source": "ESPN",
       "headline": "16 players who could use World Cup to get a big transfer in Europe",
@@ -57,28 +57,6 @@
         "Liverpool",
         "Arsenal"
       ]
-    },
-    {
-      "id": "a8570e2643a1dd6686ee69843a442f7f",
-      "source": "Sky Sports",
-      "headline": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game",
-      "description": "",
-      "publishedAt": "2026-06-06T11:15:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-steve-clarke-scotland_7261687.jpg?20260530152647",
-      "link": "https://www.skysports.com/football/bolivia-vs-scotland/live/555767",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "047811ac65eb4c24357ef4f01b955874",
-      "source": "Sky Sports",
-      "headline": "West Ham joint-chair Sullivan steps down from position",
-      "description": "David Sullivan has stepped down from his position as joint-chair of West Ham.",
-      "publishedAt": "2026-06-06T11:14:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-david-sullivan-west-ham_7266783.jpg?20260606133503",
-      "link": "https://www.skysports.com/football/news/12040/13551368/david-sullivan-west-ham-joint-chair-resigns-from-position-with-immediate-effect",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48709856,
@@ -483,6 +461,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-06T14:06:39.681Z"
+    "cachedAt": "2026-06-06T19:45:42.628Z"
   }
 }
