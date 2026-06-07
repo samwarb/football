@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "79b62b703d27e5073e7f8e5a4d564482",
+      "source": "Sky Sports",
+      "headline": "Eriksen conscious after collapsing during Denmark friendly",
+      "description": "Christian Eriksen is conscious after collapsing during Denmark's friendly against Ukraine.",
+      "publishedAt": "2026-06-07T18:20:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-christian-eriksen_7267767.jpg?20260607193442",
+      "link": "https://www.skysports.com/football/news/12040/13551756/christian-eriksen-denmark-friendly-with-ukraine-abandoned-after-midfielder-collapses-on-pitch",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "c2077d03f36a23a71fda530e932aaf2f",
+      "source": "Sky Sports",
+      "headline": "Man Utd latest: Ederson called up to Brazil World Cup squad",
+      "description": "",
+      "publishedAt": "2026-06-07T17:00:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 48990165,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, PSG to fight for Gibbs-White",
@@ -75,17 +97,6 @@
         "Ipswich Town",
         "Hull City"
       ]
-    },
-    {
-      "id": "ac10b734ea298bb6b1cc71204b037a61",
-      "source": "Sky Sports",
-      "headline": "Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'",
-      "description": "Thomas Tuchel was frustrated by England's \"freestyle\" first-half display against New Zealand as World Cup preparations stepped up with a scrappy 1-0 win in sweltering Florida conditions.",
-      "publishedAt": "2026-06-07T06:55:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-england_7267257.jpg?20260607074031",
-      "link": "https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48981673,
@@ -459,6 +470,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-07T14:18:57.049Z"
+    "cachedAt": "2026-06-07T19:45:17.383Z"
   }
 }
