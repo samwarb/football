@@ -2,13 +2,60 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "ea75e942f7a1e83ac202efe5538a08ce",
+      "id": "a229f8f3545a2e77c03b4e8952bd3c09",
       "source": "Sky Sports",
-      "headline": "Tuchel starts Kane and Watkins as England face New Zealand LIVE!",
+      "headline": "Clarke hails 'fantastic problems' with starting choices",
+      "description": "Steve Clarke says he has \"fantastic problems\" in terms of selection after Scotland concluded their World Cup warm-up matches with an emphatic win over Bolivia.",
+      "publishedAt": "2026-06-06T22:38:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-steve-clarke-scotland_7267162.jpg?20260606223359",
+      "link": "https://www.skysports.com/football/news/12040/13551549/scotland-steve-clarke-has-fantastic-problems-in-terms-of-selection-ahead-of-world-cup-opener",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "9da27dac8e81547a6830face1aadaed1",
+      "source": "Sky Sports",
+      "headline": "Scotland thrash Bolivia ahead of World Cup opener",
+      "description": "Che Adams scored twice as a dominant Scotland thrashed Bolivia 4-0 in New Jersey in their final friendly before getting their World Cup campaign under way next week.",
+      "publishedAt": "2026-06-06T21:58:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-shankland-adams-mctominay_7267116.jpg?20260606213634",
+      "link": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48981673,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United target Balde, other left backs",
+      "description": "Manchester United are stepping up interest in various left backs. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-06T21:53:40Z",
+      "image": "https://a.espncdn.com/photo/2026/0606/r1669122_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48981673/transfer-rumors-news-bayern-olise-real-madrid-target-perez",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "ddb93ca0f16d70ed4fa1338793cdc69a",
+      "source": "Sky Sports",
+      "headline": "Wales end season on low note with defeat in Romania",
+      "description": "Wales ended their season on a low note as Romania won their Bucharest friendly 2-1.",
+      "publishedAt": "2026-06-06T21:17:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ethan-ampadu-wales_7267156.jpg?20260606222855",
+      "link": "https://www.skysports.com/football/romania-vs-wales/report/555773",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "feb0ab3926f035a708b32465aa66f689",
+      "source": "Sky Sports",
+      "headline": "England latest: 'Best-in-world' Kane must be main man, says Keane",
       "description": "",
-      "publishedAt": "2026-06-06T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-harry-kane_7267031.jpg?20260606190427",
-      "link": "https://www.skysports.com/football/england-vs-new-zealand/live/553972",
+      "publishedAt": "2026-06-06T15:35:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
       "tag": "Liveblog",
       "teams": []
     },
@@ -117,6 +164,17 @@
         "Nottingham Forest",
         "Newcastle United"
       ]
+    },
+    {
+      "id": "17499ac8ea011bb6dde8ffcd116ff086",
+      "source": "Sky Sports",
+      "headline": "England beat New Zealand in first World Cup warm-up game",
+      "description": "Harry Kane's header gave England a 1-0 win over New Zealand in their first World Cup warm-up game in Tampa, Florida.",
+      "publishedAt": "2026-06-05T16:16:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-harry-kane_7267197.jpg?20260606230829",
+      "link": "https://www.skysports.com/football/england-vs-new-zealand/report/553972",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 48975273,
@@ -442,25 +500,11 @@
         "Newcastle United",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 48950331,
-      "source": "ESPN",
-      "headline": "Sources: Crystal Palace readying offer for Lens coach Sage",
-      "description": "Crystal Palace are preparing an offer for the Ligue 1 manager of the season Pierre Sage, sources have told ESPN.",
-      "publishedAt": "2026-06-02T20:53:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667381_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48950331/crystal-palace-offer-lens-coach-sage",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Lens"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-06T19:45:42.628Z"
+    "cachedAt": "2026-06-07T04:54:42.624Z"
   }
 }
