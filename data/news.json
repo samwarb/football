@@ -2,13 +2,39 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "a229f8f3545a2e77c03b4e8952bd3c09",
+      "id": 48990165,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, PSG to fight for Gibbs-White",
+      "description": "Arsenal could face strong competition from Paris Saint-Germain for the signature of Nottingham Forest midfielder Morgan Gibbs-White. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-07T09:07:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0419/r1645969_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990165/transfer-rumors-news-arsenal-psg-fight-nottingham-forest-morgan-gibbs-white",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Arsenal",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": "6c2634df45c24eaa21b98ad92aaccde2",
       "source": "Sky Sports",
-      "headline": "Clarke hails 'fantastic problems' with starting choices",
-      "description": "Steve Clarke says he has \"fantastic problems\" in terms of selection after Scotland concluded their World Cup warm-up matches with an emphatic win over Bolivia.",
-      "publishedAt": "2026-06-06T22:38:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-steve-clarke-scotland_7267162.jpg?20260606223359",
-      "link": "https://www.skysports.com/football/news/12040/13551549/scotland-steve-clarke-has-fantastic-problems-in-terms-of-selection-ahead-of-world-cup-opener",
+      "headline": "England latest: Kane in 'best shape of career' - does his form offer WC hope?",
+      "description": "",
+      "publishedAt": "2026-06-07T07:48:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "a12a8824513b987c07efac45070f154e",
+      "source": "Sky Sports",
+      "headline": "Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'",
+      "description": "Thomas Tuchel was frustrated by England's \"freestyle\" first-half display against New Zealand as World Cup preparations stepped up with a scrappy 1-0 win in sweltering Florida conditions.",
+      "publishedAt": "2026-06-07T06:55:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-england_7267257.jpg?20260607074031",
+      "link": "https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better",
       "tag": "News Story",
       "teams": []
     },
@@ -36,28 +62,6 @@
         "Barcelona",
         "Manchester United"
       ]
-    },
-    {
-      "id": "ddb93ca0f16d70ed4fa1338793cdc69a",
-      "source": "Sky Sports",
-      "headline": "Wales end season on low note with defeat in Romania",
-      "description": "Wales ended their season on a low note as Romania won their Bucharest friendly 2-1.",
-      "publishedAt": "2026-06-06T21:17:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ethan-ampadu-wales_7267156.jpg?20260606222855",
-      "link": "https://www.skysports.com/football/romania-vs-wales/report/555773",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "feb0ab3926f035a708b32465aa66f689",
-      "source": "Sky Sports",
-      "headline": "England latest: 'Best-in-world' Kane must be main man, says Keane",
-      "description": "",
-      "publishedAt": "2026-06-06T15:35:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -483,28 +487,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 48944857,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Chelsea eye move for Rashford",
-      "description": "Could Marcus Rashford make a move to another Premier League club? Transfer Talk has the latest.",
-      "publishedAt": "2026-06-02T21:45:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667415_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944857/transfer-rumors-news-barcelona-turn-kane-alvarez-deal-falls-through",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-07T04:54:42.624Z"
+    "cachedAt": "2026-06-07T09:34:06.213Z"
   }
 }
