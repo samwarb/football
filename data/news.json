@@ -2,13 +2,26 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "7c7272d6dcbcb4550d8c82371298585f",
+      "id": 49002029,
+      "source": "ESPN",
+      "headline": "Reports detail women's claims of sexual coercion against West Ham co-owner David Sullivan",
+      "description": "Seven women have accused David Sullivan, the West Ham co-owner who made a fortune in the porn and media industry, of preying on them for sex, according to an investigation by the BBC and The Times of London on Monday.",
+      "publishedAt": "2026-06-08T19:21:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0510/r1656156_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49002029/reports-detail-women-claims-sexual-coercion-west-ham-co-owner-david-sullivan",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "189d6ce005f80295c9745b4ce8b6a6f3",
       "source": "Sky Sports",
-      "headline": "Origi retires: The Liverpool 'legend' who scored when it mattered most",
-      "description": "Jurgen Klop said Divock Origi \"is, and will be for me, forever a Liverpool legend\".",
-      "publishedAt": "2026-06-08T14:30:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-divock-origi-liverpool_7268377.jpg?20260608142325",
-      "link": "https://www.skysports.com/football/news/12040/13552005/divock-origi-former-liverpool-and-belgium-striker-announces-retirement-from-professional-football",
+      "headline": "Eriksen 'doing well and at home' after collapse during Denmark friendly",
+      "description": "Christian Eriksen said he has returned home and is \"doing well\" after collapsing during Denmark's friendly with Ukraine.",
+      "publishedAt": "2026-06-08T16:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-football-christian-eriksen_7268524.jpg?20260608173436",
+      "link": "https://www.skysports.com/football/news/12040/13551798/christian-eriksen-doing-well-and-at-home-after-collapsing-during-denmark-friendly",
       "tag": "News Story",
       "teams": []
     },
@@ -26,28 +39,6 @@
         "Liverpool",
         "Chelsea"
       ]
-    },
-    {
-      "id": "0ca62f20cd6c61bd0f945fe4159cc64e",
-      "source": "Sky Sports",
-      "headline": "Scotland labelled 'unprofessional' by Norway after friendly U-turn",
-      "description": "",
-      "publishedAt": "2026-06-08T12:24:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-steve-clarke-scotland_7267220.jpg?20260606234228",
-      "link": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "31b7af7bc16acedca7410d427579ff26",
-      "source": "Sky Sports",
-      "headline": "Spain defeat causes sleepless night as Wiegman seeks reaction from Lionesses",
-      "description": "Sarina Wiegman is looking for a response from her England players after the 4-0 defeat to Spain that left some of the Lionesses suffering from a sleepless night.",
-      "publishedAt": "2026-06-08T10:35:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-hannah-hampton-lotte-wubben-moy_7266820.jpg?20260606142736",
-      "link": "https://www.skysports.com/football/news/12040/13551918/england-women-sarina-wiegman-looking-for-lionesses-to-show-their-true-selves-as-lauren-hemp-admits-to-sleepless-night-after-spain-thrashing",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48997587,
@@ -123,6 +114,17 @@
         "Ipswich Town",
         "Hull City"
       ]
+    },
+    {
+      "id": "6ea788bdbe4dc4e09f2a19cc9679903c",
+      "source": "Sky Sports",
+      "headline": "Eriksen to return home 'soon' after collapsing during Denmark friendly",
+      "description": "Christian Eriksen is conscious after collapsing during Denmark's friendly against Ukraine.",
+      "publishedAt": "2026-06-07T18:20:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-christian-eriksen_7267767.jpg?20260607193442",
+      "link": "https://www.skysports.com/football/news/12040/13551756/christian-eriksen-denmark-friendly-with-ukraine-abandoned-after-midfielder-collapses-on-pitch",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48990165,
@@ -465,25 +467,11 @@
         "Crystal Palace",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 48948006,
-      "source": "ESPN",
-      "headline": "Why Liverpool sacked Slot and how Iraola's Klopp comparisons set up his successor",
-      "description": "Arne Slot was sacked after two vastly different seasons at Anfield, but what must Andoni Iraola do to ensure he avoids a similar fate?",
-      "publishedAt": "2026-06-03T06:45:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0414/r1643275_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48948006/why-liverpool-sacked-slot-how-iraola-klopp-comparisons-set-successor",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "AFC Bournemouth"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-08T16:17:48.091Z"
+    "cachedAt": "2026-06-08T20:32:03.412Z"
   }
 }
