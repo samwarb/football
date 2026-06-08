@@ -2,24 +2,13 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "03cef92016efcdb77c074cce4d3335a5",
+      "id": "7c7272d6dcbcb4550d8c82371298585f",
       "source": "Sky Sports",
-      "headline": "'Brutal, searing and punishing heat' - Babb on playing for Ireland at USA '94",
-      "description": "While none of the home nations qualified for the 1994 World Cup, the Republic of Ireland did.",
-      "publishedAt": "2026-06-08T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-phil-babb-ireland_7263795.jpg?20260602145634",
-      "link": "https://www.skysports.com/football/news/12040/13550143/phil-babb",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "5a43d1a0c859be0b679d6493d0ecc268",
-      "source": "Sky Sports",
-      "headline": "Everything you need to know about Curacao - the World Cup's smallest ever nation",
-      "description": "On Tuesday November 18 2025, Curacao travelled to Kingston to take on Jamaica in a winner-takes-all World Cup qualifier.",
-      "publishedAt": "2026-06-08T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-curacao-world-cuo_7267161.jpg?20260606223338",
-      "link": "https://www.skysports.com/football/news/12040/13545528/world-cup-2026-curacao-caribbean-nations-historic-first-appearance",
+      "headline": "Origi retires: The Liverpool 'legend' who scored when it mattered most",
+      "description": "Jurgen Klop said Divock Origi \"is, and will be for me, forever a Liverpool legend\".",
+      "publishedAt": "2026-06-08T14:30:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-divock-origi-liverpool_7268377.jpg?20260608142325",
+      "link": "https://www.skysports.com/football/news/12040/13552005/divock-origi-former-liverpool-and-belgium-striker-announces-retirement-from-professional-football",
       "tag": "News Story",
       "teams": []
     },
@@ -27,8 +16,8 @@
       "id": 48997554,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Barcelona target Núñez eyes Liverpool return",
-      "description": "Former Liverpool striker Darwin Núñez wants to return to Anfield but he's also being targeted by Barcelona. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-08T08:03:10Z",
+      "description": "Former Liverpool striker Darwin Núñez wants to return to Anfield, but he's also being targeted by Barcelona. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-08T13:45:08Z",
       "image": "https://a.espncdn.com/photo/2026/0608/r1669680_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48997554/transfer-rumors-news-barcelona-target-darwin-nunez-eyes-liverpool-return",
       "tag": "Barcelona",
@@ -37,6 +26,28 @@
         "Liverpool",
         "Chelsea"
       ]
+    },
+    {
+      "id": "0ca62f20cd6c61bd0f945fe4159cc64e",
+      "source": "Sky Sports",
+      "headline": "Scotland labelled 'unprofessional' by Norway after friendly U-turn",
+      "description": "",
+      "publishedAt": "2026-06-08T12:24:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-steve-clarke-scotland_7267220.jpg?20260606234228",
+      "link": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "31b7af7bc16acedca7410d427579ff26",
+      "source": "Sky Sports",
+      "headline": "Spain defeat causes sleepless night as Wiegman seeks reaction from Lionesses",
+      "description": "Sarina Wiegman is looking for a response from her England players after the 4-0 defeat to Spain that left some of the Lionesses suffering from a sleepless night.",
+      "publishedAt": "2026-06-08T10:35:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-hannah-hampton-lotte-wubben-moy_7266820.jpg?20260606142736",
+      "link": "https://www.skysports.com/football/news/12040/13551918/england-women-sarina-wiegman-looking-for-lionesses-to-show-their-true-selves-as-lauren-hemp-admits-to-sleepless-night-after-spain-thrashing",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48997587,
@@ -112,17 +123,6 @@
         "Ipswich Town",
         "Hull City"
       ]
-    },
-    {
-      "id": "5be0dfa6f187287f900cabf70ce33e55",
-      "source": "Sky Sports",
-      "headline": "Bellingham has a fight on his hands for England starting spot, Tuchel says",
-      "description": "Thomas Tuchel says Jude Bellingham has a battle on his hands to secure an England starting place, as the competition for World Cup places hots up under the West Palm Beach sun.",
-      "publishedAt": "2026-06-08T06:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-jude-bellingham_7267903.jpg?20260607233059",
-      "link": "https://www.skysports.com/football/news/12040/13551807/jude-bellingham-england-boss-thomas-tuchel-claims-real-madrid-star-has-a-fight-on-his-hands-to-earn-world-cup-starting-spot",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48990165,
@@ -225,17 +225,6 @@
         "Liverpool",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "4f42eb96cdbdf775f3f0af02403cc70f",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Inter chief admits interest in Jones",
-      "description": "",
-      "publishedAt": "2026-06-05T13:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48973572,
@@ -495,6 +484,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-08T11:19:27.758Z"
+    "cachedAt": "2026-06-08T16:17:48.091Z"
   }
 }
