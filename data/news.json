@@ -2,40 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "79b62b703d27e5073e7f8e5a4d564482",
+      "id": "03cef92016efcdb77c074cce4d3335a5",
       "source": "Sky Sports",
-      "headline": "Eriksen conscious after collapsing during Denmark friendly",
-      "description": "Christian Eriksen is conscious after collapsing during Denmark's friendly against Ukraine.",
-      "publishedAt": "2026-06-07T18:20:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-christian-eriksen_7267767.jpg?20260607193442",
-      "link": "https://www.skysports.com/football/news/12040/13551756/christian-eriksen-denmark-friendly-with-ukraine-abandoned-after-midfielder-collapses-on-pitch",
+      "headline": "'Brutal, searing and punishing heat' - Babb on playing for Ireland at USA '94",
+      "description": "While none of the home nations qualified for the 1994 World Cup, the Republic of Ireland did.",
+      "publishedAt": "2026-06-08T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-phil-babb-ireland_7263795.jpg?20260602145634",
+      "link": "https://www.skysports.com/football/news/12040/13550143/phil-babb",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "c2077d03f36a23a71fda530e932aaf2f",
+      "id": "5a43d1a0c859be0b679d6493d0ecc268",
       "source": "Sky Sports",
-      "headline": "Man Utd latest: Ederson called up to Brazil World Cup squad",
-      "description": "",
-      "publishedAt": "2026-06-07T17:00:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
+      "headline": "Everything you need to know about Curacao - the World Cup's smallest ever nation",
+      "description": "On Tuesday November 18 2025, Curacao travelled to Kingston to take on Jamaica in a winner-takes-all World Cup qualifier.",
+      "publishedAt": "2026-06-08T09:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-curacao-world-cuo_7267161.jpg?20260606223338",
+      "link": "https://www.skysports.com/football/news/12040/13545528/world-cup-2026-curacao-caribbean-nations-historic-first-appearance",
+      "tag": "News Story",
       "teams": []
     },
     {
-      "id": 48990165,
+      "id": 48997554,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, PSG to fight for Gibbs-White",
-      "description": "Arsenal could face strong competition from Paris Saint-Germain for the signature of Nottingham Forest midfielder Morgan Gibbs-White. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-07T14:05:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0419/r1645969_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990165/transfer-rumors-news-arsenal-psg-fight-nottingham-forest-morgan-gibbs-white",
-      "tag": "Paris Saint-Germain",
+      "headline": "Transfer rumors, news: Barcelona target Núñez eyes Liverpool return",
+      "description": "Former Liverpool striker Darwin Núñez wants to return to Anfield but he's also being targeted by Barcelona. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-08T08:03:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0608/r1669680_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48997554/transfer-rumors-news-barcelona-target-darwin-nunez-eyes-liverpool-return",
+      "tag": "Barcelona",
       "teams": [
-        "Paris Saint-Germain",
-        "Arsenal",
-        "Nottingham Forest"
+        "Barcelona",
+        "Liverpool",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48997587,
+      "source": "ESPN",
+      "headline": "Brighton sign Nigerian starlet Zadok Yohanna, 18, from AIK Stockholm on 5-year deal",
+      "description": "Nigerian teenager Zadok Yohanna says Brighton & Hove Albion's reputation for developing young players was what convinced him to choose the Premier League club, despite interest from some of Europe's biggest-spending teams.",
+      "publishedAt": "2026-06-08T07:50:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0608/r1669679_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/48997587/brighton-sign-nigerian-starlet-zadok-yohanna-18-aik-stockholm-5-year-deal",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Nigeria",
+        "AIK"
       ]
     },
     {
@@ -43,7 +58,7 @@
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
       "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-07T12:00:31Z",
+      "publishedAt": "2026-06-08T06:32:53Z",
       "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "tag": "Arsenal",
@@ -71,7 +86,7 @@
       "source": "ESPN",
       "headline": "World Cup 2026: Which players from your Premier League team are going?",
       "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-07T11:41:40Z",
+      "publishedAt": "2026-06-08T06:25:38Z",
       "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
       "tag": "Arsenal",
@@ -96,6 +111,32 @@
         "Coventry City",
         "Ipswich Town",
         "Hull City"
+      ]
+    },
+    {
+      "id": "5be0dfa6f187287f900cabf70ce33e55",
+      "source": "Sky Sports",
+      "headline": "Bellingham has a fight on his hands for England starting spot, Tuchel says",
+      "description": "Thomas Tuchel says Jude Bellingham has a battle on his hands to secure an England starting place, as the competition for World Cup places hots up under the West Palm Beach sun.",
+      "publishedAt": "2026-06-08T06:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-jude-bellingham_7267903.jpg?20260607233059",
+      "link": "https://www.skysports.com/football/news/12040/13551807/jude-bellingham-england-boss-thomas-tuchel-claims-real-madrid-star-has-a-fight-on-his-hands-to-earn-world-cup-starting-spot",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48990165,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, PSG to fight for Gibbs-White",
+      "description": "Arsenal could face strong competition from Paris Saint-Germain for the signature of Nottingham Forest midfielder Morgan Gibbs-White. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-07T14:05:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0419/r1645969_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990165/transfer-rumors-news-arsenal-psg-fight-nottingham-forest-morgan-gibbs-white",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Arsenal",
+        "Nottingham Forest"
       ]
     },
     {
@@ -184,6 +225,17 @@
         "Liverpool",
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": "4f42eb96cdbdf775f3f0af02403cc70f",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Inter chief admits interest in Jones",
+      "description": "",
+      "publishedAt": "2026-06-05T13:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48973572,
@@ -398,20 +450,6 @@
       ]
     },
     {
-      "id": 48953983,
-      "source": "ESPN",
-      "headline": "Man United agree deal with Atalanta for Éderson - sources",
-      "description": "Manchester United have agreed a deal with Atalanta for midfielder Éderson, sources have told ESPN.",
-      "publishedAt": "2026-06-03T16:09:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667540_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48953983/man-united-agree-deal-atalanta-ederson-sources",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Atalanta"
-      ]
-    },
-    {
       "id": 48955010,
       "source": "ESPN",
       "headline": "Rasmus Højlund seals permanent move to Napoli from Manchester United",
@@ -452,24 +490,11 @@
         "Liverpool",
         "AFC Bournemouth"
       ]
-    },
-    {
-      "id": 48951109,
-      "source": "ESPN",
-      "headline": "Sources: Liverpool reach agreement to name Andoni Iraola new coach",
-      "description": "Liverpool have reached an agreement to appoint Andoni Iraola as their new head coach, sources confirmed to ESPN.",
-      "publishedAt": "2026-06-02T22:13:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0602/r1667420_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48951109/liverpool-agreement-andoni-iraola-new-head-coach",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-08T04:59:58.429Z"
+    "cachedAt": "2026-06-08T11:19:27.758Z"
   }
 }
