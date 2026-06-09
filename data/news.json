@@ -2,87 +2,22 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "a68832d049937f675df5375e7508d84c",
+      "id": "eef0afbd6e3c3a94438d81aa2dfe3b35",
       "source": "Sky Sports",
-      "headline": "Somali referee dropped from World Cup after US visa denial",
-      "description": "Africa's top referee will not be allowed to officiate at the World Cup after he was refused entry to the USA, FIFA has confirmed.",
-      "publishedAt": "2026-06-08T22:05:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-omar-artan-referee_7268690.jpg?20260608231150",
-      "link": "https://www.skysports.com/football/news/12040/13552142/somali-referee-dropped-from-world-cup-omar-artan-misses-out-on-tournament-after-us-visa-denial",
-      "tag": "News Story",
+      "headline": "Next Up: The players who could become stars at this World Cup",
+      "description": "",
+      "publishedAt": "2026-06-09T09:22:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-next-up-sky-sports_7268147.png?20260608104821",
+      "link": "https://www.skysports.com/football/story-telling/12040/13550821/world-cup-2026-the-young-players-who-could-become-stars-in-the-usa-canada-and-mexico-this-summer",
+      "tag": "Story Telling",
       "teams": []
-    },
-    {
-      "id": "1e106f77b35a22ca980decf73f02b817",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd confident of beating Man City to Anderson signature",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-06-08T22:00:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13552149/elliot-anderson-future-man-utd-confident-of-beating-man-city-to-nottm-forest-and-england-midfielder-this-summer",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48997554,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, Chelsea eye move for Barça's Casadó",
-      "description": "Both Manchester United and Chelsea are competing to sign Barcelona's Marc Casadó. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-08T21:24:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0608/r1669977_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48997554/transfer-rumors-news-barcelona-target-darwin-nunez-eyes-liverpool-return",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Chelsea",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49002029,
-      "source": "ESPN",
-      "headline": "Reports detail women's claims of sexual coercion against West Ham co-owner David Sullivan",
-      "description": "Seven women have accused David Sullivan, the West Ham co-owner who made a fortune in the porn and media industry, of preying on them for sex, according to an investigation by the BBC and The Times of London on Monday.",
-      "publishedAt": "2026-06-08T19:21:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656156_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49002029/reports-detail-women-claims-sexual-coercion-west-ham-co-owner-david-sullivan",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United"
-      ]
-    },
-    {
-      "id": "189d6ce005f80295c9745b4ce8b6a6f3",
-      "source": "Sky Sports",
-      "headline": "Eriksen 'doing well and at home' after collapse during Denmark friendly",
-      "description": "Christian Eriksen said he has returned home and is \"doing well\" after collapsing during Denmark's friendly with Ukraine.",
-      "publishedAt": "2026-06-08T16:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-football-christian-eriksen_7268524.jpg?20260608173436",
-      "link": "https://www.skysports.com/football/news/12040/13551798/christian-eriksen-doing-well-and-at-home-after-collapsing-during-denmark-friendly",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48997587,
-      "source": "ESPN",
-      "headline": "Brighton sign Nigerian starlet Zadok Yohanna, 18, from AIK Stockholm on 5-year deal",
-      "description": "Nigerian teenager Zadok Yohanna says Brighton & Hove Albion's reputation for developing young players was what convinced him to choose the Premier League club, despite interest from some of Europe's biggest-spending teams.",
-      "publishedAt": "2026-06-08T07:50:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0608/r1669679_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/48997587/brighton-sign-nigerian-starlet-zadok-yohanna-18-aik-stockholm-5-year-deal",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Nigeria",
-        "AIK"
-      ]
     },
     {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
       "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-08T06:32:53Z",
+      "publishedAt": "2026-06-09T07:09:37Z",
       "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "tag": "Arsenal",
@@ -106,11 +41,27 @@
       ]
     },
     {
+      "id": 49006984,
+      "source": "ESPN",
+      "headline": "Alex Iwobi, on 100 caps - 'No regrets' about choosing Nigeria over England",
+      "description": "As he prepares to earn his 100th cap for Nigeria in Wednesday's international friendly against Portugal, Nigeria midfielder Alex Iwobi says he has no regrets about his decade-long career with the Super Eagles.",
+      "publishedAt": "2026-06-09T07:08:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670140_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49006984/alex-iwobi-100-caps-no-regrets-choosing-nigeria-england",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Nigeria",
+        "England",
+        "Portugal"
+      ]
+    },
+    {
       "id": 48709856,
       "source": "ESPN",
       "headline": "World Cup 2026: Which players from your Premier League team are going?",
       "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-08T06:25:38Z",
+      "publishedAt": "2026-06-09T07:07:04Z",
       "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
       "tag": "Arsenal",
@@ -135,6 +86,75 @@
         "Coventry City",
         "Ipswich Town",
         "Hull City"
+      ]
+    },
+    {
+      "id": 48997554,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Chelsea eye move for Barça's Casadó",
+      "description": "Both Manchester United and Chelsea are competing to sign Barcelona's Marc Casadó. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-09T06:51:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0608/r1669977_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48997554/transfer-rumors-news-barcelona-target-darwin-nunez-eyes-liverpool-return",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Chelsea",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49006779,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, City monitor Cucurella",
+      "description": "Manchester United and Manchester City have joined the race to land Chelsea left back Marc Cucurella. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-09T06:41:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0506/r1654286_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49006779/transfer-rumors-news-man-united-city-monitor-chelsea-cucurella",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester United",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "a68832d049937f675df5375e7508d84c",
+      "source": "Sky Sports",
+      "headline": "Somali referee dropped from World Cup after US visa denial",
+      "description": "Africa's top referee will not be allowed to officiate at the World Cup after he was refused entry to the USA, FIFA has confirmed.",
+      "publishedAt": "2026-06-08T22:05:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-omar-artan-referee_7268690.jpg?20260608231150",
+      "link": "https://www.skysports.com/football/news/12040/13552142/somali-referee-dropped-from-world-cup-omar-artan-misses-out-on-tournament-after-us-visa-denial",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49002029,
+      "source": "ESPN",
+      "headline": "Reports detail women's claims of sexual coercion against West Ham co-owner David Sullivan",
+      "description": "Seven women have accused David Sullivan, the West Ham co-owner who made a fortune in the porn and media industry, of preying on them for sex, according to an investigation by the BBC and The Times of London on Monday.",
+      "publishedAt": "2026-06-08T19:21:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0510/r1656156_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49002029/reports-detail-women-claims-sexual-coercion-west-ham-co-owner-david-sullivan",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48997587,
+      "source": "ESPN",
+      "headline": "Brighton sign Nigerian starlet Zadok Yohanna, 18, from AIK Stockholm on 5-year deal",
+      "description": "Nigerian teenager Zadok Yohanna says Brighton & Hove Albion's reputation for developing young players was what convinced him to choose the Premier League club, despite interest from some of Europe's biggest-spending teams.",
+      "publishedAt": "2026-06-08T07:50:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0608/r1669679_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/48997587/brighton-sign-nigerian-starlet-zadok-yohanna-18-aik-stockholm-5-year-deal",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Nigeria",
+        "AIK"
       ]
     },
     {
@@ -450,39 +470,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 48955010,
-      "source": "ESPN",
-      "headline": "Rasmus Højlund seals permanent move to Napoli from Manchester United",
-      "description": "Rasmus Højlund has joined Napoli in a permanent move from Manchester United.",
-      "publishedAt": "2026-06-03T11:35:50Z",
-      "image": "https://a.espncdn.com/photo/2025/1005/r1555993_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955010/rasmus-hojlund-seals-permanent-move-napoli-manchester-united",
-      "tag": "Napoli",
-      "teams": [
-        "Napoli",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48955200,
-      "source": "ESPN",
-      "headline": "Crystal Palace have more players at World Cup than Real Madrid, Liverpool",
-      "description": "Crystal Palace have more players at the 2026 World Cup than Spanish giants Real Madrid.",
-      "publishedAt": "2026-06-03T11:15:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667582_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955200/crystal-palace-more-players-world-cup-real-madrid-liverpool",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Real Madrid"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-09T04:22:38.124Z"
+    "cachedAt": "2026-06-09T10:01:32.211Z"
   }
 }
