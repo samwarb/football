@@ -2,15 +2,65 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "eef0afbd6e3c3a94438d81aa2dfe3b35",
+      "id": "3fbf8056c7fe0b8015cbc43e781944cb",
       "source": "Sky Sports",
-      "headline": "Next Up: The players who could become stars at this World Cup",
-      "description": "",
-      "publishedAt": "2026-06-09T09:22:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-next-up-sky-sports_7268147.png?20260608104821",
-      "link": "https://www.skysports.com/football/story-telling/12040/13550821/world-cup-2026-the-young-players-who-could-become-stars-in-the-usa-canada-and-mexico-this-summer",
-      "tag": "Story Telling",
+      "headline": "England third favourites? Their real World Cup chances assessed",
+      "description": "The World Cup is finally upon us. Could it be England's year?",
+      "publishedAt": "2026-06-09T15:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-between-the-lines_7269170.jpg?20260609145653",
+      "link": "https://www.skysports.com/football/news/12040/13552254/englands-world-cup-chances-assessed-as-they-are-rated-third-favourites-behind-spain-and-france-between-the-lines",
+      "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 49006779,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, City monitor Cucurella",
+      "description": "Manchester United and Manchester City have joined the race to land Chelsea left back Marc Cucurella. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-09T14:44:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0506/r1654286_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49006779/transfer-rumors-news-man-united-city-monitor-chelsea-cucurella",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester United",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "1d07d4dbd51dc73b430cd2adfe8a9e81",
+      "source": "Sky Sports",
+      "headline": "Crystal Palace agree deal in principle for Lens boss Sage",
+      "description": "Crystal Palace have agreed a deal in principle for Pierre Sage to become their new head coach.",
+      "publishedAt": "2026-06-09T14:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sage-palace_7264413.jpg?20260603120854",
+      "link": "https://www.skysports.com/football/news/12040/13550402/pierre-sage-crystal-palace-agree-deal-in-principle-for-rc-lens-coach-to-take-over-as-oliver-glasners-replacement",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "0b607f8d3055da327f1189bf6ecb3ce2",
+      "source": "Sky Sports",
+      "headline": "Fulham latest: Jimenez set to join Wolves on free transfer",
+      "description": "",
+      "publishedAt": "2026-06-09T14:00:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-fulham-news-club_7039253.jpg?20251002160142",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49007888,
+      "source": "ESPN",
+      "headline": "Football regulator 'in contact' with West Ham over David Sullivan allegations",
+      "description": "The football regulator is in contact with West Ham after allegations were made against co-owner David Sullivan that he had pressured aspiring models for sex.",
+      "publishedAt": "2026-06-09T10:12:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670158_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49007888/football-regulator-contact-west-ham-david-sullivan-allegations",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United"
+      ]
     },
     {
       "id": 48944912,
@@ -104,32 +154,6 @@
       ]
     },
     {
-      "id": 49006779,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, City monitor Cucurella",
-      "description": "Manchester United and Manchester City have joined the race to land Chelsea left back Marc Cucurella. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-09T06:41:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654286_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49006779/transfer-rumors-news-man-united-city-monitor-chelsea-cucurella",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester United",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "a68832d049937f675df5375e7508d84c",
-      "source": "Sky Sports",
-      "headline": "Somali referee dropped from World Cup after US visa denial",
-      "description": "Africa's top referee will not be allowed to officiate at the World Cup after he was refused entry to the USA, FIFA has confirmed.",
-      "publishedAt": "2026-06-08T22:05:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-omar-artan-referee_7268690.jpg?20260608231150",
-      "link": "https://www.skysports.com/football/news/12040/13552142/somali-referee-dropped-from-world-cup-omar-artan-misses-out-on-tournament-after-us-visa-denial",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49002029,
       "source": "ESPN",
       "headline": "Reports detail women's claims of sexual coercion against West Ham co-owner David Sullivan",
@@ -156,6 +180,17 @@
         "Nigeria",
         "AIK"
       ]
+    },
+    {
+      "id": "5f13d77e8a575133d1d23a8a0d2d06a2",
+      "source": "Sky Sports",
+      "headline": "England latest: My best chance to win World Cup - and maybe my last, says Kane",
+      "description": "",
+      "publishedAt": "2026-06-07T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48990165,
@@ -457,24 +492,11 @@
         "Liverpool",
         "West Ham United"
       ]
-    },
-    {
-      "id": 48958407,
-      "source": "ESPN",
-      "headline": "Former Liverpool defender Ibrahima Konaté opens up on struggles amid personal tragedies",
-      "description": "Former Liverpool defender Ibrahima Konate has spoken about the struggles he faced in a year of personal tragedy in which the death of teammate Diogo Jota was followed by that of his father.",
-      "publishedAt": "2026-06-03T19:19:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0320/r1631160_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48958407/former-liverpool-defender-ibrahima-konate-struggles-amid-personal-tragedies",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-09T10:01:32.211Z"
+    "cachedAt": "2026-06-09T15:25:45.091Z"
   }
 }
