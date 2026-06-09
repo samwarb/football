@@ -2,6 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49010503,
+      "source": "ESPN",
+      "headline": "Chelsea stars Cole Palmer and João Pedro appear in Madonna short film",
+      "description": "Chelsea stars Cole Palmer and João Pedro have made cameo appearances in a short film by pop legend Madonna.",
+      "publishedAt": "2026-06-09T20:07:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49010503/chelsea-stars-joao-pedro-cole-palmer-appear-madonna-short-film",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f0801cc05e88a3ebafb58b7e0ee1d193",
+      "source": "Sky Sports",
+      "headline": "Relegated twice - so why is Fernandes still wanted by Europe's best?",
+      "description": "Not many players get a big move after being relegated twice in their first two Premier League seasons. But Mateus Fernandes is still sought after.",
+      "publishedAt": "2026-06-09T19:00:00.000Z",
+      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-mateus-fernandes_7144253.jpg?20260124131801",
+      "link": "https://www.skysports.com/football/news/12040/13552345/mateus-fernandes-the-reasons-why-manchester-united-and-europes-best-are-interested-in-a-midfielder-who-has-been-relegated-twice",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b75fa2fd2ce368c312862a300b4804ed",
+      "source": "Sky Sports",
+      "headline": "'You make us laugh more than Barca!' - Atleti mock Real after £129m Alvarez bid",
+      "description": "\"You make us laugh even more than Barcelona,\" said the official Atletico Madrid social media team as they mocked rivals Real Madrid after rejecting their £129m (€150m) bid for striker Julian Alvarez.",
+      "publishedAt": "2026-06-09T17:30:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-atletico-madrid-champions_7214636.jpg?20260408215129",
+      "link": "https://www.skysports.com/football/news/12040/13552447/julian-alvarez-real-madrid-announce-129m-bid-for-atletico-madrid-forward-has-been-rejected-amid-barcelona-interest",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49010178,
+      "source": "ESPN",
+      "headline": "Crystal Palace near full agreement for Pierre Sage - sources",
+      "description": "Crystal Palace will pay French club RC Lens €5 million ($5.8m) for their manager Pierre Sage, sources have told ESPN.",
+      "publishedAt": "2026-06-09T15:41:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670248_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49010178/crystal-palace-full-agreement-pierre-sage-rc-lens-manager-sources",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Lens"
+      ]
+    },
+    {
       "id": "3fbf8056c7fe0b8015cbc43e781944cb",
       "source": "Sky Sports",
       "headline": "England third favourites? Their real World Cup chances assessed",
@@ -182,9 +231,9 @@
       ]
     },
     {
-      "id": "5f13d77e8a575133d1d23a8a0d2d06a2",
+      "id": "4250d5b37a13bebb2bc050b09ce8c83e",
       "source": "Sky Sports",
-      "headline": "England latest: My best chance to win World Cup - and maybe my last, says Kane",
+      "headline": "England latest: Tuchel 'ready to push' players in final warm-up game",
       "description": "",
       "publishedAt": "2026-06-07T18:00:00.000Z",
       "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
@@ -465,38 +514,11 @@
         "Nottingham Forest",
         "Manchester City"
       ]
-    },
-    {
-      "id": 48959710,
-      "source": "ESPN",
-      "headline": "Leboeuf: Iraola will need to add more muscle to Liverpool squad",
-      "description": "Frank Leboeuf says that Andoni Iraola will face \"issues\" at Liverpool, such as handling Hugo Ekitike's return from injury.",
-      "publishedAt": "2026-06-03T22:09:20Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0603/dm_260603_Leboeuf_Iraola_will_need_to_add_more_muscle_to_Liverpool_squad/dm_260603_Leboeuf_Iraola_will_need_to_add_more_muscle_to_Liverpool_squad.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48959710/iraola-need-add-more-muscle-liverpool-squad",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48954336,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye move for West Ham's Fernandes",
-      "description": "After getting relegated with West Ham last season, could Mateus Fernandes make a move for Liverpool? Transfer Talk has the latest.",
-      "publishedAt": "2026-06-03T21:36:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667825_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48954336/transfer-rumors-news-arsenal-bayern-munich-battle-germany-defender-nathaniel-brown",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "West Ham United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-09T15:25:45.091Z"
+    "cachedAt": "2026-06-09T20:20:01.644Z"
   }
 }
