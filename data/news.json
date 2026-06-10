@@ -2,6 +2,108 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49017065,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal favorites for Álvarez as Real Madrid, Barcelona fail with bids",
+      "description": "Arsenal are now in prime position to land Atlético Madrid striker Julián Álvarez this summer. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-10T15:26:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1651148_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49017065/transfer-rumors-news-arsenal-favorites-alvarez-real-madrid-barcelona-fail-bids",
+      "tag": "Atlético Madrid",
+      "teams": [
+        "Atlético Madrid",
+        "Arsenal",
+        "Real Madrid",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 49019756,
+      "source": "ESPN",
+      "headline": "John Terry backs Xabi Alonso to succeed at Chelsea: 'I hope Liverpool regret not getting him'",
+      "description": "Former Chelsea captain John Terry has backed new Blues manager Xabi Alonso to succeed where he believes his old interim boss, Rafael Benítez, failed: putting past Liverpool allegiance aside and adapting to his new club.",
+      "publishedAt": "2026-06-10T15:16:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0516/r1659023_800x533_3-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49019756/john-terry-backs-xabi-alonso-succeed-chelsea-hope-liverpool-regret-not-getting-him",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49019710,
+      "source": "ESPN",
+      "headline": "Everton ordered to pay more than £35m to Burnley after PSR breach",
+      "description": "Everton have been ordered to pay Burnley more than £35 million ($45.6m) in compensation after they were sued over Premier League profitability and sustainability breaches.",
+      "publishedAt": "2026-06-10T15:04:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670800_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49019710/everton-burnley-sue-35-million-psr-premier-league",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Burnley"
+      ]
+    },
+    {
+      "id": 49019367,
+      "source": "ESPN",
+      "headline": "Newcastle make first summer signing as Reims goalkeeper Ewen Jaouen joins on long-term deal",
+      "description": "Newcastle have completed their first summer signing after landing Reims goalkeeper Ewen Jaouen on a long-term deal.",
+      "publishedAt": "2026-06-10T14:39:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670788_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49019367/newcastle-make-first-summer-signing-reims-goalkeeper-ewen-jaouen-joins-long-term-deal",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "28a762d9d26d8273883ff10516431e26",
+      "source": "Sky Sports",
+      "headline": "Everton appeal against order to pay £35m to Burnley over PSR breach",
+      "description": "Everton have launched an appeal after being ordered to pay Burnley £35m in compensation after they were sued over Premier League profitability and sustainability breaches from the 2021/22 season when the Clarets were relegated.",
+      "publishedAt": "2026-06-10T14:15:00.000Z",
+      "image": "https://e2.365dm.com/21/02/1920x1080/skysports-everton-premier-league_5273734.jpg?20210215171827",
+      "link": "https://www.skysports.com/football/news/12040/13552745/everton-appeal-order-to-pay-burnley-40m-in-compensation-over-psr-breaches-in-june-2022",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "34fc804b2d9c349431044262879fb1c6",
+      "source": "Sky Sports",
+      "headline": "England latest: Three Lions ready to step up intensity, says Tuchel",
+      "description": "",
+      "publishedAt": "2026-06-10T11:35:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49017889,
+      "source": "ESPN",
+      "headline": "Man United confirm Jadon Sancho among players leaving as free agents",
+      "description": "Jadon Sancho will officially leave Manchester United as a free agent at the end of June, five years after an €85 million ($99.98m) move.",
+      "publishedAt": "2026-06-10T10:42:28Z",
+      "image": "https://a.espncdn.com/photo/2024/0720/r1361037_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49017889/man-united-confirm-jadon-sancho-players-leaving-free-agents",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "c56b44598aa1d8d4405fada3c54ca7da",
+      "source": "Sky Sports",
+      "headline": "Carragher fears over Bellingham’s England role at World Cup",
+      "description": "Jamie Carragher fears Jude Bellingham’s role in the England team at the World Cup could “dominate airwaves” this summer.",
+      "publishedAt": "2026-06-10T10:04:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-england_7269941.jpg?20260610124051",
+      "link": "https://www.skysports.com/football/news/12040/13552649/jude-bellingham-jamie-carragher-fears-real-madrid-stars-england-role-could-dominate-airwaves-at-world-cup",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49017359,
       "source": "ESPN",
       "headline": "Chiamaka Nnadozie ready to welcome fellow Nigerian Zadok Yohanna to Brighton",
@@ -17,22 +119,6 @@
       ]
     },
     {
-      "id": 49017065,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal favorites for Álvarez as Real Madrid, Barcelona fail with bids",
-      "description": "Arsenal are now in prime position to land Atlético Madrid striker Julián Álvarez this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-10T09:21:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1651148_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49017065/transfer-rumors-news-arsenal-favorites-alvarez-real-madrid-barcelona-fail-bids",
-      "tag": "Atlético Madrid",
-      "teams": [
-        "Atlético Madrid",
-        "Arsenal",
-        "Real Madrid",
-        "Barcelona"
-      ]
-    },
-    {
       "id": "d8baf4a90eb23d28b48f483e3a6efe89",
       "source": "Sky Sports",
       "headline": "El Niño, extreme weather and the future: World Cup Q&A with a climate scientist",
@@ -40,17 +126,6 @@
       "publishedAt": "2026-06-10T09:00:00.000Z",
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-dr-ella-gilbert-climate-scientist_7263855.jpg?20260602164218",
       "link": "https://www.skysports.com/football/news/12040/13545542/world-cup-2026-el-ni241o-extreme-weather-and-the-future-qa-with-climate-scientist-dr-ella-gilbert",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "7ee073890b441406bdf80d26038374f1",
-      "source": "Sky Sports",
-      "headline": "Laboured Lionesses must sharpen up or risk missing out on World Cup",
-      "description": "England are in a pickle. The reigning European champions can no longer qualify automatically for next summer's World Cup in Brazil. They must negotiate a tricky play-off campaign to get there.",
-      "publishedAt": "2026-06-10T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-keira-walsh_7266818.jpg?20260606142629",
-      "link": "https://www.skysports.com/football/news/12040/13552392/england-consigned-to-play-offs-to-reach-world-cup-2027-in-brazil-why-are-lionesses-labouring-so-badly",
       "tag": "News Story",
       "teams": []
     },
@@ -79,17 +154,6 @@
       "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
       "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "aaea974f4e3a21f1f20b6ed9ba918aba",
-      "source": "Sky Sports",
-      "headline": "Mourinho to fly to Madrid to complete Real return",
-      "description": "Jose Mourinho will fly from Lisbon to Madrid this afternoon to complete his return to Spanish giants Real.",
-      "publishedAt": "2026-06-10T07:13:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-jose-mourinho-real-madrid_7252177.jpg?20260518114400",
-      "link": "https://www.skysports.com/football/news/12040/13552583/jose-mourinho-to-real-madrid-former-chelsea-boss-flying-to-madrid-to-complete-deal-to-replace-alvaro-arbeloa-on-three-year-contract",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -178,6 +242,17 @@
         "Manchester City",
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": "75a3a019ad4d0b331189cc843f0c14e5",
+      "source": "Sky Sports",
+      "headline": "Eight red cards?! Chaos reigns as USA edge Brazil",
+      "description": "",
+      "publishedAt": "2026-06-09T22:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-usa-brazil_7269880.jpg?20260610112708",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49006779,
@@ -305,6 +380,17 @@
         "Barcelona",
         "Manchester United"
       ]
+    },
+    {
+      "id": "11e5a84079412cda148fbfafe3d4bab3",
+      "source": "Sky Sports",
+      "headline": "Brighton latest: Seagulls looking to extend Veltman's deal",
+      "description": "",
+      "publishedAt": "2026-06-06T17:19:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48956021,
@@ -445,69 +531,6 @@
       ]
     },
     {
-      "id": 48966590,
-      "source": "ESPN",
-      "headline": "Man United CEO: Signing Premier League proven talent could be summer strategy again",
-      "description": "Manchester United CEO Omar Berrada has hinted that the club will again look to target players with Premier League experience in the transfer window after signing Bryan Mbeumo and Matheus Cunha from domestic rivals last summer.",
-      "publishedAt": "2026-06-04T16:30:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0604/r1668122_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48966590/manchester-united-omar-berrada-premier-league-talent-bryan-mbeumo-matheus-cunha",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48956370,
-      "source": "ESPN",
-      "headline": "A father-son Transatlantic, cross-generational voyage to visit Burnley",
-      "description": "It took a Transatlantic trip to the North of England, in search of a family's football history, to truly experience the purity and love of the game.",
-      "publishedAt": "2026-06-04T16:18:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667800_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48956370/a-father-son-transatlantic-cross-generational-voyage-visit-burnley",
-      "tag": "Burnley",
-      "teams": [
-        "Burnley"
-      ]
-    },
-    {
-      "id": 48965097,
-      "source": "ESPN",
-      "headline": "Man United goalkeeper Tom Heaton signs one-year contract extension",
-      "description": "Manchester United's third-choice goalkeeper Tom Heaton has signed a new one-year contract, the club have announced.",
-      "publishedAt": "2026-06-04T12:59:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0604/r1668062_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48965097/man-united-keeper-tom-heaton-signs-one-year-contract-extension",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48963728,
-      "source": "ESPN",
-      "headline": "Pep Guardiola tried to quit '100 times,' says Man City chairman",
-      "description": "Manchester City chairman Khaldoon Al-Mubarak has revealed Pep Guardiola tried to quit \"100 times\" before finally walking away from the Etihad Stadium this summer.",
-      "publishedAt": "2026-06-04T12:00:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663348_600x400_3-2.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48963728/pep-guardiola-tried-quit-100-s-says-manchester-city-chairman",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "32d16a3f3f9e1e0de79ef9d1d2e27c9e",
-      "source": "Sky Sports",
-      "headline": "Man City latest: 'Eight players could leave in summer'",
-      "description": "",
-      "publishedAt": "2026-06-04T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-tijjani-reijnders_7126345.jpg?20260104181851",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": "16979fc319c3bf13f373b2b31a1a70b5",
       "source": "Sky Sports",
       "headline": "Chelsea latest: Michael Olise's brother among released players",
@@ -533,6 +556,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-10T10:21:45.562Z"
+    "cachedAt": "2026-06-10T16:06:25.082Z"
   }
 }
