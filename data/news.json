@@ -2,6 +2,132 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "971bf4e334442f465dd159bce9260f55",
+      "source": "Sky Sports",
+      "headline": "Infantino tells people to 'chill and relax' after Somali referee denied US entry",
+      "description": "FIFA president Gianni Infantino called for people to \"chill and relax\" over Somali referee Omar Artan being denied entry to the United States to officiate at the World Cup.",
+      "publishedAt": "2026-06-10T20:29:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832",
+      "link": "https://www.skysports.com/football/news/12040/13552857/world-cup-2026-fifa-president-gianni-infantino-says-chill-and-relax-after-somali-referee-denied-us-visa",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49021259,
+      "source": "ESPN",
+      "headline": "Chris Richards excited by Pierre Sage's possible Palace arrival",
+      "description": "The USMNT's Chris Richards discusses the possibility of Lens manager Pierre Sage taking over at Crystal Palace.",
+      "publishedAt": "2026-06-10T18:57:04Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0610/dm_260610_Chris_Richards_excited_by_Pierre_Sages_possible_Palace_arrival/dm_260610_Chris_Richards_excited_by_Pierre_Sages_possible_Palace_arrival.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49021259/chris-richards-excited-pierre-sage-possible-palace-arrival",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "United States"
+      ]
+    },
+    {
+      "id": "630624e1f3946881edf719bf0a85d121",
+      "source": "Sky Sports",
+      "headline": "Is football impacting the US? Or is the US impacting football?",
+      "description": "Football is having an increasing influence in the USA - but the USA is having an increasing influence on football, too.",
+      "publishedAt": "2026-06-10T18:30:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-usa-united-states_7270225.jpg?20260610184854",
+      "link": "https://www.skysports.com/football/news/12040/13550717/world-cup-how-usa-is-embracing-football-and-impacting-the-global-game",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49020966,
+      "source": "ESPN",
+      "headline": "Roy Keane: Bruno Fernandes and I had 'lovely chat' to quash assists dispute",
+      "description": "Roy Keane said that he and Bruno Fernandes had \"a nice, mature conversation\" to clear the air after he misquoted the Manchester United captain, leading to a public dispute between the two.",
+      "publishedAt": "2026-06-10T18:24:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670888_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49020966/roy-keane-bruno-fernandes-lovely-chat-quash-assists-dispute",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49020542,
+      "source": "ESPN",
+      "headline": "Kieran McKenna to step down as Ipswich manager after securing second Premier League promotion",
+      "description": "Kieran McKenna has stepped down as Ipswich Town manager after five seasons in the job, the club have confirmed.",
+      "publishedAt": "2026-06-10T18:22:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670855_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49020542/kieran-mckenna-steps-ipswich-manager-five-seasons",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "76ae81b775e03c36e0b71e391099eb93",
+      "source": "Sky Sports",
+      "headline": "McKenna stepping down as Ipswich boss to take break from football",
+      "description": "Kieran McKenna is stepping down as Ipswich manager to take a break from football.",
+      "publishedAt": "2026-06-10T17:00:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-kieran-mckenna-ipswich_7237251.jpg?20260502171106",
+      "link": "https://www.skysports.com/football/news/12040/13552342/kieran-mckenna-stepping-down-as-ipswich-boss-to-take-a-break-from-football-amid-fulham-interest",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49019977,
+      "source": "ESPN",
+      "headline": "Barcelona unlikely to activate permanent Marcus Rashford option from Man United - sources",
+      "description": "Barcelona are unlikely to activate the €30 million option to make Marcus Rashford's loan from Manchester United permanent, but coach Hansi Flick will have the final say with Monday's deadline to make a decision looming, sources have told ESPN.",
+      "publishedAt": "2026-06-10T16:41:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670821_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49019977/barcelona-marcus-rashford-unlikely-activate-marcus-rashford-loan",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48907789,
+      "source": "ESPN",
+      "headline": "Marcos Senesi joins Tottenham from Bournemouth as Roberto De Zerbi's second signing",
+      "description": "Marcos Senesi has joined Tottenham Hotspur from Bournemouth, the north London club has confirmed.",
+      "publishedAt": "2026-06-10T16:29:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0606/r1668992_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48907789/marcos-senesi-joins-tottenham-bournemouth-roberto-de-zerbi-second-signing",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "AFC Bournemouth"
+      ]
+    },
+    {
+      "id": "15aa2bdeeabd9ec2e30d9669aee20d34",
+      "source": "Sky Sports",
+      "headline": "Senesi signs for Tottenham on free transfer from Bournemouth",
+      "description": "Marcos Senesi has signed for Tottenham on a free transfer from Bournemouth.",
+      "publishedAt": "2026-06-10T16:20:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-marcos-senesi-bournemouth_7257967.jpg?20260525104155",
+      "link": "https://www.skysports.com/football/news/12040/13549085/marcos-senesi-tottenham-sign-bournemouth-defender-on-free-transfer-after-four-year-stay-at-cherries",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49019710,
+      "source": "ESPN",
+      "headline": "Everton ordered to pay more than £35m to Burnley after PSR breach",
+      "description": "Everton have been ordered to pay Burnley more than £35 million ($45.6m) in compensation after they were sued over Premier League profitability and sustainability breaches.",
+      "publishedAt": "2026-06-10T16:04:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670800_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49019710/everton-burnley-sue-35-million-psr-premier-league",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Burnley"
+      ]
+    },
+    {
       "id": 49017065,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal favorites for Álvarez as Real Madrid, Barcelona fail with bids",
@@ -31,20 +157,6 @@
       ]
     },
     {
-      "id": 49019710,
-      "source": "ESPN",
-      "headline": "Everton ordered to pay more than £35m to Burnley after PSR breach",
-      "description": "Everton have been ordered to pay Burnley more than £35 million ($45.6m) in compensation after they were sued over Premier League profitability and sustainability breaches.",
-      "publishedAt": "2026-06-10T15:04:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670800_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49019710/everton-burnley-sue-35-million-psr-premier-league",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Burnley"
-      ]
-    },
-    {
       "id": 49019367,
       "source": "ESPN",
       "headline": "Newcastle make first summer signing as Reims goalkeeper Ewen Jaouen joins on long-term deal",
@@ -58,28 +170,6 @@
       ]
     },
     {
-      "id": "28a762d9d26d8273883ff10516431e26",
-      "source": "Sky Sports",
-      "headline": "Everton appeal against order to pay £35m to Burnley over PSR breach",
-      "description": "Everton have launched an appeal after being ordered to pay Burnley £35m in compensation after they were sued over Premier League profitability and sustainability breaches from the 2021/22 season when the Clarets were relegated.",
-      "publishedAt": "2026-06-10T14:15:00.000Z",
-      "image": "https://e2.365dm.com/21/02/1920x1080/skysports-everton-premier-league_5273734.jpg?20210215171827",
-      "link": "https://www.skysports.com/football/news/12040/13552745/everton-appeal-order-to-pay-burnley-40m-in-compensation-over-psr-breaches-in-june-2022",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "34fc804b2d9c349431044262879fb1c6",
-      "source": "Sky Sports",
-      "headline": "England latest: Three Lions ready to step up intensity, says Tuchel",
-      "description": "",
-      "publishedAt": "2026-06-10T11:35:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49017889,
       "source": "ESPN",
       "headline": "Man United confirm Jadon Sancho among players leaving as free agents",
@@ -91,17 +181,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "c56b44598aa1d8d4405fada3c54ca7da",
-      "source": "Sky Sports",
-      "headline": "Carragher fears over Bellingham’s England role at World Cup",
-      "description": "Jamie Carragher fears Jude Bellingham’s role in the England team at the World Cup could “dominate airwaves” this summer.",
-      "publishedAt": "2026-06-10T10:04:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-england_7269941.jpg?20260610124051",
-      "link": "https://www.skysports.com/football/news/12040/13552649/jude-bellingham-jamie-carragher-fears-real-madrid-stars-england-role-could-dominate-airwaves-at-world-cup",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49017359,
@@ -119,17 +198,6 @@
       ]
     },
     {
-      "id": "d8baf4a90eb23d28b48f483e3a6efe89",
-      "source": "Sky Sports",
-      "headline": "El Niño, extreme weather and the future: World Cup Q&A with a climate scientist",
-      "description": "One of the key talking points in the lead up to the World Cup in USA, Canada and Mexico is what weather conditions matches will be played in.",
-      "publishedAt": "2026-06-10T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-dr-ella-gilbert-climate-scientist_7263855.jpg?20260602164218",
-      "link": "https://www.skysports.com/football/news/12040/13545542/world-cup-2026-el-ni241o-extreme-weather-and-the-future-qa-with-climate-scientist-dr-ella-gilbert",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49006984,
       "source": "ESPN",
       "headline": "Alex Iwobi, on 100 caps - 'No regrets' about choosing Nigeria over England",
@@ -144,17 +212,6 @@
         "England",
         "Portugal"
       ]
-    },
-    {
-      "id": "e275369cc8f87b46aba099363dd64d14",
-      "source": "Sky Sports",
-      "headline": "Man Utd latest: Sancho released after 83 games in five years",
-      "description": "",
-      "publishedAt": "2026-06-10T07:28:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -242,17 +299,6 @@
         "Manchester City",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "75a3a019ad4d0b331189cc843f0c14e5",
-      "source": "Sky Sports",
-      "headline": "Eight red cards?! Chaos reigns as USA edge Brazil",
-      "description": "",
-      "publishedAt": "2026-06-09T22:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-usa-brazil_7269880.jpg?20260610112708",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49006779,
@@ -382,17 +428,6 @@
       ]
     },
     {
-      "id": "11e5a84079412cda148fbfafe3d4bab3",
-      "source": "Sky Sports",
-      "headline": "Brighton latest: Seagulls looking to extend Veltman's deal",
-      "description": "",
-      "publishedAt": "2026-06-06T17:19:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48956021,
       "source": "ESPN",
       "headline": "16 players who could use World Cup to get a big transfer in Europe",
@@ -464,98 +499,11 @@
         "Liverpool",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 48973572,
-      "source": "ESPN",
-      "headline": "Man City chairman 'wants to' talk about 115 charges against club, but not until ruling",
-      "description": "Manchester City chairman Khaldoon Al-Mubarak has things he \"wants to say\" about the club's legal fight with the Premier League, but insists it will have to wait until a verdict is delivered.",
-      "publishedAt": "2026-06-05T12:00:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0605/r1668481_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48973572/man-city-chairman-khaldoon-al-mubarak-man-city-115-charges-pep-guardiola",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48968362,
-      "source": "ESPN",
-      "headline": "Arsenal's Max Dowman shortlisted for PFA Young Player of the Year award despite sole PL start",
-      "description": "Arsenal teenager Max Dowman has been shortlisted to win the 2026 PFA Young Player of the Year award, despite starting just one Premier League game in his breakout season with the newly-crowned English champions.",
-      "publishedAt": "2026-06-05T09:00:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0318/r1630104_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48968362/arsenal-max-dowman-shortlisted-pfa-young-player-year-award-sole-pl-start",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48967450,
-      "source": "ESPN",
-      "headline": "Man United's Bruno Fernandes targeting award double after PFA nomination",
-      "description": "Bruno Fernandes is on course to seal a prestigious award double after being shortlisted for the 2026 PFA Player of the Year prize.",
-      "publishedAt": "2026-06-05T08:28:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0412/r1642249_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48967450/manchester-united-bruno-fernandes-targeting-award-double-pfa-nomination",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48969279,
-      "source": "ESPN",
-      "headline": "Hislop: Andoni Iraola deserves 'patience' at Liverpool",
-      "description": "ESPN FC's Shaka Hislop says Andoni Iraola faces a big challenge to turn things around at Liverpool.",
-      "publishedAt": "2026-06-04T21:59:17Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0604/dm_260604_Hislop_Andoni_Iraola_deserves_patience_at_Liverpool/dm_260604_Hislop_Andoni_Iraola_deserves_patience_at_Liverpool.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48969279/andoni-iraola-deserves-patience-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48945214,
-      "source": "ESPN",
-      "headline": "Liverpool name Andoni Iraola head coach, replacing Arne Slot",
-      "description": "Liverpool have confirmed the appointment of Andoni Iraola as their new head coach.",
-      "publishedAt": "2026-06-04T19:44:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0604/r1668221_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48945214/liverpool-appoint-andoni-iraola-arne-slot-successor",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "16979fc319c3bf13f373b2b31a1a70b5",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: Michael Olise's brother among released players",
-      "description": "",
-      "publishedAt": "2026-05-31T18:47:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-xabi-alonso-chelsea_7246434.jpg?20260512120937",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "2575bf88bffa21761685736bb7f0c075",
-      "source": "Sky Sports",
-      "headline": "Sunderland latest: Talks begin with Geertruida as four depart",
-      "description": "",
-      "publishedAt": "2026-05-24T17:00:00.000Z",
-      "image": "https://e2.365dm.com/25/05/1920x1080/skysports-sunderland-club-blog_6929406.jpg?20250528092613",
-      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-10T16:06:25.082Z"
+    "cachedAt": "2026-06-10T20:43:56.153Z"
   }
 }
