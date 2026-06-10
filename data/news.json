@@ -2,16 +2,80 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "0f59dd7474d4a5749a6d646ff2b1bcfe",
+      "source": "Sky Sports",
+      "headline": "England latest: Saka not ready for 90 minutes yet, reveals Tuchel",
+      "description": "",
+      "publishedAt": "2026-06-09T22:49:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49010503,
       "source": "ESPN",
       "headline": "Chelsea stars Cole Palmer and João Pedro appear in Madonna short film",
       "description": "Chelsea stars Cole Palmer and João Pedro have made cameo appearances in a short film by pop legend Madonna.",
-      "publishedAt": "2026-06-09T20:07:05Z",
+      "publishedAt": "2026-06-09T22:29:28Z",
       "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49010503/chelsea-stars-joao-pedro-cole-palmer-appear-madonna-short-film",
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "4a12fc73a39521c80f8b98fb3bb182f0",
+      "source": "Sky Sports",
+      "headline": "Lionesses bemoan 'toughest group' as World Cup hopes hang in the balance",
+      "description": "Sarina Wiegman and multiple England stars rued the 'toughest' World Cup qualifying group after failing to earn an automatic spot in next year's tournament despite winning five of their six games.",
+      "publishedAt": "2026-06-09T22:15:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-england-world-cup_7269624.jpg?20260609231454",
+      "link": "https://www.skysports.com/football/news/12040/13552532/england-women-3-0-ukraine-women-lionesses-rue-spain-defeat-as-they-question-how-one-defeat-cost-them-automatic-world-cup-spot",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49013813,
+      "source": "ESPN",
+      "headline": "Burley not convinced Savinho is a smart signing for Spurs",
+      "description": "Craig Burley explains why he's yet to be convinced by Tottenham target Savinho during his time at Manchester City.",
+      "publishedAt": "2026-06-09T22:05:16Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0609/dm_260609_Burley_not_convinced_Savinho_is_a_smart_signing_for_Spurs/dm_260609_Burley_not_convinced_Savinho_is_a_smart_signing_for_Spurs.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49013813/burley-not-convinced-savinho-smart-signing-spurs",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49006779,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City eye move for Everton's Ndiaye",
+      "description": "Manchester City are reportedly looking to sign Everton winger Iliman Ndiaye. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-09T21:48:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670499_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49006779/transfer-rumors-news-man-united-city-monitor-chelsea-cucurella",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Everton"
+      ]
+    },
+    {
+      "id": 48973574,
+      "source": "ESPN",
+      "headline": "Marco Silva announced as Jose Mourinho replacement at Benfica",
+      "description": "Former Fulham manager Marco Silva has officially been announced as the replacement for Jose Mourinho at Benfica.",
+      "publishedAt": "2026-06-09T21:46:23Z",
+      "image": "https://a.espncdn.com/photo/2023/0722/r1201017_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48973574/marco-silva-announced-jose-mourinho-replacement-benfica",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Benfica"
       ]
     },
     {
@@ -62,21 +126,6 @@
       "teams": []
     },
     {
-      "id": 49006779,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, City monitor Cucurella",
-      "description": "Manchester United and Manchester City have joined the race to land Chelsea left back Marc Cucurella. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-09T14:44:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654286_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49006779/transfer-rumors-news-man-united-city-monitor-chelsea-cucurella",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester United",
-        "Manchester City"
-      ]
-    },
-    {
       "id": "1d07d4dbd51dc73b430cd2adfe8a9e81",
       "source": "Sky Sports",
       "headline": "Crystal Palace agree deal in principle for Lens boss Sage",
@@ -85,17 +134,6 @@
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sage-palace_7264413.jpg?20260603120854",
       "link": "https://www.skysports.com/football/news/12040/13550402/pierre-sage-crystal-palace-agree-deal-in-principle-for-rc-lens-coach-to-take-over-as-oliver-glasners-replacement",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "0b607f8d3055da327f1189bf6ecb3ce2",
-      "source": "Sky Sports",
-      "headline": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "description": "",
-      "publishedAt": "2026-06-09T14:00:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-fulham-news-club_7039253.jpg?20251002160142",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -229,17 +267,6 @@
         "Nigeria",
         "AIK"
       ]
-    },
-    {
-      "id": "4250d5b37a13bebb2bc050b09ce8c83e",
-      "source": "Sky Sports",
-      "headline": "England latest: Tuchel 'ready to push' players in final warm-up game",
-      "description": "",
-      "publishedAt": "2026-06-07T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48990165,
@@ -448,20 +475,6 @@
       ]
     },
     {
-      "id": 48963240,
-      "source": "ESPN",
-      "headline": "Man City threaten legal action after Real Madrid candidate vows to sign Erling Haaland",
-      "description": "Manchester City have threatened legal action after Real Madrid presidential candidate Enrique Riquelme promised to sign Erling Haaland if he's elected.",
-      "publishedAt": "2026-06-04T16:17:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0422/r1647668_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48963240/manchester-city-threaten-legal-action-real-madrid-erling-haaland-comments-enrique-riquelme-election",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 48965097,
       "source": "ESPN",
       "headline": "Man United goalkeeper Tom Heaton signs one-year contract extension",
@@ -500,25 +513,11 @@
         "Tottenham Hotspur",
         "Brighton & Hove Albion"
       ]
-    },
-    {
-      "id": 48962858,
-      "source": "ESPN",
-      "headline": "Man City's first bid for Elliot Anderson rejected by Nottingham Forest - sources",
-      "description": "Manchester City have had their opening bid for Elliot Anderson rejected by Nottingham Forest, sources have told ESPN.",
-      "publishedAt": "2026-06-04T06:16:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0113/r1600209_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48962858/man-city-first-bid-elliot-anderson-rejected-nottingham-forest-sources",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-09T20:20:01.644Z"
+    "cachedAt": "2026-06-10T04:45:43.717Z"
   }
 }
