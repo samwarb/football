@@ -2,15 +2,155 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "0f59dd7474d4a5749a6d646ff2b1bcfe",
+      "id": 49017359,
+      "source": "ESPN",
+      "headline": "Chiamaka Nnadozie ready to welcome fellow Nigerian Zadok Yohanna to Brighton",
+      "description": "Super Falcons goalkeeper Chiamaka Nnadozie says she is looking forward to welcoming Nigerian teenager Zadok Yohanna and helping him settle into life at Brighton & Hove Albion.",
+      "publishedAt": "2026-06-10T10:02:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670694_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49017359/chiamaka-nnadozie-ready-welcome-fellow-nigerian-zadok-yohanna-brighton",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Nigeria",
+        "Nigeria"
+      ]
+    },
+    {
+      "id": 49017065,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal favorites for Álvarez as Real Madrid, Barcelona fail with bids",
+      "description": "Arsenal are now in prime position to land Atlético Madrid striker Julián Álvarez this summer. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-10T09:21:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1651148_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49017065/transfer-rumors-news-arsenal-favorites-alvarez-real-madrid-barcelona-fail-bids",
+      "tag": "Atlético Madrid",
+      "teams": [
+        "Atlético Madrid",
+        "Arsenal",
+        "Real Madrid",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "d8baf4a90eb23d28b48f483e3a6efe89",
       "source": "Sky Sports",
-      "headline": "England latest: Saka not ready for 90 minutes yet, reveals Tuchel",
+      "headline": "El Niño, extreme weather and the future: World Cup Q&A with a climate scientist",
+      "description": "One of the key talking points in the lead up to the World Cup in USA, Canada and Mexico is what weather conditions matches will be played in.",
+      "publishedAt": "2026-06-10T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-dr-ella-gilbert-climate-scientist_7263855.jpg?20260602164218",
+      "link": "https://www.skysports.com/football/news/12040/13545542/world-cup-2026-el-ni241o-extreme-weather-and-the-future-qa-with-climate-scientist-dr-ella-gilbert",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "7ee073890b441406bdf80d26038374f1",
+      "source": "Sky Sports",
+      "headline": "Laboured Lionesses must sharpen up or risk missing out on World Cup",
+      "description": "England are in a pickle. The reigning European champions can no longer qualify automatically for next summer's World Cup in Brazil. They must negotiate a tricky play-off campaign to get there.",
+      "publishedAt": "2026-06-10T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-keira-walsh_7266818.jpg?20260606142629",
+      "link": "https://www.skysports.com/football/news/12040/13552392/england-consigned-to-play-offs-to-reach-world-cup-2027-in-brazil-why-are-lionesses-labouring-so-badly",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49006984,
+      "source": "ESPN",
+      "headline": "Alex Iwobi, on 100 caps - 'No regrets' about choosing Nigeria over England",
+      "description": "As he prepares to earn his 100th cap for Nigeria in Wednesday's international friendly against Portugal, Nigeria midfielder Alex Iwobi says he has no regrets about his decade-long career with the Super Eagles.",
+      "publishedAt": "2026-06-10T08:49:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670140_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49006984/alex-iwobi-100-caps-no-regrets-choosing-nigeria-england",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Nigeria",
+        "England",
+        "Portugal"
+      ]
+    },
+    {
+      "id": "e275369cc8f87b46aba099363dd64d14",
+      "source": "Sky Sports",
+      "headline": "Man Utd latest: Sancho released after 83 games in five years",
       "description": "",
-      "publishedAt": "2026-06-09T22:49:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "publishedAt": "2026-06-10T07:28:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
       "teams": []
+    },
+    {
+      "id": "aaea974f4e3a21f1f20b6ed9ba918aba",
+      "source": "Sky Sports",
+      "headline": "Mourinho to fly to Madrid to complete Real return",
+      "description": "Jose Mourinho will fly from Lisbon to Madrid this afternoon to complete his return to Spanish giants Real.",
+      "publishedAt": "2026-06-10T07:13:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-jose-mourinho-real-madrid_7252177.jpg?20260518114400",
+      "link": "https://www.skysports.com/football/news/12040/13552583/jose-mourinho-to-real-madrid-former-chelsea-boss-flying-to-madrid-to-complete-deal-to-replace-alvaro-arbeloa-on-three-year-contract",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-06-10T06:47:28Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-10T06:44:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
     },
     {
       "id": 49010503,
@@ -24,17 +164,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "4a12fc73a39521c80f8b98fb3bb182f0",
-      "source": "Sky Sports",
-      "headline": "Lionesses bemoan 'toughest group' as World Cup hopes hang in the balance",
-      "description": "Sarina Wiegman and multiple England stars rued the 'toughest' World Cup qualifying group after failing to earn an automatic spot in next year's tournament despite winning five of their six games.",
-      "publishedAt": "2026-06-09T22:15:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-england-world-cup_7269624.jpg?20260609231454",
-      "link": "https://www.skysports.com/football/news/12040/13552532/england-women-3-0-ukraine-women-lionesses-rue-spain-defeat-as-they-question-how-one-defeat-cost-them-automatic-world-cup-spot",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49013813,
@@ -79,28 +208,6 @@
       ]
     },
     {
-      "id": "f0801cc05e88a3ebafb58b7e0ee1d193",
-      "source": "Sky Sports",
-      "headline": "Relegated twice - so why is Fernandes still wanted by Europe's best?",
-      "description": "Not many players get a big move after being relegated twice in their first two Premier League seasons. But Mateus Fernandes is still sought after.",
-      "publishedAt": "2026-06-09T19:00:00.000Z",
-      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-mateus-fernandes_7144253.jpg?20260124131801",
-      "link": "https://www.skysports.com/football/news/12040/13552345/mateus-fernandes-the-reasons-why-manchester-united-and-europes-best-are-interested-in-a-midfielder-who-has-been-relegated-twice",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b75fa2fd2ce368c312862a300b4804ed",
-      "source": "Sky Sports",
-      "headline": "'You make us laugh more than Barca!' - Atleti mock Real after £129m Alvarez bid",
-      "description": "\"You make us laugh even more than Barcelona,\" said the official Atletico Madrid social media team as they mocked rivals Real Madrid after rejecting their £129m (€150m) bid for striker Julian Alvarez.",
-      "publishedAt": "2026-06-09T17:30:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-atletico-madrid-champions_7214636.jpg?20260408215129",
-      "link": "https://www.skysports.com/football/news/12040/13552447/julian-alvarez-real-madrid-announce-129m-bid-for-atletico-madrid-forward-has-been-rejected-amid-barcelona-interest",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49010178,
       "source": "ESPN",
       "headline": "Crystal Palace near full agreement for Pierre Sage - sources",
@@ -115,28 +222,6 @@
       ]
     },
     {
-      "id": "3fbf8056c7fe0b8015cbc43e781944cb",
-      "source": "Sky Sports",
-      "headline": "England third favourites? Their real World Cup chances assessed",
-      "description": "The World Cup is finally upon us. Could it be England's year?",
-      "publishedAt": "2026-06-09T15:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-between-the-lines_7269170.jpg?20260609145653",
-      "link": "https://www.skysports.com/football/news/12040/13552254/englands-world-cup-chances-assessed-as-they-are-rated-third-favourites-behind-spain-and-france-between-the-lines",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "1d07d4dbd51dc73b430cd2adfe8a9e81",
-      "source": "Sky Sports",
-      "headline": "Crystal Palace agree deal in principle for Lens boss Sage",
-      "description": "Crystal Palace have agreed a deal in principle for Pierre Sage to become their new head coach.",
-      "publishedAt": "2026-06-09T14:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sage-palace_7264413.jpg?20260603120854",
-      "link": "https://www.skysports.com/football/news/12040/13550402/pierre-sage-crystal-palace-agree-deal-in-principle-for-rc-lens-coach-to-take-over-as-oliver-glasners-replacement",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49007888,
       "source": "ESPN",
       "headline": "Football regulator 'in contact' with West Ham over David Sullivan allegations",
@@ -147,82 +232,6 @@
       "tag": "West Ham United",
       "teams": [
         "West Ham United"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-09T07:09:37Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49006984,
-      "source": "ESPN",
-      "headline": "Alex Iwobi, on 100 caps - 'No regrets' about choosing Nigeria over England",
-      "description": "As he prepares to earn his 100th cap for Nigeria in Wednesday's international friendly against Portugal, Nigeria midfielder Alex Iwobi says he has no regrets about his decade-long career with the Super Eagles.",
-      "publishedAt": "2026-06-09T07:08:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670140_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49006984/alex-iwobi-100-caps-no-regrets-choosing-nigeria-england",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Nigeria",
-        "England",
-        "Portugal"
-      ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-09T07:07:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
       ]
     },
     {
@@ -436,19 +445,6 @@
       ]
     },
     {
-      "id": 48957795,
-      "source": "ESPN",
-      "headline": "Man City Keep or Dump: Who should stay post-Guardiola?",
-      "description": "How should Manchester City approach key decisions ahead of their first season without Pep Guardiola in a decade? Gab Marcotti and Mark Ogden break it down.",
-      "publishedAt": "2026-06-04T18:26:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0529/260512_soc_trades_man-city_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48957795/manchester-city-keep-dump-stay-pep-guardiola-gab-marcotti-mark-ogden",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 48966590,
       "source": "ESPN",
       "headline": "Man United CEO: Signing Premier League proven talent could be summer strategy again",
@@ -501,23 +497,42 @@
       ]
     },
     {
-      "id": 48964489,
-      "source": "ESPN",
-      "headline": "Tottenham's opening offer for Jan Paul van Hecke rejected by Brighton - sources",
-      "description": "Tottenham have had an opening offer for Jan Paul van Hecke rejected by Brighton & Hove Albion, sources have told ESPN.",
-      "publishedAt": "2026-06-04T11:43:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0604/r1668042_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48964489/tottenham-opening-offer-jan-paul-van-hecke-rejected-brighton-sources",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Brighton & Hove Albion"
-      ]
+      "id": "32d16a3f3f9e1e0de79ef9d1d2e27c9e",
+      "source": "Sky Sports",
+      "headline": "Man City latest: 'Eight players could leave in summer'",
+      "description": "",
+      "publishedAt": "2026-06-04T09:00:00.000Z",
+      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-tijjani-reijnders_7126345.jpg?20260104181851",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "16979fc319c3bf13f373b2b31a1a70b5",
+      "source": "Sky Sports",
+      "headline": "Chelsea latest: Michael Olise's brother among released players",
+      "description": "",
+      "publishedAt": "2026-05-31T18:47:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-xabi-alonso-chelsea_7246434.jpg?20260512120937",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "2575bf88bffa21761685736bb7f0c075",
+      "source": "Sky Sports",
+      "headline": "Sunderland latest: Talks begin with Geertruida as four depart",
+      "description": "",
+      "publishedAt": "2026-05-24T17:00:00.000Z",
+      "image": "https://e2.365dm.com/25/05/1920x1080/skysports-sunderland-club-blog_6929406.jpg?20250528092613",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-10T04:45:43.717Z"
+    "cachedAt": "2026-06-10T10:21:45.562Z"
   }
 }
