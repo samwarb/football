@@ -2,6 +2,101 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49032417,
+      "source": "ESPN",
+      "headline": "Tottenham defender Marcos Senesi called up to Argentina World Cup squad",
+      "description": "The Argentina national team confirmed defender Marcos Senesi will replace the injured Leonardo Balerdi on the 26-player World Cup roster.",
+      "publishedAt": "2026-06-11T19:40:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671435_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49032417/tottenham-defender-marcos-senesi-called-argentina-world-cup-squad",
+      "tag": "Argentina",
+      "teams": [
+        "Argentina",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49032467,
+      "source": "ESPN",
+      "headline": "Thomas Tuchel: 'Nothing changes' if Elliot Anderson makes big-money Man City move",
+      "description": "Thomas Tuchel has said Elliot Anderson is the \"full package\" and the England boss does not believe a potential big money move to Manchester City would change the Nottingham Forest star.",
+      "publishedAt": "2026-06-11T19:09:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671449_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49032467/thomas-tuchel-england-world-cup-elliot-anderson-transfer-news-manchester-city",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-11T19:02:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
+      "id": "94b9cca1e223ac6aeba8fb85aa0f2180",
+      "source": "Sky Sports",
+      "headline": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
+      "description": "Real Madrid have confirmed the re-appointment of Jose Mourinho as first team coach.",
+      "publishedAt": "2026-06-11T18:55:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-laliga-real-madrid_7268260.jpg?20260608120507",
+      "link": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "a9c4ac552673ff4279116131008e1967",
+      "source": "Sky Sports",
+      "headline": "Rangers in talks with RB Salzburg over head coach Röhl",
+      "description": "Red Bull Salzburg are in talks with Rangers over a deal to land head coach Danny Röhl.",
+      "publishedAt": "2026-06-11T18:30:00.000Z",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-rohl-rangers_7154392.jpg?20260203131853",
+      "link": "https://www.skysports.com/football/news/12040/13553150/danny-r246hl-rangers-in-talks-with-red-bull-salzburg-over-head-coach-exit-after-less-than-a-year-with-ibrox-side",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49031742,
+      "source": "ESPN",
+      "headline": "Tottenham fan group write to chairman over ownership and leadership concerns",
+      "description": "Tottenham Hotspur Supporters' Trust (THST) has written to executive chairman Peter Charrington after a recent fans' survey highlighted a lack of confidence in the current ownership and leadership team.",
+      "publishedAt": "2026-06-11T18:09:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671389_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49031742/tottenham-fan-group-write-chairman-ownership-leadership-concerns",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
       "id": 49026689,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal keen on Spain star Williams",
@@ -61,28 +156,6 @@
       "teams": []
     },
     {
-      "id": "49c5cef02774c82e6b782f3236cbd287",
-      "source": "Sky Sports",
-      "headline": "O'Neill, 74, named permanent Celtic boss",
-      "description": "Martin O'Neill has been named Celtic's permanent manager.",
-      "publishedAt": "2026-06-11T11:03:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-celtic-oneill_7266452.jpg?20260605191118",
-      "link": "https://www.skysports.com/football/news/12040/13547214/martin-oneill-celtic-manager-74-signs-permanent-deal-after-scottish-premiership-and-scottish-cup-success",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "404d8127ba6461dcfbeab255f6e400e5",
-      "source": "Sky Sports",
-      "headline": "What have we learned from England's World Cup training camp?",
-      "description": "England's preparation camp is drawing to a close.",
-      "publishedAt": "2026-06-11T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-reporter-notebook_7270668.jpg?20260611114157",
-      "link": "https://www.skysports.com/football/news/12040/13552984/jude-bellingham-over-morgan-rogers-at-no-10-what-weve-learned-from-englands-world-cup-training-camp-in-florida",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49027483,
       "source": "ESPN",
       "headline": "Wolves sack Rob Edwards after Premier League relegation",
@@ -120,38 +193,6 @@
         "Nottingham Forest",
         "Sunderland",
         "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-11T06:44:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
         "Hull City"
       ]
     },
@@ -445,65 +486,11 @@
         "Chelsea",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49002029,
-      "source": "ESPN",
-      "headline": "Reports detail women's claims of sexual coercion against West Ham co-owner David Sullivan",
-      "description": "Seven women have accused David Sullivan, the West Ham co-owner who made a fortune in the porn and media industry, of preying on them for sex, according to an investigation by the BBC and The Times of London on Monday.",
-      "publishedAt": "2026-06-08T19:21:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656156_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49002029/reports-detail-women-claims-sexual-coercion-west-ham-co-owner-david-sullivan",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48997587,
-      "source": "ESPN",
-      "headline": "Brighton sign Nigerian starlet Zadok Yohanna, 18, from AIK Stockholm on 5-year deal",
-      "description": "Nigerian teenager Zadok Yohanna says Brighton & Hove Albion's reputation for developing young players was what convinced him to choose the Premier League club, despite interest from some of Europe's biggest-spending teams.",
-      "publishedAt": "2026-06-08T07:50:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0608/r1669679_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/48997587/brighton-sign-nigerian-starlet-zadok-yohanna-18-aik-stockholm-5-year-deal",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Nigeria",
-        "AIK"
-      ]
-    },
-    {
-      "id": 48990165,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, PSG to fight for Gibbs-White",
-      "description": "Arsenal could face strong competition from Paris Saint-Germain for the signature of Nottingham Forest midfielder Morgan Gibbs-White. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-07T14:05:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0419/r1645969_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990165/transfer-rumors-news-arsenal-psg-fight-nottingham-forest-morgan-gibbs-white",
-      "tag": "Paris Saint-Germain",
-      "teams": [
-        "Paris Saint-Germain",
-        "Arsenal",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": "e29bfb3d39b71bdd95942cf9dd9fba87",
-      "source": "Sky Sports",
-      "headline": "EFL latest: Terry consortium's Colchester takeover falls through",
-      "description": "",
-      "publishedAt": "2026-06-05T19:00:00.000Z",
-      "image": "https://e0.365dm.com/25/12/1920x1080/skysports-john-terry-chelsea_7120461.jpg?20251227205544",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-11T16:19:38.860Z"
+    "cachedAt": "2026-06-11T20:34:39.362Z"
   }
 }
