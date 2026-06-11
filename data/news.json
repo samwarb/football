@@ -2,15 +2,144 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "1203d8391b12d745bd383dd78b573288",
+      "id": 49027483,
+      "source": "ESPN",
+      "headline": "Wolves sack Rob Edwards after Premier League relegation",
+      "description": "Wolverhampton Wanderers have sacked Rob Edwards after they were relegated from the Premier League.",
+      "publishedAt": "2026-06-11T10:48:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671175_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49027483/wolves-sack-rob-edwards-premier-league-relegation",
+      "tag": "Wolverhampton Wanderers",
+      "teams": [
+        "Wolverhampton Wanderers"
+      ]
+    },
+    {
+      "id": "833af012e580e210c01e5c538f951276",
       "source": "Sky Sports",
-      "headline": "Are England now ready to go and win the World Cup?",
-      "description": "Declan Rice called it a \"top performance\" against Costa Rica. It left Thomas Tuchel \"very proud\". So are England now primed and ready to go on and win the World Cup?",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ollie-watkins-england_7270420.jpg?20260611000809",
-      "link": "https://www.skysports.com/football/news/12040/13552812/world-cup-england-win-final-warm-up-against-costa-rica-so-are-they-ready-to-challenge-for-tournament-glory",
+      "headline": "Mexico vs South Africa: Predict the score for the World Cup opener",
+      "description": "",
+      "publishedAt": "2026-06-11T10:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-world-cup-group-a_7253906.jpg?20260520121126",
+      "link": "https://www.skysports.com/football/mexico-vs-south-africa/live/549767",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49026689,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal keen on Spain star Williams",
+      "description": "Arsenal are interested in a summer move to sign Athletic Club winger Nico Williams. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-11T09:36:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0511/r1656624_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49026689/transfer-rumors-news-arsenal-keen-spain-star-williams",
+      "tag": "Athletic Club",
+      "teams": [
+        "Athletic Club",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49026747,
+      "source": "ESPN",
+      "headline": "Introducing every single Premier League player representing an African team at the World Cup",
+      "description": "As ever, the Premier League is well represented across African national teams at the World Cup, with all but one of the content's 10 contenders featuring at least one player from the division.",
+      "publishedAt": "2026-06-11T08:56:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0516/r1658974_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49026747/introducing-every-single-premier-league-player-representing-african-team-world-cup",
+      "tag": "Ghana",
+      "teams": [
+        "Ghana",
+        "Egypt",
+        "Morocco",
+        "Senegal",
+        "Ivory Coast",
+        "Algeria",
+        "Tunisia",
+        "South Africa"
+      ]
+    },
+    {
+      "id": "ce81eebd451f3630a6426c7d4905403c",
+      "source": "Sky Sports",
+      "headline": "Man City latest: Club remain in talks to sign Anderson",
+      "description": "",
+      "publishedAt": "2026-06-11T07:43:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-transfer_7229004.jpg?20260424090044",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "e899357a1967e0e166e40cdf654e9329",
+      "source": "Sky Sports",
+      "headline": "Edwards sacked by Wolves after seven months in charge",
+      "description": "Wolverhampton Wanderers have sacked head coach Rob Edwards after the club's relegation from the Premier League, Sky Sports News understands.",
+      "publishedAt": "2026-06-11T07:27:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-football-rob-edwards_7270562.jpg?20260611101142",
+      "link": "https://www.skysports.com/football/news/12040/13552944/rob-edwards-wolves-sack-head-coach-after-seven-months-in-charge",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-06-11T06:47:29Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-11T06:44:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
     },
     {
       "id": 49019977,
@@ -69,17 +198,6 @@
       ]
     },
     {
-      "id": "971bf4e334442f465dd159bce9260f55",
-      "source": "Sky Sports",
-      "headline": "Infantino tells people to 'chill and relax' after Somali referee denied US entry",
-      "description": "FIFA president Gianni Infantino called for people to \"chill and relax\" over Somali referee Omar Artan being denied entry to the United States to officiate at the World Cup.",
-      "publishedAt": "2026-06-10T20:29:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832",
-      "link": "https://www.skysports.com/football/news/12040/13552857/world-cup-2026-fifa-president-gianni-infantino-says-chill-and-relax-after-somali-referee-denied-us-visa",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49020542,
       "source": "ESPN",
       "headline": "Kieran McKenna to step down as Ipswich manager after securing second Premier League promotion",
@@ -105,17 +223,6 @@
         "Crystal Palace",
         "United States"
       ]
-    },
-    {
-      "id": "630624e1f3946881edf719bf0a85d121",
-      "source": "Sky Sports",
-      "headline": "Is football impacting the US? Or is the US impacting football?",
-      "description": "Football is having an increasing influence in the USA - but the USA is having an increasing influence on football, too.",
-      "publishedAt": "2026-06-10T18:30:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-usa-united-states_7270225.jpg?20260610184854",
-      "link": "https://www.skysports.com/football/news/12040/13550717/world-cup-how-usa-is-embracing-football-and-impacting-the-global-game",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49020966,
@@ -226,66 +333,6 @@
         "Nigeria",
         "England",
         "Portugal"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-10T06:47:28Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-10T06:44:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
       ]
     },
     {
@@ -443,55 +490,20 @@
       ]
     },
     {
-      "id": 48956021,
-      "source": "ESPN",
-      "headline": "16 players who could use World Cup to get a big transfer in Europe",
-      "description": "The World Cup is the biggest stage in sports, so which players are hoping to use it to get their next big transfer?",
-      "publishedAt": "2026-06-06T12:06:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Tottenham Hotspur",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48978343,
-      "source": "ESPN",
-      "headline": "Ogden: West Ham's £80m Fernandes valuation is an 'opening gambit'",
-      "description": "Mark Ogden says West Ham's reported £80m valuation of Mateus Fernandes is an 'opening gambit', with relegation also making it difficult to hold on to key players.",
-      "publishedAt": "2026-06-05T22:05:32Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0605/dm_260605_Ogden_West_Hams_Fernandes_valuation_is_an_opening_gambit/dm_260605_Ogden_West_Hams_Fernandes_valuation_is_an_opening_gambit.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/48978343/west-ham-80m-fernandes-valuation-opening-gambit",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48972628,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City could prioritize move for Tonali",
-      "description": "Could Man City switch their attention from Elliot Anderson to Sandro Tonali? Transfer Talk has the latest.",
-      "publishedAt": "2026-06-05T21:07:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0605/r1668708_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48972628/transfer-rumors-news-liverpool-begin-talks-yan-diomande",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Nottingham Forest",
-        "Newcastle United"
-      ]
+      "id": "31142c5308a2a5961813ce59c37c65cb",
+      "source": "Sky Sports",
+      "headline": "When does the transfer window open? And what's the new deadline?",
+      "description": "The summer transfer window is nearly upon us. Here are all the key dates.",
+      "publishedAt": "2026-05-20T11:57:00.000Z",
+      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-transfer-centre-graphic_7153647.jpg?20260202182309",
+      "link": "https://www.skysports.com/football/news/12040/13546220/summer-transfer-window-2026-dates-when-is-deadline-day-for-premier-league-and-efl-clubs-to-sign-players",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-11T04:57:24.882Z"
+    "cachedAt": "2026-06-11T10:57:19.310Z"
   }
 }
