@@ -2,6 +2,73 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "1203d8391b12d745bd383dd78b573288",
+      "source": "Sky Sports",
+      "headline": "Are England now ready to go and win the World Cup?",
+      "description": "Declan Rice called it a \"top performance\" against Costa Rica. It left Thomas Tuchel \"very proud\". So are England now primed and ready to go on and win the World Cup?",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ollie-watkins-england_7270420.jpg?20260611000809",
+      "link": "https://www.skysports.com/football/news/12040/13552812/world-cup-england-win-final-warm-up-against-costa-rica-so-are-they-ready-to-challenge-for-tournament-glory",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49019977,
+      "source": "ESPN",
+      "headline": "Barcelona unlikely to activate permanent Marcus Rashford option from Man United - sources",
+      "description": "Barcelona are unlikely to activate the €30 million option to make Marcus Rashford's loan from Manchester United permanent, but coach Hansi Flick will have the final say with Monday's deadline to make a decision looming, sources have told ESPN.",
+      "publishedAt": "2026-06-10T23:09:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670821_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49019977/barcelona-marcus-rashford-unlikely-activate-marcus-rashford-loan",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49023132,
+      "source": "ESPN",
+      "headline": "Could Marcus Rashford play for Man United next season?",
+      "description": "Mark Ogden shares details on Marcus Rashford future as reports emerge he could return to play for Man United.",
+      "publishedAt": "2026-06-10T23:06:10Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0610/dm_260610_COM_SOC_ANALYSIS_Could_Marcus_Rashford_play_for_Man_United_next_season_2026_6_10/dm_260610_COM_SOC_ANALYSIS_Could_Marcus_Rashford_play_for_Man_United_next_season_2026_6_10.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49023132/could-marcus-rashford-play-man-united-next-season",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "England",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49022653,
+      "source": "ESPN",
+      "headline": "Why Manchester City will go all-out to sign Elliot Anderson",
+      "description": "Rob Dawson explains why a summer midfield overhaul could be on the cards for Manchester City, starting with a move for Nottingham Forest's Elliot Anderson.",
+      "publishedAt": "2026-06-10T21:59:45Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0610/dm_260610_Why_Manchester_City_will_go_all-out_to_sign_Elliot_Anderson/dm_260610_Why_Manchester_City_will_go_all-out_to_sign_Elliot_Anderson.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49022653/why-manchester-city-go-all-sign-elliot-anderson",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49017065,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United looking at move for Leeds' Darlow",
+      "description": "Manchester United are reportedly looking at Leeds' Karl Darlow to reinforce their depth at goalkeeper. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-10T21:48:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670980_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49017065/transfer-rumors-news-arsenal-favorites-alvarez-real-madrid-barcelona-fail-bids",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Leeds United"
+      ]
+    },
+    {
       "id": "971bf4e334442f465dd159bce9260f55",
       "source": "Sky Sports",
       "headline": "Infantino tells people to 'chill and relax' after Somali referee denied US entry",
@@ -11,6 +78,19 @@
       "link": "https://www.skysports.com/football/news/12040/13552857/world-cup-2026-fifa-president-gianni-infantino-says-chill-and-relax-after-somali-referee-denied-us-visa",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 49020542,
+      "source": "ESPN",
+      "headline": "Kieran McKenna to step down as Ipswich manager after securing second Premier League promotion",
+      "description": "Kieran McKenna has stepped down as Ipswich Town manager after five seasons in the job, the club have confirmed.",
+      "publishedAt": "2026-06-10T20:26:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670855_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49020542/kieran-mckenna-steps-ipswich-manager-five-seasons",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town"
+      ]
     },
     {
       "id": 49021259,
@@ -51,44 +131,6 @@
       ]
     },
     {
-      "id": 49020542,
-      "source": "ESPN",
-      "headline": "Kieran McKenna to step down as Ipswich manager after securing second Premier League promotion",
-      "description": "Kieran McKenna has stepped down as Ipswich Town manager after five seasons in the job, the club have confirmed.",
-      "publishedAt": "2026-06-10T18:22:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670855_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49020542/kieran-mckenna-steps-ipswich-manager-five-seasons",
-      "tag": "Ipswich Town",
-      "teams": [
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": "76ae81b775e03c36e0b71e391099eb93",
-      "source": "Sky Sports",
-      "headline": "McKenna stepping down as Ipswich boss to take break from football",
-      "description": "Kieran McKenna is stepping down as Ipswich manager to take a break from football.",
-      "publishedAt": "2026-06-10T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-kieran-mckenna-ipswich_7237251.jpg?20260502171106",
-      "link": "https://www.skysports.com/football/news/12040/13552342/kieran-mckenna-stepping-down-as-ipswich-boss-to-take-a-break-from-football-amid-fulham-interest",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49019977,
-      "source": "ESPN",
-      "headline": "Barcelona unlikely to activate permanent Marcus Rashford option from Man United - sources",
-      "description": "Barcelona are unlikely to activate the €30 million option to make Marcus Rashford's loan from Manchester United permanent, but coach Hansi Flick will have the final say with Monday's deadline to make a decision looming, sources have told ESPN.",
-      "publishedAt": "2026-06-10T16:41:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670821_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49019977/barcelona-marcus-rashford-unlikely-activate-marcus-rashford-loan",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Manchester United"
-      ]
-    },
-    {
       "id": 48907789,
       "source": "ESPN",
       "headline": "Marcos Senesi joins Tottenham from Bournemouth as Roberto De Zerbi's second signing",
@@ -103,17 +145,6 @@
       ]
     },
     {
-      "id": "15aa2bdeeabd9ec2e30d9669aee20d34",
-      "source": "Sky Sports",
-      "headline": "Senesi signs for Tottenham on free transfer from Bournemouth",
-      "description": "Marcos Senesi has signed for Tottenham on a free transfer from Bournemouth.",
-      "publishedAt": "2026-06-10T16:20:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-marcos-senesi-bournemouth_7257967.jpg?20260525104155",
-      "link": "https://www.skysports.com/football/news/12040/13549085/marcos-senesi-tottenham-sign-bournemouth-defender-on-free-transfer-after-four-year-stay-at-cherries",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49019710,
       "source": "ESPN",
       "headline": "Everton ordered to pay more than £35m to Burnley after PSR breach",
@@ -125,22 +156,6 @@
       "teams": [
         "Everton",
         "Burnley"
-      ]
-    },
-    {
-      "id": 49017065,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal favorites for Álvarez as Real Madrid, Barcelona fail with bids",
-      "description": "Arsenal are now in prime position to land Atlético Madrid striker Julián Álvarez this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-10T15:26:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1651148_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49017065/transfer-rumors-news-arsenal-favorites-alvarez-real-madrid-barcelona-fail-bids",
-      "tag": "Atlético Madrid",
-      "teams": [
-        "Atlético Madrid",
-        "Arsenal",
-        "Real Madrid",
-        "Barcelona"
       ]
     },
     {
@@ -472,38 +487,11 @@
         "Nottingham Forest",
         "Newcastle United"
       ]
-    },
-    {
-      "id": 48975273,
-      "source": "ESPN",
-      "headline": "Ex-Spurs boss Thomas Frank has had 'opportunities,' but won't 'rush' into next role",
-      "description": "Former Tottenham Hotspur head coach Thomas Frank has said he does not want to \"rush\" into his next role.",
-      "publishedAt": "2026-06-05T14:55:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0124/r1605048_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48975273/ex-spurs-boss-thomas-frank-wont-rush-new-role-opportunities-roberto-de-zerbi",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48908484,
-      "source": "ESPN",
-      "headline": "Andy Robertson joins Tottenham on free transfer after leaving Liverpool",
-      "description": "Tottenham have completed the signing of Andy Robertson on a free transfer following his departure from Liverpool, the north London club has confirmed.",
-      "publishedAt": "2026-06-05T13:15:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0529/r1665271_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48908484/andy-robertson-tottenham-free-transfer-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-10T20:43:56.153Z"
+    "cachedAt": "2026-06-11T04:57:24.882Z"
   }
 }
