@@ -2,25 +2,81 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "3c6aa38449aa5a3a936870b2484db263",
+      "id": 49040627,
+      "source": "ESPN",
+      "headline": "Michael Carrick gave Man United 'another energy' - Paul Pogba",
+      "description": "Paul Pogba has told ESPN that Michael Carrick gave fresh \"energy\" to the Manchester United players this season.",
+      "publishedAt": "2026-06-12T14:46:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0612/r1671877_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49040627/michael-carrick-gave-man-united-another-energy-paul-pogba",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49038387,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye USMNT's Robinson, England's Hall",
+      "description": "Manchester United have short-listed Newcastle United's Lewis Hall and Fulham's Antonee Robinson. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-12T14:09:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0410/r1641244_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Manchester United",
+        "United States"
+      ]
+    },
+    {
+      "id": 49039646,
+      "source": "ESPN",
+      "headline": "Paul Pogba exclusive: Mbappe, Olise, Dembele & Man United",
+      "description": "Alexis Nunes talks to Paul Pogba on whether he thinks this France team is better than the 2018 World Cup winning one he was in.",
+      "publishedAt": "2026-06-12T13:04:09Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0612/dm_260612_Paul_Pogba_exclusive_Mbappe_Olise_Dembele_26_Man_United/dm_260612_Paul_Pogba_exclusive_Mbappe_Olise_Dembele_26_Man_United.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49039646/mbappe-olise-dembele-man-united",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "France",
+        "Manchester United",
+        "Paris Saint-Germain",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "292a42f4d11b0a254c32640ca18240b7",
       "source": "Sky Sports",
-      "headline": "Former Wolves, Millwall and Portsmouth boss Jackett dies aged 64",
-      "description": "Former Wolves, Millwall and Portsmouth boss Kenny Jackett has died aged 64.",
-      "publishedAt": "2026-06-12T10:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-obit-kenny-jackett_7271446.jpg?20260612104106",
-      "link": "https://www.skysports.com/football/news/12040/13553291/kenny-jackett-former-wolves-millwall-portsmouth-and-swansea-manager-dies-aged-64",
+      "headline": "Canada vs Bosnia-Herzegovina preview: Predict the score!",
+      "description": "",
+      "publishedAt": "2026-06-12T12:24:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-group-b_7268098.jpg?20260608094520",
+      "link": "https://www.skysports.com/football/canada-vs-bosnia-and-herzegovina/live/549768",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "2750ae40a73909b4f7070b7879a80d90",
+      "source": "Sky Sports",
+      "headline": "Brighton make £30m Vuskovic offer as Spurs maintain Van Hecke interest",
+      "description": "Brighton have made a £30m bid for Tottenham's teenage centre-back Luka Vuskovic.",
+      "publishedAt": "2026-06-12T11:52:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-luka-vuskovic_7271562.jpg?20260612123413",
+      "link": "https://www.skysports.com/football/news/12040/13553329/luka-vuskovic-brighton-make-30m-offer-for-spurs-defender-as-roberto-de-zerbi-maintains-jan-paul-van-hecke-interest",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "2c7346796143efd0ceaffdca4f88ed2a",
+      "id": "0d6023691d76bc4e3b5b956228f636d4",
       "source": "Sky Sports",
-      "headline": "Neville: England team is built around Kane - he's the only world-class talent",
-      "description": "Gary Neville believes the England team has been built around Harry Kane, who he considers the only genuine world-class player in the squad.",
-      "publishedAt": "2026-06-12T09:45:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-harry-kane-england_7271443.jpg?20260612103631",
-      "link": "https://www.skysports.com/football/news/12040/13553281/world-cup-2026-england-team-is-built-around-harry-kane-hes-the-only-genuine-world-class-player-in-squad-says-gary-neville",
-      "tag": "Article/Blog",
+      "headline": "Set your alarms! USA vs Paraguay kicks off at 2am - predict the score",
+      "description": "",
+      "publishedAt": "2026-06-12T11:30:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-usa-paraguay_7268086.jpg?20260608094029",
+      "link": "https://www.skysports.com/football/united-states-of-america-vs-paraguay/live/549769",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -32,32 +88,6 @@
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-group-c_7271360.jpg?20260612080610",
       "link": "https://www.skysports.com/football/haiti-vs-scotland/live/549772",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49038387,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye USMNT's Robinson, England's Hall",
-      "description": "Manchester United have shortlisted Newcastle United's Lewis Hall and Fulham's Antonee Robinson. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-12T07:46:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0410/r1641244_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Manchester United",
-        "United States"
-      ]
-    },
-    {
-      "id": "60290ce57cef0a267b108e21220ebdde",
-      "source": "Sky Sports",
-      "headline": "How the USA fell in love with football",
-      "description": "Alan Rothenberg had a vision: A World Cup so enticing it could convince the USA - and the world - that the country could fall in love with football.",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-graphic-usa_7270862.jpg?20260611152709",
-      "link": "https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg",
-      "tag": "Feature Story",
       "teams": []
     },
     {
@@ -119,17 +149,6 @@
         "Ipswich Town",
         "Hull City"
       ]
-    },
-    {
-      "id": "ee7847b7232652b090d035d17c503d21",
-      "source": "Sky Sports",
-      "headline": "Highlights: St Helens 6-18 Warrington Wolves",
-      "description": "Highlights of the Betfred Super League match between St Helens and Warrington Wolves.",
-      "publishedAt": "2026-06-11T20:59:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-st-helens-warrington-wolves_7271223.jpg?20260611220340",
-      "link": "https://www.skysports.com/watch/video/13553194/st-helens-6-18-warrington-wolves-super-league-highlights",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 49032417,
@@ -481,39 +500,11 @@
         "Crystal Palace",
         "Lens"
       ]
-    },
-    {
-      "id": 49007888,
-      "source": "ESPN",
-      "headline": "Football regulator 'in contact' with West Ham over David Sullivan allegations",
-      "description": "The football regulator is in contact with West Ham after allegations were made against co-owner David Sullivan that he had pressured aspiring models for sex.",
-      "publishedAt": "2026-06-09T10:12:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670158_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49007888/football-regulator-contact-west-ham-david-sullivan-allegations",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 48997554,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, Chelsea eye move for Barça's Casadó",
-      "description": "Both Manchester United and Chelsea are competing to sign Barcelona's Marc Casadó. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-09T06:51:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0608/r1669977_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48997554/transfer-rumors-news-barcelona-target-darwin-nunez-eyes-liverpool-return",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Chelsea",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-12T10:38:53.664Z"
+    "cachedAt": "2026-06-12T15:37:26.782Z"
   }
 }
