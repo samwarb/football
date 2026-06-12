@@ -2,6 +2,54 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "93788828e190dfa0a84a20ddc34e19f8",
+      "source": "Sky Sports",
+      "headline": "McInnes among potential Röhl replacements as Rangers and Salzburg continue talks",
+      "description": "Rangers and RB Salzburg remain in talks to finalise a deal for Danny Röhl to join the Austrian Bundesliga club.",
+      "publishedAt": "2026-06-12T19:00:00.000Z",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-rohl-danny-hearts_7207158.jpg?20260330184238",
+      "link": "https://www.skysports.com/football/news/12040/13553524/danny-r246hl-derek-mcinnes-on-rangers-shortlist-as-talks-with-rb-salzburg-over-german-coach-continue",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b46cef9de5bd6939266168976bbd404b",
+      "source": "Sky Sports",
+      "headline": "Partey refused entry to Canada for Ghana's World Cup opener",
+      "description": "Thomas Partey has been refused entry to Canada ahead of Ghana's World Cup opener with Panama on Thursday - but he is set to face England.",
+      "publishedAt": "2026-06-12T17:03:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-thomas-partey-ghana_7271859.jpg?20260612182458",
+      "link": "https://www.skysports.com/football/news/12040/13553454/world-cup-2026-thomas-partey-refused-entry-to-canada-ahead-of-ghana-match-with-panama",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49041224,
+      "source": "ESPN",
+      "headline": "Brighton make £30m offer for Tottenham defender Luka Vuskovic - sources",
+      "description": "Brighton & Hove Albion have made a £30 million ($40.2m) offer for Tottenham Hotspur defender Luka Vuskovic, sources have told ESPN.",
+      "publishedAt": "2026-06-12T16:18:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0612/r1671919_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49041224/luka-vuskovic-brighton-30m-bid-spurs-defender-tottenham-croatia",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Brighton & Hove Albion",
+        "Croatia"
+      ]
+    },
+    {
+      "id": "55687ad9d2ddc8a79107f7242b988b2c",
+      "source": "Sky Sports",
+      "headline": "Barcola could leave PSG this summer",
+      "description": "Paris Saint-Germain could allow Bradley Barcola to leave this summer.",
+      "publishedAt": "2026-06-12T16:15:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-psg-champions-league_7261856.jpg?20260530190803",
+      "link": "https://www.skysports.com/football/news/12040/13553405/bradley-barcola-psg-and-france-winger-could-be-set-for-summer-transfer-after-world-cup",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49040627,
       "source": "ESPN",
       "headline": "Michael Carrick gave Man United 'another energy' - Paul Pogba",
@@ -45,50 +93,6 @@
         "Paris Saint-Germain",
         "Real Madrid"
       ]
-    },
-    {
-      "id": "292a42f4d11b0a254c32640ca18240b7",
-      "source": "Sky Sports",
-      "headline": "Canada vs Bosnia-Herzegovina preview: Predict the score!",
-      "description": "",
-      "publishedAt": "2026-06-12T12:24:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-group-b_7268098.jpg?20260608094520",
-      "link": "https://www.skysports.com/football/canada-vs-bosnia-and-herzegovina/live/549768",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "2750ae40a73909b4f7070b7879a80d90",
-      "source": "Sky Sports",
-      "headline": "Brighton make £30m Vuskovic offer as Spurs maintain Van Hecke interest",
-      "description": "Brighton have made a £30m bid for Tottenham's teenage centre-back Luka Vuskovic.",
-      "publishedAt": "2026-06-12T11:52:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-luka-vuskovic_7271562.jpg?20260612123413",
-      "link": "https://www.skysports.com/football/news/12040/13553329/luka-vuskovic-brighton-make-30m-offer-for-spurs-defender-as-roberto-de-zerbi-maintains-jan-paul-van-hecke-interest",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "0d6023691d76bc4e3b5b956228f636d4",
-      "source": "Sky Sports",
-      "headline": "Set your alarms! USA vs Paraguay kicks off at 2am - predict the score",
-      "description": "",
-      "publishedAt": "2026-06-12T11:30:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-usa-paraguay_7268086.jpg?20260608094029",
-      "link": "https://www.skysports.com/football/united-states-of-america-vs-paraguay/live/549769",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "c867d5c961eb352c1967eca7f19fd2c1",
-      "source": "Sky Sports",
-      "headline": "Haiti vs Scotland preview: Is this a must win for Clarke's side?",
-      "description": "",
-      "publishedAt": "2026-06-12T09:40:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-group-c_7271360.jpg?20260612080610",
-      "link": "https://www.skysports.com/football/haiti-vs-scotland/live/549772",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -486,25 +490,11 @@
         "Fulham",
         "Benfica"
       ]
-    },
-    {
-      "id": 49010178,
-      "source": "ESPN",
-      "headline": "Crystal Palace near full agreement for Pierre Sage - sources",
-      "description": "Crystal Palace will pay French club RC Lens €5 million ($5.8m) for their manager Pierre Sage, sources have told ESPN.",
-      "publishedAt": "2026-06-09T15:41:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670248_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49010178/crystal-palace-full-agreement-pierre-sage-rc-lens-manager-sources",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Lens"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-12T15:37:26.782Z"
+    "cachedAt": "2026-06-12T20:24:41.296Z"
   }
 }
