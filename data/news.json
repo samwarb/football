@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "9d09975ed35f096fb4da539ff5e78045",
+      "source": "Sky Sports",
+      "headline": "World Cup issues still cannot take shine off greatest show on earth",
+      "description": "And we are off. Three red cards including a VAR intervention. Two goals for co-hosts Mexico in the Estadio Azteca. One nightmare start for South Africa midfielder Yaya Sithole. And an emotional first World Cup goal for Raul Jimenez at the age of 35.",
+      "publishedAt": "2026-06-12T04:35:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-mexico-south-africa_7271185.jpg?20260611210849",
+      "link": "https://www.skysports.com/football/news/12040/13552946/world-cup-controversy-cannot-take-the-shine-off-the-greatest-show-on-earth-as-football-takes-centre-stage-in-mexico",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "1fd8c71cb3a8d58533eec024c4d2f159",
+      "source": "Sky Sports",
+      "headline": "Trippier could cancel Wolves move after Edwards sacking",
+      "description": "Kieran Trippier is considering ripping up his contract with Wolves following the sacking of Rob Edwards.",
+      "publishedAt": "2026-06-11T20:16:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-trippier-kieran-wolves_7271277.png?20260611234222",
+      "link": "https://www.skysports.com/football/news/12040/13553188/wolves-kieran-trippier-could-cancel-molineux-move-after-rob-edwards-sacking",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49032417,
       "source": "ESPN",
       "headline": "Tottenham defender Marcos Senesi called up to Argentina World Cup squad",
@@ -73,17 +95,6 @@
       "teams": []
     },
     {
-      "id": "a9c4ac552673ff4279116131008e1967",
-      "source": "Sky Sports",
-      "headline": "Rangers in talks with RB Salzburg over head coach Röhl",
-      "description": "Red Bull Salzburg are in talks with Rangers over a deal to land head coach Danny Röhl.",
-      "publishedAt": "2026-06-11T18:30:00.000Z",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-rohl-rangers_7154392.jpg?20260203131853",
-      "link": "https://www.skysports.com/football/news/12040/13553150/danny-r246hl-rangers-in-talks-with-red-bull-salzburg-over-head-coach-exit-after-less-than-a-year-with-ibrox-side",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49031742,
       "source": "ESPN",
       "headline": "Tottenham fan group write to chairman over ownership and leadership concerns",
@@ -94,20 +105,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49026689,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal keen on Spain star Williams",
-      "description": "Arsenal are interested in a summer move to sign Athletic Club winger Nico Williams. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-11T14:05:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656624_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49026689/transfer-rumors-news-arsenal-keen-spain-star-williams",
-      "tag": "Athletic Club",
-      "teams": [
-        "Athletic Club",
-        "Arsenal"
       ]
     },
     {
@@ -143,17 +140,6 @@
         "Manchester City",
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": "2130a17168b98e3c27d7bb72fcf5da14",
-      "source": "Sky Sports",
-      "headline": "'It's a terrible look' | Key opens up on Stokes, Atkinson nightclub incident",
-      "description": "England managing director Rob Key gives his view on Ben Stokes and Gus Atkinson following the breaking of a midnight curfew on Sunday, that led to an incident at a nightclub in Chelsea.",
-      "publishedAt": "2026-06-11T13:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-rob-key-ben-stokes_7270718.jpg?20260611123516",
-      "link": "https://www.skysports.com/watch/video/13553006/rob-key-opens-up-on-ben-stokes-gus-atkinson-nightclub-incident-its-a-terrible-look",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 49027483,
@@ -486,11 +472,24 @@
         "Chelsea",
         "Manchester United"
       ]
+    },
+    {
+      "id": 49002029,
+      "source": "ESPN",
+      "headline": "Reports detail women's claims of sexual coercion against West Ham co-owner David Sullivan",
+      "description": "Seven women have accused David Sullivan, the West Ham co-owner who made a fortune in the porn and media industry, of preying on them for sex, according to an investigation by the BBC and The Times of London on Monday.",
+      "publishedAt": "2026-06-08T19:21:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0510/r1656156_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49002029/reports-detail-women-claims-sexual-coercion-west-ham-co-owner-david-sullivan",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United"
+      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-11T20:34:39.362Z"
+    "cachedAt": "2026-06-12T05:00:40.936Z"
   }
 }
