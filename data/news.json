@@ -2,25 +2,133 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "9d09975ed35f096fb4da539ff5e78045",
+      "id": "3c6aa38449aa5a3a936870b2484db263",
       "source": "Sky Sports",
-      "headline": "World Cup issues still cannot take shine off greatest show on earth",
-      "description": "And we are off. Three red cards including a VAR intervention. Two goals for co-hosts Mexico in the Estadio Azteca. One nightmare start for South Africa midfielder Yaya Sithole. And an emotional first World Cup goal for Raul Jimenez at the age of 35.",
-      "publishedAt": "2026-06-12T04:35:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-mexico-south-africa_7271185.jpg?20260611210849",
-      "link": "https://www.skysports.com/football/news/12040/13552946/world-cup-controversy-cannot-take-the-shine-off-the-greatest-show-on-earth-as-football-takes-centre-stage-in-mexico",
+      "headline": "Former Wolves, Millwall and Portsmouth boss Jackett dies aged 64",
+      "description": "Former Wolves, Millwall and Portsmouth boss Kenny Jackett has died aged 64.",
+      "publishedAt": "2026-06-12T10:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-obit-kenny-jackett_7271446.jpg?20260612104106",
+      "link": "https://www.skysports.com/football/news/12040/13553291/kenny-jackett-former-wolves-millwall-portsmouth-and-swansea-manager-dies-aged-64",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "1fd8c71cb3a8d58533eec024c4d2f159",
+      "id": "2c7346796143efd0ceaffdca4f88ed2a",
       "source": "Sky Sports",
-      "headline": "Trippier could cancel Wolves move after Edwards sacking",
-      "description": "Kieran Trippier is considering ripping up his contract with Wolves following the sacking of Rob Edwards.",
-      "publishedAt": "2026-06-11T20:16:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-trippier-kieran-wolves_7271277.png?20260611234222",
-      "link": "https://www.skysports.com/football/news/12040/13553188/wolves-kieran-trippier-could-cancel-molineux-move-after-rob-edwards-sacking",
-      "tag": "News Story",
+      "headline": "Neville: England team is built around Kane - he's the only world-class talent",
+      "description": "Gary Neville believes the England team has been built around Harry Kane, who he considers the only genuine world-class player in the squad.",
+      "publishedAt": "2026-06-12T09:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-harry-kane-england_7271443.jpg?20260612103631",
+      "link": "https://www.skysports.com/football/news/12040/13553281/world-cup-2026-england-team-is-built-around-harry-kane-hes-the-only-genuine-world-class-player-in-squad-says-gary-neville",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": "c867d5c961eb352c1967eca7f19fd2c1",
+      "source": "Sky Sports",
+      "headline": "Haiti vs Scotland preview: Is this a must win for Clarke's side?",
+      "description": "",
+      "publishedAt": "2026-06-12T09:40:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-group-c_7271360.jpg?20260612080610",
+      "link": "https://www.skysports.com/football/haiti-vs-scotland/live/549772",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49038387,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye USMNT's Robinson, England's Hall",
+      "description": "Manchester United have shortlisted Newcastle United's Lewis Hall and Fulham's Antonee Robinson. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-12T07:46:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0410/r1641244_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Manchester United",
+        "United States"
+      ]
+    },
+    {
+      "id": "60290ce57cef0a267b108e21220ebdde",
+      "source": "Sky Sports",
+      "headline": "How the USA fell in love with football",
+      "description": "Alan Rothenberg had a vision: A World Cup so enticing it could convince the USA - and the world - that the country could fall in love with football.",
+      "publishedAt": "2026-06-12T07:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-graphic-usa_7270862.jpg?20260611152709",
+      "link": "https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg",
+      "tag": "Feature Story",
+      "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-06-12T06:42:15Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-12T06:39:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
+      "id": "ee7847b7232652b090d035d17c503d21",
+      "source": "Sky Sports",
+      "headline": "Highlights: St Helens 6-18 Warrington Wolves",
+      "description": "Highlights of the Betfred Super League match between St Helens and Warrington Wolves.",
+      "publishedAt": "2026-06-11T20:59:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-st-helens-warrington-wolves_7271223.jpg?20260611220340",
+      "link": "https://www.skysports.com/watch/video/13553194/st-helens-6-18-warrington-wolves-super-league-highlights",
+      "tag": "Video",
       "teams": []
     },
     {
@@ -50,49 +158,6 @@
         "Nottingham Forest",
         "Manchester City"
       ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-11T19:02:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
-      ]
-    },
-    {
-      "id": "94b9cca1e223ac6aeba8fb85aa0f2180",
-      "source": "Sky Sports",
-      "headline": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
-      "description": "Real Madrid have confirmed the re-appointment of Jose Mourinho as first team coach.",
-      "publishedAt": "2026-06-11T18:55:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-laliga-real-madrid_7268260.jpg?20260608120507",
-      "link": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49031742,
@@ -152,34 +217,6 @@
       "tag": "Wolverhampton Wanderers",
       "teams": [
         "Wolverhampton Wanderers"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-11T06:47:29Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
       ]
     },
     {
@@ -472,24 +509,11 @@
         "Chelsea",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49002029,
-      "source": "ESPN",
-      "headline": "Reports detail women's claims of sexual coercion against West Ham co-owner David Sullivan",
-      "description": "Seven women have accused David Sullivan, the West Ham co-owner who made a fortune in the porn and media industry, of preying on them for sex, according to an investigation by the BBC and The Times of London on Monday.",
-      "publishedAt": "2026-06-08T19:21:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0510/r1656156_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49002029/reports-detail-women-claims-sexual-coercion-west-ham-co-owner-david-sullivan",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-12T05:00:40.936Z"
+    "cachedAt": "2026-06-12T10:38:53.664Z"
   }
 }
