@@ -2,6 +2,50 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "f531c0c9e7631911f6c89affbaf6a04a",
+      "source": "Sky Sports",
+      "headline": "How Balogun went from Arsenal and England U21s to America's star",
+      "description": "Born in the USA and born for the big stage.",
+      "publishedAt": "2026-06-13T16:30:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-folarin-balogun-usa_7272370.jpg?20260613133346",
+      "link": "https://www.skysports.com/football/news/12040/13553679/world-cup-2026-usas-folarin-balogun-stars-against-paraguay-after-rise-at-arsenal-and-switch-away-from-england",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49050633,
+      "source": "ESPN",
+      "headline": "Arsenal tracking Christos Tzolis and Bradley Barcola, Gunners seeking to strengthen attack -- sources",
+      "description": "Arsenal are tracking Christos Tzolis and Bradley Barcola as they look to strengthen their attack this summer, sources have told ESPN.",
+      "publishedAt": "2026-06-13T15:30:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672393_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49050633/arsenal-christos-tzolis-bradley-barcola-psg-club-brugge",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49026747,
+      "source": "ESPN",
+      "headline": "Introducing every single Premier League player representing an African team at the FIFA World Cup",
+      "description": "As ever, the Premier League is well represented across African national teams at the World Cup, with all but one of the content's 10 contenders featuring at least one player from the division.",
+      "publishedAt": "2026-06-13T15:09:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0516/r1658974_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49026747/introducing-every-single-premier-league-player-representing-african-team-fifa-world-cup",
+      "tag": "Ghana",
+      "teams": [
+        "Ghana",
+        "Egypt",
+        "Morocco",
+        "Senegal",
+        "Ivory Coast",
+        "Algeria",
+        "Tunisia",
+        "South Africa"
+      ]
+    },
+    {
       "id": 49049663,
       "source": "ESPN",
       "headline": "Daniel Kretinsky to become biggest shareholder at West Ham",
@@ -27,30 +71,6 @@
         "Manchester United",
         "England",
         "Inter Miami CF"
-      ]
-    },
-    {
-      "id": "dbb7e83f8f2a0aaf701d0844293c49b4",
-      "source": "Sky Sports",
-      "headline": "Base camp: England's luxury five-star World Cup hotel",
-      "description": "England's team base in Kansas City is nothing like any we have seen before.",
-      "publishedAt": "2026-06-13T11:45:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-world-cup_7272313.jpg?20260613123128",
-      "link": "https://www.skysports.com/football/news/12040/13553547/world-cup-englands-five-star-kansas-city-hotel-and-training-facilities-explained",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49047880,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal shortlist three young wingers",
-      "description": "Arsenal have been linked to three different wingers by three different outlets, while not impacting their interest in signing Aston Villa forward Morgan Rogers. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-13T09:54:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0221/r1618271_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49047880/transfer-rumors-news-arsenal-shortlist-three-young-wingers",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
       ]
     },
     {
@@ -211,26 +231,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49026747,
-      "source": "ESPN",
-      "headline": "Introducing every single Premier League player representing an African team at the FIFA World Cup",
-      "description": "As ever, the Premier League is well represented across African national teams at the World Cup, with all but one of the content's 10 contenders featuring at least one player from the division.",
-      "publishedAt": "2026-06-11T13:40:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0516/r1658974_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49026747/introducing-every-single-premier-league-player-representing-african-team-fifa-world-cup",
-      "tag": "Ghana",
-      "teams": [
-        "Ghana",
-        "Egypt",
-        "Morocco",
-        "Senegal",
-        "Ivory Coast",
-        "Algeria",
-        "Tunisia",
-        "South Africa"
       ]
     },
     {
@@ -472,6 +472,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-13T14:23:41.604Z"
+    "cachedAt": "2026-06-13T19:52:45.367Z"
   }
 }
