@@ -2,14 +2,42 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "a50710e6f11bd9e69e9e2fe77694d44a",
+      "id": 49049663,
+      "source": "ESPN",
+      "headline": "Daniel Kretinsky to become biggest shareholder at West Ham",
+      "description": "Daniel Kretinsky is set to become West Ham's biggest shareholder after agreeing a deal to buy an additional stake in the club from the Gold family.",
+      "publishedAt": "2026-06-13T13:00:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672347_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49049663/daniel-kretinsky-become-biggest-shareholder-west-ham",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 49041439,
+      "source": "ESPN",
+      "headline": "Sir David Beckham honoured with star on Hollywood Walk of Fame",
+      "description": "Sir David Beckham has become the first footballer to receive a star on the Hollywood Walk of Fame.",
+      "publishedAt": "2026-06-13T12:45:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0612/r1672129_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49041439/england-sir-david-beckham-honoured-hollywood-walk-fame",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "England",
+        "Inter Miami CF"
+      ]
+    },
+    {
+      "id": "dbb7e83f8f2a0aaf701d0844293c49b4",
       "source": "Sky Sports",
-      "headline": "Rate the players and catch up with the key moments from USA's dominant win",
-      "description": "",
-      "publishedAt": "2026-06-13T08:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-folarin-balogun-usa_7272146.jpg?20260613043320",
-      "link": "https://www.skysports.com/football/united-states-of-america-vs-paraguay/live/549769",
-      "tag": "Liveblog",
+      "headline": "Base camp: England's luxury five-star World Cup hotel",
+      "description": "England's team base in Kansas City is nothing like any we have seen before.",
+      "publishedAt": "2026-06-13T11:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-world-cup_7272313.jpg?20260613123128",
+      "link": "https://www.skysports.com/football/news/12040/13553547/world-cup-englands-five-star-kansas-city-hotel-and-training-facilities-explained",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -17,7 +45,7 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal shortlist three young wingers",
       "description": "Arsenal have been linked to three different wingers by three different outlets, while not impacting their interest in signing Aston Villa forward Morgan Rogers. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-13T07:45:52Z",
+      "publishedAt": "2026-06-13T09:54:15Z",
       "image": "https://a.espncdn.com/photo/2026/0221/r1618271_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49047880/transfer-rumors-news-arsenal-shortlist-three-young-wingers",
       "tag": "Arsenal",
@@ -83,21 +111,6 @@
         "Coventry City",
         "Ipswich Town",
         "Hull City"
-      ]
-    },
-    {
-      "id": 49041439,
-      "source": "ESPN",
-      "headline": "Sir David Beckham honoured with star on Hollywood Walk of Fame",
-      "description": "Sir David Beckham has become the first footballer to receive a star on the Hollywood Walk of Fame.",
-      "publishedAt": "2026-06-13T00:27:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1672129_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49041439/england-sir-david-beckham-honoured-hollywood-walk-fame",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "England",
-        "Inter Miami CF"
       ]
     },
     {
@@ -454,25 +467,11 @@
         "Manchester City",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 49006779,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City eye move for Everton's Ndiaye",
-      "description": "Manchester City are reportedly looking to sign Everton winger Iliman Ndiaye. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-09T21:48:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670499_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49006779/transfer-rumors-news-man-united-city-monitor-chelsea-cucurella",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Everton"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-13T09:32:49.487Z"
+    "cachedAt": "2026-06-13T14:23:41.604Z"
   }
 }
