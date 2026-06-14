@@ -4,9 +4,9 @@
     {
       "id": 49059084,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, PSG, Bayern eye Morocco ace",
+      "headline": "Transfer rumors, news: Arsenal, PSG, Bayern eye Morocco breakout star",
       "description": "Arsenal, Paris Saint-Germain and Bayern Munich are all interested in signing Lille midfielder Ayyoub Bouaddi. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-14T14:14:46Z",
+      "publishedAt": "2026-06-14T19:50:47Z",
       "image": "https://a.espncdn.com/photo/2026/0529/r1665275_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49059084/transfer-rumors-news-arsenal-psg-bayern-eye-morocco-ace",
       "tag": "Bayern Munich",
@@ -14,6 +14,67 @@
         "Bayern Munich",
         "Paris Saint-Germain",
         "Arsenal"
+      ]
+    },
+    {
+      "id": 49062736,
+      "source": "ESPN",
+      "headline": "Pedro Porro signs new long-term deal at Spurs",
+      "description": "Pedro Porro has committed his long-term future to Tottenham after he signed a new contract at the club.",
+      "publishedAt": "2026-06-14T18:22:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1673051_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49062736/pedro-porro-signs-new-long-term-deal-spurs",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49062451,
+      "source": "ESPN",
+      "headline": "Real Madrid agree deal for Marc Cucurella with Chelsea - sources",
+      "description": "Real Madrid have agreed a deal worth up to £51.8 million (€60 million/$69.3 million) with Chelsea to sign Marc Cucurella, sources have told ESPN.",
+      "publishedAt": "2026-06-14T17:33:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0506/r1654286_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49062166,
+      "source": "ESPN",
+      "headline": "Man United could save money if Ruben Amorim is appointed by AC Milan -- sources",
+      "description": "Manchester United could save part of the compensation earmarked for former boss Ruben Amorim if he is appointed by AC Milan, sources have told ESPN.",
+      "publishedAt": "2026-06-14T16:57:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1672991_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49062166/how-man-united-save-money-amorim-appointed-ac-milan",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "AC Milan"
+      ]
+    },
+    {
+      "id": 49026747,
+      "source": "ESPN",
+      "headline": "Introducing every single Premier League player representing an African team at the FIFA World Cup",
+      "description": "As ever, the Premier League is well represented across African national teams at the World Cup, with all but one of the content's 10 contenders featuring at least one player from the division.",
+      "publishedAt": "2026-06-14T15:21:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0516/r1658974_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49026747/introducing-every-single-premier-league-player-representing-african-team-fifa-world-cup",
+      "tag": "Ghana",
+      "teams": [
+        "Ghana",
+        "Egypt",
+        "Morocco",
+        "Senegal",
+        "Ivory Coast",
+        "Algeria",
+        "Tunisia",
+        "South Africa"
       ]
     },
     {
@@ -129,26 +190,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 49026747,
-      "source": "ESPN",
-      "headline": "Introducing every single Premier League player representing an African team at the FIFA World Cup",
-      "description": "As ever, the Premier League is well represented across African national teams at the World Cup, with all but one of the content's 10 contenders featuring at least one player from the division.",
-      "publishedAt": "2026-06-13T15:09:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0516/r1658974_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49026747/introducing-every-single-premier-league-player-representing-african-team-fifa-world-cup",
-      "tag": "Ghana",
-      "teams": [
-        "Ghana",
-        "Egypt",
-        "Morocco",
-        "Senegal",
-        "Ivory Coast",
-        "Algeria",
-        "Tunisia",
-        "South Africa"
       ]
     },
     {
@@ -415,51 +456,11 @@
         "Tottenham Hotspur",
         "AFC Bournemouth"
       ]
-    },
-    {
-      "id": 49019710,
-      "source": "ESPN",
-      "headline": "Everton ordered to pay more than £35m to Burnley after PSR breach",
-      "description": "Everton have been ordered to pay Burnley more than £35 million ($45.6m) in compensation after they were sued over Premier League profitability and sustainability breaches.",
-      "publishedAt": "2026-06-10T16:04:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670800_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49019710/everton-burnley-sue-35-million-psr-premier-league",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Burnley"
-      ]
-    },
-    {
-      "id": 49019756,
-      "source": "ESPN",
-      "headline": "John Terry backs Xabi Alonso to succeed at Chelsea: 'I hope Liverpool regret not getting him'",
-      "description": "Former Chelsea captain John Terry has backed new Blues manager Xabi Alonso to succeed where he believes his old interim boss, Rafael Benítez, failed: putting past Liverpool allegiance aside and adapting to his new club.",
-      "publishedAt": "2026-06-10T15:16:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0516/r1659023_800x533_3-2.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49019756/john-terry-backs-xabi-alonso-succeed-chelsea-hope-liverpool-regret-not-getting-him",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49019367,
-      "source": "ESPN",
-      "headline": "Newcastle make first summer signing as Reims goalkeeper Ewen Jaouen joins on long-term deal",
-      "description": "Newcastle have completed their first summer signing after landing Reims goalkeeper Ewen Jaouen on a long-term deal.",
-      "publishedAt": "2026-06-10T14:39:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670788_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49019367/newcastle-make-first-summer-signing-reims-goalkeeper-ewen-jaouen-joins-long-term-deal",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-14T14:26:44.529Z"
+    "cachedAt": "2026-06-14T19:56:04.983Z"
   }
 }
