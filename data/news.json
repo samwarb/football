@@ -6,7 +6,7 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, PSG, Bayern eye Morocco ace",
       "description": "Arsenal, Paris Saint-Germain and Bayern Munich are all interested in signing Lille midfielder Ayyoub Bouaddi. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-14T08:38:16Z",
+      "publishedAt": "2026-06-14T14:14:46Z",
       "image": "https://a.espncdn.com/photo/2026/0529/r1665275_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49059084/transfer-rumors-news-arsenal-psg-bayern-eye-morocco-ace",
       "tag": "Bayern Munich",
@@ -77,28 +77,6 @@
       ]
     },
     {
-      "id": "14f5ef546e884d360cb67e012a65cec4",
-      "source": "Sky Sports",
-      "headline": "McInnes agrees Rangers deal to replace Röhl",
-      "description": "Derek McInnes has agreed a deal in principle to become the new Rangers boss.",
-      "publishedAt": "2026-06-14T06:55:00.000Z",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-rohl-danny-hearts_7207158.jpg?20260330184238",
-      "link": "https://www.skysports.com/football/news/12040/13553879/derek-mcinnes-rangers-agree-deal-with-hearts-boss-to-replace-rb-salzburg-bound-danny-r246hl-as-head-coach",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "106efe4ca6da40274042a86bf837a747",
-      "source": "Sky Sports",
-      "headline": "Australia shock Turkey to make winning start to World Cup campaign",
-      "description": "Goals in each half from Nestory Irankunda and Connor Metcalfe saw Australia shock Turkey 2-0 in their opening World Cup Group D clash in Vancouver.",
-      "publishedAt": "2026-06-14T06:15:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-irankunda-australia_7272868.jpg?20260614054438",
-      "link": "https://www.skysports.com/football/australia-vs-turkey/report/549773",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49047880,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Bayern eye move for Rashford",
@@ -111,39 +89,6 @@
         "Manchester United",
         "Bayern Munich"
       ]
-    },
-    {
-      "id": "b1b662449eee25fc2535bbe307afdb60",
-      "source": "Sky Sports",
-      "headline": "Clarke: Pressure has eased on Scotland after crucial win",
-      "description": "Steve Clarke believes the pressure has eased on Scotland after earning their first World Cup victory in 36 years with a 1-0 win over Haiti in their Group C opener.",
-      "publishedAt": "2026-06-14T04:45:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-scotland-andy-robertson_7272855.jpg?20260614051706",
-      "link": "https://www.skysports.com/football/news/12040/13553844/haiti-0-1-scotland-steve-clarke-reflects-on-must-win-world-cup-group-c-opener-as-andy-robertson-says-players-achieved-their-dreams",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "271186b2865b8c414b6923cf16e61441",
-      "source": "Sky Sports",
-      "headline": "Australia vs Turkey: All the big moments and rate the players",
-      "description": "",
-      "publishedAt": "2026-06-14T03:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-connor-metcalfe-australia_7272913.jpg?20260614071354",
-      "link": "https://www.skysports.com/football/australia-vs-turkey/live/549773",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "d1632f05fbcb7eea2e079acfed39e1c4",
-      "source": "Sky Sports",
-      "headline": "McGinn strike beats Haiti as Scotland secure first WC win in 36 years",
-      "description": "Scotland claimed their first World Cup win since 1990 as they beat Haiti 1-0 in their Group C opener thanks to John McGinn's first-half goal.",
-      "publishedAt": "2026-06-14T03:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-john-mcginn-scotland_7272841.jpg?20260614030453",
-      "link": "https://www.skysports.com/football/haiti-vs-scotland/report/549772",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49054632,
@@ -515,6 +460,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-14T09:54:58.923Z"
+    "cachedAt": "2026-06-14T14:26:44.529Z"
   }
 }
