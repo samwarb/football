@@ -2,15 +2,68 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "f531c0c9e7631911f6c89affbaf6a04a",
+      "id": 49047880,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Bayern eye move for Rashford",
+      "description": "Bayern Munich are reportedly linked to a move for Marcus Rashford. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-14T04:46:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672659_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49047880/transfer-rumors-news-arsenal-shortlist-three-young-wingers",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": "b1b7edc5672626d161fd6073b48cd6a7",
       "source": "Sky Sports",
-      "headline": "How Balogun went from Arsenal and England U21s to America's star",
-      "description": "Born in the USA and born for the big stage.",
-      "publishedAt": "2026-06-13T16:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-folarin-balogun-usa_7272370.jpg?20260613133346",
-      "link": "https://www.skysports.com/football/news/12040/13553679/world-cup-2026-usas-folarin-balogun-stars-against-paraguay-after-rise-at-arsenal-and-switch-away-from-england",
-      "tag": "News Story",
+      "headline": "McGinn strike beats Haiti as Scotland enjoy dream World Cup return",
+      "description": "John McGinn scored Scotland's first World Cup goal for 28 years to ensure a winning start against Haiti in Group C.",
+      "publishedAt": "2026-06-14T03:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-john-mcginn-scotland_7272841.jpg?20260614030453",
+      "link": "https://www.skysports.com/football/haiti-vs-scotland/report/549772",
+      "tag": "Report",
       "teams": []
+    },
+    {
+      "id": "6943de9ce2878d0f0a0ca2c902e1926b",
+      "source": "Sky Sports",
+      "headline": "Irankunda gives Australia shock lead vs Turkey LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-14T03:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-irankunda-australia_7272868.jpg?20260614054438",
+      "link": "https://www.skysports.com/football/australia-vs-turkey/live/549773",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49054632,
+      "source": "ESPN",
+      "headline": "De Bruyne excited to 'compete like old times' with Salah at World Cup",
+      "description": "De Bruyne excited to 'compete like old times' with Salah at World Cup",
+      "publishedAt": "2026-06-14T00:09:50Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0613/dm_260613_COM_SOC_Presser_De_Bruyne_excited_to_compete_like_old_times_with_Salah_at_World_Cup_20260613_G/dm_260613_COM_SOC_Presser_De_Bruyne_excited_to_compete_like_old_times_with_Salah_at_World_Cup_20260613_G.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49054632/de-bruyne-excited-compete-old-s-salah-world-cup",
+      "tag": "Belgium",
+      "teams": [
+        "Belgium",
+        "Egypt"
+      ]
+    },
+    {
+      "id": 49052487,
+      "source": "ESPN",
+      "headline": "Fulham hold talks with ex-Real Madrid boss Álvaro Arbeloa -- sources",
+      "description": "Fulham have held talks with Álvaro Arbeloa's representatives over appointing the former Real Madrid coach as manager, sources have confirmed to ESPN.",
+      "publishedAt": "2026-06-13T20:38:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672516_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49052487/fulham-hold-talks-alvaro-arbeloa-head-coach-vacancy",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Real Madrid"
+      ]
     },
     {
       "id": 49050633,
@@ -422,56 +475,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49017359,
-      "source": "ESPN",
-      "headline": "Chiamaka Nnadozie ready to welcome fellow Nigerian Zadok Yohanna to Brighton",
-      "description": "Super Falcons goalkeeper Chiamaka Nnadozie says she is looking forward to welcoming Nigerian teenager Zadok Yohanna and helping him settle into life at Brighton & Hove Albion.",
-      "publishedAt": "2026-06-10T10:02:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670694_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49017359/chiamaka-nnadozie-ready-welcome-fellow-nigerian-zadok-yohanna-brighton",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Nigeria",
-        "Nigeria"
-      ]
-    },
-    {
-      "id": 49006984,
-      "source": "ESPN",
-      "headline": "Alex Iwobi, on 100 caps - 'No regrets' about choosing Nigeria over England",
-      "description": "As he prepares to earn his 100th cap for Nigeria in Wednesday's international friendly against Portugal, Nigeria midfielder Alex Iwobi says he has no regrets about his decade-long career with the Super Eagles.",
-      "publishedAt": "2026-06-10T08:49:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670140_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49006984/alex-iwobi-100-caps-no-regrets-choosing-nigeria-england",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Nigeria",
-        "England",
-        "Portugal"
-      ]
-    },
-    {
-      "id": 49013813,
-      "source": "ESPN",
-      "headline": "Burley not convinced Savinho is a smart signing for Spurs",
-      "description": "Craig Burley explains why he's yet to be convinced by Tottenham target Savinho during his time at Manchester City.",
-      "publishedAt": "2026-06-09T22:05:16Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0609/dm_260609_Burley_not_convinced_Savinho_is_a_smart_signing_for_Spurs/dm_260609_Burley_not_convinced_Savinho_is_a_smart_signing_for_Spurs.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49013813/burley-not-convinced-savinho-smart-signing-spurs",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-13T19:52:45.367Z"
+    "cachedAt": "2026-06-14T05:04:13.429Z"
   }
 }
