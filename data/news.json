@@ -2,12 +2,59 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "820a194fd1fe22b6f27f9ce3418dff52",
+      "source": "Sky Sports",
+      "headline": "Gyokeres and Isak shine as Sweden secure dominant win over Tunisia",
+      "description": "Alexander Isak and Viktor Gyokeres were in fine form as Sweden cruised to a comfortable 5-1 victory against Tunisia to kickstart their World Cup campaign in Group F.",
+      "publishedAt": "2026-06-15T03:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-world-cup-sweden_7273669.jpg?20260615051341",
+      "link": "https://www.skysports.com/football/sweden-vs-tunisia/report/549777",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49062451,
+      "source": "ESPN",
+      "headline": "Real Madrid agree deal for Marc Cucurella with Chelsea - sources",
+      "description": "Real Madrid have agreed a deal worth up to £51.8 million (€60 million/$69.3 million) with Chelsea to sign Marc Cucurella, sources have told ESPN.",
+      "publishedAt": "2026-06-15T02:11:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0506/r1654286_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "2323f162292af75a4d8a2470cc9233a6",
+      "source": "Sky Sports",
+      "headline": "Sweden vs Tunisia: All the big moments and rate the players",
+      "description": "",
+      "publishedAt": "2026-06-15T01:30:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-sweden_7273663.jpg?20260615043152",
+      "link": "https://www.skysports.com/football/sweden-vs-tunisia/live/549777",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "0a0a2a212d34f9cc7b3a9d9d0acc8cbf",
+      "source": "Sky Sports",
+      "headline": "Man Utd's Amad nets last-minute winner to see Ivory Coast past Ecuador",
+      "description": "Manchester United winger Amad Diallo came off the bench to net a 90th-minute goal to get Ivory Coast's World Cup off to the perfect start with a 1-0 win over Ecuador in Group E.",
+      "publishedAt": "2026-06-15T00:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-amad-diallo-ivory-coast_7273659.jpg?20260615020333",
+      "link": "https://www.skysports.com/football/news/12040/13552703/world-cup-2026-ivory-coast-1-0-ecuador-amad-diallo-nets-90th-minute-winner-to-end-ecuadors-19-game-unbeaten-streak",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49059084,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, PSG, Bayern eye Morocco breakout star",
       "description": "Arsenal, Paris Saint-Germain and Bayern Munich are all interested in signing Lille midfielder Ayyoub Bouaddi. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-14T19:50:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0529/r1665275_1296x729_16-9.jpg",
+      "publishedAt": "2026-06-14T19:59:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49059084/transfer-rumors-news-arsenal-psg-bayern-eye-morocco-ace",
       "tag": "Bayern Munich",
       "teams": [
@@ -27,20 +74,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49062451,
-      "source": "ESPN",
-      "headline": "Real Madrid agree deal for Marc Cucurella with Chelsea - sources",
-      "description": "Real Madrid have agreed a deal worth up to £51.8 million (€60 million/$69.3 million) with Chelsea to sign Marc Cucurella, sources have told ESPN.",
-      "publishedAt": "2026-06-14T17:33:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654286_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Real Madrid"
       ]
     },
     {
@@ -461,6 +494,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-14T19:56:04.983Z"
+    "cachedAt": "2026-06-15T05:26:12.812Z"
   }
 }
