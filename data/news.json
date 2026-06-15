@@ -2,15 +2,192 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "820a194fd1fe22b6f27f9ce3418dff52",
-      "source": "Sky Sports",
-      "headline": "Gyokeres and Isak shine as Sweden secure dominant win over Tunisia",
-      "description": "Alexander Isak and Viktor Gyokeres were in fine form as Sweden cruised to a comfortable 5-1 victory against Tunisia to kickstart their World Cup campaign in Group F.",
-      "publishedAt": "2026-06-15T03:45:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-world-cup-sweden_7273669.jpg?20260615051341",
-      "link": "https://www.skysports.com/football/sweden-vs-tunisia/report/549777",
-      "tag": "Report",
+      "id": 49040890,
+      "source": "ESPN",
+      "headline": "'Finally': Norway star Erling Haaland on fulfilling World Cup dream",
+      "description": "Erling Haaland tells ESPN he is ready to make his World Cup debut and show his love for Norway on football's biggest stage.",
+      "publishedAt": "2026-06-15T12:05:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0612/r1672014_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49040890/world-cup-norway-erling-haaland-best-player-interview",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Norway"
+      ]
+    },
+    {
+      "id": 49070705,
+      "source": "ESPN",
+      "headline": "Man United feature in new Amazon 'All or Nothing' documentary",
+      "description": "Manchester United's 2026-27 campaign will be the subject of a new fly-on-the-wall documentary series for Amazon Prime, it has been announced.",
+      "publishedAt": "2026-06-15T12:03:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49070705/man-united-feature-new-amazon-all-documentary",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48991120,
+      "source": "ESPN",
+      "headline": "Transfer big board: Best players in each position who could move this summer",
+      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
+      "publishedAt": "2026-06-15T11:18:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
+      "tag": "Story",
       "teams": []
+    },
+    {
+      "id": 49069531,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Roma to move for ex-Man United striker Greenwood?",
+      "description": "AS Roma are set to make a move to sign Marseille striker Mason Greenwood. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-15T11:10:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0307/r1624890_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49069531/transfer-rumors-news-roma-move-ex-man-united-striker-greenwood",
+      "tag": "AS Roma",
+      "teams": [
+        "AS Roma",
+        "Marseille"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-06-15T09:14:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0210/r1613090_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "fa7e9aae12fc04f5daa00750f68f36eb",
+      "source": "Sky Sports",
+      "headline": "Real Madrid sign Cucurella from Chelsea",
+      "description": "Real Madrid have signed defender Marc Cucurella from Chelsea on a six-year deal.",
+      "publishedAt": "2026-06-15T09:10:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-chelsea-marc-cucurella_7239586.jpg?20260505111057",
+      "link": "https://www.skysports.com/football/news/12040/13554263/marc-cucurella-transfer-news-real-madrid-sign-defender-from-chelsea-in-deal-worth-51-8m",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "1f91c8a9d06cbbc30804e2a2aa347d39",
+      "source": "Sky Sports",
+      "headline": "Chelsea latest: Is Cucurella sale the right call? Have your say!",
+      "description": "",
+      "publishedAt": "2026-06-15T09:08:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-xabi-alonso-chelsea_7246434.jpg?20260512120937",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "d21b2756778df9fe0a19be3f2a798751",
+      "source": "Sky Sports",
+      "headline": "Diouf: World Cup semi-finals the target for Senegal after AFCON drama",
+      "description": "If you want to talk about dramatic build-ups to a World Cup, get in touch with Senegal.",
+      "publishedAt": "2026-06-15T09:00:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-senegal-afcon-africa-cup-of-nations_7258907.jpg?20260526132506",
+      "link": "https://www.skysports.com/football/news/12040/13546213/senegal-at-the-world-cup-semi-finals-the-target-after-afcon-title-drama-says-el-hadji-diouf",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-06-15T06:53:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0529/r1665574_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-06-15T06:50:41Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-15T06:42:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
     },
     {
       "id": 49062451,
@@ -25,28 +202,6 @@
         "Chelsea",
         "Real Madrid"
       ]
-    },
-    {
-      "id": "2323f162292af75a4d8a2470cc9233a6",
-      "source": "Sky Sports",
-      "headline": "Sweden vs Tunisia: All the big moments and rate the players",
-      "description": "",
-      "publishedAt": "2026-06-15T01:30:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-sweden_7273663.jpg?20260615043152",
-      "link": "https://www.skysports.com/football/sweden-vs-tunisia/live/549777",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "0a0a2a212d34f9cc7b3a9d9d0acc8cbf",
-      "source": "Sky Sports",
-      "headline": "Man Utd's Amad nets last-minute winner to see Ivory Coast past Ecuador",
-      "description": "Manchester United winger Amad Diallo came off the bench to net a 90th-minute goal to get Ivory Coast's World Cup off to the perfect start with a 1-0 win over Ecuador in Group E.",
-      "publishedAt": "2026-06-15T00:45:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-amad-diallo-ivory-coast_7273659.jpg?20260615020333",
-      "link": "https://www.skysports.com/football/news/12040/13552703/world-cup-2026-ivory-coast-1-0-ecuador-amad-diallo-nets-90th-minute-winner-to-end-ecuadors-19-game-unbeaten-streak",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49059084,
@@ -108,66 +263,6 @@
         "Algeria",
         "Tunisia",
         "South Africa"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-14T06:59:00Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-14T06:55:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
       ]
     },
     {
@@ -381,20 +476,6 @@
       ]
     },
     {
-      "id": 49019977,
-      "source": "ESPN",
-      "headline": "Barcelona unlikely to activate permanent Marcus Rashford option from Man United - sources",
-      "description": "Barcelona are unlikely to activate the €30 million option to make Marcus Rashford's loan from Manchester United permanent, but coach Hansi Flick will have the final say with Monday's deadline to make a decision looming, sources have told ESPN.",
-      "publishedAt": "2026-06-10T23:09:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670821_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49019977/barcelona-marcus-rashford-unlikely-activate-marcus-rashford-loan",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49023132,
       "source": "ESPN",
       "headline": "Could Marcus Rashford play for Man United next season?",
@@ -421,79 +502,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 49017065,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United looking at move for Leeds' Darlow",
-      "description": "Manchester United are reportedly looking at Leeds' Karl Darlow to reinforce their depth at goalkeeper. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-10T21:48:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670980_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49017065/transfer-rumors-news-arsenal-favorites-alvarez-real-madrid-barcelona-fail-bids",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 49020542,
-      "source": "ESPN",
-      "headline": "Kieran McKenna to step down as Ipswich manager after securing second Premier League promotion",
-      "description": "Kieran McKenna has stepped down as Ipswich Town manager after five seasons in the job, the club have confirmed.",
-      "publishedAt": "2026-06-10T20:26:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670855_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49020542/kieran-mckenna-steps-ipswich-manager-five-seasons",
-      "tag": "Ipswich Town",
-      "teams": [
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49021259,
-      "source": "ESPN",
-      "headline": "Chris Richards excited by Pierre Sage's possible Palace arrival",
-      "description": "The USMNT's Chris Richards discusses the possibility of Lens manager Pierre Sage taking over at Crystal Palace.",
-      "publishedAt": "2026-06-10T18:57:04Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0610/dm_260610_Chris_Richards_excited_by_Pierre_Sages_possible_Palace_arrival/dm_260610_Chris_Richards_excited_by_Pierre_Sages_possible_Palace_arrival.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49021259/chris-richards-excited-pierre-sage-possible-palace-arrival",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "United States"
-      ]
-    },
-    {
-      "id": 49020966,
-      "source": "ESPN",
-      "headline": "Roy Keane: Bruno Fernandes and I had 'lovely chat' to quash assists dispute",
-      "description": "Roy Keane said that he and Bruno Fernandes had \"a nice, mature conversation\" to clear the air after he misquoted the Manchester United captain, leading to a public dispute between the two.",
-      "publishedAt": "2026-06-10T18:24:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670888_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49020966/roy-keane-bruno-fernandes-lovely-chat-quash-assists-dispute",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48907789,
-      "source": "ESPN",
-      "headline": "Marcos Senesi joins Tottenham from Bournemouth as Roberto De Zerbi's second signing",
-      "description": "Marcos Senesi has joined Tottenham Hotspur from Bournemouth, the north London club has confirmed.",
-      "publishedAt": "2026-06-10T16:29:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0606/r1668992_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48907789/marcos-senesi-joins-tottenham-bournemouth-roberto-de-zerbi-second-signing",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "AFC Bournemouth"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-15T05:26:12.812Z"
+    "cachedAt": "2026-06-15T12:41:15.299Z"
   }
 }
