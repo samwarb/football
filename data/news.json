@@ -2,11 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "5d102714133e1a9a55cd45b517139aa2",
+      "source": "Sky Sports",
+      "headline": "Cape Verde show beauty of football in one of game's biggest mismatches",
+      "description": "The essence of football is anyone stands a chance against anyone. With all the financial muscle in the game, that essence becomes harder and harder to see. And yet, there are days like this at the World Cup that defy everything.",
+      "publishedAt": "2026-06-15T19:28:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-spain-cape-verde_7274434.jpg?20260615203504",
+      "link": "https://www.skysports.com/football/news/12040/13554452/spain-0-0-cape-verde-african-nation-defying-one-of-biggest-mismatches-in-football-history-shows-beauty-of-the-game",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "01c5e435355e089174b7a4360a065646",
+      "source": "Sky Sports",
+      "headline": "Crystal Palace appoint Sage as new manager",
+      "description": "Crystal Palace have appointed Pierre Sage as their new manager.",
+      "publishedAt": "2026-06-15T17:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sage-palace_7264413.jpg?20260603120854",
+      "link": "https://www.skysports.com/football/news/12040/13552705/crystal-palace-pierre-sage-appointed-new-manager-as-he-leaves-rc-lens-to-replace-oliver-glasner-at-selhurst-park",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49040890,
       "source": "ESPN",
       "headline": "'Finally': Norway star Erling Haaland on fulfilling World Cup dream",
       "description": "Erling Haaland tells ESPN he is ready to make his World Cup debut and show his love for Norway on football's biggest stage.",
-      "publishedAt": "2026-06-15T12:05:47Z",
+      "publishedAt": "2026-06-15T16:38:51Z",
       "image": "https://a.espncdn.com/photo/2026/0612/r1672014_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49040890/world-cup-norway-erling-haaland-best-player-interview",
       "tag": "Manchester City",
@@ -14,6 +36,64 @@
         "Manchester City",
         "Norway"
       ]
+    },
+    {
+      "id": "27489973704a4251ff198a8c260c6050",
+      "source": "Sky Sports",
+      "headline": "Peixoto appointed as new Wolves boss",
+      "description": "Wolves have appointed Cesar Peixoto as their new head coach.",
+      "publishedAt": "2026-06-15T15:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-cesar-peixoto_7274260.jpg?20260615160547",
+      "link": "https://www.skysports.com/football/news/12040/13554380/wolves-manager-latest-cesar-peixoto-announced-as-rob-edwards-replacement-at-molineux",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "25755d54f467832bde720df57b3cd2c4",
+      "source": "Sky Sports",
+      "headline": "Biggest World Cup shock? Vote on Cape Verde's draw vs Spain and rate players!",
+      "description": "",
+      "publishedAt": "2026-06-15T14:25:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-cape-verde-world-cup_7274394.jpg?20260615191631",
+      "link": "https://www.skysports.com/football/spain-vs-cape-verde/live/549780",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49069531,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Roma to move for ex-Man United striker Greenwood?",
+      "description": "AS Roma are set to make a move to sign Marseille striker Mason Greenwood. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-15T13:38:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0307/r1624890_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49069531/transfer-rumors-news-roma-move-ex-man-united-striker-greenwood",
+      "tag": "AS Roma",
+      "teams": [
+        "AS Roma",
+        "Marseille"
+      ]
+    },
+    {
+      "id": "f8e449172397b7b4ed422505107ce938",
+      "source": "Sky Sports",
+      "headline": "'Bewildered' McCullum 'worried' for Stokes - 'We need to look after him'",
+      "description": "England head coach Brendon McCullum admits he is 'worried' for Ben Stokes, following an incident at a Chelsea nightclub which saw the Test captain break a midnight curfew.",
+      "publishedAt": "2026-06-15T12:54:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mccullum-stokes-england_7274163.jpg?20260615140128",
+      "link": "https://www.skysports.com/watch/video/13554338/brendon-mccullum-worried-for-ben-stokes-we-need-to-look-after-him",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-06-15T12:45:02Z",
+      "image": "https://a.espncdn.com/photo/2025/0628/r1512377_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
     },
     {
       "id": 49070705,
@@ -38,20 +118,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49069531,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Roma to move for ex-Man United striker Greenwood?",
-      "description": "AS Roma are set to make a move to sign Marseille striker Mason Greenwood. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-15T11:10:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0307/r1624890_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49069531/transfer-rumors-news-roma-move-ex-man-united-striker-greenwood",
-      "tag": "AS Roma",
-      "teams": [
-        "AS Roma",
-        "Marseille"
-      ]
     },
     {
       "id": 48955344,
@@ -84,50 +150,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "fa7e9aae12fc04f5daa00750f68f36eb",
-      "source": "Sky Sports",
-      "headline": "Real Madrid sign Cucurella from Chelsea",
-      "description": "Real Madrid have signed defender Marc Cucurella from Chelsea on a six-year deal.",
-      "publishedAt": "2026-06-15T09:10:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-chelsea-marc-cucurella_7239586.jpg?20260505111057",
-      "link": "https://www.skysports.com/football/news/12040/13554263/marc-cucurella-transfer-news-real-madrid-sign-defender-from-chelsea-in-deal-worth-51-8m",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "1f91c8a9d06cbbc30804e2a2aa347d39",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: Is Cucurella sale the right call? Have your say!",
-      "description": "",
-      "publishedAt": "2026-06-15T09:08:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-xabi-alonso-chelsea_7246434.jpg?20260512120937",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "d21b2756778df9fe0a19be3f2a798751",
-      "source": "Sky Sports",
-      "headline": "Diouf: World Cup semi-finals the target for Senegal after AFCON drama",
-      "description": "If you want to talk about dramatic build-ups to a World Cup, get in touch with Senegal.",
-      "publishedAt": "2026-06-15T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-senegal-afcon-africa-cup-of-nations_7258907.jpg?20260526132506",
-      "link": "https://www.skysports.com/football/news/12040/13546213/senegal-at-the-world-cup-semi-finals-the-target-after-afcon-title-drama-says-el-hadji-diouf",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-06-15T06:53:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0529/r1665574_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -507,6 +529,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-15T12:41:15.299Z"
+    "cachedAt": "2026-06-15T21:19:59.279Z"
   }
 }
