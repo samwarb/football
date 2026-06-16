@@ -2,44 +2,62 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "70e49d579db2e44f4772c040e2574e66",
-      "source": "Sky Sports",
-      "headline": "Argentina vs Algeria preview: Alvarez, Martinez set to feature for defending champions",
-      "description": "",
-      "publishedAt": "2026-06-16T11:25:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-world-cup-football_7269000.jpg?20260609122308",
-      "link": "https://www.skysports.com/football/argentina-vs-algeria/live/549784",
-      "tag": "Liveblog",
-      "teams": []
+      "id": 49082374,
+      "source": "ESPN",
+      "headline": "Man Utd set £40m valuation on Marcus Rashford but Liverpool and Man City cannot trigger release clause - sources",
+      "description": "Manchester United have set a £40 million transfer valuation on Marcus Rashford sources have told ESPN.",
+      "publishedAt": "2026-06-16T15:36:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674090_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49082374/man-utd-marcus-rashford-valuation-barcelona-man-city-liverpool",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Barcelona"
+      ]
     },
     {
-      "id": "e656773435d7cb95030bf33d6c548afe",
+      "id": "e73d2a56b11409a727b83f0e31ee095e",
       "source": "Sky Sports",
-      "headline": "Why Ronaldo's last World Cup chance with Portugal could be his best",
-      "description": "The nation with the most representatives in Paris Saint-Germain’s starting line-up for the 2026 Champions League final were Portugal, just as they had been when Luis Enrique’s team won in 2025. These are World Cup dark horses no more.",
-      "publishedAt": "2026-06-16T11:00:00.000Z",
-      "image": "https://e0.365dm.com/25/06/1920x1080/skysports-cristiano-ronald_6937089.jpg?20250608231205",
-      "link": "https://www.skysports.com/football/news/12040/13550660/cristiano-ronaldos-last-world-cup-chance-with-portugal-could-be-his-best-but-roberto-martinez-must-manage-him",
+      "headline": "Carragher 'unsurprised' as Trent snubbed as Livramento replacement",
+      "description": "Jamie Carragher has admitted he 'isn't surprised' that Thomas Tuchel has called up Trevor Chalobah as Tino Livramento's World Cup replacement over Trent Alexander-Arnold.",
+      "publishedAt": "2026-06-16T15:22:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-trent-alexander-arnold_7275148.jpg?20260616165433",
+      "link": "https://www.skysports.com/football/news/12040/13554705/england-world-cup-latest-jamie-carragher-unsurprised-by-trent-alexander-arnold-and-harry-maguire-snub-after-tino-livramento-injury",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "799b5acd6beccb6fa7b443be82e75c4e",
-      "source": "Sky Sports",
-      "headline": "DR Congo's Tuanzebe: I'm not a politician but we can change the world with football",
-      "description": "DR Congo are preparing for their first World Cup in over half a century, while a war is going on back home.",
-      "publishedAt": "2026-06-16T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-tuanzebe-dr-congo_7274630.jpg?20260616085632",
-      "link": "https://www.skysports.com/football/news/12040/13553569/dr-congo-axel-tuanzebe-hoping-leopards-can-make-lasting-impact-beyond-football-at-first-world-cup-since-1974",
-      "tag": "News Story",
-      "teams": []
+      "id": 49082492,
+      "source": "ESPN",
+      "headline": "Why are Manchester United interested in Crysencio Summerville?",
+      "description": "Why are Manchester United interested in Crysencio Summerville?",
+      "publishedAt": "2026-06-16T15:04:43Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0616/dm_260616_Why_are_Manchester_United_interested_in_Crysencio_Summerville/dm_260616_Why_are_Manchester_United_interested_in_Crysencio_Summerville.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49082492/why-manchester-united-interested-crysencio-summerville",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49082386,
+      "source": "ESPN",
+      "headline": "Robson: Rashford return to Manchester United would be 'difficult'",
+      "description": "Robson: Rashford return to Manchester United would be 'difficult'",
+      "publishedAt": "2026-06-16T14:53:10Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0616/dm_260616_Robson_Rashford_return_to_Manchester_United_would_be_difficult/dm_260616_Robson_Rashford_return_to_Manchester_United_would_be_difficult.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49082386/rashford-return-manchester-united-difficult",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
     },
     {
       "id": 49080057,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Tottenham join Arsenal, City in race for Tonali",
       "description": "Newcastle United midfielder Sandro Tonali now has Tottenham Hotspur on his trail. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-16T09:51:51Z",
+      "publishedAt": "2026-06-16T14:40:33Z",
       "image": "https://a.espncdn.com/photo/2025/1002/r1554596_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49080057/transfer-rumors-news-tottenham-join-arsenal-manchester-city-race-newcastle-sandro-tonali",
       "tag": "Newcastle United",
@@ -49,26 +67,47 @@
       ]
     },
     {
-      "id": "5e336014a8fa15b4dbebd3f86188f21d",
+      "id": "74519b11d68dd710a042446f13bbd407",
       "source": "Sky Sports",
-      "headline": "Tottenham want Newcastle midfielder Tonali",
-      "description": "Tottenham want to sign Newcastle midfielder Sandro Tonali this summer.",
-      "publishedAt": "2026-06-16T08:07:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-sandro-tonali-newcastle_7274644.jpg?20260616091428",
-      "link": "https://www.skysports.com/football/news/12040/13554541/sandro-tonali-transfer-news-tottenham-hotspur-want-newcastle-midfielder-as-roberto-de-zerbi-makes-italian-top-target",
+      "headline": "Why Spurs want Tonali - and Newcastle do not want to let him go",
+      "description": "Tottenham want to sign Sandro Tonali this summer - but they will have a big task on their hands if they are to lure the Newcastle midfielder away from St James' Park.",
+      "publishedAt": "2026-06-16T14:30:00.000Z",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-tonali-newcastle_7202462.jpg?20260325081815",
+      "link": "https://www.skysports.com/football/news/12040/13554623/sandro-tonali-the-view-from-tottenham-and-newcastle-as-spurs-target-magpies-midfielder-for-summer-transfer",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "a36308098f441015c6567957361321d3",
-      "source": "Sky Sports",
-      "headline": "Iran coach hits out at treatment of 'most oppressed team' at World Cup",
-      "description": "Iran have hit out at their treatment in the United States, with their head coach Amir Ghalenoei saying his team are the \"most oppressed\" at the World Cup.",
-      "publishedAt": "2026-06-16T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-iran-world-cu-world-cup_7274596.jpg?20260616081420",
-      "link": "https://www.skysports.com/football/news/12040/13554517/world-cup-2026-iran-the-most-oppressed-team-at-tournament-says-coach-amir-ghalenoei-after-opening-game-vs-new-zealand",
-      "tag": "News Story",
-      "teams": []
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-16T13:39:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
     },
     {
       "id": 48944912,
@@ -95,38 +134,6 @@
         "Nottingham Forest",
         "Sunderland",
         "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-16T06:51:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
         "Hull City"
       ]
     },
@@ -161,17 +168,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "be886e1979805ba54dd60afd77b0c3e0",
-      "source": "Sky Sports",
-      "headline": "The four selection dilemmas facing Tuchel",
-      "description": "Jude Bellingham or Morgan Rogers? Bukayo Saka or Noni Madueke? Anthony Gordon or Marcus Rashford? John Stones, Ezri Konsa or Marc Guehi? Sky Sports' News' Rob Dorsett analyses the big selection dilemmas facing Thomas Tuchel.",
-      "publishedAt": "2026-06-16T06:15:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-england_7269678.jpg?20260610071823",
-      "link": "https://www.skysports.com/football/news/12040/13554511/england-vs-croatia-thomas-tuchels-selection-dilemmas-for-world-cup-analysed-four-positions-up-for-grabs",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49040890,
@@ -494,53 +490,11 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 49029026,
-      "source": "ESPN",
-      "headline": "Man United prepare to pull out of race to sign Elliot Anderson -- sources",
-      "description": "Manchester United are ready to pull out of the race to sign Elliot Anderson, sources have told ESPN.",
-      "publishedAt": "2026-06-11T13:07:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671254_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49029026/man-united-ready-pull-race-sign-elliot-anderson-sources",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49027483,
-      "source": "ESPN",
-      "headline": "Wolves sack Rob Edwards after Premier League relegation",
-      "description": "Wolverhampton Wanderers have sacked Rob Edwards after they were relegated from the Premier League.",
-      "publishedAt": "2026-06-11T10:48:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671175_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49027483/wolves-sack-rob-edwards-premier-league-relegation",
-      "tag": "Wolverhampton Wanderers",
-      "teams": [
-        "Wolverhampton Wanderers"
-      ]
-    },
-    {
-      "id": 49023132,
-      "source": "ESPN",
-      "headline": "Could Marcus Rashford play for Man United next season?",
-      "description": "Mark Ogden shares details on Marcus Rashford future as reports emerge he could return to play for Man United.",
-      "publishedAt": "2026-06-10T23:06:10Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0610/dm_260610_COM_SOC_ANALYSIS_Could_Marcus_Rashford_play_for_Man_United_next_season_2026_6_10/dm_260610_COM_SOC_ANALYSIS_Could_Marcus_Rashford_play_for_Man_United_next_season_2026_6_10.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49023132/could-marcus-rashford-play-man-united-next-season",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "England",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-16T11:32:45.983Z"
+    "cachedAt": "2026-06-16T17:19:48.426Z"
   }
 }
