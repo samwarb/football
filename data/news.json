@@ -2,6 +2,44 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49083813,
+      "source": "ESPN",
+      "headline": "Tottenham agree £52m deal to sign Brighton's Jan Paul Van Hecke - sources",
+      "description": "Tottenham have agreed a £52 million ($69.8m) deal to sign Jan Paul van Hecke from Brighton, sources have told ESPN.",
+      "publishedAt": "2026-06-16T17:52:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674214_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49083813/tottenham-agree-52m-deal-sign-brighton-jan-paul-van-hecke-sources-transfers",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": "9b64e295a4a0ecb564607e34296d14cc",
+      "source": "Sky Sports",
+      "headline": "Spurs agree £52m deal to sign Van Hecke from Brighton",
+      "description": "Tottenham have agreed a deal with Brighton to sign defender Jan Paul van Hecke.",
+      "publishedAt": "2026-06-16T17:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jan-paul-van-hecke_7267653.jpg?20260607172340",
+      "link": "https://www.skysports.com/football/news/12040/13554757/jan-paul-van-hecke-tottenham-agree-deal-for-brighton-defender-worth-52m",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49083627,
+      "source": "ESPN",
+      "headline": "Tottenham in race to sign Sandro Tonali from Newcastle - sources",
+      "description": "Tottenham have entered the race to sign Sandro Tonali but Newcastle may demand a fee in the region of £100million, sources have told ESPN.",
+      "publishedAt": "2026-06-16T17:34:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0326/r1634287_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49083627/tottenham-race-sign-sandro-tonali-newcastle-sources",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
       "id": 49082374,
       "source": "ESPN",
       "headline": "Man Utd set £40m valuation on Marcus Rashford but Liverpool and Man City cannot trigger release clause - sources",
@@ -14,17 +52,6 @@
         "Manchester United",
         "Barcelona"
       ]
-    },
-    {
-      "id": "e73d2a56b11409a727b83f0e31ee095e",
-      "source": "Sky Sports",
-      "headline": "Carragher 'unsurprised' as Trent snubbed as Livramento replacement",
-      "description": "Jamie Carragher has admitted he 'isn't surprised' that Thomas Tuchel has called up Trevor Chalobah as Tino Livramento's World Cup replacement over Trent Alexander-Arnold.",
-      "publishedAt": "2026-06-16T15:22:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-trent-alexander-arnold_7275148.jpg?20260616165433",
-      "link": "https://www.skysports.com/football/news/12040/13554705/england-world-cup-latest-jamie-carragher-unsurprised-by-trent-alexander-arnold-and-harry-maguire-snub-after-tino-livramento-injury",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49082492,
@@ -65,17 +92,6 @@
         "Newcastle United",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "74519b11d68dd710a042446f13bbd407",
-      "source": "Sky Sports",
-      "headline": "Why Spurs want Tonali - and Newcastle do not want to let him go",
-      "description": "Tottenham want to sign Sandro Tonali this summer - but they will have a big task on their hands if they are to lure the Newcastle midfielder away from St James' Park.",
-      "publishedAt": "2026-06-16T14:30:00.000Z",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-tonali-newcastle_7202462.jpg?20260325081815",
-      "link": "https://www.skysports.com/football/news/12040/13554623/sandro-tonali-the-view-from-tottenham-and-newcastle-as-spurs-target-magpies-midfielder-for-summer-transfer",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48709856,
@@ -451,20 +467,6 @@
       ]
     },
     {
-      "id": 49032417,
-      "source": "ESPN",
-      "headline": "Tottenham defender Marcos Senesi called up to Argentina World Cup squad",
-      "description": "The Argentina national team confirmed defender Marcos Senesi will replace the injured Leonardo Balerdi on the 26-player World Cup roster.",
-      "publishedAt": "2026-06-11T19:40:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671435_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49032417/tottenham-defender-marcos-senesi-called-argentina-world-cup-squad",
-      "tag": "Argentina",
-      "teams": [
-        "Argentina",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49032467,
       "source": "ESPN",
       "headline": "Thomas Tuchel: 'Nothing changes' if Elliot Anderson makes big-money Man City move",
@@ -477,24 +479,11 @@
         "Nottingham Forest",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49031742,
-      "source": "ESPN",
-      "headline": "Tottenham fan group write to chairman over ownership and leadership concerns",
-      "description": "Tottenham Hotspur Supporters' Trust (THST) has written to executive chairman Peter Charrington after a recent fans' survey highlighted a lack of confidence in the current ownership and leadership team.",
-      "publishedAt": "2026-06-11T18:09:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671389_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49031742/tottenham-fan-group-write-chairman-ownership-leadership-concerns",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-16T17:19:48.426Z"
+    "cachedAt": "2026-06-16T21:18:07.202Z"
   }
 }
