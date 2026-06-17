@@ -2,6 +2,42 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "6a9383fe33981b5ec59e0a038256459a",
+      "source": "Sky Sports",
+      "headline": "Hat-trick hero Messi writes himself into history as Argentina beat Algeria",
+      "description": "The eyes of the world were mesmerised by the untouchable Lionel Messi as he wrote himself into history by scoring a stunning hat-trick to give Argentina the perfect start to their World Cup title defence, beating Algeria 3-0 in Kansas.",
+      "publishedAt": "2026-06-17T02:45:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-lionel-messi-world-cup_7275438.jpg?20260617044332",
+      "link": "https://www.skysports.com/football/argentina-vs-algeria/report/549784",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49080057,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea eye move for Palace's Lacroix",
+      "description": "Chelsea are looking to strengthen their defense this summer. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-17T01:30:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674507_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49080057/transfer-rumors-news-tottenham-join-arsenal-manchester-city-race-newcastle-sandro-tonali",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "745b9a6df82763b0cfb61ffeb4ab4cab",
+      "source": "Sky Sports",
+      "headline": "Brilliant Mbappe becomes France's top scorer in win over Senegal",
+      "description": "Kylian Mbappe became the highest scorer in France's history as his sensational double powered Les Bleus to a 3-1 win over Senegal in their Group I World Cup opener in New Jersey.",
+      "publishedAt": "2026-06-16T20:45:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-kylian-mbappe-france_7275371.jpg?20260616215556",
+      "link": "https://www.skysports.com/football/france-vs-senegal/report/549782",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49083813,
       "source": "ESPN",
       "headline": "Tottenham agree £52m deal to sign Brighton's Jan Paul Van Hecke - sources",
@@ -14,17 +50,6 @@
         "Tottenham Hotspur",
         "Brighton & Hove Albion"
       ]
-    },
-    {
-      "id": "9b64e295a4a0ecb564607e34296d14cc",
-      "source": "Sky Sports",
-      "headline": "Spurs agree £52m deal to sign Van Hecke from Brighton",
-      "description": "Tottenham have agreed a deal with Brighton to sign defender Jan Paul van Hecke.",
-      "publishedAt": "2026-06-16T17:45:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jan-paul-van-hecke_7267653.jpg?20260607172340",
-      "link": "https://www.skysports.com/football/news/12040/13554757/jan-paul-van-hecke-tottenham-agree-deal-for-brighton-defender-worth-52m",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49083627,
@@ -80,20 +105,6 @@
       ]
     },
     {
-      "id": 49080057,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Tottenham join Arsenal, City in race for Tonali",
-      "description": "Newcastle United midfielder Sandro Tonali now has Tottenham Hotspur on his trail. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-16T14:40:33Z",
-      "image": "https://a.espncdn.com/photo/2025/1002/r1554596_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49080057/transfer-rumors-news-tottenham-join-arsenal-manchester-city-race-newcastle-sandro-tonali",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 48709856,
       "source": "ESPN",
       "headline": "World Cup 2026: Which players from your Premier League team are going?",
@@ -124,6 +135,28 @@
         "Ipswich Town",
         "Hull City"
       ]
+    },
+    {
+      "id": "8a309b4d67babd71bfe6c37c3cab93cb",
+      "source": "Sky Sports",
+      "headline": "Austria lead through stunner but Jordan pushing for equaliser LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-16T11:30:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-romano-schmid-austria_7275446.jpg?20260617053141",
+      "link": "https://www.skysports.com/football/austria-vs-jordan/live/549785",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "62a0222217328308fd14da8511e57e49",
+      "source": "Sky Sports",
+      "headline": "Argentina vs Algeria: All the big moments as Messi equals World Cup goals record",
+      "description": "",
+      "publishedAt": "2026-06-16T11:25:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-lionel-messi-argentina_7275432.jpg?20260617024746",
+      "link": "https://www.skysports.com/football/argentina-vs-algeria/live/549784",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48944912,
@@ -484,6 +517,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-16T21:18:07.202Z"
+    "cachedAt": "2026-06-17T05:14:12.755Z"
   }
 }
