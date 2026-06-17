@@ -2,15 +2,30 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "c9b84dd1990a0bb769a39fed6dfad085",
+      "id": "5ab915456b9913a2253a4aac063dcab5",
       "source": "Sky Sports",
-      "headline": "Tottenham's Vuskovic dilemma after Van Hecke deal agreed",
-      "description": "Tottenham have a dilemma on their hands with Luka Vuskovic after rejecting two offers from Brighton for the teenage centre-back.",
-      "publishedAt": "2026-06-17T10:43:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-luka-vuskovic-jan-paul-van-hecke_7275753.jpg?20260617114304",
-      "link": "https://www.skysports.com/football/news/12040/13554938/tottenham-transfer-news-spurs-luka-vuskovic-dilemma-as-two-brighton-bids-rejected-after-jan-paul-van-hecke-deal-agreed",
-      "tag": "News Story",
+      "headline": "Ronaldo starts as Portugal face DR Congo in opener",
+      "description": "",
+      "publishedAt": "2026-06-17T15:50:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-group-k_7268882.jpg?20260609100630",
+      "link": "https://www.skysports.com/football/portugal-vs-dr-congo/live/549786",
+      "tag": "Liveblog",
       "teams": []
+    },
+    {
+      "id": 49095806,
+      "source": "ESPN",
+      "headline": "Man United have no plans to negotiate new Marcus Rashford loan with Barcelona - sources",
+      "description": "Manchester United have no plans to negotiate a new loan agreement with Barcelona for Marcus Rashford, sources have told ESPN.",
+      "publishedAt": "2026-06-17T15:31:54Z",
+      "image": "https://a.espncdn.com/photo/2025/1030/r1568264_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49095806/manchester-united-marcus-rashford-barcelona-no-plans-negotiate-loan-permanent",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Barcelona",
+        "La Liga AFE"
+      ]
     },
     {
       "id": 49091187,
@@ -35,17 +50,6 @@
       "image": "https://a.espncdn.com/photo/2026/0416/r1644430_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "f4adb81edce9c1dfaa329423f4bd2921",
-      "source": "Sky Sports",
-      "headline": "Argentina vs Algeria: Should Messi have been sent off? VOTE!",
-      "description": "",
-      "publishedAt": "2026-06-17T09:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-world-cup-argentina_7275688.jpg?20260617103801",
-      "link": "https://www.skysports.com/football/argentina-vs-algeria/live/549784",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -122,28 +126,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "7de1442fe96e190a0e0171b42f6cd358",
-      "source": "Sky Sports",
-      "headline": "Ballon d'Or on the line - has Kane saved his best World Cup dance for last?",
-      "description": "For England, the thought is frightening but very real. This could be Harry Kane's final World Cup.",
-      "publishedAt": "2026-06-17T06:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-kane-england_7275235.jpg?20260616183802",
-      "link": "https://www.skysports.com/football/news/12040/13554752/harry-kane-england-captain-may-be-taking-part-in-his-last-world-cup-but-this-is-also-his-best-shot-at-the-ballon-dor",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "6a9383fe33981b5ec59e0a038256459a",
-      "source": "Sky Sports",
-      "headline": "Hat-trick hero Messi writes himself into history as Argentina beat Algeria",
-      "description": "The eyes of the world were mesmerised by the untouchable Lionel Messi as he wrote himself into history by scoring a stunning hat-trick to give Argentina the perfect start to their World Cup title defence, beating Algeria 3-0 in Kansas.",
-      "publishedAt": "2026-06-17T02:45:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-messi-lionel-argentina_7275462.jpg?20260617061930",
-      "link": "https://www.skysports.com/football/argentina-vs-algeria/report/549784",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49080057,
@@ -506,28 +488,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49039646,
-      "source": "ESPN",
-      "headline": "Paul Pogba exclusive: Mbappe, Olise, Dembele & Man United",
-      "description": "Alexis Nunes talks to Paul Pogba on whether he thinks this France team is better than the 2018 World Cup winning one he was in.",
-      "publishedAt": "2026-06-12T13:04:09Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0612/dm_260612_Paul_Pogba_exclusive_Mbappe_Olise_Dembele_26_Man_United/dm_260612_Paul_Pogba_exclusive_Mbappe_Olise_Dembele_26_Man_United.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49039646/mbappe-olise-dembele-man-united",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "France",
-        "Manchester United",
-        "Paris Saint-Germain",
-        "Real Madrid"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-17T11:16:47.751Z"
+    "cachedAt": "2026-06-17T16:01:09.642Z"
   }
 }
