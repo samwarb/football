@@ -2,12 +2,60 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "5ab915456b9913a2253a4aac063dcab5",
+      "id": "691ad6644b9b9a7e27e6e06686838ada",
       "source": "Sky Sports",
-      "headline": "Ronaldo starts as Portugal face DR Congo in opener",
+      "headline": "Ronaldo flatters to deceive as Portugal slump to DR Congo draw",
+      "description": "Cristiano Ronaldo struggled during his first performance at the 2026 World Cup as a disappointing Portugal were held to a 1-1 draw by DR Congo.",
+      "publishedAt": "2026-06-17T19:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276143.jpg?20260617194729",
+      "link": "https://www.skysports.com/football/portugal-vs-dr-congo/report/549786",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "be2ac66cb53fd4e5996cb459cda02794",
+      "source": "Sky Sports",
+      "headline": "Rangers appoint McInnes as Röhl replacement",
+      "description": "Rangers have appointed Derek McInnes as manager on a three-year-deal after his momentous season in charge of Hearts.",
+      "publishedAt": "2026-06-17T18:30:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-scottish-premiership_7275620.jpg?20260617093135",
+      "link": "https://www.skysports.com/football/news/12040/13553958/rangers-appoint-derek-mcinnes-as-manager-on-three-year-deal-following-danny-r246hls-departure",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "debe5981516e002c14bad57d347aa38c",
+      "source": "Sky Sports",
+      "headline": "'A long time coming' - McInnes is the right man for Rangers, says Boyd",
+      "description": "\"Strong beliefs and confident in his own ability.\"",
+      "publishedAt": "2026-06-17T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-mcinnes-hearts_7148967.jpg?20260128212729",
+      "link": "https://www.skysports.com/football/news/12040/13554540/derek-mcinnes-appointed-rangers-manager-kris-boyd-believes-club-finally-have-right-man-in-charge",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": 49091187,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool step up Diomande interest to fend off PSG",
+      "description": "With PSG having an interest in Yan Diomande, Liverpool are accelerating their chase for the RB Leipzig winger. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-17T17:31:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49091187/transfer-rumors-news-real-madrid-look-man-city-defender-dias",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Liverpool",
+        "RB Leipzig"
+      ]
+    },
+    {
+      "id": "e67c8d766ad3a4b24574a5e1c1918fec",
+      "source": "Sky Sports",
+      "headline": "Portugal vs DR Congo: Should Ronaldo be dropped after poor display? Have your say!",
       "description": "",
       "publishedAt": "2026-06-17T15:50:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-group-k_7268882.jpg?20260609100630",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276166.jpg?20260617202803",
       "link": "https://www.skysports.com/football/portugal-vs-dr-congo/live/549786",
       "tag": "Liveblog",
       "teams": []
@@ -28,20 +76,6 @@
       ]
     },
     {
-      "id": 49091187,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Madrid look to Man City defender Dias",
-      "description": "Real Madrid are weighing up a €90 million move for Manchester City defender Rúben Dias. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-17T10:24:28Z",
-      "image": "https://a.espncdn.com/photo/2025/1122/r1579240_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49091187/transfer-rumors-news-real-madrid-look-man-city-defender-dias",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Real Madrid"
-      ]
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -50,17 +84,6 @@
       "image": "https://a.espncdn.com/photo/2026/0416/r1644430_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "b032df69e9d11870754773425e1bdcfe",
-      "source": "Sky Sports",
-      "headline": "Real Madrid sign Bernardo Silva",
-      "description": "Real Madrid have signed former Manchester City midfielder Bernardo Silva on a free transfer.",
-      "publishedAt": "2026-06-17T09:18:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-bernardo-silva-man-city_7250784.jpg?20260516185856",
-      "link": "https://www.skysports.com/football/news/12040/13554908/bernardo-silva-real-madrid-sign-manchester-city-midfielder-on-free-transfer-as-jose-mourinho-impact-continues",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -493,6 +516,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-17T16:01:09.642Z"
+    "cachedAt": "2026-06-17T20:28:54.724Z"
   }
 }
