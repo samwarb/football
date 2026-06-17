@@ -2,12 +2,145 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "c9b84dd1990a0bb769a39fed6dfad085",
+      "source": "Sky Sports",
+      "headline": "Tottenham's Vuskovic dilemma after Van Hecke deal agreed",
+      "description": "Tottenham have a dilemma on their hands with Luka Vuskovic after rejecting two offers from Brighton for the teenage centre-back.",
+      "publishedAt": "2026-06-17T10:43:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-luka-vuskovic-jan-paul-van-hecke_7275753.jpg?20260617114304",
+      "link": "https://www.skysports.com/football/news/12040/13554938/tottenham-transfer-news-spurs-luka-vuskovic-dilemma-as-two-brighton-bids-rejected-after-jan-paul-van-hecke-deal-agreed",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49091187,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Madrid look to Man City defender Dias",
+      "description": "Real Madrid are weighing up a €90 million move for Manchester City defender Rúben Dias. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-17T10:24:28Z",
+      "image": "https://a.espncdn.com/photo/2025/1122/r1579240_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49091187/transfer-rumors-news-real-madrid-look-man-city-defender-dias",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-06-17T09:41:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0416/r1644430_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "f4adb81edce9c1dfaa329423f4bd2921",
+      "source": "Sky Sports",
+      "headline": "Argentina vs Algeria: Should Messi have been sent off? VOTE!",
+      "description": "",
+      "publishedAt": "2026-06-17T09:30:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-world-cup-argentina_7275688.jpg?20260617103801",
+      "link": "https://www.skysports.com/football/argentina-vs-algeria/live/549784",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "b032df69e9d11870754773425e1bdcfe",
+      "source": "Sky Sports",
+      "headline": "Real Madrid sign Bernardo Silva",
+      "description": "Real Madrid have signed former Manchester City midfielder Bernardo Silva on a free transfer.",
+      "publishedAt": "2026-06-17T09:18:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-bernardo-silva-man-city_7250784.jpg?20260516185856",
+      "link": "https://www.skysports.com/football/news/12040/13554908/bernardo-silva-real-madrid-sign-manchester-city-midfielder-on-free-transfer-as-jose-mourinho-impact-continues",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-17T06:51:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-06-17T06:42:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0210/r1613090_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "7de1442fe96e190a0e0171b42f6cd358",
+      "source": "Sky Sports",
+      "headline": "Ballon d'Or on the line - has Kane saved his best World Cup dance for last?",
+      "description": "For England, the thought is frightening but very real. This could be Harry Kane's final World Cup.",
+      "publishedAt": "2026-06-17T06:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-kane-england_7275235.jpg?20260616183802",
+      "link": "https://www.skysports.com/football/news/12040/13554752/harry-kane-england-captain-may-be-taking-part-in-his-last-world-cup-but-this-is-also-his-best-shot-at-the-ballon-dor",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "6a9383fe33981b5ec59e0a038256459a",
       "source": "Sky Sports",
       "headline": "Hat-trick hero Messi writes himself into history as Argentina beat Algeria",
       "description": "The eyes of the world were mesmerised by the untouchable Lionel Messi as he wrote himself into history by scoring a stunning hat-trick to give Argentina the perfect start to their World Cup title defence, beating Algeria 3-0 in Kansas.",
       "publishedAt": "2026-06-17T02:45:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-lionel-messi-world-cup_7275438.jpg?20260617044332",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-messi-lionel-argentina_7275462.jpg?20260617061930",
       "link": "https://www.skysports.com/football/argentina-vs-algeria/report/549784",
       "tag": "Report",
       "teams": []
@@ -25,17 +158,6 @@
         "Crystal Palace",
         "Chelsea"
       ]
-    },
-    {
-      "id": "745b9a6df82763b0cfb61ffeb4ab4cab",
-      "source": "Sky Sports",
-      "headline": "Brilliant Mbappe becomes France's top scorer in win over Senegal",
-      "description": "Kylian Mbappe became the highest scorer in France's history as his sensational double powered Les Bleus to a 3-1 win over Senegal in their Group I World Cup opener in New Jersey.",
-      "publishedAt": "2026-06-16T20:45:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-kylian-mbappe-france_7275371.jpg?20260616215556",
-      "link": "https://www.skysports.com/football/france-vs-senegal/report/549782",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49083813,
@@ -105,60 +227,6 @@
       ]
     },
     {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-16T13:39:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
-      ]
-    },
-    {
-      "id": "8a309b4d67babd71bfe6c37c3cab93cb",
-      "source": "Sky Sports",
-      "headline": "Austria lead through stunner but Jordan pushing for equaliser LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-16T11:30:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-romano-schmid-austria_7275446.jpg?20260617053141",
-      "link": "https://www.skysports.com/football/austria-vs-jordan/live/549785",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "62a0222217328308fd14da8511e57e49",
-      "source": "Sky Sports",
-      "headline": "Argentina vs Algeria: All the big moments as Messi equals World Cup goals record",
-      "description": "",
-      "publishedAt": "2026-06-16T11:25:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-lionel-messi-argentina_7275432.jpg?20260617024746",
-      "link": "https://www.skysports.com/football/argentina-vs-algeria/live/549784",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
@@ -184,38 +252,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-06-16T06:44:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0210/r1613090_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -245,17 +281,6 @@
         "AS Roma",
         "Marseille"
       ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-06-15T12:45:02Z",
-      "image": "https://a.espncdn.com/photo/2025/0628/r1512377_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 49070705,
@@ -498,25 +523,11 @@
         "Paris Saint-Germain",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 49032467,
-      "source": "ESPN",
-      "headline": "Thomas Tuchel: 'Nothing changes' if Elliot Anderson makes big-money Man City move",
-      "description": "Thomas Tuchel has said Elliot Anderson is the \"full package\" and the England boss does not believe a potential big money move to Manchester City would change the Nottingham Forest star.",
-      "publishedAt": "2026-06-11T19:09:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671449_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49032467/thomas-tuchel-england-world-cup-elliot-anderson-transfer-news-manchester-city",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-17T05:14:12.755Z"
+    "cachedAt": "2026-06-17T11:16:47.751Z"
   }
 }
