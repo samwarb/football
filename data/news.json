@@ -4,18 +4,124 @@
     {
       "id": 49104448,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool and Chelsea keen on star Sweden midfielder",
-      "description": "Liverpool and Chelsea are both tracking Brighton midfielder Yasin Ayari. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-18T12:56:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673453_1296x729_16-9.jpg",
+      "headline": "Transfer rumors, news: Arsenal, Liverpool to battle for France winger Barcola",
+      "description": "Liverpool and Arsenal are lining up a move for PSG winger Bradley Barcola. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-18T20:25:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675704_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49104448/transfer-rumors-news-liverpool-chelsea-keen-star-sweden-midfielder",
       "tag": "Liverpool",
       "teams": [
         "Liverpool",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Sweden"
+        "Arsenal",
+        "Paris Saint-Germain"
       ]
+    },
+    {
+      "id": 49104880,
+      "source": "ESPN",
+      "headline": "Liverpool complete signing of Víctor Muñoz from Osasuna",
+      "description": "Liverpool have completed the signing of Spain international Víctor Muñoz from Osasuna.",
+      "publishedAt": "2026-06-18T20:23:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675368_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49104880/liverpool-complete-signing-victor-munoz-osasuna",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Osasuna"
+      ]
+    },
+    {
+      "id": "3d70ba912387abdef41f75f1897cc38f",
+      "source": "Sky Sports",
+      "headline": "Neville: France still favourites despite England display",
+      "description": "Gary Neville believes England produced the best football of the World Cup so far in their second-half display against Croatia, but remains unconvinced that Thomas Tuchel's side should be considered favourites for the tournament.",
+      "publishedAt": "2026-06-18T20:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-harry-kane_7276287.jpg?20260617235603",
+      "link": "https://www.skysports.com/football/news/12040/13555508/world-cup-2026-england-played-tournaments-best-football-says-gary-neville-but-france-remain-favourites",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-06-18T19:59:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675673_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "da0b58eed52d3b511c2a3a7037f1e863",
+      "source": "Sky Sports",
+      "headline": "Tuchel: Saka unlikely to start against Ghana",
+      "description": "Thomas Tuchel says Bukayo Saka will be nursed through the next week of training but is unlikely to start for England until the final World Cup group game against Panama.",
+      "publishedAt": "2026-06-18T19:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-bukayo-saka-england_7276927.jpg?20260618175044",
+      "link": "https://www.skysports.com/football/news/12040/13555396/world-cup-2026-bukayo-saka-unlikely-to-start-for-england-until-panama-game-thomas-tuchel-says",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49108882,
+      "source": "ESPN",
+      "headline": "Real Madrid admire Chelsea's Enzo Fernández, looking at midfield options - sources",
+      "description": "Real Madrid are looking to continue their summer rebuild by signing a midfielder and a centre-back, a source has told ESPN, with Chelsea's Enzo Fernández being one of the options highly rated by the club.",
+      "publishedAt": "2026-06-18T18:58:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675619_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49108882/fernandez-real-madrid-chelsea",
+      "tag": "Real Madrid",
+      "teams": [
+        "Real Madrid",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "5342bc7f25e422a0b9d2792faf9c260d",
+      "source": "Sky Sports",
+      "headline": "Clarke: Underdog tag will bring best out of Scotland vs Morocco",
+      "description": "Steve Clarke believes Scotland are often at their best when expectations are against them as they prepare for a World Cup showdown with Morocco.",
+      "publishedAt": "2026-06-18T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-steve-clarke_7277020.jpg?20260618191811",
+      "link": "https://www.skysports.com/football/news/12040/13555452/scotland-at-world-cup-steve-clarke-says-his-side-are-more-comfortable-as-underdogs-ahead-of-morocco-match",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "7f6ef8579bc46e9148b1e805ec8fca3b",
+      "source": "Sky Sports",
+      "headline": "Late penalty gifts South Africa first point against wasteful Czech Republic",
+      "description": "Teboho Mokoena's late penalty gifted South Africa their first point of the World Cup after wasteful Czech Republic failed to make their chances pay in a 1-1 draw in Atlanta.",
+      "publishedAt": "2026-06-18T17:45:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-teboho-mokoena-south-africa_7277002.jpg?20260618190224",
+      "link": "https://www.skysports.com/football/czech-republic-vs-south-africa/report/549790",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49108300,
+      "source": "ESPN",
+      "headline": "Laurens: You can't blame Muñoz for choosing Liverpool over Newcastle",
+      "description": "",
+      "publishedAt": "2026-06-18T16:56:48Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0618/dm_260618_COM_SOC_ANALAYSIS_Laurens_You_cant_blame_Munoz_for_choosing_Liverpool_over_Newcastle_2026_6_18/dm_260618_COM_SOC_ANALAYSIS_Laurens_You_cant_blame_Munoz_for_choosing_Liverpool_over_Newcastle_2026_6_18.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49108300/blame-munoz-choosing-liverpool-newcastle",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f9901f5e6ec510b69eb6e7c81dbe116b",
+      "source": "Sky Sports",
+      "headline": "Spurs latest: New signing Van Hecke opens up on Spurs move",
+      "description": "",
+      "publishedAt": "2026-06-18T15:00:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49094353,
@@ -44,28 +150,6 @@
         "Liverpool",
         "Osasuna"
       ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-06-18T11:19:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0416/r1644430_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "61f339da091a97481956d757f232a066",
-      "source": "Sky Sports",
-      "headline": "Home nations and ROI learn World Cup play-off opponents",
-      "description": "England will face Greece in the first round of the World Cup qualification play-offs as Sarina Wiegman's side look to book their place at the 2027 World Cup.",
-      "publishedAt": "2026-06-18T10:00:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-lauren-hemp-england-women_7220271.jpg?20260414210108",
-      "link": "https://www.skysports.com/football/news/12040/13555247/womens-world-cup-play-off-draw-england-scotland-wales-northern-ireland-and-republic-of-ireland-learn-opponents",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48955344,
@@ -204,14 +288,14 @@
       ]
     },
     {
-      "id": "b0a6504dfd317beb180bf6ae2edd6db5",
+      "id": "606b3df814902a72c69c13278dd5d184",
       "source": "Sky Sports",
-      "headline": "Most distance covered? Highest top speed? World Cup heat impact revealed",
-      "description": "After the conclusion of the first round of World Cup group games, Between the Lines reveals the numbers behind how teams and players have handled the hot conditions so far.",
-      "publishedAt": "2026-06-17T11:26:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-between-the-lines_7276486.jpg?20260618102957",
-      "link": "https://www.skysports.com/football/news/12040/13554968/who-has-coped-best-with-world-cup-conditions-michael-olise-stands-out-for-france-as-england-benefit-from-air-conditioning-between-the-lines",
-      "tag": "News Story",
+      "headline": "EFL latest: Wrexham interested in departing Newcastle chief",
+      "description": "",
+      "publishedAt": "2026-06-17T14:40:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-peter-cklamovski_7276452.png?20260618091856",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -450,51 +534,11 @@
         "Belgium",
         "Egypt"
       ]
-    },
-    {
-      "id": 49052487,
-      "source": "ESPN",
-      "headline": "Fulham hold talks with ex-Real Madrid boss Álvaro Arbeloa -- sources",
-      "description": "Fulham have held talks with Álvaro Arbeloa's representatives over appointing the former Real Madrid coach as manager, sources have confirmed to ESPN.",
-      "publishedAt": "2026-06-13T20:38:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0613/r1672516_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49052487/fulham-hold-talks-alvaro-arbeloa-head-coach-vacancy",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49050633,
-      "source": "ESPN",
-      "headline": "Arsenal tracking Christos Tzolis and Bradley Barcola, Gunners seeking to strengthen attack -- sources",
-      "description": "Arsenal are tracking Christos Tzolis and Bradley Barcola as they look to strengthen their attack this summer, sources have told ESPN.",
-      "publishedAt": "2026-06-13T15:30:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0613/r1672393_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49050633/arsenal-christos-tzolis-bradley-barcola-psg-club-brugge",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49049663,
-      "source": "ESPN",
-      "headline": "Daniel Kretinsky to become biggest shareholder at West Ham",
-      "description": "Daniel Kretinsky is set to become West Ham's biggest shareholder after agreeing a deal to buy an additional stake in the club from the Gold family.",
-      "publishedAt": "2026-06-13T13:00:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0613/r1672347_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49049663/daniel-kretinsky-become-biggest-shareholder-west-ham",
-      "tag": "West Ham United",
-      "teams": [
-        "West Ham United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-18T15:51:01.868Z"
+    "cachedAt": "2026-06-18T20:37:21.105Z"
   }
 }
