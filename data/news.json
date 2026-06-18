@@ -2,14 +2,73 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "691ad6644b9b9a7e27e6e06686838ada",
+      "id": "fba71ab02e1c6b7f20bde217ae05ff2c",
       "source": "Sky Sports",
-      "headline": "Ronaldo flatters to deceive as Portugal slump to DR Congo draw",
-      "description": "Cristiano Ronaldo struggled during his first performance at the 2026 World Cup as a disappointing Portugal were held to a 1-1 draw by DR Congo.",
-      "publishedAt": "2026-06-17T19:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276143.jpg?20260617194729",
-      "link": "https://www.skysports.com/football/portugal-vs-dr-congo/report/549786",
+      "headline": "Luis Diaz steals the show for Colombia in win over Uzbekistan",
+      "description": "In a World Cup where superstars have stepped up, Luis Diaz joined the party by registering a goal and an assist in Colombia’s 3-1 win over Uzbekistan.",
+      "publishedAt": "2026-06-18T03:45:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-luis-diaz-colombia_7276321.jpg?20260618052343",
+      "link": "https://www.skysports.com/football/uzbekistan-vs-colombia/report/549787",
       "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "5f8c3392dea3b3014e577a5a7c38d59a",
+      "source": "Sky Sports",
+      "headline": "Colombia vs Uzbekistan: All the big moments & rate players",
+      "description": "",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-munoz-colombia_7276313.jpg?20260618034626",
+      "link": "https://www.skysports.com/football/uzbekistan-vs-colombia/live/549787",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "5fd6c1a8a64fb018f8dc1a82a953be3c",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Reds hijack Newcastle move for Spain winger Munoz",
+      "description": "",
+      "publishedAt": "2026-06-17T23:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49091187,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool step up Diomande interest to fend off PSG",
+      "description": "With PSG having an interest in Yan Diomande, Liverpool are accelerating their chase for the RB Leipzig winger. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-17T22:39:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49091187/transfer-rumors-news-real-madrid-look-man-city-defender-dias",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Liverpool",
+        "RB Leipzig"
+      ]
+    },
+    {
+      "id": "857d8c57c6d3972e46db11c2611089c0",
+      "source": "Sky Sports",
+      "headline": "Ghana vs Panama: All the big moments and rate the players",
+      "description": "",
+      "publishedAt": "2026-06-17T22:30:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ghana-antoine-semenyo_7276308.jpg?20260618022121",
+      "link": "https://www.skysports.com/football/live-blog/12040/13552265/ghana-vs-panama",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "bd7d2e33ec853aeb6055bb8d969b8f7e",
+      "source": "Sky Sports",
+      "headline": "Tuchel praises 'all-in' Kane and 'team player' Bellingham after Croatia win",
+      "description": "Thomas Tuchel was effusive in his praise of England captain Harry Kane and No 10 Jude Bellingham after the pair helped the Three Lions to victory in their World Cup opener with Croatia.",
+      "publishedAt": "2026-06-17T21:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-jude-bellingham_7276222.jpg?20260617221949",
+      "link": "https://www.skysports.com/football/news/12040/13555059/world-cup-2026-england-boss-thomas-tuchel-praises-all-in-harry-kane-and-team-player-jude-bellingham-after-win-over-croatia",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -24,40 +83,14 @@
       "teams": []
     },
     {
-      "id": "debe5981516e002c14bad57d347aa38c",
+      "id": "546e499e14b00f4d4d3853e34b12363f",
       "source": "Sky Sports",
-      "headline": "'A long time coming' - McInnes is the right man for Rangers, says Boyd",
-      "description": "\"Strong beliefs and confident in his own ability.\"",
-      "publishedAt": "2026-06-17T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-mcinnes-hearts_7148967.jpg?20260128212729",
-      "link": "https://www.skysports.com/football/news/12040/13554540/derek-mcinnes-appointed-rangers-manager-kris-boyd-believes-club-finally-have-right-man-in-charge",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
-      "id": 49091187,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool step up Diomande interest to fend off PSG",
-      "description": "With PSG having an interest in Yan Diomande, Liverpool are accelerating their chase for the RB Leipzig winger. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-17T17:31:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49091187/transfer-rumors-news-real-madrid-look-man-city-defender-dias",
-      "tag": "Paris Saint-Germain",
-      "teams": [
-        "Paris Saint-Germain",
-        "Liverpool",
-        "RB Leipzig"
-      ]
-    },
-    {
-      "id": "e67c8d766ad3a4b24574a5e1c1918fec",
-      "source": "Sky Sports",
-      "headline": "Portugal vs DR Congo: Should Ronaldo be dropped after poor display? Have your say!",
-      "description": "",
-      "publishedAt": "2026-06-17T15:50:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276166.jpg?20260617202803",
-      "link": "https://www.skysports.com/football/portugal-vs-dr-congo/live/549786",
-      "tag": "Liveblog",
+      "headline": "England vs Croatia ratings: Kane & Madueke shine but issues at the back",
+      "description": "England opened their 2026 World Cup with a 4-2 victory over Croatia at the Dallas Stadium.",
+      "publishedAt": "2026-06-17T16:47:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-harry-kane_7276285.jpg?20260617235438",
+      "link": "https://www.skysports.com/football/news/12040/13555073/england-4-2-croatia-ratings-harry-kane-and-noni-madueke-shine-but-will-thomas-tuchel-make-changes-in-defence",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -516,6 +549,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-17T20:28:54.724Z"
+    "cachedAt": "2026-06-18T05:00:24.686Z"
   }
 }
