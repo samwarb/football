@@ -2,129 +2,121 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "fba71ab02e1c6b7f20bde217ae05ff2c",
+      "id": "562dc0809eaed039c7a713d59b01dbd4",
       "source": "Sky Sports",
-      "headline": "Luis Diaz steals the show for Colombia in win over Uzbekistan",
-      "description": "In a World Cup where superstars have stepped up, Luis Diaz joined the party by registering a goal and an assist in Colombia’s 3-1 win over Uzbekistan.",
-      "publishedAt": "2026-06-18T03:45:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-luis-diaz-colombia_7276321.jpg?20260618052343",
-      "link": "https://www.skysports.com/football/uzbekistan-vs-colombia/report/549787",
-      "tag": "Report",
+      "headline": "Messi or Mbappe? Which star made the biggest impact during World Cup openers?",
+      "description": "The first round of fixtures at the 2026 World Cup have been and gone, and boy did we see some strong performances.",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-true-performance_7275903.jpg?20260617145214",
+      "link": "https://www.skysports.com/football/news/12040/13555226/world-cup-2026-kylian-mbappe-and-lionel-messi-steal-the-show-after-the-first-round-of-group-stage-fixtures",
+      "tag": "News Story",
       "teams": []
     },
     {
-      "id": "5f8c3392dea3b3014e577a5a7c38d59a",
-      "source": "Sky Sports",
-      "headline": "Colombia vs Uzbekistan: All the big moments & rate players",
-      "description": "",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-munoz-colombia_7276313.jpg?20260618034626",
-      "link": "https://www.skysports.com/football/uzbekistan-vs-colombia/live/549787",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "5fd6c1a8a64fb018f8dc1a82a953be3c",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Reds hijack Newcastle move for Spain winger Munoz",
-      "description": "",
-      "publishedAt": "2026-06-17T23:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49091187,
+      "id": 48955344,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool step up Diomande interest to fend off PSG",
-      "description": "With PSG having an interest in Yan Diomande, Liverpool are accelerating their chase for the RB Leipzig winger. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-17T22:39:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49091187/transfer-rumors-news-real-madrid-look-man-city-defender-dias",
-      "tag": "Paris Saint-Germain",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-06-18T09:48:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0210/r1613090_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
       "teams": [
-        "Paris Saint-Germain",
-        "Liverpool",
-        "RB Leipzig"
-      ]
-    },
-    {
-      "id": "857d8c57c6d3972e46db11c2611089c0",
-      "source": "Sky Sports",
-      "headline": "Ghana vs Panama: All the big moments and rate the players",
-      "description": "",
-      "publishedAt": "2026-06-17T22:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ghana-antoine-semenyo_7276308.jpg?20260618022121",
-      "link": "https://www.skysports.com/football/live-blog/12040/13552265/ghana-vs-panama",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "bd7d2e33ec853aeb6055bb8d969b8f7e",
-      "source": "Sky Sports",
-      "headline": "Tuchel praises 'all-in' Kane and 'team player' Bellingham after Croatia win",
-      "description": "Thomas Tuchel was effusive in his praise of England captain Harry Kane and No 10 Jude Bellingham after the pair helped the Three Lions to victory in their World Cup opener with Croatia.",
-      "publishedAt": "2026-06-17T21:45:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-jude-bellingham_7276222.jpg?20260617221949",
-      "link": "https://www.skysports.com/football/news/12040/13555059/world-cup-2026-england-boss-thomas-tuchel-praises-all-in-harry-kane-and-team-player-jude-bellingham-after-win-over-croatia",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "be2ac66cb53fd4e5996cb459cda02794",
-      "source": "Sky Sports",
-      "headline": "Rangers appoint McInnes as Röhl replacement",
-      "description": "Rangers have appointed Derek McInnes as manager on a three-year-deal after his momentous season in charge of Hearts.",
-      "publishedAt": "2026-06-17T18:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-scottish-premiership_7275620.jpg?20260617093135",
-      "link": "https://www.skysports.com/football/news/12040/13553958/rangers-appoint-derek-mcinnes-as-manager-on-three-year-deal-following-danny-r246hls-departure",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "546e499e14b00f4d4d3853e34b12363f",
-      "source": "Sky Sports",
-      "headline": "England vs Croatia ratings: Kane & Madueke shine but issues at the back",
-      "description": "England opened their 2026 World Cup with a 4-2 victory over Croatia at the Dallas Stadium.",
-      "publishedAt": "2026-06-17T16:47:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-harry-kane_7276285.jpg?20260617235438",
-      "link": "https://www.skysports.com/football/news/12040/13555073/england-4-2-croatia-ratings-harry-kane-and-noni-madueke-shine-but-will-thomas-tuchel-make-changes-in-defence",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49095806,
-      "source": "ESPN",
-      "headline": "Man United have no plans to negotiate new Marcus Rashford loan with Barcelona - sources",
-      "description": "Manchester United have no plans to negotiate a new loan agreement with Barcelona for Marcus Rashford, sources have told ESPN.",
-      "publishedAt": "2026-06-17T15:31:54Z",
-      "image": "https://a.espncdn.com/photo/2025/1030/r1568264_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49095806/manchester-united-marcus-rashford-barcelona-no-plans-negotiate-loan-permanent",
-      "tag": "Manchester United",
-      "teams": [
+        "Arsenal",
+        "Chelsea",
         "Manchester United",
-        "Barcelona",
-        "La Liga AFE"
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
       ]
     },
     {
-      "id": 48990955,
+      "id": 48956684,
       "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-06-17T09:41:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0416/r1644430_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
+      "headline": "Ibrahima Konaté completes switch to Real Madrid from Liverpool",
+      "description": "Ibrahima Konaté has completed his move to Real Madrid from Liverpool.",
+      "publishedAt": "2026-06-18T09:47:26Z",
+      "image": "https://a.espncdn.com/photo/2025/1107/r1572347_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48956684/ibrahima-konate-completes-switch-real-madrid-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49094353,
+      "source": "ESPN",
+      "headline": "Ranking Europe's top clubs by player performance at World Cup",
+      "description": "Bayern, Real Madrid and Liverpool players have impressed, but which clubs around the world have had the best players in the tournament after one game?",
+      "publishedAt": "2026-06-18T09:42:24Z",
+      "image": "https://a.espncdn.com/photo/2025/1122/r1579044_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49094353/ranking-europe-top-clubs-player-performance-world-cup-bayern-real-madrid-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": "1b69b0a22a2c63ff40f2762b73e89959",
+      "source": "Sky Sports",
+      "headline": "Ten players who've caught the eye in the first week of the World Cup",
+      "description": "Believe it or not, the first round of group games at the 2026 World Cup is complete.",
+      "publishedAt": "2026-06-18T09:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-ivory-coast_7275822.jpg?20260617124916",
+      "link": "https://www.skysports.com/football/news/12040/13554246/world-cup-2026-xxxx-among-players-to-have-caught-the-eye-in-the-first-week-of-the-tournament",
+      "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-06-18T07:28:05Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
     },
     {
       "id": 48709856,
       "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are going?",
+      "headline": "World Cup 2026: Which players from your Premier League team are there?",
       "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-17T06:51:08Z",
+      "publishedAt": "2026-06-18T07:21:06Z",
       "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
       "tag": "Arsenal",
@@ -152,36 +144,61 @@
       ]
     },
     {
-      "id": 48955344,
+      "id": 49104448,
       "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-06-17T06:42:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0210/r1613090_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
+      "headline": "Transfer rumors, news: Liverpool and Chelsea keen on star Sweden midfielder",
+      "description": "Liverpool and Chelsea are both tracking Brighton midfielder Yasin Ayari. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-18T06:56:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673453_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49104448/transfer-rumors-news-liverpool-chelsea-keen-star-sweden-midfielder",
+      "tag": "Liverpool",
       "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
         "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
         "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
+        "Chelsea",
+        "Sweden"
       ]
+    },
+    {
+      "id": 49091187,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool step up Diomande interest to fend off PSG",
+      "description": "With PSG having an interest in Yan Diomande, Liverpool are accelerating their chase for the RB Leipzig winger. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-17T22:39:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49091187/transfer-rumors-news-real-madrid-look-man-city-defender-dias",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Liverpool",
+        "RB Leipzig"
+      ]
+    },
+    {
+      "id": 49095806,
+      "source": "ESPN",
+      "headline": "Man United have no plans to negotiate new Marcus Rashford loan with Barcelona - sources",
+      "description": "Manchester United have no plans to negotiate a new loan agreement with Barcelona for Marcus Rashford, sources have told ESPN.",
+      "publishedAt": "2026-06-17T15:31:54Z",
+      "image": "https://a.espncdn.com/photo/2025/1030/r1568264_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49095806/manchester-united-marcus-rashford-barcelona-no-plans-negotiate-loan-permanent",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Barcelona",
+        "La Liga AFE"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-06-17T09:41:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0416/r1644430_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
     },
     {
       "id": 49080057,
@@ -262,34 +279,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When does it open, when is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-16T06:53:22Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
       ]
     },
     {
@@ -504,51 +493,20 @@
       ]
     },
     {
-      "id": 49038387,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Could Roma's Koné make move to Arsenal?",
-      "description": "Arsenal are reportedly interested in a move for AS Roma midfielder Manu Koné. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-12T22:51:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1672114_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
-      "tag": "AS Roma",
-      "teams": [
-        "AS Roma",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49041224,
-      "source": "ESPN",
-      "headline": "Brighton make £30m offer for Tottenham defender Luka Vuskovic - sources",
-      "description": "Brighton & Hove Albion have made a £30 million ($40.2m) offer for Tottenham Hotspur defender Luka Vuskovic, sources have told ESPN.",
-      "publishedAt": "2026-06-12T16:18:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1671919_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49041224/luka-vuskovic-brighton-30m-bid-spurs-defender-tottenham-croatia",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Brighton & Hove Albion",
-        "Croatia"
-      ]
-    },
-    {
-      "id": 49040627,
-      "source": "ESPN",
-      "headline": "Michael Carrick gave Man United 'another energy' - Paul Pogba",
-      "description": "Paul Pogba has told ESPN that Michael Carrick gave fresh \"energy\" to the Manchester United players this season.",
-      "publishedAt": "2026-06-12T14:46:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1671877_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49040627/michael-carrick-gave-man-united-another-energy-paul-pogba",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
+      "id": "9062c578430edd3ef4651607f9f956e7",
+      "source": "Sky Sports",
+      "headline": "England's routes to 2026 World Cup final",
+      "description": "England's World Cup has begun - but what is their path to potential glory?",
+      "publishedAt": "2025-12-05T19:00:00.000Z",
+      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-england-world-cup-26_7102088.jpg?20251205173549",
+      "link": "https://www.skysports.com/football/news/12040/13479783/englands-world-cup-2026-fixtures-schedule-and-tournament-route-to-final-how-three-lions-could-lift-trophy-on-july-19",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-18T05:00:24.686Z"
+    "cachedAt": "2026-06-18T10:45:47.925Z"
   }
 }
