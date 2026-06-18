@@ -2,13 +2,68 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "562dc0809eaed039c7a713d59b01dbd4",
+      "id": 49104448,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool and Chelsea keen on star Sweden midfielder",
+      "description": "Liverpool and Chelsea are both tracking Brighton midfielder Yasin Ayari. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-18T12:56:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673453_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49104448/transfer-rumors-news-liverpool-chelsea-keen-star-sweden-midfielder",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Sweden"
+      ]
+    },
+    {
+      "id": 49094353,
+      "source": "ESPN",
+      "headline": "Ranking Europe's top clubs by player performance at World Cup",
+      "description": "Bayern, Real Madrid and Liverpool players have impressed, but which clubs around the world have had the best players in the tournament after one game?",
+      "publishedAt": "2026-06-18T12:41:46Z",
+      "image": "https://a.espncdn.com/photo/2025/1122/r1579044_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49094353/ranking-europe-top-clubs-player-performance-world-cup-bayern-real-madrid-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": 49105297,
+      "source": "ESPN",
+      "headline": "Faster than Mbappé: Is Muñoz Liverpool's answer to replacing Salah?",
+      "description": "Osasuna winger Victor Muñoz offers width, explosive pace and the ability to beat a man. But can he make the step up at Liverpool?",
+      "publishedAt": "2026-06-18T11:23:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675383_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49105297/faster-mbappe-victor-munoz-liverpool-answer-replacing-mo-salah",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Osasuna"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-06-18T11:19:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0416/r1644430_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "61f339da091a97481956d757f232a066",
       "source": "Sky Sports",
-      "headline": "Messi or Mbappe? Which star made the biggest impact during World Cup openers?",
-      "description": "The first round of fixtures at the 2026 World Cup have been and gone, and boy did we see some strong performances.",
+      "headline": "Home nations and ROI learn World Cup play-off opponents",
+      "description": "England will face Greece in the first round of the World Cup qualification play-offs as Sarina Wiegman's side look to book their place at the 2027 World Cup.",
       "publishedAt": "2026-06-18T10:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-true-performance_7275903.jpg?20260617145214",
-      "link": "https://www.skysports.com/football/news/12040/13555226/world-cup-2026-kylian-mbappe-and-lionel-messi-steal-the-show-after-the-first-round-of-group-stage-fixtures",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-lauren-hemp-england-women_7220271.jpg?20260414210108",
+      "link": "https://www.skysports.com/football/news/12040/13555247/womens-world-cup-play-off-draw-england-scotland-wales-northern-ireland-and-republic-of-ireland-learn-opponents",
       "tag": "News Story",
       "teams": []
     },
@@ -57,31 +112,6 @@
         "Liverpool",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 49094353,
-      "source": "ESPN",
-      "headline": "Ranking Europe's top clubs by player performance at World Cup",
-      "description": "Bayern, Real Madrid and Liverpool players have impressed, but which clubs around the world have had the best players in the tournament after one game?",
-      "publishedAt": "2026-06-18T09:42:24Z",
-      "image": "https://a.espncdn.com/photo/2025/1122/r1579044_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49094353/ranking-europe-top-clubs-player-performance-world-cup-bayern-real-madrid-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Bayern Munich"
-      ]
-    },
-    {
-      "id": "1b69b0a22a2c63ff40f2762b73e89959",
-      "source": "Sky Sports",
-      "headline": "Ten players who've caught the eye in the first week of the World Cup",
-      "description": "Believe it or not, the first round of group games at the 2026 World Cup is complete.",
-      "publishedAt": "2026-06-18T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-ivory-coast_7275822.jpg?20260617124916",
-      "link": "https://www.skysports.com/football/news/12040/13554246/world-cup-2026-xxxx-among-players-to-have-caught-the-eye-in-the-first-week-of-the-tournament",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -144,22 +174,6 @@
       ]
     },
     {
-      "id": 49104448,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool and Chelsea keen on star Sweden midfielder",
-      "description": "Liverpool and Chelsea are both tracking Brighton midfielder Yasin Ayari. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-18T06:56:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673453_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49104448/transfer-rumors-news-liverpool-chelsea-keen-star-sweden-midfielder",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Sweden"
-      ]
-    },
-    {
       "id": 49091187,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool step up Diomande interest to fend off PSG",
@@ -190,14 +204,14 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-06-17T09:41:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0416/r1644430_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
+      "id": "b0a6504dfd317beb180bf6ae2edd6db5",
+      "source": "Sky Sports",
+      "headline": "Most distance covered? Highest top speed? World Cup heat impact revealed",
+      "description": "After the conclusion of the first round of World Cup group games, Between the Lines reveals the numbers behind how teams and players have handled the hot conditions so far.",
+      "publishedAt": "2026-06-17T11:26:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-between-the-lines_7276486.jpg?20260618102957",
+      "link": "https://www.skysports.com/football/news/12040/13554968/who-has-coped-best-with-world-cup-conditions-michael-olise-stands-out-for-france-as-england-benefit-from-air-conditioning-between-the-lines",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -476,37 +490,11 @@
       "teams": [
         "West Ham United"
       ]
-    },
-    {
-      "id": 49041439,
-      "source": "ESPN",
-      "headline": "Sir David Beckham honoured with star on Hollywood Walk of Fame",
-      "description": "Sir David Beckham has become the first footballer to receive a star on the Hollywood Walk of Fame.",
-      "publishedAt": "2026-06-13T12:45:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1672129_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49041439/england-sir-david-beckham-honoured-hollywood-walk-fame",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "England",
-        "Inter Miami CF"
-      ]
-    },
-    {
-      "id": "9062c578430edd3ef4651607f9f956e7",
-      "source": "Sky Sports",
-      "headline": "England's routes to 2026 World Cup final",
-      "description": "England's World Cup has begun - but what is their path to potential glory?",
-      "publishedAt": "2025-12-05T19:00:00.000Z",
-      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-england-world-cup-26_7102088.jpg?20251205173549",
-      "link": "https://www.skysports.com/football/news/12040/13479783/englands-world-cup-2026-fixtures-schedule-and-tournament-route-to-final-how-three-lions-could-lift-trophy-on-july-19",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-18T10:45:47.925Z"
+    "cachedAt": "2026-06-18T15:51:01.868Z"
   }
 }
