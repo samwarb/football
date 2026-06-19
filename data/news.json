@@ -2,6 +2,54 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "ca3d84dd1d96134f24bf24a38930780b",
+      "source": "Sky Sports",
+      "headline": "Mexico beat South Korea to become first nation to earn WC knockout spot",
+      "description": "Mexico became the first nation to secure a spot in the World Cup round of 32 and they can thank a Seung-Gyu Kim goalkeeping error as South Korea were beaten 1-0 in Guadalajara.",
+      "publishedAt": "2026-06-19T03:10:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mexico-romo-south-korea_7277344.jpg?20260619032135",
+      "link": "https://www.skysports.com/football/mexico-vs-korea-republic/report/549793",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49111773,
+      "source": "ESPN",
+      "headline": "Antoine Semenyo says Ghana players want to 'prove a point' against England at FIFA World Cup",
+      "description": "After their dramatic 1-0 victory over Panama on Wednesday night, Antoine Semenyo says Ghana will head into their FIFA World Cup showdown with England looking to 'prove a point'.",
+      "publishedAt": "2026-06-18T22:22:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675778_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49111773/antoine-semenyo-says-ghana-players-want-prove-point-england-fifa-world-cup",
+      "tag": "Ghana",
+      "teams": [
+        "Ghana",
+        "Manchester City",
+        "England"
+      ]
+    },
+    {
+      "id": "231707ea6af74f6e163655f649718db6",
+      "source": "Sky Sports",
+      "headline": "Papers: Liverpool target £86m star",
+      "description": "The top stories and transfer rumours from Friday's newspapers...",
+      "publishedAt": "2026-06-18T22:05:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "068df08b5ebe820bfb98904885d8e134",
+      "source": "Sky Sports",
+      "headline": "Scotland's chance to re-write painful Morocco memories and make history",
+      "description": "Morocco. A country, a team mentioned so much by Scotland fans despite only playing them once.",
+      "publishedAt": "2026-06-18T21:47:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-graphic-reporter-notebook_7277244.png?20260618234017",
+      "link": "https://www.skysports.com/football/news/12040/13555557/scotland-vs-morocco-steve-clarkes-side-can-rewrite-painful-memories-of-10000-day-world-cup-wait-by-making-history",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49104448,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, Liverpool to battle for France winger Barcola",
@@ -31,17 +79,6 @@
       ]
     },
     {
-      "id": "3d70ba912387abdef41f75f1897cc38f",
-      "source": "Sky Sports",
-      "headline": "Neville: France still favourites despite England display",
-      "description": "Gary Neville believes England produced the best football of the World Cup so far in their second-half display against Croatia, but remains unconvinced that Thomas Tuchel's side should be considered favourites for the tournament.",
-      "publishedAt": "2026-06-18T20:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-harry-kane_7276287.jpg?20260617235603",
-      "link": "https://www.skysports.com/football/news/12040/13555508/world-cup-2026-england-played-tournaments-best-football-says-gary-neville-but-france-remain-favourites",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -57,7 +94,7 @@
       "source": "Sky Sports",
       "headline": "Tuchel: Saka unlikely to start against Ghana",
       "description": "Thomas Tuchel says Bukayo Saka will be nursed through the next week of training but is unlikely to start for England until the final World Cup group game against Panama.",
-      "publishedAt": "2026-06-18T19:00:00.000Z",
+      "publishedAt": "2026-06-18T19:01:00.000Z",
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-bukayo-saka-england_7276927.jpg?20260618175044",
       "link": "https://www.skysports.com/football/news/12040/13555396/world-cup-2026-bukayo-saka-unlikely-to-start-for-england-until-panama-game-thomas-tuchel-says",
       "tag": "News Story",
@@ -76,28 +113,6 @@
         "Real Madrid",
         "Chelsea"
       ]
-    },
-    {
-      "id": "5342bc7f25e422a0b9d2792faf9c260d",
-      "source": "Sky Sports",
-      "headline": "Clarke: Underdog tag will bring best out of Scotland vs Morocco",
-      "description": "Steve Clarke believes Scotland are often at their best when expectations are against them as they prepare for a World Cup showdown with Morocco.",
-      "publishedAt": "2026-06-18T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-steve-clarke_7277020.jpg?20260618191811",
-      "link": "https://www.skysports.com/football/news/12040/13555452/scotland-at-world-cup-steve-clarke-says-his-side-are-more-comfortable-as-underdogs-ahead-of-morocco-match",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "7f6ef8579bc46e9148b1e805ec8fca3b",
-      "source": "Sky Sports",
-      "headline": "Late penalty gifts South Africa first point against wasteful Czech Republic",
-      "description": "Teboho Mokoena's late penalty gifted South Africa their first point of the World Cup after wasteful Czech Republic failed to make their chances pay in a 1-1 draw in Atlanta.",
-      "publishedAt": "2026-06-18T17:45:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-teboho-mokoena-south-africa_7277002.jpg?20260618190224",
-      "link": "https://www.skysports.com/football/czech-republic-vs-south-africa/report/549790",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49108300,
@@ -286,17 +301,6 @@
         "Barcelona",
         "La Liga AFE"
       ]
-    },
-    {
-      "id": "606b3df814902a72c69c13278dd5d184",
-      "source": "Sky Sports",
-      "headline": "EFL latest: Wrexham interested in departing Newcastle chief",
-      "description": "",
-      "publishedAt": "2026-06-17T14:40:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-peter-cklamovski_7276452.png?20260618091856",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49080057,
@@ -522,23 +526,31 @@
       ]
     },
     {
-      "id": 49054632,
-      "source": "ESPN",
-      "headline": "De Bruyne excited to 'compete like old times' with Salah at World Cup",
-      "description": "De Bruyne excited to 'compete like old times' with Salah at World Cup",
-      "publishedAt": "2026-06-14T00:09:50Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0613/dm_260613_COM_SOC_Presser_De_Bruyne_excited_to_compete_like_old_times_with_Salah_at_World_Cup_20260613_G/dm_260613_COM_SOC_Presser_De_Bruyne_excited_to_compete_like_old_times_with_Salah_at_World_Cup_20260613_G.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49054632/de-bruyne-excited-compete-old-s-salah-world-cup",
-      "tag": "Belgium",
-      "teams": [
-        "Belgium",
-        "Egypt"
-      ]
+      "id": "58e100db45d1678a4e29297949e1c2be",
+      "source": "Sky Sports",
+      "headline": "Canada vs Qatar: The key moments and rate the players",
+      "description": "",
+      "publishedAt": "2026-06-13T10:30:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-canada-qatar_7277236.jpg?20260618232401",
+      "link": "https://www.skysports.com/football/canada-vs-qatar/live/549792",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "37e65788595de3a6db4bfb98cffdb38d",
+      "source": "Sky Sports",
+      "headline": "Premier League ins and outs - the confirmed deals so far...",
+      "description": "The summer transfer window opened on June 15 and closes at 11pm UK time on September 1. Find out who is on the move across the Premier League.",
+      "publishedAt": "2026-05-25T17:00:00.000Z",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-transfer-ins-outs_7152975.jpg?20260202081247",
+      "link": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-18T20:37:21.105Z"
+    "cachedAt": "2026-06-19T05:22:43.685Z"
   }
 }
