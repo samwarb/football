@@ -2,6 +2,20 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49117473,
+      "source": "ESPN",
+      "headline": "Arsenal to bid again for Leicester teen Jeremy Monga after first offer rejected - sources",
+      "description": "Arsenal are planning to return with an improved offer for Leicester City teenager Jeremy Monga after having an opening bid rejected, sources have told ESPN.",
+      "publishedAt": "2026-06-19T16:08:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0413/r1642705_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49117473/arsenal-leicester-jeremy-monga-transfers",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Leicester City"
+      ]
+    },
+    {
       "id": 49082981,
       "source": "ESPN",
       "headline": "Premier League fixtures: When are 2026-27's biggest games?",
@@ -288,14 +302,14 @@
       ]
     },
     {
-      "id": "3bef87d20e5704c11ad94c9694b1d0a8",
+      "id": "9a2b37db6550229f0b1c5f778c0771d9",
       "source": "Sky Sports",
-      "headline": "Arsenal kick off 2026/27 Premier League season vs Coventry - live on Sky",
-      "description": "Defending champions Arsenal will kick off the 2026/27 Premier League season at home to Coventry on Friday August 21, live on Sky Sports.",
-      "publishedAt": "2026-06-19T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270618.jpg?20260611102640",
-      "link": "https://www.skysports.com/football/news/12040/13555675/premier-league-2026-27-fixtures-dates-schedule-arsenal-face-coventry-and-liverpool-at-newcastle-in-opening-round",
-      "tag": "News Story",
+      "headline": "Leeds latest: Club working on deals for Fulham's Wilson and Brandt",
+      "description": "",
+      "publishedAt": "2026-06-19T09:09:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-leeds-news-club-blog_7039256.jpg?20251002160345",
+      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -406,17 +420,6 @@
       ]
     },
     {
-      "id": "4208687593cec28f6368952609dafef6",
-      "source": "Sky Sports",
-      "headline": "Leeds snatch statement win against Warrington",
-      "description": "Highlights of the Super League match between Warrington Wolves and Leeds Rhinos.",
-      "publishedAt": "2026-06-18T20:59:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/sky-sports-super-league-warrington-wolves_7277164.jpg?20260618220245",
-      "link": "https://www.skysports.com/watch/video/13555533/warrington-wolves-6-34-leeds-rhinos-super-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49104448,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, Liverpool to battle for France winger Barcola",
@@ -470,20 +473,6 @@
       ]
     },
     {
-      "id": 49094353,
-      "source": "ESPN",
-      "headline": "Ranking Europe's top clubs by player performance at World Cup",
-      "description": "Bayern, Real Madrid and Liverpool players have impressed, but which clubs around the world have had the best players in the tournament after one game?",
-      "publishedAt": "2026-06-18T12:41:46Z",
-      "image": "https://a.espncdn.com/photo/2025/1122/r1579044_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49094353/ranking-europe-top-clubs-player-performance-world-cup-bayern-real-madrid-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Bayern Munich"
-      ]
-    },
-    {
       "id": 49105297,
       "source": "ESPN",
       "headline": "Faster than Mbappé: Is Muñoz Liverpool's answer to replacing Salah?",
@@ -496,17 +485,6 @@
         "Liverpool",
         "Osasuna"
       ]
-    },
-    {
-      "id": "bc756b4713eb77f4b4bf46e2e1897b83",
-      "source": "Sky Sports",
-      "headline": "Gannon rejoinng Leeds after single year in NRL",
-      "description": "",
-      "publishedAt": "2026-06-18T11:20:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-leeds-rhinos-super-league_7277576.jpg?20260619105304",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48956684,
@@ -526,6 +504,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-19T15:40:20.511Z"
+    "cachedAt": "2026-06-19T20:01:52.547Z"
   }
 }
