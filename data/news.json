@@ -2,15 +2,375 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "ca3d84dd1d96134f24bf24a38930780b",
-      "source": "Sky Sports",
-      "headline": "Mexico beat South Korea to become first nation to earn WC knockout spot",
-      "description": "Mexico became the first nation to secure a spot in the World Cup round of 32 and they can thank a Seung-Gyu Kim goalkeeping error as South Korea were beaten 1-0 in Guadalajara.",
-      "publishedAt": "2026-06-19T03:10:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mexico-romo-south-korea_7277344.jpg?20260619032135",
-      "link": "https://www.skysports.com/football/mexico-vs-korea-republic/report/549793",
-      "tag": "Report",
+      "id": 48991120,
+      "source": "ESPN",
+      "headline": "Transfer big board: Best players in each position who could move this summer",
+      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
+      "publishedAt": "2026-06-19T10:35:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
+      "tag": "Story",
       "teams": []
+    },
+    {
+      "id": 49114892,
+      "source": "ESPN",
+      "headline": "Liverpool Premier League fixtures 2026-27: Andoni Iraola tenure to begin with daunting trip to Newcastle",
+      "description": "Newly-appointed Liverpool manager Andoni Iraola will kick start his new role in the dugout away to Newcastle on the opening weekend of the Premier League season.",
+      "publishedAt": "2026-06-19T10:29:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655680_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114892/liverpool-premier-league-fixtures-2026-27-andoni-iraola-newcastle-everton-manchester-united",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49115623,
+      "source": "ESPN",
+      "headline": "Liverpool's key fixtures for the upcoming Premier League season",
+      "description": "Liverpool's key fixtures for the upcoming Premier League season.",
+      "publishedAt": "2026-06-19T10:28:55Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0619/dm_260619_Liverpools_key_fixtures_for_the_upcoming_Premier_League_season/dm_260619_Liverpools_key_fixtures_for_the_upcoming_Premier_League_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49115623/liverpool-key-fixtures-upcoming-premier-league-season",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49114962,
+      "source": "ESPN",
+      "headline": "Newcastle Premier League fixtures 2026-27: Liverpool visit St. James' Park in tricky opener",
+      "description": "Newcastle will be hoping to get their Premier League campaign off to a flyer at home to Liverpool.",
+      "publishedAt": "2026-06-19T10:20:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675975_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114962/newcastle-premier-league-fixtures-2026-27-liverpool-visit-st-james-park-tricky-opener-tottenham-eddie-howe",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49115208,
+      "source": "ESPN",
+      "headline": "Chelsea Premier League fixtures 2026-27: Xabi Alonso begins reign with London derby",
+      "description": "Xabi Alonso will begin his tenure as Chelsea manager with a London derby against Fulham on the first Monday of the 2026-27 Premier League season.",
+      "publishedAt": "2026-06-19T10:15:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49115208/chelsea-premier-league-fixtures-2026-27-xabi-alonso-begins-reign-london-derby-fulham-arsenal-brighton",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49115051,
+      "source": "ESPN",
+      "headline": "Manchester City Premier League fixtures 2026-27: Post-Pep Guardiola era begins against Bournemouth",
+      "description": "Manchester City begin life after Pep Guardiola at home to Bournemouth as they look to return to regain the Premier League title.",
+      "publishedAt": "2026-06-19T10:14:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0513/r1657766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49115051/manchester-city-premier-league-fixtures-2026-27-pep-guardiola-bournemouth-manchester-united-liverpool-arsenal",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49115532,
+      "source": "ESPN",
+      "headline": "Manchester City's key fixtures for the upcoming Premier League season",
+      "description": "Manchester City's key fixtures for the upcoming Premier League season.",
+      "publishedAt": "2026-06-19T10:09:29Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0619/dm_260619_Manchester_Citys_key_fixtures_for_the_upcoming_Premier_League_season/dm_260619_Manchester_Citys_key_fixtures_for_the_upcoming_Premier_League_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49115532/manchester-city-key-fixtures-upcoming-premier-league-season",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49114842,
+      "source": "ESPN",
+      "headline": "Arsenal Premier League fixtures 2026-27: Gunners begin title defence against Coventry",
+      "description": "Arsenal will get their Premier League title defence under way when they host Coventry City on the opening week of the new season.",
+      "publishedAt": "2026-06-19T10:08:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114842/arsenal-premier-league-fixtures-2026-27-gunners-begin-title-defence-coventry-city-mikel-arteta",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b00f9ba634f3c514d3baa9d74b18258a",
+      "source": "Sky Sports",
+      "headline": "Why Man Utd have 'easiest' start to new season... and Spurs' horror run in!",
+      "description": "Sky Sports' David Reed explains why Manchester United statistically have the easiest start to the season and why Spurs fans might be concerned by their run in.",
+      "publishedAt": "2026-06-19T10:08:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-man-utd-premier-league_7277615.jpg?20260619112001",
+      "link": "https://www.skysports.com/watch/video/13555721/premier-league-fixtures-why-manchester-united-have-easiest-start-to-the-season-and-tottenham-hotspurs-horror-run-in",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 49114814,
+      "source": "ESPN",
+      "headline": "Tottenham Premier League fixtures 2026-27: Roberto De Zerbi's team face tough end to season",
+      "description": "Tottenham begin their 2026-27 Premier League season with a trip across London to face Brentford, and face a daunting-looking end to their campaign.",
+      "publishedAt": "2026-06-19T10:07:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675963_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114814/tottenham-premier-league-fixtures-2026-27-roberto-de-zerbi-team-face-tough-end-season",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49114849,
+      "source": "ESPN",
+      "headline": "Premier League fixtures 2026-27: Arsenal start against Coventry, Newcastle host Liverpool",
+      "description": "Arsenal will begin their Premier League title defence against newly-promoted Coventry City, while Liverpool travel to face Newcastle in the pick of the opening-day fixtures.",
+      "publishedAt": "2026-06-19T10:00:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675980_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114849/premier-league-fixtures-2026-27-arsenal-coventry-city-newcastle-united-liverpool-manchester-united-manchester-city-liverpool-tottenham-hotspur",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City",
+        "Manchester United",
+        "Aston Villa",
+        "Liverpool",
+        "AFC Bournemouth",
+        "Sunderland",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Chelsea",
+        "Fulham",
+        "Newcastle United",
+        "Everton",
+        "Leeds United",
+        "Crystal Palace",
+        "Nottingham Forest",
+        "Tottenham Hotspur",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49115294,
+      "source": "ESPN",
+      "headline": "Aston Villa Premier League fixtures 2026-27: Europa League winners travel to Brighton first up",
+      "description": "Aston Villa will begin their first Premier League season as Europa League champions away at Brighton.",
+      "publishedAt": "2026-06-19T09:53:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1661127_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49115294/aston-villa-premier-league-fixtures-2026-27-europa-league-winners-travel-brighton-arsenal-hull",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49114816,
+      "source": "ESPN",
+      "headline": "Man United Premier League fixtures 2026-27: Hull City first up for Michael Carrick's side",
+      "description": "Manchester United will host newly-promoted Hull City at Old Trafford on the opening day of the 2026-27 Premier League season.",
+      "publishedAt": "2026-06-19T09:44:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675967_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114816/man-united-premier-league-fixtures-2026-27-hull-city-first-michael-carrick-co",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49082662,
+      "source": "ESPN",
+      "headline": "Premier League fixtures schedule 2026-27 in full",
+      "description": "Check out the full fixture list for the 2026-27 Premier League season.",
+      "publishedAt": "2026-06-19T09:39:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664916_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49082662/premier-league-fixtures-schedule-2026-27-full",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Manchester City",
+        "Crystal Palace",
+        "Arsenal",
+        "Liverpool",
+        "Aston Villa",
+        "West Ham United",
+        "Newcastle United",
+        "Tottenham Hotspur",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Wolverhampton Wanderers",
+        "AFC Bournemouth",
+        "Nottingham Forest",
+        "Fulham",
+        "Leeds United",
+        "Sunderland",
+        "Burnley"
+      ]
+    },
+    {
+      "id": 49082981,
+      "source": "ESPN",
+      "headline": "Premier League fixtures: When are 2026-27's biggest games?",
+      "description": "The fixtures for the 2026-27 Premier League season are out! Which title contenders have the toughest start, and where could the trophy be lifted?",
+      "publishedAt": "2026-06-19T09:39:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0526/r1664094_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49082981/premier-league-2026-27-fixtures-arsenal-chelsea-liverpool-manchester-city-manchester-united-tottenham-hotspur",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49115430,
+      "source": "ESPN",
+      "headline": "Key fixtures in the 2026/27 Premier League season",
+      "description": "Key fixtures in the 2026/27 Premier League season.",
+      "publishedAt": "2026-06-19T09:33:23Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0619/dm_260619_Key_fixtures_in_the_2026_27_Premier_League_season/dm_260619_Key_fixtures_in_the_2026_27_Premier_League_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49115430/key-fixtures-2026-27-premier-league-season",
+      "tag": "Media",
+      "teams": []
+    },
+    {
+      "id": 49115237,
+      "source": "ESPN",
+      "headline": "Arsenal's key fixtures in their Premier League title defence",
+      "description": "Arsenal's key fixtures in their Premier League title defence.",
+      "publishedAt": "2026-06-19T09:29:56Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0619/dm_260619_Arsenals_key_fixtures_in_their_Premier_League_title_defence/dm_260619_Arsenals_key_fixtures_in_their_Premier_League_title_defence.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49115237/arsenal-key-fixtures-their-premier-league-title-defence",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3bef87d20e5704c11ad94c9694b1d0a8",
+      "source": "Sky Sports",
+      "headline": "Arsenal kick off 2026/27 Premier League season vs Coventry - live on Sky",
+      "description": "Defending champions Arsenal will kick off the 2026/27 Premier League season at home to Coventry on Friday August 21, live on Sky Sports.",
+      "publishedAt": "2026-06-19T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270618.jpg?20260611102640",
+      "link": "https://www.skysports.com/football/news/12040/13555675/premier-league-2026-27-fixtures-dates-schedule-arsenal-face-coventry-and-liverpool-at-newcastle-in-opening-round",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "9968cd18321c4bafcd2ea22b61240f5f",
+      "source": "Sky Sports",
+      "headline": "HERE THEY ARE: Premier League 2026/27 fixtures revealed LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-19T08:33:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270616.jpg?20260611102432",
+      "link": "https://www.skysports.com/football/live-blog/12040/13555689/premier-league-2026-27-fixtures-release-day-live-every-clubs-opening-weekend-final-weekend-boxing-day-games-and-more",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-06-19T06:58:21Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-06-19T06:56:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0210/r1613090_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 48709856,
+      "source": "ESPN",
+      "headline": "World Cup 2026: Which players from your Premier League team are there?",
+      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
+      "publishedAt": "2026-06-19T06:52:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Manchester City",
+        "Sunderland",
+        "Aston Villa",
+        "Manchester United",
+        "Liverpool",
+        "Crystal Palace",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Everton",
+        "Fulham",
+        "Leeds United",
+        "Nottingham Forest",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
     },
     {
       "id": 49111773,
@@ -28,25 +388,14 @@
       ]
     },
     {
-      "id": "231707ea6af74f6e163655f649718db6",
+      "id": "4208687593cec28f6368952609dafef6",
       "source": "Sky Sports",
-      "headline": "Papers: Liverpool target £86m star",
-      "description": "The top stories and transfer rumours from Friday's newspapers...",
-      "publishedAt": "2026-06-18T22:05:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "068df08b5ebe820bfb98904885d8e134",
-      "source": "Sky Sports",
-      "headline": "Scotland's chance to re-write painful Morocco memories and make history",
-      "description": "Morocco. A country, a team mentioned so much by Scotland fans despite only playing them once.",
-      "publishedAt": "2026-06-18T21:47:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-graphic-reporter-notebook_7277244.png?20260618234017",
-      "link": "https://www.skysports.com/football/news/12040/13555557/scotland-vs-morocco-steve-clarkes-side-can-rewrite-painful-memories-of-10000-day-world-cup-wait-by-making-history",
-      "tag": "News Story",
+      "headline": "Leeds snatch statement win against Warrington",
+      "description": "Highlights of the Super League match between Warrington Wolves and Leeds Rhinos.",
+      "publishedAt": "2026-06-18T20:59:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/sky-sports-super-league-warrington-wolves_7277164.jpg?20260618220245",
+      "link": "https://www.skysports.com/watch/video/13555533/warrington-wolves-6-34-leeds-rhinos-super-league-highlights",
+      "tag": "Video",
       "teams": []
     },
     {
@@ -90,17 +439,6 @@
       "teams": []
     },
     {
-      "id": "da0b58eed52d3b511c2a3a7037f1e863",
-      "source": "Sky Sports",
-      "headline": "Tuchel: Saka unlikely to start against Ghana",
-      "description": "Thomas Tuchel says Bukayo Saka will be nursed through the next week of training but is unlikely to start for England until the final World Cup group game against Panama.",
-      "publishedAt": "2026-06-18T19:01:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-bukayo-saka-england_7276927.jpg?20260618175044",
-      "link": "https://www.skysports.com/football/news/12040/13555396/world-cup-2026-bukayo-saka-unlikely-to-start-for-england-until-panama-game-thomas-tuchel-says",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49108882,
       "source": "ESPN",
       "headline": "Real Madrid admire Chelsea's Enzo Fernández, looking at midfield options - sources",
@@ -126,17 +464,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "f9901f5e6ec510b69eb6e7c81dbe116b",
-      "source": "Sky Sports",
-      "headline": "Spurs latest: New signing Van Hecke opens up on Spurs move",
-      "description": "",
-      "publishedAt": "2026-06-18T15:00:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49094353,
@@ -167,36 +494,15 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-06-18T09:48:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0210/r1613090_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
+      "id": "bc756b4713eb77f4b4bf46e2e1897b83",
+      "source": "Sky Sports",
+      "headline": "Gannon rejoinng Leeds after single year in NRL",
+      "description": "",
+      "publishedAt": "2026-06-18T11:20:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-leeds-rhinos-super-league_7277576.jpg?20260619105304",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48956684,
@@ -210,66 +516,6 @@
       "teams": [
         "Liverpool",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-18T07:28:05Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are there?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-18T07:21:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
       ]
     },
     {
@@ -301,256 +547,11 @@
         "Barcelona",
         "La Liga AFE"
       ]
-    },
-    {
-      "id": 49080057,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea eye move for Palace's Lacroix",
-      "description": "Chelsea are looking to strengthen their defense this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-17T01:30:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674507_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49080057/transfer-rumors-news-tottenham-join-arsenal-manchester-city-race-newcastle-sandro-tonali",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49083813,
-      "source": "ESPN",
-      "headline": "Tottenham agree £52m deal to sign Brighton's Jan Paul Van Hecke - sources",
-      "description": "Tottenham have agreed a £52 million ($69.8m) deal to sign Jan Paul van Hecke from Brighton, sources have told ESPN.",
-      "publishedAt": "2026-06-16T17:52:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674214_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49083813/tottenham-agree-52m-deal-sign-brighton-jan-paul-van-hecke-sources-transfers",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 49083627,
-      "source": "ESPN",
-      "headline": "Tottenham in race to sign Sandro Tonali from Newcastle - sources",
-      "description": "Tottenham have entered the race to sign Sandro Tonali but Newcastle may demand a fee in the region of £100million, sources have told ESPN.",
-      "publishedAt": "2026-06-16T17:34:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0326/r1634287_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49083627/tottenham-race-sign-sandro-tonali-newcastle-sources",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49082374,
-      "source": "ESPN",
-      "headline": "Man Utd set £40m valuation on Marcus Rashford but Liverpool and Man City cannot trigger release clause - sources",
-      "description": "Manchester United have set a £40 million transfer valuation on Marcus Rashford sources have told ESPN.",
-      "publishedAt": "2026-06-16T15:36:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674090_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49082374/man-utd-marcus-rashford-valuation-barcelona-man-city-liverpool",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 49082492,
-      "source": "ESPN",
-      "headline": "Why are Manchester United interested in Crysencio Summerville?",
-      "description": "Why are Manchester United interested in Crysencio Summerville?",
-      "publishedAt": "2026-06-16T15:04:43Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0616/dm_260616_Why_are_Manchester_United_interested_in_Crysencio_Summerville/dm_260616_Why_are_Manchester_United_interested_in_Crysencio_Summerville.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49082492/why-manchester-united-interested-crysencio-summerville",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49082386,
-      "source": "ESPN",
-      "headline": "Robson: Rashford return to Manchester United would be 'difficult'",
-      "description": "Robson: Rashford return to Manchester United would be 'difficult'",
-      "publishedAt": "2026-06-16T14:53:10Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0616/dm_260616_Robson_Rashford_return_to_Manchester_United_would_be_difficult/dm_260616_Robson_Rashford_return_to_Manchester_United_would_be_difficult.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49082386/rashford-return-manchester-united-difficult",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49040890,
-      "source": "ESPN",
-      "headline": "'Finally': Norway star Erling Haaland on fulfilling World Cup dream",
-      "description": "Erling Haaland tells ESPN he is ready to make his World Cup debut and show his love for Norway on football's biggest stage.",
-      "publishedAt": "2026-06-15T16:38:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1672014_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49040890/world-cup-norway-erling-haaland-best-player-interview",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Norway"
-      ]
-    },
-    {
-      "id": 49069531,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Roma to move for ex-Man United striker Greenwood?",
-      "description": "AS Roma are set to make a move to sign Marseille striker Mason Greenwood. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-15T13:38:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0307/r1624890_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49069531/transfer-rumors-news-roma-move-ex-man-united-striker-greenwood",
-      "tag": "AS Roma",
-      "teams": [
-        "AS Roma",
-        "Marseille"
-      ]
-    },
-    {
-      "id": 49070705,
-      "source": "ESPN",
-      "headline": "Man United feature in new Amazon 'All or Nothing' documentary",
-      "description": "Manchester United's 2026-27 campaign will be the subject of a new fly-on-the-wall documentary series for Amazon Prime, it has been announced.",
-      "publishedAt": "2026-06-15T12:03:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0428/r1650334_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49070705/man-united-feature-new-amazon-all-documentary",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 48991120,
-      "source": "ESPN",
-      "headline": "Transfer big board: Best players in each position who could move this summer",
-      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
-      "publishedAt": "2026-06-15T11:18:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49062451,
-      "source": "ESPN",
-      "headline": "Real Madrid agree deal for Marc Cucurella with Chelsea - sources",
-      "description": "Real Madrid have agreed a deal worth up to £51.8 million (€60 million/$69.3 million) with Chelsea to sign Marc Cucurella, sources have told ESPN.",
-      "publishedAt": "2026-06-15T02:11:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0506/r1654286_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49059084,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, PSG, Bayern eye Morocco breakout star",
-      "description": "Arsenal, Paris Saint-Germain and Bayern Munich are all interested in signing Lille midfielder Ayyoub Bouaddi. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-14T19:59:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49059084/transfer-rumors-news-arsenal-psg-bayern-eye-morocco-ace",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "Paris Saint-Germain",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49062736,
-      "source": "ESPN",
-      "headline": "Pedro Porro signs new long-term deal at Spurs",
-      "description": "Pedro Porro has committed his long-term future to Tottenham after he signed a new contract at the club.",
-      "publishedAt": "2026-06-14T18:22:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1673051_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49062736/pedro-porro-signs-new-long-term-deal-spurs",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49062166,
-      "source": "ESPN",
-      "headline": "Man United could save money if Ruben Amorim is appointed by AC Milan -- sources",
-      "description": "Manchester United could save part of the compensation earmarked for former boss Ruben Amorim if he is appointed by AC Milan, sources have told ESPN.",
-      "publishedAt": "2026-06-14T16:57:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1672991_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49062166/how-man-united-save-money-amorim-appointed-ac-milan",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "AC Milan"
-      ]
-    },
-    {
-      "id": 49026747,
-      "source": "ESPN",
-      "headline": "Introducing every single Premier League player representing an African team at the FIFA World Cup",
-      "description": "As ever, the Premier League is well represented across African national teams at the World Cup, with all but one of the content's 10 contenders featuring at least one player from the division.",
-      "publishedAt": "2026-06-14T15:21:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0516/r1658974_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49026747/introducing-every-single-premier-league-player-representing-african-team-fifa-world-cup",
-      "tag": "Ghana",
-      "teams": [
-        "Ghana",
-        "Egypt",
-        "Morocco",
-        "Senegal",
-        "Ivory Coast",
-        "Algeria",
-        "Tunisia",
-        "South Africa"
-      ]
-    },
-    {
-      "id": 49047880,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Bayern eye move for Rashford",
-      "description": "Bayern Munich are reportedly linked to a move for Marcus Rashford. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-14T04:46:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0613/r1672659_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49047880/transfer-rumors-news-arsenal-shortlist-three-young-wingers",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Bayern Munich"
-      ]
-    },
-    {
-      "id": "58e100db45d1678a4e29297949e1c2be",
-      "source": "Sky Sports",
-      "headline": "Canada vs Qatar: The key moments and rate the players",
-      "description": "",
-      "publishedAt": "2026-06-13T10:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-canada-qatar_7277236.jpg?20260618232401",
-      "link": "https://www.skysports.com/football/canada-vs-qatar/live/549792",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "37e65788595de3a6db4bfb98cffdb38d",
-      "source": "Sky Sports",
-      "headline": "Premier League ins and outs - the confirmed deals so far...",
-      "description": "The summer transfer window opened on June 15 and closes at 11pm UK time on September 1. Find out who is on the move across the Premier League.",
-      "publishedAt": "2026-05-25T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-transfer-ins-outs_7152975.jpg?20260202081247",
-      "link": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-19T05:22:43.685Z"
+    "cachedAt": "2026-06-19T10:55:48.596Z"
   }
 }
