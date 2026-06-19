@@ -2,6 +2,103 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49082981,
+      "source": "ESPN",
+      "headline": "Premier League fixtures: When are 2026-27's biggest games?",
+      "description": "The fixtures for the 2026-27 Premier League season are out! Which title contenders have the toughest start, and where could the trophy be lifted?",
+      "publishedAt": "2026-06-19T13:34:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0526/r1664094_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49082981/premier-league-2026-27-fixtures-arsenal-chelsea-liverpool-manchester-city-manchester-united-tottenham-hotspur",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49114962,
+      "source": "ESPN",
+      "headline": "Newcastle Premier League fixtures 2026-27: Liverpool visit St. James' Park in tricky opener",
+      "description": "Newcastle will be hoping to get their Premier League campaign off to a flyer at home to Liverpool.",
+      "publishedAt": "2026-06-19T11:47:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675975_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114962/newcastle-premier-league-fixtures-2026-27-liverpool-visit-st-james-park-tricky-opener-tottenham-eddie-howe",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49115208,
+      "source": "ESPN",
+      "headline": "Chelsea Premier League fixtures 2026-27: Xabi Alonso begins reign with London derby",
+      "description": "Xabi Alonso will begin his tenure as Chelsea manager with a London derby against Fulham on the first Monday of the 2026-27 Premier League season.",
+      "publishedAt": "2026-06-19T11:16:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49115208/chelsea-premier-league-fixtures-2026-27-xabi-alonso-begins-reign-london-derby-fulham-arsenal-brighton",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49115872,
+      "source": "ESPN",
+      "headline": "Chelsea's key fixtures for the upcoming Premier League season",
+      "description": "Chelsea's key fixtures for the upcoming Premier League season.",
+      "publishedAt": "2026-06-19T11:16:03Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0619/dm_260619_Chelseas_key_fixtures_for_the_upcoming_Premier_League_season/dm_260619_Chelseas_key_fixtures_for_the_upcoming_Premier_League_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49115872/chelsea-key-fixtures-upcoming-premier-league-season",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49115856,
+      "source": "ESPN",
+      "headline": "Liverpool signing Victor Munoz suffers injury setback, World Cup debut delayed",
+      "description": "New Liverpool signing Víctor Muñoz will have to wait to take part in the World Cup after Spain confirmed he has suffered a setback in his return from injury.",
+      "publishedAt": "2026-06-19T11:15:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675999_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49115856/liverpool-signing-victor-munoz-suffers-injury-setback-world-cup-debut-delayed-spain",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Spain"
+      ]
+    },
+    {
+      "id": 49114816,
+      "source": "ESPN",
+      "headline": "Man United Premier League fixtures 2026-27: Hull City first up for Michael Carrick's side",
+      "description": "Manchester United will host newly-promoted Hull City at Old Trafford on the opening day of the 2026-27 Premier League season.",
+      "publishedAt": "2026-06-19T10:50:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675967_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114816/man-united-premier-league-fixtures-2026-27-hull-city-first-michael-carrick-co",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49115710,
+      "source": "ESPN",
+      "headline": "Manchester United's key fixtures for the upcoming Premier League season",
+      "description": "Manchester United's key fixtures for the upcoming Premier League season.",
+      "publishedAt": "2026-06-19T10:49:20Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0619/dm_260619_Manchester_Uniteds_key_fixtures_for_the_upcoming_Premier_League_season/dm_260619_Manchester_Uniteds_key_fixtures_for_the_upcoming_Premier_League_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49115710/manchester-united-key-fixtures-upcoming-premier-league-season",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
       "id": 48991120,
       "source": "ESPN",
       "headline": "Transfer big board: Best players in each position who could move this summer",
@@ -36,32 +133,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": 49114962,
-      "source": "ESPN",
-      "headline": "Newcastle Premier League fixtures 2026-27: Liverpool visit St. James' Park in tricky opener",
-      "description": "Newcastle will be hoping to get their Premier League campaign off to a flyer at home to Liverpool.",
-      "publishedAt": "2026-06-19T10:20:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675975_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114962/newcastle-premier-league-fixtures-2026-27-liverpool-visit-st-james-park-tricky-opener-tottenham-eddie-howe",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49115208,
-      "source": "ESPN",
-      "headline": "Chelsea Premier League fixtures 2026-27: Xabi Alonso begins reign with London derby",
-      "description": "Xabi Alonso will begin his tenure as Chelsea manager with a London derby against Fulham on the first Monday of the 2026-27 Premier League season.",
-      "publishedAt": "2026-06-19T10:15:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49115208/chelsea-premier-league-fixtures-2026-27-xabi-alonso-begins-reign-london-derby-fulham-arsenal-brighton",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
       ]
     },
     {
@@ -102,17 +173,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "b00f9ba634f3c514d3baa9d74b18258a",
-      "source": "Sky Sports",
-      "headline": "Why Man Utd have 'easiest' start to new season... and Spurs' horror run in!",
-      "description": "Sky Sports' David Reed explains why Manchester United statistically have the easiest start to the season and why Spurs fans might be concerned by their run in.",
-      "publishedAt": "2026-06-19T10:08:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-man-utd-premier-league_7277615.jpg?20260619112001",
-      "link": "https://www.skysports.com/watch/video/13555721/premier-league-fixtures-why-manchester-united-have-easiest-start-to-the-season-and-tottenham-hotspurs-horror-run-in",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 49114814,
@@ -173,19 +233,6 @@
       ]
     },
     {
-      "id": 49114816,
-      "source": "ESPN",
-      "headline": "Man United Premier League fixtures 2026-27: Hull City first up for Michael Carrick's side",
-      "description": "Manchester United will host newly-promoted Hull City at Old Trafford on the opening day of the 2026-27 Premier League season.",
-      "publishedAt": "2026-06-19T09:44:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675967_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114816/man-united-premier-league-fixtures-2026-27-hull-city-first-michael-carrick-co",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49082662,
       "source": "ESPN",
       "headline": "Premier League fixtures schedule 2026-27 in full",
@@ -214,24 +261,6 @@
         "Leeds United",
         "Sunderland",
         "Burnley"
-      ]
-    },
-    {
-      "id": 49082981,
-      "source": "ESPN",
-      "headline": "Premier League fixtures: When are 2026-27's biggest games?",
-      "description": "The fixtures for the 2026-27 Premier League season are out! Which title contenders have the toughest start, and where could the trophy be lifted?",
-      "publishedAt": "2026-06-19T09:39:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0526/r1664094_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49082981/premier-league-2026-27-fixtures-arsenal-chelsea-liverpool-manchester-city-manchester-united-tottenham-hotspur",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -267,17 +296,6 @@
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270618.jpg?20260611102640",
       "link": "https://www.skysports.com/football/news/12040/13555675/premier-league-2026-27-fixtures-dates-schedule-arsenal-face-coventry-and-liverpool-at-newcastle-in-opening-round",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "9968cd18321c4bafcd2ea22b61240f5f",
-      "source": "Sky Sports",
-      "headline": "HERE THEY ARE: Premier League 2026/27 fixtures revealed LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-19T08:33:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270616.jpg?20260611102432",
-      "link": "https://www.skysports.com/football/live-blog/12040/13555689/premier-league-2026-27-fixtures-release-day-live-every-clubs-opening-weekend-final-weekend-boxing-day-games-and-more",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -414,20 +432,6 @@
       ]
     },
     {
-      "id": 49104880,
-      "source": "ESPN",
-      "headline": "Liverpool complete signing of Víctor Muñoz from Osasuna",
-      "description": "Liverpool have completed the signing of Spain international Víctor Muñoz from Osasuna.",
-      "publishedAt": "2026-06-18T20:23:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675368_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49104880/liverpool-complete-signing-victor-munoz-osasuna",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Osasuna"
-      ]
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -517,41 +521,11 @@
         "Liverpool",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 49091187,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool step up Diomande interest to fend off PSG",
-      "description": "With PSG having an interest in Yan Diomande, Liverpool are accelerating their chase for the RB Leipzig winger. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-17T22:39:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0331/r1636426_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49091187/transfer-rumors-news-real-madrid-look-man-city-defender-dias",
-      "tag": "Paris Saint-Germain",
-      "teams": [
-        "Paris Saint-Germain",
-        "Liverpool",
-        "RB Leipzig"
-      ]
-    },
-    {
-      "id": 49095806,
-      "source": "ESPN",
-      "headline": "Man United have no plans to negotiate new Marcus Rashford loan with Barcelona - sources",
-      "description": "Manchester United have no plans to negotiate a new loan agreement with Barcelona for Marcus Rashford, sources have told ESPN.",
-      "publishedAt": "2026-06-17T15:31:54Z",
-      "image": "https://a.espncdn.com/photo/2025/1030/r1568264_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49095806/manchester-united-marcus-rashford-barcelona-no-plans-negotiate-loan-permanent",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Barcelona",
-        "La Liga AFE"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-19T10:55:48.596Z"
+    "cachedAt": "2026-06-19T15:40:20.511Z"
   }
 }
