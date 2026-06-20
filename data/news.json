@@ -2,6 +2,61 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49128118,
+      "source": "ESPN",
+      "headline": "Why does Cody Gakpo look better for Netherlands than Liverpool?",
+      "description": "Why does Cody Gakpo look better for Netherlands than Liverpool?",
+      "publishedAt": "2026-06-20T19:23:57Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0620/dm_260620_Why_does_Cody_Gakpo_look_better_for_Netherlands_than_Liverpool/dm_260620_Why_does_Cody_Gakpo_look_better_for_Netherlands_than_Liverpool.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49128118/why-does-cody-gakpo-look-better-netherlands-liverpool",
+      "tag": "Netherlands",
+      "teams": [
+        "Netherlands",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "4a2c50574290736aadf6a40a9f13ed35",
+      "source": "Sky Sports",
+      "headline": "Lift-off for Netherlands with thumping win over Sweden",
+      "description": "Netherlands took a huge step towards the World Cup knockout stages with a commanding 5-1 victory over Sweden in Group F, inspired by brilliant doubles from Brian Brobbey and Cody Gakpo.",
+      "publishedAt": "2026-06-20T18:58:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-cody-gakpo-netherlands_7278785.jpg?20260620195430",
+      "link": "https://www.skysports.com/football/netherlands-vs-sweden/report/549800",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49111773,
+      "source": "ESPN",
+      "headline": "Antoine Semenyo says Ghana players want to 'prove a point' against England at FIFA World Cup",
+      "description": "After their dramatic 1-0 victory over Panama on Wednesday night, Antoine Semenyo says Ghana will head into their FIFA World Cup showdown with England looking to 'prove a point'.",
+      "publishedAt": "2026-06-20T16:26:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675778_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49111773/antoine-semenyo-says-ghana-players-want-prove-point-england-fifa-world-cup",
+      "tag": "Ghana",
+      "teams": [
+        "Ghana",
+        "Manchester City",
+        "England"
+      ]
+    },
+    {
+      "id": 49124293,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City ahead of Man Utd in Anderson race",
+      "description": "England midfielder Elliot Anderson is looking more likely to join Manchester City than Manchester United this summer. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-20T15:10:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0620/r1676546_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49124293/transfer-rumors-news-manchester-city-ahead-manchester-united-elliot-anderson-race",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest"
+      ]
+    },
+    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -28,6 +83,17 @@
         "Coventry City",
         "Hull City"
       ]
+    },
+    {
+      "id": "7d65aa1a8795693222969552664aaa39",
+      "source": "Sky Sports",
+      "headline": "Amad starts for Ivory Coast vs Germany after match winner LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-20T10:00:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-amad-diallo-ivory-coast_7247784.jpg?20260513165637",
+      "link": "https://www.skysports.com/football/germany-vs-ivory-coast/live/549798",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49115294,
@@ -134,21 +200,6 @@
       ]
     },
     {
-      "id": 49124293,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City ahead of Man Utd in Anderson race",
-      "description": "England midfielder Elliot Anderson is looking more likely to join Manchester City than Manchester United this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-20T08:32:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0620/r1676546_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49124293/transfer-rumors-news-manchester-city-ahead-manchester-united-elliot-anderson-race",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest"
-      ]
-    },
-    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
@@ -226,17 +277,6 @@
         "Liverpool",
         "Barcelona"
       ]
-    },
-    {
-      "id": "f3e509698d237ab53567197cff16ebb9",
-      "source": "Sky Sports",
-      "headline": "Penalty controversy as Scotland punished by early Morocco strike",
-      "description": "Scotland were denied at least one penalty as hopes of creating history at the World Cup suffered a blow against Morocco.",
-      "publishedAt": "2026-06-20T00:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-scotland-scott-mctominay_7278283.jpg?20260620043501",
-      "link": "https://www.skysports.com/football/scotland-vs-morocco/report/549795",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49117473,
@@ -435,21 +475,6 @@
       ]
     },
     {
-      "id": 49111773,
-      "source": "ESPN",
-      "headline": "Antoine Semenyo says Ghana players want to 'prove a point' against England at FIFA World Cup",
-      "description": "After their dramatic 1-0 victory over Panama on Wednesday night, Antoine Semenyo says Ghana will head into their FIFA World Cup showdown with England looking to 'prove a point'.",
-      "publishedAt": "2026-06-18T22:22:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675778_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49111773/antoine-semenyo-says-ghana-players-want-prove-point-england-fifa-world-cup",
-      "tag": "Ghana",
-      "teams": [
-        "Ghana",
-        "Manchester City",
-        "England"
-      ]
-    },
-    {
       "id": 49104448,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, Liverpool to battle for France winger Barcola",
@@ -488,24 +513,11 @@
         "Real Madrid",
         "Chelsea"
       ]
-    },
-    {
-      "id": 49108300,
-      "source": "ESPN",
-      "headline": "Laurens: You can't blame Muñoz for choosing Liverpool over Newcastle",
-      "description": "",
-      "publishedAt": "2026-06-18T16:56:48Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0618/dm_260618_COM_SOC_ANALAYSIS_Laurens_You_cant_blame_Munoz_for_choosing_Liverpool_over_Newcastle_2026_6_18/dm_260618_COM_SOC_ANALAYSIS_Laurens_You_cant_blame_Munoz_for_choosing_Liverpool_over_Newcastle_2026_6_18.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49108300/blame-munoz-choosing-liverpool-newcastle",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-20T14:28:19.149Z"
+    "cachedAt": "2026-06-20T19:54:58.699Z"
   }
 }
