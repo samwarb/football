@@ -2,6 +2,54 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49115006,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona, Liverpool eye move for Van de Ven",
+      "description": "Tottenham Hotspur defender Micky van de Ven could be on the move next season. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-20T01:03:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0620/r1676398_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49115006/transfer-rumors-newsreal-madrid-eye-huge-deal-michael-olise-bayern-munich-france",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Liverpool",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "f3e509698d237ab53567197cff16ebb9",
+      "source": "Sky Sports",
+      "headline": "Penalty controversy as Scotland punished by early Morocco strike",
+      "description": "Scotland were denied at least one penalty as hopes of creating history at the World Cup suffered a blow against Morocco.",
+      "publishedAt": "2026-06-20T00:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-scotland-scott-mctominay_7278283.jpg?20260620043501",
+      "link": "https://www.skysports.com/football/scotland-vs-morocco/report/549795",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "6096743af0e6c4b9ffbeae9627406924",
+      "source": "Sky Sports",
+      "headline": "Scotland vs Morocco: The key moments & rate the players!",
+      "description": "",
+      "publishedAt": "2026-06-19T20:30:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-scott-mctominay-scotland_7278276.jpg?20260620005409",
+      "link": "https://www.skysports.com/football/scotland-vs-morocco/live/549795",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "956a046b65ed543d52503da8866eeddf",
+      "source": "Sky Sports",
+      "headline": "Brighton make improved offer for Spurs' Vuskovic",
+      "description": "Brighton have made an improved offer to Tottenham Hotspur for centre-back Luka Vuskovic.",
+      "publishedAt": "2026-06-19T20:16:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-vuskovic-spurs_7278162.jpg?20260619211937",
+      "link": "https://www.skysports.com/football/news/12040/13555941/luka-vuskovic-brighton-make-improved-45m-bid-for-tottenham-defender",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49117473,
       "source": "ESPN",
       "headline": "Arsenal to bid again for Leicester teen Jeremy Monga after first offer rejected - sources",
@@ -302,17 +350,6 @@
       ]
     },
     {
-      "id": "9a2b37db6550229f0b1c5f778c0771d9",
-      "source": "Sky Sports",
-      "headline": "Leeds latest: Club working on deals for Fulham's Wilson and Brandt",
-      "description": "",
-      "publishedAt": "2026-06-19T09:09:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-leeds-news-club-blog_7039256.jpg?20251002160345",
-      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -487,23 +524,31 @@
       ]
     },
     {
-      "id": 48956684,
-      "source": "ESPN",
-      "headline": "Ibrahima Konaté completes switch to Real Madrid from Liverpool",
-      "description": "Ibrahima Konaté has completed his move to Real Madrid from Liverpool.",
-      "publishedAt": "2026-06-18T09:47:26Z",
-      "image": "https://a.espncdn.com/photo/2025/1107/r1572347_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48956684/ibrahima-konate-completes-switch-real-madrid-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Real Madrid"
-      ]
+      "id": "1d4af58204d0532c1cf3e4f4ebee896d",
+      "source": "Sky Sports",
+      "headline": "Papers: Rashford an injury worry for England",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-06-16T21:30:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13555947/marcus-rashford-england-forward-an-injury-worry-ahead-of-world-cup-game-with-ghana-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "25f58c826f5341f5d44d5b94cef8ed9c",
+      "source": "Sky Sports",
+      "headline": "Paraguay down to 10 after Almiron red but lead Turkey LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-13T10:47:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-matias-galarza-paraguay_7278326.jpg?20260620043023",
+      "link": "https://www.skysports.com/football/turkey-vs-paraguay/live/549796",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-19T20:01:52.547Z"
+    "cachedAt": "2026-06-20T04:39:22.496Z"
   }
 }
