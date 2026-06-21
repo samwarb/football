@@ -2,6 +2,43 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "496aed319ba794e33023e00589526ded",
+      "source": "Sky Sports",
+      "headline": "Curacao earn first point as incredible Room makes history in Ecuador draw",
+      "description": "Curacao goalkeeper Eloy Room made history with an incredible 15 saves to earn his country their first ever World Cup point by holding Ecuador to a 0-0 draw in Group E.",
+      "publishedAt": "2026-06-21T02:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-curacao-eloy-room_7278972.jpg?20260621023705",
+      "link": "https://www.skysports.com/football/ecuador-vs-curacao/report/549799",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "ff338f0a0b993b3ce89971559955a692",
+      "source": "Sky Sports",
+      "headline": "Undav clinches win over Ivory Coast as Germany reach knockouts",
+      "description": "Deniz Undav's 94th-minute goal clinched a come-from-behind 2-1 victory for Germany against Ivory Coast in Group E to send them into the World Cup knockout stages.",
+      "publishedAt": "2026-06-20T22:05:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-germany_7278872.jpg?20260620224003",
+      "link": "https://www.skysports.com/football/germany-vs-ivory-coast/report/549798",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49129176,
+      "source": "ESPN",
+      "headline": "Newcastle reject Tottenham's £75m Sandro Tonali bid",
+      "description": "Tottenham Hotspur have had an offer worth in the region of £75 million ($100m) rejected by Newcastle United for Sandro Tonali, sources have confirmed to ESPN.",
+      "publishedAt": "2026-06-20T21:36:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0620/r1676795_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49129176/newcastle-reject-tottenham-sandro-tonali-transfer-bid-75-million",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Newcastle United",
+        "Italy"
+      ]
+    },
+    {
       "id": 49128118,
       "source": "ESPN",
       "headline": "Why does Cody Gakpo look better for Netherlands than Liverpool?",
@@ -14,17 +51,6 @@
         "Netherlands",
         "Liverpool"
       ]
-    },
-    {
-      "id": "4a2c50574290736aadf6a40a9f13ed35",
-      "source": "Sky Sports",
-      "headline": "Lift-off for Netherlands with thumping win over Sweden",
-      "description": "Netherlands took a huge step towards the World Cup knockout stages with a commanding 5-1 victory over Sweden in Group F, inspired by brilliant doubles from Brian Brobbey and Cody Gakpo.",
-      "publishedAt": "2026-06-20T18:58:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-cody-gakpo-netherlands_7278785.jpg?20260620195430",
-      "link": "https://www.skysports.com/football/netherlands-vs-sweden/report/549800",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49111773,
@@ -85,13 +111,13 @@
       ]
     },
     {
-      "id": "7d65aa1a8795693222969552664aaa39",
+      "id": "5c83b656843a7568311a8e770813cefb",
       "source": "Sky Sports",
-      "headline": "Amad starts for Ivory Coast vs Germany after match winner LIVE!",
+      "headline": "Relentless Japan double lead over Tunisia LIVE!",
       "description": "",
       "publishedAt": "2026-06-20T10:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-amad-diallo-ivory-coast_7247784.jpg?20260513165637",
-      "link": "https://www.skysports.com/football/germany-vs-ivory-coast/live/549798",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-daichi-kamada-japan_7279001.jpg?20260621052834",
+      "link": "https://www.skysports.com/football/tunisia-vs-japan/live/549801",
       "tag": "Liveblog",
       "teams": []
     },
@@ -475,6 +501,17 @@
       ]
     },
     {
+      "id": "7406f9acf5271980a35e25931c9b84d6",
+      "source": "Sky Sports",
+      "headline": "Transfer Centre LIVE! RB Leipzig name huge Diomande price amid Liverpool interest",
+      "description": "",
+      "publishedAt": "2026-06-19T07:14:00.000Z",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-yan-diomande-rb-leipzig_7209220.jpg?20260402091131",
+      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49104448,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, Liverpool to battle for France winger Barcola",
@@ -499,25 +536,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49108882,
-      "source": "ESPN",
-      "headline": "Real Madrid admire Chelsea's Enzo Fernández, looking at midfield options - sources",
-      "description": "Real Madrid are looking to continue their summer rebuild by signing a midfielder and a centre-back, a source has told ESPN, with Chelsea's Enzo Fernández being one of the options highly rated by the club.",
-      "publishedAt": "2026-06-18T18:58:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675619_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49108882/fernandez-real-madrid-chelsea",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-20T19:54:58.699Z"
+    "cachedAt": "2026-06-21T05:16:52.108Z"
   }
 }
