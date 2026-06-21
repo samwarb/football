@@ -2,26 +2,77 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "6819a0cd55f80bb0723449a214c6e928",
+      "id": "f204c1c0c24591dcd284b957f9973e96",
       "source": "Sky Sports",
-      "headline": "World Cup news: Doku to leave tournament for birth of his child",
+      "headline": "Bergvall asks to leave Tottenham",
+      "description": "Sweden midfielder Lucas Bergvall has asked to leave Tottenham Hotspur this summer.",
+      "publishedAt": "2026-06-21T18:52:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-lucas-bergvall-tottenham_7279493.jpg?20260621195836",
+      "link": "https://www.skysports.com/football/news/12040/13556507/lucas-bergvall-transfer-news-tottenham-midfielder-asks-to-leave-premier-league-club-in-search-for-first-team-football",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "96b5469b098c7c2454ff9f950ed6aca4",
+      "source": "Sky Sports",
+      "headline": "Iran opener ruled out for offside vs Belgium LIVE!",
       "description": "",
-      "publishedAt": "2026-06-21T14:10:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-jeremy-doku-beligum_7260124.jpg?20260528103306",
-      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "publishedAt": "2026-06-21T18:30:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-kanani-hossein-iran_7279516.jpg?20260621202829",
+      "link": "https://www.skysports.com/football/belgium-vs-iran/live/549802",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "5f7aebfdced32055964bc0243fee3289",
+      "id": "1213c60add8102380088c9d78e6e1b49",
       "source": "Sky Sports",
-      "headline": "Has Bellingham's brilliance ended the No 10 debate for England?",
-      "description": "For many, the debate about who should be England's No 10 at this World Cup is now over, after Jude Bellingham put in a 10/10 performance against Croatia.",
-      "publishedAt": "2026-06-21T13:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-reporter-notebook_7277430.jpg?20260619070626",
-      "link": "https://www.skysports.com/football/news/12040/13555646/world-cup-2026-jude-bellinghams-brilliance-against-croatia-ends-no-10-discussion-for-england-ahead-of-ghana-game",
+      "headline": "Spain finally announce World Cup arrival as Yamal, Oyarzabal star in Saudi win",
+      "description": "Lamine Yamal and Mikel Oyarzabal were the stars of the show as Spain finally announced their arrival at the 2026 World Cup with a 4-0 thrashing of Saudi Arabia.",
+      "publishedAt": "2026-06-21T18:10:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mikel-oyarzabal-spain_7279422.jpg?20260621174023",
+      "link": "https://www.skysports.com/football/spain-vs-saudi-arabia/report/549804",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "e764b23ba1d727c0960154d826a073ef",
+      "source": "Sky Sports",
+      "headline": "Yamal inspires sharper Spain to statement World Cup win",
+      "description": "It may have taken them a week but Spain have arrived at the World Cup - and their rivals for the trophy will be wary.",
+      "publishedAt": "2026-06-21T18:08:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-lamine-yamal-spain_7279389.jpg?20260621171637",
+      "link": "https://www.skysports.com/football/news/12040/13556484/world-cup-2026-spain-show-why-they-are-favourites-as-lamine-yamal-inspires-statement-win-over-saudi-arabia",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 49135863,
+      "source": "ESPN",
+      "headline": "What's next for Tottenham and Vuskovic?",
+      "description": "",
+      "publishedAt": "2026-06-21T17:09:53Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0621/dm_260621_COM_SOC_ANALYSIS_Whats_next_for_Tottenham_and_Vuskovic_2026_6_21/dm_260621_COM_SOC_ANALYSIS_Whats_next_for_Tottenham_and_Vuskovic_2026_6_21.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49135863/next-tottenham-vuskovic",
+      "tag": "Croatia",
+      "teams": [
+        "Croatia",
+        "Hamburg SV",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49135586,
+      "source": "ESPN",
+      "headline": "Marcotti: Tonali bid 'shows a lot of ambition' from Spurs",
+      "description": "Marcotti: Tonali bid 'shows a lot of ambition' from Spurs",
+      "publishedAt": "2026-06-21T16:35:17Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0621/dm_260621_Marcotti_Tonali_bid_shows_a_lot_of_ambition_from_Spurs/dm_260621_Marcotti_Tonali_bid_shows_a_lot_of_ambition_from_Spurs.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49135586/tonali-bid-shows-lot-ambition-spurs",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Tottenham Hotspur"
+      ]
     },
     {
       "id": 49132964,
@@ -490,39 +541,11 @@
       "link": "https://www.espn.com/video/clip/_/id/49115430/key-fixtures-2026-27-premier-league-season",
       "tag": "Media",
       "teams": []
-    },
-    {
-      "id": 49115237,
-      "source": "ESPN",
-      "headline": "Arsenal's key fixtures in their Premier League title defence",
-      "description": "Arsenal's key fixtures in their Premier League title defence.",
-      "publishedAt": "2026-06-19T09:29:56Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0619/dm_260619_Arsenals_key_fixtures_in_their_Premier_League_title_defence/dm_260619_Arsenals_key_fixtures_in_their_Premier_League_title_defence.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49115237/arsenal-key-fixtures-their-premier-league-title-defence",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49104448,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Liverpool to battle for France winger Barcola",
-      "description": "Liverpool and Arsenal are lining up a move for PSG winger Bradley Barcola. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-18T20:25:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675704_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49104448/transfer-rumors-news-liverpool-chelsea-keen-star-sweden-midfielder",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Arsenal",
-        "Paris Saint-Germain"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-21T14:31:40.421Z"
+    "cachedAt": "2026-06-21T20:00:12.244Z"
   }
 }
