@@ -2,47 +2,85 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "f204c1c0c24591dcd284b957f9973e96",
+      "id": "408561b83c6e15a1ac581d00ef964e73",
       "source": "Sky Sports",
-      "headline": "Bergvall asks to leave Tottenham",
-      "description": "Sweden midfielder Lucas Bergvall has asked to leave Tottenham Hotspur this summer.",
-      "publishedAt": "2026-06-21T18:52:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-lucas-bergvall-tottenham_7279493.jpg?20260621195836",
-      "link": "https://www.skysports.com/football/news/12040/13556507/lucas-bergvall-transfer-news-tottenham-midfielder-asks-to-leave-premier-league-club-in-search-for-first-team-football",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "96b5469b098c7c2454ff9f950ed6aca4",
-      "source": "Sky Sports",
-      "headline": "Iran opener ruled out for offside vs Belgium LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-21T18:30:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-kanani-hossein-iran_7279516.jpg?20260621202829",
-      "link": "https://www.skysports.com/football/belgium-vs-iran/live/549802",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "1213c60add8102380088c9d78e6e1b49",
-      "source": "Sky Sports",
-      "headline": "Spain finally announce World Cup arrival as Yamal, Oyarzabal star in Saudi win",
-      "description": "Lamine Yamal and Mikel Oyarzabal were the stars of the show as Spain finally announced their arrival at the 2026 World Cup with a 4-0 thrashing of Saudi Arabia.",
-      "publishedAt": "2026-06-21T18:10:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mikel-oyarzabal-spain_7279422.jpg?20260621174023",
-      "link": "https://www.skysports.com/football/spain-vs-saudi-arabia/report/549804",
+      "headline": "Salah inspires Egypt to first-ever World Cup win",
+      "description": "Mohamed Salah scored one goal and assisted another as Egypt came from behind to beat New Zealand 3-1 and record their first-ever World Cup win.",
+      "publishedAt": "2026-06-22T03:21:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-mohamed-salah-egypt_7279649.jpg?20260622033940",
+      "link": "https://www.skysports.com/football/new-zealand-vs-egypt/report/549803",
       "tag": "Report",
       "teams": []
     },
     {
-      "id": "e764b23ba1d727c0960154d826a073ef",
+      "id": 49132964,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool, Man United eye move for Nmecha",
+      "description": "Liverpool and Manchester United are competing to sign Borussia Dortmund and Germany midfielder Felix Nmecha. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-22T02:03:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0622/r1677431_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49132964/transfer-rumors-news-paris-saint-germain-bid-liverpool-target-yan-diomande",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Borussia Dortmund",
+        "Manchester United",
+        "Germany"
+      ]
+    },
+    {
+      "id": "400673fb298f4bb1345cba66f4d0c92e",
       "source": "Sky Sports",
-      "headline": "Yamal inspires sharper Spain to statement World Cup win",
-      "description": "It may have taken them a week but Spain have arrived at the World Cup - and their rivals for the trophy will be wary.",
-      "publishedAt": "2026-06-21T18:08:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-lamine-yamal-spain_7279389.jpg?20260621171637",
-      "link": "https://www.skysports.com/football/news/12040/13556484/world-cup-2026-spain-show-why-they-are-favourites-as-lamine-yamal-inspires-statement-win-over-saudi-arabia",
+      "headline": "New Zealand vs Egypt: All the key moments and rate the players",
+      "description": "",
+      "publishedAt": "2026-06-22T00:25:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-egypt-mostafa-zico_7279647.jpg?20260622032355",
+      "link": "https://www.skysports.com/football/new-zealand-vs-egypt/live/549803",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "2578dea2cff5be80b7c72eb665eac9a5",
+      "source": "Sky Sports",
+      "headline": "They've done it again! Cape Verde claim another draw with Uruguay",
+      "description": "Cape Verde continued their fairytale World Cup campaign as the African group of islands claimed a 2-2 draw with two-time winners Uruguay in Miami.",
+      "publishedAt": "2026-06-22T00:08:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-uruguay-cape-verde_7279626.jpg?20260622003123",
+      "link": "https://www.skysports.com/football/uruguay-vs-cape-verde/report/549805",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "d62323c2d4be80038b9764a0fefdd2b6",
+      "source": "Sky Sports",
+      "headline": "Papers: Liverpool knock back Inter's Jones offer",
+      "description": "The top stories and transfer rumours from Monday's newspapers...",
+      "publishedAt": "2026-06-21T21:25:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13556527/paper-talk-liverpool-reject-21m-curtis-jones-offer-from-inter-milan-which-falls-considerably-short-of-valuation",
       "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "948cf8d4488ba47f259d0e4ee66f6210",
+      "source": "Sky Sports",
+      "headline": "Iran earn battling draw vs frustrated 10-man Belgium",
+      "description": "Iran battled to a well-deserved point against 10-man Belgium with a 0-0 draw in Los Angeles.",
+      "publishedAt": "2026-06-21T21:07:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-kevin-de-bruyne-belgium_7279542.jpg?20260621211045",
+      "link": "https://www.skysports.com/football/belgium-vs-iran/report/549802",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "cf4f62280bad2cde56e6617b46a58009",
+      "source": "Sky Sports",
+      "headline": "Uruguay 2-2 Cape Verde THRILLER - the key moments and rate the players!",
+      "description": "",
+      "publishedAt": "2026-06-21T21:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-uruguay-cape-verde_7279598.jpg?20260621232716",
+      "link": "https://www.skysports.com/football/uruguay-vs-cape-verde/live/549805",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -75,19 +113,15 @@
       ]
     },
     {
-      "id": 49132964,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: PSG to bid for Liverpool target Diomande",
-      "description": "Liverpool are set to be overtaken by Paris Saint-Germain in the race to sign RB Leipzig winger Yan Diomande. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-21T12:29:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0621/r1677032_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49132964/transfer-rumors-news-paris-saint-germain-bid-liverpool-target-yan-diomande",
-      "tag": "RB Leipzig",
-      "teams": [
-        "RB Leipzig",
-        "Liverpool",
-        "Paris Saint-Germain"
-      ]
+      "id": "7938102bfaf186fe796acf21a653d0d6",
+      "source": "Sky Sports",
+      "headline": "England latest: Watkins raises hopes over Saka fitness ahead of Ghana game",
+      "description": "",
+      "publishedAt": "2026-06-21T13:12:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49114962,
@@ -546,6 +580,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-21T20:00:12.244Z"
+    "cachedAt": "2026-06-22T05:28:34.108Z"
   }
 }
