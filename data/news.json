@@ -2,11 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "9d4559a735647516c67d119cc9128bdd",
+      "source": "Sky Sports",
+      "headline": "O'Neil appointed new Ipswich manager",
+      "description": "Gary O'Neil has been appointed as Ipswich's new manager.",
+      "publishedAt": "2026-06-23T15:02:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-gary-oneil_7278502.jpg?20260620123439",
+      "link": "https://www.skysports.com/football/news/12040/13556081/ipswich-town-gary-oneil-appointed-new-tractor-boys-manager-ahead-of-premier-league-return",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "0d89d1db98c5832b46f6c639c2fef21b",
+      "source": "Sky Sports",
+      "headline": "Johansson confident Motherwell can build on success",
+      "description": "New Motherwell manager Alfred Johansson expects his team to continue performing the way they did last season under Jens Berthel Askou and build on that next term.",
+      "publishedAt": "2026-06-23T14:44:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-motherwell-alfred_7280890.jpg?20260623130006",
+      "link": "https://www.skysports.com/football/news/12040/13557094/alfred-johansson-new-motherwell-manager-confident-fir-park-club-can-build-on-last-seasons-success-in-scottish-premiership",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49151181,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Real Madrid want Haaland if Vinicius Jr. leaves",
       "description": "Real Madrid have Manchester City striker Erling Haaland on their radar. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-23T07:19:51Z",
+      "publishedAt": "2026-06-23T14:17:22Z",
       "image": "https://a.espncdn.com/photo/2026/0616/r1674383_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49151181/transfer-rumors-news-real-madrid-want-haaland-vinicius-jr-leaves",
       "tag": "Real Madrid",
@@ -491,11 +513,9 @@
       ]
     }
   ],
-  "warnings": [
-    "Sky Sports: HTTP 500 for https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.skysports.com%2Frss%2F12040"
-  ],
+  "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-23T10:01:13.494Z"
+    "cachedAt": "2026-06-23T15:22:54.413Z"
   }
 }
