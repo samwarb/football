@@ -2,25 +2,75 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "241ac943994f915d782586c623d0beda",
+      "id": "dd8a5471b827c69721f6e0446ebbc6d7",
       "source": "Sky Sports",
-      "headline": "Messi turns 39: Is Argentina great somehow better than ever?",
-      "description": "Lionel Messi celebrates his 39th birthday on Wednesday having made an astonishing start to the World Cup. After the hat-trick against Algeria that took him level with Miroslav Klose's goal record, he scored twice against Austria to go two clear.",
-      "publishedAt": "2026-06-24T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-messi-lionel-world-cup_7281047.jpg?20260623162546",
-      "link": "https://www.skysports.com/football/news/12040/13557011/lionel-messi-better-than-ever-at-39-argentina-great-still-thriving-and-setting-world-cup-records-between-the-lines",
+      "headline": "McInnes: I belong at Rangers",
+      "description": "Derek McInnes says he “belongs” at Rangers after being unveiled as the club’s new manager and laid out his intention to win the Scottish Premiership as quickly as possible.",
+      "publishedAt": "2026-06-24T14:30:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-derek-mcinnes-rangers_7281811.jpg?20260624153909",
+      "link": "https://www.skysports.com/football/news/12040/13557307/rangers-derek-mcinnes-says-he-belongs-at-ibrox-as-he-vows-to-win-scottish-premiership-as-quickly-as-possible",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "468a72a3e072f1d17e93af49f9228c27",
+      "id": 49162828,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Arsenal eye Bournemouth star",
+      "description": "Manchester United and Arsenal are both interested in Bournemouth midfielder Alex Scott. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-24T14:22:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0411/r1641824_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49162828/transfer-rumors-news-man-united-arsenal-eye-bournemouth-star",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Arsenal",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49165316,
+      "source": "ESPN",
+      "headline": "Chelsea closing in on deal for Atalanta full-back Marco Palestra - sources",
+      "description": "Chelsea are closing in on a deal worth around €55million for Atlanta full-back Marco Palestra, sources have told ESPN.",
+      "publishedAt": "2026-06-24T14:12:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678748_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49165316/chelsea-atalanta-marco-palestra-transfers",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f4015a53c53fdf841e385fd31ae2dc30",
       "source": "Sky Sports",
-      "headline": "Why Austria may prefer to lose their final World Cup group game",
-      "description": "Austria may prefer to lose their final World Cup group game in a potentially controversial finish to Group J.",
-      "publishedAt": "2026-06-24T08:52:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-sabitzer-marcel-austria_7281519.jpg?20260624100736",
-      "link": "https://www.skysports.com/football/news/12040/13557299/world-cup-2026-why-austria-may-prefer-to-lose-their-final-world-cup-group-j-game-against-algeria",
+      "headline": "Man Utd and Spurs battling for Fernandes and Arsenal target Scott",
+      "description": "Tottenham are considering making a bid for West Ham midfielder Mateus Fernandes, Sky Sports News understands, but could still face competition from Manchester United.",
+      "publishedAt": "2026-06-24T14:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-mateus-fernandes_7281761.jpg?20260624143155",
+      "link": "https://www.skysports.com/football/news/12040/13557379/transfer-news-man-utd-and-tottenham-battling-for-west-hams-mateus-fernandes-and-arsenal-target-alex-scott",
       "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "9f85be5b75faaa2af3ff3ce07027a7a9",
+      "source": "Sky Sports",
+      "headline": "Leeds reach agreement to sign Wilson on a free",
+      "description": "Leeds United have agreed a deal to sign Harry Wilson on a free transfer.",
+      "publishedAt": "2026-06-24T10:50:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-wilson-fulham_7281593.jpg?20260624114945",
+      "link": "https://www.skysports.com/football/news/12040/13557327/leeds-transfer-news-harry-wilson-agreement-reached-as-midfielder-set-to-sign-on-free-transfer-when-fulham-contract-expires",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "8a8319b4df2e1ca7479e1c6194f09eb4",
+      "source": "Sky Sports",
+      "headline": "Merson: Back to reality for England but we need to trust Tuchel",
+      "description": "Paul Merson says England's 0-0 draw with Ghana was \"back to reality\" for the Three Lions but the Sky Sports pundit insists we need to have trust in Thomas Tuchel to get it right.",
+      "publishedAt": "2026-06-24T10:10:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-england_7281581.jpg?20260624112859",
+      "link": "https://www.skysports.com/football/news/12040/13557309/world-cup-2026-ghana-draw-a-reality-check-for-england-but-we-need-to-trust-thomas-tuchel-says-paul-merson",
+      "tag": "Article/Blog",
       "teams": []
     },
     {
@@ -200,31 +250,6 @@
       ]
     },
     {
-      "id": "a60e508253fe219897dd50d77f17fcb0",
-      "source": "Sky Sports",
-      "headline": "Papers: Chelsea could sell Gusto to pave way for Palestra deal",
-      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "publishedAt": "2026-06-24T07:20:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13557278/paper-talk-x",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49162828,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea close on Atalanta defender",
-      "description": "Darío Osorio has drawn comparisons to Alexis Sánchez, so naturally Arsenal are interested in the Chile international. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-24T06:58:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0420/r1646355_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49162828/transfer-rumors-news-chelsea-close-atalanta-defender",
-      "tag": "Atalanta",
-      "teams": [
-        "Atalanta",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -271,17 +296,6 @@
       ]
     },
     {
-      "id": "69472757660f5f056a0aded5168e7e0c",
-      "source": "Sky Sports",
-      "headline": "Oxford appoint former Arsenal and Wales star Ramsey as head coach",
-      "description": "Aaron Ramsey has been appointed as the new Oxford United head coach.",
-      "publishedAt": "2026-06-23T16:40:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-aaron-ramsey-arsenal_7213127.jpg?20260407114146",
-      "link": "https://www.skysports.com/football/news/12040/13556847/oxford-united-aaron-ramsey-appointed-head-coach-after-matt-bloomfield-exit",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49119895,
       "source": "ESPN",
       "headline": "Ipswich Town announce Gary O'Neil as new manager ahead of Premier League return",
@@ -294,17 +308,6 @@
         "Ipswich Town",
         "Strasbourg"
       ]
-    },
-    {
-      "id": "9d4559a735647516c67d119cc9128bdd",
-      "source": "Sky Sports",
-      "headline": "O'Neil appointed new Ipswich manager",
-      "description": "Gary O'Neil has been appointed as Ipswich's new manager.",
-      "publishedAt": "2026-06-23T15:02:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-gary-oneil-ipswich_7281048.jpg?20260623162731",
-      "link": "https://www.skysports.com/football/news/12040/13556081/ipswich-town-gary-oneil-appointed-new-tractor-boys-manager-ahead-of-premier-league-return",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49114814,
@@ -550,36 +553,11 @@
         "Liverpool",
         "Barcelona"
       ]
-    },
-    {
-      "id": 49117473,
-      "source": "ESPN",
-      "headline": "Arsenal to bid again for Leicester teen Jeremy Monga after first offer rejected - sources",
-      "description": "Arsenal are planning to return with an improved offer for Leicester City teenager Jeremy Monga after having an opening bid rejected, sources have told ESPN.",
-      "publishedAt": "2026-06-19T16:08:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0413/r1642705_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49117473/arsenal-leicester-jeremy-monga-transfers",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Leicester City"
-      ]
-    },
-    {
-      "id": "652bfc485fa3af8ada5df24986364e35",
-      "source": "Sky Sports",
-      "headline": "Colombia vs DR Congo: All the big moments and rate the players",
-      "description": "",
-      "publishedAt": "2026-06-15T16:18:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-munoz-colombia_7281384.jpg?20260624032818",
-      "link": "https://www.skysports.com/football/colombia-vs-dr-congo/live/549811",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-24T09:49:28.728Z"
+    "cachedAt": "2026-06-24T15:05:31.316Z"
   }
 }

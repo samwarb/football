@@ -1,6 +1,6 @@
 {
   "season": "2025-2026",
-  "updatedAt": "2026-06-24T09:49:28.586Z",
+  "updatedAt": "2026-06-24T15:05:31.487Z",
   "teams": [
     {
       "providerId": "349",
@@ -90,7 +90,7 @@
       "goalsAgainst": 0,
       "goalDifference": 0,
       "points": 0,
-      "note": "Champions League"
+      "note": "Europa League"
     },
     {
       "providerId": "363",
@@ -108,7 +108,7 @@
       "goalsAgainst": 0,
       "goalDifference": 0,
       "points": 0,
-      "note": "Europa League"
+      "note": ""
     },
     {
       "providerId": "388",
@@ -126,7 +126,7 @@
       "goalsAgainst": 0,
       "goalDifference": 0,
       "points": 0,
-      "note": "Europa League"
+      "note": ""
     },
     {
       "providerId": "384",
@@ -144,7 +144,7 @@
       "goalsAgainst": 0,
       "goalDifference": 0,
       "points": 0,
-      "note": "Conference League Playoff Round"
+      "note": ""
     },
     {
       "providerId": "368",
@@ -270,7 +270,7 @@
       "goalsAgainst": 0,
       "goalDifference": 0,
       "points": 0,
-      "note": "Europa League"
+      "note": ""
     },
     {
       "providerId": "360",
@@ -365,6 +365,6 @@
   ],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-24T09:49:28.586Z"
+    "cachedAt": "2026-06-24T15:05:31.487Z"
   }
 }
