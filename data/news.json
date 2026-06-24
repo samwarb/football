@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "18b71e914033865348d7a5910eb40bce",
+      "source": "Sky Sports",
+      "headline": "Munoz strike ends DR Congo resistance and sends Colombia into last 32",
+      "description": "Daniel Munoz's second-half strike was enough to see a dominant Colombia beat DR Congo as the South Americans secured their place in the World Cup last 32.",
+      "publishedAt": "2026-06-24T02:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-colombia-munoz_7281387.jpg?20260624044630",
+      "link": "https://www.skysports.com/football/colombia-vs-dr-congo/report/549811",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "2f09d9e5ed74cda73007b922a76c1bcf",
+      "source": "Sky Sports",
+      "headline": "Croatia bounce back as Budimir strike eliminates Panama",
+      "description": "Ante Budimir came off the bench to ignite Croatia's World Cup and eliminate Panama as the 2018 finalists won 1-0 in Toronto.",
+      "publishedAt": "2026-06-24T01:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ante-budimir-croatia_7281383.jpg?20260624020210",
+      "link": "https://www.skysports.com/football/news/12040/13554940/world-cup-2026-panama-0-1-croatia-ante-budimir-scores-from-bench-to-kickstart-2018-finalists-tournament",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49151181,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Could Arsenal recruit the new Alexis in Osorio?",
@@ -14,17 +36,6 @@
         "Real Madrid",
         "Manchester City"
       ]
-    },
-    {
-      "id": "8f5003edd43da99b6bab84cbba91490a",
-      "source": "Sky Sports",
-      "headline": "He has arrived! Ronaldo scores two as Portugal thrash Uzbekistan",
-      "description": "Cristiano Ronaldo scored twice as Portugal reaffirmed their World Cup credentials with a rousing 5-0 victory over Uzbekistan.",
-      "publishedAt": "2026-06-23T18:45:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7281214.jpg?20260623193024",
-      "link": "https://www.skysports.com/football/portugal-vs-uzbekistan/report/549810",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49154575,
@@ -552,11 +563,22 @@
       "teams": [
         "Chelsea"
       ]
+    },
+    {
+      "id": "652bfc485fa3af8ada5df24986364e35",
+      "source": "Sky Sports",
+      "headline": "Colombia vs DR Congo: All the big moments and rate the players",
+      "description": "",
+      "publishedAt": "2026-06-15T16:18:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-munoz-colombia_7281384.jpg?20260624032818",
+      "link": "https://www.skysports.com/football/colombia-vs-dr-congo/live/549811",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-23T20:20:52.473Z"
+    "cachedAt": "2026-06-24T04:33:27.020Z"
   }
 }
