@@ -2,15 +2,110 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "dd8a5471b827c69721f6e0446ebbc6d7",
+      "id": "4175f663e183c15cb93e460b23351ec7",
       "source": "Sky Sports",
-      "headline": "McInnes: I belong at Rangers",
-      "description": "Derek McInnes says he “belongs” at Rangers after being unveiled as the club’s new manager and laid out his intention to win the Scottish Premiership as quickly as possible.",
-      "publishedAt": "2026-06-24T14:30:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-derek-mcinnes-rangers_7281811.jpg?20260624153909",
-      "link": "https://www.skysports.com/football/news/12040/13557307/rangers-derek-mcinnes-says-he-belongs-at-ibrox-as-he-vows-to-win-scottish-premiership-as-quickly-as-possible",
+      "headline": "Tuchel: England cannot rely on Saka for goals - but we need him desperately",
+      "description": "Thomas Tuchel says England cannot rely on the returning Bukayo Saka to solve their World Cup goalscoring issues, but he does admit: “We need him desperately.”",
+      "publishedAt": "2026-06-24T19:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-bukayo-saka-england_7281379.jpg?20260624004840",
+      "link": "https://www.skysports.com/football/news/12040/13557459/england-at-the-world-cup-thomas-tuchel-talks-bukayo-saka-and-marc-guehi-ezri-konsa-centre-back-partnership-against-ghana",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": "df7cc3c335af67f42ca768ee85bab9b2",
+      "source": "Sky Sports",
+      "headline": "Qatar halve Bosnia lead while Canada remain level with Switzerland in Group B finale LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-24T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-bosnia-goal_7282038.jpg?20260624204335",
+      "link": "https://www.skysports.com/football/switzerland-vs-canada/live/549817",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "1cfd4c1d6cbb677fc0c016cd636de8a0",
+      "source": "Sky Sports",
+      "headline": "Qatar's Madibo given five-match ban for leg-breaking tackle",
+      "description": "",
+      "publishedAt": "2026-06-24T18:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-canada-qatar_7277288.jpg?20260619005719",
+      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49166627,
+      "source": "ESPN",
+      "headline": "Klopp: I have no problem with the World Cup hydration breaks",
+      "description": "Klopp: I have no problem with the World Cup hydration breaks",
+      "publishedAt": "2026-06-24T17:22:42Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_COM_SOC_Analysis_Klopp3A_I_have_no_problem_with_the_World_Cup_hydration_breaks_GLOBAL_2026-06-24/dm_260624_COM_SOC_Analysis_Klopp3A_I_have_no_problem_with_the_World_Cup_hydration_breaks_GLOBAL_2026-06-24.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49166627/no-problem-world-cup-hydration-breaks",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Liverpool",
+        "United States"
+      ]
+    },
+    {
+      "id": 49165458,
+      "source": "ESPN",
+      "headline": "Tottenham sign Martin Dubravka from Burnley as Roberto De Zerbi rebuild continues",
+      "description": "Tottenham Hotspur have confirmed goalkeeper Martin Dúbravka will join the club from Burnley.",
+      "publishedAt": "2026-06-24T16:14:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678763_1296x1296_1-1.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49165458/tottenham-sign-martin-dubravka-burnley-roberto-de-zerbi-rebuild-continues",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Burnley",
+        "Slovakia"
+      ]
+    },
+    {
+      "id": "4e06ef10a4e39c9cee144b5b883d455e",
+      "source": "Sky Sports",
+      "headline": "Wales boss Bellamy in talks with Burnley over head coach role",
+      "description": "",
+      "publishedAt": "2026-06-24T15:44:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-craig-bellamy-wales_7263098.jpg?20260601163126",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-06-24T15:14:02Z",
+      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
     },
     {
       "id": 49162828,
@@ -52,28 +147,6 @@
       "teams": []
     },
     {
-      "id": "9f85be5b75faaa2af3ff3ce07027a7a9",
-      "source": "Sky Sports",
-      "headline": "Leeds reach agreement to sign Wilson on a free",
-      "description": "Leeds United have agreed a deal to sign Harry Wilson on a free transfer.",
-      "publishedAt": "2026-06-24T10:50:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-wilson-fulham_7281593.jpg?20260624114945",
-      "link": "https://www.skysports.com/football/news/12040/13557327/leeds-transfer-news-harry-wilson-agreement-reached-as-midfielder-set-to-sign-on-free-transfer-when-fulham-contract-expires",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "8a8319b4df2e1ca7479e1c6194f09eb4",
-      "source": "Sky Sports",
-      "headline": "Merson: Back to reality for England but we need to trust Tuchel",
-      "description": "Paul Merson says England's 0-0 draw with Ghana was \"back to reality\" for the Three Lions but the Sky Sports pundit insists we need to have trust in Thomas Tuchel to get it right.",
-      "publishedAt": "2026-06-24T10:10:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-england_7281581.jpg?20260624112859",
-      "link": "https://www.skysports.com/football/news/12040/13557309/world-cup-2026-ghana-draw-a-reality-check-for-england-but-we-need-to-trust-thomas-tuchel-says-paul-merson",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
       "id": 49114892,
       "source": "ESPN",
       "headline": "Liverpool Premier League fixtures 2026-27: Andoni Iraola tenure to begin with daunting trip to Newcastle",
@@ -85,6 +158,17 @@
       "teams": [
         "Liverpool"
       ]
+    },
+    {
+      "id": "638fea0de112585e01af28bd0504dfb1",
+      "source": "Sky Sports",
+      "headline": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
+      "description": "",
+      "publishedAt": "2026-06-24T08:10:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49115208,
@@ -183,38 +267,6 @@
         "Coventry City",
         "Ipswich Town",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-06-24T07:52:08Z",
-      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -413,21 +465,6 @@
       ]
     },
     {
-      "id": 49135863,
-      "source": "ESPN",
-      "headline": "What's next for Tottenham and Vuskovic?",
-      "description": "",
-      "publishedAt": "2026-06-21T17:09:53Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0621/dm_260621_COM_SOC_ANALYSIS_Whats_next_for_Tottenham_and_Vuskovic_2026_6_21/dm_260621_COM_SOC_ANALYSIS_Whats_next_for_Tottenham_and_Vuskovic_2026_6_21.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49135863/next-tottenham-vuskovic",
-      "tag": "Croatia",
-      "teams": [
-        "Croatia",
-        "Hamburg SV",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49135586,
       "source": "ESPN",
       "headline": "Marcotti: Tonali bid 'shows a lot of ambition' from Spurs",
@@ -538,26 +575,11 @@
         "Manchester United",
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": 49115006,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona, Liverpool eye move for Van de Ven",
-      "description": "Tottenham Hotspur defender Micky van de Ven could be on the move next season. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-20T01:03:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0620/r1676398_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49115006/transfer-rumors-newsreal-madrid-eye-huge-deal-michael-olise-bayern-munich-france",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Liverpool",
-        "Barcelona"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-24T15:05:31.316Z"
+    "cachedAt": "2026-06-24T20:04:30.793Z"
   }
 }
