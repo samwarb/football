@@ -2,37 +2,87 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "4175f663e183c15cb93e460b23351ec7",
+      "id": "f28adbb9879d73f3205922d2bbdfe581",
       "source": "Sky Sports",
-      "headline": "Tuchel: England cannot rely on Saka for goals - but we need him desperately",
-      "description": "Thomas Tuchel says England cannot rely on the returning Bukayo Saka to solve their World Cup goalscoring issues, but he does admit: “We need him desperately.”",
-      "publishedAt": "2026-06-24T19:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-bukayo-saka-england_7281379.jpg?20260624004840",
-      "link": "https://www.skysports.com/football/news/12040/13557459/england-at-the-world-cup-thomas-tuchel-talks-bukayo-saka-and-marc-guehi-ezri-konsa-centre-back-partnership-against-ghana",
+      "headline": "Ochoa and Mora make World Cup history as Mexico down Czech Republic",
+      "description": "Guillermo Ochoa appeared at a record sixth World Cup and 17-year-old Gilberto Mora shone as the youngest player to start in the competition for 24 years as co-hosts Mexico eliminated Czech Republic with a third consecutive win in Group A.",
+      "publishedAt": "2026-06-25T02:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mexip-mexico-fidalgo_7282213.jpg?20260625041347",
+      "link": "https://www.skysports.com/football/czech-republic-vs-mexico/report/549815",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "94bf48698a8b8af5f8124d903cd966f9",
+      "source": "Sky Sports",
+      "headline": "South Africa make history by qualifying with win over South Korea",
+      "description": "South Africa have reached the World Cup knockout rounds for the first time in their history by finishing second in Group A with a 1-0 victory over South Korea.",
+      "publishedAt": "2026-06-25T02:45:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-thapelo-maseko-south-africa_7282211.jpg?20260625033939",
+      "link": "https://www.skysports.com/football/south-africa-vs-korea-republic/report/549814",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "ee0e23ceaae7a77e0ba65826decf5625",
+      "source": "Sky Sports",
+      "headline": "Clarke downbeat on Scotland's knockout round hopes: 'I think we're going home'",
+      "description": "Steve Clarke believes Scotland are \"going home\" after a damaging 3-0 defeat to Brazil in their final Group C game of the 2026 World Cup.",
+      "publishedAt": "2026-06-25T01:05:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-steve-clarke-scotland_7282192.jpg?20260625020440",
+      "link": "https://www.skysports.com/football/news/12040/13557530/scotland-0-3-brazil-steve-clarke-andy-robertson-and-john-mcginn-admit-2026-world-cup-round-of-32-hopes-may-be-over",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "df7cc3c335af67f42ca768ee85bab9b2",
+      "id": "5ab856bc033bd9a65ecd4a8aad640234",
       "source": "Sky Sports",
-      "headline": "Qatar halve Bosnia lead while Canada remain level with Switzerland in Group B finale LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-24T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-bosnia-goal_7282038.jpg?20260624204335",
-      "link": "https://www.skysports.com/football/switzerland-vs-canada/live/549817",
-      "tag": "Liveblog",
+      "headline": "Morocco late show beats Haiti and secures second in Group C",
+      "description": "Two late goals earned Morocco a hard-fought 4-2 win against Haiti in their final Group C game, which saw them finish as runners-up.",
+      "publishedAt": "2026-06-25T00:15:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-morocco-gessime-yassine_7282181.jpg?20260625011238",
+      "link": "https://www.skysports.com/football/morocco-vs-haiti/report/549818",
+      "tag": "Report",
       "teams": []
     },
     {
-      "id": "1cfd4c1d6cbb677fc0c016cd636de8a0",
+      "id": "58633c63cfce5c78fb6c128749f1ebb1",
       "source": "Sky Sports",
-      "headline": "Qatar's Madibo given five-match ban for leg-breaking tackle",
-      "description": "",
-      "publishedAt": "2026-06-24T18:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-canada-qatar_7277288.jpg?20260619005719",
-      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "tag": "Liveblog",
+      "headline": "Scotland face anxious wait after punishing loss to Brazil",
+      "description": "Scotland face a nervous wait to learn their World Cup fate after they were punished by Brazil.",
+      "publishedAt": "2026-06-25T00:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-vinicius-junior-brazil_7282157.jpg?20260624232121",
+      "link": "https://www.skysports.com/football/scotland-vs-brazil/report/549819",
+      "tag": "Report",
       "teams": []
+    },
+    {
+      "id": 49169199,
+      "source": "ESPN",
+      "headline": "Tottenham join Man United in Mateus Fernandes transfer race - sources",
+      "description": "Tottenham are considering rivalling Manchester United to sign West Ham midfielder Mateus Fernandes, sources have told ESPN.",
+      "publishedAt": "2026-06-24T23:43:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0405/r1638826_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49169199/tottenham-join-man-united-mateus-fernandes-west-ham-transfer-race",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49162828,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City eye move for Chelsea's Gusto",
+      "description": "Manchester City are reportedly looking at a possible move for Chelsea right back Malo Gusto. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-24T22:43:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678982_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49162828/transfer-rumors-news-man-united-arsenal-eye-bournemouth-star",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Chelsea"
+      ]
     },
     {
       "id": 49166627,
@@ -63,17 +113,6 @@
         "Burnley",
         "Slovakia"
       ]
-    },
-    {
-      "id": "4e06ef10a4e39c9cee144b5b883d455e",
-      "source": "Sky Sports",
-      "headline": "Wales boss Bellamy in talks with Burnley over head coach role",
-      "description": "",
-      "publishedAt": "2026-06-24T15:44:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-craig-bellamy-wales_7263098.jpg?20260601163126",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48955344,
@@ -108,21 +147,6 @@
       ]
     },
     {
-      "id": 49162828,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, Arsenal eye Bournemouth star",
-      "description": "Manchester United and Arsenal are both interested in Bournemouth midfielder Alex Scott. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-24T14:22:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0411/r1641824_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49162828/transfer-rumors-news-man-united-arsenal-eye-bournemouth-star",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Arsenal",
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49165316,
       "source": "ESPN",
       "headline": "Chelsea closing in on deal for Atalanta full-back Marco Palestra - sources",
@@ -136,17 +160,6 @@
       ]
     },
     {
-      "id": "f4015a53c53fdf841e385fd31ae2dc30",
-      "source": "Sky Sports",
-      "headline": "Man Utd and Spurs battling for Fernandes and Arsenal target Scott",
-      "description": "Tottenham are considering making a bid for West Ham midfielder Mateus Fernandes, Sky Sports News understands, but could still face competition from Manchester United.",
-      "publishedAt": "2026-06-24T14:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-mateus-fernandes_7281761.jpg?20260624143155",
-      "link": "https://www.skysports.com/football/news/12040/13557379/transfer-news-man-utd-and-tottenham-battling-for-west-hams-mateus-fernandes-and-arsenal-target-alex-scott",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49114892,
       "source": "ESPN",
       "headline": "Liverpool Premier League fixtures 2026-27: Andoni Iraola tenure to begin with daunting trip to Newcastle",
@@ -158,17 +171,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "638fea0de112585e01af28bd0504dfb1",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
-      "description": "",
-      "publishedAt": "2026-06-24T08:10:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49115208,
@@ -334,6 +336,17 @@
       ]
     },
     {
+      "id": "f5dc1d41453e707568c2ca417500dfa3",
+      "source": "Sky Sports",
+      "headline": "Who could play who in the last 32: Every potential knockout stage fixture!",
+      "description": "As the World Cup group stage draws to a close, it's time to start looking ahead to the knockout rounds and potential routes to the final in July 19.",
+      "publishedAt": "2026-06-24T06:55:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-2026-bracket_7280764.jpg?20260623105714",
+      "link": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49151181,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Could Arsenal recruit the new Alexis in Osorio?",
@@ -360,6 +373,17 @@
         "Ipswich Town",
         "Strasbourg"
       ]
+    },
+    {
+      "id": "ac28e0ed8a898065cdd2cfe78eb2e763",
+      "source": "Sky Sports",
+      "headline": "All the key moments as Mexico and South Africa earn famous wins",
+      "description": "",
+      "publishedAt": "2026-06-23T12:36:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-julian-quinones-mexico_7282210.jpg?20260625033610",
+      "link": "https://www.skysports.com/football/czech-republic-vs-mexico/live/549815",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49114814,
@@ -562,24 +586,31 @@
       ]
     },
     {
-      "id": 49124293,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City ahead of Man Utd in Anderson race",
-      "description": "England midfielder Elliot Anderson is looking more likely to join Manchester City than Manchester United this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-20T15:10:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0620/r1676546_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49124293/transfer-rumors-news-manchester-city-ahead-manchester-united-elliot-anderson-race",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest"
-      ]
+      "id": "efce552598a823bb4ab086cefb35e7e9",
+      "source": "Sky Sports",
+      "headline": "Scotland's hopes of progressing to last 32 hanging by a thread",
+      "description": "Scotland's World Cup dreams and hopes of progressing to the last 32 are hanging by a thread after their heavy defeat to Brazil.",
+      "publishedAt": "2026-06-20T13:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-robertson-scotland_7278498.jpg?20260620121845",
+      "link": "https://www.skysports.com/football/news/12040/13546376/scotlands-world-cup-2026-fixtures-schedule-plus-routes-to-knock-out-stage-and-beyond-can-steve-clarkes-side-make-history",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "16e6e47fa96f0c591af950f95be01bf5",
+      "source": "Sky Sports",
+      "headline": "World Cup 2026 fixture schedule - your day-by-day guide",
+      "description": "Here's your day-by-day breakdown of the 48-team, 37-day World Cup which features 103 matches leading up to the final on July 19.",
+      "publishedAt": "2025-12-09T09:23:00.000Z",
+      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-world-cup-trophy_7105535.jpg?20251209123529",
+      "link": "https://www.skysports.com/football/news/12040/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england-scotland",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-24T20:04:30.793Z"
+    "cachedAt": "2026-06-25T04:31:58.086Z"
   }
 }
