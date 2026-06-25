@@ -2,12 +2,23 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "531b40d4a5f11dee7f333f58733b52b6",
+      "source": "Sky Sports",
+      "headline": "Ecuador level against Germany with Ivory Coast in front vs Curacao LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-25T18:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ecuador-germany_7283037.jpg?20260625204230",
+      "link": "https://www.skysports.com/football/ecuador-vs-germany/live/549823",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49173065,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United want Scotland keeper Gunn",
+      "headline": "Transfer rumors, news: Arsenal, Man City keen on Sporting captain Hjulmand",
       "description": "Manchester United are considering a surprise move for Scotland goalkeeper Angus Gunn. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-25T14:26:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1659834_1296x729_16-9.jpg",
+      "publishedAt": "2026-06-25T18:18:23Z",
+      "image": "https://a.espncdn.com/photo/2025/1101/r1569078_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49173065/transfer-rumors-news-manchester-united-want-scotland-goalkeeper-gunn",
       "tag": "Manchester United",
       "teams": [
@@ -17,14 +28,36 @@
       ]
     },
     {
-      "id": "1ecb89e02af421e7d00bb4e3984e1532",
+      "id": "069ab7685255a24b8a7fcf907881e7b1",
       "source": "Sky Sports",
-      "headline": "Scot Prem latest: McCrorie becomes McInnes' first signing as Rangers boss",
-      "description": "",
-      "publishedAt": "2026-06-25T14:00:00.000Z",
-      "image": "https://e2.365dm.com/25/08/1920x1080/skysports-efl-championship_6986765.jpg?20250809180927",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "tag": "Liveblog",
+      "headline": "Hearts appoint Vrancken as McInnes' replacement",
+      "description": "Hearts have appointed Wouter Vrancken as their new head coach.",
+      "publishedAt": "2026-06-25T16:45:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-vrancken-wouter-hearts_7280409.jpg?20260622190326",
+      "link": "https://www.skysports.com/football/news/12040/13556858/hearts-wouter-vrancken-named-new-tynecastle-head-coach-after-derek-mcinnes-switch-to-rangers",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "47abed585c68cb24580e552d7adaccd8",
+      "source": "Sky Sports",
+      "headline": "Putellas decides to join London City Lionesses",
+      "description": "Alexia Putellas has decided to London City Lionesses on a free transfer following her departure from Barcelona.",
+      "publishedAt": "2026-06-25T16:40:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-alexia-putellas-barcelona_7258966.jpg?20260526143349",
+      "link": "https://www.skysports.com/football/news/12040/13557772/alexia-putellas-former-barcelona-midfielder-decides-to-join-london-city-lionesses-on-a-free-transfer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "dc44f1512cdce83ac6c6e51d049345b6",
+      "source": "Sky Sports",
+      "headline": "Neville: Rogers should replace Gordon against Panama",
+      "description": "Gary Neville believes that Morgan Rogers should come into the England team for the game against Panama in place of Anthony Gordon but is otherwise preaching calm after a frustrating goalless draw against Ghana at the World Cup.",
+      "publishedAt": "2026-06-25T16:25:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-morgan-rogers-england_7282803.jpg?20260625163723",
+      "link": "https://www.skysports.com/football/news/12040/13557683/morgan-rogers-can-replace-anthony-gordon-for-england-says-gary-neville-ahead-of-world-cup-clash-with-panama",
+      "tag": "Article/Blog",
       "teams": []
     },
     {
@@ -39,50 +72,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "069ab7685255a24b8a7fcf907881e7b1",
-      "source": "Sky Sports",
-      "headline": "Hearts appoint Vrancken as McInnes' replacement",
-      "description": "Hearts have appointed Wouter Vrancken as their new head coach.",
-      "publishedAt": "2026-06-25T13:29:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-vrancken-wouter-hearts_7280409.jpg?20260622190326",
-      "link": "https://www.skysports.com/football/news/12040/13556858/hearts-wouter-vrancken-named-new-tynecastle-head-coach-after-derek-mcinnes-switch-to-rangers",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "6aa64b7409a8f59f16b2cc8e98a4ce26",
-      "source": "Sky Sports",
-      "headline": "West Ham latest: Hammers' Millwall reunion revealed as fixtures released",
-      "description": "",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "f3ecde606beda4547a625788d34817cf",
-      "source": "Sky Sports",
-      "headline": "West Ham visit Burnley on opening Championship weekend - every game live on Sky",
-      "description": "West Ham and Burnley will go head to head on the opening weekend of the new Championship season after Wolves kick off the new campaign at home to Blackburn - live on Sky Sports+ .",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-efl-fixtures-championship_7277462.jpg?20260619080034",
-      "link": "https://www.skysports.com/football/news/12040/13552248/championship-2026-27-season-fixtures-dates-schedule-and-how-to-watch",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "f0de464ba9d4d50a3364a8b965f7e7b1",
-      "source": "Sky Sports",
-      "headline": "L1 fixtures: Leicester start at Notts County with every opening game live on Sky",
-      "description": "Leicester City will start their first season in Sky Bet League One since 2008/09 with a trip to Notts County, live on Sky Sports.",
-      "publishedAt": "2026-06-25T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-efl-league-one-fixtures_7277459.jpg?20260619075851",
-      "link": "https://www.skysports.com/football/news/12040/13552244/league-one-2026-27-season-fixtures-dates-schedule-how-to-watch",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49114892,
@@ -364,17 +353,6 @@
       ]
     },
     {
-      "id": "7f04b6ffd2b5766bc738079eee2b08aa",
-      "source": "Sky Sports",
-      "headline": "Spurs latest: Kinsky close to new long-term deal",
-      "description": "",
-      "publishedAt": "2026-06-24T14:15:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49165316,
       "source": "ESPN",
       "headline": "Chelsea closing in on deal for Atalanta full-back Marco Palestra - sources",
@@ -577,6 +555,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-25T15:10:17.818Z"
+    "cachedAt": "2026-06-25T20:21:10.558Z"
   }
 }
