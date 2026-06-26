@@ -2,14 +2,25 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "531b40d4a5f11dee7f333f58733b52b6",
+      "id": "6d50ad2259b3454204fe6d6af7b7f81c",
       "source": "Sky Sports",
-      "headline": "Ecuador level against Germany with Ivory Coast in front vs Curacao LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-25T18:45:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ecuador-germany_7283037.jpg?20260625204230",
-      "link": "https://www.skysports.com/football/ecuador-vs-germany/live/549823",
-      "tag": "Liveblog",
+      "headline": "USA beaten as Turkey restore pride with late winner",
+      "description": "Eliminated Turkey scored a 98th-minute winner to clinch a 3-2 victory over World Cup co-hosts USA in Group D.",
+      "publishedAt": "2026-06-26T04:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-turkey-usa_7283187.jpg?20260626052325",
+      "link": "https://www.skysports.com/football/turkey-vs-united-states-of-america/report/549821",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "52853e0fca6db26bf10bd8bde7193609",
+      "source": "Sky Sports",
+      "headline": "Australia progress with bore draw which looks set to also suit Paraguay",
+      "description": "Australia are into the last-32 of the World Cup and Paraguay are well placed to join them after a 0-0 draw in San Francisco which suited both sides.",
+      "publishedAt": "2026-06-26T04:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-australia-world-cup_7283184.jpg?20260626051320",
+      "link": "https://www.skysports.com/football/paraguay-vs-australia/report/549820",
+      "tag": "Report",
       "teams": []
     },
     {
@@ -17,7 +28,7 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, Man City keen on Sporting captain Hjulmand",
       "description": "Manchester United are considering a surprise move for Scotland goalkeeper Angus Gunn. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-25T18:18:23Z",
+      "publishedAt": "2026-06-26T01:44:24Z",
       "image": "https://a.espncdn.com/photo/2025/1101/r1569078_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49173065/transfer-rumors-news-manchester-united-want-scotland-goalkeeper-gunn",
       "tag": "Manchester United",
@@ -28,37 +39,84 @@
       ]
     },
     {
-      "id": "069ab7685255a24b8a7fcf907881e7b1",
+      "id": "ec9669324debb36d1e7d43be7d58e123",
       "source": "Sky Sports",
-      "headline": "Hearts appoint Vrancken as McInnes' replacement",
-      "description": "Hearts have appointed Wouter Vrancken as their new head coach.",
-      "publishedAt": "2026-06-25T16:45:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-vrancken-wouter-hearts_7280409.jpg?20260622190326",
-      "link": "https://www.skysports.com/football/news/12040/13556858/hearts-wouter-vrancken-named-new-tynecastle-head-coach-after-derek-mcinnes-switch-to-rangers",
+      "headline": "Elanga earns Sweden spot in World Cup knockouts with Japan draw",
+      "description": "Anthony Elanga's stunning equaliser booked Sweden's spot in the World Cup knockout stages after a 1-1 draw with Japan, who also go through as the second-placed team in Group F.",
+      "publishedAt": "2026-06-26T01:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-sweden-japan_7283171.jpg?20260626013205",
+      "link": "https://www.skysports.com/football/japan-vs-sweden/report/549824",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "f2d8448627825f82e1ee6dd07b0563b3",
+      "source": "Sky Sports",
+      "headline": "Netherlands claim Group F top spot with win over Tunisia",
+      "description": "Netherlands secured top spot in Group F with a comprehensive 3-1 win over Tunisia.",
+      "publishedAt": "2026-06-26T01:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-netherlands-tunisia_7283164.jpg?20260626005519",
+      "link": "https://www.skysports.com/football/tunisia-vs-netherlands/report/549825",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "7c95cfcbb675648230630f4bddb58c30",
+      "source": "Sky Sports",
+      "headline": "Netherlands, Japan and Sweden all go through - key moments and rate players!",
+      "description": "",
+      "publishedAt": "2026-06-25T22:25:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-netherlands-tunisia_7283151.jpg?20260626001413",
+      "link": "https://www.skysports.com/football/japan-vs-sweden/live/549824",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "024dfefa02b47d7b07dcb10aea3f5e9b",
+      "source": "Sky Sports",
+      "headline": "Pepe double vs Curacao sends Ivory Coast through",
+      "description": "Former Arsenal forward Nicolas Pepe scored twice as Ivory Coast secured second-place in Group E with a comfortable 2-0 win over Curacao.",
+      "publishedAt": "2026-06-25T22:15:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-nicolas-pepe-ivory-coast_7283132.jpg?20260625231535",
+      "link": "https://www.skysports.com/football/curacao-vs-ivory-coast/report/549822",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "e0537c7a6ad6ca7c7ce4967167af2b3b",
+      "source": "Sky Sports",
+      "headline": "Injury-hit Warrington edge Catalans to move level on points with Leeds",
+      "description": "​​​​​​Injury-hit Warrington Wolves moved level on points with Super League table toppers Leeds Rhinos after eking out a narrow 18-16 victory over Catalans Dragons.",
+      "publishedAt": "2026-06-25T22:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-matty-ashton-warrington-wolves_7283112.jpg?20260625224223",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13557731/super-league-warrington-wolves-cope-with-injuries-to-edge-catalans-dragons-18-16-and-move-level-on-points-with-leaders-leeds-rhinos",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "47abed585c68cb24580e552d7adaccd8",
+      "id": "f1139501eedbd32930ce666ca0f00c27",
       "source": "Sky Sports",
-      "headline": "Putellas decides to join London City Lionesses",
-      "description": "Alexia Putellas has decided to London City Lionesses on a free transfer following her departure from Barcelona.",
-      "publishedAt": "2026-06-25T16:40:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-alexia-putellas-barcelona_7258966.jpg?20260526143349",
-      "link": "https://www.skysports.com/football/news/12040/13557772/alexia-putellas-former-barcelona-midfielder-decides-to-join-london-city-lionesses-on-a-free-transfer",
-      "tag": "News Story",
+      "headline": "Ecuador stun Germany to reach knockouts",
+      "description": "Ecuador stunned already-qualified Germany with a 2-1 comeback win in New Jersey to reach the World Cup knockout stages and dent Scotland’s round of 32 hopes.",
+      "publishedAt": "2026-06-25T22:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ecuador-gonzalo-plata_7283138.jpg?20260625232729",
+      "link": "https://www.skysports.com/football/ecuador-vs-germany/report/549823",
+      "tag": "Report",
       "teams": []
     },
     {
-      "id": "dc44f1512cdce83ac6c6e51d049345b6",
-      "source": "Sky Sports",
-      "headline": "Neville: Rogers should replace Gordon against Panama",
-      "description": "Gary Neville believes that Morgan Rogers should come into the England team for the game against Panama in place of Anthony Gordon but is otherwise preaching calm after a frustrating goalless draw against Ghana at the World Cup.",
-      "publishedAt": "2026-06-25T16:25:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-morgan-rogers-england_7282803.jpg?20260625163723",
-      "link": "https://www.skysports.com/football/news/12040/13557683/morgan-rogers-can-replace-anthony-gordon-for-england-says-gary-neville-ahead-of-world-cup-clash-with-panama",
-      "tag": "Article/Blog",
-      "teams": []
+      "id": 49179377,
+      "source": "ESPN",
+      "headline": "Should Man City break the transfer record for Anderson?",
+      "description": "",
+      "publishedAt": "2026-06-25T20:57:38Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_ANALYSIS_Should_Man_City_break_the_transfer_record_for_Anderson_2026_6_25/dm_260625_COM_SOC_ANALYSIS_Should_Man_City_break_the_transfer_record_for_Anderson_2026_6_25.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49179377/should-man-city-break-transfer-record-anderson",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Manchester City"
+      ]
     },
     {
       "id": 49175205,
@@ -394,6 +452,17 @@
       ]
     },
     {
+      "id": "b566ec2d63279bd040830cf888d453a5",
+      "source": "Sky Sports",
+      "headline": "Australia into last-32 of World Cup; Turkey beat USA in thriller LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-23T13:06:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-australia-world-cup_7283182.jpg?20260626051112",
+      "link": "https://www.skysports.com/football/turkey-vs-united-states-of-america/live/549821",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 28925920,
       "source": "ESPN",
       "headline": "Giannis Antetokounmpo latest athlete to suit up far from where they became stars",
@@ -535,26 +604,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 49129176,
-      "source": "ESPN",
-      "headline": "Newcastle reject Tottenham's £75m Sandro Tonali bid",
-      "description": "Tottenham Hotspur have had an offer worth in the region of £75 million ($100m) rejected by Newcastle United for Sandro Tonali, sources have confirmed to ESPN.",
-      "publishedAt": "2026-06-20T21:36:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0620/r1676795_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49129176/newcastle-reject-tottenham-sandro-tonali-transfer-bid-75-million",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Newcastle United",
-        "Italy"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-25T20:21:10.558Z"
+    "cachedAt": "2026-06-26T04:38:09.324Z"
   }
 }
