@@ -2,6 +2,53 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "02eb471739f263c0ef7205b3bc380a3e",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal preparing second approach for Guimaraes",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-06-26T19:00:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13558113/bruno-guimaraes-transfer-news-arsenal-preparing-second-approach-for-newcastle-captain-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "f93539ec7d0bc9e57c020758ef3db68a",
+      "source": "Sky Sports",
+      "headline": "World Cup latest: Panama team-mates clash in training ahead of England game",
+      "description": "",
+      "publishedAt": "2026-06-26T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-panama-world-cup_7283872.png?20260626190008",
+      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "8a40f8318d435ff94e02470cd68bd99c",
+      "source": "Sky Sports",
+      "headline": "Dembele scores 30-minute hat-trick against Norway; Senegal lead Iraq LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-26T17:40:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ousmane-dembele-france_7283904.jpg?20260626201258",
+      "link": "https://www.skysports.com/football/norway-vs-france/live/549831",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49186659,
+      "source": "ESPN",
+      "headline": "Newcastle reject £55 million bid from Arsenal for Bruno Guimarães - sources",
+      "description": "Arsenal have had a £55 million ($73m) offer for Bruno Guimarães rejected by Newcastle United, sources have told ESPN Brasil.",
+      "publishedAt": "2026-06-26T14:58:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679918_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49186659/arsenal-bruno-guimaraes-newcastle-reject-55-million-bid-sources",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Arsenal"
+      ]
+    },
+    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -40,17 +87,6 @@
         "Nottingham Forest",
         "Manchester City"
       ]
-    },
-    {
-      "id": "535f3c4a08b6b354462c1259ae16db2b",
-      "source": "Sky Sports",
-      "headline": "The knock-on effect Anderson deal could have on midfielder market this summer",
-      "description": "Elliot Anderson's imminent £116m transfer to Manchester City from Nottingham Forest is expected to have a knock-on effect for other deals for midfielders in the transfer window.",
-      "publishedAt": "2026-06-26T11:45:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-premier-league-transfer-centre_7283324.jpg?20260626100341",
-      "link": "https://www.skysports.com/football/news/12040/13557952/arsenal-liverpool-man-utd-spurs-transfers-how-elliot-anderson-deal-could-affect-midfielder-market-this-summer",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49114892,
@@ -505,22 +541,20 @@
       ]
     },
     {
-      "id": 49143683,
-      "source": "ESPN",
-      "headline": "Man United acquire 'the majority' of land needed for new stadium",
-      "description": "Manchester United have acquired \"the majority\" of land needed to build a proposed new 100,000-seater stadium, the club announced on Monday.",
-      "publishedAt": "2026-06-22T14:25:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677587_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49143683/man-united-acquire-majority-land-new-stadium",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
+      "id": "7d2e5f4ae75a0271199f4657e102b182",
+      "source": "Sky Sports",
+      "headline": "Everton latest: Toffees join race to sign Serie A midfielder",
+      "description": "",
+      "publishedAt": "2026-06-19T09:00:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-26T14:45:27.533Z"
+    "cachedAt": "2026-06-26T20:06:40.855Z"
   }
 }
