@@ -2,6 +2,57 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-06-26T13:29:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675673_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49184393,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United tracking Mexico's Mora",
+      "description": "Manchester United are interested in Mexico wonderkid Gilberto Mora. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-26T13:22:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0608/r1669799_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49184393/transfer-rumors-news-man-united-tracking-mexico-mora",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Mexico",
+        "Tijuana"
+      ]
+    },
+    {
+      "id": 49186217,
+      "source": "ESPN",
+      "headline": "Ilkay Gündogan: Elliot Anderson 'will make a great addition' to Man City",
+      "description": "Ilkay Gündogan has said that Nottingham Forest and England midfielder Elliot Anderson will \"make a great addition\" to the Manchester City squad.",
+      "publishedAt": "2026-06-26T12:47:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679901_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49186217/ilkay-gundogan-elliot-anderson-man-city-great-addition",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "535f3c4a08b6b354462c1259ae16db2b",
+      "source": "Sky Sports",
+      "headline": "The knock-on effect Anderson deal could have on midfielder market this summer",
+      "description": "Elliot Anderson's imminent £116m transfer to Manchester City from Nottingham Forest is expected to have a knock-on effect for other deals for midfielders in the transfer window.",
+      "publishedAt": "2026-06-26T11:45:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-premier-league-transfer-centre_7283324.jpg?20260626100341",
+      "link": "https://www.skysports.com/football/news/12040/13557952/arsenal-liverpool-man-utd-spurs-transfers-how-elliot-anderson-deal-could-affect-midfielder-market-this-summer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49114892,
       "source": "ESPN",
       "headline": "Liverpool Premier League fixtures 2026-27: Andoni Iraola tenure to begin with daunting trip to Newcastle",
@@ -99,31 +150,6 @@
       ]
     },
     {
-      "id": "511f681dc287ed6c1913b4df2258ecae",
-      "source": "Sky Sports",
-      "headline": "The World Cup 'Pride Match' - concern, complaints and the hope of 'unity'",
-      "description": "When Seattle announced it would host a Pride Match during the 2026 World Cup, it was long before the draw had even been made.",
-      "publishedAt": "2026-06-26T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-rainbow-flag-lgbtq_7279956.jpg?20260622120328",
-      "link": "https://www.skysports.com/football/news/12040/13556674/the-world-cup-2026-pride-match-between-egypt-and-iran-that-seattle-hopes-can-unite-football-community",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49184393,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal eye move for Bruno Guimarães",
-      "description": "Arsenal are preparing an offer to sign Newcastle United midfielder Bruno Guimarães. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-26T08:59:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663382_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49184393/transfer-rumors-news-arsenal-eye-move-bruno-guimaraes",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
-      ]
-    },
-    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -200,17 +226,6 @@
         "Manchester City",
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": "2b8bc81d4b152c063c8e1cdde0560cd4",
-      "source": "Sky Sports",
-      "headline": "Mbappe vs Haaland - new Messi-Ronaldo rivalry graces World Cup",
-      "description": "It is a World Cup where the big stars have shone so far. On Friday night, two of those big hitters are set to do battle in the first 'clash of the titans' meeting.",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-mbappe-haaland_7283127.jpg?20260625231237",
-      "link": "https://www.skysports.com/football/news/12040/13557028/kylian-mbappe-vs-erling-haaland-new-lionel-messi-cristiano-ronaldo-rivalry-on-show-as-norway-face-france-in-world-cup",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49183611,
@@ -501,41 +516,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49132964,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool, Man United eye move for Nmecha",
-      "description": "Liverpool and Manchester United are competing to sign Borussia Dortmund and Germany midfielder Felix Nmecha. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-22T02:03:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677431_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49132964/transfer-rumors-news-paris-saint-germain-bid-liverpool-target-yan-diomande",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Borussia Dortmund",
-        "Manchester United",
-        "Germany"
-      ]
-    },
-    {
-      "id": 49135586,
-      "source": "ESPN",
-      "headline": "Marcotti: Tonali bid 'shows a lot of ambition' from Spurs",
-      "description": "Marcotti: Tonali bid 'shows a lot of ambition' from Spurs",
-      "publishedAt": "2026-06-21T16:35:17Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0621/dm_260621_Marcotti_Tonali_bid_shows_a_lot_of_ambition_from_Spurs/dm_260621_Marcotti_Tonali_bid_shows_a_lot_of_ambition_from_Spurs.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49135586/tonali-bid-shows-lot-ambition-spurs",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-26T09:50:06.008Z"
+    "cachedAt": "2026-06-26T14:45:27.533Z"
   }
 }
