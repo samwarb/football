@@ -2,35 +2,82 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "02eb471739f263c0ef7205b3bc380a3e",
+      "id": "1d66c4d8faef759153d90b129b22108c",
       "source": "Sky Sports",
-      "headline": "Papers: Arsenal preparing second approach for Guimaraes",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-06-26T19:00:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13558113/bruno-guimaraes-transfer-news-arsenal-preparing-second-approach-for-newcastle-captain-paper-talk",
-      "tag": "News Story",
+      "headline": "Bielsa's Uruguay out following defeat to Spain",
+      "description": "Uruguay are out of the World Cup after a 1-0 defeat to Spain following another error-strewn performance by Marcelo Bielsa’s side.",
+      "publishedAt": "2026-06-27T02:34:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-alex-baena-spain_7283990.jpg?20260627020716",
+      "link": "https://www.skysports.com/football/uruguay-vs-spain/report/549829",
+      "tag": "Report",
       "teams": []
     },
     {
-      "id": "f93539ec7d0bc9e57c020758ef3db68a",
+      "id": "f97fc580291511adcafbc792579a9e29",
       "source": "Sky Sports",
-      "headline": "World Cup latest: Panama team-mates clash in training ahead of England game",
+      "headline": "Historic Cape Verde reach knockout rounds to set up Argentina tie",
+      "description": "Cape Verde continued their fairy tale run at the 2026 World Cup by making the round of 32 in their first appearance, finishing second in Group H after a 0-0 draw with Saudi Arabia.",
+      "publishedAt": "2026-06-27T02:20:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-cape-verde-saudi-arabia_7283994.jpg?20260627031633",
+      "link": "https://www.skysports.com/football/cape-verde-vs-saudi-arabia/report/549828",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "2035de2e5a24b0716a14462fee3c9352",
+      "source": "Sky Sports",
+      "headline": "Key moments & rate the players in Uruguay vs Spain and Cape Verde vs Saudi Arabia",
       "description": "",
-      "publishedAt": "2026-06-26T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-panama-world-cup_7283872.png?20260626190008",
-      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "publishedAt": "2026-06-26T23:25:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-marcelo-bielsa-uruguay_7283986.jpg?20260627011841",
+      "link": "https://www.skysports.com/football/uruguay-vs-spain/live/549829",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "8a40f8318d435ff94e02470cd68bd99c",
+      "id": 49190820,
+      "source": "ESPN",
+      "headline": "Hutchison: 'Not a chance' Guimarães leaves Newcastle for Arsenal for £55m",
+      "description": "Hutchison: 'Not a chance' Guimarães leaves Newcastle for Arsenal for £55m",
+      "publishedAt": "2026-06-26T22:22:12Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0626/dm_260626_Hutchison_Not_a_chance_Guimaraes_leaves_Newcastle_for_Arsenal_for_55m/dm_260626_Hutchison_Not_a_chance_Guimaraes_leaves_Newcastle_for_Arsenal_for_55m.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49190820/not-chance-guimaraes-leaves-newcastle-arsenal-55m",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "7974300a1fbec6a6a6ccda8fc0ab6dfb",
       "source": "Sky Sports",
-      "headline": "Dembele scores 30-minute hat-trick against Norway; Senegal lead Iraq LIVE!",
+      "headline": "Tuchel: Saka pain free and ready to start against Panama",
+      "description": "England boss Thomas Tuchel says Bukayo Saka is \"free of pain\" and \"ready to go\" for the Three Lions' final group game with Panama - amid an injury blow to defender Reece James.",
+      "publishedAt": "2026-06-26T22:13:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-saka-england_7283982.jpg?20260626235852",
+      "link": "https://www.skysports.com/football/news/12040/13558175/england-vs-panama-bukayo-saka-fit-and-ready-to-start-in-three-lions-final-group-game-plus-reece-james-elliot-anderson-declan-rice-injury-news",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "7181ec3ed9d4e44dc74c22702f300ea0",
+      "source": "Sky Sports",
+      "headline": "Connor shines as leaders Leeds produce 'brave' win for Burrow and family",
+      "description": "Leeds strengthened their position at the Betfred Super League summit after delivering another crushing win over defending champions Hull KR at Headingley.",
+      "publishedAt": "2026-06-26T22:05:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jake-connor-leeds_7283943.jpg?20260626222416",
+      "link": "https://www.skysports.com/rugby-league/leeds-vs-hull-k-r/report/63262",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "72e0d7785250536acad0a6790d3e2fc3",
+      "source": "Sky Sports",
+      "headline": "England latest: Anderson and Rice available but James out, says Tuchel",
       "description": "",
-      "publishedAt": "2026-06-26T17:40:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ousmane-dembele-france_7283904.jpg?20260626201258",
-      "link": "https://www.skysports.com/football/norway-vs-france/live/549831",
+      "publishedAt": "2026-06-26T21:40:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
       "tag": "Liveblog",
       "teams": []
     },
@@ -480,6 +527,28 @@
       ]
     },
     {
+      "id": "178dd216f18166e345e4007b0d5c2ecc",
+      "source": "Sky Sports",
+      "headline": "Trossard gives Belgium lead vs NZ with Egypt and Iran level LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-23T13:37:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-leandro-trossard_7284007.jpg?20260627043506",
+      "link": "https://www.skysports.com/football/new-zealand-vs-belgium/live/549827",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "e9582bff2a7094b11e4adc360abc6288",
+      "source": "Sky Sports",
+      "headline": "Golden Boot race: Dembele joins Mbappe in Messi chase after hat-trick",
+      "description": "Lionel Messi, Kylian Mbappe, Erling Haaland, Vinicius Junior and now Ousmane Dembele are involved in what is shaping up to be one of the most hotly contested World Cup Golden Boot battles in memory.",
+      "publishedAt": "2026-06-23T08:13:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-messi-vini-graphic_7282534.jpg?20260625112527",
+      "link": "https://www.skysports.com/football/news/12040/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-vinicius-junior-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 28925920,
       "source": "ESPN",
       "headline": "Giannis Antetokounmpo latest athlete to suit up far from where they became stars",
@@ -526,35 +595,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49145825,
-      "source": "ESPN",
-      "headline": "Manchester City close to naming Enzo Maresca as Pep Guardiola successor - sources",
-      "description": "Manchester City are close to announcing Enzo Maresca as their new manager after agreeing the framework of a compensation package with Chelsea, sources have told ESPN.",
-      "publishedAt": "2026-06-22T19:05:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677752_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49145825/manchester-city-close-naming-enzo-maresca-pep-guardiola-successor-sources",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "7d2e5f4ae75a0271199f4657e102b182",
-      "source": "Sky Sports",
-      "headline": "Everton latest: Toffees join race to sign Serie A midfielder",
-      "description": "",
-      "publishedAt": "2026-06-19T09:00:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-26T20:06:40.855Z"
+    "cachedAt": "2026-06-27T04:14:44.116Z"
   }
 }
