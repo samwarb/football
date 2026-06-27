@@ -2,6 +2,214 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49195071,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City to battle Arsenal, Liverpool, Real Madrid for Bouaddi",
+      "description": "Manchester City are the latest team to join the race for Lille and Morocco midfielder Ayyoub Bouaddi. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-27T08:11:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49195071/transfer-rumors-news-man-city-battle-arsenal-liverpool-real-madrid-bouaddi",
+      "tag": "Lille",
+      "teams": [
+        "Lille",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49114892,
+      "source": "ESPN",
+      "headline": "Liverpool Premier League fixtures 2026-27: Andoni Iraola tenure to begin with daunting trip to Newcastle",
+      "description": "Newly-appointed Liverpool manager Andoni Iraola will kick start his new role in the dugout away to Newcastle on the opening weekend of the Premier League season.",
+      "publishedAt": "2026-06-27T07:59:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0509/r1655680_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114892/liverpool-premier-league-fixtures-2026-27-andoni-iraola-newcastle-everton-manchester-united",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49115208,
+      "source": "ESPN",
+      "headline": "Chelsea Premier League fixtures 2026-27: Xabi Alonso begins reign with London derby",
+      "description": "Xabi Alonso will begin his tenure as Chelsea manager with a London derby against Fulham on the first Monday of the 2026-27 Premier League season.",
+      "publishedAt": "2026-06-27T07:59:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49115208/chelsea-premier-league-fixtures-2026-27-xabi-alonso-begins-reign-london-derby-fulham-arsenal-brighton",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49114814,
+      "source": "ESPN",
+      "headline": "Tottenham Premier League fixtures 2026-27: Roberto De Zerbi's team face tough end to season",
+      "description": "Tottenham begin their 2026-27 Premier League season with a trip across London to face Brentford, and face a daunting-looking end to their campaign.",
+      "publishedAt": "2026-06-27T07:59:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675963_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114814/tottenham-premier-league-fixtures-2026-27-roberto-de-zerbi-team-face-tough-end-season",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49114816,
+      "source": "ESPN",
+      "headline": "Man United Premier League fixtures 2026-27: Hull City first up for Michael Carrick's side",
+      "description": "Manchester United will host newly-promoted Hull City at Old Trafford on the opening day of the 2026-27 Premier League season.",
+      "publishedAt": "2026-06-27T07:58:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675967_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114816/man-united-premier-league-fixtures-2026-27-hull-city-first-michael-carrick-co",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49114842,
+      "source": "ESPN",
+      "headline": "Arsenal Premier League fixtures 2026-27: Gunners begin title defence against Coventry",
+      "description": "Arsenal will get their Premier League title defence under way when they host Coventry City on the opening week of the new season.",
+      "publishedAt": "2026-06-27T07:58:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114842/arsenal-premier-league-fixtures-2026-27-gunners-begin-title-defence-coventry-city-mikel-arteta",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49114849,
+      "source": "ESPN",
+      "headline": "Premier League fixtures 2026-27: Arsenal start against Coventry, Newcastle host Liverpool",
+      "description": "Arsenal will begin their Premier League title defence against newly-promoted Coventry City, while Liverpool travel to face Newcastle in the pick of the opening-day fixtures.",
+      "publishedAt": "2026-06-27T07:58:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675980_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114849/premier-league-fixtures-2026-27-arsenal-coventry-city-newcastle-united-liverpool-manchester-united-manchester-city-liverpool-tottenham-hotspur",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City",
+        "Manchester United",
+        "Aston Villa",
+        "Liverpool",
+        "AFC Bournemouth",
+        "Sunderland",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Chelsea",
+        "Fulham",
+        "Newcastle United",
+        "Everton",
+        "Leeds United",
+        "Crystal Palace",
+        "Nottingham Forest",
+        "Tottenham Hotspur",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
+      "publishedAt": "2026-06-27T07:53:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-06-27T07:52:57Z",
+      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "e30f1769c8332df96837370aa9d50b5f",
+      "source": "Sky Sports",
+      "headline": "Why England's backline remains Tuchel's biggest conundrum",
+      "description": "England were stifled creatively against Ghana as the Three Lions' second-game curse struck again in perhaps its most frustrating iteration - but do Thomas Tuchel's biggest worries lie at the other end of the pitch?",
+      "publishedAt": "2026-06-27T07:30:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ezri-konsa-marc-guehi_7283827.jpg?20260626181936",
+      "link": "https://www.skysports.com/football/news/12040/13557982/england-defensive-issues-thomas-tuchel-must-iron-out-backline-problems-before-tougher-tests-await-in-world-cup-knock-outs",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "aae58d48f554b4ef2f98830d78928110",
+      "source": "Sky Sports",
+      "headline": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
+      "description": "Iran had a last-gasp goal overturned as they just missed out on grabbing second spot in Group G - but a first-ever progression to the World Cup knockouts could still be achieved after their dramatic 1-1 draw with Egypt.",
+      "publishedAt": "2026-06-27T05:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-egypt-world-cup-iran_7284030.jpg?20260627063725",
+      "link": "https://www.skysports.com/football/egypt-vs-iran/report/549826",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "6b7caad5bb7d5528de4b210d8a24607d",
+      "source": "Sky Sports",
+      "headline": "Trossard hits double as Belgium thrash New Zealand to reach knockouts",
+      "description": "Belgium reached the World Cup knockout stages as group winners thanks to Leandro Trossard’s double in their 5-1 thrashing of New Zealand in Vancouver.",
+      "publishedAt": "2026-06-27T05:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-leandro-trossard_7284007.jpg?20260627043506",
+      "link": "https://www.skysports.com/football/new-zealand-vs-belgium/report/549827",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": "1d66c4d8faef759153d90b129b22108c",
       "source": "Sky Sports",
       "headline": "Bielsa's Uruguay out following defeat to Spain",
@@ -47,39 +255,6 @@
         "Arsenal",
         "Newcastle United"
       ]
-    },
-    {
-      "id": "7974300a1fbec6a6a6ccda8fc0ab6dfb",
-      "source": "Sky Sports",
-      "headline": "Tuchel: Saka pain free and ready to start against Panama",
-      "description": "England boss Thomas Tuchel says Bukayo Saka is \"free of pain\" and \"ready to go\" for the Three Lions' final group game with Panama - amid an injury blow to defender Reece James.",
-      "publishedAt": "2026-06-26T22:13:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-saka-england_7283982.jpg?20260626235852",
-      "link": "https://www.skysports.com/football/news/12040/13558175/england-vs-panama-bukayo-saka-fit-and-ready-to-start-in-three-lions-final-group-game-plus-reece-james-elliot-anderson-declan-rice-injury-news",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "7181ec3ed9d4e44dc74c22702f300ea0",
-      "source": "Sky Sports",
-      "headline": "Connor shines as leaders Leeds produce 'brave' win for Burrow and family",
-      "description": "Leeds strengthened their position at the Betfred Super League summit after delivering another crushing win over defending champions Hull KR at Headingley.",
-      "publishedAt": "2026-06-26T22:05:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jake-connor-leeds_7283943.jpg?20260626222416",
-      "link": "https://www.skysports.com/rugby-league/leeds-vs-hull-k-r/report/63262",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "72e0d7785250536acad0a6790d3e2fc3",
-      "source": "Sky Sports",
-      "headline": "England latest: Anderson and Rice available but James out, says Tuchel",
-      "description": "",
-      "publishedAt": "2026-06-26T21:40:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49186659,
@@ -133,167 +308,6 @@
       "teams": [
         "Nottingham Forest",
         "Manchester City"
-      ]
-    },
-    {
-      "id": 49114892,
-      "source": "ESPN",
-      "headline": "Liverpool Premier League fixtures 2026-27: Andoni Iraola tenure to begin with daunting trip to Newcastle",
-      "description": "Newly-appointed Liverpool manager Andoni Iraola will kick start his new role in the dugout away to Newcastle on the opening weekend of the Premier League season.",
-      "publishedAt": "2026-06-26T09:16:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0509/r1655680_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114892/liverpool-premier-league-fixtures-2026-27-andoni-iraola-newcastle-everton-manchester-united",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49115208,
-      "source": "ESPN",
-      "headline": "Chelsea Premier League fixtures 2026-27: Xabi Alonso begins reign with London derby",
-      "description": "Xabi Alonso will begin his tenure as Chelsea manager with a London derby against Fulham on the first Monday of the 2026-27 Premier League season.",
-      "publishedAt": "2026-06-26T09:13:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49115208/chelsea-premier-league-fixtures-2026-27-xabi-alonso-begins-reign-london-derby-fulham-arsenal-brighton",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49114814,
-      "source": "ESPN",
-      "headline": "Tottenham Premier League fixtures 2026-27: Roberto De Zerbi's team face tough end to season",
-      "description": "Tottenham begin their 2026-27 Premier League season with a trip across London to face Brentford, and face a daunting-looking end to their campaign.",
-      "publishedAt": "2026-06-26T09:12:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675963_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114814/tottenham-premier-league-fixtures-2026-27-roberto-de-zerbi-team-face-tough-end-season",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49114816,
-      "source": "ESPN",
-      "headline": "Man United Premier League fixtures 2026-27: Hull City first up for Michael Carrick's side",
-      "description": "Manchester United will host newly-promoted Hull City at Old Trafford on the opening day of the 2026-27 Premier League season.",
-      "publishedAt": "2026-06-26T09:06:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675967_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114816/man-united-premier-league-fixtures-2026-27-hull-city-first-michael-carrick-co",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49114842,
-      "source": "ESPN",
-      "headline": "Arsenal Premier League fixtures 2026-27: Gunners begin title defence against Coventry",
-      "description": "Arsenal will get their Premier League title defence under way when they host Coventry City on the opening week of the new season.",
-      "publishedAt": "2026-06-26T09:04:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114842/arsenal-premier-league-fixtures-2026-27-gunners-begin-title-defence-coventry-city-mikel-arteta",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49114849,
-      "source": "ESPN",
-      "headline": "Premier League fixtures 2026-27: Arsenal start against Coventry, Newcastle host Liverpool",
-      "description": "Arsenal will begin their Premier League title defence against newly-promoted Coventry City, while Liverpool travel to face Newcastle in the pick of the opening-day fixtures.",
-      "publishedAt": "2026-06-26T09:03:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675980_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114849/premier-league-fixtures-2026-27-arsenal-coventry-city-newcastle-united-liverpool-manchester-united-manchester-city-liverpool-tottenham-hotspur",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City",
-        "Manchester United",
-        "Aston Villa",
-        "Liverpool",
-        "AFC Bournemouth",
-        "Sunderland",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Chelsea",
-        "Fulham",
-        "Newcastle United",
-        "Everton",
-        "Leeds United",
-        "Crystal Palace",
-        "Nottingham Forest",
-        "Tottenham Hotspur",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-06-26T08:55:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-06-26T07:59:36Z",
-      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -527,25 +541,14 @@
       ]
     },
     {
-      "id": "178dd216f18166e345e4007b0d5c2ecc",
+      "id": "9524a0425249a5206323bc921956ccbf",
       "source": "Sky Sports",
-      "headline": "Trossard gives Belgium lead vs NZ with Egypt and Iran level LIVE!",
+      "headline": "Key moments & rate the players in New Zealand vs Belgium and Egypt vs Iran",
       "description": "",
       "publishedAt": "2026-06-23T13:37:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-leandro-trossard_7284007.jpg?20260627043506",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-de-bruyne-belgium_7284014.jpg?20260627053917",
       "link": "https://www.skysports.com/football/new-zealand-vs-belgium/live/549827",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "e9582bff2a7094b11e4adc360abc6288",
-      "source": "Sky Sports",
-      "headline": "Golden Boot race: Dembele joins Mbappe in Messi chase after hat-trick",
-      "description": "Lionel Messi, Kylian Mbappe, Erling Haaland, Vinicius Junior and now Ousmane Dembele are involved in what is shaping up to be one of the most hotly contested World Cup Golden Boot battles in memory.",
-      "publishedAt": "2026-06-23T08:13:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-messi-vini-graphic_7282534.jpg?20260625112527",
-      "link": "https://www.skysports.com/football/news/12040/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-vinicius-junior-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -582,24 +585,11 @@
         "Tottenham Hotspur",
         "Liverpool"
       ]
-    },
-    {
-      "id": 49146027,
-      "source": "ESPN",
-      "headline": "Man United take step forward in stadium redevelopment",
-      "description": "",
-      "publishedAt": "2026-06-22T19:26:42Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0622/dm_260622_COM_SOC_ANALYSIS_Man_United_take_step_forward_in_stadium_redevelopment_2026_6_22/dm_260622_COM_SOC_ANALYSIS_Man_United_take_step_forward_in_stadium_redevelopment_2026_6_22.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49146027/man-united-take-step-forward-stadium-redevelopment",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-27T04:14:44.116Z"
+    "cachedAt": "2026-06-27T08:48:34.864Z"
   }
 }
