@@ -2,11 +2,100 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49199142,
+      "source": "ESPN",
+      "headline": "Chelsea exploring deal to sign Sunderland's Granit Xhaka - sources",
+      "description": "Chelsea are exploring a deal to sign Sunderland midfielder Granit Xhaka, sources have told ESPN.",
+      "publishedAt": "2026-06-27T19:28:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663385_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49199142/chelsea-exploring-deal-sign-sunderland-granit-xhaka-sources",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 49199001,
+      "source": "ESPN",
+      "headline": "Manchester City monitoring Morocco midfielder Ayyoub Bouaddi",
+      "description": "Manchester City are monitoring Morocco midfielder Ayyoub Bouaddi ahead of a possible move this summer, sources have told ESPN.",
+      "publishedAt": "2026-06-27T18:48:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49199001/manchester-city-monitoring-morocco-midfielder-ayyoub-bouaddi",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Morocco"
+      ]
+    },
+    {
+      "id": 49198490,
+      "source": "ESPN",
+      "headline": "Man City sign Mathys Detourbet, 19, from fellow CFG club Troyes",
+      "description": "Manchester City have signed forward Mathys Detourbet from fellow City Football Group club Troyes.",
+      "publishedAt": "2026-06-27T17:26:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680521_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49198490/man-city-sign-mathys-detourbet-19-fellow-city-football-group-club-troyes-transfer",
+      "tag": "Troyes",
+      "teams": [
+        "Troyes"
+      ]
+    },
+    {
+      "id": "4cfa54a8c9651eb9754efcea23392ba5",
+      "source": "Sky Sports",
+      "headline": "Chelsea interested in signing Xhaka",
+      "description": "Chelsea are interested in signing Sunderland midfielder Granit Xhaka.",
+      "publishedAt": "2026-06-27T17:26:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-granit-xhaka-sunderland_7259944.jpg?20260528003713",
+      "link": "https://www.skysports.com/football/news/12040/13558363/granit-xhaka-transfer-news-chelsea-interested-in-signing-sunderland-midfielder-to-reunite-him-with-xabi-alonso",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "3208aaff251a4296044e8efb3c771b49",
+      "source": "Sky Sports",
+      "headline": "Chelsea latest: Palestra undergoes medical",
+      "description": "",
+      "publishedAt": "2026-06-27T17:15:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49195513,
+      "source": "ESPN",
+      "headline": "Carlos Queiroz wants Black Stars to channel Manchester United's 'Nou Camp spirit' to bring joy to Ghana",
+      "description": "In the aftermath of Ghana's 0-0 draw with England in their second World Cup game in Foxborough on Tuesday, former Manchester United midfielder Paul Scholes was quick to identify where he'd seen the Black Stars' gameplan before.",
+      "publishedAt": "2026-06-27T17:07:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678962_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49195513/carlos-queiroz-black-stars-manchester-united-nou-camp-ghana",
+      "tag": "Croatia",
+      "teams": [
+        "Croatia",
+        "Ghana",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "bdfd133d16a0af7e7be8347564fca03d",
+      "source": "Sky Sports",
+      "headline": "Scot Prem latest: Rangers in talks over ex-Everton defender",
+      "description": "",
+      "publishedAt": "2026-06-27T16:24:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ben-godfrey-everton_7284455.jpg?20260627175636",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49195071,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man City to battle Arsenal, Liverpool, Real Madrid for Bouaddi",
       "description": "Manchester City are the latest team to join the race for Lille and Morocco midfielder Ayyoub Bouaddi. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-27T12:55:10Z",
+      "publishedAt": "2026-06-27T15:53:19Z",
       "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49195071/transfer-rumors-news-man-city-battle-arsenal-liverpool-real-madrid-bouaddi",
       "tag": "Lille",
@@ -14,6 +103,17 @@
         "Lille",
         "Manchester City"
       ]
+    },
+    {
+      "id": "ca4247cc19f7b5accebf0e2b54623d65",
+      "source": "Sky Sports",
+      "headline": "Quansah 'set to start' for England vs Panama LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-27T11:30:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-group-l_7275568.jpg?20260617083426",
+      "link": "https://www.skysports.com/football/panama-vs-england/live/549837",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48955344,
@@ -175,39 +275,6 @@
         "Tottenham Hotspur",
         "Wrexham"
       ]
-    },
-    {
-      "id": "e30f1769c8332df96837370aa9d50b5f",
-      "source": "Sky Sports",
-      "headline": "Why England's backline remains Tuchel's biggest conundrum",
-      "description": "England were stifled creatively against Ghana as the Three Lions' second-game curse struck again in perhaps its most frustrating iteration - but do Thomas Tuchel's biggest worries lie at the other end of the pitch?",
-      "publishedAt": "2026-06-27T07:30:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ezri-konsa-marc-guehi_7283827.jpg?20260626181936",
-      "link": "https://www.skysports.com/football/news/12040/13557982/england-defensive-issues-thomas-tuchel-must-iron-out-backline-problems-before-tougher-tests-await-in-world-cup-knock-outs",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "1afecf3c6db8baa6d23d82211c848321",
-      "source": "Sky Sports",
-      "headline": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
-      "description": "Iran had a last-gasp goal overturned as they just missed out on grabbing second spot in Group G - but a first progression to the World Cup knockouts could still be achieved after their dramatic 1-1 draw with Egypt.",
-      "publishedAt": "2026-06-27T05:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-egypt-world-cup-iran_7284030.jpg?20260627063725",
-      "link": "https://www.skysports.com/football/egypt-vs-iran/report/549826",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "df0b13537e81b4fdde259d8ca6036a39",
-      "source": "Sky Sports",
-      "headline": "Leeds thrash Hull KR in statement win",
-      "description": "Highlights of the Super League match between Leeds Rhinos and Hull KR.",
-      "publishedAt": "2026-06-26T22:23:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-leeds-hullkr_7283976.jpg?20260626234017",
-      "link": "https://www.skysports.com/watch/video/13558176/leeds-rhinos-34-8-hull-kr-super-league-highlights",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 49190820,
@@ -478,74 +545,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49151181,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Could Arsenal recruit the new Alexis in Osorio?",
-      "description": "Darío Osorio has drawn comparisons to Alexis Sánchez, so naturally Arsenal are interested in the Chile international. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-23T20:14:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678154_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49151181/transfer-rumors-news-real-madrid-want-haaland-vinicius-jr-leaves",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49119895,
-      "source": "ESPN",
-      "headline": "Ipswich Town announce Gary O'Neil as new manager ahead of Premier League return",
-      "description": "Ipswich Town have announced Gary O'Neil as their new manager ahead of their return to the Premier League.",
-      "publishedAt": "2026-06-23T15:30:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1676309_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49119895/ipswich-town-announce-gary-o-neil-new-manager-ahead-premier-league-return",
-      "tag": "Ipswich Town",
-      "teams": [
-        "Ipswich Town",
-        "Strasbourg"
-      ]
-    },
-    {
-      "id": 28925920,
-      "source": "ESPN",
-      "headline": "Giannis Antetokounmpo latest athlete to suit up far from where they became stars",
-      "description": "Giannis Antetokounmpo wearing a uniform that's not the Milwaukee Bucks' doesn't quite feel right? It wouldn't be the first time.",
-      "publishedAt": "2026-06-23T04:00:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678032_608x342_16-9.jpg",
-      "link": "https://www.espn.com/nfl/story/_/id/28925920/nba-nhl-nfl-wnba-stars-left-iconic-teams",
-      "tag": "Denver Broncos",
-      "teams": [
-        "Denver Broncos",
-        "Seattle Seahawks",
-        "New York Jets",
-        "Green Bay Packers",
-        "Portland Trail Blazers",
-        "Atlanta Falcons",
-        "New England Patriots",
-        "Golden State Warriors",
-        "Pittsburgh Steelers"
-      ]
-    },
-    {
-      "id": 49141820,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Tottenham eye move for Liverpool's Gakpo",
-      "description": "Tottenham Hotspur are reportedly interested in Liverpool forward Cody Gakpo. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-23T00:18:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1677909_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49141820/transfer-rumors-news-psg-compete-man-united-summerville",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-27T14:04:41.124Z"
+    "cachedAt": "2026-06-27T19:42:54.375Z"
   }
 }
