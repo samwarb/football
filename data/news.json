@@ -2,6 +2,59 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49205466,
+      "source": "ESPN",
+      "headline": "Liverpool and 'great coach' Andoni Iraola will 'need luck' for lasting success - Jürgen Klopp",
+      "description": "Jürgen Klopp has backed Andoni Iraola to succeed at Anfield, but noted he will need some good fortune along the way.",
+      "publishedAt": "2026-06-28T11:02:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1680928_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49205466/liverpool-great-coach-andoni-iraola-need-luck-lasting-success-jurgen-klopp",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49202127,
+      "source": "ESPN",
+      "headline": "Klopp 'witnessed greatness' with Mo Salah at Liverpool",
+      "description": "Klopp 'witnessed greatness' with Mo Salah at Liverpool",
+      "publishedAt": "2026-06-28T10:56:26Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Klopp_witnessed_greatness_with_Mo_Salah_at_Liverpool/dm_260627_Klopp_witnessed_greatness_with_Mo_Salah_at_Liverpool.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49202127/klopp-witnessed-greatness-mo-salah-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49202196,
+      "source": "ESPN",
+      "headline": "Klopp: Liverpool have a 'great coach' in Andoni Iraola",
+      "description": "Klopp: Liverpool have a 'great coach' in Andoni Iraola",
+      "publishedAt": "2026-06-28T10:56:15Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Klopp_Liverpool_have_a_great_coach_in_Andoni_Iraola/dm_260627_Klopp_Liverpool_have_a_great_coach_in_Andoni_Iraola.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49202196/liverpool-great-coach-andoni-iraola",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49204732,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United to move for West Ham midfielder",
+      "description": "Manchester United haven't given up on landing West Ham United midfielder Mateus Fernandes. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-28T10:15:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0405/r1638827_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49204732/transfer-rumors-news-man-united-move-west-ham-midfielder",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "West Ham United"
+      ]
+    },
+    {
       "id": 49204950,
       "source": "ESPN",
       "headline": "Reranking Europe's top clubs by player performance at World Cup",
@@ -15,31 +68,6 @@
         "Paris Saint-Germain",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 49204732,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United to move for West Ham midfielder",
-      "description": "Manchester United haven't given up on landing West Ham United midfielder Mateus Fernandes. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-28T08:00:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0405/r1638827_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49204732/transfer-rumors-news-man-united-move-west-ham-midfielder",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": "7ed4ad0f12fe7cb767ec90152a1f3d40",
-      "source": "Sky Sports",
-      "headline": "Predict the World Cup knockout stages! Plot who will lift the trophy...",
-      "description": "England are through to the knockout rounds of the World Cup - and you can predict how the rest of the tournament will play out!",
-      "publishedAt": "2026-06-28T08:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-usa_7265628.jpg?20260604202240",
-      "link": "https://www.skysports.com/football/news/12040/13558044/world-cup-2026-knockout-rounds-predictor-have-your-say-and-plot-englands-route-to-the-final",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49114849,
@@ -173,39 +201,6 @@
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sasa-kalajdzic-austria_7284694.jpg?20260628050941",
       "link": "https://www.skysports.com/football/algeria-vs-austria/report/549832",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "aabca8a37476f5099fb7f41e347df9c4",
-      "source": "Sky Sports",
-      "headline": "Messi makes more history as Argentina beat Jordan",
-      "description": "Lionel Messi came off the bench to become the first man to score in seven World Cup games in a row in Argentina’s 3-1 win over Jordan.",
-      "publishedAt": "2026-06-28T04:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-lionel-messi-argentina_7284698.jpg?20260628052201",
-      "link": "https://www.skysports.com/football/jordan-vs-argentina/report/549833",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "dd62b8c471e710bb96544729173edea0",
-      "source": "Sky Sports",
-      "headline": "Tuchel vows 'the bigger the game, the bigger England will be'",
-      "description": "Thomas Tuchel has vowed that \"the bigger the game, the bigger England will be\" after a laboured 2-0 victory over Panama sent them into knockout stages of the World Cup as Group L winners.",
-      "publishedAt": "2026-06-27T23:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-england_7284660.jpg?20260628011729",
-      "link": "https://www.skysports.com/football/news/12040/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "17453c2d4b4061dd84f12dda2ae01821",
-      "source": "Sky Sports",
-      "headline": "Hovland into Travelers lead to the delight of Norwegian football fans!",
-      "description": "Highlights from day three of the Travelers Championship at TPC River Highlands.",
-      "publishedAt": "2026-06-27T22:52:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-golf-hovland_7284623.jpg?20260628000205",
-      "link": "https://www.skysports.com/watch/video/13558428/travelers-championship-day-three-highlights",
-      "tag": "Video",
       "teams": []
     },
     {
@@ -497,71 +492,11 @@
         "Coventry City",
         "Hull City"
       ]
-    },
-    {
-      "id": 48709856,
-      "source": "ESPN",
-      "headline": "World Cup 2026: Which players from your Premier League team are there?",
-      "description": "Which Premier League players from your team are representing their country at the 2026 World Cup in the United States, Canada and Mexico?",
-      "publishedAt": "2026-06-25T07:32:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48709856/world-cup-2026-which-players-your-premier-league-team-going",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Manchester City",
-        "Sunderland",
-        "Aston Villa",
-        "Manchester United",
-        "Liverpool",
-        "Crystal Palace",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Everton",
-        "Fulham",
-        "Leeds United",
-        "Nottingham Forest",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49169199,
-      "source": "ESPN",
-      "headline": "Tottenham join Man United in Mateus Fernandes transfer race - sources",
-      "description": "Tottenham are considering rivalling Manchester United to sign West Ham midfielder Mateus Fernandes, sources have told ESPN.",
-      "publishedAt": "2026-06-24T23:43:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0405/r1638826_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49169199/tottenham-join-man-united-mateus-fernandes-west-ham-transfer-race",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49162828,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City eye move for Chelsea's Gusto",
-      "description": "Manchester City are reportedly looking at a possible move for Chelsea right back Malo Gusto. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-24T22:43:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678982_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49162828/transfer-rumors-news-man-united-arsenal-eye-bournemouth-star",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-28T09:30:55.556Z"
+    "cachedAt": "2026-06-28T14:14:09.364Z"
   }
 }
