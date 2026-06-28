@@ -2,10 +2,173 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "7cbc0e535f188acf53ebbc0b50239c1d",
+      "id": 49204950,
+      "source": "ESPN",
+      "headline": "Reranking Europe's top clubs by player performance at World Cup",
+      "description": "Bayern Munich, Real Madrid and PSG players have impressed, but which clubs around the world have had the best players in the tournament after the group stage?",
+      "publishedAt": "2026-06-28T08:55:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1680177_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49204950/reranking-europe-top-clubs-player-performance-world-cup-bayern-real-madrid-liverpool",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "Paris Saint-Germain",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49204732,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United to move for West Ham midfielder",
+      "description": "Manchester United haven't given up on landing West Ham United midfielder Mateus Fernandes. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-28T08:00:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0405/r1638827_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49204732/transfer-rumors-news-man-united-move-west-ham-midfielder",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "7ed4ad0f12fe7cb767ec90152a1f3d40",
+      "source": "Sky Sports",
+      "headline": "Predict the World Cup knockout stages! Plot who will lift the trophy...",
+      "description": "England are through to the knockout rounds of the World Cup - and you can predict how the rest of the tournament will play out!",
+      "publishedAt": "2026-06-28T08:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-usa_7265628.jpg?20260604202240",
+      "link": "https://www.skysports.com/football/news/12040/13558044/world-cup-2026-knockout-rounds-predictor-have-your-say-and-plot-englands-route-to-the-final",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49114849,
+      "source": "ESPN",
+      "headline": "Premier League fixtures 2026-27: Arsenal start against Coventry, Newcastle host Liverpool",
+      "description": "Arsenal will begin their Premier League title defence against newly-promoted Coventry City, while Liverpool travel to face Newcastle in the pick of the opening-day fixtures.",
+      "publishedAt": "2026-06-28T07:15:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675980_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49114849/premier-league-fixtures-2026-27-arsenal-coventry-city-newcastle-united-liverpool-manchester-united-manchester-city-liverpool-tottenham-hotspur",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City",
+        "Manchester United",
+        "Aston Villa",
+        "Liverpool",
+        "AFC Bournemouth",
+        "Sunderland",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Chelsea",
+        "Fulham",
+        "Newcastle United",
+        "Everton",
+        "Leeds United",
+        "Crystal Palace",
+        "Nottingham Forest",
+        "Tottenham Hotspur",
+        "Coventry City",
+        "Ipswich Town",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
+      "publishedAt": "2026-06-28T07:13:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-06-28T07:12:27Z",
+      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49199142,
+      "source": "ESPN",
+      "headline": "Chelsea exploring deal to sign Sunderland's Granit Xhaka - sources",
+      "description": "Chelsea are exploring a deal to sign Sunderland midfielder Granit Xhaka, sources have told ESPN.",
+      "publishedAt": "2026-06-28T05:31:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663385_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49199142/chelsea-exploring-deal-sign-sunderland-granit-xhaka-sources",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 49204182,
+      "source": "ESPN",
+      "headline": "Hutchison: Xhaka would be a great signing for Chelsea",
+      "description": "Hutchison: Xhaka would be a great signing for Chelsea",
+      "publishedAt": "2026-06-28T05:31:03Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0628/dm_260628_COM_SOC_Analysis_Hutchison_Xhaka_would_be_a_great_signing_for_Chelsea_20260627_GLOBAL/dm_260628_COM_SOC_Analysis_Hutchison_Xhaka_would_be_a_great_signing_for_Chelsea_20260627_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49204182/xhaka-great-signing-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2614afe25f3ba6d59284e6712dddfaba",
       "source": "Sky Sports",
       "headline": "Austria survive huge scare to progress with Algeria and knock Iran out",
-      "description": "Super-sub Sasa Kalajdzic saved Austria's World Cup with a last-gasp equaliser after Algeria had stunned their Group J rivals deep into stoppage time in a thrilling 3-3 draw, which saw both sides progress to the last-32 and Iran knocked out.",
+      "description": "Super-sub Sasa Kalajdzic saved Austria's World Cup with a last-gasp equaliser after Algeria had stunned their Group J rivals deep into stoppage time in a thrilling 3-3 draw, which saw both sides progress to the last 32 and Iran knocked out.",
       "publishedAt": "2026-06-28T04:00:00.000Z",
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sasa-kalajdzic-austria_7284694.jpg?20260628050941",
       "link": "https://www.skysports.com/football/algeria-vs-austria/report/549832",
@@ -21,28 +184,6 @@
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-lionel-messi-argentina_7284698.jpg?20260628052201",
       "link": "https://www.skysports.com/football/jordan-vs-argentina/report/549833",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "c8d3bc2c98803f2efa5dbf390de2a90a",
-      "source": "Sky Sports",
-      "headline": "Colombia finish as Group K winners with Portugal second after entertaining draw",
-      "description": "Colombia secured top spot in Group K after an entertaining 0-0 draw against Portugal in their final group game, as Roberto Martinez's side finish as runners-up.",
-      "publishedAt": "2026-06-28T02:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-davinson-sanchez_7284673.jpg?20260628030219",
-      "link": "https://www.skysports.com/football/news/12040/13556705/world-cup-2026-colombia-0-0-portugal-davinson-sanchezs-late-goal-ruled-out-for-offside-as-colombia-finish-top-of-group-k-with-portugal-runners-up",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "7443dba187d815e52058da9e30650925",
-      "source": "Sky Sports",
-      "headline": "Key moments and rate the players from Colombia vs Portugal, DR Congo vs Uzbekistan",
-      "description": "",
-      "publishedAt": "2026-06-27T23:05:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-joao-felix_7284655.jpg?20260628005517",
-      "link": "https://www.skysports.com/football/colombia-vs-portugal/live/549835",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -68,28 +209,6 @@
       "teams": []
     },
     {
-      "id": "56597e0e61e47978ba0e102849cbce2b",
-      "source": "Sky Sports",
-      "headline": "'Superstar' Bellingham inspires England to victory over Panama and top spot in group",
-      "description": "Harry kane became England's all-time World Cup goalscorer but it was Jude Bellingham who inspired Thomas Tuchel's side to top spot in Group L as he grabbed a goal and an assist to secure a 2-0 victory over Panama.",
-      "publishedAt": "2026-06-27T22:50:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-bellingham-england_7284602.jpg?20260627232915",
-      "link": "https://www.skysports.com/football/panama-vs-england/report/549837",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "db29893ddd2b6fa80d454b356cf725e8",
-      "source": "Sky Sports",
-      "headline": "Clarke steps down after Scotland's World Cup exit confirmed",
-      "description": "Steve Clarke has stepped down as Scotland head coach - moments after his side's World Cup exit was confirmed.",
-      "publishedAt": "2026-06-27T22:45:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-steve-clarke-scotland_7284652.jpg?20260628004518",
-      "link": "https://www.skysports.com/football/news/12040/13557622/steve-clarke-steps-down-as-scotland-boss-after-world-cup-elimination-confirmed",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49199001,
       "source": "ESPN",
       "headline": "Manchester City monitoring Morocco midfielder Ayyoub Bouaddi - sources",
@@ -102,20 +221,6 @@
         "Manchester City",
         "Morocco",
         "Lille"
-      ]
-    },
-    {
-      "id": 49199142,
-      "source": "ESPN",
-      "headline": "Chelsea exploring deal to sign Sunderland's Granit Xhaka - sources",
-      "description": "Chelsea are exploring a deal to sign Sunderland midfielder Granit Xhaka, sources have told ESPN.",
-      "publishedAt": "2026-06-27T21:04:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663385_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49199142/chelsea-exploring-deal-sign-sunderland-granit-xhaka-sources",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Sunderland"
       ]
     },
     {
@@ -159,38 +264,6 @@
         "Croatia",
         "Ghana",
         "Manchester United"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-06-27T09:16:16Z",
-      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -256,70 +329,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 49114849,
-      "source": "ESPN",
-      "headline": "Premier League fixtures 2026-27: Arsenal start against Coventry, Newcastle host Liverpool",
-      "description": "Arsenal will begin their Premier League title defence against newly-promoted Coventry City, while Liverpool travel to face Newcastle in the pick of the opening-day fixtures.",
-      "publishedAt": "2026-06-27T07:58:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675980_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114849/premier-league-fixtures-2026-27-arsenal-coventry-city-newcastle-united-liverpool-manchester-united-manchester-city-liverpool-tottenham-hotspur",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City",
-        "Manchester United",
-        "Aston Villa",
-        "Liverpool",
-        "AFC Bournemouth",
-        "Sunderland",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Chelsea",
-        "Fulham",
-        "Newcastle United",
-        "Everton",
-        "Leeds United",
-        "Crystal Palace",
-        "Nottingham Forest",
-        "Tottenham Hotspur",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-06-27T07:53:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
       ]
     },
     {
@@ -548,54 +557,11 @@
         "Manchester City",
         "Chelsea"
       ]
-    },
-    {
-      "id": 49166627,
-      "source": "ESPN",
-      "headline": "Klopp: I have no problem with the World Cup hydration breaks",
-      "description": "Klopp: I have no problem with the World Cup hydration breaks",
-      "publishedAt": "2026-06-24T17:22:42Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_COM_SOC_Analysis_Klopp3A_I_have_no_problem_with_the_World_Cup_hydration_breaks_GLOBAL_2026-06-24/dm_260624_COM_SOC_Analysis_Klopp3A_I_have_no_problem_with_the_World_Cup_hydration_breaks_GLOBAL_2026-06-24.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49166627/no-problem-world-cup-hydration-breaks",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Liverpool",
-        "United States"
-      ]
-    },
-    {
-      "id": 49165458,
-      "source": "ESPN",
-      "headline": "Tottenham sign Martin Dubravka from Burnley as Roberto De Zerbi rebuild continues",
-      "description": "Tottenham Hotspur have confirmed goalkeeper Martin Dúbravka will join the club from Burnley.",
-      "publishedAt": "2026-06-24T16:14:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678763_1296x1296_1-1.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49165458/tottenham-sign-martin-dubravka-burnley-roberto-de-zerbi-rebuild-continues",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Burnley",
-        "Slovakia"
-      ]
-    },
-    {
-      "id": 49165316,
-      "source": "ESPN",
-      "headline": "Chelsea closing in on deal for Atalanta full-back Marco Palestra - sources",
-      "description": "Chelsea are closing in on a deal worth around €55million for Atlanta full-back Marco Palestra, sources have told ESPN.",
-      "publishedAt": "2026-06-24T14:12:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678748_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49165316/chelsea-atalanta-marco-palestra-transfers",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-28T04:48:10.138Z"
+    "cachedAt": "2026-06-28T09:30:55.556Z"
   }
 }
