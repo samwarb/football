@@ -2,11 +2,114 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "7cbc0e535f188acf53ebbc0b50239c1d",
+      "source": "Sky Sports",
+      "headline": "Austria survive huge scare to progress with Algeria and knock Iran out",
+      "description": "Super-sub Sasa Kalajdzic saved Austria's World Cup with a last-gasp equaliser after Algeria had stunned their Group J rivals deep into stoppage time in a thrilling 3-3 draw, which saw both sides progress to the last-32 and Iran knocked out.",
+      "publishedAt": "2026-06-28T04:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sasa-kalajdzic-austria_7284694.jpg?20260628050941",
+      "link": "https://www.skysports.com/football/algeria-vs-austria/report/549832",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "aabca8a37476f5099fb7f41e347df9c4",
+      "source": "Sky Sports",
+      "headline": "Messi makes more history as Argentina beat Jordan",
+      "description": "Lionel Messi came off the bench to become the first man to score in seven World Cup games in a row in Argentina’s 3-1 win over Jordan.",
+      "publishedAt": "2026-06-28T04:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-lionel-messi-argentina_7284698.jpg?20260628052201",
+      "link": "https://www.skysports.com/football/jordan-vs-argentina/report/549833",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "c8d3bc2c98803f2efa5dbf390de2a90a",
+      "source": "Sky Sports",
+      "headline": "Colombia finish as Group K winners with Portugal second after entertaining draw",
+      "description": "Colombia secured top spot in Group K after an entertaining 0-0 draw against Portugal in their final group game, as Roberto Martinez's side finish as runners-up.",
+      "publishedAt": "2026-06-28T02:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-davinson-sanchez_7284673.jpg?20260628030219",
+      "link": "https://www.skysports.com/football/news/12040/13556705/world-cup-2026-colombia-0-0-portugal-davinson-sanchezs-late-goal-ruled-out-for-offside-as-colombia-finish-top-of-group-k-with-portugal-runners-up",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "7443dba187d815e52058da9e30650925",
+      "source": "Sky Sports",
+      "headline": "Key moments and rate the players from Colombia vs Portugal, DR Congo vs Uzbekistan",
+      "description": "",
+      "publishedAt": "2026-06-27T23:05:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-joao-felix_7284655.jpg?20260628005517",
+      "link": "https://www.skysports.com/football/colombia-vs-portugal/live/549835",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "dd62b8c471e710bb96544729173edea0",
+      "source": "Sky Sports",
+      "headline": "Tuchel vows 'the bigger the game, the bigger England will be'",
+      "description": "Thomas Tuchel has vowed that \"the bigger the game, the bigger England will be\" after a laboured 2-0 victory over Panama sent them into knockout stages of the World Cup as Group L winners.",
+      "publishedAt": "2026-06-27T23:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-england_7284660.jpg?20260628011729",
+      "link": "https://www.skysports.com/football/news/12040/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "17453c2d4b4061dd84f12dda2ae01821",
+      "source": "Sky Sports",
+      "headline": "Hovland into Travelers lead to the delight of Norwegian football fans!",
+      "description": "Highlights from day three of the Travelers Championship at TPC River Highlands.",
+      "publishedAt": "2026-06-27T22:52:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-golf-hovland_7284623.jpg?20260628000205",
+      "link": "https://www.skysports.com/watch/video/13558428/travelers-championship-day-three-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "56597e0e61e47978ba0e102849cbce2b",
+      "source": "Sky Sports",
+      "headline": "'Superstar' Bellingham inspires England to victory over Panama and top spot in group",
+      "description": "Harry kane became England's all-time World Cup goalscorer but it was Jude Bellingham who inspired Thomas Tuchel's side to top spot in Group L as he grabbed a goal and an assist to secure a 2-0 victory over Panama.",
+      "publishedAt": "2026-06-27T22:50:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-bellingham-england_7284602.jpg?20260627232915",
+      "link": "https://www.skysports.com/football/panama-vs-england/report/549837",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "db29893ddd2b6fa80d454b356cf725e8",
+      "source": "Sky Sports",
+      "headline": "Clarke steps down after Scotland's World Cup exit confirmed",
+      "description": "Steve Clarke has stepped down as Scotland head coach - moments after his side's World Cup exit was confirmed.",
+      "publishedAt": "2026-06-27T22:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-steve-clarke-scotland_7284652.jpg?20260628004518",
+      "link": "https://www.skysports.com/football/news/12040/13557622/steve-clarke-steps-down-as-scotland-boss-after-world-cup-elimination-confirmed",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49199001,
+      "source": "ESPN",
+      "headline": "Manchester City monitoring Morocco midfielder Ayyoub Bouaddi - sources",
+      "description": "Manchester City are monitoring Morocco midfielder Ayyoub Bouaddi ahead of a possible move this summer, sources have told ESPN.",
+      "publishedAt": "2026-06-27T21:05:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49199001/manchester-city-monitoring-morocco-midfielder-ayyoub-bouaddi",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Morocco",
+        "Lille"
+      ]
+    },
+    {
       "id": 49199142,
       "source": "ESPN",
       "headline": "Chelsea exploring deal to sign Sunderland's Granit Xhaka - sources",
       "description": "Chelsea are exploring a deal to sign Sunderland midfielder Granit Xhaka, sources have told ESPN.",
-      "publishedAt": "2026-06-27T19:28:47Z",
+      "publishedAt": "2026-06-27T21:04:29Z",
       "image": "https://a.espncdn.com/photo/2026/0525/r1663385_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49199142/chelsea-exploring-deal-sign-sunderland-granit-xhaka-sources",
       "tag": "Chelsea",
@@ -16,17 +119,18 @@
       ]
     },
     {
-      "id": 49199001,
+      "id": 49195071,
       "source": "ESPN",
-      "headline": "Manchester City monitoring Morocco midfielder Ayyoub Bouaddi",
-      "description": "Manchester City are monitoring Morocco midfielder Ayyoub Bouaddi ahead of a possible move this summer, sources have told ESPN.",
-      "publishedAt": "2026-06-27T18:48:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49199001/manchester-city-monitoring-morocco-midfielder-ayyoub-bouaddi",
-      "tag": "Manchester City",
+      "headline": "Transfer rumors, news: Arsenal face competition for young PSG defender",
+      "description": "Arsenal are in a battle to sign Paris Saint-Germain defender Emmanuel Mbemba. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-27T19:46:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680581_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49195071/transfer-rumors-news-man-city-battle-arsenal-liverpool-real-madrid-bouaddi",
+      "tag": "Arsenal",
       "teams": [
-        "Manchester City",
-        "Morocco"
+        "Arsenal",
+        "AFC Bournemouth",
+        "Paris Saint-Germain"
       ]
     },
     {
@@ -43,28 +147,6 @@
       ]
     },
     {
-      "id": "4cfa54a8c9651eb9754efcea23392ba5",
-      "source": "Sky Sports",
-      "headline": "Chelsea interested in signing Xhaka",
-      "description": "Chelsea are interested in signing Sunderland midfielder Granit Xhaka.",
-      "publishedAt": "2026-06-27T17:26:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-granit-xhaka-sunderland_7259944.jpg?20260528003713",
-      "link": "https://www.skysports.com/football/news/12040/13558363/granit-xhaka-transfer-news-chelsea-interested-in-signing-sunderland-midfielder-to-reunite-him-with-xabi-alonso",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "3208aaff251a4296044e8efb3c771b49",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: Palestra undergoes medical",
-      "description": "",
-      "publishedAt": "2026-06-27T17:15:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49195513,
       "source": "ESPN",
       "headline": "Carlos Queiroz wants Black Stars to channel Manchester United's 'Nou Camp spirit' to bring joy to Ghana",
@@ -78,42 +160,6 @@
         "Ghana",
         "Manchester United"
       ]
-    },
-    {
-      "id": "bdfd133d16a0af7e7be8347564fca03d",
-      "source": "Sky Sports",
-      "headline": "Scot Prem latest: Rangers in talks over ex-Everton defender",
-      "description": "",
-      "publishedAt": "2026-06-27T16:24:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ben-godfrey-everton_7284455.jpg?20260627175636",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49195071,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City to battle Arsenal, Liverpool, Real Madrid for Bouaddi",
-      "description": "Manchester City are the latest team to join the race for Lille and Morocco midfielder Ayyoub Bouaddi. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-27T15:53:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49195071/transfer-rumors-news-man-city-battle-arsenal-liverpool-real-madrid-bouaddi",
-      "tag": "Lille",
-      "teams": [
-        "Lille",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "ca4247cc19f7b5accebf0e2b54623d65",
-      "source": "Sky Sports",
-      "headline": "Quansah 'set to start' for England vs Panama LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-27T11:30:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-group-l_7275568.jpg?20260617083426",
-      "link": "https://www.skysports.com/football/panama-vs-england/live/549837",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48955344,
@@ -550,6 +596,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-27T19:42:54.375Z"
+    "cachedAt": "2026-06-28T04:48:10.138Z"
   }
 }
