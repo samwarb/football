@@ -2,11 +2,60 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49216438,
+      "source": "ESPN",
+      "headline": "Are Chelsea attempting to 'rewrite' the narrative of last season?",
+      "description": "Are Chelsea attempting to 'rewrite' the narrative of last season?",
+      "publishedAt": "2026-06-29T16:01:04Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0629/dm_260629_COM_SOC_Analysis_Are_Chelsea_attempting_720/dm_260629_COM_SOC_Analysis_Are_Chelsea_attempting_720.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49216438/are-chelsea-attempting-rewrite-narrative-last-season",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "6da5e642c62b82150a6ec9c334ebd3ec",
+      "source": "Sky Sports",
+      "headline": "Nev: Succeeding Pep is 'ultimate test' for Maresca - City will only accept winning",
+      "description": "Gary Neville has labelled Enzo Maresca's job of succeeding Pep Guardiola at Manchester City as the \"ultimate test\" - because the club will accept \"nothing less than winning\" from the new manager.",
+      "publishedAt": "2026-06-29T15:30:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-manchester-city_7285861.jpg?20260629163014",
+      "link": "https://www.skysports.com/football/news/12040/13558940/enzo-maresca-succeeding-pep-guardiola-at-man-city-is-ultimate-test-for-italian-boss-at-club-who-will-only-accept-winning",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": 48898245,
+      "source": "ESPN",
+      "headline": "Chelsea say new Man City boss Enzo Maresca to pay compensation for move",
+      "description": "Manchester City have formally announced Enzo Maresca as their new manager amid Chelsea claims that the Italian will personally pay compensation for the move.",
+      "publishedAt": "2026-06-29T14:35:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0629/r1681456_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48898245/enzo-maresca-confirmed-pep-guardiola-man-city-successor-chelsea-compensation",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "61350dfc61b2ae763ede0a58abe1b828",
+      "source": "Sky Sports",
+      "headline": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
+      "description": "Former Sheffield United player Maddy Cusack was \"dismayed\" that her previous coach was joining her football club months before she died, her father has told an inquest.",
+      "publishedAt": "2026-06-29T14:30:00.000Z",
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-cusack-maddy-sheffield_7127622.png?20260105235610",
+      "link": "https://www.skysports.com/football/news/12040/13558951/maddy-cusack-former-sheffield-united-midfielder-dismayed-before-death-when-previous-coach-joined-inquest-hears",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49213338,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Barcelona eye Kane, plus two forwards",
       "description": "Barcelona are considering a move for Bayern Munich striker Harry Kane. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-29T11:19:07Z",
+      "publishedAt": "2026-06-29T14:15:32Z",
       "image": "https://a.espncdn.com/photo/2026/0425/r1649201_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49213338/transfer-rumors-news-barcelona-eye-kane-plus-two-forwards",
       "tag": "Barcelona",
@@ -14,6 +63,17 @@
         "Barcelona",
         "Bayern Munich"
       ]
+    },
+    {
+      "id": "1867e0b629751382f1a09f374e6caa31",
+      "source": "Sky Sports",
+      "headline": "Barcelona interested in England captain Kane",
+      "description": "Barcelona are interested in signing England captain Harry Kane.",
+      "publishedAt": "2026-06-29T14:06:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-kane-england_7284785.jpg?20260628103419",
+      "link": "https://www.skysports.com/football/news/12040/13558939/harry-kane-transfer-news-barcelona-interested-in-signing-bayern-munich-forward-and-england-captain",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48955344,
@@ -456,40 +516,11 @@
         "Manchester City",
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": 49173065,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Man City keen on Sporting captain Hjulmand",
-      "description": "Manchester United are considering a surprise move for Scotland goalkeeper Angus Gunn. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-26T01:44:24Z",
-      "image": "https://a.espncdn.com/photo/2025/1101/r1569078_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49173065/transfer-rumors-news-manchester-united-want-scotland-goalkeeper-gunn",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Scotland",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49179377,
-      "source": "ESPN",
-      "headline": "Should Man City break the transfer record for Anderson?",
-      "description": "",
-      "publishedAt": "2026-06-25T20:57:38Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_ANALYSIS_Should_Man_City_break_the_transfer_record_for_Anderson_2026_6_25/dm_260625_COM_SOC_ANALYSIS_Should_Man_City_break_the_transfer_record_for_Anderson_2026_6_25.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49179377/should-man-city-break-transfer-record-anderson",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-29T11:21:59.674Z"
+    "cachedAt": "2026-06-29T16:08:17.669Z"
   }
 }
