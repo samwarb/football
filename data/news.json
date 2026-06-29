@@ -2,26 +2,124 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "ae7c4b7161b1dcfd22bbf8faeab7943c",
-      "source": "Sky Sports",
-      "headline": "Papers: James optimistic he can feature again at World Cup",
-      "description": "The top stories and transfer rumours from Monday's newspapers...",
-      "publishedAt": "2026-06-28T21:30:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13558706/reece-james-england-defender-confident-of-playing-again-at-world-cup-paper-talk",
-      "tag": "News Story",
-      "teams": []
+      "id": 49213338,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona eye Kane, plus two forwards",
+      "description": "Barcelona are considering a move for Bayern Munich striker Harry Kane. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-29T11:19:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0425/r1649201_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49213338/transfer-rumors-news-barcelona-eye-kane-plus-two-forwards",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Bayern Munich"
+      ]
     },
     {
-      "id": "d20ab68139f5ece6f85b143ab9a7099c",
-      "source": "Sky Sports",
-      "headline": "Canada secure last-16 place after dramatic late winner vs South Africa",
-      "description": "Stephen Eustaquio scored a dramatic stoppage-time winner for co-hosts Canada as they beat South Africa 1-0 to become the first team to book their place in the last 16 of the World Cup.",
-      "publishedAt": "2026-06-28T21:07:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-stephen-eustaquio_7285295.jpg?20260628220446",
-      "link": "https://www.skysports.com/football/south-africa-vs-canada/report/549838",
-      "tag": "Report",
-      "teams": []
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-06-29T10:59:21Z",
+      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49205906,
+      "source": "ESPN",
+      "headline": "Don't be fooled into thinking Haaland, Norway 'don't care' at this World Cup",
+      "description": "Erling Haaland has appeared relaxed and happy at the World Cup so far. That's good news for Norway and bad news for defenders.",
+      "publishedAt": "2026-06-29T07:26:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1680955_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49205906/dont-fooled-thinking-haaland-norway-dont-care-world-cup",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Norway"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
+      "publishedAt": "2026-06-29T07:13:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-06-29T07:13:07Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
     },
     {
       "id": 49204732,
@@ -36,28 +134,6 @@
         "Manchester United",
         "West Ham United"
       ]
-    },
-    {
-      "id": "f2acca4934ad676f8c24f4b55292ccc1",
-      "source": "Sky Sports",
-      "headline": "PSG in talks to sign Liverpool target Diomande",
-      "description": "Paris Saint-Germain are in talks with RB Leipzig over a move for Liverpool target Yan Diomande.",
-      "publishedAt": "2026-06-28T20:13:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-yan-diomande-ivory-coast_7275679.jpg?20260617103242",
-      "link": "https://www.skysports.com/football/news/12040/13558694/yan-diomande-transfer-news-psg-in-talks-to-sign-liverpool-target-and-ivory-coast-international",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "dc761252510f0e7c1e9c15fbe6250db2",
-      "source": "Sky Sports",
-      "headline": "Tuchel praises Bellingham buy-in after another match-winning showing",
-      "description": "Thomas Tuchel praised Jude Bellingham's buy-in to the team ethic after another man-of-the-match performance from the 22-year-old drove England through to the knockout stages of the World Cup.",
-      "publishedAt": "2026-06-28T19:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jude-bellingham-england_7285150.jpg?20260628173326",
-      "link": "https://www.skysports.com/football/news/12040/13558646/jude-bellingham-thomas-tuchel-praises-england-midfielders-buy-in-at-world-cup-after-back-to-back-man-of-the-match-performances",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49204950,
@@ -143,70 +219,6 @@
         "Coventry City",
         "Ipswich Town",
         "Hull City"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-06-28T07:13:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-06-28T07:12:27Z",
-      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -388,17 +400,6 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-06-26T13:29:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675673_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49184393,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United tracking Mexico's Mora",
@@ -484,52 +485,11 @@
         "England",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49175205,
-      "source": "ESPN",
-      "headline": "Arsenal sign Piero Hincapié on permanent deal after one year loan",
-      "description": "Arsenal have confirmed they have activated an option to sign Piero Hincapié on a permanent deal.",
-      "publishedAt": "2026-06-25T13:29:54Z",
-      "image": "https://a.espncdn.com/photo/2025/1201/r1583233_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49175205/arsenal-confirm-permanent-deal-piero-hincapie-premier-league-loan-transfer",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-25T07:59:46Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-29T04:57:38.053Z"
+    "cachedAt": "2026-06-29T11:21:59.674Z"
   }
 }
