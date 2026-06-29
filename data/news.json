@@ -2,6 +2,53 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "ae7c4b7161b1dcfd22bbf8faeab7943c",
+      "source": "Sky Sports",
+      "headline": "Papers: James optimistic he can feature again at World Cup",
+      "description": "The top stories and transfer rumours from Monday's newspapers...",
+      "publishedAt": "2026-06-28T21:30:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13558706/reece-james-england-defender-confident-of-playing-again-at-world-cup-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "d20ab68139f5ece6f85b143ab9a7099c",
+      "source": "Sky Sports",
+      "headline": "Canada secure last-16 place after dramatic late winner vs South Africa",
+      "description": "Stephen Eustaquio scored a dramatic stoppage-time winner for co-hosts Canada as they beat South Africa 1-0 to become the first team to book their place in the last 16 of the World Cup.",
+      "publishedAt": "2026-06-28T21:07:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-stephen-eustaquio_7285295.jpg?20260628220446",
+      "link": "https://www.skysports.com/football/south-africa-vs-canada/report/549838",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49204732,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Akliouche to swap AS Monaco for PSG?",
+      "description": "Manchester United haven't given up on landing West Ham United midfielder Mateus Fernandes. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-28T20:17:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0407/r1639703_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49204732/transfer-rumors-news-man-united-move-west-ham-midfielder",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "f2acca4934ad676f8c24f4b55292ccc1",
+      "source": "Sky Sports",
+      "headline": "PSG in talks to sign Liverpool target Diomande",
+      "description": "Paris Saint-Germain are in talks with RB Leipzig over a move for Liverpool target Yan Diomande.",
+      "publishedAt": "2026-06-28T20:13:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-yan-diomande-ivory-coast_7275679.jpg?20260617103242",
+      "link": "https://www.skysports.com/football/news/12040/13558694/yan-diomande-transfer-news-psg-in-talks-to-sign-liverpool-target-and-ivory-coast-international",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "dc761252510f0e7c1e9c15fbe6250db2",
       "source": "Sky Sports",
       "headline": "Tuchel praises Bellingham buy-in after another match-winning showing",
@@ -10,17 +57,6 @@
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jude-bellingham-england_7285150.jpg?20260628173326",
       "link": "https://www.skysports.com/football/news/12040/13558646/jude-bellingham-thomas-tuchel-praises-england-midfielders-buy-in-at-world-cup-after-back-to-back-man-of-the-match-performances",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "128ef29d9770a2c03d95529875704a24",
-      "source": "Sky Sports",
-      "headline": "Both sides probing for opener in South Africa vs Canada LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-28T17:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-south-africa-canada_7285249.jpg?20260628200735",
-      "link": "https://www.skysports.com/football/south-africa-vs-canada/live/549838",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -75,20 +111,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": 49204732,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United to move for West Ham midfielder",
-      "description": "Manchester United haven't given up on landing West Ham United midfielder Mateus Fernandes. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-28T10:15:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0405/r1638827_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49204732/transfer-rumors-news-man-united-move-west-ham-midfielder",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "West Ham United"
       ]
     },
     {
@@ -508,6 +530,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-28T19:43:48.478Z"
+    "cachedAt": "2026-06-29T04:57:38.053Z"
   }
 }
