@@ -2,6 +2,68 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "2836674f0a671a04dea5d3d60319b6e2",
+      "source": "Sky Sports",
+      "headline": "Who starts at RB and how to beat low block? England vs DR Congo talking points",
+      "description": "England face DR Congo in the last 32 of the World Cup with several key issues for Thomas Tuchel ahead of his first knockout game as boss.",
+      "publishedAt": "2026-06-30T14:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-bellingham-england_7284602.jpg?20260627232915",
+      "link": "https://www.skysports.com/football/news/12040/13558788/england-vs-dr-congo-thomas-tuchel-battling-selection-dilemmas-fitness-issues-and-low-blocks-ahead-of-last-32-clash",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "ea2759bb2e7a851876791d9a8a661155",
+      "source": "Sky Sports",
+      "headline": "Cusack's Sheff Utd coach called her a 'psycho', inquest hears",
+      "description": "Former Sheffield United midfielder Maddy Cusack's coach had called her a \"psycho\" and was playing mind games with her before her death, an inquest has heard.",
+      "publishedAt": "2026-06-30T13:30:00.000Z",
+      "image": "https://e1.365dm.com/23/09/1920x1080/skysports-maddy-cusack-sheffield-united_6293097.jpg?20230921185104",
+      "link": "https://www.skysports.com/football/news/12040/13559236/maddy-cusack-sheffield-united-coach-jonathan-morgan-called-midfielder-a-psycho-inquest-hears",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49219156,
+      "source": "ESPN",
+      "headline": "Why Manchester City chose Enzo Maresca as Pep Guardiola's heir",
+      "description": "Enzo Maresca replacing Pep Guardiola was Manchester City's long-term strategy, something the Italian's former club Chelsea have changed since his exit.",
+      "publishedAt": "2026-06-30T12:48:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0629/r1681708_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49219156/why-manchester-city-chose-enzo-maresca-pep-guardiola-heir",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-06-30T11:26:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1681303_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49223257,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Olise asks for Bayern meeting amid Madrid, PSG interest",
+      "description": "Bayern Munich winger Michael Olise has asked for a meeting about his future amid interest from Europe's biggest clubs. Transfer Talk has the latest.",
+      "publishedAt": "2026-06-30T10:29:40Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1681953_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49223257/transfer-rumors-news-michael-olise-asks-bayern-munich-meeting-amid-real-madrid-psg",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "Real Madrid",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
       "id": "0455796b3555c100160c8302f5d58f2e",
       "source": "Sky Sports",
       "headline": "Merson: Bellingham's deeper role has given Tuchel midfield headache",
@@ -10,17 +72,6 @@
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jude-bellingham-morgan-rogers_7284654.jpg?20260628005107",
       "link": "https://www.skysports.com/football/news/12040/13558843/paul-merson-jude-bellinghams-deeper-role-has-given-thomas-tuchel-midfield-headache-ahead-of-dr-congo-clash",
       "tag": "Article/Blog",
-      "teams": []
-    },
-    {
-      "id": "e7f20cf8c0d3fc714f71beee1b41dfb8",
-      "source": "Sky Sports",
-      "headline": "Leeds quell Connor concerns ahead of Magic Weekend clash with Bradford",
-      "description": "Bradford will have to contend with reigning Betfred Super League Man of Steel Jake Connor if they are to mark their return to Magic Weekend with a long-awaited top-flight away win in Liverpool next Sunday.",
-      "publishedAt": "2026-06-30T08:54:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-jake-connor-leeds-rhinos_7233868.jpg?20260429073001",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13559139/leeds-rhinos-quell-jake-connor-concerns-ahead-of-magic-weekend-clash-with-rivals-bradford-bulls",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -35,27 +86,12 @@
       "teams": []
     },
     {
-      "id": 49223257,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Olise asks for Bayern meeting amid Madrid, PSG interest",
-      "description": "Bayern Munich winger Michael Olise has asked for a meeting about his future amid interest from Europe's biggest clubs. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-30T07:42:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681953_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49223257/transfer-rumors-news-michael-olise-asks-bayern-munich-meeting-amid-real-madrid-psg",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "Real Madrid",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
       "id": "b85950a7131217219f2a527feeeeb1b4",
       "source": "Sky Sports",
       "headline": "World Cup latest: Klopp responds to Germany links as Nagelsmann says 'I won't quit'",
       "description": "",
       "publishedAt": "2026-06-30T07:30:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jurgen-klopp-germany_7286294.jpg?20260630082845",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-germany_7286318.jpg?20260630091239",
       "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
       "tag": "Liveblog",
       "teams": []
@@ -207,6 +243,17 @@
         "Chelsea",
         "Manchester City"
       ]
+    },
+    {
+      "id": "f064d81c6ce8fefa9ec96717ff88aa7c",
+      "source": "Sky Sports",
+      "headline": "France vs Sweden preview - predict the score!",
+      "description": "",
+      "publishedAt": "2026-06-29T10:52:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-last-32_7284207.jpg?20260627124422",
+      "link": "https://www.skysports.com/football/france-vs-sweden/live/549844",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49205906,
@@ -499,40 +546,11 @@
         "Newcastle United",
         "Arsenal"
       ]
-    },
-    {
-      "id": 49184393,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United tracking Mexico's Mora",
-      "description": "Manchester United are interested in Mexico wonderkid Gilberto Mora. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-26T13:22:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0608/r1669799_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49184393/transfer-rumors-news-man-united-tracking-mexico-mora",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Mexico",
-        "Tijuana"
-      ]
-    },
-    {
-      "id": 49186217,
-      "source": "ESPN",
-      "headline": "Ilkay Gündogan: Elliot Anderson 'will make a great addition' to Man City",
-      "description": "Ilkay Gündogan has said that Nottingham Forest and England midfielder Elliot Anderson will \"make a great addition\" to the Manchester City squad.",
-      "publishedAt": "2026-06-26T12:47:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1679901_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49186217/ilkay-gundogan-elliot-anderson-man-city-great-addition",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-30T09:58:54.608Z"
+    "cachedAt": "2026-06-30T14:41:31.523Z"
   }
 }
