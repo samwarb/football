@@ -2,24 +2,84 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "2836674f0a671a04dea5d3d60319b6e2",
+      "id": "1d6994f12cb36398c6933a7e5bccfbe8",
       "source": "Sky Sports",
-      "headline": "Who starts at RB and how to beat low block? England vs DR Congo talking points",
-      "description": "England face DR Congo in the last 32 of the World Cup with several key issues for Thomas Tuchel ahead of his first knockout game as boss.",
-      "publishedAt": "2026-06-30T14:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-bellingham-england_7284602.jpg?20260627232915",
-      "link": "https://www.skysports.com/football/news/12040/13558788/england-vs-dr-congo-thomas-tuchel-battling-selection-dilemmas-fitness-issues-and-low-blocks-ahead-of-last-32-clash",
+      "headline": "Haaland scores late winner to set up Norway vs Brazil",
+      "description": "Erling Haaland scored an 86th-minute winner to send Norway to a dramatic 2-1 win over Ivory Coast - and set up a mouth-watering World Cup last-16 clash with Brazil.",
+      "publishedAt": "2026-06-30T18:58:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-erling-haaland-norway_7286897.jpg?20260630205502",
+      "link": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "b79650be5bdffc17803e1777ecc81a09",
+      "source": "Sky Sports",
+      "headline": "Four Premier League sides fined by UEFA for breaches of financial rules",
+      "description": "Aston Villa, Chelsea, Newcastle United and Nottingham Forest have all been fined by UEFA for breaching financial sustainability regulations.",
+      "publishedAt": "2026-06-30T18:26:00.000Z",
+      "image": "https://e2.365dm.com/20/08/1920x1080/skysports-uefa-logo-uefa_5058589.jpg?20200805101323",
+      "link": "https://www.skysports.com/football/news/12040/13559340/aston-villa-chelsea-newcastle-and-nottingham-forest-fined-by-uefa-for-breaching-financial-rules",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "ea2759bb2e7a851876791d9a8a661155",
+      "id": "b56d85cf4f5d2a4e514a5a370d3662c5",
       "source": "Sky Sports",
-      "headline": "Cusack's Sheff Utd coach called her a 'psycho', inquest hears",
-      "description": "Former Sheffield United midfielder Maddy Cusack's coach had called her a \"psycho\" and was playing mind games with her before her death, an inquest has heard.",
-      "publishedAt": "2026-06-30T13:30:00.000Z",
-      "image": "https://e1.365dm.com/23/09/1920x1080/skysports-maddy-cusack-sheffield-united_6293097.jpg?20230921185104",
-      "link": "https://www.skysports.com/football/news/12040/13559236/maddy-cusack-sheffield-united-coach-jonathan-morgan-called-midfielder-a-psycho-inquest-hears",
+      "headline": "World Cup penalty misses - is this the end of the stutter?",
+      "description": "The stutter. Like it or loathe it, it's a technique that has been increasingly adopted by penalty takers since the time of Pele in the 1960s. But after some faltering spot-kicks at this World Cup - might it be time up for one of football's most polarising tricks?",
+      "publishedAt": "2026-06-30T18:20:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-justin-kluivert-netherlands_7286851.jpg?20260630191138",
+      "link": "https://www.skysports.com/football/news/12040/13559248/world-cup-2026-is-the-penalty-stutter-run-up-that-cost-germany-and-netherlands-at-the-end-of-its-lifespan",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49227268,
+      "source": "ESPN",
+      "headline": "Frank Lampard signs new three-year contract at Coventry City",
+      "description": "Frank Lampard has signed a new deal with Coventry until 2029.",
+      "publishedAt": "2026-06-30T17:54:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682153_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49227268/frank-lampard-new-contract-coventry-city-three-year-deal",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City"
+      ]
+    },
+    {
+      "id": "6c8818a25742a0a59acc77547feb877d",
+      "source": "Sky Sports",
+      "headline": "Lampard signs new Coventry deal after summer interest",
+      "description": "Frank Lampard has signed a new contract as Coventry City head coach until 2029.",
+      "publishedAt": "2026-06-30T17:40:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-frank-lampard-coventry-city_7286832.jpg?20260630183545",
+      "link": "https://www.skysports.com/football/news/12040/13559326/frank-lampard-coventry-city-head-coach-signs-new-deal-until-2029-ahead-of-premier-league-return",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49226868,
+      "source": "ESPN",
+      "headline": "Tottenham agree club-record £85 million deal to sign West Ham's Mateus Fernandes - sources",
+      "description": "Tottenham have agreed a club-record £85 million ($112m) deal with West Ham to sign Mateus Fernandes, sources have told ESPN.",
+      "publishedAt": "2026-06-30T17:13:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682117_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49226868/tottenham-mateus-fernandes-west-ham-man-united-club-record-deal-sources",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "7f2cf439fc1a68480816072abafb3e08",
+      "source": "Sky Sports",
+      "headline": "Summerville a top winger target for Man Utd but Rashford holds key",
+      "description": "Crysencio Summerville is emerging as a leading left-wing target for Manchester United, Sky Sports News understands.",
+      "publishedAt": "2026-06-30T13:07:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-crysencio-summerville_7286595.jpg?20260630141233",
+      "link": "https://www.skysports.com/football/news/12040/13559234/man-utd-west-hams-crysencio-summerville-emerging-as-a-top-left-wing-target-for-michael-carricks-side",
       "tag": "News Story",
       "teams": []
     },
@@ -46,54 +106,6 @@
       "image": "https://a.espncdn.com/photo/2026/0628/r1681303_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49223257,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Olise asks for Bayern meeting amid Madrid, PSG interest",
-      "description": "Bayern Munich winger Michael Olise has asked for a meeting about his future amid interest from Europe's biggest clubs. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-30T10:29:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681953_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49223257/transfer-rumors-news-michael-olise-asks-bayern-munich-meeting-amid-real-madrid-psg",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "Real Madrid",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": "0455796b3555c100160c8302f5d58f2e",
-      "source": "Sky Sports",
-      "headline": "Merson: Bellingham's deeper role has given Tuchel midfield headache",
-      "description": "Paul Merson thinks England boss Thomas Tuchel has a bit of a midfield headache after Jude Bellingham's excellent performance in a deeper role in the 2-0 win over Panama.",
-      "publishedAt": "2026-06-30T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jude-bellingham-morgan-rogers_7284654.jpg?20260628005107",
-      "link": "https://www.skysports.com/football/news/12040/13558843/paul-merson-jude-bellinghams-deeper-role-has-given-thomas-tuchel-midfield-headache-ahead-of-dr-congo-clash",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
-      "id": "866cce397a1ed34df7b09e730b75eaac",
-      "source": "Sky Sports",
-      "headline": "Why Tuchel should be worried about DR Congo's 'anti-England' formula",
-      "description": "If you're looking for a dark horse in the knockout stages, don't look for one in DR Congo. Look for a Leopard - patient, relentless, and ready to pounce when it matters most.",
-      "publishedAt": "2026-06-30T08:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-dr-congo-wissa-aaron-wan-bissaka_7285527.jpg?20260629102240",
-      "link": "https://www.skysports.com/football/news/12040/13558773/world-cup-2026-why-england-and-thomas-tuchel-should-be-worried-about-dr-congo-ahead-of-their-last-32-clash",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b85950a7131217219f2a527feeeeb1b4",
-      "source": "Sky Sports",
-      "headline": "World Cup latest: Klopp responds to Germany links as Nagelsmann says 'I won't quit'",
-      "description": "",
-      "publishedAt": "2026-06-30T07:30:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-germany_7286318.jpg?20260630091239",
-      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -245,9 +257,9 @@
       ]
     },
     {
-      "id": "f064d81c6ce8fefa9ec96717ff88aa7c",
+      "id": "fcf52f03fd165adffd5e098086fcf2f1",
       "source": "Sky Sports",
-      "headline": "France vs Sweden preview - predict the score!",
+      "headline": "Saliba back for France as Bergvall starts for Sweden in last-32 clash LIVE!",
       "description": "",
       "publishedAt": "2026-06-29T10:52:00.000Z",
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-last-32_7284207.jpg?20260627124422",
@@ -532,25 +544,11 @@
         "Arsenal",
         "Newcastle United"
       ]
-    },
-    {
-      "id": 49186659,
-      "source": "ESPN",
-      "headline": "Newcastle reject £55 million bid from Arsenal for Bruno Guimarães - sources",
-      "description": "Arsenal have had a £55 million ($73m) offer for Bruno Guimarães rejected by Newcastle United, sources have told ESPN Brasil.",
-      "publishedAt": "2026-06-26T14:58:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1679918_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49186659/arsenal-bruno-guimaraes-newcastle-reject-55-million-bid-sources",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-30T14:41:31.523Z"
+    "cachedAt": "2026-06-30T20:17:20.322Z"
   }
 }
