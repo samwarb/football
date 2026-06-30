@@ -2,6 +2,63 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "ce128c6a0f9dd5bba5d682933d31e361",
+      "source": "Sky Sports",
+      "headline": "Morocco beat Netherlands on penalties: All the key moments and rate the players",
+      "description": "",
+      "publishedAt": "2026-06-30T04:10:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-issa-diop-morocco_7286195.jpg?20260630040603",
+      "link": "https://www.skysports.com/football/netherlands-vs-morocco/live/549841",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "d70534108c54f3f781977db12b6c5b66",
+      "source": "Sky Sports",
+      "headline": "Morocco beat Netherlands in dramatic penalty shootout to set up Canada clash",
+      "description": "Morocco secured their spot in the World Cup last 16 after beating Netherlands in a dramatic penalty shootout following a 1-1 draw in Monterrey, Mexico.",
+      "publishedAt": "2026-06-30T04:05:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-morocco-world-cup_7286203.jpg?20260630050858",
+      "link": "https://www.skysports.com/football/netherlands-vs-morocco/report/549841",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "f2b8f4f81a760fcbfc4e510fff55541a",
+      "source": "Sky Sports",
+      "headline": "Germany crash out of World Cup on penalties to Paraguay",
+      "description": "Germany lost a World Cup penalty shoot-out for the first time as they crashed out of the last 32 to underdogs Paraguay.",
+      "publishedAt": "2026-06-29T22:30:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-paraguay-germany_7286144.jpg?20260630003610",
+      "link": "https://www.skysports.com/football/germany-vs-paraguay/report/549840",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48898245,
+      "source": "ESPN",
+      "headline": "Chelsea say new Man City boss Enzo Maresca to pay compensation for move",
+      "description": "Manchester City have formally announced Enzo Maresca as their new manager amid Chelsea claims that the Italian will personally pay compensation for the move.",
+      "publishedAt": "2026-06-29T21:37:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0629/r1681710_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48898245/enzo-maresca-confirmed-pep-guardiola-man-city-successor-chelsea-compensation",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "aa389596a1b96757ec6c6162c37690ea",
+      "source": "Sky Sports",
+      "headline": "90+5! Martinelli sends Brazil through in comeback win vs Japan",
+      "description": "Gabriel Martinelli's 95th-minute winner saw Brazil dramatically come from behind to win 2-1 and advance to the World Cup last 16, cruelly denying Japan a first-ever knockout stage victory in the competition.",
+      "publishedAt": "2026-06-29T19:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-gabriel-martinelli_7286028.jpg?20260629200345",
+      "link": "https://www.skysports.com/football/brazil-vs-japan/report/549839",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49213338,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool seeking winger El Mala as Jones nears exit",
@@ -15,6 +72,17 @@
         "Bayern Munich",
         "Liverpool"
       ]
+    },
+    {
+      "id": "5c94aa5b8eea27b0a03db6622215cf81",
+      "source": "Sky Sports",
+      "headline": "Kane likely to sign new Bayern deal despite Barcelona interest",
+      "description": "England captain Harry Kane is likely to sign a new deal to extend his stay at Bayern Munich despite interest from Barcelona.",
+      "publishedAt": "2026-06-29T17:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-kane-england_7284785.jpg?20260628103419",
+      "link": "https://www.skysports.com/football/news/12040/13559005/harry-kane-transfer-news-england-captain-set-to-sign-new-bayern-munich-deal-despite-barcelona-interest",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49216464,
@@ -41,19 +109,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48898245,
-      "source": "ESPN",
-      "headline": "Chelsea say new Man City boss Enzo Maresca to pay compensation for move",
-      "description": "Manchester City have formally announced Enzo Maresca as their new manager amid Chelsea claims that the Italian will personally pay compensation for the move.",
-      "publishedAt": "2026-06-29T14:35:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0629/r1681456_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48898245/enzo-maresca-confirmed-pep-guardiola-man-city-successor-chelsea-compensation",
-      "tag": "Manchester City",
-      "teams": [
         "Manchester City"
       ]
     },
@@ -485,11 +540,9 @@
       ]
     }
   ],
-  "warnings": [
-    "Sky Sports: HTTP 500 for https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.skysports.com%2Frss%2F12040"
-  ],
+  "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-29T20:13:59.076Z"
+    "cachedAt": "2026-06-30T04:32:47.436Z"
   }
 }
