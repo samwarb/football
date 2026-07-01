@@ -2,55 +2,77 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "ba257a320fefc8cad66e7eb38da8d7c9",
-      "source": "Sky Sports",
-      "headline": "Mexico storm into World Cup last 16 to book potential England clash",
-      "description": "A potential trip to the Azteca Stadium awaits England if they beat DR Congo on Wednesday after Mexico strolled past Ecuador 2-0 to reach the last 16 of the World Cup.",
-      "publishedAt": "2026-07-01T03:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mexico-world-cup_7287027.jpg?20260701052724",
-      "link": "https://www.skysports.com/football/mexico-vs-ecuador/report/549842",
-      "tag": "Report",
-      "teams": []
+      "id": 49234121,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: USMNT's Pulisic on six-man Liverpool shortlist",
+      "description": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-01T09:25:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675661_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "United States",
+        "AC Milan",
+        "Liverpool"
+      ]
     },
     {
-      "id": "bfe4db0b90cce44893233d3d21b39295",
+      "id": "5b7cf18ae9a8102003d07ac99a05e67b",
       "source": "Sky Sports",
-      "headline": "Neville: France ‘a level above’ and Mbappe ‘on verge of greatness’",
-      "description": "Gary Neville says France are \"a level above\" any other team at the World Cup after they cruised to a 3-0 win against Sweden in the round of 32.",
-      "publishedAt": "2026-06-30T23:35:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-kylian-mbappe-didier-deschamps_7287009.jpg?20260701003135",
-      "link": "https://www.skysports.com/football/news/12040/13559386/france-3-0-sweden-les-bleus-a-level-above-other-world-cup-teams-with-kylian-mbappe-on-verge-of-greatness-says-gary-neville",
+      "headline": "Rangers beat Saints to Neil signing following Sunderland exit",
+      "description": "Rangers have signed midfielder Dan Neil on a three-year contract.",
+      "publishedAt": "2026-07-01T09:15:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-dan-neil_7258960.jpg?20260526142505",
+      "link": "https://www.skysports.com/football/news/12040/13559448/dan-neil-rangers-sign-ex-sunderland-captain-despite-southampton-talks-as-midfielder-pens-three-year-deal",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "6eb72ca7d30f632ac368a5c0ba862b36",
+      "id": "d12b93a32b98ad0d6ab29e950dacc26a",
       "source": "Sky Sports",
-      "headline": "France breeze past Sweden as Mbappe matches Messi",
-      "description": "Kylian Mbappe helped book France's place in the World Cup round of 16 by taking his tournament total to six goals in a slick 3-0 victory over Sweden.",
-      "publishedAt": "2026-06-30T23:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-kylian-mbappe-france_7286994.jpg?20260630234812",
-      "link": "https://www.skysports.com/football/france-vs-sweden/report/549844",
-      "tag": "Report",
+      "headline": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
+      "description": "",
+      "publishedAt": "2026-07-01T09:12:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-amalie-vangsgaard_7287144.jpg?20260701101115",
+      "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "e98ef58cf3f52ac025f2b79f530ecdee",
+      "id": "ec9efed65566e883fd4cae7654a51868",
       "source": "Sky Sports",
-      "headline": "Rangers sign Pandur from Hull as Butland nears Tigers move",
-      "description": "Rangers have signed goalkeeper Ivor Pandur from Hull City in a £6m deal.",
-      "publishedAt": "2026-06-30T21:05:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ivor-ivor-pandur_7285612.jpg?20260629115157",
-      "link": "https://www.skysports.com/football/news/12040/13559364/ivor-pandur-rangers-sign-croatia-goalkeeper-from-hull-city-with-jack-butland-close-to-joining-tigers",
+      "headline": "Jacquet completes £60m move to Liverpool",
+      "description": "Liverpool have completed the £60m signing of Jeremy Jacquet from Rennes.",
+      "publishedAt": "2026-07-01T09:05:00.000Z",
+      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-rennes-jeremy-jacquet_7137552.jpg?20260116213439",
+      "link": "https://www.skysports.com/football/news/12040/13559447/jeremy-jacquet-transfer-news-liverpool-sign-rennes-defender-in-60m-deal-with-20-year-old-moving-to-anfield-this-summer",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 49234253,
+      "source": "ESPN",
+      "headline": "Salomon Kalou wants Yan Diomande in Premier League, backs him to make potential PSG move work",
+      "description": "Yan Diomande is seemingly close to a move to Paris Saint-Germain after Ivory Coast exited the World Cup, and Salomon Kalou has backed him to succeed.",
+      "publishedAt": "2026-07-01T08:56:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682564_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49234253/salomon-kalou-wants-yan-diomande-premier-league-backs-make-potential-psg-move-work",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Liverpool",
+        "Ivory Coast",
+        "Chelsea",
+        "RB Leipzig"
+      ]
     },
     {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-06-30T20:56:55Z",
+      "publishedAt": "2026-07-01T08:53:07Z",
       "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "tag": "Arsenal",
@@ -78,85 +100,11 @@
       ]
     },
     {
-      "id": "1d6994f12cb36398c6933a7e5bccfbe8",
-      "source": "Sky Sports",
-      "headline": "Haaland scores late winner to set up Norway vs Brazil",
-      "description": "Erling Haaland scored an 86th-minute winner to send Norway to a dramatic 2-1 win over Ivory Coast - and set up a mouth-watering World Cup last-16 clash with Brazil.",
-      "publishedAt": "2026-06-30T18:58:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-erling-haaland-norway_7286897.jpg?20260630205502",
-      "link": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 49227268,
-      "source": "ESPN",
-      "headline": "Frank Lampard signs new three-year contract at Coventry City",
-      "description": "Frank Lampard has signed a new deal with Coventry until 2029.",
-      "publishedAt": "2026-06-30T17:54:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682153_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49227268/frank-lampard-new-contract-coventry-city-three-year-deal",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 49226868,
-      "source": "ESPN",
-      "headline": "Tottenham agree club-record £85 million deal to sign West Ham's Mateus Fernandes - sources",
-      "description": "Tottenham have agreed a club-record £85 million ($112m) deal with West Ham to sign Mateus Fernandes, sources have told ESPN.",
-      "publishedAt": "2026-06-30T17:13:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682117_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49226868/tottenham-mateus-fernandes-west-ham-man-united-club-record-deal-sources",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 49219156,
-      "source": "ESPN",
-      "headline": "Why Manchester City chose Enzo Maresca as Pep Guardiola's heir",
-      "description": "Enzo Maresca replacing Pep Guardiola was Manchester City's long-term strategy, something the Italian's former club Chelsea have changed since his exit.",
-      "publishedAt": "2026-06-30T12:48:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0629/r1681708_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49219156/why-manchester-city-chose-enzo-maresca-pep-guardiola-heir",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-06-30T11:26:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1681303_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "b24dd2223e0ca6ca3eb0ed84edbdd080",
-      "source": "Sky Sports",
-      "headline": "Koeman parts ways with Netherlands after World Cup exit",
-      "description": "Ronald Koeman has left his role as head coach of the Netherlands.",
-      "publishedAt": "2026-06-30T08:39:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ronald-koeman-netherlands_7286346.jpg?20260630095152",
-      "link": "https://www.skysports.com/football/news/12040/13559131/ronald-koeman-netherlands-head-coach-leaves-role-for-a-second-time-following-world-cup-exit-to-morocco",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
       "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-06-30T07:25:29Z",
+      "publishedAt": "2026-07-01T08:44:43Z",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "tag": "Arsenal",
@@ -188,7 +136,7 @@
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
       "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-06-30T07:21:51Z",
+      "publishedAt": "2026-07-01T08:40:51Z",
       "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "tag": "Arsenal",
@@ -210,6 +158,69 @@
         "Coventry City",
         "Hull City"
       ]
+    },
+    {
+      "id": "3903996471983f8dac7f02e5381a3f0e",
+      "source": "Sky Sports",
+      "headline": "Everton latest: Club in talks over return for former loan player",
+      "description": "",
+      "publishedAt": "2026-07-01T08:31:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49219156,
+      "source": "ESPN",
+      "headline": "Why Manchester City chose Enzo Maresca as Pep Guardiola's heir",
+      "description": "Enzo Maresca replacing Pep Guardiola was Manchester City's long-term strategy, something the Italian's former club Chelsea have changed since his exit.",
+      "publishedAt": "2026-07-01T07:07:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0629/r1681708_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49219156/why-manchester-city-chose-enzo-maresca-pep-guardiola-heir",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49227268,
+      "source": "ESPN",
+      "headline": "Frank Lampard signs new three-year contract at Coventry City",
+      "description": "Frank Lampard has signed a new deal with Coventry until 2029.",
+      "publishedAt": "2026-06-30T17:54:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682153_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49227268/frank-lampard-new-contract-coventry-city-three-year-deal",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 49226868,
+      "source": "ESPN",
+      "headline": "Tottenham agree club-record £85 million deal to sign West Ham's Mateus Fernandes - sources",
+      "description": "Tottenham have agreed a club-record £85 million ($112m) deal with West Ham to sign Mateus Fernandes, sources have told ESPN.",
+      "publishedAt": "2026-06-30T17:13:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682117_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49226868/tottenham-mateus-fernandes-west-ham-man-united-club-record-deal-sources",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-06-30T11:26:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1681303_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
     },
     {
       "id": 48898245,
@@ -517,38 +528,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49114842,
-      "source": "ESPN",
-      "headline": "Arsenal Premier League fixtures 2026-27: Gunners begin title defence against Coventry",
-      "description": "Arsenal will get their Premier League title defence under way when they host Coventry City on the opening week of the new season.",
-      "publishedAt": "2026-06-27T07:58:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114842/arsenal-premier-league-fixtures-2026-27-gunners-begin-title-defence-coventry-city-mikel-arteta",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49190820,
-      "source": "ESPN",
-      "headline": "Hutchison: 'Not a chance' Guimarães leaves Newcastle for Arsenal for £55m",
-      "description": "Hutchison: 'Not a chance' Guimarães leaves Newcastle for Arsenal for £55m",
-      "publishedAt": "2026-06-26T22:22:12Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0626/dm_260626_Hutchison_Not_a_chance_Guimaraes_leaves_Newcastle_for_Arsenal_for_55m/dm_260626_Hutchison_Not_a_chance_Guimaraes_leaves_Newcastle_for_Arsenal_for_55m.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49190820/not-chance-guimaraes-leaves-newcastle-arsenal-55m",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-01T04:52:17.241Z"
+    "cachedAt": "2026-07-01T10:10:33.377Z"
   }
 }
