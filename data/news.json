@@ -2,6 +2,99 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "6ddc70d7da3b749bd616082e0dbe0ba9",
+      "source": "Sky Sports",
+      "headline": "Belgium vs Senegal LIVE!",
+      "description": "",
+      "publishedAt": "2026-07-01T19:35:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-last-32_7284844.jpg?20260628123549",
+      "link": "https://www.skysports.com/football/belgium-vs-senegal/live/549846",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "255833888554c79c405a54ce120b45cf",
+      "source": "Sky Sports",
+      "headline": "Harry Kane: Special, savour, England's greatest and Ballon D'Or contender",
+      "description": "Yes, England have issues. They put you through the mill, they're struggling for a right-back. But one problem they don't have is having a world-class matchwinner in their team.",
+      "publishedAt": "2026-07-01T19:32:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-england-harry-kane_7287590.jpg?20260701201511",
+      "link": "https://www.skysports.com/football/news/12040/13559651/harry-kane-england-captain-shows-why-he-is-greatest-every-striker-and-ballon-dor-contender-after-two-goal-heroics-against-dr-congo",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "5095f10d243b56facc80d61b82d86672",
+      "source": "Sky Sports",
+      "headline": "Spurs agree club-record £100m deal to sign Newcastle's Tonali",
+      "description": "Tottenham have agreed a club-record £100m deal to sign midfielder Sandro Tonali from Newcastle.",
+      "publishedAt": "2026-07-01T18:45:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sandro-tonali-transfer_7287586.jpg?20260701200814",
+      "link": "https://www.skysports.com/football/news/12040/13559533/sandro-tonali-tottenham-agree-club-record-100m-deal-to-sign-newcastle-midfielder",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "d52338d15b15a11c610ab9d44d344600",
+      "source": "Sky Sports",
+      "headline": "England ratings: Spence struggles as Kane, Gordon save the day",
+      "description": "Harry Kane and Anthony Gordon saved England as they beat DR Congo 2-1 in the round of 32, but - unsurprisingly - right-back remains a problem area as Djed Spence struggled in Atlanta.",
+      "publishedAt": "2026-07-01T18:15:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-harry-kane-england_7287510.jpg?20260701185634",
+      "link": "https://www.skysports.com/football/news/12040/13559562/england-2-1-dr-congo-player-ratings-harry-kane-and-anthony-gordon-save-the-day-as-djed-spence-struggles-at-right-back",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "1178c302ae09431be20393fe08aa9307",
+      "source": "Sky Sports",
+      "headline": "Kane keeps England's World Cup dream alive as DR Congo beaten",
+      "description": "Harry Kane scored a brilliant double to inspire England to a come-from-behind 2-1 win over DR Congo and set up a World Cup last-16 showdown with co-hosts Mexico.",
+      "publishedAt": "2026-07-01T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-harry-kane-jude-bellingham_7287509.jpg?20260701185441",
+      "link": "https://www.skysports.com/football/england-vs-dr-congo/report/549847",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49238620,
+      "source": "ESPN",
+      "headline": "Surprised Vitor Pereira says Nottingham Forest departure came 'without warning'",
+      "description": "Vitor Pereira said he was taken by \"complete surprise and without any warning\" after confirming his time as head coach of Nottingham Forest has come to an end effective immediately.",
+      "publishedAt": "2026-07-01T17:47:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49238620/surprised-vitor-pereira-says-nottingham-forest-departure-warning",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": "040786d3d7609229d7f641a25b796773",
+      "source": "Sky Sports",
+      "headline": "Pereira confirms 'surprise' Forest exit with Glasner in talks to replace him",
+      "description": "Vitor Pereira said he was taken by \"complete surprise and without any warning\" after confirming his time as head coach of Nottingham Forest is over, with Oliver Glasner in talks to replace him.",
+      "publishedAt": "2026-07-01T17:28:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-vitor-pereira-oliver-glasner_7287432.jpg?20260701172751",
+      "link": "https://www.skysports.com/football/news/12040/13559590/oliver-glasner-nottingham-forest-in-talks-to-replace-vitor-pereira-as-head-coach-with-ex-crystal-palace-boss",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49237291,
+      "source": "ESPN",
+      "headline": "Aston Villa file CAS appeal to unblock registration for teen Brian Madjo",
+      "description": "Aston Villa took on FIFA at sport's highest court on Wednesday to try and register a 17-year-old forward who has been refused permission to play this year.",
+      "publishedAt": "2026-07-01T16:13:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682730_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49237291/aston-villa-file-cas-appeal-unblock-registration-brian-madjo-17",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Metz"
+      ]
+    },
+    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
@@ -129,39 +222,6 @@
       ]
     },
     {
-      "id": "5b7cf18ae9a8102003d07ac99a05e67b",
-      "source": "Sky Sports",
-      "headline": "Rangers beat Saints to Neil signing following Sunderland exit",
-      "description": "Rangers have signed midfielder Dan Neil on a three-year contract.",
-      "publishedAt": "2026-07-01T09:15:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-dan-neil_7258960.jpg?20260526142505",
-      "link": "https://www.skysports.com/football/news/12040/13559448/dan-neil-rangers-sign-ex-sunderland-captain-despite-southampton-talks-as-midfielder-pens-three-year-deal",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "d12b93a32b98ad0d6ab29e950dacc26a",
-      "source": "Sky Sports",
-      "headline": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
-      "description": "",
-      "publishedAt": "2026-07-01T09:12:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-amalie-vangsgaard_7287144.jpg?20260701120325",
-      "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "ec9efed65566e883fd4cae7654a51868",
-      "source": "Sky Sports",
-      "headline": "Jacquet completes £60m move to Liverpool",
-      "description": "Liverpool have completed the £60m signing of Jeremy Jacquet from Rennes.",
-      "publishedAt": "2026-07-01T09:05:00.000Z",
-      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-rennes-jeremy-jacquet_7137552.jpg?20260116213439",
-      "link": "https://www.skysports.com/football/news/12040/13559447/jeremy-jacquet-transfer-news-liverpool-sign-rennes-defender-in-60m-deal-with-20-year-old-moving-to-anfield-this-summer",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49234253,
       "source": "ESPN",
       "headline": "Salomon Kalou wants Yan Diomande in Premier League, backs him to make potential PSG move work",
@@ -278,17 +338,6 @@
         "Tottenham Hotspur",
         "West Ham United"
       ]
-    },
-    {
-      "id": "2de948a8f0230ddae08e4e4ad6fd7cea",
-      "source": "Sky Sports",
-      "headline": "England latest: Don't expect glamorous performances, says Tuchel",
-      "description": "",
-      "publishedAt": "2026-06-30T08:08:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48898245,
@@ -529,50 +578,11 @@
       "teams": [
         "Troyes"
       ]
-    },
-    {
-      "id": 49195513,
-      "source": "ESPN",
-      "headline": "Carlos Queiroz wants Black Stars to channel Manchester United's 'Nou Camp spirit' to bring joy to Ghana",
-      "description": "In the aftermath of Ghana's 0-0 draw with England in their second World Cup game in Foxborough on Tuesday, former Manchester United midfielder Paul Scholes was quick to identify where he'd seen the Black Stars' gameplan before.",
-      "publishedAt": "2026-06-27T17:07:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678962_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49195513/carlos-queiroz-black-stars-manchester-united-nou-camp-ghana",
-      "tag": "Croatia",
-      "teams": [
-        "Croatia",
-        "Ghana",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49115208,
-      "source": "ESPN",
-      "headline": "Chelsea Premier League fixtures 2026-27: Xabi Alonso begins reign with London derby",
-      "description": "Xabi Alonso will begin his tenure as Chelsea manager with a London derby against Fulham on the first Monday of the 2026-27 Premier League season.",
-      "publishedAt": "2026-06-27T07:59:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664744_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49115208/chelsea-premier-league-fixtures-2026-27-xabi-alonso-begins-reign-london-derby-fulham-arsenal-brighton",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "9a326ecd5b349d393013ba1dfb98ba0e",
-      "source": "Sky Sports",
-      "headline": "Chelsea sign Palestra from Atalanta",
-      "description": "Chelsea have completed the signing of Marco Palestra from Atalanta in a deal worth £43m.",
-      "publishedAt": "2026-06-24T12:31:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-marco-palestra-chelsea_7281709.jpg?20260624133635",
-      "link": "https://www.skysports.com/football/news/12040/13557367/chelsea-transfer-news-marco-palestra-signs-from-serie-a-side-atalanta-in-deal-worth-43m",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-01T15:10:54.977Z"
+    "cachedAt": "2026-07-01T20:12:00.673Z"
   }
 }
