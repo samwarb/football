@@ -2,6 +2,82 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "ba257a320fefc8cad66e7eb38da8d7c9",
+      "source": "Sky Sports",
+      "headline": "Mexico storm into World Cup last 16 to book potential England clash",
+      "description": "A potential trip to the Azteca Stadium awaits England if they beat DR Congo on Wednesday after Mexico strolled past Ecuador 2-0 to reach the last 16 of the World Cup.",
+      "publishedAt": "2026-07-01T03:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mexico-world-cup_7287027.jpg?20260701052724",
+      "link": "https://www.skysports.com/football/mexico-vs-ecuador/report/549842",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "bfe4db0b90cce44893233d3d21b39295",
+      "source": "Sky Sports",
+      "headline": "Neville: France ‘a level above’ and Mbappe ‘on verge of greatness’",
+      "description": "Gary Neville says France are \"a level above\" any other team at the World Cup after they cruised to a 3-0 win against Sweden in the round of 32.",
+      "publishedAt": "2026-06-30T23:35:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-kylian-mbappe-didier-deschamps_7287009.jpg?20260701003135",
+      "link": "https://www.skysports.com/football/news/12040/13559386/france-3-0-sweden-les-bleus-a-level-above-other-world-cup-teams-with-kylian-mbappe-on-verge-of-greatness-says-gary-neville",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "6eb72ca7d30f632ac368a5c0ba862b36",
+      "source": "Sky Sports",
+      "headline": "France breeze past Sweden as Mbappe matches Messi",
+      "description": "Kylian Mbappe helped book France's place in the World Cup round of 16 by taking his tournament total to six goals in a slick 3-0 victory over Sweden.",
+      "publishedAt": "2026-06-30T23:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-kylian-mbappe-france_7286994.jpg?20260630234812",
+      "link": "https://www.skysports.com/football/france-vs-sweden/report/549844",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "e98ef58cf3f52ac025f2b79f530ecdee",
+      "source": "Sky Sports",
+      "headline": "Rangers sign Pandur from Hull as Butland nears Tigers move",
+      "description": "Rangers have signed goalkeeper Ivor Pandur from Hull City in a £6m deal.",
+      "publishedAt": "2026-06-30T21:05:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ivor-ivor-pandur_7285612.jpg?20260629115157",
+      "link": "https://www.skysports.com/football/news/12040/13559364/ivor-pandur-rangers-sign-croatia-goalkeeper-from-hull-city-with-jack-butland-close-to-joining-tigers",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-06-30T20:56:55Z",
+      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
       "id": "1d6994f12cb36398c6933a7e5bccfbe8",
       "source": "Sky Sports",
       "headline": "Haaland scores late winner to set up Norway vs Brazil",
@@ -10,28 +86,6 @@
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-erling-haaland-norway_7286897.jpg?20260630205502",
       "link": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "b79650be5bdffc17803e1777ecc81a09",
-      "source": "Sky Sports",
-      "headline": "Four Premier League sides fined by UEFA for breaches of financial rules",
-      "description": "Aston Villa, Chelsea, Newcastle United and Nottingham Forest have all been fined by UEFA for breaching financial sustainability regulations.",
-      "publishedAt": "2026-06-30T18:26:00.000Z",
-      "image": "https://e2.365dm.com/20/08/1920x1080/skysports-uefa-logo-uefa_5058589.jpg?20200805101323",
-      "link": "https://www.skysports.com/football/news/12040/13559340/aston-villa-chelsea-newcastle-and-nottingham-forest-fined-by-uefa-for-breaching-financial-rules",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b56d85cf4f5d2a4e514a5a370d3662c5",
-      "source": "Sky Sports",
-      "headline": "World Cup penalty misses - is this the end of the stutter?",
-      "description": "The stutter. Like it or loathe it, it's a technique that has been increasingly adopted by penalty takers since the time of Pele in the 1960s. But after some faltering spot-kicks at this World Cup - might it be time up for one of football's most polarising tricks?",
-      "publishedAt": "2026-06-30T18:20:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-justin-kluivert-netherlands_7286851.jpg?20260630191138",
-      "link": "https://www.skysports.com/football/news/12040/13559248/world-cup-2026-is-the-penalty-stutter-run-up-that-cost-germany-and-netherlands-at-the-end-of-its-lifespan",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -48,17 +102,6 @@
       ]
     },
     {
-      "id": "6c8818a25742a0a59acc77547feb877d",
-      "source": "Sky Sports",
-      "headline": "Lampard signs new Coventry deal after summer interest",
-      "description": "Frank Lampard has signed a new contract as Coventry City head coach until 2029.",
-      "publishedAt": "2026-06-30T17:40:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-frank-lampard-coventry-city_7286832.jpg?20260630183545",
-      "link": "https://www.skysports.com/football/news/12040/13559326/frank-lampard-coventry-city-head-coach-signs-new-deal-until-2029-ahead-of-premier-league-return",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49226868,
       "source": "ESPN",
       "headline": "Tottenham agree club-record £85 million deal to sign West Ham's Mateus Fernandes - sources",
@@ -71,17 +114,6 @@
         "Tottenham Hotspur",
         "West Ham United"
       ]
-    },
-    {
-      "id": "7f2cf439fc1a68480816072abafb3e08",
-      "source": "Sky Sports",
-      "headline": "Summerville a top winger target for Man Utd but Rashford holds key",
-      "description": "Crysencio Summerville is emerging as a leading left-wing target for Manchester United, Sky Sports News understands.",
-      "publishedAt": "2026-06-30T13:07:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-crysencio-summerville_7286595.jpg?20260630141233",
-      "link": "https://www.skysports.com/football/news/12040/13559234/man-utd-west-hams-crysencio-summerville-emerging-as-a-top-left-wing-target-for-michael-carricks-side",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49219156,
@@ -109,36 +141,15 @@
       "teams": []
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-06-30T07:26:45Z",
-      "image": "https://a.espncdn.com/photo/2025/0905/r1541568_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
+      "id": "b24dd2223e0ca6ca3eb0ed84edbdd080",
+      "source": "Sky Sports",
+      "headline": "Koeman parts ways with Netherlands after World Cup exit",
+      "description": "Ronald Koeman has left his role as head coach of the Netherlands.",
+      "publishedAt": "2026-06-30T08:39:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ronald-koeman-netherlands_7286346.jpg?20260630095152",
+      "link": "https://www.skysports.com/football/news/12040/13559131/ronald-koeman-netherlands-head-coach-leaves-role-for-a-second-time-following-world-cup-exit-to-morocco",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49154575,
@@ -255,17 +266,6 @@
         "Chelsea",
         "Manchester City"
       ]
-    },
-    {
-      "id": "fcf52f03fd165adffd5e098086fcf2f1",
-      "source": "Sky Sports",
-      "headline": "Saliba back for France as Bergvall starts for Sweden in last-32 clash LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-29T10:52:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-last-32_7284207.jpg?20260627124422",
-      "link": "https://www.skysports.com/football/france-vs-sweden/live/549844",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49205906,
@@ -549,6 +549,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-06-30T20:17:20.322Z"
+    "cachedAt": "2026-07-01T04:52:17.241Z"
   }
 }
