@@ -2,12 +2,157 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "82a76115ae9494d89ffb9f696b65e54a",
+      "id": 49229881,
+      "source": "ESPN",
+      "headline": "Tottenham sign Mateus Fernandes from West Ham in club-record £85m transfer",
+      "description": "Tottenham Hotspur have announced the signing of midfielder Mateus Fernandes from West Ham.",
+      "publishedAt": "2026-07-02T09:19:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49229881/tottenham-hotspur-sign-mateus-fernandes-west-ham-united-club-record-85m-premier-league-transfer",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 49245591,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Milan tracking Liverpool's Van Dijk",
+      "description": "AC Milan are considering a move for Liverpool center back Virgil van Dijk. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-02T09:04:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1673225_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49245591/transfer-rumors-news-milan-tracking-liverpool-van-dijk",
+      "tag": "AC Milan",
+      "teams": [
+        "AC Milan",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5d985f59e8e5dc5fd921747c3bc47938",
+      "source": "Sky Sports",
+      "headline": "Hackney joins Everton in £24m deal",
+      "description": "Everton have completed the signing of midfielder Hayden Hackney from Middlesbrough in a £24m deal.",
+      "publishedAt": "2026-07-02T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-hayden-hackney-middlesbrough_7263485.jpg?20260602093435",
+      "link": "https://www.skysports.com/football/news/12040/13559023/hayden-hackney-transfer-news-everton-sign-midfielder-from-middlesbrough-in-24m-deal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49245775,
+      "source": "ESPN",
+      "headline": "From Chelsea wonderkid to Black Stars elder statesman - Baba Rahman's years of recovery lead to Kansas City",
+      "description": "Once the bright young thing of the Ghana setup, Abdul Rahman Baba's career trajectory was transformed by a devastating injury suffered in 2017, but now back in the Black Stars fold, he's relishing the role of elder statesman with the national side.",
+      "publishedAt": "2026-07-02T08:18:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683203_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49245775/chelsea-wonderkid-black-stars-baba-rahman-kansas-city",
+      "tag": "Ghana",
+      "teams": [
+        "Ghana",
+        "Chelsea",
+        "Colombia"
+      ]
+    },
+    {
+      "id": 49237034,
+      "source": "ESPN",
+      "headline": "Portugal ready to honor World Cup's 'extra man' Diogo Jota as anniversary of his death nears",
+      "description": "Portugal forward Diogo Jota died in a car accident a year ago, so when the country take to the pitch against Croatia on Thursday it will be an emotional time.",
+      "publishedAt": "2026-07-02T07:31:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682709_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49237034/portugal-ready-honor-extra-man-diogo-jota-anniversary-death-nears-world-cup",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Portugal"
+      ]
+    },
+    {
+      "id": 49234253,
+      "source": "ESPN",
+      "headline": "Salomon Kalou wants Yan Diomande in Premier League, backs him to make potential PSG move work",
+      "description": "Yan Diomande is seemingly close to a move to Paris Saint-Germain after Ivory Coast exited the World Cup, and Salomon Kalou has backed him to succeed.",
+      "publishedAt": "2026-07-02T07:31:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682564_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49234253/salomon-kalou-wants-yan-diomande-premier-league-backs-make-potential-psg-move-work",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Liverpool",
+        "Ivory Coast",
+        "Chelsea",
+        "RB Leipzig"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-02T06:56:11Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-02T06:54:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "12feac12e839e0f2c5810ffecbd6dfff",
       "source": "Sky Sports",
       "headline": "USA reach last 16 as Balogun scores but then sees red",
-      "description": "USA are into the World Cup last 16 after beating Bosnia 2-0 but will be without Falorin Balogun for their clash with Belgium after his red card.",
+      "description": "USA are into the World Cup last 16 after beating Bosnia 2-0 but will be without Folarin Balogun for their clash with Belgium after his red card.",
       "publishedAt": "2026-07-02T02:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-balogun-usa_7287725.jpg?20260702023831",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-balogun-world-cup_7287724.jpg?20260702015251",
       "link": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/report/549845",
       "tag": "Report",
       "teams": []
@@ -37,17 +182,6 @@
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-belgium-senegal-youri-tielemans_7287703.jpg?20260701230357",
       "link": "https://www.skysports.com/football/belgium-vs-senegal/report/549846",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "3489f9ea60599ad1c854faaef8f27400",
-      "source": "Sky Sports",
-      "headline": "USA beat Bosnia to face Belgium - All the key moments!",
-      "description": "",
-      "publishedAt": "2026-07-01T23:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-balogun-world-cup_7287724.jpg?20260702015251",
-      "link": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/live/549845",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -105,61 +239,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "a0fbb4f1b154830ec1a81d31eb36c71d",
-      "source": "Sky Sports",
-      "headline": "Harry Kane: Special, saviour, England's greatest and Ballon D'Or contender",
-      "description": "Yes, England have issues. They put you through the mill, they're struggling for a right-back. But one problem they don't have is having a world-class matchwinner in their team.",
-      "publishedAt": "2026-07-01T19:32:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-england-harry-kane_7287590.jpg?20260701201511",
-      "link": "https://www.skysports.com/football/news/12040/13559651/harry-kane-england-captain-shows-why-he-is-greatest-every-striker-and-ballon-dor-contender-after-two-goal-heroics-against-dr-congo",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "50630806dd9c8b4207397b3410755ce5",
-      "source": "Sky Sports",
-      "headline": "Is Rice the solution to England's right-back problem?",
-      "description": "England are through to the last 16 of the World Cup. Nobody will remember that they flirted with disaster in the round of 32 if they go on and lift the trophy. But Thomas Tuchel will be aware of the need for improvement if they are to go the distance.",
-      "publishedAt": "2026-07-01T19:09:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-decln-rice-jude-bellingham_7287647.jpg?20260701212812",
-      "link": "https://www.skysports.com/football/news/12040/13559645/declan-rice-could-be-best-solution-to-thomas-tuchels-right-back-issue-after-cameo-in-england-win-over-dr-congo",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "5095f10d243b56facc80d61b82d86672",
-      "source": "Sky Sports",
-      "headline": "Spurs agree club-record £100m deal to sign Newcastle's Tonali",
-      "description": "Tottenham have agreed a club-record £100m deal to sign midfielder Sandro Tonali from Newcastle.",
-      "publishedAt": "2026-07-01T18:45:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sandro-tonali-transfer_7287586.jpg?20260701200814",
-      "link": "https://www.skysports.com/football/news/12040/13559533/sandro-tonali-tottenham-agree-club-record-100m-deal-to-sign-newcastle-midfielder",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "d52338d15b15a11c610ab9d44d344600",
-      "source": "Sky Sports",
-      "headline": "England ratings: Spence struggles as Kane, Gordon save the day",
-      "description": "Harry Kane and Anthony Gordon saved England as they beat DR Congo 2-1 in the round of 32, but - unsurprisingly - right-back remains a problem area as Djed Spence struggled in Atlanta.",
-      "publishedAt": "2026-07-01T18:15:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-harry-kane-england_7287510.jpg?20260701185634",
-      "link": "https://www.skysports.com/football/news/12040/13559562/england-2-1-dr-congo-player-ratings-harry-kane-and-anthony-gordon-save-the-day-as-djed-spence-struggles-at-right-back",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "1178c302ae09431be20393fe08aa9307",
-      "source": "Sky Sports",
-      "headline": "Kane keeps England's World Cup dream alive as DR Congo beaten",
-      "description": "Harry Kane scored a brilliant double to inspire England to a come-from-behind 2-1 win over DR Congo and set up a World Cup last-16 showdown with co-hosts Mexico.",
-      "publishedAt": "2026-07-01T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-harry-kane-jude-bellingham_7287509.jpg?20260701185441",
-      "link": "https://www.skysports.com/football/england-vs-dr-congo/report/549847",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49238620,
@@ -222,38 +301,6 @@
       "teams": []
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-01T13:42:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49234752,
       "source": "ESPN",
       "headline": "French defender Jérémy Jacquet officially joins Liverpool from Rennes",
@@ -266,6 +313,17 @@
         "Liverpool",
         "Stade Rennais"
       ]
+    },
+    {
+      "id": "c10ebf2e6038390ea321ab76f88840ef",
+      "source": "Sky Sports",
+      "headline": "Spurs complete club-record £85m Fernandes signing",
+      "description": "Tottenham have completed the signing of Mateus Fernandes from West Ham United.",
+      "publishedAt": "2026-07-01T10:36:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-mateus-fernandes_7257986.jpg?20260701125333",
+      "link": "https://www.skysports.com/football/news/12040/13559479/mateus-fernandes-transfer-news-midfielder-set-for-medical-after-spurs-beat-man-utd-to-85m-deal",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49229146,
@@ -300,23 +358,6 @@
       ]
     },
     {
-      "id": 49234253,
-      "source": "ESPN",
-      "headline": "Salomon Kalou wants Yan Diomande in Premier League, backs him to make potential PSG move work",
-      "description": "Yan Diomande is seemingly close to a move to Paris Saint-Germain after Ivory Coast exited the World Cup, and Salomon Kalou has backed him to succeed.",
-      "publishedAt": "2026-07-01T08:56:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682564_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49234253/salomon-kalou-wants-yan-diomande-premier-league-backs-make-potential-psg-move-work",
-      "tag": "Paris Saint-Germain",
-      "teams": [
-        "Paris Saint-Germain",
-        "Liverpool",
-        "Ivory Coast",
-        "Chelsea",
-        "RB Leipzig"
-      ]
-    },
-    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -346,34 +387,6 @@
         "Sunderland",
         "Tottenham Hotspur",
         "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-01T08:40:51Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
       ]
     },
     {
@@ -416,6 +429,17 @@
         "Tottenham Hotspur",
         "West Ham United"
       ]
+    },
+    {
+      "id": "8bcacf13a3d4bc08db87bd157f7d03ed",
+      "source": "Sky Sports",
+      "headline": "Sunderland and Palace hunting Real and PSG in WC goal charts!",
+      "description": "Which teams' players have scored the most goals at the World Cup so far?",
+      "publishedAt": "2026-06-30T06:45:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-graphic-world-cup_7287057.jpg?20260701072559",
+      "link": "https://www.skysports.com/football/news/12040/13558909/world-cup-2026-how-many-goals-have-players-from-premier-league-clubs-scored",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48898245,
@@ -528,82 +552,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 49202127,
-      "source": "ESPN",
-      "headline": "Klopp 'witnessed greatness' with Mo Salah at Liverpool",
-      "description": "Klopp 'witnessed greatness' with Mo Salah at Liverpool",
-      "publishedAt": "2026-06-28T10:56:26Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Klopp_witnessed_greatness_with_Mo_Salah_at_Liverpool/dm_260627_Klopp_witnessed_greatness_with_Mo_Salah_at_Liverpool.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49202127/klopp-witnessed-greatness-mo-salah-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49202196,
-      "source": "ESPN",
-      "headline": "Klopp: Liverpool have a 'great coach' in Andoni Iraola",
-      "description": "Klopp: Liverpool have a 'great coach' in Andoni Iraola",
-      "publishedAt": "2026-06-28T10:56:15Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Klopp_Liverpool_have_a_great_coach_in_Andoni_Iraola/dm_260627_Klopp_Liverpool_have_a_great_coach_in_Andoni_Iraola.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49202196/liverpool-great-coach-andoni-iraola",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49114849,
-      "source": "ESPN",
-      "headline": "Premier League fixtures 2026-27: Arsenal start against Coventry, Newcastle host Liverpool",
-      "description": "Arsenal will begin their Premier League title defence against newly-promoted Coventry City, while Liverpool travel to face Newcastle in the pick of the opening-day fixtures.",
-      "publishedAt": "2026-06-28T07:15:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675980_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49114849/premier-league-fixtures-2026-27-arsenal-coventry-city-newcastle-united-liverpool-manchester-united-manchester-city-liverpool-tottenham-hotspur",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City",
-        "Manchester United",
-        "Aston Villa",
-        "Liverpool",
-        "AFC Bournemouth",
-        "Sunderland",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Chelsea",
-        "Fulham",
-        "Newcastle United",
-        "Everton",
-        "Leeds United",
-        "Crystal Palace",
-        "Nottingham Forest",
-        "Tottenham Hotspur",
-        "Coventry City",
-        "Ipswich Town",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49204182,
-      "source": "ESPN",
-      "headline": "Hutchison: Xhaka would be a great signing for Chelsea",
-      "description": "Hutchison: Xhaka would be a great signing for Chelsea",
-      "publishedAt": "2026-06-28T05:31:03Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0628/dm_260628_COM_SOC_Analysis_Hutchison_Xhaka_would_be_a_great_signing_for_Chelsea_20260627_GLOBAL/dm_260628_COM_SOC_Analysis_Hutchison_Xhaka_would_be_a_great_signing_for_Chelsea_20260627_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49204182/xhaka-great-signing-chelsea",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-02T04:19:32.142Z"
+    "cachedAt": "2026-07-02T09:29:54.587Z"
   }
 }
