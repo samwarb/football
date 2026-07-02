@@ -2,24 +2,129 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "6ddc70d7da3b749bd616082e0dbe0ba9",
+      "id": "82a76115ae9494d89ffb9f696b65e54a",
       "source": "Sky Sports",
-      "headline": "Belgium vs Senegal LIVE!",
+      "headline": "USA reach last 16 as Balogun scores but then sees red",
+      "description": "USA are into the World Cup last 16 after beating Bosnia 2-0 but will be without Falorin Balogun for their clash with Belgium after his red card.",
+      "publishedAt": "2026-07-02T02:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-balogun-usa_7287725.jpg?20260702023831",
+      "link": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/report/549845",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49234121,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: USMNT's Pulisic on six-man Liverpool short list",
+      "description": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-01T23:25:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675661_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "United States",
+        "AC Milan",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "41cba67404e9c93aeaec9c7fdd5142f4",
+      "source": "Sky Sports",
+      "headline": "Belgium produce stunning comeback win against Senegal to reach last 16",
+      "description": "Youri Tielemans scored a controversial last-gasp extra-time penalty winner for Belgium to complete an incredible 3-2 comeback victory against Senegal in the last 32 of the World Cup.",
+      "publishedAt": "2026-07-01T23:12:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-belgium-senegal-youri-tielemans_7287703.jpg?20260701230357",
+      "link": "https://www.skysports.com/football/belgium-vs-senegal/report/549846",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "3489f9ea60599ad1c854faaef8f27400",
+      "source": "Sky Sports",
+      "headline": "USA beat Bosnia to face Belgium - All the key moments!",
       "description": "",
-      "publishedAt": "2026-07-01T19:35:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-last-32_7284844.jpg?20260628123549",
-      "link": "https://www.skysports.com/football/belgium-vs-senegal/live/549846",
+      "publishedAt": "2026-07-01T23:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-balogun-world-cup_7287724.jpg?20260702015251",
+      "link": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/live/549845",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "255833888554c79c405a54ce120b45cf",
+      "id": 49241660,
+      "source": "ESPN",
+      "headline": "Will Tottenham regret letting Luka Vušković leave?",
+      "description": "Will Tottenham regret letting Luka Vušković leave?",
+      "publishedAt": "2026-07-01T22:00:59Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_Analysis_Will_Tottenham_regret_letting_Luka_Vuskovic_leave_20260701_GLOBAL/dm_260701_COM_SOC_Analysis_Will_Tottenham_regret_letting_Luka_Vuskovic_leave_20260701_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49241660/will-tottenham-regret-letting-luka-vukovi-leave",
+      "tag": "Croatia",
+      "teams": [
+        "Croatia",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49241612,
+      "source": "ESPN",
+      "headline": "Laurens: Tonali picked Tottenham because of De Zerbi",
+      "description": "Laurens: Tonali picked Tottenham because of De Zerbi",
+      "publishedAt": "2026-07-01T21:56:28Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_Analysis_Laurens_Tonali_picked_Tottenham_because_of_De_Zerbi_20260701_GLOBAL/dm_260701_COM_SOC_Analysis_Laurens_Tonali_picked_Tottenham_because_of_De_Zerbi_20260701_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49241612/tonali-picked-tottenham-de-zerbi",
+      "tag": "Italy",
+      "teams": [
+        "Italy",
+        "Newcastle United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49241574,
+      "source": "ESPN",
+      "headline": "Why Marco Palestra is 'perfect' for Alonso at Chelsea",
+      "description": "Why Marco Palestra is 'perfect' for Alonso at Chelsea",
+      "publishedAt": "2026-07-01T21:50:43Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_News_Why_Marco_Palestra_is_perfect_for_Alonso_at_Chelsea_20260701_GLOBAL/dm_260701_COM_SOC_News_Why_Marco_Palestra_is_perfect_for_Alonso_at_Chelsea_20260701_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49241574/why-marco-palestra-perfect-alonso-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Italy"
+      ]
+    },
+    {
+      "id": 49241464,
+      "source": "ESPN",
+      "headline": "Have Tottenham gone over the odds to sign Mateus Fernandes?",
+      "description": "Have Tottenham gone over the odds to sign Mateus Fernandes?",
+      "publishedAt": "2026-07-01T21:47:15Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_News_Have_Tottenham_gone_over_the_odds_to_sign_Mateus_Fernandes_20260701_GLOBAL/dm_260701_COM_SOC_News_Have_Tottenham_gone_over_the_odds_to_sign_Mateus_Fernandes_20260701_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49241464/have-tottenham-gone-odds-sign-mateus-fernandes",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "a0fbb4f1b154830ec1a81d31eb36c71d",
       "source": "Sky Sports",
-      "headline": "Harry Kane: Special, savour, England's greatest and Ballon D'Or contender",
+      "headline": "Harry Kane: Special, saviour, England's greatest and Ballon D'Or contender",
       "description": "Yes, England have issues. They put you through the mill, they're struggling for a right-back. But one problem they don't have is having a world-class matchwinner in their team.",
       "publishedAt": "2026-07-01T19:32:00.000Z",
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-england-harry-kane_7287590.jpg?20260701201511",
       "link": "https://www.skysports.com/football/news/12040/13559651/harry-kane-england-captain-shows-why-he-is-greatest-every-striker-and-ballon-dor-contender-after-two-goal-heroics-against-dr-congo",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "50630806dd9c8b4207397b3410755ce5",
+      "source": "Sky Sports",
+      "headline": "Is Rice the solution to England's right-back problem?",
+      "description": "England are through to the last 16 of the World Cup. Nobody will remember that they flirted with disaster in the round of 32 if they go on and lift the trophy. But Thomas Tuchel will be aware of the need for improvement if they are to go the distance.",
+      "publishedAt": "2026-07-01T19:09:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-decln-rice-jude-bellingham_7287647.jpg?20260701212812",
+      "link": "https://www.skysports.com/football/news/12040/13559645/declan-rice-could-be-best-solution-to-thomas-tuchels-right-back-issue-after-cameo-in-england-win-over-dr-congo",
       "tag": "News Story",
       "teams": []
     },
@@ -70,17 +175,6 @@
       ]
     },
     {
-      "id": "040786d3d7609229d7f641a25b796773",
-      "source": "Sky Sports",
-      "headline": "Pereira confirms 'surprise' Forest exit with Glasner in talks to replace him",
-      "description": "Vitor Pereira said he was taken by \"complete surprise and without any warning\" after confirming his time as head coach of Nottingham Forest is over, with Oliver Glasner in talks to replace him.",
-      "publishedAt": "2026-07-01T17:28:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-vitor-pereira-oliver-glasner_7287432.jpg?20260701172751",
-      "link": "https://www.skysports.com/football/news/12040/13559590/oliver-glasner-nottingham-forest-in-talks-to-replace-vitor-pereira-as-head-coach-with-ex-crystal-palace-boss",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49237291,
       "source": "ESPN",
       "headline": "Aston Villa file CAS appeal to unblock registration for teen Brian Madjo",
@@ -126,22 +220,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49234121,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: USMNT's Pulisic on six-man Liverpool short list",
-      "description": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-01T13:44:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675661_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
-      "tag": "Paris Saint-Germain",
-      "teams": [
-        "Paris Saint-Germain",
-        "United States",
-        "AC Milan",
-        "Liverpool"
-      ]
     },
     {
       "id": 48955344,
@@ -510,20 +588,6 @@
       ]
     },
     {
-      "id": 49199142,
-      "source": "ESPN",
-      "headline": "Chelsea exploring deal to sign Sunderland's Granit Xhaka - sources",
-      "description": "Chelsea are exploring a deal to sign Sunderland midfielder Granit Xhaka, sources have told ESPN.",
-      "publishedAt": "2026-06-28T05:31:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0525/r1663385_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49199142/chelsea-exploring-deal-sign-sunderland-granit-xhaka-sources",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Sunderland"
-      ]
-    },
-    {
       "id": 49204182,
       "source": "ESPN",
       "headline": "Hutchison: Xhaka would be a great signing for Chelsea",
@@ -535,54 +599,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49199001,
-      "source": "ESPN",
-      "headline": "Manchester City monitoring Morocco midfielder Ayyoub Bouaddi - sources",
-      "description": "Manchester City are monitoring Morocco midfielder Ayyoub Bouaddi ahead of a possible move this summer, sources have told ESPN.",
-      "publishedAt": "2026-06-27T21:05:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1673119_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49199001/manchester-city-monitoring-morocco-midfielder-ayyoub-bouaddi",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Morocco",
-        "Lille"
-      ]
-    },
-    {
-      "id": 49195071,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal face competition for young PSG defender",
-      "description": "Arsenal are in a battle to sign Paris Saint-Germain defender Emmanuel Mbemba. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-27T19:46:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680581_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49195071/transfer-rumors-news-man-city-battle-arsenal-liverpool-real-madrid-bouaddi",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 49198490,
-      "source": "ESPN",
-      "headline": "Man City sign Mathys Detourbet, 19, from fellow CFG club Troyes",
-      "description": "Manchester City have signed forward Mathys Detourbet from fellow City Football Group club Troyes.",
-      "publishedAt": "2026-06-27T17:26:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680521_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49198490/man-city-sign-mathys-detourbet-19-fellow-city-football-group-club-troyes-transfer",
-      "tag": "Troyes",
-      "teams": [
-        "Troyes"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-01T20:12:00.673Z"
+    "cachedAt": "2026-07-02T04:19:32.142Z"
   }
 }
