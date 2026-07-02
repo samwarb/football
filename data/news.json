@@ -2,17 +2,17 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49229881,
+      "id": 49247312,
       "source": "ESPN",
-      "headline": "Tottenham sign Mateus Fernandes from West Ham in club-record £85m transfer",
-      "description": "Tottenham Hotspur have announced the signing of midfielder Mateus Fernandes from West Ham.",
-      "publishedAt": "2026-07-02T09:19:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49229881/tottenham-hotspur-sign-mateus-fernandes-west-ham-united-club-record-85m-premier-league-transfer",
-      "tag": "Tottenham Hotspur",
+      "headline": "Man City confirm deal to sign Elliot Anderson from Nottingham Forest",
+      "description": "Manchester City have reached an agreement with Nottingham Forest to sign Elliot Anderson, the club have confirmed.",
+      "publishedAt": "2026-07-02T13:05:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671254_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49247312/man-city-announce-deal-sign-elliot-anderson-nottingham-forest",
+      "tag": "Manchester City",
       "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
+        "Manchester City",
+        "Nottingham Forest"
       ]
     },
     {
@@ -20,7 +20,7 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Milan tracking Liverpool's Van Dijk",
       "description": "AC Milan are considering a move for Liverpool center back Virgil van Dijk. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-02T09:04:34Z",
+      "publishedAt": "2026-07-02T13:04:29Z",
       "image": "https://a.espncdn.com/photo/2026/0614/r1673225_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49245591/transfer-rumors-news-milan-tracking-liverpool-van-dijk",
       "tag": "AC Milan",
@@ -30,15 +30,125 @@
       ]
     },
     {
-      "id": "5d985f59e8e5dc5fd921747c3bc47938",
+      "id": 49039938,
+      "source": "ESPN",
+      "headline": "Why Man City spent so much to sign Forest's Elliot Anderson",
+      "description": "Manchester City have agreed a club-record deal to sign Nottingham Forest and England midfielder Elliot Anderson. But why?",
+      "publishedAt": "2026-07-02T13:03:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1650945_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49039938/a-premier-league-star-why-man-city-spent-much-sign-nottingham-forest-elliot-anderson",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": "db153b1ef2712c045ea5c0e4fe8468fe",
       "source": "Sky Sports",
-      "headline": "Hackney joins Everton in £24m deal",
-      "description": "Everton have completed the signing of midfielder Hayden Hackney from Middlesbrough in a £24m deal.",
-      "publishedAt": "2026-07-02T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-hayden-hackney-middlesbrough_7263485.jpg?20260602093435",
-      "link": "https://www.skysports.com/football/news/12040/13559023/hayden-hackney-transfer-news-everton-sign-midfielder-from-middlesbrough-in-24m-deal",
+      "headline": "Anderson's record-breaking £116m Man City move announced",
+      "description": "Elliot Anderson's record-breaking £116m transfer to Manchester City from Nottingham Forest has been announced.",
+      "publishedAt": "2026-07-02T13:00:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-transfer_7229004.jpg?20260424090044",
+      "link": "https://www.skysports.com/football/news/12040/13558090/elliot-anderson-to-man-city-midfielder-completes-record-breaking-116m-transfer-from-nottingham-forest",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": "df247332f4966fb6ff892d50a2815dbf",
+      "source": "Sky Sports",
+      "headline": "Shearer at £237m? Where Anderson transfer stands in adjusted rankings",
+      "description": "Elliot Anderson becomes the third-most expensive signing in Premier League history after Alexander Isak and Florian Wirtz with his £116m transfer from Nottingham Forest to Manchester City.",
+      "publishedAt": "2026-07-02T13:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-elliot-anderson-nottingham-forest_7265026.jpg?20260604083120",
+      "link": "https://www.skysports.com/football/news/12040/13559238/elliot-anderson-becomes-third-most-expensive-premier-league-signing-with-116m-man-city-move-but-hes-only-31st-when-adjusting-historic-fees",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49247275,
+      "source": "ESPN",
+      "headline": "Liverpool confirm appointment of Andoni Iraola coaching staff",
+      "description": "Liverpool have confirmed the appointment of four new staff as head coach Andoni Iraola looks to bolster his back room team.",
+      "publishedAt": "2026-07-02T12:53:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683261_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49247275/liverpool-confirm-appointment-andoni-iraola-coaching-staff",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "463a7397fb6e10964a28f2b9190158ed",
+      "source": "Sky Sports",
+      "headline": "Spurs' record spending spree not done - but how are they pulling this off?",
+      "description": "It feels like things are changing in N17. Tottenham's spending is set to surpass their record for a single window with the signings of Mateus Fernandes and Sandro Tonali – and they are not done yet.",
+      "publishedAt": "2026-07-02T12:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tonali-spurs-fernandes_7288035.jpg?20260702123137",
+      "link": "https://www.skysports.com/football/news/12040/13559531/tottenham-transfer-spending-not-over-with-mateus-fernandes-and-sandro-tonali-signings-as-roberto-de-zerbi-influence-takes-hold",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "5ddb1ded7bd95ac6a0a85924f99a1d67",
+      "source": "Sky Sports",
+      "headline": "Hull City latest: Butland completes £3m move from Rangers",
+      "description": "",
+      "publishedAt": "2026-07-02T11:00:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-hull-city_7259338.jpg?20260527081515",
+      "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49229881,
+      "source": "ESPN",
+      "headline": "Tottenham sign Mateus Fernandes from West Ham in club-record £85m transfer",
+      "description": "Tottenham Hotspur have announced the signing of midfielder Mateus Fernandes from West Ham.",
+      "publishedAt": "2026-07-02T10:32:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49229881/tottenham-hotspur-sign-mateus-fernandes-west-ham-united-club-record-85m-premier-league-transfer",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "ee20849763e8e4dab4549bf31eb24c01",
+      "source": "Sky Sports",
+      "headline": "The qualities 'elite' Tonali can bring to Spurs",
+      "description": "Tottenham's deal to sign Sandro Tonali from Newcastle continues an exhaustive overhaul under head coach Roberto De Zerbi. At £100m, he will become the most expensive, and the most important, of six summer signings so far.",
+      "publishedAt": "2026-07-02T10:19:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-sandro-tonali-newcastle_7274644.jpg?20260616091428",
+      "link": "https://www.skysports.com/football/news/12040/13559772/sandro-tonali-to-spurs-italy-midfielders-speed-dynamism-and-technical-quality-could-be-key-for-roberto-de-zerbi",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-02T10:01:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49245978,
+      "source": "ESPN",
+      "headline": "Ghana's Brandon Thomas-Asante showing why he belongs in the Premier League with Coventry",
+      "description": "The Black Stars forward's journey has taken him from non-league football and the lower reaches of the English pyramid to the Premier League with Coventry City and now, to the biggest stage of all - representing Ghana in the World Cup knockouts.",
+      "publishedAt": "2026-07-02T09:27:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683209_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49245978/ghana-brandon-thomas-asante-showing-why-belongs-premier-league-coventry",
+      "tag": "Ghana",
+      "teams": [
+        "Ghana",
+        "Coventry City"
+      ]
     },
     {
       "id": 49245775,
@@ -147,17 +257,6 @@
       ]
     },
     {
-      "id": "12feac12e839e0f2c5810ffecbd6dfff",
-      "source": "Sky Sports",
-      "headline": "USA reach last 16 as Balogun scores but then sees red",
-      "description": "USA are into the World Cup last 16 after beating Bosnia 2-0 but will be without Folarin Balogun for their clash with Belgium after his red card.",
-      "publishedAt": "2026-07-02T02:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-balogun-world-cup_7287724.jpg?20260702015251",
-      "link": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/report/549845",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49234121,
       "source": "ESPN",
       "headline": "Transfer rumors, news: USMNT's Pulisic on six-man Liverpool short list",
@@ -172,17 +271,6 @@
         "AC Milan",
         "Liverpool"
       ]
-    },
-    {
-      "id": "41cba67404e9c93aeaec9c7fdd5142f4",
-      "source": "Sky Sports",
-      "headline": "Belgium produce stunning comeback win against Senegal to reach last 16",
-      "description": "Youri Tielemans scored a controversial last-gasp extra-time penalty winner for Belgium to complete an incredible 3-2 comeback victory against Senegal in the last 32 of the World Cup.",
-      "publishedAt": "2026-07-01T23:12:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-belgium-senegal-youri-tielemans_7287703.jpg?20260701230357",
-      "link": "https://www.skysports.com/football/belgium-vs-senegal/report/549846",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49241660,
@@ -290,17 +378,6 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-01T14:09:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680488_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49234752,
       "source": "ESPN",
       "headline": "French defender Jérémy Jacquet officially joins Liverpool from Rennes",
@@ -313,17 +390,6 @@
         "Liverpool",
         "Stade Rennais"
       ]
-    },
-    {
-      "id": "c10ebf2e6038390ea321ab76f88840ef",
-      "source": "Sky Sports",
-      "headline": "Spurs complete club-record £85m Fernandes signing",
-      "description": "Tottenham have completed the signing of Mateus Fernandes from West Ham United.",
-      "publishedAt": "2026-07-01T10:36:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-mateus-fernandes_7257986.jpg?20260701125333",
-      "link": "https://www.skysports.com/football/news/12040/13559479/mateus-fernandes-transfer-news-midfielder-set-for-medical-after-spurs-beat-man-utd-to-85m-deal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49229146,
@@ -431,17 +497,6 @@
       ]
     },
     {
-      "id": "8bcacf13a3d4bc08db87bd157f7d03ed",
-      "source": "Sky Sports",
-      "headline": "Sunderland and Palace hunting Real and PSG in WC goal charts!",
-      "description": "Which teams' players have scored the most goals at the World Cup so far?",
-      "publishedAt": "2026-06-30T06:45:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-graphic-world-cup_7287057.jpg?20260701072559",
-      "link": "https://www.skysports.com/football/news/12040/13558909/world-cup-2026-how-many-goals-have-players-from-premier-league-clubs-scored",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48898245,
       "source": "ESPN",
       "headline": "Chelsea say new Man City boss Enzo Maresca to pay compensation for move",
@@ -496,67 +551,11 @@
         "Chelsea",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49205906,
-      "source": "ESPN",
-      "headline": "Don't be fooled into thinking Haaland, Norway 'don't care' at this World Cup",
-      "description": "Erling Haaland has appeared relaxed and happy at the World Cup so far. That's good news for Norway and bad news for defenders.",
-      "publishedAt": "2026-06-29T07:26:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680955_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49205906/dont-fooled-thinking-haaland-norway-dont-care-world-cup",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Norway"
-      ]
-    },
-    {
-      "id": 49204732,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Akliouche to swap AS Monaco for PSG?",
-      "description": "Manchester United haven't given up on landing West Ham United midfielder Mateus Fernandes. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-28T20:17:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0407/r1639703_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49204732/transfer-rumors-news-man-united-move-west-ham-midfielder",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 49204950,
-      "source": "ESPN",
-      "headline": "Reranking Europe's top clubs by player performance at World Cup",
-      "description": "Bayern Munich, Real Madrid and PSG players have impressed, but which clubs around the world have had the best players in the tournament after the group stage?",
-      "publishedAt": "2026-06-28T13:45:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1680177_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49204950/reranking-europe-top-clubs-player-performance-world-cup-bayern-real-madrid-liverpool",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "Paris Saint-Germain",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49205466,
-      "source": "ESPN",
-      "headline": "Liverpool and 'great coach' Andoni Iraola will 'need luck' for lasting success - Jürgen Klopp",
-      "description": "Jürgen Klopp has backed Andoni Iraola to succeed at Anfield, but noted he will need some good fortune along the way.",
-      "publishedAt": "2026-06-28T11:02:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680928_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49205466/liverpool-great-coach-andoni-iraola-need-luck-lasting-success-jurgen-klopp",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-02T09:29:54.587Z"
+    "cachedAt": "2026-07-02T14:26:57.720Z"
   }
 }
