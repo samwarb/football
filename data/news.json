@@ -2,17 +2,127 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49250336,
+      "source": "ESPN",
+      "headline": "Nicol: Fernández and Pastore have been unprofessional to Chelsea",
+      "description": "Nicol: Fernández and Pastore have been unprofessional to Chelsea",
+      "publishedAt": "2026-07-02T19:04:29Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Analysis_Nicol3A_FernC3A1ndez_and_Pastore_have_been_unprofessional_to_Chelsea_GLOBAL_2026-07-0/dm_260702_COM_SOC_Analysis_Nicol3A_FernC3A1ndez_and_Pastore_have_been_unprofessional_to_Chelsea_GLOBAL_2026-07-0.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49250336/fernandez-pastore-unprofessional-chelsea",
+      "tag": "Argentina",
+      "teams": [
+        "Argentina",
+        "Cape Verde",
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "fb23a8e226f277ce4dc6ffb7b6178a39",
+      "source": "Sky Sports",
+      "headline": "Cusack ‘would still be alive if coach did not join Sheff Utd’, inquest told",
+      "description": "Former Sheffield United player Maddy Cusack would still be alive if the coach of the women's team had not been employed by the club, her mother has told an inquest.",
+      "publishedAt": "2026-07-02T18:53:00.000Z",
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-cusack-maddy-sheffield_7127622.png?20260105235610",
+      "link": "https://www.skysports.com/football/news/12040/13559959/maddy-cusack-former-sheffield-united-midfielder-would-still-be-alive-if-coach-did-not-join-club-inquest-told",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b024cd5195dd7c87b2ef06312335da8c",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Memorial to honour Jota unveiled at Anfield",
+      "description": "",
+      "publishedAt": "2026-07-02T17:54:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49246122,
+      "source": "ESPN",
+      "headline": "Vitor Pereira leaves Nottingham Forest amid Oliver Glasner reports",
+      "description": "Nottingham Forest have announced the departure of head coach Vitor Pereira less than five months after he was appointed.",
+      "publishedAt": "2026-07-02T17:47:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683402_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49246122/vitor-pereira-leaves-nottingham-forest-manager-oliver-glasner-reports",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": "7956a6f04add55584f3975619b77910b",
+      "source": "Sky Sports",
+      "headline": "Pubs allowed to stay open until 5am for England's World Cup clash vs Mexico",
+      "description": "England are through to the last-16 of the 2026 World Cup - but their clash against Mexico will not kick-off until 1am UK time.",
+      "publishedAt": "2026-07-02T15:40:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-fans-world-cup_7288255.jpg?20260702163410",
+      "link": "https://www.skysports.com/football/news/12040/13559749/england-bank-holiday",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "77261a589a43cedd5a9f6eec3f7e5fd7",
+      "source": "Sky Sports",
+      "headline": "McInnes Q&A on transfer targets, new signings, Ferguson interest & more!",
+      "description": "Rangers manager Derek McInnes says the club are working on making more summer signings after adding five players in the opening weeks of the transfer window.",
+      "publishedAt": "2026-07-02T15:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-derek-mcinnes-rangers_7288098.jpg?20260702132857",
+      "link": "https://www.skysports.com/football/news/12040/13559827/rangers-transfer-news-derek-mcinnes-talks-new-signings-possible-departures-lewis-ferguson-links-and-more",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-02T14:53:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679344_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
       "id": 49247312,
       "source": "ESPN",
       "headline": "Man City confirm deal to sign Elliot Anderson from Nottingham Forest",
       "description": "Manchester City have reached an agreement with Nottingham Forest to sign Elliot Anderson, the club have confirmed.",
-      "publishedAt": "2026-07-02T13:05:17Z",
+      "publishedAt": "2026-07-02T14:27:55Z",
       "image": "https://a.espncdn.com/photo/2026/0611/r1671254_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49247312/man-city-announce-deal-sign-elliot-anderson-nottingham-forest",
       "tag": "Manchester City",
       "teams": [
         "Manchester City",
         "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49229881,
+      "source": "ESPN",
+      "headline": "Tottenham sign Mateus Fernandes from West Ham in club-record £85m transfer",
+      "description": "Tottenham Hotspur have announced the signing of midfielder Mateus Fernandes from West Ham.",
+      "publishedAt": "2026-07-02T14:27:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49229881/tottenham-hotspur-sign-mateus-fernandes-west-ham-united-club-record-85m-premier-league-transfer",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "West Ham United"
       ]
     },
     {
@@ -44,28 +154,6 @@
       ]
     },
     {
-      "id": "db153b1ef2712c045ea5c0e4fe8468fe",
-      "source": "Sky Sports",
-      "headline": "Anderson's record-breaking £116m Man City move announced",
-      "description": "Elliot Anderson's record-breaking £116m transfer to Manchester City from Nottingham Forest has been announced.",
-      "publishedAt": "2026-07-02T13:00:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-transfer_7229004.jpg?20260424090044",
-      "link": "https://www.skysports.com/football/news/12040/13558090/elliot-anderson-to-man-city-midfielder-completes-record-breaking-116m-transfer-from-nottingham-forest",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "df247332f4966fb6ff892d50a2815dbf",
-      "source": "Sky Sports",
-      "headline": "Shearer at £237m? Where Anderson transfer stands in adjusted rankings",
-      "description": "Elliot Anderson becomes the third-most expensive signing in Premier League history after Alexander Isak and Florian Wirtz with his £116m transfer from Nottingham Forest to Manchester City.",
-      "publishedAt": "2026-07-02T13:00:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-elliot-anderson-nottingham-forest_7265026.jpg?20260604083120",
-      "link": "https://www.skysports.com/football/news/12040/13559238/elliot-anderson-becomes-third-most-expensive-premier-league-signing-with-116m-man-city-move-but-hes-only-31st-when-adjusting-historic-fees",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49247275,
       "source": "ESPN",
       "headline": "Liverpool confirm appointment of Andoni Iraola coaching staff",
@@ -77,53 +165,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "463a7397fb6e10964a28f2b9190158ed",
-      "source": "Sky Sports",
-      "headline": "Spurs' record spending spree not done - but how are they pulling this off?",
-      "description": "It feels like things are changing in N17. Tottenham's spending is set to surpass their record for a single window with the signings of Mateus Fernandes and Sandro Tonali – and they are not done yet.",
-      "publishedAt": "2026-07-02T12:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tonali-spurs-fernandes_7288035.jpg?20260702123137",
-      "link": "https://www.skysports.com/football/news/12040/13559531/tottenham-transfer-spending-not-over-with-mateus-fernandes-and-sandro-tonali-signings-as-roberto-de-zerbi-influence-takes-hold",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "5ddb1ded7bd95ac6a0a85924f99a1d67",
-      "source": "Sky Sports",
-      "headline": "Hull City latest: Butland completes £3m move from Rangers",
-      "description": "",
-      "publishedAt": "2026-07-02T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-hull-city_7259338.jpg?20260527081515",
-      "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49229881,
-      "source": "ESPN",
-      "headline": "Tottenham sign Mateus Fernandes from West Ham in club-record £85m transfer",
-      "description": "Tottenham Hotspur have announced the signing of midfielder Mateus Fernandes from West Ham.",
-      "publishedAt": "2026-07-02T10:32:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49229881/tottenham-hotspur-sign-mateus-fernandes-west-ham-united-club-record-85m-premier-league-transfer",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": "ee20849763e8e4dab4549bf31eb24c01",
-      "source": "Sky Sports",
-      "headline": "The qualities 'elite' Tonali can bring to Spurs",
-      "description": "Tottenham's deal to sign Sandro Tonali from Newcastle continues an exhaustive overhaul under head coach Roberto De Zerbi. At £100m, he will become the most expensive, and the most important, of six summer signings so far.",
-      "publishedAt": "2026-07-02T10:19:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-sandro-tonali-newcastle_7274644.jpg?20260616091428",
-      "link": "https://www.skysports.com/football/news/12040/13559772/sandro-tonali-to-spurs-italy-midfielders-speed-dynamism-and-technical-quality-could-be-key-for-roberto-de-zerbi",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48990955,
@@ -356,28 +397,6 @@
       ]
     },
     {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-01T14:48:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679344_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49234752,
       "source": "ESPN",
       "headline": "French defender Jérémy Jacquet officially joins Liverpool from Rennes",
@@ -497,19 +516,6 @@
       ]
     },
     {
-      "id": 48898245,
-      "source": "ESPN",
-      "headline": "Chelsea say new Man City boss Enzo Maresca to pay compensation for move",
-      "description": "Manchester City have formally announced Enzo Maresca as their new manager amid Chelsea claims that the Italian will personally pay compensation for the move.",
-      "publishedAt": "2026-06-29T21:37:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0629/r1681710_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48898245/enzo-maresca-confirmed-pep-guardiola-man-city-successor-chelsea-compensation",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 49213338,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool seeking winger El Mala as Jones nears exit",
@@ -525,6 +531,17 @@
       ]
     },
     {
+      "id": "9292325857f6a6517bef9ce1b637835c",
+      "source": "Sky Sports",
+      "headline": "Oyarzabal opens scoring for Spain against Austria LIVE!",
+      "description": "",
+      "publishedAt": "2026-06-29T17:30:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-spain-austria-mikel-oyarzabal_7288448.jpg?20260702204154",
+      "link": "https://www.skysports.com/football/spain-vs-austria/live/549849",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49216464,
       "source": "ESPN",
       "headline": "Will Man City's style of play change under Enzo Maresca?",
@@ -537,25 +554,11 @@
         "Chelsea",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49216438,
-      "source": "ESPN",
-      "headline": "Are Chelsea attempting to 'rewrite' the narrative of last season?",
-      "description": "Are Chelsea attempting to 'rewrite' the narrative of last season?",
-      "publishedAt": "2026-06-29T16:01:04Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0629/dm_260629_COM_SOC_Analysis_Are_Chelsea_attempting_720/dm_260629_COM_SOC_Analysis_Are_Chelsea_attempting_720.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49216438/are-chelsea-attempting-rewrite-narrative-last-season",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-02T14:26:57.720Z"
+    "cachedAt": "2026-07-02T19:49:33.315Z"
   }
 }
