@@ -2,14 +2,95 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "cc9efdf6f501bfcf11c40c645466d3b5",
+      "id": 49186874,
+      "source": "ESPN",
+      "headline": "Man United goalkeeper André Onana rejoins Trabzonspor on loan",
+      "description": "Manchester United goalkeeper André Onana has rejoined Trabzonspor on a season-long loan.",
+      "publishedAt": "2026-07-03T18:59:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679928_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49186874/man-united-goalkeeper-andre-onana-rejoins-trabzonspor-loan",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-03T18:58:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-03T18:15:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679344_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "dd381da0beda55b46c689d600b539d1f",
       "source": "Sky Sports",
-      "headline": "Man Utd latest: Summerville talks held as Onana leaves on loan again",
-      "description": "",
-      "publishedAt": "2026-07-03T14:13:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
+      "headline": "Postecoglou to coach Ronaldo after being named new Al Nassr boss",
+      "description": "Ange Postecoglou has been named as the new Al Nassr boss in the Saudi Pro League, where he will coach Cristiano Ronaldo.",
+      "publishedAt": "2026-07-03T16:51:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-ange-postecoglou_7289085.jpg?20260703175756",
+      "link": "https://www.skysports.com/football/news/12040/13560228/cristiano-ronaldo-to-be-coached-by-ange-postecoglou-after-australian-appointed-by-al-nassr",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "dd5466f1bdf491604415750ee7f66030",
+      "source": "Sky Sports",
+      "headline": "Xhaka staying at Sunderland despite Chelsea bid",
+      "description": "Captain Granit Xhaka will be staying at Sunderland, Sky Sports News can exclusively confirm.",
+      "publishedAt": "2026-07-03T15:35:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-granit-xhaka-sunderland_7259944.jpg?20260528003713",
+      "link": "https://www.skysports.com/football/news/12040/13560190/sunderland-transfer-news-granit-xhaka-staying-at-stadium-of-light-after-chelsea-bid-for-black-cats-captain-rejected",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -49,28 +130,6 @@
       "teams": []
     },
     {
-      "id": "6c8625239d33e58999f1f0c408496d04",
-      "source": "Sky Sports",
-      "headline": "Transfer Centre LIVE!",
-      "description": "",
-      "publishedAt": "2026-07-03T11:07:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-transfer-transfers_7288756.jpg?20260703114243",
-      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "dda2a6cb31d100d059491907a5c171be",
-      "source": "Sky Sports",
-      "headline": "Stones to start? Rice at right-back? England XIs to face Mexico",
-      "description": "England are preparing to face Mexico in the last 16 of the 2026 World Cup in the early hours of Monday - but who should be in the team at the Azteca Stadium?",
-      "publishedAt": "2026-07-03T11:05:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-england_7288729.jpg?20260703111435",
-      "link": "https://www.skysports.com/football/news/12040/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49256844,
       "source": "ESPN",
       "headline": "Riyad Mahrez announces international retirement after Algeria World Cup exit",
@@ -79,17 +138,6 @@
       "image": "https://a.espncdn.com/photo/2026/0703/r1683763_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49256844/riyad-mahrez-announces-international-retirement-algeria-world-cup-exit",
       "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": "66b3d0858c72d3bfc575f5acc3a1bfe1",
-      "source": "Sky Sports",
-      "headline": "Tchouameni and Scott high on Man Utd midfield shortlist",
-      "description": "Aurelien Tchouameni and Alex Scott remain high on Manchester United's list of midfield targets.",
-      "publishedAt": "2026-07-03T11:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-premier-league-laliga_7288774.jpg?20260703115955",
-      "link": "https://www.skysports.com/football/news/12040/13559979/man-utd-transfer-news-aurelien-tchouameni-and-alex-scott-high-on-midfield-shortlist-with-ayyoub-bouaddi-also-of-interest",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -164,38 +212,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-03T06:43:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49245591,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Milan tracking Liverpool's Van Dijk",
@@ -236,29 +252,6 @@
       "tag": "Nottingham Forest",
       "teams": [
         "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-02T14:53:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679344_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -523,24 +516,11 @@
         "Tottenham Hotspur",
         "Wrexham"
       ]
-    },
-    {
-      "id": 49227268,
-      "source": "ESPN",
-      "headline": "Frank Lampard signs new three-year contract at Coventry City",
-      "description": "Frank Lampard has signed a new deal with Coventry until 2029.",
-      "publishedAt": "2026-06-30T17:54:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682153_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49227268/frank-lampard-new-contract-coventry-city-three-year-deal",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-03T14:29:51.350Z"
+    "cachedAt": "2026-07-03T19:47:24.465Z"
   }
 }
