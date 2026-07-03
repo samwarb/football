@@ -2,14 +2,39 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "ec4661b982f5a7383cac4977285511d6",
+      "id": "cc9efdf6f501bfcf11c40c645466d3b5",
       "source": "Sky Sports",
-      "headline": "Hull City latest: New bid submitted for Emersonn",
+      "headline": "Man Utd latest: Summerville talks held as Onana leaves on loan again",
       "description": "",
-      "publishedAt": "2026-07-03T09:14:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-hull-city_7259338.jpg?20260527081515",
-      "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-07-03T14:13:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49255968,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal eye £130m move for Villa duo Rogers, Konsa",
+      "description": "Arsenal are looking at signing Aston Villa defender Ezri Konsa as well as forward Morgan Rogers. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-03T12:56:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683736_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49255968/transfer-rumors-news-arsenal-eye-double-villa-deal-rogers-konsa",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 48991120,
+      "source": "ESPN",
+      "headline": "Transfer big board: Best players in each position who could move this summer",
+      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
+      "publishedAt": "2026-07-03T12:42:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
+      "tag": "Story",
       "teams": []
     },
     {
@@ -17,21 +42,54 @@
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
       "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-03T09:05:23Z",
+      "publishedAt": "2026-07-03T12:33:51Z",
       "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
     },
     {
-      "id": "eea4df2230b5b82536284eee3f717a8f",
+      "id": "6c8625239d33e58999f1f0c408496d04",
       "source": "Sky Sports",
-      "headline": "Man Utd latest: Talks held with West Ham over Summerville",
+      "headline": "Transfer Centre LIVE!",
       "description": "",
-      "publishedAt": "2026-07-03T08:57:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-07-03T11:07:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-transfer-transfers_7288756.jpg?20260703114243",
+      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
       "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "dda2a6cb31d100d059491907a5c171be",
+      "source": "Sky Sports",
+      "headline": "Stones to start? Rice at right-back? England XIs to face Mexico",
+      "description": "England are preparing to face Mexico in the last 16 of the 2026 World Cup in the early hours of Monday - but who should be in the team at the Azteca Stadium?",
+      "publishedAt": "2026-07-03T11:05:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-england_7288729.jpg?20260703111435",
+      "link": "https://www.skysports.com/football/news/12040/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49256844,
+      "source": "ESPN",
+      "headline": "Riyad Mahrez announces international retirement after Algeria World Cup exit",
+      "description": "Riyad Mahrez, a five-time Premier League winner, announced his retirement from international soccer following Algeria's World Cup exit, a 2-0 defeat to Switzerland in the round-of-32 on Thursday.",
+      "publishedAt": "2026-07-03T11:01:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683763_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49256844/riyad-mahrez-announces-international-retirement-algeria-world-cup-exit",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": "66b3d0858c72d3bfc575f5acc3a1bfe1",
+      "source": "Sky Sports",
+      "headline": "Tchouameni and Scott high on Man Utd midfield shortlist",
+      "description": "Aurelien Tchouameni and Alex Scott remain high on Manchester United's list of midfield targets.",
+      "publishedAt": "2026-07-03T11:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-premier-league-laliga_7288774.jpg?20260703115955",
+      "link": "https://www.skysports.com/football/news/12040/13559979/man-utd-transfer-news-aurelien-tchouameni-and-alex-scott-high-on-midfield-shortlist-with-ayyoub-bouaddi-also-of-interest",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -39,7 +97,7 @@
       "source": "ESPN",
       "headline": "Real Madrid deny interest in signing Chelsea's Enzo Fernández",
       "description": "Real Madrid have stated they have not registered any interest in signing Enzo Fernández from Chelsea and have no intention to do so in the future.",
-      "publishedAt": "2026-07-03T08:48:09Z",
+      "publishedAt": "2026-07-03T09:35:38Z",
       "image": "https://a.espncdn.com/photo/2026/0618/r1675619_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49256447/real-madrid-deny-interest-signing-chelsea-enzo-fernandez",
       "tag": "Chelsea",
@@ -47,17 +105,6 @@
         "Chelsea",
         "Real Madrid"
       ]
-    },
-    {
-      "id": "0859746907f48a0f8ab539e9454de023",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: Real Madrid comment on Fernandez transfer links",
-      "description": "",
-      "publishedAt": "2026-07-03T08:24:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49245978,
@@ -74,31 +121,6 @@
       ]
     },
     {
-      "id": 49255968,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal eye £130m move for Villa duo Rogers, Konsa",
-      "description": "Arsenal are looking at signing Aston Villa defender Ezri Konsa as well as forward Morgan Rogers. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-03T08:02:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683736_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49255968/transfer-rumors-news-arsenal-eye-double-villa-deal-rogers-konsa",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": "5486cc7f3e5295371a24ff3f9038777f",
-      "source": "Sky Sports",
-      "headline": "Stanway joins Arsenal after Bayern exit",
-      "description": "Arsenal have signed Lionesses midfielder Georgia Stanway following her exit from Bayern Munich.",
-      "publishedAt": "2026-07-03T08:00:00.000Z",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-womens-football-world-cup-qualifier_7185086.jpg?20260703092637",
-      "link": "https://www.skysports.com/football/news/12040/13560001/georgia-stanway-arsenal-sign-lionesses-midfielder-after-bayern-munich-departure",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49245775,
       "source": "ESPN",
       "headline": "From Chelsea wonderkid to Black Stars elder statesman - Baba Rahman's years of recovery lead to Kansas City",
@@ -112,17 +134,6 @@
         "Chelsea",
         "Colombia"
       ]
-    },
-    {
-      "id": "44ac5060c6026c2a43b0c932c3dfe11c",
-      "source": "Sky Sports",
-      "headline": "Sunderland latest: Rennes in talks over Mayenda",
-      "description": "",
-      "publishedAt": "2026-07-03T07:56:00.000Z",
-      "image": "https://e2.365dm.com/25/05/1920x1080/skysports-sunderland-club-blog_6929406.jpg?20250528092613",
-      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -249,17 +260,6 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "cfa46f10d516f29dcb022f7eaf1bfcd3",
-      "source": "Sky Sports",
-      "headline": "Ronaldo pays tribute to Jota after Portugal's World Cup win over Croatia",
-      "description": "",
-      "publishedAt": "2026-07-02T14:32:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276226.jpg?20260617222704",
-      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49247312,
@@ -525,20 +525,6 @@
       ]
     },
     {
-      "id": 49219156,
-      "source": "ESPN",
-      "headline": "Why Manchester City chose Enzo Maresca as Pep Guardiola's heir",
-      "description": "Enzo Maresca replacing Pep Guardiola was Manchester City's long-term strategy, something the Italian's former club Chelsea have changed since his exit.",
-      "publishedAt": "2026-07-01T07:07:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0629/r1681708_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49219156/why-manchester-city-chose-enzo-maresca-pep-guardiola-heir",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 49227268,
       "source": "ESPN",
       "headline": "Frank Lampard signs new three-year contract at Coventry City",
@@ -550,36 +536,11 @@
       "teams": [
         "Coventry City"
       ]
-    },
-    {
-      "id": 49226868,
-      "source": "ESPN",
-      "headline": "Tottenham agree club-record £85 million deal to sign West Ham's Mateus Fernandes - sources",
-      "description": "Tottenham have agreed a club-record £85 million ($112m) deal with West Ham to sign Mateus Fernandes, sources have told ESPN.",
-      "publishedAt": "2026-06-30T17:13:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682117_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49226868/tottenham-mateus-fernandes-west-ham-man-united-club-record-deal-sources",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": "049d90176e0eec1d39c5ca7bb4da420f",
-      "source": "Sky Sports",
-      "headline": "Egypt boss unsure if Salah will start vs Australia",
-      "description": "",
-      "publishedAt": "2026-06-29T12:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-egypt-new-zealand_7279724.jpg?20260622082125",
-      "link": "https://www.skysports.com/football/australia-vs-egypt/live/549851",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-03T09:33:47.274Z"
+    "cachedAt": "2026-07-03T14:29:51.350Z"
   }
 }
