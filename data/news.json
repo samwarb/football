@@ -2,48 +2,201 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "40cb20642bd762c8633a9e3ab6de5026",
+      "id": "ec4661b982f5a7383cac4977285511d6",
       "source": "Sky Sports",
-      "headline": "Switzerland lead despite bright start from Algeria LIVE!",
+      "headline": "Hull City latest: New bid submitted for Emersonn",
       "description": "",
-      "publishedAt": "2026-07-03T03:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-breel-embolo-switzerland_7288557.jpg?20260703041817",
-      "link": "https://www.skysports.com/football/switzerland-vs-algeria/live/549848",
+      "publishedAt": "2026-07-03T09:14:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-hull-city_7259338.jpg?20260527081515",
+      "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "f46615b2cc0c838b6eb58ddc24bdbf69",
-      "source": "Sky Sports",
-      "headline": "Late VAR drama as Portugal beat Croatia to keep Ronaldo's World Cup dreams alive",
-      "description": "Cristiano Ronaldo's World Cup dreams were kept alive in controversial fashion as he helped his Portugal side fight back from a goal down to beat Croatia 2-1 and set up a mouth-watering last-16 tie with Spain.",
-      "publishedAt": "2026-07-03T01:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cristiano-ronaldo_7288555.jpg?20260703030020",
-      "link": "https://www.skysports.com/football/portugal-vs-croatia/report/549850",
-      "tag": "Report",
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-03T09:05:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
       "teams": []
     },
     {
-      "id": "433a592c0db3bce35a4ec558a61c6f68",
+      "id": "eea4df2230b5b82536284eee3f717a8f",
       "source": "Sky Sports",
-      "headline": "VOTE: Should Croatia's late equalising goal vs Portugal have stood?",
+      "headline": "Man Utd latest: Talks held with West Ham over Summerville",
       "description": "",
-      "publishedAt": "2026-07-02T22:45:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-luka-modric-portugal_7288556.jpg?20260703031318",
-      "link": "https://www.skysports.com/football/portugal-vs-croatia/live/549850",
+      "publishedAt": "2026-07-03T08:57:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "32156cdef2cb7fbe2a4ab200a205c0ed",
+      "id": 49256447,
+      "source": "ESPN",
+      "headline": "Real Madrid deny interest in signing Chelsea's Enzo Fernández",
+      "description": "Real Madrid have stated they have not registered any interest in signing Enzo Fernández from Chelsea and have no intention to do so in the future.",
+      "publishedAt": "2026-07-03T08:48:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675619_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49256447/real-madrid-deny-interest-signing-chelsea-enzo-fernandez",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "0859746907f48a0f8ab539e9454de023",
       "source": "Sky Sports",
-      "headline": "Spain ease past Austria and are growing into this World Cup",
-      "description": "Spain eased into the round of 16 of the World Cup with a comfortable 3-0 win over Austria in Los Angeles.",
-      "publishedAt": "2026-07-02T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-spain-austria-mikel-oyarzabal_7288448.jpg?20260702204154",
-      "link": "https://www.skysports.com/football/spain-vs-austria/report/549849",
-      "tag": "Report",
+      "headline": "Chelsea latest: Real Madrid comment on Fernandez transfer links",
+      "description": "",
+      "publishedAt": "2026-07-03T08:24:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
       "teams": []
+    },
+    {
+      "id": 49245978,
+      "source": "ESPN",
+      "headline": "Ghana's Brandon Thomas-Asante showing why he belongs in the Premier League with Coventry",
+      "description": "The Black Stars forward's journey has taken him from non-league football and the lower reaches of the English pyramid to the Premier League with Coventry City and now, to the biggest stage of all - representing Ghana in the World Cup knockouts.",
+      "publishedAt": "2026-07-03T08:04:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683209_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49245978/ghana-brandon-thomas-asante-showing-why-belongs-premier-league-coventry",
+      "tag": "Ghana",
+      "teams": [
+        "Ghana",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 49255968,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal eye £130m move for Villa duo Rogers, Konsa",
+      "description": "Arsenal are looking at signing Aston Villa defender Ezri Konsa as well as forward Morgan Rogers. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-03T08:02:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683736_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49255968/transfer-rumors-news-arsenal-eye-double-villa-deal-rogers-konsa",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": "5486cc7f3e5295371a24ff3f9038777f",
+      "source": "Sky Sports",
+      "headline": "Stanway joins Arsenal after Bayern exit",
+      "description": "Arsenal have signed Lionesses midfielder Georgia Stanway following her exit from Bayern Munich.",
+      "publishedAt": "2026-07-03T08:00:00.000Z",
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-womens-football-world-cup-qualifier_7185086.jpg?20260703092637",
+      "link": "https://www.skysports.com/football/news/12040/13560001/georgia-stanway-arsenal-sign-lionesses-midfielder-after-bayern-munich-departure",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49245775,
+      "source": "ESPN",
+      "headline": "From Chelsea wonderkid to Black Stars elder statesman - Baba Rahman's years of recovery lead to Kansas City",
+      "description": "Once the bright young thing of the Ghana setup, Abdul Rahman Baba's career trajectory was transformed by a devastating injury suffered in 2017, but now back in the Black Stars fold, he's relishing the role of elder statesman with the national side.",
+      "publishedAt": "2026-07-03T07:58:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683203_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49245775/chelsea-wonderkid-black-stars-baba-rahman-kansas-city",
+      "tag": "Ghana",
+      "teams": [
+        "Ghana",
+        "Chelsea",
+        "Colombia"
+      ]
+    },
+    {
+      "id": "44ac5060c6026c2a43b0c932c3dfe11c",
+      "source": "Sky Sports",
+      "headline": "Sunderland latest: Rennes in talks over Mayenda",
+      "description": "",
+      "publishedAt": "2026-07-03T07:56:00.000Z",
+      "image": "https://e2.365dm.com/25/05/1920x1080/skysports-sunderland-club-blog_6929406.jpg?20250528092613",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-03T06:45:59Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-03T06:43:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49245591,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Milan tracking Liverpool's Van Dijk",
+      "description": "AC Milan are considering a move for Liverpool center back Virgil van Dijk. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-03T04:58:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1673225_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49245591/transfer-rumors-news-milan-tracking-liverpool-van-dijk",
+      "tag": "AC Milan",
+      "teams": [
+        "AC Milan",
+        "Liverpool"
+      ]
     },
     {
       "id": 49250336,
@@ -75,17 +228,6 @@
       ]
     },
     {
-      "id": "7956a6f04add55584f3975619b77910b",
-      "source": "Sky Sports",
-      "headline": "Pubs allowed to stay open until 5am for England's World Cup clash vs Mexico",
-      "description": "England are through to the last-16 of the 2026 World Cup - but their clash against Mexico will not kick-off until 1am UK time.",
-      "publishedAt": "2026-07-02T15:40:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-fans-world-cup_7288255.jpg?20260702163410",
-      "link": "https://www.skysports.com/football/news/12040/13559749/england-bank-holiday",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
@@ -107,6 +249,17 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": "cfa46f10d516f29dcb022f7eaf1bfcd3",
+      "source": "Sky Sports",
+      "headline": "Ronaldo pays tribute to Jota after Portugal's World Cup win over Croatia",
+      "description": "",
+      "publishedAt": "2026-07-02T14:32:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276226.jpg?20260617222704",
+      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49247312,
@@ -137,20 +290,6 @@
       ]
     },
     {
-      "id": 49245591,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Milan tracking Liverpool's Van Dijk",
-      "description": "AC Milan are considering a move for Liverpool center back Virgil van Dijk. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-02T13:04:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1673225_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49245591/transfer-rumors-news-milan-tracking-liverpool-van-dijk",
-      "tag": "AC Milan",
-      "teams": [
-        "AC Milan",
-        "Liverpool"
-      ]
-    },
-    {
       "id": 49039938,
       "source": "ESPN",
       "headline": "Why Man City spent so much to sign Forest's Elliot Anderson",
@@ -175,46 +314,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-02T10:01:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49245978,
-      "source": "ESPN",
-      "headline": "Ghana's Brandon Thomas-Asante showing why he belongs in the Premier League with Coventry",
-      "description": "The Black Stars forward's journey has taken him from non-league football and the lower reaches of the English pyramid to the Premier League with Coventry City and now, to the biggest stage of all - representing Ghana in the World Cup knockouts.",
-      "publishedAt": "2026-07-02T09:27:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683209_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49245978/ghana-brandon-thomas-asante-showing-why-belongs-premier-league-coventry",
-      "tag": "Ghana",
-      "teams": [
-        "Ghana",
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 49245775,
-      "source": "ESPN",
-      "headline": "From Chelsea wonderkid to Black Stars elder statesman - Baba Rahman's years of recovery lead to Kansas City",
-      "description": "Once the bright young thing of the Ghana setup, Abdul Rahman Baba's career trajectory was transformed by a devastating injury suffered in 2017, but now back in the Black Stars fold, he's relishing the role of elder statesman with the national side.",
-      "publishedAt": "2026-07-02T08:18:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683203_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49245775/chelsea-wonderkid-black-stars-baba-rahman-kansas-city",
-      "tag": "Ghana",
-      "teams": [
-        "Ghana",
-        "Chelsea",
-        "Colombia"
       ]
     },
     {
@@ -246,66 +345,6 @@
         "Ivory Coast",
         "Chelsea",
         "RB Leipzig"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-02T06:56:11Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-02T06:54:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -527,38 +566,20 @@
       ]
     },
     {
-      "id": 49213338,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool seeking winger El Mala as Jones nears exit",
-      "description": "Liverpool are considering a Bundesliga winger while potentially negotiating Curtis Jones' exit for Serie A. Transfer Talk has the latest.",
-      "publishedAt": "2026-06-29T18:11:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0629/r1681539_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49213338/transfer-rumors-news-barcelona-eye-kane-plus-two-forwards",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Bayern Munich",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49216464,
-      "source": "ESPN",
-      "headline": "Will Man City's style of play change under Enzo Maresca?",
-      "description": "Will Man City's style of play change under Enzo Maresca?",
-      "publishedAt": "2026-06-29T16:07:34Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0629/dm_260629_COM_SOC_Analysis_Will_Man_CityE28099s_style_of_play_change_under_Enzo_Maresca3F_GLOBAL_2026-06-29/dm_260629_COM_SOC_Analysis_Will_Man_CityE28099s_style_of_play_change_under_Enzo_Maresca3F_GLOBAL_2026-06-29.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49216464/will-man-city-style-play-change-enzo-maresca",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
-      ]
+      "id": "049d90176e0eec1d39c5ca7bb4da420f",
+      "source": "Sky Sports",
+      "headline": "Egypt boss unsure if Salah will start vs Australia",
+      "description": "",
+      "publishedAt": "2026-06-29T12:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-egypt-new-zealand_7279724.jpg?20260622082125",
+      "link": "https://www.skysports.com/football/australia-vs-egypt/live/549851",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-03T04:06:01.489Z"
+    "cachedAt": "2026-07-03T09:33:47.274Z"
   }
 }
