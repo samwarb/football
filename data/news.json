@@ -2,6 +2,50 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "40cb20642bd762c8633a9e3ab6de5026",
+      "source": "Sky Sports",
+      "headline": "Switzerland lead despite bright start from Algeria LIVE!",
+      "description": "",
+      "publishedAt": "2026-07-03T03:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-breel-embolo-switzerland_7288557.jpg?20260703041817",
+      "link": "https://www.skysports.com/football/switzerland-vs-algeria/live/549848",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "f46615b2cc0c838b6eb58ddc24bdbf69",
+      "source": "Sky Sports",
+      "headline": "Late VAR drama as Portugal beat Croatia to keep Ronaldo's World Cup dreams alive",
+      "description": "Cristiano Ronaldo's World Cup dreams were kept alive in controversial fashion as he helped his Portugal side fight back from a goal down to beat Croatia 2-1 and set up a mouth-watering last-16 tie with Spain.",
+      "publishedAt": "2026-07-03T01:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cristiano-ronaldo_7288555.jpg?20260703030020",
+      "link": "https://www.skysports.com/football/portugal-vs-croatia/report/549850",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "433a592c0db3bce35a4ec558a61c6f68",
+      "source": "Sky Sports",
+      "headline": "VOTE: Should Croatia's late equalising goal vs Portugal have stood?",
+      "description": "",
+      "publishedAt": "2026-07-02T22:45:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-luka-modric-portugal_7288556.jpg?20260703031318",
+      "link": "https://www.skysports.com/football/portugal-vs-croatia/live/549850",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "32156cdef2cb7fbe2a4ab200a205c0ed",
+      "source": "Sky Sports",
+      "headline": "Spain ease past Austria and are growing into this World Cup",
+      "description": "Spain eased into the round of 16 of the World Cup with a comfortable 3-0 win over Austria in Los Angeles.",
+      "publishedAt": "2026-07-02T21:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-spain-austria-mikel-oyarzabal_7288448.jpg?20260702204154",
+      "link": "https://www.skysports.com/football/spain-vs-austria/report/549849",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49250336,
       "source": "ESPN",
       "headline": "Nicol: Fernández and Pastore have been unprofessional to Chelsea",
@@ -16,28 +60,6 @@
         "Chelsea",
         "Real Madrid"
       ]
-    },
-    {
-      "id": "fb23a8e226f277ce4dc6ffb7b6178a39",
-      "source": "Sky Sports",
-      "headline": "Cusack ‘would still be alive if coach did not join Sheff Utd’, inquest told",
-      "description": "Former Sheffield United player Maddy Cusack would still be alive if the coach of the women's team had not been employed by the club, her mother has told an inquest.",
-      "publishedAt": "2026-07-02T18:53:00.000Z",
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-cusack-maddy-sheffield_7127622.png?20260105235610",
-      "link": "https://www.skysports.com/football/news/12040/13559959/maddy-cusack-former-sheffield-united-midfielder-would-still-be-alive-if-coach-did-not-join-club-inquest-told",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b024cd5195dd7c87b2ef06312335da8c",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Memorial to honour Jota unveiled at Anfield",
-      "description": "",
-      "publishedAt": "2026-07-02T17:54:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49246122,
@@ -60,17 +82,6 @@
       "publishedAt": "2026-07-02T15:40:00.000Z",
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-fans-world-cup_7288255.jpg?20260702163410",
       "link": "https://www.skysports.com/football/news/12040/13559749/england-bank-holiday",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "77261a589a43cedd5a9f6eec3f7e5fd7",
-      "source": "Sky Sports",
-      "headline": "McInnes Q&A on transfer targets, new signings, Ferguson interest & more!",
-      "description": "Rangers manager Derek McInnes says the club are working on making more summer signings after adding five players in the opening weeks of the transfer window.",
-      "publishedAt": "2026-07-02T15:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-derek-mcinnes-rangers_7288098.jpg?20260702132857",
-      "link": "https://www.skysports.com/football/news/12040/13559827/rangers-transfer-news-derek-mcinnes-talks-new-signings-possible-departures-lewis-ferguson-links-and-more",
       "tag": "News Story",
       "teams": []
     },
@@ -531,17 +542,6 @@
       ]
     },
     {
-      "id": "9292325857f6a6517bef9ce1b637835c",
-      "source": "Sky Sports",
-      "headline": "Oyarzabal opens scoring for Spain against Austria LIVE!",
-      "description": "",
-      "publishedAt": "2026-06-29T17:30:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-spain-austria-mikel-oyarzabal_7288448.jpg?20260702204154",
-      "link": "https://www.skysports.com/football/spain-vs-austria/live/549849",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49216464,
       "source": "ESPN",
       "headline": "Will Man City's style of play change under Enzo Maresca?",
@@ -559,6 +559,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-02T19:49:33.315Z"
+    "cachedAt": "2026-07-03T04:06:01.489Z"
   }
 }
