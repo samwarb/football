@@ -2,11 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "17ee1c2e8775656c79b1d499c0b42775",
+      "source": "Sky Sports",
+      "headline": "Leigh enhance play-offs bid with thumping victory over Warrington",
+      "description": "Leigh Leopards bolstered their hopes of making the Betfred Super League play-offs after David Armstrong led them to a dominant 24-6 victory against Warrington Wolves during Magic Weekend.",
+      "publishedAt": "2026-07-04T19:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leigh-leopards_7289779.jpg?20260704185417",
+      "link": "https://www.skysports.com/rugby-league/leigh-vs-warrington/report/63271",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "c6913bbae9c6568e15fd38696ce8be50",
+      "source": "Sky Sports",
+      "headline": "England kick-off chaos: What really happened and how storms could delay the game",
+      "description": "The first the English FA knew about a possible six-hour shift to the kick-off time for Mexico vs England in the World Cup last 16 was when Mexican journalists started asking Morgan Rogers and Marcus Rashford how they felt about it, I'm told.",
+      "publishedAt": "2026-07-04T18:52:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-azteca-mexicp_7287894.jpg?20260704200609",
+      "link": "https://www.skysports.com/football/news/12040/13560485/world-cup-2026-england-kick-off-chaos-explained-and-how-storms-hitting-mexico-could-delay-the-last-16-tie",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
       "id": 49265988,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Premier League clubs on alert over Barcelona and France defender",
       "description": "Chelsea, Liverpool, Arsenal, Manchester City and Bayern Munich have been alerted over a potential deal for Barcelona defender Jules Kounde. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-04T13:33:14Z",
+      "publishedAt": "2026-07-04T17:34:20Z",
       "image": "https://a.espncdn.com/photo/2025/1209/r1587360_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender",
       "tag": "Chelsea",
@@ -19,14 +41,46 @@
       ]
     },
     {
-      "id": "da3a7477d2479f5c37dd1353bd8bcfe7",
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-04T17:16:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "c12fb97b7a9f9ffe886b219a0a0ec8f6",
       "source": "Sky Sports",
-      "headline": "Carra: Tuchel's created right-back problem with 'bizarre decision'",
-      "description": "Jamie Carragher believes England boss Thomas Tuchel is to blame for his side's right-back issue at the World Cup.",
-      "publishedAt": "2026-07-04T13:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-djed-spence_7289517.jpg?20260704135037",
-      "link": "https://www.skysports.com/football/news/12040/13560384/england-boss-thomas-tuchel-has-created-world-cup-right-back-problem-ahead-of-mexico-last-16-game-says-jamie-carragher",
-      "tag": "Article/Blog",
+      "headline": "Morocco cruise into quarters with win over Canada LIVE!",
+      "description": "",
+      "publishedAt": "2026-07-04T16:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-azzedine-ounahi-morocco_7289836.jpg?20260704195103",
+      "link": "https://www.skysports.com/football/canada-vs-morocco/live/549854",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -87,38 +141,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-04T08:10:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -513,6 +535,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-04T13:55:48.611Z"
+    "cachedAt": "2026-07-04T19:34:55.581Z"
   }
 }
