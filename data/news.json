@@ -2,9 +2,86 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "e5ca536ca87d0eb6d595ca461390b409",
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-04T08:28:02Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-04T08:10:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49265988,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Premier League clubs on alert over Barcelona and France defender",
+      "description": "Chelsea, Liverpool, Arsenal, Manchester City and Bayern Munich have been alerted over a potential deal for Barcelona defender Jules Kounde. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-04T08:05:28Z",
+      "image": "https://a.espncdn.com/photo/2025/1209/r1587360_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Liverpool",
+        "Manchester City",
+        "Bayern Munich",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "da8d2b1f8cf5b8545464dfc67b245057",
       "source": "Sky Sports",
-      "headline": "Arias strike sends Colombia into World Cup last 16",
+      "headline": "Arias strike sends Colombia past Ghana and into World Cup last 16",
       "description": "Colombia reached the last 16 of the World Cup for the third time in their last three appearances at the tournament with a 1-0 win over Ghana.",
       "publishedAt": "2026-07-04T03:46:00.000Z",
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-colombia-world-cup_7289260.jpg?20260704044334",
@@ -49,12 +126,12 @@
       ]
     },
     {
-      "id": "0865a9f718140287d488c9b0aa0d4c82",
+      "id": "fe9a32d983bb496617dbde0ceb30423f",
       "source": "Sky Sports",
-      "headline": "England vs Mexico WILL kick-off at 1am Monday",
+      "headline": "England vs Mexico WILL kick-off at 1am Monday - but storm threat remains",
       "description": "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion over a possible time move.",
       "publishedAt": "2026-07-03T23:30:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-last-16_7287886.jpg?20260702101745",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-azteca-mexicp_7287894.jpg?20260702102241",
       "link": "https://www.skysports.com/football/news/12040/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday",
       "tag": "News Story",
       "teams": []
@@ -82,17 +159,6 @@
       "teams": []
     },
     {
-      "id": "3db03446f05e08442a08135b6121a5fb",
-      "source": "Sky Sports",
-      "headline": "Key moments and rate the players in Cape Verde's classic with Argentina",
-      "description": "",
-      "publishedAt": "2026-07-03T20:30:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-diney-borges-cape-verde_7289257.jpg?20260704015915",
-      "link": "https://www.skysports.com/football/argentina-vs-cape-verde/live/549852",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49186874,
       "source": "ESPN",
       "headline": "Man United goalkeeper André Onana rejoins Trabzonspor on loan",
@@ -104,38 +170,6 @@
       "teams": [
         "Manchester United",
         "Trabzonspor"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-03T18:58:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -236,34 +270,6 @@
         "Ghana",
         "Chelsea",
         "Colombia"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-03T06:45:59Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
       ]
     },
     {
@@ -539,43 +545,11 @@
         "Crystal Palace",
         "Sunderland"
       ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-01T08:44:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-04T03:59:16.458Z"
+    "cachedAt": "2026-07-04T08:49:11.894Z"
   }
 }
