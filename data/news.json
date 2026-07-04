@@ -2,6 +2,66 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49265988,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Premier League clubs on alert over Barcelona and France defender",
+      "description": "Chelsea, Liverpool, Arsenal, Manchester City and Bayern Munich have been alerted over a potential deal for Barcelona defender Jules Kounde. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-04T13:33:14Z",
+      "image": "https://a.espncdn.com/photo/2025/1209/r1587360_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Liverpool",
+        "Manchester City",
+        "Bayern Munich",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "da3a7477d2479f5c37dd1353bd8bcfe7",
+      "source": "Sky Sports",
+      "headline": "Carra: Tuchel's created right-back problem with 'bizarre decision'",
+      "description": "Jamie Carragher believes England boss Thomas Tuchel is to blame for his side's right-back issue at the World Cup.",
+      "publishedAt": "2026-07-04T13:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-djed-spence_7289517.jpg?20260704135037",
+      "link": "https://www.skysports.com/football/news/12040/13560384/england-boss-thomas-tuchel-has-created-world-cup-right-back-problem-ahead-of-mexico-last-16-game-says-jamie-carragher",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-04T09:40:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -62,56 +122,6 @@
       ]
     },
     {
-      "id": 49265988,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Premier League clubs on alert over Barcelona and France defender",
-      "description": "Chelsea, Liverpool, Arsenal, Manchester City and Bayern Munich have been alerted over a potential deal for Barcelona defender Jules Kounde. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-04T08:05:28Z",
-      "image": "https://a.espncdn.com/photo/2025/1209/r1587360_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Liverpool",
-        "Manchester City",
-        "Bayern Munich",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "da8d2b1f8cf5b8545464dfc67b245057",
-      "source": "Sky Sports",
-      "headline": "Arias strike sends Colombia past Ghana and into World Cup last 16",
-      "description": "Colombia reached the last 16 of the World Cup for the third time in their last three appearances at the tournament with a 1-0 win over Ghana.",
-      "publishedAt": "2026-07-04T03:46:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-colombia-world-cup_7289260.jpg?20260704044334",
-      "link": "https://www.skysports.com/football/colombia-vs-ghana/report/549853",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "4368474d3af32f220123c82443eb3fc4",
-      "source": "Sky Sports",
-      "headline": "Colombia 1-0 Ghana: All the key moments and rate the players",
-      "description": "",
-      "publishedAt": "2026-07-04T01:05:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-colombia-world-cup_7289259.jpg?20260704025349",
-      "link": "https://www.skysports.com/football/colombia-vs-ghana/live/549853",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "6893151a92d3597be64643a2825de139",
-      "source": "Sky Sports",
-      "headline": "Argentina avoid biggest World Cup upset with extra-time win vs Cape Verde",
-      "description": "Argentina avoided the biggest upset in World Cup history after Diney Borges' own-goal in extra-time rescued a 3-2 win over Cape Verde to book their place in the last 16 of the tournament.",
-      "publishedAt": "2026-07-04T00:58:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7289258.jpg?20260704020701",
-      "link": "https://www.skysports.com/football/argentina-vs-cape-verde/report/549852",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49255968,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United eye move for Palace's Sarr",
@@ -124,39 +134,6 @@
         "Manchester United",
         "Crystal Palace"
       ]
-    },
-    {
-      "id": "fe9a32d983bb496617dbde0ceb30423f",
-      "source": "Sky Sports",
-      "headline": "England vs Mexico WILL kick-off at 1am Monday - but storm threat remains",
-      "description": "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion over a possible time move.",
-      "publishedAt": "2026-07-03T23:30:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-azteca-mexicp_7287894.jpg?20260702102241",
-      "link": "https://www.skysports.com/football/news/12040/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "4e8d44098689a969275dc7f7f5dfacfe",
-      "source": "Sky Sports",
-      "headline": "Papers: Fulham join Chelsea, Man Utd in race for Summerville",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-07-03T22:50:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13560285/fulham-join-chelsea-and-man-utd-in-race-for-west-ham-winger-crysencio-summerville-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "6682e4a0caa6757811b7510f43d21d67",
-      "source": "Sky Sports",
-      "headline": "Egypt eliminate Australia from World Cup after penalty shoot-out drama",
-      "description": "Egypt are into the last 16 of the World Cup after beating Australia in a dramatic penalty shoot-out in Dallas.",
-      "publishedAt": "2026-07-03T21:25:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-mohamed-salah-egypt_7289210.jpg?20260703221214",
-      "link": "https://www.skysports.com/football/australia-vs-egypt/report/549851",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49186874,
@@ -501,20 +478,6 @@
       ]
     },
     {
-      "id": 49234752,
-      "source": "ESPN",
-      "headline": "French defender Jérémy Jacquet officially joins Liverpool from Rennes",
-      "description": "Liverpool have completed the signing of France U21 centre-back Jérémy Jacquet from Rennes in a deal worth up to £60 million.",
-      "publishedAt": "2026-07-01T13:35:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682572_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49234752/jeremy-jacquet-liverpool-rennes",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Stade Rennais"
-      ]
-    },
-    {
       "id": 49229146,
       "source": "ESPN",
       "headline": "Ranking all 20 Premier League clubs on transfer work for 2025-26 season",
@@ -550,6 +513,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-04T08:49:11.894Z"
+    "cachedAt": "2026-07-04T13:55:48.611Z"
   }
 }
