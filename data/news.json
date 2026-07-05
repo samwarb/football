@@ -2,6 +2,17 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "074c0b979dbc5e7cbe1886c672c0e2fc",
+      "source": "Sky Sports",
+      "headline": "Handley stars as Leeds run riot against Bradford at Magic Weekend",
+      "description": "Ash Handley scored a hat-trick of tries and set up two others as Leeds Rhinos ran riot against rivals Bradford Bulls to secure a 50-16 victory at Hill Dickinson Stadium.",
+      "publishedAt": "2026-07-05T16:20:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ash-handley_7290423.jpg?20260705171426",
+      "link": "https://www.skysports.com/rugby-league/leeds-vs-bradford/report/63273",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -215,17 +226,6 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "774f693b0087a4dbad09235f91098c36",
-      "source": "Sky Sports",
-      "headline": "Brazil vs Norway preview: 'No anti-Haaland plan', says Ancelotti",
-      "description": "",
-      "publishedAt": "2026-07-03T11:35:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-haaland-norway_7275412.jpg?20260617092009",
-      "link": "https://www.skysports.com/football/brazil-vs-norway/live/549856",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49256844,
@@ -499,6 +499,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-05T14:07:00.747Z"
+    "cachedAt": "2026-07-05T19:40:30.558Z"
   }
 }
