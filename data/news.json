@@ -2,6 +2,22 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49274634,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea, Madrid, Barça chase Man City's Dias",
+      "description": "Manchester City have issued a hands-off warning to elite European clubs over center back Rúben Dias. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-05T08:35:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0130/r1607947_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49274634/transfer-rumors-news-chelsea-real-madrid-barcelona-chase-man-city-ruben-dias",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
       "id": "d6b09be0f6ac698e12e06ac3fddc1381",
       "source": "Sky Sports",
       "headline": "Mbappe scores again to send France past stubborn Paraguay",
@@ -13,9 +29,9 @@
       "teams": []
     },
     {
-      "id": "ce9b19f93b8fef965932a8652e870ccd",
+      "id": "dc4d9f7979d888a4619929a67ee5134d",
       "source": "Sky Sports",
-      "headline": "Papers: Bruno Guimaraes considered 'priceless' by Newcastle amid transfer interest",
+      "headline": "Papers: Bruno Guimaraes considered 'priceless' by Newcastle",
       "description": "The top stories and transfer rumours from Sunday's newspapers...",
       "publishedAt": "2026-07-04T22:00:00.000Z",
       "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
@@ -32,39 +48,6 @@
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-kylian-mbappe-france_7289921.jpg?20260704234027",
       "link": "https://www.skysports.com/football/paraguay-vs-france/live/549855",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "15f49ebe960fd1cf95f30d175c6d42cd",
-      "source": "Sky Sports",
-      "headline": "Morocco knock out World Cup co-hosts Canada to reach last eight",
-      "description": "Azzedine Ounahi scored a double before Soufiane Rahimi added a third to knock out World Cup co-hosts Canada and send Morocco into the last eight thanks to a 3-0 win in Houston.",
-      "publishedAt": "2026-07-04T19:22:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-azzedine-ounahi-morocco_7289842.jpg?20260704200147",
-      "link": "https://www.skysports.com/football/canada-vs-morocco/report/549854",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "17ee1c2e8775656c79b1d499c0b42775",
-      "source": "Sky Sports",
-      "headline": "Leigh enhance play-offs bid with thumping victory over Warrington",
-      "description": "Leigh Leopards bolstered their hopes of making the Betfred Super League play-offs after David Armstrong led them to a dominant 24-6 victory against Warrington Wolves during Magic Weekend.",
-      "publishedAt": "2026-07-04T19:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leigh-leopards_7289779.jpg?20260704185417",
-      "link": "https://www.skysports.com/rugby-league/leigh-vs-warrington/report/63271",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "d22effc275e2110fe60498d60cbe2783",
-      "source": "Sky Sports",
-      "headline": "Leopards leave Wolves licking their wounds",
-      "description": "Super League highlights from Hill Dickinson Stadium as Leigh Leopards took on Warrington Wolves.",
-      "publishedAt": "2026-07-04T18:49:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-leight-warrington_7289865.jpg?20260704205621",
-      "link": "https://www.skysports.com/watch/video/13560491/leopards-leave-wolves-licking-their-wounds-leigh-v-warrington-highlights",
-      "tag": "Video",
       "teams": []
     },
     {
@@ -248,6 +231,17 @@
       "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "774f693b0087a4dbad09235f91098c36",
+      "source": "Sky Sports",
+      "headline": "Brazil vs Norway preview: 'No anti-Haaland plan', says Ancelotti",
+      "description": "",
+      "publishedAt": "2026-07-03T11:35:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-haaland-norway_7275412.jpg?20260617092009",
+      "link": "https://www.skysports.com/football/brazil-vs-norway/live/549856",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -531,43 +525,11 @@
         "Aston Villa",
         "Metz"
       ]
-    },
-    {
-      "id": 49229146,
-      "source": "ESPN",
-      "headline": "Ranking all 20 Premier League clubs on transfer work for 2025-26 season",
-      "description": "One year on from a bumper 2025 summer Premier League window, we've decided to rate all 20 teams' incoming signings on their immediate impact and scope to improve.",
-      "publishedAt": "2026-07-01T10:30:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682566_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49229146/ranking-all-20-premier-league-clubs-their-transfer-work-2025-26-season",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester United",
-        "Manchester City",
-        "Chelsea",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "Aston Villa",
-        "Newcastle United",
-        "Everton",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "West Ham United",
-        "Wolverhampton Wanderers",
-        "Burnley",
-        "Leeds United",
-        "Nottingham Forest",
-        "Fulham",
-        "Crystal Palace",
-        "Sunderland"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-05T04:17:59.779Z"
+    "cachedAt": "2026-07-05T09:20:48.099Z"
   }
 }
