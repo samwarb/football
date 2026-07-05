@@ -2,6 +2,50 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "d6b09be0f6ac698e12e06ac3fddc1381",
+      "source": "Sky Sports",
+      "headline": "Mbappe scores again to send France past stubborn Paraguay",
+      "description": "Kylian Mbappe's 70th-minute penalty gave France a 1-0 victory over Paraguay in an ill-tempered World Cup last-16 tie in Philadelphia to set up a quarter-final meeting with Morocco.",
+      "publishedAt": "2026-07-04T22:59:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kylian-mbappe_7289927.jpg?20260704235400",
+      "link": "https://www.skysports.com/football/paraguay-vs-france/report/549855",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "ce9b19f93b8fef965932a8652e870ccd",
+      "source": "Sky Sports",
+      "headline": "Papers: Bruno Guimaraes considered 'priceless' by Newcastle amid transfer interest",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-07-04T22:00:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13560523/newcastle-transfer-news-bruno-guimaraes-considered-priceless-amid-interest-for-midfielder-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "8420db15340dc1dffba9815e9ab693f8",
+      "source": "Sky Sports",
+      "headline": "All the key moments and rate the players as France beat Paraguay",
+      "description": "",
+      "publishedAt": "2026-07-04T19:30:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-kylian-mbappe-france_7289921.jpg?20260704234027",
+      "link": "https://www.skysports.com/football/paraguay-vs-france/live/549855",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "15f49ebe960fd1cf95f30d175c6d42cd",
+      "source": "Sky Sports",
+      "headline": "Morocco knock out World Cup co-hosts Canada to reach last eight",
+      "description": "Azzedine Ounahi scored a double before Soufiane Rahimi added a third to knock out World Cup co-hosts Canada and send Morocco into the last eight thanks to a 3-0 win in Houston.",
+      "publishedAt": "2026-07-04T19:22:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-azzedine-ounahi-morocco_7289842.jpg?20260704200147",
+      "link": "https://www.skysports.com/football/canada-vs-morocco/report/549854",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": "17ee1c2e8775656c79b1d499c0b42775",
       "source": "Sky Sports",
       "headline": "Leigh enhance play-offs bid with thumping victory over Warrington",
@@ -13,14 +57,14 @@
       "teams": []
     },
     {
-      "id": "c6913bbae9c6568e15fd38696ce8be50",
+      "id": "d22effc275e2110fe60498d60cbe2783",
       "source": "Sky Sports",
-      "headline": "England kick-off chaos: What really happened and how storms could delay the game",
-      "description": "The first the English FA knew about a possible six-hour shift to the kick-off time for Mexico vs England in the World Cup last 16 was when Mexican journalists started asking Morgan Rogers and Marcus Rashford how they felt about it, I'm told.",
-      "publishedAt": "2026-07-04T18:52:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-azteca-mexicp_7287894.jpg?20260704200609",
-      "link": "https://www.skysports.com/football/news/12040/13560485/world-cup-2026-england-kick-off-chaos-explained-and-how-storms-hitting-mexico-could-delay-the-last-16-tie",
-      "tag": "Article/Blog",
+      "headline": "Leopards leave Wolves licking their wounds",
+      "description": "Super League highlights from Hill Dickinson Stadium as Leigh Leopards took on Warrington Wolves.",
+      "publishedAt": "2026-07-04T18:49:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-leight-warrington_7289865.jpg?20260704205621",
+      "link": "https://www.skysports.com/watch/video/13560491/leopards-leave-wolves-licking-their-wounds-leigh-v-warrington-highlights",
+      "tag": "Video",
       "teams": []
     },
     {
@@ -71,17 +115,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "c12fb97b7a9f9ffe886b219a0a0ec8f6",
-      "source": "Sky Sports",
-      "headline": "Morocco cruise into quarters with win over Canada LIVE!",
-      "description": "",
-      "publishedAt": "2026-07-04T16:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-azzedine-ounahi-morocco_7289836.jpg?20260704195103",
-      "link": "https://www.skysports.com/football/canada-vs-morocco/live/549854",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49154575,
@@ -535,6 +568,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-04T19:34:55.581Z"
+    "cachedAt": "2026-07-05T04:17:59.779Z"
   }
 }
