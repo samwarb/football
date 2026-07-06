@@ -2,14 +2,82 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "074c0b979dbc5e7cbe1886c672c0e2fc",
+      "id": "02e3a222721212194f1bad5b8ec96d6c",
       "source": "Sky Sports",
-      "headline": "Handley stars as Leeds run riot against Bradford at Magic Weekend",
-      "description": "Ash Handley scored a hat-trick of tries and set up two others as Leeds Rhinos ran riot against rivals Bradford Bulls to secure a 50-16 victory at Hill Dickinson Stadium.",
-      "publishedAt": "2026-07-05T16:20:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ash-handley_7290423.jpg?20260705171426",
-      "link": "https://www.skysports.com/rugby-league/leeds-vs-bradford/report/63273",
+      "headline": "Three Lions roar at alti-Jude! Bellingham and Kane send 10-man England to QFs after thriller",
+      "description": "England are through to the World Cup quarter-finals after earning one of their greatest knockout results by eliminating co-hosts Mexico with a gutsy 3-2 victory in an extraordinary tie at the Azteca.",
+      "publishedAt": "2026-07-06T02:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-bellingham-jude-england_7290716.jpg?20260706030311",
+      "link": "https://www.skysports.com/football/mexico-vs-england/report/549857",
       "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "5e4624ff64c3edee92be4e7528116ca9",
+      "source": "Sky Sports",
+      "headline": "Brazil stunned as Haaland's masterclass sends Norway into last eight",
+      "description": "Erling Haaland dumped Brazil out of the World Cup at the last-16 stage as his brilliant late double secured a 2-1 win for Norway to set up a quarter-final against England.",
+      "publishedAt": "2026-07-05T22:10:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-erling-haaland-goal_7290669.jpg?20260705230226",
+      "link": "https://www.skysports.com/football/brazil-vs-norway/report/549856",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-05T21:29:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49279207,
+      "source": "ESPN",
+      "headline": "Newcastle sign winger Bazoumana Touré from Hoffenheim",
+      "description": "Newcastle have completed the signing of Ivory Coast winger Bazoumana Touré from Hoffenheim.",
+      "publishedAt": "2026-07-05T20:32:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684933_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49279207/newcastle-sign-winger-bazoumana-toure-hoffenheim",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "TSG Hoffenheim"
+      ]
+    },
+    {
+      "id": "0c9527c9f7b0858ba8d39d366496a426",
+      "source": "Sky Sports",
+      "headline": "Balogun ban overturned amid reports White House contacted FIFA",
+      "description": "FIFA has stepped in to make banned USA striker Folarin Balogun available for the World Cup last-16 tie with Belgium.",
+      "publishedAt": "2026-07-05T20:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-florin-balogun-usa_7290692.jpg?20260705235615",
+      "link": "https://www.skysports.com/football/news/12040/13560770/world-cup-2026-fifa-step-in-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie-a-move-praised-by-president-donald-trump",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -97,38 +165,6 @@
         "Sunderland",
         "Tottenham Hotspur",
         "Wrexham"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-05T12:08:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -481,24 +517,11 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 49238620,
-      "source": "ESPN",
-      "headline": "Surprised Vitor Pereira says Nottingham Forest departure came 'without warning'",
-      "description": "Vitor Pereira said he was taken by \"complete surprise and without any warning\" after confirming his time as head coach of Nottingham Forest has come to an end effective immediately.",
-      "publishedAt": "2026-07-01T17:47:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49238620/surprised-vitor-pereira-says-nottingham-forest-departure-warning",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-05T19:40:30.558Z"
+    "cachedAt": "2026-07-06T04:36:57.211Z"
   }
 }
