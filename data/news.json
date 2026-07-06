@@ -2,15 +2,96 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "1e531915507bcaa087c6054cb474420c",
+      "id": "daff3527d503a5088aa79f7e55e0e1b4",
       "source": "Sky Sports",
-      "headline": "Ronaldo: This World Cup will be my last - but I hope Spain clash isn't my farewell",
-      "description": "Cristiano Ronaldo has confirmed the 2026 World Cup will be his last as a player.",
-      "publishedAt": "2026-07-06T10:50:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276226.jpg?20260617222704",
-      "link": "https://www.skysports.com/football/news/12040/13560011/cristiano-ronaldo-portugal-legend-announces-retirement-from-international-duty-following-world-cup-exit",
-      "tag": "News Story",
+      "headline": "Everton latest: George completes permanent move from Chelsea",
+      "description": "",
+      "publishedAt": "2026-07-06T15:00:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
       "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-06T14:42:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-06T13:11:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-06T12:04:37Z",
+      "image": "https://a.espncdn.com/photo/2025/0511/r1490998_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49284362,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal eye Wan-Bissaka as White replacement",
+      "description": "Arsenal are considering 11 different potential players to sign at right back. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-06T11:14:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685229_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49284362/transfer-rumors-news-arsenal-eye-wan-bissaka-white-replacement",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "West Ham United"
+      ]
     },
     {
       "id": 49246543,
@@ -24,28 +105,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "725422bef0ffa5c89ee8ee236db20e9d",
-      "source": "Sky Sports",
-      "headline": "Tonali out but Bruno to stay? Inside Newcastle's transfer plans",
-      "description": "Losing Sandro Tonali was never part of Newcastle's plan, but there is an acceptance that the £100m fee Tottenham are paying for the midfielder will be necessary to unlock what they hope is a transformative summer in the market.",
-      "publishedAt": "2026-07-06T10:37:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-newcastle-united_7288192.jpg?20260702152157",
-      "link": "https://www.skysports.com/football/news/12040/13559175/inside-newcastles-transfer-plans-as-sandro-tonali-leaves-for-tottenham-and-magpies-eye-transformational-summer",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-06T10:12:16Z",
-      "image": "https://a.espncdn.com/photo/2025/0511/r1490998_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 49250725,
@@ -81,31 +140,6 @@
       "link": "https://www.skysports.com/football/news/12040/13560915/world-cup-2026-uefa-hits-out-at-fifa-decision-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie",
       "tag": "News Story",
       "teams": []
-    },
-    {
-      "id": "21bffcbf41e3a44b2dc1fc1cb0a4adc8",
-      "source": "Sky Sports",
-      "headline": "Nottingham Forest confirm Glasner's appointment as head coach",
-      "description": "Nottingham Forest have appointed Oliver Glasner as the club's new head coach.",
-      "publishedAt": "2026-07-06T09:22:00.000Z",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-crystal-palace-boss_7170411.jpg?20260220174636",
-      "link": "https://www.skysports.com/football/news/12040/13560923/oliver-glasner-to-nottingham-forest-former-crystal-palace-boss-succeeds-vitor-pereira-at-the-city-ground",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49284362,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal eye Wan-Bissaka as White replacement",
-      "description": "Arsenal are considering 11 different potential players to sign at right back. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-06T09:09:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685229_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49284362/transfer-rumors-news-arsenal-eye-wan-bissaka-white-replacement",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
     },
     {
       "id": "bb86f009c3fe41f53a7c46b28dd98f88",
@@ -177,49 +211,6 @@
         "Tottenham Hotspur",
         "Wrexham"
       ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-06T05:57:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": "02e3a222721212194f1bad5b8ec96d6c",
-      "source": "Sky Sports",
-      "headline": "Three Lions roar at alti-Jude! Bellingham and Kane send 10-man England to QFs after thriller",
-      "description": "England are through to the World Cup quarter-finals after earning one of their greatest knockout results by eliminating co-hosts Mexico with a gutsy 3-2 victory in an extraordinary tie at the Azteca.",
-      "publishedAt": "2026-07-06T02:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-bellingham-jude-england_7290716.jpg?20260706030311",
-      "link": "https://www.skysports.com/football/mexico-vs-england/report/549857",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49279207,
@@ -324,28 +315,15 @@
       ]
     },
     {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-03T18:15:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679344_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
+      "id": "1b965a601ba590dc611c9f1b4ef1e7ca",
+      "source": "Sky Sports",
+      "headline": "USA vs Belgium preview: I'm the one that got Balogun's ban suspended, says Trump",
+      "description": "",
+      "publishedAt": "2026-07-03T12:11:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-donald-trump-gianni-infantino_7291301.jpg?20260706154956",
+      "link": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49256844,
@@ -563,6 +541,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-06T11:00:07.969Z"
+    "cachedAt": "2026-07-06T15:53:23.715Z"
   }
 }
