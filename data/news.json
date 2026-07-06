@@ -2,15 +2,63 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "daff3527d503a5088aa79f7e55e0e1b4",
+      "id": "df420ffb519c32ffd00798fd458b6a0c",
       "source": "Sky Sports",
-      "headline": "Everton latest: George completes permanent move from Chelsea",
+      "headline": "Ipswich latest: Deal agreed for Brazil striker",
       "description": "",
-      "publishedAt": "2026-07-06T15:00:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-07-06T19:45:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ipswich-town-news_7281011.jpg?20260623154649",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "tag": "Liveblog",
       "teams": []
+    },
+    {
+      "id": "4a9632786882e5236acd82969a117f05",
+      "source": "Sky Sports",
+      "headline": "Brentford latest: Bees close to signing Wilson on free transfer",
+      "description": "",
+      "publishedAt": "2026-07-06T19:12:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-brentford-news-club_7039245.jpg?20251002155849",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "8eedfb5259c49cdc11f6e853b8b1bcf4",
+      "source": "Sky Sports",
+      "headline": "Brighton latest: Julio subject to transfer interest from Europe and Brazil",
+      "description": "",
+      "publishedAt": "2026-07-06T17:00:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49287410,
+      "source": "ESPN",
+      "headline": "Are Arsenal making a mistake letting Trossard go?",
+      "description": "Are Arsenal making a mistake letting Trossard go?",
+      "publishedAt": "2026-07-06T16:56:55Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_Analysis__Are_Arsenal_making_a_mistake_letting_Trossard_go3F__GLOBAL_2026-07-06/dm_260706_COM_SOC_Analysis__Are_Arsenal_making_a_mistake_letting_Trossard_go3F__GLOBAL_2026-07-06.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49287410/are-arsenal-making-mistake-letting-trossard-go",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49287358,
+      "source": "ESPN",
+      "headline": "Would Andrey Santos be a good signing for Man United?",
+      "description": "Would Andrey Santos be a good signing for Man United?",
+      "publishedAt": "2026-07-06T16:55:47Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_Analysis_Are_Arsenal_making_a_mi772/dm_260706_COM_SOC_Analysis_Are_Arsenal_making_a_mi772.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49287358/would-andrey-santos-good-signing-man-united",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
     },
     {
       "id": 49163915,
@@ -118,39 +166,6 @@
       "teams": [
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": "417d2718c080751e44b87413b9b8682d",
-      "source": "Sky Sports",
-      "headline": "Spurs smash transfer record again to sign Tonali in £100m deal",
-      "description": "Tottenham have signed Sandro Tonali from Newcastle United in a club-record £100m deal.",
-      "publishedAt": "2026-07-06T10:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sandro-tonali-transfer_7287586.jpg?20260701200814",
-      "link": "https://www.skysports.com/football/news/12040/13559730/sandro-tonali-tottenham-sign-italy-midfielder-in-club-record-100m-deal-from-newcastle",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "958fb6ab67b283fa0c0157450d4ef481",
-      "source": "Sky Sports",
-      "headline": "'Crossed a red line': UEFA hits out at FIFA call to allow banned Balogun to play",
-      "description": "UEFA says FIFA has \"crossed a red line\" and has put the \"integrity of the game at stake\" in allowing USA striker Folarin Balogun to play in their World Cup tie against Belgium on Tuesday.",
-      "publishedAt": "2026-07-06T09:26:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-balogun-usa_7287725.jpg?20260702023831",
-      "link": "https://www.skysports.com/football/news/12040/13560915/world-cup-2026-uefa-hits-out-at-fifa-decision-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "bb86f009c3fe41f53a7c46b28dd98f88",
-      "source": "Sky Sports",
-      "headline": "Ref Watch: Quansah's red card and penalty against Kane analysed",
-      "description": "",
-      "publishedAt": "2026-07-06T08:55:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jarell-quansah-england_7290964.jpg?20260706093315",
-      "link": "https://www.skysports.com/football/live-blog/12040/13560892/ref-watch-live-world-cup-2026-incidents-analysed-by-former-premier-league-referee-dermot-gallagher",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -315,13 +330,13 @@
       ]
     },
     {
-      "id": "1b965a601ba590dc611c9f1b4ef1e7ca",
+      "id": "8d402dc070507c6a37ae54b61717b8d9",
       "source": "Sky Sports",
-      "headline": "USA vs Belgium preview: I'm the one that got Balogun's ban suspended, says Trump",
+      "headline": "Portugal hit the bar as they grow into game vs Spain LIVE!",
       "description": "",
-      "publishedAt": "2026-07-03T12:11:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-donald-trump-gianni-infantino_7291301.jpg?20260706154956",
-      "link": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859",
+      "publishedAt": "2026-07-03T11:57:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-spain-portugal_7291501.jpg?20260706203536",
+      "link": "https://www.skysports.com/football/portugal-vs-spain/live/549858",
       "tag": "Liveblog",
       "teams": []
     },
@@ -507,40 +522,11 @@
         "Chelsea",
         "RB Leipzig"
       ]
-    },
-    {
-      "id": 49241660,
-      "source": "ESPN",
-      "headline": "Will Tottenham regret letting Luka Vušković leave?",
-      "description": "Will Tottenham regret letting Luka Vušković leave?",
-      "publishedAt": "2026-07-01T22:00:59Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_Analysis_Will_Tottenham_regret_letting_Luka_Vuskovic_leave_20260701_GLOBAL/dm_260701_COM_SOC_Analysis_Will_Tottenham_regret_letting_Luka_Vuskovic_leave_20260701_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49241660/will-tottenham-regret-letting-luka-vukovi-leave",
-      "tag": "Croatia",
-      "teams": [
-        "Croatia",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49241612,
-      "source": "ESPN",
-      "headline": "Laurens: Tonali picked Tottenham because of De Zerbi",
-      "description": "Laurens: Tonali picked Tottenham because of De Zerbi",
-      "publishedAt": "2026-07-01T21:56:28Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_Analysis_Laurens_Tonali_picked_Tottenham_because_of_De_Zerbi_20260701_GLOBAL/dm_260701_COM_SOC_Analysis_Laurens_Tonali_picked_Tottenham_because_of_De_Zerbi_20260701_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49241612/tonali-picked-tottenham-de-zerbi",
-      "tag": "Italy",
-      "teams": [
-        "Italy",
-        "Newcastle United",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-06T15:53:23.715Z"
+    "cachedAt": "2026-07-06T20:12:26.471Z"
   }
 }
