@@ -2,6 +2,146 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "e6140fcd6e17a218ac30d16eb28a3c77",
+      "source": "Sky Sports",
+      "headline": "Cristiano Ronaldo's best skills & showboats for Man Utd",
+      "description": "We look back at Cristiano Ronaldo's most outrageous flicks and tricks from his spells in the Premier League with Manchester United.",
+      "publishedAt": "2026-07-07T09:06:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ronaldo-man-utd_7291806.jpg?20260707094708",
+      "link": "https://www.skysports.com/watch/video/13561216/cristiano-ronaldos-best-skills-showboats-for-manchester-united",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 49293765,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool ahead of Man United in Mora race",
+      "description": "Liverpool have made contact over a move for Mexico wonderkid Gilberto Mora. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-07T08:07:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0608/r1669799_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49293765/transfer-rumors-news-liverpool-ahead-man-united-mora-race",
+      "tag": "Tijuana",
+      "teams": [
+        "Tijuana",
+        "Liverpool",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "7a809d26fcadc138f5a31b3a87ec0618",
+      "source": "Sky Sports",
+      "headline": "'Overturn this' - Belgium mock Trump and FIFA after USA World Cup exit",
+      "description": "Belgium players appeared to mock US President Donald Trump and FIFA after eliminating co-hosts USA from the World Cup.",
+      "publishedAt": "2026-07-07T08:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-romelu-lukaku-belgium_7291816.jpg?20260707101242",
+      "link": "https://www.skysports.com/football/news/12040/13561192/overturn-this-belgium-mock-usa-after-world-cup-exit",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-07T07:32:29Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-07T07:22:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-07T07:01:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "81800aca41a19ca66a2c880691af9dc1",
+      "source": "Sky Sports",
+      "headline": "Why Ronaldo and Portugal must find new paths",
+      "description": "Cristiano Ronaldo's contribution to the game cannot be questioned. One of the greatest ever to do it on the pitch.",
+      "publishedAt": "2026-07-07T06:40:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-cristiano-ronaldo_7291696.jpg?20260707073626",
+      "link": "https://www.skysports.com/football/news/12040/13561145/cristiano-ronaldo-portugal-captain-meets-natural-end-with-national-team-and-goes-down-as-best-player-to-never-win-world-cup",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "bc4d73bfce253610b94cea254af2034d",
       "source": "Sky Sports",
       "headline": "Balogun reprieve ends in anti-climax as Belgium dump USA out",
@@ -27,47 +167,14 @@
       ]
     },
     {
-      "id": "038d3f29a4997a57ffbcb1a43f453e19",
+      "id": "29ad6b04e673489e0a540d15091b0647",
       "source": "Sky Sports",
-      "headline": "All the key moments and rate the players as Belgium eliminate USA",
-      "description": "",
-      "publishedAt": "2026-07-06T22:30:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-matt-freese-usa_7291625.jpg?20260707023540",
-      "link": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "36a9808df20a8f0aef4eea5183b5abee",
-      "source": "Sky Sports",
-      "headline": "Ronaldo bows out and Martinez steps down as Spain beat Portugal",
-      "description": "Spain laboured to an uninspiring 1-0 victory over Iberian rivals Portugal in their last-16 tie to set up a quarter-final meeting with the winners of USA vs Belgium.",
+      "headline": "Ronaldo bows out and Martinez steps down as Portugal beaten by Spain",
+      "description": "Spain laboured to an uninspiring 1-0 victory over Iberian rivals Portugal in their last-16 tie to set up a quarter-final meeting with resurgent Belgium.",
       "publishedAt": "2026-07-06T21:00:00.000Z",
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-mikel-merino-spain_7291571.jpg?20260706221423",
       "link": "https://www.skysports.com/football/portugal-vs-spain/report/549858",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "df420ffb519c32ffd00798fd458b6a0c",
-      "source": "Sky Sports",
-      "headline": "Ipswich latest: Deal agreed for Brazil striker",
-      "description": "",
-      "publishedAt": "2026-07-06T19:45:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ipswich-town-news_7281011.jpg?20260623154649",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "4a9632786882e5236acd82969a117f05",
-      "source": "Sky Sports",
-      "headline": "Brentford latest: Bees close to signing Wilson on free transfer",
-      "description": "",
-      "publishedAt": "2026-07-06T19:12:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-brentford-news-club_7039245.jpg?20251002155849",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -79,17 +186,6 @@
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ronaldo-portugal_7291618.jpg?20260707002643",
       "link": "https://www.skysports.com/football/news/12040/13561089/cristiano-ronaldo-portugal-captain-confirms-he-has-played-his-last-world-cup-match-but-wont-make-rash-decision-on-international-future",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "8eedfb5259c49cdc11f6e853b8b1bcf4",
-      "source": "Sky Sports",
-      "headline": "Brighton latest: Julio subject to transfer interest from Europe and Brazil",
-      "description": "",
-      "publishedAt": "2026-07-06T17:00:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -143,38 +239,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-06T13:11:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -209,66 +273,6 @@
       "tag": "Nottingham Forest",
       "teams": [
         "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-06T06:56:42Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-06T06:38:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
       ]
     },
     {
@@ -372,17 +376,6 @@
         "Manchester United",
         "Trabzonspor"
       ]
-    },
-    {
-      "id": "f860d97bdc276cef6b9333ac9116fbd1",
-      "source": "Sky Sports",
-      "headline": "Reaction as Portugal lose to Spain and Ronaldo exits World Cup for final time",
-      "description": "",
-      "publishedAt": "2026-07-03T11:57:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cristiano-ronaldo_7291573.jpg?20260706221649",
-      "link": "https://www.skysports.com/football/portugal-vs-spain/live/549858",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49256844,
@@ -537,20 +530,6 @@
       ]
     },
     {
-      "id": 49237034,
-      "source": "ESPN",
-      "headline": "Portugal ready to honor World Cup's 'extra man' Diogo Jota as anniversary of his death nears",
-      "description": "Portugal forward Diogo Jota died in a car accident a year ago, so when the country take to the pitch against Croatia on Thursday it will be an emotional time.",
-      "publishedAt": "2026-07-02T07:31:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682709_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49237034/portugal-ready-honor-extra-man-diogo-jota-anniversary-death-nears-world-cup",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Portugal"
-      ]
-    },
-    {
       "id": 49234253,
       "source": "ESPN",
       "headline": "Salomon Kalou wants Yan Diomande in Premier League, backs him to make potential PSG move work",
@@ -571,6 +550,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-07T04:14:55.965Z"
+    "cachedAt": "2026-07-07T09:58:42.513Z"
   }
 }
