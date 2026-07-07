@@ -2,39 +2,57 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "f223267a890fc2b725f87726e953a0b0",
+      "id": "579a73bd665a7367e6a61a64faeeaf57",
       "source": "Sky Sports",
-      "headline": "Wigan Warriors 'appalled' by online racist abuse directed at Nsemba",
-      "description": "Wigan say they are \"appalled\" by racist abuse aimed at Junior Nsemba after their narrow victory over St Helens at Magic Weekend in Liverpool on Sunday.",
-      "publishedAt": "2026-07-07T14:34:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-junior-nsemba-super-league_7292176.jpg?20260707155116",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13561274/wigan-warriors-super-league-club-appalled-at-racist-abuse-aimed-at-junior-nsemba-after-magic-weekend-win-over-st-helens",
-      "tag": "News Story",
+      "headline": "Newcastle latest: Teenager arrives for medical ahead of move from Ajax",
+      "description": "",
+      "publishedAt": "2026-07-07T18:40:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": 49293765,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool ahead of Man United in Mora race",
-      "description": "Liverpool have made contact over a move for Mexico wonderkid Gilberto Mora. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-07T10:53:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0608/r1669799_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49293765/transfer-rumors-news-liverpool-ahead-man-united-mora-race",
-      "tag": "Tijuana",
-      "teams": [
-        "Tijuana",
-        "Liverpool",
-        "Manchester United"
-      ]
+      "id": "3071f2abdc6837bcb56ec4a9a4bbd9d1",
+      "source": "Sky Sports",
+      "headline": "Duran set to become Celtic’s first summer signing",
+      "description": "",
+      "publishedAt": "2026-07-07T18:22:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-camilo-duran-qarabag_7288786.jpg?20260703122128",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
-      "id": "7a809d26fcadc138f5a31b3a87ec0618",
+      "id": "69d189921427d353c1e6d969a503a02e",
       "source": "Sky Sports",
-      "headline": "'Overturn this' - Belgium mock Trump and FIFA after USA World Cup exit",
-      "description": "Belgium players appeared to mock US President Donald Trump and FIFA after eliminating co-hosts USA from the World Cup.",
-      "publishedAt": "2026-07-07T08:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-romelu-lukaku-belgium_7291816.jpg?20260707101242",
-      "link": "https://www.skysports.com/football/news/12040/13561192/overturn-this-belgium-mock-usa-after-world-cup-exit",
+      "headline": "Aston Villa latest: Onana's ACL rupture confirmed",
+      "description": "",
+      "publishedAt": "2026-07-07T18:15:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "e41b67b387ce353ba296f86a8a75231e",
+      "source": "Sky Sports",
+      "headline": "Argentina come from two down to beat Egypt in World Cup classic",
+      "description": "Argentina produced an astonishing comeback to keep their World Cup alive as they recovered from two down to beat Egypt 3-2 in stoppage-time.",
+      "publishedAt": "2026-07-07T18:14:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-enzo-fernandez-argentina_7292361.jpg?20260707192004",
+      "link": "https://www.skysports.com/football/argentina-vs-egypt/report/549861",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "8692f1f88cc4e36b917deb1cbf3ea63b",
+      "source": "Sky Sports",
+      "headline": "How Messi defied time and his own struggles to conjure epic comeback",
+      "description": "Lionel Messi's career has been intertwined with that of Cristiano Ronaldo for what must seem like forever for the pair. For much of the game against Egypt, Argentina's captain had looked set to follow his old rival out of this World Cup. A sad end loomed.",
+      "publishedAt": "2026-07-07T17:33:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7292367.jpg?20260707192531",
+      "link": "https://www.skysports.com/football/news/12040/13561422/lionel-messi-helped-save-argentinas-world-cup-dream-against-egypt-as-he-defied-time-and-his-own-struggles",
       "tag": "News Story",
       "teams": []
     },
@@ -129,28 +147,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "81800aca41a19ca66a2c880691af9dc1",
-      "source": "Sky Sports",
-      "headline": "Why Ronaldo and Portugal must find new paths",
-      "description": "Cristiano Ronaldo's contribution to the game cannot be questioned. One of the greatest ever to do it on the pitch.",
-      "publishedAt": "2026-07-07T06:40:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-cristiano-ronaldo_7291696.jpg?20260707073626",
-      "link": "https://www.skysports.com/football/news/12040/13561145/cristiano-ronaldo-portugal-captain-meets-natural-end-with-national-team-and-goes-down-as-best-player-to-never-win-world-cup",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "bc4d73bfce253610b94cea254af2034d",
-      "source": "Sky Sports",
-      "headline": "Balogun reprieve ends in anti-climax as Belgium dump USA out",
-      "description": "Folarin Balogun's red card reprieve appeared to hinder rather than help his country as an out-of-sorts USA side were thrashed 4-1 by Belgium to end the co-hosts' World Cup dreams.",
-      "publishedAt": "2026-07-07T02:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-de-ketelaere-belgium_7291624.jpg?20260707014220",
-      "link": "https://www.skysports.com/football/united-states-of-america-vs-belgium/report/549859",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49284362,
@@ -508,6 +504,20 @@
       ]
     },
     {
+      "id": 49237034,
+      "source": "ESPN",
+      "headline": "Portugal ready to honor World Cup's 'extra man' Diogo Jota as anniversary of his death nears",
+      "description": "Portugal forward Diogo Jota died in a car accident a year ago, so when the country take to the pitch against Croatia on Thursday it will be an emotional time.",
+      "publishedAt": "2026-07-02T07:31:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682709_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49237034/portugal-ready-honor-extra-man-diogo-jota-anniversary-death-nears-world-cup",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Portugal"
+      ]
+    },
+    {
       "id": 49234253,
       "source": "ESPN",
       "headline": "Salomon Kalou wants Yan Diomande in Premier League, backs him to make potential PSG move work",
@@ -528,6 +538,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-07T15:11:48.957Z"
+    "cachedAt": "2026-07-07T20:12:23.253Z"
   }
 }
