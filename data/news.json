@@ -2,6 +2,53 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "bc4d73bfce253610b94cea254af2034d",
+      "source": "Sky Sports",
+      "headline": "Balogun reprieve ends in anti-climax as Belgium dump USA out",
+      "description": "Folarin Balogun's red card reprieve appeared to hinder rather than help his country as an out-of-sorts USA side were thrashed 4-1 by Belgium to end the co-hosts' World Cup dreams.",
+      "publishedAt": "2026-07-07T02:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-de-ketelaere-belgium_7291624.jpg?20260707014220",
+      "link": "https://www.skysports.com/football/united-states-of-america-vs-belgium/report/549859",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49284362,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye move for Chelsea's Santos",
+      "description": "Manchester United are looking to strengthen their midfield by signing Andrey Santos from Chelsea. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-06T23:25:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685572_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49284362/transfer-rumors-news-arsenal-eye-wan-bissaka-white-replacement",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "038d3f29a4997a57ffbcb1a43f453e19",
+      "source": "Sky Sports",
+      "headline": "All the key moments and rate the players as Belgium eliminate USA",
+      "description": "",
+      "publishedAt": "2026-07-06T22:30:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-matt-freese-usa_7291625.jpg?20260707023540",
+      "link": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "36a9808df20a8f0aef4eea5183b5abee",
+      "source": "Sky Sports",
+      "headline": "Ronaldo bows out and Martinez steps down as Spain beat Portugal",
+      "description": "Spain laboured to an uninspiring 1-0 victory over Iberian rivals Portugal in their last-16 tie to set up a quarter-final meeting with the winners of USA vs Belgium.",
+      "publishedAt": "2026-07-06T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-mikel-merino-spain_7291571.jpg?20260706221423",
+      "link": "https://www.skysports.com/football/portugal-vs-spain/report/549858",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": "df420ffb519c32ffd00798fd458b6a0c",
       "source": "Sky Sports",
       "headline": "Ipswich latest: Deal agreed for Brazil striker",
@@ -21,6 +68,17 @@
       "image": "https://e1.365dm.com/25/10/1920x1080/skysports-brentford-news-club_7039245.jpg?20251002155849",
       "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "274d6877cc2ebe8eff7e5bacd1998092",
+      "source": "Sky Sports",
+      "headline": "Ronaldo: I won't make any rash decisions on Portugal future",
+      "description": "Cristiano Ronaldo has confirmed he has played in his last World Cup game - but says he won't make any \"rash decisions\" on whether he has played his final game for Portugal.",
+      "publishedAt": "2026-07-06T17:44:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ronaldo-portugal_7291618.jpg?20260707002643",
+      "link": "https://www.skysports.com/football/news/12040/13561089/cristiano-ronaldo-portugal-captain-confirms-he-has-played-his-last-world-cup-match-but-wont-make-rash-decision-on-international-future",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -126,20 +184,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49284362,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal eye Wan-Bissaka as White replacement",
-      "description": "Arsenal are considering 11 different potential players to sign at right back. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-06T11:14:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685229_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49284362/transfer-rumors-news-arsenal-eye-wan-bissaka-white-replacement",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "West Ham United"
-      ]
     },
     {
       "id": 49246543,
@@ -330,12 +374,12 @@
       ]
     },
     {
-      "id": "8d402dc070507c6a37ae54b61717b8d9",
+      "id": "f860d97bdc276cef6b9333ac9116fbd1",
       "source": "Sky Sports",
-      "headline": "Portugal hit the bar as they grow into game vs Spain LIVE!",
+      "headline": "Reaction as Portugal lose to Spain and Ronaldo exits World Cup for final time",
       "description": "",
       "publishedAt": "2026-07-03T11:57:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-spain-portugal_7291501.jpg?20260706203536",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cristiano-ronaldo_7291573.jpg?20260706221649",
       "link": "https://www.skysports.com/football/portugal-vs-spain/live/549858",
       "tag": "Liveblog",
       "teams": []
@@ -527,6 +571,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-06T20:12:26.471Z"
+    "cachedAt": "2026-07-07T04:14:55.965Z"
   }
 }
