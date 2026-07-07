@@ -2,14 +2,14 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "e6140fcd6e17a218ac30d16eb28a3c77",
+      "id": "f223267a890fc2b725f87726e953a0b0",
       "source": "Sky Sports",
-      "headline": "Cristiano Ronaldo's best skills & showboats for Man Utd",
-      "description": "We look back at Cristiano Ronaldo's most outrageous flicks and tricks from his spells in the Premier League with Manchester United.",
-      "publishedAt": "2026-07-07T09:06:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ronaldo-man-utd_7291806.jpg?20260707094708",
-      "link": "https://www.skysports.com/watch/video/13561216/cristiano-ronaldos-best-skills-showboats-for-manchester-united",
-      "tag": "Video",
+      "headline": "Wigan Warriors 'appalled' by online racist abuse directed at Nsemba",
+      "description": "Wigan say they are \"appalled\" by racist abuse aimed at Junior Nsemba after their narrow victory over St Helens at Magic Weekend in Liverpool on Sunday.",
+      "publishedAt": "2026-07-07T14:34:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-junior-nsemba-super-league_7292176.jpg?20260707155116",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13561274/wigan-warriors-super-league-club-appalled-at-racist-abuse-aimed-at-junior-nsemba-after-magic-weekend-win-over-st-helens",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -17,7 +17,7 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool ahead of Man United in Mora race",
       "description": "Liverpool have made contact over a move for Mexico wonderkid Gilberto Mora. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-07T08:07:59Z",
+      "publishedAt": "2026-07-07T10:53:40Z",
       "image": "https://a.espncdn.com/photo/2026/0608/r1669799_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49293765/transfer-rumors-news-liverpool-ahead-man-united-mora-race",
       "tag": "Tijuana",
@@ -165,28 +165,6 @@
         "Chelsea",
         "Manchester United"
       ]
-    },
-    {
-      "id": "29ad6b04e673489e0a540d15091b0647",
-      "source": "Sky Sports",
-      "headline": "Ronaldo bows out and Martinez steps down as Portugal beaten by Spain",
-      "description": "Spain laboured to an uninspiring 1-0 victory over Iberian rivals Portugal in their last-16 tie to set up a quarter-final meeting with resurgent Belgium.",
-      "publishedAt": "2026-07-06T21:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-mikel-merino-spain_7291571.jpg?20260706221423",
-      "link": "https://www.skysports.com/football/portugal-vs-spain/report/549858",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "274d6877cc2ebe8eff7e5bacd1998092",
-      "source": "Sky Sports",
-      "headline": "Ronaldo: I won't make any rash decisions on Portugal future",
-      "description": "Cristiano Ronaldo has confirmed he has played in his last World Cup game - but says he won't make any \"rash decisions\" on whether he has played his final game for Portugal.",
-      "publishedAt": "2026-07-06T17:44:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ronaldo-portugal_7291618.jpg?20260707002643",
-      "link": "https://www.skysports.com/football/news/12040/13561089/cristiano-ronaldo-portugal-captain-confirms-he-has-played-his-last-world-cup-match-but-wont-make-rash-decision-on-international-future",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49287410,
@@ -550,6 +528,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-07T09:58:42.513Z"
+    "cachedAt": "2026-07-07T15:11:48.957Z"
   }
 }
