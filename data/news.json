@@ -2,154 +2,11 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49301192,
-      "source": "ESPN",
-      "headline": "Premier League clubs' pre-tax losses up over 600% - report",
-      "description": "The combined pre-tax losses of Premier League clubs climbed over 600% in the space of one year, according to a new report.",
-      "publishedAt": "2026-07-08T00:01:50Z",
-      "image": "https://a.espncdn.com/photo/2025/0604/r1502281_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49301192/premier-league-club-finances-pre-tax-losses-deloitte-football-finance",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Newcastle United",
-        "Tottenham Hotspur",
-        "Aston Villa",
-        "Brighton & Hove Albion",
-        "Crystal Palace",
-        "Fulham",
-        "West Ham United",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49151991,
-      "source": "ESPN",
-      "headline": "Álvaro Arbeloa appointed Fulham boss after Real Madrid exit",
-      "description": "Álvaro Arbeloa has been appointed head coach at Fulham having left Real Madrid last season.",
-      "publishedAt": "2026-07-07T23:27:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0119/r1602756_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49151991/alvaro-arbeloa-appointed-fulham-boss-real-madrid-exit",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham"
-      ]
-    },
-    {
-      "id": "de6e9f9a0a5d55fcc688410899b5f720",
-      "source": "Sky Sports",
-      "headline": "Switzerland break Colombian hearts with first shoot-out success",
-      "description": "Switzerland held their nerve to edge a tight and cagey contest with a 4-3 penalty shoot-out success over unfortunate Colombia and seal a quarter-final meeting with World Cup holders Argentina on Saturday.",
-      "publishedAt": "2026-07-07T22:59:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ruben-vargas-switzerland_7292558.jpg?20260708005558",
-      "link": "https://www.skysports.com/football/switzerland-vs-colombia/report/549860",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "f7a82191878fa1a3be48cf67b560a6ad",
-      "source": "Sky Sports",
-      "headline": "Ed Sheeran plays gig for England squad as he backs team for World Cup glory",
-      "description": "",
-      "publishedAt": "2026-07-07T20:47:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "579a73bd665a7367e6a61a64faeeaf57",
-      "source": "Sky Sports",
-      "headline": "Newcastle latest: Teenager arrives for medical ahead of move from Ajax",
-      "description": "",
-      "publishedAt": "2026-07-07T18:40:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "3071f2abdc6837bcb56ec4a9a4bbd9d1",
-      "source": "Sky Sports",
-      "headline": "Duran set to become Celtic’s first summer signing",
-      "description": "",
-      "publishedAt": "2026-07-07T18:22:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-camilo-duran-qarabag_7288786.jpg?20260703122128",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "69d189921427d353c1e6d969a503a02e",
-      "source": "Sky Sports",
-      "headline": "Aston Villa latest: Onana's ACL rupture confirmed",
-      "description": "",
-      "publishedAt": "2026-07-07T18:15:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "e41b67b387ce353ba296f86a8a75231e",
-      "source": "Sky Sports",
-      "headline": "Argentina come from two down to beat Egypt in World Cup classic",
-      "description": "Argentina produced an astonishing comeback to keep their World Cup alive as they recovered from two down to beat Egypt 3-2 in stoppage-time.",
-      "publishedAt": "2026-07-07T18:14:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-enzo-fernandez-argentina_7292361.jpg?20260707192004",
-      "link": "https://www.skysports.com/football/argentina-vs-egypt/report/549861",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "8692f1f88cc4e36b917deb1cbf3ea63b",
-      "source": "Sky Sports",
-      "headline": "How Messi defied time and his own struggles to conjure epic comeback",
-      "description": "Lionel Messi's career has been intertwined with that of Cristiano Ronaldo for what must seem like forever for the pair. For much of the game against Egypt, Argentina's captain had looked set to follow his old rival out of this World Cup. A sad end loomed.",
-      "publishedAt": "2026-07-07T17:33:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7292367.jpg?20260707192531",
-      "link": "https://www.skysports.com/football/news/12040/13561422/lionel-messi-helped-save-argentinas-world-cup-dream-against-egypt-as-he-defied-time-and-his-own-struggles",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-07T07:32:29Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
       "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-07T07:22:51Z",
+      "publishedAt": "2026-07-08T07:57:10Z",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "tag": "Arsenal",
@@ -181,7 +38,7 @@
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-07T07:01:38Z",
+      "publishedAt": "2026-07-08T07:53:15Z",
       "image": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "tag": "Arsenal",
@@ -206,6 +63,118 @@
         "Coventry City",
         "Hull City",
         "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49301192,
+      "source": "ESPN",
+      "headline": "Premier League clubs' pre-tax losses up over 600% - report",
+      "description": "The combined pre-tax losses of Premier League clubs climbed over 600% in the space of one year, according to a new report.",
+      "publishedAt": "2026-07-08T07:46:14Z",
+      "image": "https://a.espncdn.com/photo/2025/0604/r1502281_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49301192/premier-league-club-finances-pre-tax-losses-deloitte-football-finance",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Newcastle United",
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Brighton & Hove Albion",
+        "Crystal Palace",
+        "Fulham",
+        "West Ham United",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49151991,
+      "source": "ESPN",
+      "headline": "Álvaro Arbeloa appointed Fulham boss after Real Madrid exit",
+      "description": "Álvaro Arbeloa has been appointed head coach at Fulham having left Real Madrid last season.",
+      "publishedAt": "2026-07-08T07:44:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0119/r1602756_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49151991/alvaro-arbeloa-appointed-fulham-boss-real-madrid-exit",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham"
+      ]
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-08T07:42:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "de6e9f9a0a5d55fcc688410899b5f720",
+      "source": "Sky Sports",
+      "headline": "Switzerland break Colombian hearts with first shoot-out success",
+      "description": "Switzerland held their nerve to edge a tight and cagey contest with a 4-3 penalty shoot-out success over unfortunate Colombia and seal a quarter-final meeting with World Cup holders Argentina on Saturday.",
+      "publishedAt": "2026-07-07T22:59:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ruben-vargas-switzerland_7292558.jpg?20260708005558",
+      "link": "https://www.skysports.com/football/switzerland-vs-colombia/report/549860",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "579a73bd665a7367e6a61a64faeeaf57",
+      "source": "Sky Sports",
+      "headline": "Newcastle latest: Teenager arrives for medical ahead of move from Ajax",
+      "description": "",
+      "publishedAt": "2026-07-07T18:40:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-07T07:32:29Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
       ]
     },
     {
@@ -246,30 +215,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-06T14:42:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -567,6 +512,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-08T03:41:50.710Z"
+    "cachedAt": "2026-07-08T08:42:23.149Z"
   }
 }
