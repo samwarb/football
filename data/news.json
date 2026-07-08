@@ -2,6 +2,66 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49301192,
+      "source": "ESPN",
+      "headline": "Premier League clubs' pre-tax losses up over 600% - report",
+      "description": "The combined pre-tax losses of Premier League clubs climbed over 600% in the space of one year, according to a new report.",
+      "publishedAt": "2026-07-08T00:01:50Z",
+      "image": "https://a.espncdn.com/photo/2025/0604/r1502281_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49301192/premier-league-club-finances-pre-tax-losses-deloitte-football-finance",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Newcastle United",
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Brighton & Hove Albion",
+        "Crystal Palace",
+        "Fulham",
+        "West Ham United",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49151991,
+      "source": "ESPN",
+      "headline": "Álvaro Arbeloa appointed Fulham boss after Real Madrid exit",
+      "description": "Álvaro Arbeloa has been appointed head coach at Fulham having left Real Madrid last season.",
+      "publishedAt": "2026-07-07T23:27:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0119/r1602756_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49151991/alvaro-arbeloa-appointed-fulham-boss-real-madrid-exit",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham"
+      ]
+    },
+    {
+      "id": "de6e9f9a0a5d55fcc688410899b5f720",
+      "source": "Sky Sports",
+      "headline": "Switzerland break Colombian hearts with first shoot-out success",
+      "description": "Switzerland held their nerve to edge a tight and cagey contest with a 4-3 penalty shoot-out success over unfortunate Colombia and seal a quarter-final meeting with World Cup holders Argentina on Saturday.",
+      "publishedAt": "2026-07-07T22:59:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ruben-vargas-switzerland_7292558.jpg?20260708005558",
+      "link": "https://www.skysports.com/football/switzerland-vs-colombia/report/549860",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "f7a82191878fa1a3be48cf67b560a6ad",
+      "source": "Sky Sports",
+      "headline": "Ed Sheeran plays gig for England squad as he backs team for World Cup glory",
+      "description": "",
+      "publishedAt": "2026-07-07T20:47:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": "579a73bd665a7367e6a61a64faeeaf57",
       "source": "Sky Sports",
       "headline": "Newcastle latest: Teenager arrives for medical ahead of move from Ajax",
@@ -502,42 +562,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 49237034,
-      "source": "ESPN",
-      "headline": "Portugal ready to honor World Cup's 'extra man' Diogo Jota as anniversary of his death nears",
-      "description": "Portugal forward Diogo Jota died in a car accident a year ago, so when the country take to the pitch against Croatia on Thursday it will be an emotional time.",
-      "publishedAt": "2026-07-02T07:31:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682709_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49237034/portugal-ready-honor-extra-man-diogo-jota-anniversary-death-nears-world-cup",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Portugal"
-      ]
-    },
-    {
-      "id": 49234253,
-      "source": "ESPN",
-      "headline": "Salomon Kalou wants Yan Diomande in Premier League, backs him to make potential PSG move work",
-      "description": "Yan Diomande is seemingly close to a move to Paris Saint-Germain after Ivory Coast exited the World Cup, and Salomon Kalou has backed him to succeed.",
-      "publishedAt": "2026-07-02T07:31:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682564_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49234253/salomon-kalou-wants-yan-diomande-premier-league-backs-make-potential-psg-move-work",
-      "tag": "Paris Saint-Germain",
-      "teams": [
-        "Paris Saint-Germain",
-        "Liverpool",
-        "Ivory Coast",
-        "Chelsea",
-        "RB Leipzig"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-07T20:12:23.253Z"
+    "cachedAt": "2026-07-08T03:41:50.710Z"
   }
 }
