@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "31aa5927d054b8a452c3441414d805d5",
+      "source": "Sky Sports",
+      "headline": "Palace latest: Japan star Kamada pens new deal",
+      "description": "",
+      "publishedAt": "2026-07-08T12:04:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "7cc32d1a5d4b8ebb7ec2d624b8eb74b0",
+      "source": "Sky Sports",
+      "headline": "England's right-back crisis continues - what are the options vs Norway?",
+      "description": "England’s defensive defiance in Mexico City was magnificent. But next comes the reality check: Norway in Miami with a patched-up back-line.",
+      "publishedAt": "2026-07-08T11:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-england_7292749.jpg?20260708100111",
+      "link": "https://www.skysports.com/football/news/12040/13561537/englands-right-back-crisis-reece-james-djed-spence-ezri-konsa-who-starts-in-world-cup-quarter-final-against-norway",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -126,28 +148,6 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "de6e9f9a0a5d55fcc688410899b5f720",
-      "source": "Sky Sports",
-      "headline": "Switzerland break Colombian hearts with first shoot-out success",
-      "description": "Switzerland held their nerve to edge a tight and cagey contest with a 4-3 penalty shoot-out success over unfortunate Colombia and seal a quarter-final meeting with World Cup holders Argentina on Saturday.",
-      "publishedAt": "2026-07-07T22:59:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ruben-vargas-switzerland_7292558.jpg?20260708005558",
-      "link": "https://www.skysports.com/football/switzerland-vs-colombia/report/549860",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "579a73bd665a7367e6a61a64faeeaf57",
-      "source": "Sky Sports",
-      "headline": "Newcastle latest: Teenager arrives for medical ahead of move from Ajax",
-      "description": "",
-      "publishedAt": "2026-07-07T18:40:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -507,11 +507,22 @@
       "teams": [
         "Liverpool"
       ]
+    },
+    {
+      "id": "ea37125dd31501b96f2e8f55a845cb6c",
+      "source": "Sky Sports",
+      "headline": "Benitez 'open' to Scotland job",
+      "description": "",
+      "publishedAt": "2026-06-29T09:18:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-benitez-rafa_7292889.jpg?20260708122345",
+      "link": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-08T08:42:23.149Z"
+    "cachedAt": "2026-07-08T14:38:49.217Z"
   }
 }
