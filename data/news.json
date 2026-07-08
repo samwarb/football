@@ -2,24 +2,124 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "31aa5927d054b8a452c3441414d805d5",
+      "id": 49308571,
+      "source": "ESPN",
+      "headline": "Ruben Amorim: I made mistakes at Man United",
+      "description": "Ruben Amorim: I made mistakes at Man United",
+      "publishedAt": "2026-07-08T19:30:49Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Ruben_Amorim_I_made_mistakes_at_Man_United/dm_260708_Ruben_Amorim_I_made_mistakes_at_Man_United.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49308571/made-mistakes-man-united",
+      "tag": "AC Milan",
+      "teams": [
+        "AC Milan",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "48ac9cddc565fb21f61001c1323be585",
       "source": "Sky Sports",
-      "headline": "Palace latest: Japan star Kamada pens new deal",
-      "description": "",
-      "publishedAt": "2026-07-08T12:04:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
+      "headline": "Newcastle captain Guimaraes tells club he wants to join Arsenal",
+      "description": "Newcastle captain Bruno Guimaraes has told the club he wants to join Arsenal, it has been confirmed to Sky Sports News .",
+      "publishedAt": "2026-07-08T19:09:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-newcastle-bruno-bruno-guimaraes_7293252.jpg?20260708201537",
+      "link": "https://www.skysports.com/football/news/12040/13561780/bruno-guimaraes-transfer-news-newcastle-captain-tells-club-he-wants-to-join-arsenal-after-world-cup-exit-with-brazil",
+      "tag": "News Story",
       "teams": []
     },
     {
-      "id": "7cc32d1a5d4b8ebb7ec2d624b8eb74b0",
+      "id": 49307048,
+      "source": "ESPN",
+      "headline": "Ruben Amorim: I made mistakes with Manchester United",
+      "description": "Ruben Amorim has admitted to making mistakes during his time as Manchester United boss but said he learned a lot during his time at Old Trafford.",
+      "publishedAt": "2026-07-08T18:45:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686462_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49307048/ruben-amorim-made-mistakes-manchester-united-ac-milan",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "AC Milan"
+      ]
+    },
+    {
+      "id": 49308011,
+      "source": "ESPN",
+      "headline": "Ipswich Town confirm signing of Brazilian striker Emersonn from Toulouse",
+      "description": "Ipswich have announced the signing of Brazilian striker Emersonn from Toulouse.",
+      "publishedAt": "2026-07-08T18:09:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686517_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49308011/ipswich-town-confirm-signing-brazilian-striker-emersonn-toulouse",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town",
+        "Toulouse"
+      ]
+    },
+    {
+      "id": "1af8deb6e86259e51273d56967d8b434",
       "source": "Sky Sports",
-      "headline": "England's right-back crisis continues - what are the options vs Norway?",
-      "description": "England’s defensive defiance in Mexico City was magnificent. But next comes the reality check: Norway in Miami with a patched-up back-line.",
-      "publishedAt": "2026-07-08T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-england_7292749.jpg?20260708100111",
-      "link": "https://www.skysports.com/football/news/12040/13561537/englands-right-back-crisis-reece-james-djed-spence-ezri-konsa-who-starts-in-world-cup-quarter-final-against-norway",
+      "headline": "Leeds sign free agent Wilson after Fulham exit",
+      "description": "Leeds have completed a deal to sign Harry Wilson on a free transfer following his departure from Fulham.",
+      "publishedAt": "2026-07-08T17:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-wilson-fulham_7281593.jpg?20260624114945",
+      "link": "https://www.skysports.com/football/news/12040/13561731/harry-wilson-to-leeds-united-wales-international-makes-elland-road-switch-after-leaving-fulham",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "4b51f8a086683993ea00c677a008968c",
+      "source": "Sky Sports",
+      "headline": "Man Utd agree £50m deal for Chelsea midfielder Santos",
+      "description": "Manchester United have agreed a £50m deal to sign Chelsea midfielder Andrey Santos.",
+      "publishedAt": "2026-07-08T16:27:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-andrey-santos-premier-league_7253528.jpg?20260519214554",
+      "link": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-08T16:25:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": "b888cc608650cac17714e32eef35a682",
+      "source": "Sky Sports",
+      "headline": "Putellas has power to change the WSL - why is she joining London City?",
+      "description": "London City Lionesses made a sensational bid for Alexia Putellas earlier this summer, and finally, a deal has been struck. The two-time Ballon d’Or winner is theirs. How have they managed to pull off one of the biggest shock signings of, well, ever?",
+      "publishedAt": "2026-07-08T14:40:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-alexia-putellas-london-city-lionesses_7293081.jpg?20260708155528",
+      "link": "https://www.skysports.com/football/news/12040/13556749/alexia-putellas-transfer-barcelona-and-spain-star-completes-womens-super-league-move-why-london-city-lionesses",
+      "tag": "Feature Story",
+      "teams": []
+    },
+    {
+      "id": "4982829d895d8f62b88c08a990149e24",
+      "source": "Sky Sports",
+      "headline": "Superstars, politics and hydration breaks: Themes of the World Cup so far",
+      "description": "A rest day at the World Cup provides the opportunity to take stock of how the biggest-ever edition has gone so far.",
+      "publishedAt": "2026-07-08T14:39:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-2026-harry-kane_7293120.jpg?20260708165044",
+      "link": "https://www.skysports.com/football/news/12040/13561711/world-cup-2026-superstar-players-politics-and-hydration-breaks-among-the-standout-themes-of-tournament-so-far",
       "tag": "News Story",
       "teams": []
     },
@@ -123,30 +223,6 @@
       "tag": "Fulham",
       "teams": [
         "Fulham"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-08T07:42:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -454,34 +530,6 @@
       ]
     },
     {
-      "id": 49247312,
-      "source": "ESPN",
-      "headline": "Man City confirm deal to sign Elliot Anderson from Nottingham Forest",
-      "description": "Manchester City have reached an agreement with Nottingham Forest to sign Elliot Anderson, the club have confirmed.",
-      "publishedAt": "2026-07-02T14:27:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0611/r1671254_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49247312/man-city-announce-deal-sign-elliot-anderson-nottingham-forest",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49229881,
-      "source": "ESPN",
-      "headline": "Tottenham sign Mateus Fernandes from West Ham in club-record £85m transfer",
-      "description": "Tottenham Hotspur have announced the signing of midfielder Mateus Fernandes from West Ham.",
-      "publishedAt": "2026-07-02T14:27:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682316_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49229881/tottenham-hotspur-sign-mateus-fernandes-west-ham-united-club-record-85m-premier-league-transfer",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "West Ham United"
-      ]
-    },
-    {
       "id": 49039938,
       "source": "ESPN",
       "headline": "Why Man City spent so much to sign Forest's Elliot Anderson",
@@ -496,33 +544,20 @@
       ]
     },
     {
-      "id": 49247275,
-      "source": "ESPN",
-      "headline": "Liverpool confirm appointment of Andoni Iraola coaching staff",
-      "description": "Liverpool have confirmed the appointment of four new staff as head coach Andoni Iraola looks to bolster his back room team.",
-      "publishedAt": "2026-07-02T12:53:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683261_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49247275/liverpool-confirm-appointment-andoni-iraola-coaching-staff",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ea37125dd31501b96f2e8f55a845cb6c",
+      "id": "8fbd93e3631023117ffd8b7c00a4a07b",
       "source": "Sky Sports",
-      "headline": "Benitez 'open' to Scotland job",
-      "description": "",
-      "publishedAt": "2026-06-29T09:18:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-benitez-rafa_7292889.jpg?20260708122345",
-      "link": "https://www.skysports.com/football/live-blog/12040/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
-      "tag": "Liveblog",
+      "headline": "London City Lionesses complete landmark signing of Putellas",
+      "description": "London City Lionesses have completed the landmark signing of free agent Alexia Putellas following her departure from Barcelona.",
+      "publishedAt": "2026-05-26T14:30:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-alexia-putellas-london-city-lionesses_7292885.jpg?20260708121709",
+      "link": "https://www.skysports.com/football/news/12040/13548205/alexia-putellas-news-barcelona-and-spain-midfielder-joins-london-city-lionesses-on-a-free-transfer",
+      "tag": "News Story",
       "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-08T14:38:49.217Z"
+    "cachedAt": "2026-07-08T19:53:25.399Z"
   }
 }
