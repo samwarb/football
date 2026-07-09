@@ -2,6 +2,19 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49309863,
+      "source": "ESPN",
+      "headline": "Man City confirm appointment of Enzo Maresca's coaching staff",
+      "description": "Manchester City have confirmed the coaching staff set to join Enzo Maresca at the Etihad Stadium.",
+      "publishedAt": "2026-07-08T23:37:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686624_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49309863/man-city-confirm-appointment-enzo-maresca-coaching-staff",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": 49308571,
       "source": "ESPN",
       "headline": "Ruben Amorim: I made mistakes at Man United",
@@ -530,20 +543,6 @@
       ]
     },
     {
-      "id": 49039938,
-      "source": "ESPN",
-      "headline": "Why Man City spent so much to sign Forest's Elliot Anderson",
-      "description": "Manchester City have agreed a club-record deal to sign Nottingham Forest and England midfielder Elliot Anderson. But why?",
-      "publishedAt": "2026-07-02T13:03:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1650945_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49039938/a-premier-league-star-why-man-city-spent-much-sign-nottingham-forest-elliot-anderson",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Nottingham Forest"
-      ]
-    },
-    {
       "id": "8fbd93e3631023117ffd8b7c00a4a07b",
       "source": "Sky Sports",
       "headline": "London City Lionesses complete landmark signing of Putellas",
@@ -558,6 +557,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-08T19:53:25.399Z"
+    "cachedAt": "2026-07-09T04:11:11.022Z"
   }
 }
