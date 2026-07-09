@@ -2,6 +2,67 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "3fc4928c45661a4e6229138d59eb4478",
+      "source": "Sky Sports",
+      "headline": "France vs Morocco LIVE!",
+      "description": "",
+      "publishedAt": "2026-07-09T18:30:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-kylian-mbappe-lucas-digne_7294064.jpg?20260709203650",
+      "link": "https://www.skysports.com/football/france-vs-morocco/live/549862",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49312380,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal must pay British-record fee to sign Villa's Rogers",
+      "description": "Arsenal want Morgan Rogers, but Aston Villa have informed the Gunners it will take a British-record fee to sign him. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-09T17:49:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0515/r1658710_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49312380/transfer-rumors-news-arsenal-tottenham-rb-leipzig-norway-antonio-nusa",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": "0e3b4b1f7d9fe7c6b02753b9235e284b",
+      "source": "Sky Sports",
+      "headline": "Quansah banned for two games after red card vs Mexico",
+      "description": "England defender Jarell Quansah has been banned for two matches following his red card in their World Cup last-16 victory over Mexico.",
+      "publishedAt": "2026-07-09T16:46:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jarell-quansah-england_7290623.jpg?20260705213809",
+      "link": "https://www.skysports.com/football/news/12040/13562035/jarrell-quansah-banned-for-two-world-cup-games-for-red-card-vs-mexico",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49315695,
+      "source": "ESPN",
+      "headline": "Brentford announce signing of Callum Wilson on free transfer after West Ham departure",
+      "description": "Brentford have signed Callum Wilson on a free transfer after the striker's departure from West Ham United.",
+      "publishedAt": "2026-07-09T16:33:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686890_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49315695/brentford-sign-callum-wilson-premier-league-free-transfer-west-ham",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "f9530fe7410c7b0be6f5b5e789636d15",
+      "source": "Sky Sports",
+      "headline": "Haaland: England should be confident - the pressure is on them",
+      "description": "Norway's Erling Haaland says England should rightly feel confident ahead of the quarter-final clash between the two sides, insisting the pressure is firmly on Thomas Tuchel's side to progress.",
+      "publishedAt": "2026-07-09T15:53:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-haaland-norway_7275412.jpg?20260617092009",
+      "link": "https://www.skysports.com/football/news/12040/13562015/erling-haaland-says-england-should-be-confident-for-their-world-cup-tie-with-norway-and-says-pressure-is-firmly-on-thomas-tuchels-men",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49314347,
       "source": "ESPN",
       "headline": "Arsenal sign goalkeeper Illan Meslier following Leeds exit",
@@ -12,44 +73,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "6f8218d8851198e13d26d4f555030faf",
-      "source": "Sky Sports",
-      "headline": "Is Man Utd's midfield rebuild going to plan?",
-      "description": "Manchester United had plans to rebuild their midfield with top signings this summer and despite falling short in the search for a number of targets, progress is now being made on arrivals.",
-      "publishedAt": "2026-07-09T12:00:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-michael-carrick-man-utd_7232744.jpg?20260427233553",
-      "link": "https://www.skysports.com/football/news/12040/13561668/man-utd-transfer-news-is-the-old-trafford-midfield-rebuild-going-to-plan-as-michael-carricks-side-prepare-for-2026-27",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "0852eca1294673bcc19e2d0365d1665f",
-      "source": "Sky Sports",
-      "headline": "British South Asians in football: Team of the Season 2025/26",
-      "description": "It has been another breakthrough campaign for British South Asians in football, but who makes it into the 2025/26 Team of the Season?",
-      "publishedAt": "2026-07-09T11:45:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-dilan-markanday-millie_7293632.jpg?20260709121016",
-      "link": "https://www.skysports.com/football/news/12040/13561828/x",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49312380,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Spurs to battle over Nusa",
-      "description": "Norway's RB Leipzig winger Antonio Nusa is a target for North London rivals Arsenal and Tottenham Hotspur. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-09T09:56:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686743_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49312380/transfer-rumors-news-arsenal-tottenham-rb-leipzig-norway-antonio-nusa",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Tottenham Hotspur",
-        "RB Leipzig",
-        "Norway"
       ]
     },
     {
@@ -303,17 +326,6 @@
       ]
     },
     {
-      "id": "251e83a151b8ea6200cb5b758d4504a5",
-      "source": "Sky Sports",
-      "headline": "Arsenal sign former Leeds goalkeeper Meslier",
-      "description": "Illan Meslier has joined Arsenal on a free transfer after being released by Leeds United last week.",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "image": "https://e2.365dm.com/21/08/1920x1080/skysports-illan-meslier-leeds-united_5477315.jpg?20210813110227",
-      "link": "https://www.skysports.com/football/news/12040/13561962/illan-meslier-to-arsenal-gunners-sign-former-leeds-goalkeeper-on-free-transfer",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": "04047b2b62ec875b6095a47105c428e9",
       "source": "Sky Sports",
       "headline": "Norway vs England: What's on the agenda ahead of kick-off in Miami?",
@@ -513,25 +525,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/49256844/riyad-mahrez-announces-international-retirement-algeria-world-cup-exit",
       "tag": "HeadlineNews",
       "teams": []
-    },
-    {
-      "id": 49256447,
-      "source": "ESPN",
-      "headline": "Real Madrid deny interest in signing Chelsea's Enzo Fernández",
-      "description": "Real Madrid have stated they have not registered any interest in signing Enzo Fernández from Chelsea and have no intention to do so in the future.",
-      "publishedAt": "2026-07-03T09:35:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675619_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49256447/real-madrid-deny-interest-signing-chelsea-enzo-fernandez",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Real Madrid"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-09T15:31:42.611Z"
+    "cachedAt": "2026-07-09T20:02:20.990Z"
   }
 }
