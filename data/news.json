@@ -2,6 +2,57 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49314347,
+      "source": "ESPN",
+      "headline": "Arsenal sign goalkeeper Illan Meslier following Leeds exit",
+      "description": "Arsenal have announced the signing of 26-year-old goalkeeper Illan Meslier from Leeds United.",
+      "publishedAt": "2026-07-09T13:26:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686807_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49314347/arsenal-sign-goalkeeper-illan-meslier-leeds",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6f8218d8851198e13d26d4f555030faf",
+      "source": "Sky Sports",
+      "headline": "Is Man Utd's midfield rebuild going to plan?",
+      "description": "Manchester United had plans to rebuild their midfield with top signings this summer and despite falling short in the search for a number of targets, progress is now being made on arrivals.",
+      "publishedAt": "2026-07-09T12:00:00.000Z",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-michael-carrick-man-utd_7232744.jpg?20260427233553",
+      "link": "https://www.skysports.com/football/news/12040/13561668/man-utd-transfer-news-is-the-old-trafford-midfield-rebuild-going-to-plan-as-michael-carricks-side-prepare-for-2026-27",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "0852eca1294673bcc19e2d0365d1665f",
+      "source": "Sky Sports",
+      "headline": "British South Asians in football: Team of the Season 2025/26",
+      "description": "It has been another breakthrough campaign for British South Asians in football, but who makes it into the 2025/26 Team of the Season?",
+      "publishedAt": "2026-07-09T11:45:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-dilan-markanday-millie_7293632.jpg?20260709121016",
+      "link": "https://www.skysports.com/football/news/12040/13561828/x",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49312380,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, Spurs to battle over Nusa",
+      "description": "Norway's RB Leipzig winger Antonio Nusa is a target for North London rivals Arsenal and Tottenham Hotspur. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-09T09:56:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686743_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49312380/transfer-rumors-news-arsenal-tottenham-rb-leipzig-norway-antonio-nusa",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Tottenham Hotspur",
+        "RB Leipzig",
+        "Norway"
+      ]
+    },
+    {
       "id": 49312786,
       "source": "ESPN",
       "headline": "Man United reveal location for new 100,000-seater stadium",
@@ -39,22 +90,6 @@
       "tag": "Fulham",
       "teams": [
         "Fulham"
-      ]
-    },
-    {
-      "id": 49312380,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Spurs to battle over Nusa",
-      "description": "Norway's RB Leipzig winger Antonio Nusa is a target for North London rivals Arsenal and Tottenham Hotspur. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-09T08:11:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686743_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49312380/transfer-rumors-news-arsenal-tottenham-rb-leipzig-norway-antonio-nusa",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Tottenham Hotspur",
-        "RB Leipzig",
-        "Norway"
       ]
     },
     {
@@ -150,17 +185,6 @@
       ]
     },
     {
-      "id": "2b3bd1d900a4403332a1712fb9a6dbee",
-      "source": "Sky Sports",
-      "headline": "Papers: England set to get bank holiday IF Three Lions win World Cup",
-      "description": "The top stories and transfer rumours from Thursday's newspapers...",
-      "publishedAt": "2026-07-09T06:35:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13561845/world-cup-2026-england-set-to-get-bank-holiday-if-three-lions-win-world-cup-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49309863,
       "source": "ESPN",
       "headline": "Man City confirm appointment of Enzo Maresca's coaching staff",
@@ -186,17 +210,6 @@
         "AC Milan",
         "Manchester United"
       ]
-    },
-    {
-      "id": "48ac9cddc565fb21f61001c1323be585",
-      "source": "Sky Sports",
-      "headline": "Newcastle captain Guimaraes tells club he wants to join Arsenal",
-      "description": "Newcastle captain Bruno Guimaraes has told the club he wants to join Arsenal, it has been confirmed to Sky Sports News .",
-      "publishedAt": "2026-07-08T19:09:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-newcastle-bruno-bruno-guimaraes_7293252.jpg?20260708201537",
-      "link": "https://www.skysports.com/football/news/12040/13561780/bruno-guimaraes-transfer-news-newcastle-captain-tells-club-he-wants-to-join-arsenal-after-world-cup-exit-with-brazil",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49307048,
@@ -225,28 +238,6 @@
         "Ipswich Town",
         "Toulouse"
       ]
-    },
-    {
-      "id": "1af8deb6e86259e51273d56967d8b434",
-      "source": "Sky Sports",
-      "headline": "Leeds sign free agent Wilson after Fulham exit",
-      "description": "Leeds have completed a deal to sign Harry Wilson on a free transfer following his departure from Fulham.",
-      "publishedAt": "2026-07-08T17:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-wilson-fulham_7281593.jpg?20260624114945",
-      "link": "https://www.skysports.com/football/news/12040/13561731/harry-wilson-to-leeds-united-wales-international-makes-elland-road-switch-after-leaving-fulham",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "4b51f8a086683993ea00c677a008968c",
-      "source": "Sky Sports",
-      "headline": "Man Utd agree £50m deal for Chelsea midfielder Santos",
-      "description": "Manchester United have agreed a £50m deal to sign Chelsea midfielder Andrey Santos.",
-      "publishedAt": "2026-07-08T16:27:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-andrey-santos-premier-league_7253528.jpg?20260519214554",
-      "link": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -310,6 +301,28 @@
       "teams": [
         "Fulham"
       ]
+    },
+    {
+      "id": "251e83a151b8ea6200cb5b758d4504a5",
+      "source": "Sky Sports",
+      "headline": "Arsenal sign former Leeds goalkeeper Meslier",
+      "description": "Illan Meslier has joined Arsenal on a free transfer after being released by Leeds United last week.",
+      "publishedAt": "2026-07-07T16:00:00.000Z",
+      "image": "https://e2.365dm.com/21/08/1920x1080/skysports-illan-meslier-leeds-united_5477315.jpg?20210813110227",
+      "link": "https://www.skysports.com/football/news/12040/13561962/illan-meslier-to-arsenal-gunners-sign-former-leeds-goalkeeper-on-free-transfer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "04047b2b62ec875b6095a47105c428e9",
+      "source": "Sky Sports",
+      "headline": "Norway vs England: What's on the agenda ahead of kick-off in Miami?",
+      "description": "",
+      "publishedAt": "2026-07-07T13:32:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-quarter-final_7290994.jpg?20260706100158",
+      "link": "https://www.skysports.com/football/norway-vs-england/live/549864",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49284362,
@@ -514,25 +527,11 @@
         "Chelsea",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 49245978,
-      "source": "ESPN",
-      "headline": "Ghana's Brandon Thomas-Asante showing why he belongs in the Premier League with Coventry",
-      "description": "The Black Stars forward's journey has taken him from non-league football and the lower reaches of the English pyramid to the Premier League with Coventry City and now, to the biggest stage of all - representing Ghana in the World Cup knockouts.",
-      "publishedAt": "2026-07-03T08:04:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683209_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49245978/ghana-brandon-thomas-asante-showing-why-belongs-premier-league-coventry",
-      "tag": "Ghana",
-      "teams": [
-        "Ghana",
-        "Coventry City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-09T09:55:28.134Z"
+    "cachedAt": "2026-07-09T15:31:42.611Z"
   }
 }
