@@ -2,12 +2,34 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "3fc4928c45661a4e6229138d59eb4478",
+      "id": "54160e966501fc29a640905989b98064",
       "source": "Sky Sports",
-      "headline": "France vs Morocco LIVE!",
+      "headline": "Mbappe mirrors Messi magic as World Cup's greatest storyline rolls on",
+      "description": "This summer's World Cup has been one of the most fascinating on the pitch in recent memory. Not because of the teams. Because of two men.",
+      "publishedAt": "2026-07-09T23:10:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kylian-mbappe_7294194.jpg?20260709232130",
+      "link": "https://www.skysports.com/football/news/12040/13562058/kylian-mbappe-produces-a-copy-paste-performance-as-his-world-cup-battle-with-lionel-messi-continues-to-produce-magic",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "ba5c6da9eb424162e2763600c9b6eed9",
+      "source": "Sky Sports",
+      "headline": "Papers: EU lawmakers call for investigation into Balogun 'scandal'",
+      "description": "The top stories and transfer rumours from Friday's newspapers...",
+      "publishedAt": "2026-07-09T22:00:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13562130/x-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "f3696ca2a4afd507a5a529859abcf8a1",
+      "source": "Sky Sports",
+      "headline": "France 2-0 Morocco: All the key moments & rate the players!",
       "description": "",
       "publishedAt": "2026-07-09T18:30:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-kylian-mbappe-lucas-digne_7294064.jpg?20260709203650",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kylian-mbape_7294163.jpg?20260709223210",
       "link": "https://www.skysports.com/football/france-vs-morocco/live/549862",
       "tag": "Liveblog",
       "teams": []
@@ -27,17 +49,6 @@
       ]
     },
     {
-      "id": "0e3b4b1f7d9fe7c6b02753b9235e284b",
-      "source": "Sky Sports",
-      "headline": "Quansah banned for two games after red card vs Mexico",
-      "description": "England defender Jarell Quansah has been banned for two matches following his red card in their World Cup last-16 victory over Mexico.",
-      "publishedAt": "2026-07-09T16:46:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jarell-quansah-england_7290623.jpg?20260705213809",
-      "link": "https://www.skysports.com/football/news/12040/13562035/jarrell-quansah-banned-for-two-world-cup-games-for-red-card-vs-mexico",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49315695,
       "source": "ESPN",
       "headline": "Brentford announce signing of Callum Wilson on free transfer after West Ham departure",
@@ -50,17 +61,6 @@
         "Brentford",
         "West Ham United"
       ]
-    },
-    {
-      "id": "f9530fe7410c7b0be6f5b5e789636d15",
-      "source": "Sky Sports",
-      "headline": "Haaland: England should be confident - the pressure is on them",
-      "description": "Norway's Erling Haaland says England should rightly feel confident ahead of the quarter-final clash between the two sides, insisting the pressure is firmly on Thomas Tuchel's side to progress.",
-      "publishedAt": "2026-07-09T15:53:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-haaland-norway_7275412.jpg?20260617092009",
-      "link": "https://www.skysports.com/football/news/12040/13562015/erling-haaland-says-england-should-be-confident-for-their-world-cup-tie-with-norway-and-says-pressure-is-firmly-on-thomas-tuchels-men",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49314347,
@@ -326,17 +326,6 @@
       ]
     },
     {
-      "id": "04047b2b62ec875b6095a47105c428e9",
-      "source": "Sky Sports",
-      "headline": "Norway vs England: What's on the agenda ahead of kick-off in Miami?",
-      "description": "",
-      "publishedAt": "2026-07-07T13:32:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-quarter-final_7290994.jpg?20260706100158",
-      "link": "https://www.skysports.com/football/norway-vs-england/live/549864",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49284362,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United eye move for Chelsea's Santos",
@@ -412,6 +401,17 @@
       "teams": [
         "Nottingham Forest"
       ]
+    },
+    {
+      "id": "17b55f8f5ee5bda3faec70ecdd0eb256",
+      "source": "Sky Sports",
+      "headline": "Mbappe magic sees off Morocco as France skipper shrugs off penalty miss",
+      "description": "Kylian Mbappe shrugged off a missed penalty to star as France beat Morocco 2-0 in Boston to clinch their spot in the semi-finals of the World Cup.",
+      "publishedAt": "2026-07-05T22:32:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kylian-mbappe-france_7294177.jpg?20260709224224",
+      "link": "https://www.skysports.com/football/france-vs-morocco/report/549862",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49279207,
@@ -530,6 +530,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-09T20:02:20.990Z"
+    "cachedAt": "2026-07-10T04:12:07.465Z"
   }
 }
