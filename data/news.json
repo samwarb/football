@@ -2,6 +2,31 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49322102,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal eye Club Brugge forward to replace Trossard",
+      "description": "Arsenal are set to push forward with an approach for Club Brugge attacking midfielder Christos Tzolis.",
+      "publishedAt": "2026-07-10T18:33:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687374_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49322102/transfer-rumors-news-arsenal-eye-club-brugge-forward-replace-trossard",
+      "tag": "Club Brugge",
+      "teams": [
+        "Club Brugge",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a21ca3b209bf3e6b0e61f4a178ce77a2",
+      "source": "Sky Sports",
+      "headline": "Carra: Why I'd pick Kane over 'greatest goalscorer' Haaland",
+      "description": "Jamie Carragher says Erling Haaland will go down as \"the greatest goalscorer of all time\" - but he'd rather have Harry Kane in his team.",
+      "publishedAt": "2026-07-10T15:52:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-harry-kane-erling-haaland_7294774.jpg?20260710170322",
+      "link": "https://www.skysports.com/football/news/12040/13562351/world-cup-2026-norways-erling-haaland-will-go-down-as-footballs-greatest-goalscorer-says-jamie-carragher-ahead-of-showdown-with-englands-harry-kane",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
@@ -38,32 +63,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "900cb45bfb696218a8ab3c2050f95a96",
-      "source": "Sky Sports",
-      "headline": "Edwards leaves FSG and Liverpool ahead of new season",
-      "description": "Michael Edwards has left his role as chief executive officer (CEO) of football for Fenway Sports Group (FSG), who own Liverpool, leaving the club ahead of the 2026/27 season.",
-      "publishedAt": "2026-07-10T13:25:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-michael-edwards-liverpool_7294614.jpg?20260710142208",
-      "link": "https://www.skysports.com/football/news/12040/13562295/liverpool-latest-michael-edwards-leaves-as-chief-executive-officer-of-football-for-fenway-sports-group",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49322102,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, Newcastle eye Nottingham Forest's Williams",
-      "description": "Manchester United are interested in Nottingham Forest's Neco Williams, but they could face competition to sign him. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-10T12:08:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0515/r1658767_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49322102/transfer-rumors-news-man-united-newcastle-eye-nottingham-forest-neco-williams",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest"
       ]
     },
     {
@@ -333,14 +332,14 @@
       ]
     },
     {
-      "id": "51c56128f56551e030b597d1a1c61cda",
+      "id": "d23399a2a369436b24f66d114ed083ab",
       "source": "Sky Sports",
-      "headline": "Arrest made after online racist abuse directed at Nsemba",
-      "description": "A man has been arrested after racist abuse was aimed at Junior Nsemba after Wigan's narrow victory over St Helens at Magic Weekend in Liverpool.",
-      "publishedAt": "2026-07-07T14:34:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-junior-nsemba-super-league_7292176.jpg?20260710150732",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13562246/wigan-warriors-man-arrested-after-racist-abuse-aimed-at-junior-nsemba-after-magic-weekend-win-over-st-helens",
-      "tag": "News Story",
+      "headline": "Spain concede first World Cup goal as Belgium equalise LIVE!",
+      "description": "",
+      "publishedAt": "2026-07-07T13:22:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lamine-yamal_7294894.jpg?20260710201017",
+      "link": "https://www.skysports.com/football/spain-vs-belgium/live/549863",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -512,6 +511,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-10T14:49:22.419Z"
+    "cachedAt": "2026-07-10T19:49:12.711Z"
   }
 }
