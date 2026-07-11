@@ -2,6 +2,70 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49333624,
+      "source": "ESPN",
+      "headline": "Former Chelsea chairman Ken Bates dies aged 94",
+      "description": "Former Chelsea chairman Ken Bates has died at the age of 94, the club announced on Saturday.",
+      "publishedAt": "2026-07-11T13:43:31Z",
+      "image": "",
+      "link": "https://www.espn.com/soccer/story/_/id/49333624/former-chelsea-chairman-ken-bates-dies-aged-94",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49331445,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Could Man United sign Paraguay GK as Lammens competition?",
+      "description": "Manchester United are rumored to be interested in Paraguay goalkeeper Orlando Gill. Transfer talk has the latest.",
+      "publishedAt": "2026-07-11T13:33:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687673_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49331445/transfer-rumors-news-man-united-sign-paraguay-gk-senne-lammens-competition",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Paraguay"
+      ]
+    },
+    {
+      "id": "a7ec87a9a631dcc99bbd5f993c8b562a",
+      "source": "Sky Sports",
+      "headline": "Chelsea want permanent Garnacho sale this summer",
+      "description": "Chelsea are prepared to sell Alejandro Garnacho for £50m this summer, preferring a permanent departure over a loan proposal.",
+      "publishedAt": "2026-07-11T12:42:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-garnacho-chelsea_7295237.jpg?20260711140636",
+      "link": "https://www.skysports.com/football/news/12040/13562540/chelsea-transfers-alejandro-garnacho-up-for-sale-a-year-after-joining-from-joining-from-manchester-united",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "a5e2ef72135e808e92ded84fc8ab1b7c",
+      "source": "Sky Sports",
+      "headline": "Klopp agrees deal in principle to manage Germany",
+      "description": "Jurgen Klopp is on the verge of becoming Germany's new head coach after reaching an agreement in principle with the German Football Association [DFB], according to reports in Germany.",
+      "publishedAt": "2026-07-11T12:30:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-germany_7286318.jpg?20260630091239",
+      "link": "https://www.skysports.com/football/news/12040/13560208/jurgen-klopp-former-liverpool-boss-on-the-verge-of-becoming-germany-head-coach-and-replacing-julian-nagelsmann",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49124668,
+      "source": "ESPN",
+      "headline": "Man City beat Arsenal to signing of Leicester teenager Jeremy Monga",
+      "description": "Manchester City have completed the signing of winger Jeremy Monga from Leicester City.",
+      "publishedAt": "2026-07-11T09:38:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0620/r1676555_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49124668/jeremy-monga-man-city-leicester-city-premier-league-transfers",
+      "tag": "Leicester City",
+      "teams": [
+        "Leicester City",
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -94,28 +158,6 @@
       ]
     },
     {
-      "id": "cb322c7f862b9fd376f464842d3da77c",
-      "source": "Sky Sports",
-      "headline": "No FIFA explanation over Quansah suspension, claims Tuchel",
-      "description": "Thomas Tuchel has claimed that England have not been offered an explanation as to why defender Jarell Quansah was handed a two-game suspension following his red card against Mexico.",
-      "publishedAt": "2026-07-11T00:15:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jarell-quansah-england_7290964.jpg?20260706093315",
-      "link": "https://www.skysports.com/football/news/12040/13562219/thomas-tuchel-reveals-england-still-yet-to-receive-explanation-over-jarell-quansahs-upgraded-two-game-suspension-after-mexico-red-card",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "bf602a29a0684053446449368f335e51",
-      "source": "Sky Sports",
-      "headline": "Merino: From mobility scooter to World Cup hero in six months",
-      "description": "Mikel Merino might have hoped to appear earlier than the 85th minute against Belgium following his match-winning impact from the bench against Portugal. Instead, he had to wait until the 86th. No matter. Another late cameo, another decisive goal.",
-      "publishedAt": "2026-07-10T20:58:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-merino-rodri-spain_7294975.jpg?20260710230900",
-      "link": "https://www.skysports.com/football/news/12040/13562417/mikel-merino-arsenal-midfielder-proving-spains-world-cup-hero-after-overcoming-injury-that-left-him-in-mobility-scooter",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49322102,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal eye Club Brugge forward to replace Trossard",
@@ -128,17 +170,6 @@
         "Club Brugge",
         "Arsenal"
       ]
-    },
-    {
-      "id": "ba890490e27d0aaafe92e98ec6f570e9",
-      "source": "Sky Sports",
-      "headline": "Wigan youngsters beat Warrington to keep pressure on Leeds at top",
-      "description": "Wigan's young stars rose to the occasion to clinch a Betfred Super League slugfest against Warrington on a memorable night for Matt Peet's next generation at the Brick Community Stadium.",
-      "publishedAt": "2026-07-10T16:59:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-super-league-rugby-league_7294965.jpg?20260710223627",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13562383/wigan-warriors-30-18-warrington-wolves-hosts-keep-pressure-on-leeds-rhinos-as-youngsters-shine-in-win",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -470,58 +501,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49274634,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea, Madrid, Barça chase Man City's Dias",
-      "description": "Manchester City have issued a hands-off warning to elite European clubs over center back Rúben Dias. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-05T08:35:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0130/r1607947_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49274634/transfer-rumors-news-chelsea-real-madrid-barcelona-chase-man-city-ruben-dias",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49265988,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Premier League clubs on alert over Barcelona and France defender",
-      "description": "Chelsea, Liverpool, Arsenal, Manchester City and Bayern Munich have been alerted over a potential deal for Barcelona defender Jules Kounde. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-04T17:34:20Z",
-      "image": "https://a.espncdn.com/photo/2025/1209/r1587360_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Liverpool",
-        "Manchester City",
-        "Bayern Munich",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 49255968,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye move for Palace's Sarr",
-      "description": "Manchester United are reportedly looking at signing Crystal Palace forward Ismaïla Sarr. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-04T00:16:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684069_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49255968/transfer-rumors-news-arsenal-eye-double-villa-deal-rogers-konsa",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Crystal Palace"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-11T08:13:01.700Z"
+    "cachedAt": "2026-07-11T13:51:05.769Z"
   }
 }
