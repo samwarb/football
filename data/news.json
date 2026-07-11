@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "fb85b385cc2cb76f515a3a702dd39cbd",
+      "source": "Sky Sports",
+      "headline": "No FIFA explanation over Quansah suspension claims Tuchel",
+      "description": "Thomas Tuchel has claimed that England have not been offered an explanation as to why defender Jarell Quansah was handed a two-game suspension following his red card against Mexico.",
+      "publishedAt": "2026-07-11T00:15:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jarell-quansah-england_7290964.jpg?20260706093315",
+      "link": "https://www.skysports.com/football/news/12040/13562219/thomas-tuchel-reveals-england-still-yet-to-receive-explanation-over-jarell-quansahs-upgraded-two-game-suspension-after-mexico-red-card",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "bf602a29a0684053446449368f335e51",
+      "source": "Sky Sports",
+      "headline": "Merino: From mobility scooter to World Cup hero in six months",
+      "description": "Mikel Merino might have hoped to appear earlier than the 85th minute against Belgium following his match-winning impact from the bench against Portugal. Instead, he had to wait until the 86th. No matter. Another late cameo, another decisive goal.",
+      "publishedAt": "2026-07-10T20:58:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-merino-rodri-spain_7294975.jpg?20260710230900",
+      "link": "https://www.skysports.com/football/news/12040/13562417/mikel-merino-arsenal-midfielder-proving-spains-world-cup-hero-after-overcoming-injury-that-left-him-in-mobility-scooter",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49322102,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal eye Club Brugge forward to replace Trossard",
@@ -16,14 +38,14 @@
       ]
     },
     {
-      "id": "a21ca3b209bf3e6b0e61f4a178ce77a2",
+      "id": "ba890490e27d0aaafe92e98ec6f570e9",
       "source": "Sky Sports",
-      "headline": "Carra: Why I'd pick Kane over 'greatest goalscorer' Haaland",
-      "description": "Jamie Carragher says Erling Haaland will go down as \"the greatest goalscorer of all time\" - but he'd rather have Harry Kane in his team.",
-      "publishedAt": "2026-07-10T15:52:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-harry-kane-erling-haaland_7294774.jpg?20260710170322",
-      "link": "https://www.skysports.com/football/news/12040/13562351/world-cup-2026-norways-erling-haaland-will-go-down-as-footballs-greatest-goalscorer-says-jamie-carragher-ahead-of-showdown-with-englands-harry-kane",
-      "tag": "Article/Blog",
+      "headline": "Wigan youngsters beat Warrington to keep pressure on Leeds at top",
+      "description": "Wigan's young stars rose to the occasion to clinch a Betfred Super League slugfest against Warrington on a memorable night for Matt Peet's next generation at the Brick Community Stadium.",
+      "publishedAt": "2026-07-10T16:59:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-super-league-rugby-league_7294965.jpg?20260710223627",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13562383/wigan-warriors-30-18-warrington-wolves-hosts-keep-pressure-on-leeds-rhinos-as-youngsters-shine-in-win",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -332,17 +354,6 @@
       ]
     },
     {
-      "id": "d23399a2a369436b24f66d114ed083ab",
-      "source": "Sky Sports",
-      "headline": "Spain concede first World Cup goal as Belgium equalise LIVE!",
-      "description": "",
-      "publishedAt": "2026-07-07T13:22:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lamine-yamal_7294894.jpg?20260710201017",
-      "link": "https://www.skysports.com/football/spain-vs-belgium/live/549863",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49284362,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United eye move for Chelsea's Santos",
@@ -511,6 +522,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-10T19:49:12.711Z"
+    "cachedAt": "2026-07-11T03:39:18.042Z"
   }
 }
