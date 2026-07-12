@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "8e6cb93ce9adff560c34e4c7654f2037",
+      "source": "Sky Sports",
+      "headline": "World Cup latest: 2030 tournament could have 64 teams, says Infantino",
+      "description": "",
+      "publishedAt": "2026-07-12T18:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832",
+      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "856b658d029282ee74fdd57785426712",
+      "source": "Sky Sports",
+      "headline": "England latest: We're 'knocking on the door’ of World Cup glory, says Kane",
+      "description": "",
+      "publishedAt": "2026-07-12T18:00:00.000Z",
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -94,17 +116,6 @@
       ]
     },
     {
-      "id": "5e84f7b57565d7e8de2b3a8b0276e9ec",
-      "source": "Sky Sports",
-      "headline": "Merson: Teams win leagues, X-factor wins World Cups - and Bellingham has it",
-      "description": "Paul Merson says Jude Bellingham has the X-factor needed to help England win the World Cup.",
-      "publishedAt": "2026-07-12T09:15:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-merson-says-world-cup_7295800.jpg?20260712095649",
-      "link": "https://www.skysports.com/football/news/12040/13562724/paul-merson-jude-bellingham-has-x-factor-needed-to-win-england-the-world-cup",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
       "id": 49334079,
       "source": "ESPN",
       "headline": "What it's like to transfer clubs during a World Cup, and does it ever go wrong?",
@@ -124,39 +135,6 @@
       "image": "https://a.espncdn.com/photo/2026/0413/r1642705_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "042043ec2776572d9c38820e7c0d347f",
-      "source": "Sky Sports",
-      "headline": "Alvarez scores extra-time stunner as Argentina set up blockbuster semi vs England",
-      "description": "Julian Alvarez scored an extra-time stunner as Argentina beat 10-man Switzerland 3-1 and set up a mouth-watering World Cup semi-final clash with England.",
-      "publishedAt": "2026-07-12T04:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-julian-alvarez-argentina_7295649.jpg?20260712045203",
-      "link": "https://www.skysports.com/football/argentina-vs-switzerland/report/549865",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "5f58dd65de99c680d8ae33a51b8a8198",
-      "source": "Sky Sports",
-      "headline": "'An absolute superstar' - Bellingham England's hero again",
-      "description": "England have had heroes before - but Jude Bellingham is a special one.",
-      "publishedAt": "2026-07-11T22:59:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jude-bellingham-england_7295608.jpg?20260712004715",
-      "link": "https://www.skysports.com/football/news/12040/13562664/world-cup-2026-jude-bellingham-englands-hero-again-as-three-lions-beat-norway-to-reach-semi-finals",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "221db8e89917583d892c59af1c2d9eb9",
-      "source": "Sky Sports",
-      "headline": "England player ratings: This is Bellingham's summer as Kane has an off day",
-      "description": "England are through to the World Cup semi-finals, with Jude Bellingham's sensational summer carrying on with their 2-1 extra-time win over Norway.",
-      "publishedAt": "2026-07-11T18:17:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-norway_7295605.jpg?20260712004044",
-      "link": "https://www.skysports.com/football/news/12040/13562616/norway-1-2-england-aet-player-ratings-jude-bellinghams-sensational-summer-carries-on-as-harry-kane-has-off-day-in-world-cup-quarter-final-win",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -525,6 +503,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-12T13:53:36.238Z"
+    "cachedAt": "2026-07-12T19:28:55.167Z"
   }
 }
