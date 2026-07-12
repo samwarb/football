@@ -2,14 +2,36 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "8c2c72f244ddbe17ef2dac017b473d94",
+      "id": "5f58dd65de99c680d8ae33a51b8a8198",
       "source": "Sky Sports",
-      "headline": "Bournemouth latest: Fiorentina agree loan deal for Jimenez",
-      "description": "",
-      "publishedAt": "2026-07-11T16:23:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-club-rumours_7259337.jpg?20260527081428",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
+      "headline": "'An absolute superstar' - Bellingham England's hero again",
+      "description": "England have had heroes before - but Jude Bellingham is a special one.",
+      "publishedAt": "2026-07-11T22:59:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jude-bellingham-england_7295608.jpg?20260712004715",
+      "link": "https://www.skysports.com/football/news/12040/13562664/world-cup-2026-jude-bellingham-englands-hero-again-as-three-lions-beat-norway-to-reach-semi-finals",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "e00052aa51e03ec6186a4e30c784d301",
+      "source": "Sky Sports",
+      "headline": "Tuchel NOT happy with England display but Bellingham responds: 'Whatever'",
+      "description": "Thomas Tuchel admitted he was not happy with England's performance in their nervy World Cup quarter-final win over Norway - admitting the Three Lions were \"sloppy, lucky\" and not good enough in \"every sense\".",
+      "publishedAt": "2026-07-11T22:59:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-norway_7295615.jpg?20260712012142",
+      "link": "https://www.skysports.com/football/news/12040/13562621/thomas-tuchel-unhappy-with-englands-display-in-world-cup-quarter-final-win-over-norway-but-jude-bellingham-responds-with-whatever",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "221db8e89917583d892c59af1c2d9eb9",
+      "source": "Sky Sports",
+      "headline": "England player ratings: This is Bellingham's summer as Kane has an off day",
+      "description": "England are through to the World Cup semi-finals, with Jude Bellingham's sensational summer carrying on with their 2-1 extra-time win over Norway.",
+      "publishedAt": "2026-07-11T18:17:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-norway_7295605.jpg?20260712004044",
+      "link": "https://www.skysports.com/football/news/12040/13562616/norway-1-2-england-aet-player-ratings-jude-bellinghams-sensational-summer-carries-on-as-harry-kane-has-off-day-in-world-cup-quarter-final-win",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -39,20 +61,6 @@
       ]
     },
     {
-      "id": 49331445,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Could Man United sign Paraguay GK as Lammens competition?",
-      "description": "Manchester United are rumored to be interested in Paraguay goalkeeper Orlando Gill. Transfer talk has the latest.",
-      "publishedAt": "2026-07-11T15:09:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687673_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49331445/transfer-rumors-news-man-united-sign-paraguay-gk-senne-lammens-competition",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Paraguay"
-      ]
-    },
-    {
       "id": 49333624,
       "source": "ESPN",
       "headline": "Former Chelsea chairman Ken Bates dies aged 94",
@@ -64,17 +72,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "46e87e4f3475e053a0484a86205ce1f7",
-      "source": "Sky Sports",
-      "headline": "Fulham latest: Deal agreed to sign Celtic youngster",
-      "description": "",
-      "publishedAt": "2026-07-11T14:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49124668,
@@ -462,6 +459,17 @@
       ]
     },
     {
+      "id": "4ce3503f5e7ee4ada6356d29cf06faaa",
+      "source": "Sky Sports",
+      "headline": "Brilliant Bellingham downs Norway to send England into last four",
+      "description": "England booked their place in the semi-finals of the World Cup as another double from the brilliant Jude Bellingham clinched a 2-1 extra-time victory over Norway in Miami.",
+      "publishedAt": "2026-07-05T22:32:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-england-norway-jude-bellingham_7295597.jpg?20260712001346",
+      "link": "https://www.skysports.com/football/norway-vs-england/report/549864",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49279207,
       "source": "ESPN",
       "headline": "Newcastle sign winger Bazoumana Touré from Hoffenheim",
@@ -501,11 +509,27 @@
       "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
       "tag": "Story",
       "teams": []
+    },
+    {
+      "id": 49274634,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea, Madrid, Barça chase Man City's Dias",
+      "description": "Manchester City have issued a hands-off warning to elite European clubs over center back Rúben Dias. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-05T08:35:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0130/r1607947_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49274634/transfer-rumors-news-chelsea-real-madrid-barcelona-chase-man-city-ruben-dias",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City",
+        "Barcelona",
+        "Real Madrid"
+      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-11T19:30:05.770Z"
+    "cachedAt": "2026-07-12T03:53:37.333Z"
   }
 }
