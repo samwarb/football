@@ -2,11 +2,22 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-13T14:20:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688632_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
       "id": 49348383,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal step up move for Argentina's Álvarez",
       "description": "Arsenal are stepping up their pursuit of Atlético Madrid forward Julián Álvarez. Transfer talk has the latest.",
-      "publishedAt": "2026-07-13T09:27:44Z",
+      "publishedAt": "2026-07-13T13:57:51Z",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688183_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49348383/transfer-rumors-news-arsenal-step-move-argentina-julian-alvarez",
       "tag": "Arsenal",
@@ -16,15 +27,67 @@
       ]
     },
     {
-      "id": "04ef774d96351f4e254ce6a4f303ee9d",
+      "id": 49318443,
+      "source": "ESPN",
+      "headline": "Man United announce signing of midfielder Andrey Santos from Chelsea, Éderson deal stalls",
+      "description": "Manchester United have signed midfielder Andrey Santos from Chelsea, the club have announced.",
+      "publishedAt": "2026-07-13T13:50:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1687061_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49318443/manchester-united-announce-signing-andrey-santos-chelsea-premier-league-transfer-news",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49348973,
+      "source": "ESPN",
+      "headline": "Man United in advanced talks to sign Youri Tielemans from Aston Villa - sources",
+      "description": "Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa, sources have told ESPN.",
+      "publishedAt": "2026-07-13T13:32:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688579_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": "52f75fb36d6de13f48be1ba6aa8babfa",
       "source": "Sky Sports",
-      "headline": "Manzambi picks Villa - becomes 10th player Newcastle have missed out on",
-      "description": "Newcastle believe they are set to miss out on the signing of Freiburg midfielder Johan Manzambi to Aston Villa.",
-      "publishedAt": "2026-07-13T07:50:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-johan-manzambi-switzerland_7282091.jpg?20260624214905",
-      "link": "https://www.skysports.com/football/news/12040/13562928/johan-manzambi-newcastle-set-to-lose-switzerland-world-cup-hero-to-aston-villa-becoming-10th-player-to-turn-magpies-down-in-two-years",
+      "headline": "Man Utd complete £50m signing of Santos from Chelsea",
+      "description": "Man Utd have completed the signing of Andrey Santos from Chelsea for £50m.",
+      "publishedAt": "2026-07-13T13:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-andrey-santos-manchester-united_7296636.jpg?20260713141659",
+      "link": "https://www.skysports.com/football/news/12040/13562081/andrey-santos-man-utd-complete-50m-signing-of-brazil-international-midfielder-from-chelsea",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 49326566,
+      "source": "ESPN",
+      "headline": "Why World Cup hydration breaks have media 'salivating'",
+      "description": "FIFA's mandated three-minute breaks have been a talking point throughout the 2026 World Cup.",
+      "publishedAt": "2026-07-13T12:01:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686461_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49326566/hydration-breaks-world-cup-soccer-broadcast-rights",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49348846,
+      "source": "ESPN",
+      "headline": "Andoni Iraola admits Liverpool need more players, club 'working hard' to bolster squad",
+      "description": "Liverpool head coach Andoni Iraola has admitted the club \"need more\" players but are \"working hard\" behind the scenes to bolster his squad in this transfer window.",
+      "publishedAt": "2026-07-13T10:58:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688578_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49348846/andoni-iraola-admits-liverpool-need-more-players-club-working-hard-bolster-squad",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
     },
     {
       "id": 49154575,
@@ -119,17 +182,6 @@
       ]
     },
     {
-      "id": "6e16890db358662f709a61a577f4a871",
-      "source": "Sky Sports",
-      "headline": "Bellingham and Tuchel's ‘battle of wills’ is healthy for England",
-      "description": "Passionate, driven, uncompromising. Those are terms that can be equally applied to both Thomas Tuchel and Jude Bellingham.",
-      "publishedAt": "2026-07-12T21:39:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports_7296174.jpg?20260712225134",
-      "link": "https://www.skysports.com/football/news/12040/13562880/world-cup-2026-jude-bellingham-and-thomas-tuchels-battle-of-wills-is-healthy-for-england",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
       "id": 49334079,
       "source": "ESPN",
       "headline": "What it's like to transfer clubs during a World Cup, and does it ever go wrong?",
@@ -138,28 +190,6 @@
       "image": "https://a.espncdn.com/photo/2026/0712/r1688211_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49334079/what-transfer-clubs-world-cup-does-ever-go-wrong",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-12T07:11:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0413/r1642705_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "4dc972a94b38a16e73d3b28a813ce5d6",
-      "source": "Sky Sports",
-      "headline": "Croft scores hat-trick as Leeds cruise past Catalans",
-      "description": "Highlights of the Super League match between Catalans Dragons and Leeds Rhinos.",
-      "publishedAt": "2026-07-11T23:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-rugbyleague-superleague_7295567.jpg?20260711225953",
-      "link": "https://www.skysports.com/watch/video/13562647/catalans-dragons-6-28-leeds-rhinos-super-league-highlights",
-      "tag": "Video",
       "teams": []
     },
     {
@@ -456,67 +486,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49246543,
-      "source": "ESPN",
-      "headline": "Sandro Tonali completes record-transfer to Tottenham from Newcastle United",
-      "description": "Tottenham have shattered their transfer record for the second time this summer after agreeing a deal worth up to £100m ($133m) to sign Sandro Tonali from Newcastle United.",
-      "publishedAt": "2026-07-06T10:38:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683231_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49246543/sandro-tonali-completes-record-transfer-tottenham-newcastle-united",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49250725,
-      "source": "ESPN",
-      "headline": "Oliver Glasner announced as new Nottingham Forest head coach",
-      "description": "Nottingham Forest have announced the appointment of Oliver Glasner as manager following the departure of Vitor Pereira.",
-      "publishedAt": "2026-07-06T10:08:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683213_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49250725/oliver-glasner-nottingham-forest-manager",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49279207,
-      "source": "ESPN",
-      "headline": "Newcastle sign winger Bazoumana Touré from Hoffenheim",
-      "description": "Newcastle have completed the signing of Ivory Coast winger Bazoumana Touré from Hoffenheim.",
-      "publishedAt": "2026-07-05T20:32:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684933_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49279207/newcastle-sign-winger-bazoumana-toure-hoffenheim",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "TSG Hoffenheim"
-      ]
-    },
-    {
-      "id": 49266645,
-      "source": "ESPN",
-      "headline": "World Cup pride, joy and anxiety: What watching a family member play means",
-      "description": "It's incredible for families who have seen loved ones go from kicking a ball around the house to walking out on the biggest stage there is at a World Cup.",
-      "publishedAt": "2026-07-05T12:12:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684297_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49266645/world-cup-pride-joy-anxiety-watching-family-member-play-means",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Norway",
-        "United States",
-        "England"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-13T09:45:47.194Z"
+    "cachedAt": "2026-07-13T15:08:54.222Z"
   }
 }
