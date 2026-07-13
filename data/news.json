@@ -2,6 +2,17 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "6e16890db358662f709a61a577f4a871",
+      "source": "Sky Sports",
+      "headline": "Bellingham and Tuchel's ‘battle of wills’ is healthy for England",
+      "description": "Passionate, driven, uncompromising. Those are terms that can be equally applied to both Thomas Tuchel and Jude Bellingham.",
+      "publishedAt": "2026-07-12T21:39:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports_7296174.jpg?20260712225134",
+      "link": "https://www.skysports.com/football/news/12040/13562880/world-cup-2026-jude-bellingham-and-thomas-tuchels-battle-of-wills-is-healthy-for-england",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
       "id": "8e6cb93ce9adff560c34e4c7654f2037",
       "source": "Sky Sports",
       "headline": "World Cup latest: 2030 tournament could have 64 teams, says Infantino",
@@ -503,6 +514,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-12T19:28:55.167Z"
+    "cachedAt": "2026-07-13T03:57:00.503Z"
   }
 }
