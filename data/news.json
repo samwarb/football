@@ -2,6 +2,130 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49348973,
+      "source": "ESPN",
+      "headline": "Sources: Man United in advanced talks to sign Youri Tielemans from Aston Villa",
+      "description": "Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa, sources have told ESPN.",
+      "publishedAt": "2026-07-13T18:54:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688579_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49351658,
+      "source": "ESPN",
+      "headline": "Would Youri Tielemans be a good signing for Man United?",
+      "description": "Would Youri Tielemans be a good signing for Man United?",
+      "publishedAt": "2026-07-13T17:36:33Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49351658/would-youri-tielemans-good-signing-man-united",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "10614218e6267dfe07d098c501d1d433",
+      "source": "Sky Sports",
+      "headline": "EFL latest: Genk striker Erabi makes Preston loan switch",
+      "description": "",
+      "publishedAt": "2026-07-13T17:26:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-genk-jusef-erabi_7296902.jpg?20260713182946",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "867df580df649d04eead6a5c0e8e6188",
+      "source": "Sky Sports",
+      "headline": "Aston Villa latest: Digne agrees to join PSG as Estupinan targeted - reports",
+      "description": "",
+      "publishedAt": "2026-07-13T17:13:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "64483801366f01c8fa0546cdcafb9b30",
+      "source": "Sky Sports",
+      "headline": "How Spain can knock France off their 'World Cup favourites' perch",
+      "description": "And so there were four. As it happens, the four still standing at this World Cup are the same quartet who sit atop FIFA's international food chain. A semi-final line-up for the ages. Aren't we lucky?",
+      "publishedAt": "2026-07-13T16:30:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-france-spain_7296674.jpg?20260713144457",
+      "link": "https://www.skysports.com/football/news/12040/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49350741,
+      "source": "ESPN",
+      "headline": "Xabi Alonso wants Enzo Fernández to stay at Chelsea amid uncertain future",
+      "description": "Chelsea manager Xabi Alonso has said he wants to keep Enzo Fernández at the club amid a potential exit this summer.",
+      "publishedAt": "2026-07-13T16:04:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654963_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49350741/xabi-alonso-wants-enzo-fernandez-stay-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "3d9f77392a542966b9749c37207ebd09",
+      "source": "Sky Sports",
+      "headline": "WSL latest: Liverpool confirm Keating signing",
+      "description": "",
+      "publishedAt": "2026-07-13T16:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-liverpool-khiara-keating_7296812.jpg?20260713170114",
+      "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-13T15:48:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49350478,
+      "source": "ESPN",
+      "headline": "Xabi Alonso insists he wants Enzo Fernández to stay at Chelsea",
+      "description": "Xabi Alonso insists he wants Enzo Fernández to stay at Chelsea",
+      "publishedAt": "2026-07-13T15:13:12Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Presser_Xabi_Alonso_insists_he_wants_Enzo_Fernandez_to_stay_at_Chelsea_20260713_GLOBAL/dm_260713_COM_SOC_Presser_Xabi_Alonso_insists_he_wants_Enzo_Fernandez_to_stay_at_Chelsea_20260713_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49350478/xabi-alonso-insists-wants-enzo-fernandez-stay-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -39,31 +163,6 @@
         "Manchester United",
         "Chelsea"
       ]
-    },
-    {
-      "id": 49348973,
-      "source": "ESPN",
-      "headline": "Man United in advanced talks to sign Youri Tielemans from Aston Villa - sources",
-      "description": "Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa, sources have told ESPN.",
-      "publishedAt": "2026-07-13T13:32:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688579_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": "52f75fb36d6de13f48be1ba6aa8babfa",
-      "source": "Sky Sports",
-      "headline": "Man Utd complete £50m signing of Santos from Chelsea",
-      "description": "Man Utd have completed the signing of Andrey Santos from Chelsea for £50m.",
-      "publishedAt": "2026-07-13T13:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-andrey-santos-manchester-united_7296636.jpg?20260713141659",
-      "link": "https://www.skysports.com/football/news/12040/13562081/andrey-santos-man-utd-complete-50m-signing-of-brazil-international-midfielder-from-chelsea",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49326566,
@@ -191,32 +290,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/49334079/what-transfer-clubs-world-cup-does-ever-go-wrong",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-11T15:49:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
     },
     {
       "id": 49333624,
@@ -446,51 +519,11 @@
       "teams": [
         "Fulham"
       ]
-    },
-    {
-      "id": 49284362,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye move for Chelsea's Santos",
-      "description": "Manchester United are looking to strengthen their midfield by signing Andrey Santos from Chelsea. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-06T23:25:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685572_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49284362/transfer-rumors-news-arsenal-eye-wan-bissaka-white-replacement",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49287410,
-      "source": "ESPN",
-      "headline": "Are Arsenal making a mistake letting Trossard go?",
-      "description": "Are Arsenal making a mistake letting Trossard go?",
-      "publishedAt": "2026-07-06T16:56:55Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_Analysis__Are_Arsenal_making_a_mistake_letting_Trossard_go3F__GLOBAL_2026-07-06/dm_260706_COM_SOC_Analysis__Are_Arsenal_making_a_mistake_letting_Trossard_go3F__GLOBAL_2026-07-06.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49287410/are-arsenal-making-mistake-letting-trossard-go",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49287358,
-      "source": "ESPN",
-      "headline": "Would Andrey Santos be a good signing for Man United?",
-      "description": "Would Andrey Santos be a good signing for Man United?",
-      "publishedAt": "2026-07-06T16:55:47Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0706/dm_260706_COM_SOC_Analysis_Are_Arsenal_making_a_mi772/dm_260706_COM_SOC_Analysis_Are_Arsenal_making_a_mi772.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49287358/would-andrey-santos-good-signing-man-united",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-13T15:08:54.222Z"
+    "cachedAt": "2026-07-13T19:46:20.464Z"
   }
 }
