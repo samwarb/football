@@ -2,6 +2,98 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49356683,
+      "source": "ESPN",
+      "headline": "Manchester United sign midfielder Youri Tielemans from Aston Villa",
+      "description": "Manchester United have announced the signing of midfielder Youri Tielemans from Aston Villa.",
+      "publishedAt": "2026-07-14T19:11:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Aston Villa",
+        "Belgium"
+      ]
+    },
+    {
+      "id": 49360784,
+      "source": "ESPN",
+      "headline": "How Aston Villa hijacked Newcastle's move for Johan Manzambi",
+      "description": "How Aston Villa hijacked Newcastle's move for Johan Manzambi",
+      "publishedAt": "2026-07-14T18:53:10Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Analysis_How_Aston_Villa_hijacked_Newcastles_move_for_Johan_Manzambi_20260713_GLOBAL/dm_260714_COM_SOC_Analysis_How_Aston_Villa_hijacked_Newcastles_move_for_Johan_Manzambi_20260713_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49360784/how-aston-villa-hijacked-newcastle-move-johan-manzambi",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Newcastle United",
+        "SC Freiburg",
+        "Switzerland"
+      ]
+    },
+    {
+      "id": "16a84a52b21f74537546c77ceeb79d12",
+      "source": "Sky Sports",
+      "headline": "Barca won't give up on Arsenal target Alvarez",
+      "description": "Barcelona are not giving up on signing Arsenal target Julian Alvarez from Atletico Madrid and could raise their offer after the World Cup.",
+      "publishedAt": "2026-07-14T18:45:00.000Z",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-julian-alvarez-goal_7234624.jpg?20260429213126",
+      "link": "https://www.skysports.com/football/news/12040/13563502/julian-alvarez-barcelona-refuse-to-give-up-on-argentina-world-cup-star-and-arsenal-and-paris-saint-germain-target",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49360734,
+      "source": "ESPN",
+      "headline": "Could Liverpool sign Bradley Barcola?",
+      "description": "Could Liverpool sign Bradley Barcola?",
+      "publishedAt": "2026-07-14T18:43:52Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Analysis_Could_Liverpool_sign_Bradley_Barcola_20260713_GLOBAL/dm_260714_COM_SOC_Analysis_Could_Liverpool_sign_Bradley_Barcola_20260713_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49360734/could-liverpool-sign-bradley-barcola",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": 49360682,
+      "source": "ESPN",
+      "headline": "Why Youri Tielemans is a 'great signing' for Man United",
+      "description": "Why Youri Tielemans is a 'great signing' for Man United",
+      "publishedAt": "2026-07-14T18:39:20Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Presser_Why_Youri_Tielemans_is_a_great_signing_for_Man_United_20260713_GLOBAL/dm_260714_COM_SOC_Presser_Why_Youri_Tielemans_is_a_great_signing_for_Man_United_20260713_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49360682/why-youri-tielemans-great-signing-man-united",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "f6c6e5675ce58356be697e7b0342aa91",
+      "source": "Sky Sports",
+      "headline": "Man Utd complete £35m Tielemans deal",
+      "description": "Manchester United have completed the signing of Youri Tielemans from Aston Villa for £36m.",
+      "publishedAt": "2026-07-14T17:30:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-youri-tielemans-man-utd_7297667.jpg?20260714190621",
+      "link": "https://www.skysports.com/football/news/12040/13563132/youri-tielemans-transfer-news-manchester-united-xxxx",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "7aa3000f211f65a85b51236c698cc4f4",
+      "source": "Sky Sports",
+      "headline": "Balogun: I knew Trump intervention 'would cause a lot of controversy'",
+      "description": "USA striker Folarin Balogun predicted President Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy\".",
+      "publishedAt": "2026-07-14T15:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-florin-balogun-usa_7290692.jpg?20260705235615",
+      "link": "https://www.skysports.com/football/news/12040/13563434/president-donald-trumps-fifa-intervention-over-world-cup-suspension-was-bound-to-cause-a-lot-of-controversy-says-usa-striker-folarin-balogun",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "588810b1ba0d2fbd5288e7b2498507c0",
       "source": "Sky Sports",
       "headline": "Forest latest: Glasner says 'no button to press' to make Forest competitive",
@@ -10,17 +102,6 @@
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-nottingham-forest_7287949.jpg?20260702112820",
       "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "972267d578eb7744ffd7d9b8141711cb",
-      "source": "Sky Sports",
-      "headline": "Carra: England must exploit Messi in World Cup semi-final",
-      "description": "Jamie Carragher believes England can exploit Lionel Messi in their World Cup semi-final against Argentina.",
-      "publishedAt": "2026-07-14T11:18:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7295635.jpg?20260712020454",
-      "link": "https://www.skysports.com/football/news/12040/13563342/england-vs-argentina-jamie-carragher-believes-thomas-tuchels-side-can-exploit-lionel-messi-in-their-world-cup-semi-final",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -51,17 +132,6 @@
         "Chelsea",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "66b0d9f6994b2c760b5070136e86324e",
-      "source": "Sky Sports",
-      "headline": "Man City interested in Morocco wonderkid Bouaddi",
-      "description": "Manchester City are showing interest in Lille midfielder Ayyoub Bouaddi.",
-      "publishedAt": "2026-07-14T10:34:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ayyoub-bouaddi-morocco_7275715.jpg?20260617110829",
-      "link": "https://www.skysports.com/football/news/12040/13563315/ayyoub-bouaddi-manchester-city-interested-in-morocco-and-lille-wonderkid-after-impressive-world-cup",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48990955,
@@ -206,17 +276,6 @@
       ]
     },
     {
-      "id": "f2341136262de901eabbe3bb492524df",
-      "source": "Sky Sports",
-      "headline": "Arsenal latest: Alvarez not keen on move to England amid Barcelona dream",
-      "description": "",
-      "publishedAt": "2026-07-14T06:00:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49326566,
       "source": "ESPN",
       "headline": "Why World Cup hydration breaks have media 'salivating'",
@@ -334,17 +393,6 @@
         "Manchester United",
         "Chelsea"
       ]
-    },
-    {
-      "id": "c2222c5d4d200b5a8d654df2c41f9305",
-      "source": "Sky Sports",
-      "headline": "Football news: Slot a candidate for Netherlands job",
-      "description": "",
-      "publishedAt": "2026-07-13T11:40:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arne-slot_7248684.jpg?20260515083910",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49348846,
@@ -478,87 +526,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49312679,
-      "source": "ESPN",
-      "headline": "Bruno Guimarães linked with Arsenal amid Sean Steur Newcastle rumours",
-      "description": "Bruno Guimarães linked with Arsenal amid Sean Steur Newcastle rumours",
-      "publishedAt": "2026-07-09T08:55:17Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_COM_SOC_Analysis_Bruno_Guimaraes_linked_with_Arsenal_amid_Sean_Steur_Newcastle_rumours_20260709/dm_260709_COM_SOC_Analysis_Bruno_Guimaraes_linked_with_Arsenal_amid_Sean_Steur_Newcastle_rumours_20260709.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49312679/bruno-guimaraes-linked-arsenal-amid-sean-steur-newcastle-rumours",
-      "tag": "Jong Ajax",
-      "teams": [
-        "Jong Ajax",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49312673,
-      "source": "ESPN",
-      "headline": "Marcotti: I'm not convinced by Arbeloa at Fulham",
-      "description": "Marcotti: I'm not convinced by Arbeloa at Fulham",
-      "publishedAt": "2026-07-09T08:54:17Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_COM_SOC_Analysis_Marcotti_Im_not_convinced_by_Arbeloa_at_Fulham_20260709_GLOBAL/dm_260709_COM_SOC_Analysis_Marcotti_Im_not_convinced_by_Arbeloa_at_Fulham_20260709_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49312673/not-convinced-arbeloa-fulham",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham"
-      ]
-    },
-    {
-      "id": 49309863,
-      "source": "ESPN",
-      "headline": "Man City confirm appointment of Enzo Maresca's coaching staff",
-      "description": "Manchester City have confirmed the coaching staff set to join Enzo Maresca at the Etihad Stadium.",
-      "publishedAt": "2026-07-08T23:37:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686624_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49309863/man-city-confirm-appointment-enzo-maresca-coaching-staff",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49308571,
-      "source": "ESPN",
-      "headline": "Ruben Amorim: I made mistakes at Man United",
-      "description": "Ruben Amorim: I made mistakes at Man United",
-      "publishedAt": "2026-07-08T19:30:49Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Ruben_Amorim_I_made_mistakes_at_Man_United/dm_260708_Ruben_Amorim_I_made_mistakes_at_Man_United.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49308571/made-mistakes-man-united",
-      "tag": "AC Milan",
-      "teams": [
-        "AC Milan",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": "c912f221e0967aa5fdc193ea315f800d",
-      "source": "Sky Sports",
-      "headline": "Sunderland latest: Ex-Dortmund and PSG defender Meunier set to sign",
-      "description": "",
-      "publishedAt": "2026-07-07T12:47:00.000Z",
-      "image": "https://e2.365dm.com/25/05/1920x1080/skysports-sunderland-club-blog_6929406.jpg?20250528092613",
-      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "e39d1aeac4fae5d83b0cd8605cdee600",
-      "source": "Sky Sports",
-      "headline": "Which club's players have scored most WC goals? Arsenal join leaders",
-      "description": "Which teams' players have scored the most goals at the World Cup so far?",
-      "publishedAt": "2026-06-30T06:45:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-graphic-world-cup_7287057.jpg?20260701072559",
-      "link": "https://www.skysports.com/football/news/12040/13558909/world-cup-2026-how-many-goals-have-players-from-premier-league-clubs-scored",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-14T14:10:45.502Z"
+    "cachedAt": "2026-07-14T19:41:13.665Z"
   }
 }
