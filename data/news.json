@@ -2,6 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49356176,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool, Chelsea, Spurs eye Norway World Cup star",
+      "description": "Liverpool, Chelsea and Tottenham Hotspur are interested in Benfica winger Andreas Schjelderup. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-14T07:28:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687944_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49356176/transfer-rumors-news-liverpool-chelsea-spurs-eye-norway-world-cup-star-andreas-schjelderup",
+      "tag": "Benfica",
+      "teams": [
+        "Benfica",
+        "Liverpool",
+        "Chelsea",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "6c18bbab97cba118a5c64ff3013674e9",
+      "source": "Sky Sports",
+      "headline": "'A little lost' - Why has Mainoo become England's forgotten man?",
+      "description": "Kobbie Mainoo has cut a pretty forlorn-looking figure at this World Cup.",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "image": "https://e0.365dm.com/24/03/1920x1080/skysports-kobbie-mainoo-england_6501397.jpg?20240326121938",
+      "link": "https://www.skysports.com/football/news/12040/13563184/world-cup-2026-why-has-england-midfielder-kobbie-mainoo-failed-to-play-a-single-minute-for-thomas-tuchels-side-this-summer",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": "553b74df33c9df57f5e0873991be706d",
+      "source": "Sky Sports",
+      "headline": "Rice fit and available to start for England vs Argentina",
+      "description": "Declan Rice is fit and available to start England's World Cup semi-final against Argentina on Wednesday, Sky Sports News understands.",
+      "publishedAt": "2026-07-14T06:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-declan-rice-england_7293163.jpg?20260708175832",
+      "link": "https://www.skysports.com/football/news/12040/13563231/england-vs-argentina-declan-rice-fit-for-world-cup-semi-final-as-thomas-tuchels-squad-issues-begin-to-ease",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "668fb1a3ebb7cf6ec21a7f317d30ebb4",
+      "source": "Sky Sports",
+      "headline": "Alonso confirms Chelsea captain and reveals Fernandez transfer stance",
+      "description": "Xabi Alonso says defender Reece James will remain Chelsea captain - and he wants Enzo Fernandez to stay at the club.",
+      "publishedAt": "2026-07-14T06:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-xabi-alonso-chelsea_7296789.jpg?20260713164706",
+      "link": "https://www.skysports.com/football/news/12040/13563108/xabi-alonso-reece-james-to-remain-as-chelsea-captain-while-new-boss-wants-enzo-fernandez-to-stay-at-club",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49326566,
       "source": "ESPN",
       "headline": "Why World Cup hydration breaks have media 'salivating'",
@@ -21,28 +70,6 @@
       "image": "https://e1.365dm.com/26/04/1920x1080/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
       "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "bbf4449b4babee451e6274e051771482",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Inter Milan make Jones their top midfield target",
-      "description": "",
-      "publishedAt": "2026-07-13T21:52:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "42d70c7952ffb30b5bbb7b0e1cc92b9c",
-      "source": "Sky Sports",
-      "headline": "Papers: Alonso determined to keep Fernandez at Chelsea",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-07-13T21:30:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13563203/enzo-fernandez-xabi-alonso-determined-to-keep-wantaway-argentina-world-cup-star-at-chelsea-paper-talk",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -86,39 +113,6 @@
         "Aston Villa",
         "Manchester United"
       ]
-    },
-    {
-      "id": "10614218e6267dfe07d098c501d1d433",
-      "source": "Sky Sports",
-      "headline": "EFL latest: Genk striker Erabi makes Preston loan switch",
-      "description": "",
-      "publishedAt": "2026-07-13T17:26:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-genk-jusef-erabi_7296902.jpg?20260713182946",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "867df580df649d04eead6a5c0e8e6188",
-      "source": "Sky Sports",
-      "headline": "Aston Villa latest: Digne agrees to join PSG as Estupinan targeted - reports",
-      "description": "",
-      "publishedAt": "2026-07-13T17:13:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "64483801366f01c8fa0546cdcafb9b30",
-      "source": "Sky Sports",
-      "headline": "How Spain can knock France off their 'World Cup favourites' perch",
-      "description": "And so there were four. As it happens, the four still standing at this World Cup are the same quartet who sit atop FIFA's international food chain. A semi-final line-up for the ages. Aren't we lucky?",
-      "publishedAt": "2026-07-13T16:30:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-france-spain_7296674.jpg?20260713144457",
-      "link": "https://www.skysports.com/football/news/12040/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49350741,
@@ -541,19 +535,6 @@
       ]
     },
     {
-      "id": 49151991,
-      "source": "ESPN",
-      "headline": "Álvaro Arbeloa appointed Fulham boss after Real Madrid exit",
-      "description": "Álvaro Arbeloa has been appointed head coach at Fulham having left Real Madrid last season.",
-      "publishedAt": "2026-07-08T07:44:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0119/r1602756_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49151991/alvaro-arbeloa-appointed-fulham-boss-real-madrid-exit",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham"
-      ]
-    },
-    {
       "id": "6720b11e72a5716d2fdc7eaf8f944491",
       "source": "Sky Sports",
       "headline": "Scottish Premiership ins and outs - the confirmed deals so far...",
@@ -568,6 +549,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-14T03:30:23.251Z"
+    "cachedAt": "2026-07-14T08:26:10.982Z"
   }
 }
