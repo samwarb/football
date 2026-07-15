@@ -2,6 +2,44 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "12330ba144e0d073bde0e373b3abd63c",
+      "source": "Sky Sports",
+      "headline": "Tuchel: Argentina and Messi will bring best out of England",
+      "description": "Thomas Tuchel believes the challenge of Argentina and Lionel Messi will bring the best out of his England side.",
+      "publishedAt": "2026-07-14T23:13:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-anderson-bellingham_7297816.jpg?20260715003157",
+      "link": "https://www.skysports.com/football/news/12040/13563556/world-cup-2026-argentina-and-lionel-messi-will-bring-best-out-of-england-says-thomas-tuchel-ahead-of-semi-final",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "80fe2fda17d038475ecff99a32fd3ee2",
+      "source": "Sky Sports",
+      "headline": "Spain show teamwork may win out in 'World Cup of superstars'",
+      "description": "France's attacking firepower was the focus of the build-up to their World Cup semi-final against Spain. If it wasn't Kylian Mbappe who did the damage, it would surely be Ousmane Dembele. Or Michael Olise. Or Bradley Barcola. Or Desire Doue.",
+      "publishedAt": "2026-07-14T22:45:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-spain-world-cup_7297812.jpg?20260714235917",
+      "link": "https://www.skysports.com/football/news/12040/13563541/spain-show-teamwork-may-yet-win-out-in-world-cup-of-superstars-as-kylian-mbappe-and-france-eliminated",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49356176,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Roma consider €38m offer for Chelsea's Garnacho",
+      "description": "Liverpool, Chelsea and Tottenham Hotspur are interested in Benfica winger Andreas Schjelderup. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-14T20:19:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0303/r1622788_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49356176/transfer-rumors-news-liverpool-chelsea-spurs-eye-norway-world-cup-star-andreas-schjelderup",
+      "tag": "Benfica",
+      "teams": [
+        "Benfica",
+        "Liverpool",
+        "Chelsea",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
       "id": 49356683,
       "source": "ESPN",
       "headline": "Manchester United sign midfielder Youri Tielemans from Aston Villa",
@@ -94,17 +132,6 @@
       "teams": []
     },
     {
-      "id": "588810b1ba0d2fbd5288e7b2498507c0",
-      "source": "Sky Sports",
-      "headline": "Forest latest: Glasner says 'no button to press' to make Forest competitive",
-      "description": "",
-      "publishedAt": "2026-07-14T11:23:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-nottingham-forest_7287949.jpg?20260702112820",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49354932,
       "source": "ESPN",
       "headline": "Inside Man United's summer transfer rebuild, as Santos and Tielemans bolster midfield",
@@ -115,22 +142,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 49356176,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool, Chelsea, Spurs eye Norway World Cup star",
-      "description": "Liverpool, Chelsea and Tottenham Hotspur are interested in Benfica winger Andreas Schjelderup. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-14T11:02:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687944_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49356176/transfer-rumors-news-liverpool-chelsea-spurs-eye-norway-world-cup-star-andreas-schjelderup",
-      "tag": "Benfica",
-      "teams": [
-        "Benfica",
-        "Liverpool",
-        "Chelsea",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -171,17 +182,6 @@
         "Liverpool",
         "Chelsea"
       ]
-    },
-    {
-      "id": "54319c8e86640146eca619b8b2bff108",
-      "source": "Sky Sports",
-      "headline": "Arsenal confirm Trossard is moving to Besiktas",
-      "description": "Arsenal have confirmed Leandro Trossard is moving to Besiktas.",
-      "publishedAt": "2026-07-14T08:31:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-leandro-trossard_7244883.jpg?20260510183002",
-      "link": "https://www.skysports.com/football/news/12040/13563271/leandro-trossard-arsenal-confirm-winger-joining-besiktas-in-17m-deal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49154575,
@@ -531,6 +531,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-14T19:41:13.665Z"
+    "cachedAt": "2026-07-15T03:30:19.534Z"
   }
 }
