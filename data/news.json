@@ -2,6 +2,68 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49368103,
+      "source": "ESPN",
+      "headline": "Tottenham guaranteed to have a World Cup winner for the third time in a row",
+      "description": "A Tottenham Hotspur player will be a World Cup winner. no matter who emerges victorious in the final.",
+      "publishedAt": "2026-07-15T18:54:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689609_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49368103/spurs-tottenham-world-cup-2026-spain-england-argentina",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49367986,
+      "source": "ESPN",
+      "headline": "Nottingham Forest set to sign Xaver Schlager after contract ends at RB Leipzig - sources",
+      "description": "Nottingham Forest are set to complete the signing of Austria international Xaver Schlager, sources have told ESPN.",
+      "publishedAt": "2026-07-15T17:33:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689581_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49367986/nottingham-forest-xaver-schlager-rb-leipzig-free-agent-signing-sources",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "RB Leipzig"
+      ]
+    },
+    {
+      "id": "8598958e57e382d4644648109059c296",
+      "source": "Sky Sports",
+      "headline": "World Cup-winner Stiles' death linked to heading footballs, coroner rules",
+      "description": "England 1966 World Cup winner Nobby Stiles died with a brain condition caused by repeatedly heading a football, a coroner has ruled.",
+      "publishedAt": "2026-07-15T15:10:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-nobby-stiles_7298347.jpg?20260715160011",
+      "link": "https://www.skysports.com/football/news/12040/13563741/nobby-stiles-former-man-utd-midfielder-and-england-world-cup-winners-death-linked-to-heading-footballs-coroner-rules",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "9215fad79c2152d460b20d7760678a69",
+      "source": "Sky Sports",
+      "headline": "Cagey start between England and Argentina with tensions high LIVE!",
+      "description": "",
+      "publishedAt": "2026-07-15T14:35:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jude-bellingham-cristian-romero_7298490.jpg?20260715200732",
+      "link": "https://www.skysports.com/football/england-vs-argentina/live/549867",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49366651,
+      "source": "ESPN",
+      "headline": "Roberto Di Matteo backs Xabi Alonso to get Chelsea back to UEFA Champions League",
+      "description": "Roberto Di Matteo -- who led Chelsea to their first UEFA Champions League title in 2011/12 -- has backed new manager Xabi Alonso to lead the Blues back into Europe's premier club competition in his first season at the helm.",
+      "publishedAt": "2026-07-15T14:11:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689500_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49366651/roberto-di-matteo-backs-xabi-alonso-get-chelsea-back-uefa-champions-league",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
@@ -53,17 +115,6 @@
       "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
       "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "c8887ea655655c77c2ceb15f1453c016",
-      "source": "Sky Sports",
-      "headline": "Arsenal still interested in Alvarez as Tzolis move explored",
-      "description": "Arsenal are still interested in Atletico Madrid striker Julian Alvarez.",
-      "publishedAt": "2026-07-15T09:20:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-julian-alvarez-atletico-madrid_7261294.jpg?20260529191506",
-      "link": "https://www.skysports.com/football/news/12040/13563616/julian-alvarez-arsenal-still-interested-in-atletico-madrid-forward-despite-players-preference-to-join-barcelona",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -150,17 +201,6 @@
         "Coventry City",
         "Hull City"
       ]
-    },
-    {
-      "id": "3f5fed293f085b75df4995955aa8bbbd",
-      "source": "Sky Sports",
-      "headline": "L'Equipe's SCATHING player ratings as French media reacts to Spain loss",
-      "description": "The French media delivered a frank assessment of the national team on Wednesday morning after their World Cup semi-final exit to Spain.",
-      "publishedAt": "2026-07-15T06:49:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mbappe-kylian-france_7297765.jpg?20260714221400",
-      "link": "https://www.skysports.com/football/news/12040/13563586/france-0-2-spain-french-media-reacts-to-disappointing-world-cup-semi-final-loss-including-scathing-lequipe-player-ratings",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49356683,
@@ -459,52 +499,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 49312380,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal must pay British-record fee to sign Villa's Rogers",
-      "description": "Arsenal want Morgan Rogers, but Aston Villa have informed the Gunners it will take a British-record fee to sign him. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-09T17:49:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0515/r1658710_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49312380/transfer-rumors-news-arsenal-tottenham-rb-leipzig-norway-antonio-nusa",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 49315695,
-      "source": "ESPN",
-      "headline": "Brentford announce signing of Callum Wilson on free transfer after West Ham departure",
-      "description": "Brentford have signed Callum Wilson on a free transfer after the striker's departure from West Ham United.",
-      "publishedAt": "2026-07-09T16:33:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686890_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49315695/brentford-sign-callum-wilson-premier-league-free-transfer-west-ham",
-      "tag": "Brentford",
-      "teams": [
-        "Brentford",
-        "West Ham United"
-      ]
-    },
-    {
-      "id": 49314347,
-      "source": "ESPN",
-      "headline": "Arsenal sign goalkeeper Illan Meslier following Leeds exit",
-      "description": "Arsenal have announced the signing of 26-year-old goalkeeper Illan Meslier from Leeds United.",
-      "publishedAt": "2026-07-09T13:26:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686807_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49314347/arsenal-sign-goalkeeper-illan-meslier-leeds",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-15T14:06:42.561Z"
+    "cachedAt": "2026-07-15T19:34:22.570Z"
   }
 }
