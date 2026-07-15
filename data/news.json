@@ -2,6 +2,85 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-15T11:25:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 48991120,
+      "source": "ESPN",
+      "headline": "Transfer big board: Best players in each position who could move this summer",
+      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
+      "publishedAt": "2026-07-15T09:51:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "004f2828e8269b09519e4159c2bb18ad",
+      "source": "Sky Sports",
+      "headline": "West Ham latest: Roma hold further talks with Summerville reps over move",
+      "description": "",
+      "publishedAt": "2026-07-15T09:45:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "c8887ea655655c77c2ceb15f1453c016",
+      "source": "Sky Sports",
+      "headline": "Arsenal still interested in Alvarez as Tzolis move explored",
+      "description": "Arsenal are still interested in Atletico Madrid striker Julian Alvarez.",
+      "publishedAt": "2026-07-15T09:20:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-julian-alvarez-atletico-madrid_7261294.jpg?20260529191506",
+      "link": "https://www.skysports.com/football/news/12040/13563616/julian-alvarez-arsenal-still-interested-in-atletico-madrid-forward-despite-players-preference-to-join-barcelona",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49356176,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Roma consider €38m offer for Chelsea's Garnacho",
+      "description": "AS Roma are keen to land Chelsea winger Alejandro Garnacho. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-15T09:12:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0303/r1622788_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49356176/transfer-rumors-news-liverpool-chelsea-spurs-eye-norway-world-cup-star-andreas-schjelderup",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "AS Roma"
+      ]
+    },
+    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -73,38 +152,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-15T07:44:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": "3f5fed293f085b75df4995955aa8bbbd",
       "source": "Sky Sports",
       "headline": "L'Equipe's SCATHING player ratings as French media reacts to Spain loss",
@@ -114,44 +161,6 @@
       "link": "https://www.skysports.com/football/news/12040/13563586/france-0-2-spain-french-media-reacts-to-disappointing-world-cup-semi-final-loss-including-scathing-lequipe-player-ratings",
       "tag": "News Story",
       "teams": []
-    },
-    {
-      "id": "12330ba144e0d073bde0e373b3abd63c",
-      "source": "Sky Sports",
-      "headline": "Tuchel: Argentina and Messi will bring best out of England",
-      "description": "Thomas Tuchel believes the challenge of Argentina and Lionel Messi will bring the best out of his England side.",
-      "publishedAt": "2026-07-14T23:13:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-anderson-bellingham_7297816.jpg?20260715003157",
-      "link": "https://www.skysports.com/football/news/12040/13563556/world-cup-2026-argentina-and-lionel-messi-will-bring-best-out-of-england-says-thomas-tuchel-ahead-of-semi-final",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "80fe2fda17d038475ecff99a32fd3ee2",
-      "source": "Sky Sports",
-      "headline": "Spain show teamwork may win out in 'World Cup of superstars'",
-      "description": "France's attacking firepower was the focus of the build-up to their World Cup semi-final against Spain. If it wasn't Kylian Mbappe who did the damage, it would surely be Ousmane Dembele. Or Michael Olise. Or Bradley Barcola. Or Desire Doue.",
-      "publishedAt": "2026-07-14T22:45:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-spain-world-cup_7297812.jpg?20260714235917",
-      "link": "https://www.skysports.com/football/news/12040/13563541/spain-show-teamwork-may-yet-win-out-in-world-cup-of-superstars-as-kylian-mbappe-and-france-eliminated",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
-      "id": 49356176,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Roma consider €38m offer for Chelsea's Garnacho",
-      "description": "Liverpool, Chelsea and Tottenham Hotspur are interested in Benfica winger Andreas Schjelderup. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-14T20:19:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0303/r1622788_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49356176/transfer-rumors-news-liverpool-chelsea-spurs-eye-norway-world-cup-star-andreas-schjelderup",
-      "tag": "Benfica",
-      "teams": [
-        "Benfica",
-        "Liverpool",
-        "Chelsea",
-        "Tottenham Hotspur"
-      ]
     },
     {
       "id": 49356683,
@@ -183,17 +192,6 @@
         "SC Freiburg",
         "Switzerland"
       ]
-    },
-    {
-      "id": "16a84a52b21f74537546c77ceeb79d12",
-      "source": "Sky Sports",
-      "headline": "Barca won't give up on Arsenal target Alvarez",
-      "description": "Barcelona are not giving up on signing Arsenal target Julian Alvarez from Atletico Madrid and could raise their offer after the World Cup.",
-      "publishedAt": "2026-07-14T18:45:00.000Z",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-julian-alvarez-goal_7234624.jpg?20260429213126",
-      "link": "https://www.skysports.com/football/news/12040/13563502/julian-alvarez-barcelona-refuse-to-give-up-on-argentina-world-cup-star-and-arsenal-and-paris-saint-germain-target",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49360734,
@@ -502,24 +500,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49312786,
-      "source": "ESPN",
-      "headline": "Man United reveal location for new 100,000-seater stadium",
-      "description": "Manchester United have confirmed the location for their proposed 100,000-seater stadium.",
-      "publishedAt": "2026-07-09T09:19:44Z",
-      "image": "https://a.espncdn.com/photo/2025/0311/r1462467_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49312786/man-united-reveal-location-new-100-000-seater-stadium",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-15T08:33:49.044Z"
+    "cachedAt": "2026-07-15T14:06:42.561Z"
   }
 }
