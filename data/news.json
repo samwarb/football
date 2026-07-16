@@ -2,6 +2,98 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-16T06:26:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-16T06:26:29Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-16T06:25:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
       "id": 49371654,
       "source": "ESPN",
       "headline": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
@@ -64,9 +156,9 @@
       ]
     },
     {
-      "id": "d26b8595d45f86c2313c7a131cb84305",
+      "id": "ec5a0cc9b884f14bc82e62ffab697284",
       "source": "Sky Sports",
-      "headline": "How Tuchel's changes spectacularly backfired to unravel England",
+      "headline": "How Tuchel's changes spectacularly backfired",
       "description": "Thomas Tuchel was England's gambler. A squad few others would have picked. A backs-to-the-wall win over Mexico. Starting Morgan Rogers based on \"a feeling from the coach\".",
       "publishedAt": "2026-07-15T16:44:00.000Z",
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7298702.jpg?20260716021159",
@@ -75,23 +167,12 @@
       "teams": []
     },
     {
-      "id": "8598958e57e382d4644648109059c296",
+      "id": "43e38b6d51f63bf839d4196ed2ce5ed0",
       "source": "Sky Sports",
-      "headline": "World Cup-winner Stiles' death linked to heading footballs, coroner rules",
-      "description": "England 1966 World Cup winner Nobby Stiles died with a brain condition caused by repeatedly heading a football, a coroner has ruled.",
-      "publishedAt": "2026-07-15T15:10:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-nobby-stiles_7298347.jpg?20260715160011",
-      "link": "https://www.skysports.com/football/news/12040/13563741/nobby-stiles-former-man-utd-midfielder-and-england-world-cup-winners-death-linked-to-heading-footballs-coroner-rules",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "18c7740909337fb6a71b179da3f5b75d",
-      "source": "Sky Sports",
-      "headline": "England beaten - Your views on Tuchel's tactics and his future",
+      "headline": "Tuchel’s future, tactics and what you want to see change - have your say!",
       "description": "",
       "publishedAt": "2026-07-15T14:35:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7290800.jpg?20260706063922",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-england-world-cup_7298764.jpg?20260716072747",
       "link": "https://www.skysports.com/football/england-vs-argentina/live/549867",
       "tag": "Liveblog",
       "teams": []
@@ -107,38 +188,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-15T11:25:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -176,66 +225,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-15T07:45:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-15T07:45:19Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
     },
     {
       "id": 49356683,
@@ -537,6 +526,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-16T03:34:01.582Z"
+    "cachedAt": "2026-07-16T08:32:02.446Z"
   }
 }
