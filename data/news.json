@@ -2,6 +2,41 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49371654,
+      "source": "ESPN",
+      "headline": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
+      "description": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
+      "publishedAt": "2026-07-16T00:10:37Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49371654/tielemans-move-man-united-one-best-signings-window",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "71d59510f635ebc80adab9c965f51ebb",
+      "source": "Sky Sports",
+      "headline": "Kane: Holding on was not enough against Argentina",
+      "description": "England captain Harry Kane admitted trying to hold on to a 1-0 lead backfired as their World Cup hopes were ended by Argentina's late show in a 2-1 semi-final defeat.",
+      "publishedAt": "2026-07-15T22:35:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-harry-kane_7298595.jpg?20260715221320",
+      "link": "https://www.skysports.com/football/news/12040/13563844/england-out-of-world-cup-harry-kane-says-holding-on-was-not-enough-against-argentina",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "fe9e4c7e2f56ad1d9e4b9180d20555da",
+      "source": "Sky Sports",
+      "headline": "85, 90+2! Argentina's late show breaks England hearts to end World Cup dream",
+      "description": "England missed out on their first World Cup final since 1966 after a stunning late turnaround from rivals Argentina saw the holders earn a 2-1 victory thanks to Lautaro Martinez's stoppage-time winner.",
+      "publishedAt": "2026-07-15T21:12:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-enzo-fernandez-argentina_7298574.jpg?20260715215346",
+      "link": "https://www.skysports.com/football/england-vs-argentina/report/549867",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49368103,
       "source": "ESPN",
       "headline": "Tottenham guaranteed to have a World Cup winner for the third time in a row",
@@ -29,6 +64,17 @@
       ]
     },
     {
+      "id": "d26b8595d45f86c2313c7a131cb84305",
+      "source": "Sky Sports",
+      "headline": "How Tuchel's changes spectacularly backfired to unravel England",
+      "description": "Thomas Tuchel was England's gambler. A squad few others would have picked. A backs-to-the-wall win over Mexico. Starting Morgan Rogers based on \"a feeling from the coach\".",
+      "publishedAt": "2026-07-15T16:44:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7298702.jpg?20260716021159",
+      "link": "https://www.skysports.com/football/news/12040/13563777/thomas-tuchel-how-england-unravelled-after-ezri-konsa-substitution-as-familiar-failings-rob-three-lions-of-world-cup-final-place",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "8598958e57e382d4644648109059c296",
       "source": "Sky Sports",
       "headline": "World Cup-winner Stiles' death linked to heading footballs, coroner rules",
@@ -40,12 +86,12 @@
       "teams": []
     },
     {
-      "id": "9215fad79c2152d460b20d7760678a69",
+      "id": "18c7740909337fb6a71b179da3f5b75d",
       "source": "Sky Sports",
-      "headline": "Cagey start between England and Argentina with tensions high LIVE!",
+      "headline": "England beaten - Your views on Tuchel's tactics and his future",
       "description": "",
       "publishedAt": "2026-07-15T14:35:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jude-bellingham-cristian-romero_7298490.jpg?20260715200732",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7290800.jpg?20260706063922",
       "link": "https://www.skysports.com/football/england-vs-argentina/live/549867",
       "tag": "Liveblog",
       "teams": []
@@ -104,17 +150,6 @@
       "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "004f2828e8269b09519e4159c2bb18ad",
-      "source": "Sky Sports",
-      "headline": "West Ham latest: Roma hold further talks with Summerville reps over move",
-      "description": "",
-      "publishedAt": "2026-07-15T09:45:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -435,6 +470,17 @@
       ]
     },
     {
+      "id": "352d5309651a98fe2df0e9d3145cbee1",
+      "source": "Sky Sports",
+      "headline": "England player ratings: Spence shines but Bellingham, Rice and Kane fail to deliver",
+      "description": "England are out of the World Cup after losing their semi-final 2-1 to Argentina in Atlanta. Here are the England player ratings on a disappointing night for the Three Lions...",
+      "publishedAt": "2026-07-13T08:31:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-elliot-anderson-england_7298588.jpg?20260715221046",
+      "link": "https://www.skysports.com/football/news/12040/13562938/england-vs-argentina-player-ratings-djed-spence-shines-for-three-lions-but-jude-bellingham-declan-rice-and-harry-kane-fail-to-deliver",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49334079,
       "source": "ESPN",
       "headline": "What it's like to transfer clubs during a World Cup, and does it ever go wrong?",
@@ -486,24 +532,11 @@
         "Club Brugge",
         "Arsenal"
       ]
-    },
-    {
-      "id": 49323819,
-      "source": "ESPN",
-      "headline": "Michael Edwards leaves Liverpool ownership role",
-      "description": "Liverpool are facing a period of significant behind-the-scenes upheaval following the departure of Michael Edwards, the chief executive officer of football for owners Fenway Sports Group (FSG).",
-      "publishedAt": "2026-07-10T13:48:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687283_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49323819/michael-edwards-leaves-liverpool-ownership-role",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-15T19:34:22.570Z"
+    "cachedAt": "2026-07-16T03:34:01.582Z"
   }
 }
