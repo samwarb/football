@@ -2,6 +2,56 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49377861,
+      "source": "ESPN",
+      "headline": "Aston Villa reach agreement to sign Wolves midfielder João Gomes - sources",
+      "description": "Aston Villa have reached an agreement to sign Wolverhampton midfielder João Gomes on a permanent transfer, sources have told ESPN.",
+      "publishedAt": "2026-07-16T18:13:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1690093_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49377861/aston-villa-wolverhampton-wanderers-premier-league-joao-gomes-transfer-fee-agreed",
+      "tag": "Wolverhampton Wanderers",
+      "teams": [
+        "Wolverhampton Wanderers",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49374387,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool ready to move for Brazil's Rayan",
+      "description": "Rayan left Brazil for Bournemouth in January, but he could already be on his way to Liverpool. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-16T18:00:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0527/r1664395_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49374387/transfer-rumors-news-bayern-munich-star-michael-olise-wants-real-madrid-move",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "AFC Bournemouth"
+      ]
+    },
+    {
+      "id": "4b6a0585f7f612d4bc7825870750843c",
+      "source": "Sky Sports",
+      "headline": "Tzolis: Arsenal's new 'warrior mode' winger - and perfect Trossard replacement",
+      "description": "In Christos Tzolis, Arsenal's first outfield signing since becoming Premier League champions is a fairly surprising one. But nobody will be more stunned about this deal than Norwich fans.",
+      "publishedAt": "2026-07-16T14:05:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tzolis-arsenal_7299212.jpg?20260716153304",
+      "link": "https://www.skysports.com/football/news/12040/13564054/christos-tzolis-arsenal-set-to-have-a-new-warrior-mode-winger-who-is-the-perfect-replacement-for-leandro-trossard",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "ccc574eedcec2010273ee8747a2e2271",
+      "source": "Sky Sports",
+      "headline": "Arsenal agree £34m deal to sign Greek winger Tzolis",
+      "description": "Arsenal have agreed a deal with Club Brugge for winger Christos Tzolis, Sky Sports News understands.",
+      "publishedAt": "2026-07-16T13:58:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tzolis-arsenal_7299181.jpg?20260716150127",
+      "link": "https://www.skysports.com/football/news/12040/13564048/christos-tzolis-arsenal-agree-fee-with-club-brugge-to-sign-greek-winger-as-replacement-for-leandro-trossard",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -24,25 +74,14 @@
       "teams": []
     },
     {
-      "id": "2c6a0292dcf3257100c5f424f8872da9",
+      "id": "e24f5eab94cacda9c83c2777af5ca9d7",
       "source": "Sky Sports",
-      "headline": "Neville: I won't lump in on Tuchel - England have had same issues for years",
-      "description": "Gary Neville says he will not \"lump in\" on the criticisms of Thomas Tuchel after England's World Cup exit to Argentina, adding that he never expected the team to win the tournament.",
-      "publishedAt": "2026-07-16T12:50:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jude-bellingham-england_7298651.jpg?20260715232114",
-      "link": "https://www.skysports.com/football/news/12040/13563973/england-1-2-argentina-gary-neville-says-he-will-not-lump-in-on-thomas-tuchel-as-three-lions-issues-rear-their-head-once-again",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "5bd85a76841971c76af27b89d5348697",
-      "source": "Sky Sports",
-      "headline": "Goalkeeper Gordon, 43, retires after 25-year career",
-      "description": "Craig Gordon has retired from playing football at the age of 43.",
-      "publishedAt": "2026-07-16T09:05:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-craig-gordon_7298389.jpg?20260715164727",
-      "link": "https://www.skysports.com/football/news/12040/13563686/craig-gordon-retires-former-hearts-sunderland-celtic-and-scotland-goalkeeper-hangs-up-his-gloves-aged-43-after-career-spanning-25-years",
-      "tag": "News Story",
+      "headline": "'I know what I'm talking about!' | Neville responds after Romero criticises him",
+      "description": "Gary Neville responds to Cristian Romero after the Spurs captain took aim at the former Man Utd defender following Argentina's win over England in the World Cup semi-final.",
+      "publishedAt": "2026-07-16T12:20:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-football-world-cup_7299087.jpg?20260716132545",
+      "link": "https://www.skysports.com/watch/video/13564012/gary-neville-responds-to-cristian-romeros-comments-i-know-what-im-talking-about",
+      "tag": "Video",
       "teams": []
     },
     {
@@ -470,40 +509,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49124668,
-      "source": "ESPN",
-      "headline": "Man City beat Arsenal to signing of Leicester teenager Jeremy Monga",
-      "description": "Manchester City have completed the signing of winger Jeremy Monga from Leicester City.",
-      "publishedAt": "2026-07-11T09:38:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0620/r1676555_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49124668/jeremy-monga-man-city-leicester-city-premier-league-transfers",
-      "tag": "Leicester City",
-      "teams": [
-        "Leicester City",
-        "Manchester City",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49322102,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal eye Club Brugge forward to replace Trossard",
-      "description": "Arsenal are set to push forward with an approach for Club Brugge attacking midfielder Christos Tzolis.",
-      "publishedAt": "2026-07-10T18:33:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687374_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49322102/transfer-rumors-news-arsenal-eye-club-brugge-forward-replace-trossard",
-      "tag": "Club Brugge",
-      "teams": [
-        "Club Brugge",
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-16T14:19:27.576Z"
+    "cachedAt": "2026-07-16T19:32:35.397Z"
   }
 }
