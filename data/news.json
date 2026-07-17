@@ -2,36 +2,124 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "1cb7d342b63a7e52af661b02dd8a49e2",
+      "id": "0d48a29b7dfc448f4e7f03e6f53f481f",
       "source": "Sky Sports",
-      "headline": "Man Utd latest: Santos named in squad for Wrexham friendly",
+      "headline": "Man Utd latest: Ederson signs new Atalanta deal",
       "description": "",
-      "publishedAt": "2026-07-17T13:20:00.000Z",
+      "publishedAt": "2026-07-17T19:00:00.000Z",
       "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
       "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "639ab5b34ca2b9f8e214c6c391aed40b",
+      "id": 49385488,
+      "source": "ESPN",
+      "headline": "World Cup breakout star Johan Manzambi joins Aston Villa",
+      "description": "World Cup breakout star Johan Manzambi joined Champions League-bound Aston Villa on Friday in a record transfer deal for a Swiss player.",
+      "publishedAt": "2026-07-17T18:54:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0622/r1677812_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49385488/world-cup-breakout-star-johan-manzambi-aston-villa",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Switzerland"
+      ]
+    },
+    {
+      "id": 49381951,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Porro's World Cup for Spain catches Barça's eye",
+      "description": "The Pedro Porro-Lamine Yamal partnership has been a boon for Spain at this World Cup, and Barça want to reunite the pair. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-17T17:31:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689231_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49381951/transfer-rumors-news-arsenal-accelerate-morgan-rogers-aston-villa-christos-tzolis",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "2a6ab2316151b3d0c02d5ba7adc42d41",
       "source": "Sky Sports",
-      "headline": "Pep's prediction correct as Rodri returns to dominant best",
-      "description": "Rodri came in for some criticism in Spain after they were held to a goalless draw by Cape Verde in their first game of the World Cup. There were accusations that he had moved the ball too slowly; that he was in some way responsible for the result.",
-      "publishedAt": "2026-07-17T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-spain_7299283.jpg?20260716162114",
-      "link": "https://www.skysports.com/football/news/12040/13564001/rodri-man-city-and-spain-midfielder-still-setting-the-standard-as-pep-guardiolas-world-cup-prediction-proves-accurate",
+      "headline": "Villa sign Newcastle target Manzambi in club-record deal",
+      "description": "Aston Villa have beaten Newcastle to the signing of Johan Manzambi after completing a club-record £59.5m deal for the midfielder from Freiburg.",
+      "publishedAt": "2026-07-17T17:04:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-switzerland-manzambi_7282097.jpg?20260624220700",
+      "link": "https://www.skysports.com/football/news/12040/13564492/johan-manzambi-aston-villa-sign-newcastle-target-from-freiburg-in-club-record-59-5m-deal",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "001461cc02a6890cde177a2a1b9e207e",
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-17T15:11:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 49384172,
+      "source": "ESPN",
+      "headline": "Man United vs. Wrexham: Andrey Santos in travelling squad, Benjamin Sesko absent",
+      "description": "Andrey Santos could get his first run-out in Manchester United colours on Saturday after being included in the travelling squad for their pre-season friendly against Wrexham in Helsinki.",
+      "publishedAt": "2026-07-17T14:14:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690427_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49384172/man-united-vs-wrexham-andrey-santos-travelling-squad-benjamin-sesko-absent",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Chelsea",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 49384050,
+      "source": "ESPN",
+      "headline": "Dominik Szoboszlai commits Liverpool future with new long-term contract",
+      "description": "Liverpool midfielder Dominik Szoboszlai has signed a new long-term contract at Anfield.",
+      "publishedAt": "2026-07-17T14:00:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0404/r1638408_4_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49384050/dominik-szoboszlai-commits-liverpool-future-new-long-term-contract",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "28b8a3dbd82c4fd2fb183912861a1615",
       "source": "Sky Sports",
-      "headline": "West Ham latest: Bowen's statement in full after committing future",
-      "description": "",
-      "publishedAt": "2026-07-17T10:37:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "tag": "Liveblog",
+      "headline": "Szoboszlai signs new long-term Liverpool deal",
+      "description": "Dominik Szoboszlai has signed a new long-term deal at Liverpool.",
+      "publishedAt": "2026-07-17T14:00:00.000Z",
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-dominik-szoboszlai_7193553.jpg?20260315170222",
+      "link": "https://www.skysports.com/football/news/12040/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -61,52 +149,6 @@
         "Nottingham Forest",
         "Sunderland",
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-17T07:45:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 49381951,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal accelerate Rogers talks after Tzolis deal",
-      "description": "Arsenal are ramping up a move for Aston Villa star Morgan Rogers even after agreeing a deal for Club Brugge winger Christos Tzolis. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-17T07:40:40Z",
-      "image": "https://a.espncdn.com/photo/2025/1221/r1592336_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49381951/transfer-rumors-news-arsenal-accelerate-morgan-rogers-aston-villa-christos-tzolis",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa"
       ]
     },
     {
@@ -212,17 +254,6 @@
       ]
     },
     {
-      "id": "9650abd1bcbc539c81c2d3be9c4a6f5b",
-      "source": "Sky Sports",
-      "headline": "How De la Fuente and Scaloni outperformed Tuchel and Ancelotti",
-      "description": "Sunday's World Cup final will be a meeting of stars but the two managers overseeing Lionel Messi, Lamine Yamal and the rest do not share the high-profile status of many of their players.",
-      "publishedAt": "2026-07-16T14:22:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-scaloni-luis-de-la-fuente_7299282.jpg?20260716162055",
-      "link": "https://www.skysports.com/football/news/12040/13564062/luis-de-la-fuente-and-lionel-scaloni-outperform-thomas-tuchel-and-carlo-ancelotti-at-world-cup-so-what-makes-a-good-international-manager",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -231,6 +262,17 @@
       "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "3923ed9120cc447e8d293360706f5027",
+      "source": "Sky Sports",
+      "headline": "Neville: I have a big problem with Tuchel's DNA comments",
+      "description": "Gary Neville has hit back at Thomas Tuchel's suggestions that English football's 'DNA' was to blame for their World Cup semi-final defeat to Argentina.",
+      "publishedAt": "2026-07-16T12:50:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-gary-neville-thomas-tuchel_7299248.jpg?20260716155530",
+      "link": "https://www.skysports.com/football/news/12040/13564414/england-1-2-argentina-gary-neville-takes-issue-with-thomas-tuchels-english-dna-claims-following-world-cup-elimination",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -412,17 +454,6 @@
       ]
     },
     {
-      "id": 49326566,
-      "source": "ESPN",
-      "headline": "Why World Cup hydration breaks have media 'salivating'",
-      "description": "FIFA's mandated three-minute breaks have been a talking point throughout the 2026 World Cup.",
-      "publishedAt": "2026-07-13T22:20:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686461_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49326566/hydration-breaks-world-cup-soccer-broadcast-rights",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49348383,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Bayern confident in Kane extension",
@@ -434,20 +465,6 @@
       "teams": [
         "Arsenal",
         "Atlético Madrid"
-      ]
-    },
-    {
-      "id": 49348973,
-      "source": "ESPN",
-      "headline": "Sources: Man United in advanced talks to sign Youri Tielemans from Aston Villa",
-      "description": "Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa, sources have told ESPN.",
-      "publishedAt": "2026-07-13T18:54:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688579_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Aston Villa"
       ]
     },
     {
@@ -503,24 +520,11 @@
         "Manchester United",
         "Chelsea"
       ]
-    },
-    {
-      "id": 49348846,
-      "source": "ESPN",
-      "headline": "Andoni Iraola admits Liverpool need more players, club 'working hard' to bolster squad",
-      "description": "Liverpool head coach Andoni Iraola has admitted the club \"need more\" players but are \"working hard\" behind the scenes to bolster his squad in this transfer window.",
-      "publishedAt": "2026-07-13T10:58:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688578_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49348846/andoni-iraola-admits-liverpool-need-more-players-club-working-hard-bolster-squad",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-17T14:00:18.102Z"
+    "cachedAt": "2026-07-17T19:30:25.950Z"
   }
 }
