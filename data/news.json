@@ -2,11 +2,44 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "1cb7d342b63a7e52af661b02dd8a49e2",
+      "source": "Sky Sports",
+      "headline": "Man Utd latest: Santos named in squad for Wrexham friendly",
+      "description": "",
+      "publishedAt": "2026-07-17T13:20:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "639ab5b34ca2b9f8e214c6c391aed40b",
+      "source": "Sky Sports",
+      "headline": "Pep's prediction correct as Rodri returns to dominant best",
+      "description": "Rodri came in for some criticism in Spain after they were held to a goalless draw by Cape Verde in their first game of the World Cup. There were accusations that he had moved the ball too slowly; that he was in some way responsible for the result.",
+      "publishedAt": "2026-07-17T11:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-spain_7299283.jpg?20260716162114",
+      "link": "https://www.skysports.com/football/news/12040/13564001/rodri-man-city-and-spain-midfielder-still-setting-the-standard-as-pep-guardiolas-world-cup-prediction-proves-accurate",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "001461cc02a6890cde177a2a1b9e207e",
+      "source": "Sky Sports",
+      "headline": "West Ham latest: Bowen's statement in full after committing future",
+      "description": "",
+      "publishedAt": "2026-07-17T10:37:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
       "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-17T08:14:22Z",
+      "publishedAt": "2026-07-17T10:14:38Z",
       "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
       "tag": "Arsenal",
@@ -18,6 +51,7 @@
         "Brighton & Hove Albion",
         "Chelsea",
         "Coventry City",
+        "Crystal Palace",
         "Everton",
         "Ipswich Town",
         "Hull City",
@@ -176,6 +210,17 @@
         "Liverpool",
         "AFC Bournemouth"
       ]
+    },
+    {
+      "id": "9650abd1bcbc539c81c2d3be9c4a6f5b",
+      "source": "Sky Sports",
+      "headline": "How De la Fuente and Scaloni outperformed Tuchel and Ancelotti",
+      "description": "Sunday's World Cup final will be a meeting of stars but the two managers overseeing Lionel Messi, Lamine Yamal and the rest do not share the high-profile status of many of their players.",
+      "publishedAt": "2026-07-16T14:22:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-scaloni-luis-de-la-fuente_7299282.jpg?20260716162055",
+      "link": "https://www.skysports.com/football/news/12040/13564062/luis-de-la-fuente-and-lionel-scaloni-outperform-thomas-tuchel-and-carlo-ancelotti-at-world-cup-so-what-makes-a-good-international-manager",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48990955,
@@ -476,6 +521,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-17T08:26:04.497Z"
+    "cachedAt": "2026-07-17T14:00:18.102Z"
   }
 }
