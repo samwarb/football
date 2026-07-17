@@ -2,6 +2,31 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "22c459e201625b361322c9e3af48fa65",
+      "source": "Sky Sports",
+      "headline": "Celtic struggling to compete in transfer window - CEO",
+      "description": "Celtic are struggling to compete with English Championship clubs in the transfer market and deal with agents, according to minutes of a meeting between board members and supporters.",
+      "publishedAt": "2026-07-16T22:30:00.000Z",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-nicholson-wilson_7157563.jpg?20260206154611",
+      "link": "https://www.skysports.com/football/news/12040/13564215/celtic-transfer-news-scottish-premiership-champions-struggling-to-compete-in-market-meeting-notes-reveal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49379773,
+      "source": "ESPN",
+      "headline": "Coventry announce signing of Aurèle Amenda from Eintracht Frankfurt",
+      "description": "Coventry have announced the signing of Switzerland defender Aurele Amenda from Eintracht Frankfurt.",
+      "publishedAt": "2026-07-16T22:07:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1690204_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49379773/coventry-city-signing-aurele-amenda-defender-eintracht-frankfurt",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City",
+        "Eintracht Frankfurt"
+      ]
+    },
+    {
       "id": 49377861,
       "source": "ESPN",
       "headline": "Aston Villa reach agreement to sign Wolves midfielder João Gomes - sources",
@@ -60,28 +85,6 @@
       "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "35426ff14255d599913e7b1e0fd1076c",
-      "source": "Sky Sports",
-      "headline": "The big questions facing Tuchel and England after World Cup exit",
-      "description": "After England's World Cup semi-final defeat to Argentina, Sky Sports looks at the big questions facing Thomas Tuchel and the Three Lions squad.",
-      "publishedAt": "2026-07-16T13:35:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tuchel-england_7299091.jpg?20260716133212",
-      "link": "https://www.skysports.com/football/news/12040/13563938/england-out-of-the-world-cup-the-big-questions-facing-thomas-tuchel-and-the-three-lions-after-losing-to-argentina",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e24f5eab94cacda9c83c2777af5ca9d7",
-      "source": "Sky Sports",
-      "headline": "'I know what I'm talking about!' | Neville responds after Romero criticises him",
-      "description": "Gary Neville responds to Cristian Romero after the Spurs captain took aim at the former Man Utd defender following Argentina's win over England in the World Cup semi-final.",
-      "publishedAt": "2026-07-16T12:20:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-football-world-cup_7299087.jpg?20260716132545",
-      "link": "https://www.skysports.com/watch/video/13564012/gary-neville-responds-to-cristian-romeros-comments-i-know-what-im-talking-about",
-      "tag": "Video",
       "teams": []
     },
     {
@@ -496,24 +499,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/49334079/what-transfer-clubs-world-cup-does-ever-go-wrong",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49333624,
-      "source": "ESPN",
-      "headline": "Former Chelsea chairman Ken Bates dies aged 94",
-      "description": "Former Chelsea chairman Ken Bates has died at the age of 94, the club announced on Saturday.",
-      "publishedAt": "2026-07-11T14:14:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687747_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49333624/former-chelsea-chairman-ken-bates-dies-aged-94",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-16T19:32:35.397Z"
+    "cachedAt": "2026-07-17T03:34:17.862Z"
   }
 }
