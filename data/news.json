@@ -2,6 +2,70 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-18T06:32:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-18T06:30:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
       "id": "ccd66196e10ef3b3af10c7afc5827561",
       "source": "Sky Sports",
       "headline": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
@@ -21,17 +85,6 @@
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-eckert-southampton_7241771.jpg?20260507202456",
       "link": "https://www.skysports.com/football/news/12040/13564527/tonda-eckert-exclusive-southampton-boss-reveals-he-received-police-protection-after-threats-during-spygate-scandal",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "0d48a29b7dfc448f4e7f03e6f53f481f",
-      "source": "Sky Sports",
-      "headline": "Man Utd latest: Ederson signs new Atalanta deal",
-      "description": "",
-      "publishedAt": "2026-07-17T19:00:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -74,38 +127,6 @@
       "teams": []
     },
     {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Leading English clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026/27 Premier League season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-17T15:11:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
       "id": 49384172,
       "source": "ESPN",
       "headline": "Man United vs. Wrexham: Andrey Santos in travelling squad, Benjamin Sesko absent",
@@ -132,17 +153,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "28b8a3dbd82c4fd2fb183912861a1615",
-      "source": "Sky Sports",
-      "headline": "Szoboszlai signs new long-term Liverpool deal",
-      "description": "Dominik Szoboszlai has signed a new long-term deal at Liverpool.",
-      "publishedAt": "2026-07-17T14:00:00.000Z",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-dominik-szoboszlai_7193553.jpg?20260315170222",
-      "link": "https://www.skysports.com/football/news/12040/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -199,38 +209,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-17T06:37:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -536,6 +514,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-18T03:28:26.218Z"
+    "cachedAt": "2026-07-18T08:05:53.524Z"
   }
 }
