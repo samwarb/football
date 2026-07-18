@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "ccd66196e10ef3b3af10c7afc5827561",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-07-17T21:45:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "dc4cc9c8e6ba4c8ca3526e19621b3737",
+      "source": "Sky Sports",
+      "headline": "Saints boss Eckert reveals police protection amid threats during 'Spygate'",
+      "description": "Southampton boss Tonda Eckert has revealed he received police protection amid threats during the Spygate scandal.",
+      "publishedAt": "2026-07-17T20:15:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-eckert-southampton_7241771.jpg?20260507202456",
+      "link": "https://www.skysports.com/football/news/12040/13564527/tonda-eckert-exclusive-southampton-boss-reveals-he-received-police-protection-after-threats-during-spygate-scandal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "0d48a29b7dfc448f4e7f03e6f53f481f",
       "source": "Sky Sports",
       "headline": "Man Utd latest: Ederson signs new Atalanta deal",
@@ -265,17 +287,6 @@
       "teams": []
     },
     {
-      "id": "3923ed9120cc447e8d293360706f5027",
-      "source": "Sky Sports",
-      "headline": "Neville: I have a big problem with Tuchel's DNA comments",
-      "description": "Gary Neville has hit back at Thomas Tuchel's suggestions that English football's 'DNA' was to blame for their World Cup semi-final defeat to Argentina.",
-      "publishedAt": "2026-07-16T12:50:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-gary-neville-thomas-tuchel_7299248.jpg?20260716155530",
-      "link": "https://www.skysports.com/football/news/12040/13564414/england-1-2-argentina-gary-neville-takes-issue-with-thomas-tuchels-english-dna-claims-following-world-cup-elimination",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49371654,
       "source": "ESPN",
       "headline": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
@@ -525,6 +536,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-17T19:30:25.950Z"
+    "cachedAt": "2026-07-18T03:28:26.218Z"
   }
 }
