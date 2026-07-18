@@ -2,15 +2,122 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "1cabef85d51a8ae3e0e833c875eb4ecf",
+      "id": 49392368,
+      "source": "ESPN",
+      "headline": "Chelsea agree £117m deal for Aston Villa's Morgan Rogers - sources",
+      "description": "Chelsea are set to make Morgan Rogers the most expensive player in British history after agreeing a £117 million deal with Aston Villa, sources have told ESPN.",
+      "publishedAt": "2026-07-18T18:56:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690881_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49392368/chelsea-agree-117m-deal-aston-villa-morgan-rogers-sources-transfer",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49392595,
+      "source": "ESPN",
+      "headline": "Onuoha: Morgan Rogers joining Chelsea is Alonso's statement of intent",
+      "description": "Onuoha: Morgan Rogers joining Chelsea is Alonso's statement of intent",
+      "publishedAt": "2026-07-18T18:54:52Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Onuoha_Morgan_Rogers_joining_Chelsea_is_Alonsos_statement_of_intent/dm_260718_Onuoha_Morgan_Rogers_joining_Chelsea_is_Alonsos_statement_of_intent.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49392595/morgan-rogers-joining-chelsea-alonso-statement-intent",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49392372,
+      "source": "ESPN",
+      "headline": "Wrexham beat Man United in Helsinki friendly as Andrey Santos makes strong debut",
+      "description": "Andrey Santos made a bright first Manchester United appearance as they fell to a 1-0 preseason friendly loss to Wrexham in Helsinki.",
+      "publishedAt": "2026-07-18T18:44:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690888_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49392372/wrexham-manchester-united-friendly-result-recap-helsinki-preseason",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": "88226be7a292e07c25367713e1a360a9",
       "source": "Sky Sports",
-      "headline": "Man Utd kick off preseason vs Wrexham: Will Santos make debut? LIVE!",
+      "headline": "'Statement of intent!' | How Chelsea agreed HUGE £117m deal for Rogers!",
+      "description": "Sky Sports News' Kaveh Solhekol breaks down Chelsea's £117m deal for Morgan Rogers and what he could add to Xabi Alonso's side.",
+      "publishedAt": "2026-07-18T18:31:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-football-chelsea_7300981.jpg?20260718193325",
+      "link": "https://www.skysports.com/watch/video/13564768/why-have-chelsea-made-mega-bid-for-morgan-rogers",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "7bf8a12730eeaf126fea1464524db3b1",
+      "source": "Sky Sports",
+      "headline": "Chelsea agree record £117m deal for Villa's Rogers",
+      "description": "Chelsea have agreed a record £117m deal with Aston Villa for Morgan Rogers.",
+      "publishedAt": "2026-07-18T18:10:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-morgan-rogers-aston-villa_7300969.jpg?20260718191829",
+      "link": "https://www.skysports.com/football/news/12040/13564758/morgan-rogers-transfer-news-chelsea-agree-record-117m-deal-for-aston-villa-forward-and-arsenals-no-1-target",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "8695e2c7fa0476df1ab9192b0295cce2",
+      "source": "Sky Sports",
+      "headline": "Warrington Wolves 34-12 Hull KR | Super League highlights",
+      "description": "Highlights of the Super League match between Warrington Wolves and Hull KR.",
+      "publishedAt": "2026-07-18T16:04:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/sky-sports-rugby-league-warrington-wolves_7300848.jpg?20260718171127",
+      "link": "https://www.skysports.com/watch/video/13564721/warrington-wolves-34-12-hull-kr-super-league-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "baa9218a7e0641dd85813d1fbf6cac0c",
+      "source": "Sky Sports",
+      "headline": "Third-place play-off: France vs England team news LIVE!",
       "description": "",
-      "publishedAt": "2026-07-18T13:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-andrey-santos_7300685.jpg?20260718141526",
-      "link": "https://www.skysports.com/football/live-blog/12040/13564301/manchester-united-vs-wrexham-live-pre-season-friendly-score-match-updates-lineups",
+      "publishedAt": "2026-07-18T15:30:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-dean-henderson-ollie_7300874.jpg?20260718173623",
+      "link": "https://www.skysports.com/football/france-vs-england/live/549868",
       "tag": "Liveblog",
       "teams": []
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-18T14:49:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
     },
     {
       "id": 49163915,
@@ -59,38 +166,6 @@
       ]
     },
     {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-18T06:32:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
@@ -123,17 +198,6 @@
       ]
     },
     {
-      "id": "dc4cc9c8e6ba4c8ca3526e19621b3737",
-      "source": "Sky Sports",
-      "headline": "Saints boss Eckert reveals police protection amid threats during 'Spygate'",
-      "description": "Southampton boss Tonda Eckert has revealed he received police protection amid threats during the Spygate scandal.",
-      "publishedAt": "2026-07-17T20:15:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-eckert-southampton_7241771.jpg?20260507202456",
-      "link": "https://www.skysports.com/football/news/12040/13564527/tonda-eckert-exclusive-southampton-boss-reveals-he-received-police-protection-after-threats-during-spygate-scandal",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49385488,
       "source": "ESPN",
       "headline": "World Cup breakout star Johan Manzambi joins Aston Villa",
@@ -160,17 +224,6 @@
         "Tottenham Hotspur",
         "Barcelona"
       ]
-    },
-    {
-      "id": "2a6ab2316151b3d0c02d5ba7adc42d41",
-      "source": "Sky Sports",
-      "headline": "Villa sign Newcastle target Manzambi in club-record deal",
-      "description": "Aston Villa have beaten Newcastle to the signing of Johan Manzambi after completing a club-record £59.5m deal for the midfielder from Freiburg.",
-      "publishedAt": "2026-07-17T17:04:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-switzerland-manzambi_7282097.jpg?20260624220700",
-      "link": "https://www.skysports.com/football/news/12040/13564492/johan-manzambi-aston-villa-sign-newcastle-target-from-freiburg-in-club-record-59-5m-deal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49384172,
@@ -472,51 +525,11 @@
         "Arsenal",
         "Atlético Madrid"
       ]
-    },
-    {
-      "id": 49351658,
-      "source": "ESPN",
-      "headline": "Would Youri Tielemans be a good signing for Man United?",
-      "description": "Would Youri Tielemans be a good signing for Man United?",
-      "publishedAt": "2026-07-13T17:36:33Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49351658/would-youri-tielemans-good-signing-man-united",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49350741,
-      "source": "ESPN",
-      "headline": "Xabi Alonso wants Enzo Fernández to stay at Chelsea amid uncertain future",
-      "description": "Chelsea manager Xabi Alonso has said he wants to keep Enzo Fernández at the club amid a potential exit this summer.",
-      "publishedAt": "2026-07-13T16:04:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654963_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49350741/xabi-alonso-wants-enzo-fernandez-stay-chelsea",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49350478,
-      "source": "ESPN",
-      "headline": "Xabi Alonso insists he wants Enzo Fernández to stay at Chelsea",
-      "description": "Xabi Alonso insists he wants Enzo Fernández to stay at Chelsea",
-      "publishedAt": "2026-07-13T15:13:12Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Presser_Xabi_Alonso_insists_he_wants_Enzo_Fernandez_to_stay_at_Chelsea_20260713_GLOBAL/dm_260713_COM_SOC_Presser_Xabi_Alonso_insists_he_wants_Enzo_Fernandez_to_stay_at_Chelsea_20260713_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49350478/xabi-alonso-insists-wants-enzo-fernandez-stay-chelsea",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-18T13:46:08.710Z"
+    "cachedAt": "2026-07-18T19:28:41.372Z"
   }
 }
