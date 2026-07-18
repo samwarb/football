@@ -2,6 +2,63 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "1cabef85d51a8ae3e0e833c875eb4ecf",
+      "source": "Sky Sports",
+      "headline": "Man Utd kick off preseason vs Wrexham: Will Santos make debut? LIVE!",
+      "description": "",
+      "publishedAt": "2026-07-18T13:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-andrey-santos_7300685.jpg?20260718141526",
+      "link": "https://www.skysports.com/football/live-blog/12040/13564301/manchester-united-vs-wrexham-live-pre-season-friendly-score-match-updates-lineups",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-18T11:41:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49389509,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona, Real Madrid want Romero",
+      "description": "Argentina defender Cristian Romero is set to leave Tottenham amid interest from clubs including Barcelona and Real Madrid. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-18T08:55:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49389509/transfer-rumors-news-barcelona-real-madrid-atletico-inter-milan-tottenham-argentina-cristian-romero",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Barcelona",
+        "Real Madrid",
+        "Atlético Madrid",
+        "Internazionale"
+      ]
+    },
+    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -64,17 +121,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "ccd66196e10ef3b3af10c7afc5827561",
-      "source": "Sky Sports",
-      "headline": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-07-17T21:45:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": "dc4cc9c8e6ba4c8ca3526e19621b3737",
@@ -152,35 +198,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-17T10:14:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -495,25 +512,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49318443,
-      "source": "ESPN",
-      "headline": "Man United announce signing of midfielder Andrey Santos from Chelsea, Éderson deal stalls",
-      "description": "Manchester United have signed midfielder Andrey Santos from Chelsea, the club have announced.",
-      "publishedAt": "2026-07-13T13:50:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687061_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49318443/manchester-united-announce-signing-andrey-santos-chelsea-premier-league-transfer-news",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-18T08:05:53.524Z"
+    "cachedAt": "2026-07-18T13:46:08.710Z"
   }
 }
