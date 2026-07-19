@@ -2,11 +2,49 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49398782,
+      "source": "ESPN",
+      "headline": "Man United's Senne Lammens will bounce back well from Belgium World Cup woe - Tom Heaton",
+      "description": "Senne Lammens will come back from his FIFA World Cup frustration as a better goalkeeper, Manchester United teammate Tom Heaton has said.",
+      "publishedAt": "2026-07-19T12:19:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691190_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49398782/man-united-senne-lammens-bounce-back-well-belgium-world-cup-woe-tom-heaton",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Belgium"
+      ]
+    },
+    {
+      "id": "4688bc7469900f04409bfee4b97bf4a1",
+      "source": "Sky Sports",
+      "headline": "An opportunity missed? | England World Cup Verdict",
+      "description": "Sky Sports football correspondent Rob Dorsett has been with England every step of the way at the World Cup - he reflects on England's performance at the tournament and what could have been.",
+      "publishedAt": "2026-07-19T09:46:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-verdict-england-rob_7301372.jpg?20260719114031",
+      "link": "https://www.skysports.com/watch/video/13564902/world-cup-2026-englands-tournament-analysed",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 49397847,
+      "source": "ESPN",
+      "headline": "Goalkeeper Radek Vitek ready to leave Man United in search of No. 1 role",
+      "description": "Goalkeeper Radek Vitek is ready to leave Manchester United in search of regular first-team football.",
+      "publishedAt": "2026-07-19T09:24:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691162_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49397847/radek-vitek-manchester-united-leave-game-preseason-wrexham-starter",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
       "id": 49397315,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Barcelona set deadline for Argentina's Álvarez; Spain's Rodri wants Real Madrid",
       "description": "Barcelona have set a deadline of July 31 for Atlético Madrid to accept their offer to sign Argentina striker Julián Álvarez. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-19T07:17:55Z",
+      "publishedAt": "2026-07-19T09:14:12Z",
       "image": "https://a.espncdn.com/photo/2026/0713/r1688643_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49397315/transfer-rumors-news-barcelona-set-deadline-argentina-alvarez-spain-rodri-wants-real-madrid",
       "tag": "Real Madrid",
@@ -120,28 +158,6 @@
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-world-cup_7301206.jpg?20260719003949",
       "link": "https://www.skysports.com/football/france-vs-england/report/549868",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "0c3671dd29cae0c7076bb23c484a9941",
-      "source": "Sky Sports",
-      "headline": "World Cup final predictions: Back Spain to surge as Argentina's engine empties",
-      "description": "This one certainly should live up to the billing.",
-      "publishedAt": "2026-07-18T23:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-spain-argentina_7300992.jpg?20260718195933",
-      "link": "https://www.skysports.com/football/news/12040/13564773/world-cup-final-predictions-and-best-bets-back-spain-to-surge-as-argentinas-engine-empties",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
-      "id": "c3d51c72ff5c3a6903ab60b82ab40f6a",
-      "source": "Sky Sports",
-      "headline": "England tournament player ratings: Who impressed and who struggled?",
-      "description": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted.",
-      "publishedAt": "2026-07-18T20:35:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-players_7301214.jpg?20260719011835",
-      "link": "https://www.skysports.com/football/news/12040/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -378,17 +394,6 @@
       ]
     },
     {
-      "id": 48991120,
-      "source": "ESPN",
-      "headline": "Transfer big board: Best players in each position who could move this summer",
-      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
-      "publishedAt": "2026-07-15T09:51:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49356176,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Roma consider €38m offer for Chelsea's Garnacho",
@@ -501,25 +506,11 @@
         "Liverpool",
         "Chelsea"
       ]
-    },
-    {
-      "id": 49348383,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Bayern confident in Kane extension",
-      "description": "Bayern Munich believe Harry Kane will sign an extension, even with Barcelona and Real Madrid in pursuit. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-13T20:42:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688825_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49348383/transfer-rumors-news-arsenal-step-move-argentina-julian-alvarez",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Atlético Madrid"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-19T08:31:35.478Z"
+    "cachedAt": "2026-07-19T13:50:25.106Z"
   }
 }
