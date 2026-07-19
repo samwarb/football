@@ -2,11 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "8411fe504f8e3bc7d39a024eb0f2cf81",
+      "source": "Sky Sports",
+      "headline": "England claim third at World Cup with win in 10-goal thriller over France",
+      "description": "Bukayo Saka’s hat-trick helped England to a remarkable 6-4 bronze medal win over France in Miami to achieve their best World Cup finish since 1966.",
+      "publishedAt": "2026-07-18T23:15:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-world-cup_7301206.jpg?20260719003949",
+      "link": "https://www.skysports.com/football/france-vs-england/report/549868",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "c3d51c72ff5c3a6903ab60b82ab40f6a",
+      "source": "Sky Sports",
+      "headline": "England tournament player ratings: Who impressed and who struggled?",
+      "description": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted.",
+      "publishedAt": "2026-07-18T20:35:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-players_7301214.jpg?20260719011835",
+      "link": "https://www.skysports.com/football/news/12040/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49392368,
       "source": "ESPN",
       "headline": "Chelsea agree £117m deal for Aston Villa's Morgan Rogers - sources",
       "description": "Chelsea are set to make Morgan Rogers the most expensive player in British history after agreeing a £117 million deal with Aston Villa, sources have told ESPN.",
-      "publishedAt": "2026-07-18T18:56:21Z",
+      "publishedAt": "2026-07-18T19:21:57Z",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690881_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49392368/chelsea-agree-117m-deal-aston-villa-morgan-rogers-sources-transfer",
       "tag": "Chelsea",
@@ -44,17 +66,6 @@
       ]
     },
     {
-      "id": "88226be7a292e07c25367713e1a360a9",
-      "source": "Sky Sports",
-      "headline": "'Statement of intent!' | How Chelsea agreed HUGE £117m deal for Rogers!",
-      "description": "Sky Sports News' Kaveh Solhekol breaks down Chelsea's £117m deal for Morgan Rogers and what he could add to Xabi Alonso's side.",
-      "publishedAt": "2026-07-18T18:31:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-football-chelsea_7300981.jpg?20260718193325",
-      "link": "https://www.skysports.com/watch/video/13564768/why-have-chelsea-made-mega-bid-for-morgan-rogers",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": "7bf8a12730eeaf126fea1464524db3b1",
       "source": "Sky Sports",
       "headline": "Chelsea agree record £117m deal for Villa's Rogers",
@@ -74,17 +85,6 @@
       "image": "https://e1.365dm.com/26/07/1920x1080/sky-sports-rugby-league-warrington-wolves_7300848.jpg?20260718171127",
       "link": "https://www.skysports.com/watch/video/13564721/warrington-wolves-34-12-hull-kr-super-league-highlights",
       "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "baa9218a7e0641dd85813d1fbf6cac0c",
-      "source": "Sky Sports",
-      "headline": "Third-place play-off: France vs England team news LIVE!",
-      "description": "",
-      "publishedAt": "2026-07-18T15:30:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-dean-henderson-ollie_7300874.jpg?20260718173623",
-      "link": "https://www.skysports.com/football/france-vs-england/live/549868",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -146,23 +146,6 @@
         "Nottingham Forest",
         "Sunderland",
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49389509,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona, Real Madrid want Romero",
-      "description": "Argentina defender Cristian Romero is set to leave Tottenham amid interest from clubs including Barcelona and Real Madrid. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-18T08:55:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49389509/transfer-rumors-news-barcelona-real-madrid-atletico-inter-milan-tottenham-argentina-cristian-romero",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Barcelona",
-        "Real Madrid",
-        "Atlético Madrid",
-        "Internazionale"
       ]
     },
     {
@@ -525,11 +508,25 @@
         "Arsenal",
         "Atlético Madrid"
       ]
+    },
+    {
+      "id": 49351658,
+      "source": "ESPN",
+      "headline": "Would Youri Tielemans be a good signing for Man United?",
+      "description": "Would Youri Tielemans be a good signing for Man United?",
+      "publishedAt": "2026-07-13T17:36:33Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49351658/would-youri-tielemans-good-signing-man-united",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Manchester United"
+      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-18T19:28:41.372Z"
+    "cachedAt": "2026-07-19T03:50:41.851Z"
   }
 }
