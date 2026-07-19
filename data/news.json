@@ -2,6 +2,116 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49397315,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona set deadline for Argentina's Álvarez; Spain's Rodri wants Real Madrid",
+      "description": "Barcelona have set a deadline of July 31 for Atlético Madrid to accept their offer to sign Argentina striker Julián Álvarez. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-19T07:17:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688643_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49397315/transfer-rumors-news-barcelona-set-deadline-argentina-alvarez-spain-rodri-wants-real-madrid",
+      "tag": "Real Madrid",
+      "teams": [
+        "Real Madrid",
+        "Spain",
+        "Argentina",
+        "Barcelona",
+        "Manchester City",
+        "Atlético Madrid"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-19T06:30:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-19T06:30:07Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-19T06:29:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
       "id": "8411fe504f8e3bc7d39a024eb0f2cf81",
       "source": "Sky Sports",
       "headline": "England claim third at World Cup with win in 10-goal thriller over France",
@@ -10,6 +120,17 @@
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-world-cup_7301206.jpg?20260719003949",
       "link": "https://www.skysports.com/football/france-vs-england/report/549868",
       "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "0c3671dd29cae0c7076bb23c484a9941",
+      "source": "Sky Sports",
+      "headline": "World Cup final predictions: Back Spain to surge as Argentina's engine empties",
+      "description": "This one certainly should live up to the billing.",
+      "publishedAt": "2026-07-18T23:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-spain-argentina_7300992.jpg?20260718195933",
+      "link": "https://www.skysports.com/football/news/12040/13564773/world-cup-final-predictions-and-best-bets-back-spain-to-surge-as-argentinas-engine-empties",
+      "tag": "Article/Blog",
       "teams": []
     },
     {
@@ -66,60 +187,6 @@
       ]
     },
     {
-      "id": "7bf8a12730eeaf126fea1464524db3b1",
-      "source": "Sky Sports",
-      "headline": "Chelsea agree record £117m deal for Villa's Rogers",
-      "description": "Chelsea have agreed a record £117m deal with Aston Villa for Morgan Rogers.",
-      "publishedAt": "2026-07-18T18:10:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-morgan-rogers-aston-villa_7300969.jpg?20260718191829",
-      "link": "https://www.skysports.com/football/news/12040/13564758/morgan-rogers-transfer-news-chelsea-agree-record-117m-deal-for-aston-villa-forward-and-arsenals-no-1-target",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "8695e2c7fa0476df1ab9192b0295cce2",
-      "source": "Sky Sports",
-      "headline": "Warrington Wolves 34-12 Hull KR | Super League highlights",
-      "description": "Highlights of the Super League match between Warrington Wolves and Hull KR.",
-      "publishedAt": "2026-07-18T16:04:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/sky-sports-rugby-league-warrington-wolves_7300848.jpg?20260718171127",
-      "link": "https://www.skysports.com/watch/video/13564721/warrington-wolves-34-12-hull-kr-super-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-18T14:49:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
@@ -146,38 +213,6 @@
         "Nottingham Forest",
         "Sunderland",
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-18T06:30:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -234,34 +269,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-17T06:37:39Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
       ]
     },
     {
@@ -508,25 +515,11 @@
         "Arsenal",
         "Atlético Madrid"
       ]
-    },
-    {
-      "id": 49351658,
-      "source": "ESPN",
-      "headline": "Would Youri Tielemans be a good signing for Man United?",
-      "description": "Would Youri Tielemans be a good signing for Man United?",
-      "publishedAt": "2026-07-13T17:36:33Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49351658/would-youri-tielemans-good-signing-man-united",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-19T03:50:41.851Z"
+    "cachedAt": "2026-07-19T08:31:35.478Z"
   }
 }
