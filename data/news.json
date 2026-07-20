@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "535dd84fb525e805c1c1b827b258bb77",
+      "source": "Sky Sports",
+      "headline": "World Cup final player ratings: Messi peters out as super-subs inspire Spain",
+      "description": "Spain beat Argentina 1-0 in one of the most one-sided World Cup finals in history. From Ferran Torres' heroics to Lionel Messi's last dance, here are the player ratings as Luis de la Fuente's side claimed their second star...",
+      "publishedAt": "2026-07-19T22:45:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi_7301941.jpg?20260719233331",
+      "link": "https://www.skysports.com/football/news/12040/13564993/spain-vs-argentina-player-ratings-lionel-messi-fails-to-produce-one-last-moment-of-magic-as-super-subs-guide-spain-to-world-cup-triumph",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "8493260641679ab3cb4276b0822f0fe8",
+      "source": "Sky Sports",
+      "headline": "Spain beat Argentina to win World Cup",
+      "description": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final.",
+      "publishedAt": "2026-07-19T22:10:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ferran-torres-spain_7301955.jpg?20260719235710",
+      "link": "https://www.skysports.com/football/spain-vs-argentina/report/549869",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49397315,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Barcelona set deadline for Argentina's Álvarez; Spain's Rodri wants Real Madrid",
@@ -489,6 +511,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-19T19:29:43.987Z"
+    "cachedAt": "2026-07-20T04:01:27.529Z"
   }
 }
