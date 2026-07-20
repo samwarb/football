@@ -2,22 +2,11 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "bc8933bf36e167708137a61f21e86627",
-      "source": "Sky Sports",
-      "headline": "'Nothing to blame them for' - Argentina papers defend team after dismal final",
-      "description": "Argentina's national media defended their team's performance in the World Cup final - despite a defensive and ill-disciplined display.",
-      "publishedAt": "2026-07-20T07:47:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leandro-parades-argentina_7301946.jpg?20260719234200",
-      "link": "https://www.skysports.com/football/news/12040/13565144/world-cup-final-spain-1-0-argentina-lionel-messis-side-defended-by-national-newspapers-despite-dismal-display",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49407887,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal eye shock move for Stones",
       "description": "Arsenal are considering a shock deal to sign former Manchester City defender John Stones as a free agent. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-20T07:26:44Z",
+      "publishedAt": "2026-07-20T14:28:33Z",
       "image": "https://a.espncdn.com/photo/2025/0622/r1509747_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49407887/transfer-rumors-news-arsenal-eye-shock-move-ex-man-city-defender-stones",
       "tag": "Manchester City",
@@ -25,6 +14,133 @@
         "Manchester City",
         "Arsenal"
       ]
+    },
+    {
+      "id": "70356805ae14dc837712c34b32ca2c09",
+      "source": "Sky Sports",
+      "headline": "Former England forward and manager Keegan dies aged 75",
+      "description": "Kevin Keegan has died at the age of 75.",
+      "publishedAt": "2026-07-20T14:17:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-kevin-keegan-football_7298472.png?20260715191728",
+      "link": "https://www.skysports.com/football/news/12040/13563799/kevin-keegan-dies-aged-75-former-england-forward-and-manager-passes-away-after-battle-with-cancer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "70fe177466ab1673d99db297b9ef4853",
+      "source": "Sky Sports",
+      "headline": "Guardiola holds talks over Italy head coach role",
+      "description": "The Italian Football Federation (FIGC) has met with Pep Guardiola to convince him to take over as national team head coach, according to Sky in Italy.",
+      "publishedAt": "2026-07-20T11:56:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-pep-guardiola-man-city_7171536.jpg?20260221235445",
+      "link": "https://www.skysports.com/football/news/12040/13565239/italian-football-federation-hold-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-20T11:25:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691693_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "d1bfe3cd459e73b8027574c48b16751a",
+      "source": "Sky Sports",
+      "headline": "'Rogers move is crazy money for a player Chelsea don't need!'",
+      "description": "In his latest column, Sky Sports' Paul Merson gives his reaction to Morgan Rogers' stunning £117m move to Chelsea.",
+      "publishedAt": "2026-07-20T10:34:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-morgan-rogers_7302225.jpg?20260720114606",
+      "link": "https://www.skysports.com/football/news/12040/13565204/morgan-rogers-to-chelsea-paul-merson-says-blues-do-not-need-to-spend-117m-on-aston-villa-forward-as-they-have-cole-palmer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-20T10:17:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-20T10:09:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "e12499b3ba01b67126ac0dce60e1c715",
+      "source": "Sky Sports",
+      "headline": "Fulham latest: Arbeloa plots double raid for Real Madrid duo Mastantuono and Garcia",
+      "description": "",
+      "publishedAt": "2026-07-20T09:35:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "766684f689777f3038476da2286e04b0",
+      "source": "Sky Sports",
+      "headline": "What would a 64-team World Cup look like - and could it work in 2030?",
+      "description": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this competition may be getting even bigger.",
+      "publishedAt": "2026-07-20T09:20:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832",
+      "link": "https://www.skysports.com/football/news/12040/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49407881,
@@ -40,17 +156,6 @@
         "Mamelodi Sundowns",
         "Liverpool"
       ]
-    },
-    {
-      "id": "6e0c0648b58ee177917f302ab6e5887a",
-      "source": "Sky Sports",
-      "headline": "England's World Cup assessed - by Sky Sports readers",
-      "description": "It's all over - and, once again, it's not coming home.",
-      "publishedAt": "2026-07-20T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-england-your-views_7301674.jpg?20260719170229",
-      "link": "https://www.skysports.com/football/news/12040/13564884/englands-world-cup-assessed-by-sky-sports-readers-thomas-tuchel-tactics-players-expectations-and-what-next-for-euro-2028",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49154575,
@@ -111,60 +216,6 @@
         "Coventry City",
         "Hull City"
       ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-20T06:22:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": "c92911c50b982e3f781af929474704ef",
-      "source": "Sky Sports",
-      "headline": "The Verdict: No 'fairytale finale' for Messi as Spain win second World Cup",
-      "description": "Sky Sports football correspondent Rob Dorsett analyses Spain's victory over Argentina in the World Cup final - plus the first half-time show in the history of the tournament.",
-      "publishedAt": "2026-07-20T05:58:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-spain-argentina_7302048.jpg?20260720084220",
-      "link": "https://www.skysports.com/watch/video/13565123/world-cup-2026-messis-argentina-fairy-tale-title-defence-ends-as-spain-claim-second-crown",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "7669131de82e059ad167cefab90fde79",
-      "source": "Sky Sports",
-      "headline": "'We were the better team' - Spain beat Argentina to win World Cup",
-      "description": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final.",
-      "publishedAt": "2026-07-19T22:10:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ferran-torres-spain_7301955.jpg?20260719235710",
-      "link": "https://www.skysports.com/football/spain-vs-argentina/report/549869",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49397315,
@@ -251,35 +302,6 @@
       "teams": [
         "Manchester United",
         "Wrexham"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still several weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-18T11:41:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -379,17 +401,6 @@
         "Liverpool",
         "AFC Bournemouth"
       ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-16T13:50:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 49371654,
@@ -530,11 +541,22 @@
         "Tottenham Hotspur",
         "Brighton & Hove Albion"
       ]
+    },
+    {
+      "id": "1f6ee10533c343e80088da07eb50e80e",
+      "source": "Sky Sports",
+      "headline": "Tuchel's subs, Rodri's rank, Messi's masterclass - World Cup highs & lows",
+      "description": "As the World Cup draws to a close, with Spain crowned champions for the second time in their history, Sky Sports writers reflect on a tournament that captured the world's attention - but also suffered its fair share of controversy.",
+      "publishedAt": "2026-07-14T09:10:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-england_7302099.jpg?20260720095437",
+      "link": "https://www.skysports.com/football/news/12040/13563289/2026-world-cup-awards-thomas-tuchel-rodri-harry-kane-and-lionel-messi-all-feature-in-tournament-highs-and-lows",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-20T09:31:50.230Z"
+    "cachedAt": "2026-07-20T14:31:30.680Z"
   }
 }
