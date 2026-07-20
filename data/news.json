@@ -2,38 +2,108 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49407887,
+      "id": "d95302c4bfefc61f8baff5feec7a4b7d",
+      "source": "Sky Sports",
+      "headline": "Messi: It will take time to heal from final defeat and 'immense' pain",
+      "description": "",
+      "publishedAt": "2026-07-20T18:55:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7301953.jpg?20260719235305",
+      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49408793,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal eye shock move for Stones",
-      "description": "Arsenal are considering a shock deal to sign former Manchester City defender John Stones as a free agent. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-20T14:28:33Z",
-      "image": "https://a.espncdn.com/photo/2025/0622/r1509747_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49407887/transfer-rumors-news-arsenal-eye-shock-move-ex-man-city-defender-stones",
-      "tag": "Manchester City",
+      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
+      "publishedAt": "2026-07-20T18:07:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "tag": "Arsenal",
       "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
         "Manchester City",
-        "Arsenal"
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
       ]
     },
     {
-      "id": "70356805ae14dc837712c34b32ca2c09",
+      "id": 49410987,
+      "source": "ESPN",
+      "headline": "Alan Shearer leads tributes to Kevin Keegan: 'Sleep easy Boss'",
+      "description": "Alan Shearer paid tribute to his hero and friend Kevin Keegan following the death of his former Newcastle manager at the age of 75.",
+      "publishedAt": "2026-07-20T17:29:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691796_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49410987/alan-shearer-leads-tributes-kevin-keegan-sleep-easy-boss",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Liverpool",
+        "England"
+      ]
+    },
+    {
+      "id": "a79e4e66e77fec418264aae9b25e3896",
       "source": "Sky Sports",
-      "headline": "Former England forward and manager Keegan dies aged 75",
-      "description": "Kevin Keegan has died at the age of 75.",
-      "publishedAt": "2026-07-20T14:17:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-kevin-keegan-football_7298472.png?20260715191728",
-      "link": "https://www.skysports.com/football/news/12040/13563799/kevin-keegan-dies-aged-75-former-england-forward-and-manager-passes-away-after-battle-with-cancer",
+      "headline": "The trends that defined the World Cup",
+      "description": "The biggest World Cup in history produced numbers to match. Forty-eight teams, 104 games and three host countries delivered a record 308 goals before Spain were crowned champions.",
+      "publishedAt": "2026-07-20T16:40:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-harry-kane_7299281.jpg?20260716162025",
+      "link": "https://www.skysports.com/football/news/12040/13563675/world-cup-2026-data-analysis-record-goals-bigger-fifa-ranking-gaps-older-starting-xis-travel-heat-penalties-substitutes-and-how-spain-won-it",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "70fe177466ab1673d99db297b9ef4853",
+      "id": 49410524,
+      "source": "ESPN",
+      "headline": "Ogden: Kevin Keegan defined English football in the 1970s",
+      "description": "Ogden: Kevin Keegan defined English football in the 1970s",
+      "publishedAt": "2026-07-20T16:09:10Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_Ogden_Kevin_Keegan_defined_English_football_in_the_1970s/dm_260720_Ogden_Kevin_Keegan_defined_English_football_in_the_1970s.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49410524/kevin-keegan-defined-english-football-1970s",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Liverpool",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "c248d4df467e4011d01847da766357c8",
       "source": "Sky Sports",
-      "headline": "Guardiola holds talks over Italy head coach role",
-      "description": "The Italian Football Federation (FIGC) has met with Pep Guardiola to convince him to take over as national team head coach, according to Sky in Italy.",
-      "publishedAt": "2026-07-20T11:56:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-pep-guardiola-man-city_7171536.jpg?20260221235445",
-      "link": "https://www.skysports.com/football/news/12040/13565239/italian-football-federation-hold-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach",
+      "headline": "Newcastle latest: Plans to be announced for Keegan book of condolence",
+      "description": "",
+      "publishedAt": "2026-07-20T16:00:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "803f0fc28fa550d660531eecdf57fbcf",
+      "source": "Sky Sports",
+      "headline": "What does Rogers' move mean for Chelsea's squad?",
+      "description": "Morgan Rogers is set to join Chelsea in a British-record £117m from Aston Villa - and his arrival is set to have a knock-on effect for Xabi Alonso's Blues.",
+      "publishedAt": "2026-07-20T14:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-premier-league-chelsea_7302475.jpg?20260720142040",
+      "link": "https://www.skysports.com/football/news/12040/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad",
       "tag": "News Story",
       "teams": []
     },
@@ -46,17 +116,6 @@
       "image": "https://a.espncdn.com/photo/2026/0720/r1691693_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "d1bfe3cd459e73b8027574c48b16751a",
-      "source": "Sky Sports",
-      "headline": "'Rogers move is crazy money for a player Chelsea don't need!'",
-      "description": "In his latest column, Sky Sports' Paul Merson gives his reaction to Morgan Rogers' stunning £117m move to Chelsea.",
-      "publishedAt": "2026-07-20T10:34:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-morgan-rogers_7302225.jpg?20260720114606",
-      "link": "https://www.skysports.com/football/news/12040/13565204/morgan-rogers-to-chelsea-paul-merson-says-blues-do-not-need-to-spend-117m-on-aston-villa-forward-as-they-have-cole-palmer",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -119,28 +178,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "e12499b3ba01b67126ac0dce60e1c715",
-      "source": "Sky Sports",
-      "headline": "Fulham latest: Arbeloa plots double raid for Real Madrid duo Mastantuono and Garcia",
-      "description": "",
-      "publishedAt": "2026-07-20T09:35:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "766684f689777f3038476da2286e04b0",
-      "source": "Sky Sports",
-      "headline": "What would a 64-team World Cup look like - and could it work in 2030?",
-      "description": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this competition may be getting even bigger.",
-      "publishedAt": "2026-07-20T09:20:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832",
-      "link": "https://www.skysports.com/football/news/12040/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49407881,
@@ -470,21 +507,6 @@
       ]
     },
     {
-      "id": 49356683,
-      "source": "ESPN",
-      "headline": "Manchester United sign midfielder Youri Tielemans from Aston Villa",
-      "description": "Manchester United have announced the signing of midfielder Youri Tielemans from Aston Villa.",
-      "publishedAt": "2026-07-14T19:11:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Aston Villa",
-        "Belgium"
-      ]
-    },
-    {
       "id": 49360784,
       "source": "ESPN",
       "headline": "How Aston Villa hijacked Newcastle's move for Johan Manzambi",
@@ -527,36 +549,11 @@
         "Aston Villa",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49356655,
-      "source": "ESPN",
-      "headline": "Luka Vuskovic signs for Brighton from Tottenham",
-      "description": "Brighton and Hove Albion have completed the signing of Luka Vuskovic from Tottenham, the south coast club confirmed on Tuesday.",
-      "publishedAt": "2026-07-14T09:47:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0612/r1671919_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49356655/luka-vuskovic-signs-brighton-tottenham",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": "1f6ee10533c343e80088da07eb50e80e",
-      "source": "Sky Sports",
-      "headline": "Tuchel's subs, Rodri's rank, Messi's masterclass - World Cup highs & lows",
-      "description": "As the World Cup draws to a close, with Spain crowned champions for the second time in their history, Sky Sports writers reflect on a tournament that captured the world's attention - but also suffered its fair share of controversy.",
-      "publishedAt": "2026-07-14T09:10:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-england_7302099.jpg?20260720095437",
-      "link": "https://www.skysports.com/football/news/12040/13563289/2026-world-cup-awards-thomas-tuchel-rodri-harry-kane-and-lionel-messi-all-feature-in-tournament-highs-and-lows",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-20T14:31:30.680Z"
+    "cachedAt": "2026-07-20T19:54:32.838Z"
   }
 }
