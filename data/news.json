@@ -2,20 +2,163 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "535dd84fb525e805c1c1b827b258bb77",
+      "id": "bc8933bf36e167708137a61f21e86627",
       "source": "Sky Sports",
-      "headline": "World Cup final player ratings: Messi peters out as super-subs inspire Spain",
-      "description": "Spain beat Argentina 1-0 in one of the most one-sided World Cup finals in history. From Ferran Torres' heroics to Lionel Messi's last dance, here are the player ratings as Luis de la Fuente's side claimed their second star...",
-      "publishedAt": "2026-07-19T22:45:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi_7301941.jpg?20260719233331",
-      "link": "https://www.skysports.com/football/news/12040/13564993/spain-vs-argentina-player-ratings-lionel-messi-fails-to-produce-one-last-moment-of-magic-as-super-subs-guide-spain-to-world-cup-triumph",
+      "headline": "'Nothing to blame them for' - Argentina papers defend team after dismal final",
+      "description": "Argentina's national media defended their team's performance in the World Cup final - despite a defensive and ill-disciplined display.",
+      "publishedAt": "2026-07-20T07:47:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leandro-parades-argentina_7301946.jpg?20260719234200",
+      "link": "https://www.skysports.com/football/news/12040/13565144/world-cup-final-spain-1-0-argentina-lionel-messis-side-defended-by-national-newspapers-despite-dismal-display",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "8493260641679ab3cb4276b0822f0fe8",
+      "id": 49407887,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal eye shock move for Stones",
+      "description": "Arsenal are considering a shock deal to sign former Manchester City defender John Stones as a free agent. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-20T07:26:44Z",
+      "image": "https://a.espncdn.com/photo/2025/0622/r1509747_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49407887/transfer-rumors-news-arsenal-eye-shock-move-ex-man-city-defender-stones",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49407881,
+      "source": "ESPN",
+      "headline": "South Africa's Jayden Adams' 'big-time goal' was to play for Liverpool - Memorial video",
+      "description": "At Jayden Adams' memorial service in Stellenbosch on Thursday, a video from the former Bafana Bafana midfielder's agency, Forwardzone, was played in which he professed his dream of playing for Liverpool.",
+      "publishedAt": "2026-07-20T07:00:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654758_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49407881/south-africa-jayden-adams-big-goal-was-play-liverpool-memorial-video",
+      "tag": "South Africa",
+      "teams": [
+        "South Africa",
+        "Mamelodi Sundowns",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6e0c0648b58ee177917f302ab6e5887a",
       "source": "Sky Sports",
-      "headline": "Spain beat Argentina to win World Cup",
+      "headline": "England's World Cup assessed - by Sky Sports readers",
+      "description": "It's all over - and, once again, it's not coming home.",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-england-your-views_7301674.jpg?20260719170229",
+      "link": "https://www.skysports.com/football/news/12040/13564884/englands-world-cup-assessed-by-sky-sports-readers-thomas-tuchel-tactics-players-expectations-and-what-next-for-euro-2028",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-20T06:24:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-20T06:23:52Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-20T06:22:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "c92911c50b982e3f781af929474704ef",
+      "source": "Sky Sports",
+      "headline": "The Verdict: No 'fairytale finale' for Messi as Spain win second World Cup",
+      "description": "Sky Sports football correspondent Rob Dorsett analyses Spain's victory over Argentina in the World Cup final - plus the first half-time show in the history of the tournament.",
+      "publishedAt": "2026-07-20T05:58:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-spain-argentina_7302048.jpg?20260720084220",
+      "link": "https://www.skysports.com/watch/video/13565123/world-cup-2026-messis-argentina-fairy-tale-title-defence-ends-as-spain-claim-second-crown",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "7669131de82e059ad167cefab90fde79",
+      "source": "Sky Sports",
+      "headline": "'We were the better team' - Spain beat Argentina to win World Cup",
       "description": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final.",
       "publishedAt": "2026-07-19T22:10:00.000Z",
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ferran-torres-spain_7301955.jpg?20260719235710",
@@ -66,98 +209,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-19T06:30:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-19T06:30:07Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-19T06:29:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -467,19 +518,6 @@
       ]
     },
     {
-      "id": 49354932,
-      "source": "ESPN",
-      "headline": "Inside Man United's summer transfer rebuild, as Santos and Tielemans bolster midfield",
-      "description": "Manchester United have had to adapt their summer transfer window plans, but the club continue to be active and more signings are expected.",
-      "publishedAt": "2026-07-14T11:03:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1688971_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49354932/inside-manchester-united-summer-transfer-rebuild-santos-tielemans-bolster-midfield",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49356655,
       "source": "ESPN",
       "headline": "Luka Vuskovic signs for Brighton from Tottenham",
@@ -492,25 +530,11 @@
         "Tottenham Hotspur",
         "Brighton & Hove Albion"
       ]
-    },
-    {
-      "id": 49356496,
-      "source": "ESPN",
-      "headline": "Xabi Alonso: Decision to join Chelsea over Liverpool was 'about timings'",
-      "description": "Chelsea manager Xabi Alonso has said that his decision to join Chelsea over Liverpool was \"about timings.\"",
-      "publishedAt": "2026-07-14T08:59:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1688976_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49356496/xabi-alonso-chelsea-liverpool-was-timings",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-20T04:01:27.529Z"
+    "cachedAt": "2026-07-20T09:31:50.230Z"
   }
 }
