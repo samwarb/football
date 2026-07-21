@@ -2,6 +2,130 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49419187,
+      "source": "ESPN",
+      "headline": "Aston Villa bid for Alejandro Garnacho loan from Chelsea - reports",
+      "description": "Aston Villa have made a bid to sign Chelsea winger Alejandro Garnacho on loan with a possible obligation to buy, sources have told the Press Association.",
+      "publishedAt": "2026-07-21T19:28:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49419187/aston-villa-chelsea-alejandro-garnacho-loan-bid-premier-league",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49419107,
+      "source": "ESPN",
+      "headline": "Elijah Upson: Arsenal sign son of former centre back from rivals Tottenham",
+      "description": "Elijah Upson has signed a professional contract with Arsenal after deciding to leave Tottenham.",
+      "publishedAt": "2026-07-21T19:07:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692161_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49419107/elijah-upson-arsenal-sign-son-former-centre-back-rivals-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "a6e1ee8b9ae2dc9e5430f38277b44b73",
+      "source": "Sky Sports",
+      "headline": "Stones emerges as potential Chelsea target",
+      "description": "Free agent defender John Stones has emerged as a potential option for Chelsea in this transfer window.",
+      "publishedAt": "2026-07-21T18:27:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-john-stones-england_7294374.jpg?20260710100903",
+      "link": "https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49418582,
+      "source": "ESPN",
+      "headline": "West Ham agree £68m deal to send Crysencio Summerville to Al Hilal - reports",
+      "description": "West Ham have agreed a £68 million ($91m) deal to send Crysencio Summerville to Saudi Arabian side Al Hilal,",
+      "publishedAt": "2026-07-21T17:39:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692134_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49418582/crysencio-summerville-transfer-west-ham-al-hilal-68-million-saudi",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United",
+        "Al Hilal"
+      ]
+    },
+    {
+      "id": 49418092,
+      "source": "ESPN",
+      "headline": "Investor group led by QPR co-owner Amit Bhatia in talks for Liverpool minority stake - sources",
+      "description": "A group of investors led by Queens Park Rangers co-owner Amit Bhatia are in talks to buy a significant minority stake in Liverpool, sources told ESPN.",
+      "publishedAt": "2026-07-21T16:32:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692111_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49418092/investor-group-led-qpr-co-owner-amit-bhatia-talks-liverpool-minority-stake-sources",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Queens Park Rangers"
+      ]
+    },
+    {
+      "id": "4a0bb070926ead95393e5ab49522ec88",
+      "source": "Sky Sports",
+      "headline": "West Ham agree big-money deal with Al Hilal for Summerville",
+      "description": "West Ham have reached an agreement with Al Hilal for the sale of Crysencio Summerville.",
+      "publishedAt": "2026-07-21T16:15:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-crysencio-summerville_7286595.jpg?20260630141233",
+      "link": "https://www.skysports.com/football/news/12040/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49417788,
+      "source": "ESPN",
+      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
+      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
+      "publishedAt": "2026-07-21T15:50:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Tottenham Hotspur",
+        "Barcelona",
+        "Real Madrid",
+        "Bayern Munich",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": 49417730,
+      "source": "ESPN",
+      "headline": "Anthony Taylor retires from refereeing after 16 years in Premier League, two World Cups",
+      "description": "Anthony Taylor has announced his retirement from refereeing after a career spanning 16 Premier League seasons and more than 660 professional matches.",
+      "publishedAt": "2026-07-21T15:38:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692095_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49417730/anthony-taylor-retires-refereeing-world-cup-premier-league-fa-official",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": "3c1512922c50fcb66f15a782be4f2592",
+      "source": "Sky Sports",
+      "headline": "Premier League referee Taylor retires",
+      "description": "Long-serving Premier League referee Anthony Taylor is standing down after 16 years in England's top flight at the conclusion of the World Cup.",
+      "publishedAt": "2026-07-21T15:00:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-anthony-taylor-referee_7047629.jpg?20251010110937",
+      "link": "https://www.skysports.com/football/news/12040/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49415431,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal to move for Spain World Cup winner Williams",
@@ -73,17 +197,6 @@
       "teams": []
     },
     {
-      "id": "2eda4418ee1c18bb06ac1a0b841571fa",
-      "source": "Sky Sports",
-      "headline": "Arsenal most impacted? The clubs hit hardest by World Cup",
-      "description": "The World Cup is over but could Premier League clubs feel the effects of the tournament as they prepare for the new season?",
-      "publishedAt": "2026-07-21T10:44:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-declan-rice-bukayo-saka_7303411.jpg?20260721142351",
-      "link": "https://www.skysports.com/football/news/12040/13565569/arsenal-aston-villa-and-man-utd-among-premier-league-clubs-most-impacted-by-injuries-and-possible-world-cup-fatigue",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49416117,
       "source": "ESPN",
       "headline": "Chelsea 'unleash the lion' on new 2026-27 away kit",
@@ -124,17 +237,6 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "a76c6a5a21367688a05c70015ab9df0f",
-      "source": "Sky Sports",
-      "headline": "Charges and challenges - the scale of the task facing Maresca at Man City",
-      "description": "Plenty of the Premier League's top clubs have rolled the managerial dice ahead of next season. Manchester City are one of those starting a new era, turning to Enzo Maresca in the wake of Pep Guardiola's decision to depart.",
-      "publishedAt": "2026-07-21T09:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-manchester-city_7285861.jpg?20260629163014",
-      "link": "https://www.skysports.com/football/news/12040/13564300/enzo-maresca-as-man-city-manager-can-italian-make-a-success-of-his-return-to-a-club-so-entrenched-in-pep-guardiolas-way",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49415835,
@@ -214,17 +316,6 @@
       ]
     },
     {
-      "id": "ea72c56c777b0adf6f5fc0db80d896e5",
-      "source": "Sky Sports",
-      "headline": "Arsenal, Chelsea and Man Utd target Scott rejects new Bournemouth contract",
-      "description": "Alex Scott has turned down a new Bournemouth contract amid strong interest from Arsenal, Chelsea and Manchester United, Sky Sports News understands.",
-      "publishedAt": "2026-07-21T07:00:00.000Z",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-alex-scott-bournemouth_7216974.jpg?20260411142808",
-      "link": "https://www.skysports.com/football/news/12040/13565480/alex-scott-bournemouth-midfielder-rejects-new-contract-amid-strong-interest-from-arsenal-chelsea-and-manchester-united",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -251,6 +342,17 @@
         "Coventry City",
         "Hull City"
       ]
+    },
+    {
+      "id": "2a6a41c028d8df78f119736f2f72aa96",
+      "source": "Sky Sports",
+      "headline": "West Ham latest: Hammers set to make over £150m - on just two players",
+      "description": "",
+      "publishedAt": "2026-07-20T21:03:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49410987,
@@ -450,93 +552,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 49379773,
-      "source": "ESPN",
-      "headline": "Coventry announce signing of Aurèle Amenda from Eintracht Frankfurt",
-      "description": "Coventry have announced the signing of Switzerland defender Aurele Amenda from Eintracht Frankfurt.",
-      "publishedAt": "2026-07-16T22:07:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1690204_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49379773/coventry-city-signing-aurele-amenda-defender-eintracht-frankfurt",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City",
-        "Eintracht Frankfurt"
-      ]
-    },
-    {
-      "id": 49377861,
-      "source": "ESPN",
-      "headline": "Aston Villa reach agreement to sign Wolves midfielder João Gomes - sources",
-      "description": "Aston Villa have reached an agreement to sign Wolverhampton midfielder João Gomes on a permanent transfer, sources have told ESPN.",
-      "publishedAt": "2026-07-16T18:13:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1690093_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49377861/aston-villa-wolverhampton-wanderers-premier-league-joao-gomes-transfer-fee-agreed",
-      "tag": "Wolverhampton Wanderers",
-      "teams": [
-        "Wolverhampton Wanderers",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 49374387,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool ready to move for Brazil's Rayan",
-      "description": "Rayan left Brazil for Bournemouth in January, but he could already be on his way to Liverpool. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-16T18:00:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0527/r1664395_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49374387/transfer-rumors-news-bayern-munich-star-michael-olise-wants-real-madrid-move",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 49371654,
-      "source": "ESPN",
-      "headline": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
-      "description": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
-      "publishedAt": "2026-07-16T00:10:37Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49371654/tielemans-move-man-united-one-best-signings-window",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49368103,
-      "source": "ESPN",
-      "headline": "Tottenham guaranteed to have a World Cup winner for the third time in a row",
-      "description": "A Tottenham Hotspur player will be a World Cup winner. no matter who emerges victorious in the final.",
-      "publishedAt": "2026-07-15T18:54:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689609_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49368103/spurs-tottenham-world-cup-2026-spain-england-argentina",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49367986,
-      "source": "ESPN",
-      "headline": "Nottingham Forest set to sign Xaver Schlager after contract ends at RB Leipzig - sources",
-      "description": "Nottingham Forest are set to complete the signing of Austria international Xaver Schlager, sources have told ESPN.",
-      "publishedAt": "2026-07-15T17:33:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689581_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49367986/nottingham-forest-xaver-schlager-rb-leipzig-free-agent-signing-sources",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "RB Leipzig"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-21T14:19:10.178Z"
+    "cachedAt": "2026-07-21T19:49:07.842Z"
   }
 }
