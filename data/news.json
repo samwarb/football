@@ -2,55 +2,11 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "cc4b56663cf6cd0fed2d3815991315a8",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd looking at Hall, Robinson to strengthen left-back options",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-07-20T22:20:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13565441/arsenal-planning-short-term-move-for-free-agent-john-stones-following-william-salibas-world-cup-injury-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "edebcea260eb93556cb3032bfffe4411",
-      "source": "Sky Sports",
-      "headline": "England latest: Latest FIFA rankings published - where do Three Lions sit?",
-      "description": "",
-      "publishedAt": "2026-07-20T20:21:00.000Z",
-      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "60b742b6dfffd626c35527ffabcdf22f",
-      "source": "Sky Sports",
-      "headline": "Palace seek £55m-plus for Lacroix as talks with Chelsea begin",
-      "description": "Chelsea are in talks with Crystal Palace over the signing of defender Maxence Lacroix.",
-      "publishedAt": "2026-07-20T20:10:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-maxence-lacroix-crystal-palace_7302822.jpg?20260720205359",
-      "link": "https://www.skysports.com/football/news/12040/13565423/maxence-lacroix-transfer-news-chelsea",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "d95302c4bfefc61f8baff5feec7a4b7d",
-      "source": "Sky Sports",
-      "headline": "Messi: It will take time to heal from final defeat and 'immense' pain",
-      "description": "",
-      "publishedAt": "2026-07-20T18:55:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7301953.jpg?20260719235305",
-      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49408793,
       "source": "ESPN",
       "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
       "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
-      "publishedAt": "2026-07-20T18:07:17Z",
+      "publishedAt": "2026-07-21T08:34:14Z",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
       "tag": "Arsenal",
@@ -76,6 +32,170 @@
         "Hull City",
         "Ipswich Town"
       ]
+    },
+    {
+      "id": 49415431,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal to move for Spain World Cup winner Williams",
+      "description": "Arsenal have made fresh contact for Athletic Club winger Nico Williams. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-21T08:33:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689093_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49415431/transfer-rumors-news-arsenal-move-spain-world-cup-winner-williams",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Athletic Club"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-21T08:33:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 49408661,
+      "source": "ESPN",
+      "headline": "Why Rogers' £117m Chelsea transfer is high risk, but Anderson's £116m move to City isn't",
+      "description": "Morgan Rogers and Elliot Anderson are both moving clubs for huge fees this summer, but because of where they play the deals will be judged differently.",
+      "publishedAt": "2026-07-21T07:08:35Z",
+      "image": "https://a.espncdn.com/photo/2025/1221/r1592321_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49408661/why-rogers-117m-chelsea-transfer-high-risk-anderson-116m-move-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ea72c56c777b0adf6f5fc0db80d896e5",
+      "source": "Sky Sports",
+      "headline": "Arsenal, Chelsea and Man Utd target Scott rejects new Bournemouth contract",
+      "description": "Alex Scott has turned down a new Bournemouth contract amid strong interest from Arsenal, Chelsea and Manchester United, Sky Sports News understands.",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-alex-scott-bournemouth_7216974.jpg?20260411142808",
+      "link": "https://www.skysports.com/football/news/12040/13565480/alex-scott-bournemouth-midfielder-rejects-new-contract-amid-strong-interest-from-arsenal-chelsea-and-manchester-united",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "4583f38756ba47656dc8e9957349e037",
+      "source": "Sky Sports",
+      "headline": "The 58 transfers to watch now the World Cup is over",
+      "description": "The World Cup is over but there are still more than six weeks to go in the transfer window. Here are 58 players to keep an eye on for the rest of the summer.",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-transfer_7302450.jpg?20260720135105",
+      "link": "https://www.skysports.com/football/news/12040/13565342/transfer-news-the-players-who-could-move-before-deadline-day-now-the-world-cup-is-over",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-21T06:27:52Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-21T06:23:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "edebcea260eb93556cb3032bfffe4411",
+      "source": "Sky Sports",
+      "headline": "England latest: Latest FIFA rankings published - where do Three Lions sit?",
+      "description": "",
+      "publishedAt": "2026-07-20T20:21:00.000Z",
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "60b742b6dfffd626c35527ffabcdf22f",
+      "source": "Sky Sports",
+      "headline": "Palace seek £55m-plus for Lacroix as talks with Chelsea begin",
+      "description": "Chelsea are in talks with Crystal Palace over the signing of defender Maxence Lacroix.",
+      "publishedAt": "2026-07-20T20:10:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-maxence-lacroix-crystal-palace_7302822.jpg?20260720205359",
+      "link": "https://www.skysports.com/football/news/12040/13565423/maxence-lacroix-transfer-news-chelsea",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49410987,
@@ -148,38 +268,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-20T10:09:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49407881,
       "source": "ESPN",
       "headline": "South Africa's Jayden Adams' 'big-time goal' was to play for Liverpool - Memorial video",
@@ -192,66 +280,6 @@
         "South Africa",
         "Mamelodi Sundowns",
         "Liverpool"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-20T06:24:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-20T06:23:52Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
       ]
     },
     {
@@ -521,39 +549,11 @@
         "SC Freiburg",
         "Switzerland"
       ]
-    },
-    {
-      "id": 49360734,
-      "source": "ESPN",
-      "headline": "Could Liverpool sign Bradley Barcola?",
-      "description": "Could Liverpool sign Bradley Barcola?",
-      "publishedAt": "2026-07-14T18:43:52Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Analysis_Could_Liverpool_sign_Bradley_Barcola_20260713_GLOBAL/dm_260714_COM_SOC_Analysis_Could_Liverpool_sign_Bradley_Barcola_20260713_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49360734/could-liverpool-sign-bradley-barcola",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 49360682,
-      "source": "ESPN",
-      "headline": "Why Youri Tielemans is a 'great signing' for Man United",
-      "description": "Why Youri Tielemans is a 'great signing' for Man United",
-      "publishedAt": "2026-07-14T18:39:20Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Presser_Why_Youri_Tielemans_is_a_great_signing_for_Man_United_20260713_GLOBAL/dm_260714_COM_SOC_Presser_Why_Youri_Tielemans_is_a_great_signing_for_Man_United_20260713_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49360682/why-youri-tielemans-great-signing-man-united",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-21T03:41:56.946Z"
+    "cachedAt": "2026-07-21T08:42:00.167Z"
   }
 }
