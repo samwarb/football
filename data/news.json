@@ -2,6 +2,39 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "cc4b56663cf6cd0fed2d3815991315a8",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd looking at Hall, Robinson to strengthen left-back options",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "publishedAt": "2026-07-20T22:20:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13565441/arsenal-planning-short-term-move-for-free-agent-john-stones-following-william-salibas-world-cup-injury-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "edebcea260eb93556cb3032bfffe4411",
+      "source": "Sky Sports",
+      "headline": "England latest: Latest FIFA rankings published - where do Three Lions sit?",
+      "description": "",
+      "publishedAt": "2026-07-20T20:21:00.000Z",
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "60b742b6dfffd626c35527ffabcdf22f",
+      "source": "Sky Sports",
+      "headline": "Palace seek £55m-plus for Lacroix as talks with Chelsea begin",
+      "description": "Chelsea are in talks with Crystal Palace over the signing of defender Maxence Lacroix.",
+      "publishedAt": "2026-07-20T20:10:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-maxence-lacroix-crystal-palace_7302822.jpg?20260720205359",
+      "link": "https://www.skysports.com/football/news/12040/13565423/maxence-lacroix-transfer-news-chelsea",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "d95302c4bfefc61f8baff5feec7a4b7d",
       "source": "Sky Sports",
       "headline": "Messi: It will take time to heal from final defeat and 'immense' pain",
@@ -60,17 +93,6 @@
       ]
     },
     {
-      "id": "a79e4e66e77fec418264aae9b25e3896",
-      "source": "Sky Sports",
-      "headline": "The trends that defined the World Cup",
-      "description": "The biggest World Cup in history produced numbers to match. Forty-eight teams, 104 games and three host countries delivered a record 308 goals before Spain were crowned champions.",
-      "publishedAt": "2026-07-20T16:40:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-harry-kane_7299281.jpg?20260716162025",
-      "link": "https://www.skysports.com/football/news/12040/13563675/world-cup-2026-data-analysis-record-goals-bigger-fifa-ranking-gaps-older-starting-xis-travel-heat-penalties-substitutes-and-how-spain-won-it",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49410524,
       "source": "ESPN",
       "headline": "Ogden: Kevin Keegan defined English football in the 1970s",
@@ -84,28 +106,6 @@
         "Liverpool",
         "Newcastle United"
       ]
-    },
-    {
-      "id": "c248d4df467e4011d01847da766357c8",
-      "source": "Sky Sports",
-      "headline": "Newcastle latest: Plans to be announced for Keegan book of condolence",
-      "description": "",
-      "publishedAt": "2026-07-20T16:00:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "803f0fc28fa550d660531eecdf57fbcf",
-      "source": "Sky Sports",
-      "headline": "What does Rogers' move mean for Chelsea's squad?",
-      "description": "Morgan Rogers is set to join Chelsea in a British-record £117m from Aston Villa - and his arrival is set to have a knock-on effect for Xabi Alonso's Blues.",
-      "publishedAt": "2026-07-20T14:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-premier-league-chelsea_7302475.jpg?20260720142040",
-      "link": "https://www.skysports.com/football/news/12040/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48990955,
@@ -554,6 +554,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-20T19:54:32.838Z"
+    "cachedAt": "2026-07-21T03:41:56.946Z"
   }
 }
