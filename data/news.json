@@ -2,11 +2,128 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-22T13:38:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692213_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-22T13:17:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 49423996,
+      "source": "ESPN",
+      "headline": "Man United go retro with royal blue 2026-27 away kit",
+      "description": "Manchester United have officially debuted their brand-new away kit for the upcoming 2026-27 season, a day after leaking it via British rapper Stormzy.",
+      "publishedAt": "2026-07-22T12:39:40Z",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692354_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49423996/man-united-go-retro-royal-blue-2026-27-away-kit",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-22T12:22:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "c5d88e1854ba9995f129f22b693c3bf1",
+      "source": "Sky Sports",
+      "headline": "'This means everything to me' - Foden signs new Man City contract",
+      "description": "Man City have announced Phil Foden has signed a new contract at the club.",
+      "publishedAt": "2026-07-22T12:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-phil-foden-man-city_7304162.jpg?20260722130904",
+      "link": "https://www.skysports.com/football/news/12040/13565922/phil-foden-contract-man-city-star-signs-new-four-year-contract-running-until-summer-of-2030",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49422693,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, Spurs, Chelsea want Rashford",
       "description": "Arsenal, Chelsea and Tottenham Hotspur are keeping tabs on the situation of Manchester United winger Marcus Rashford. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-22T07:49:04Z",
+      "publishedAt": "2026-07-22T11:12:05Z",
       "image": "https://a.espncdn.com/photo/2026/0616/r1674090_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
       "tag": "Manchester United",
@@ -18,17 +135,65 @@
       ]
     },
     {
+      "id": "61a50f9d7a8712c3c877b46ef360ef8e",
+      "source": "Sky Sports",
+      "headline": "Southampton boss Eckert charged by FA over Spygate scandal",
+      "description": "Southampton head coach Tonda Eckert has been charged by the FA with misconduct and potentially bringing the game into disrepute over the 'Spygate' scandal.",
+      "publishedAt": "2026-07-22T10:30:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tonda-eckert-southampton_7254559.jpg?20260521084229",
+      "link": "https://www.skysports.com/football/news/12040/13565861/tonda-eckert-southampton-boss-charged-by-fa-over-spygate-scandal-that-expelled-club-from-championship-play-offs",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49423288,
+      "source": "ESPN",
+      "headline": "Iraola: Liverpool have to sign new players",
+      "description": "Iraola: Liverpool have to sign new players",
+      "publishedAt": "2026-07-22T10:24:07Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Iraola_Liverpool_have_to_sign_new_players/dm_260722_Iraola_Liverpool_have_to_sign_new_players.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49423288/liverpool-sign-new-players",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49422991,
+      "source": "ESPN",
+      "headline": "Who will Iraola and Liverpool target in the transfer window?",
+      "description": "Who will Iraola and Liverpool target in the transfer window?",
+      "publishedAt": "2026-07-22T08:53:54Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_COM_SOC_Analysis_Who_will_Iraola_and_Liverpool_target_in_the_transfer_window3F__GLOBAL_2026-07-22/dm_260722_COM_SOC_Analysis_Who_will_Iraola_and_Liverpool_target_in_the_transfer_window3F__GLOBAL_2026-07-22.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49422991/who-iraola-liverpool-target-transfer-window",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": 49422691,
       "source": "ESPN",
       "headline": "Manchester United face backlash from support groups for season ticket restrictions",
       "description": "Manchester United have been met with a backlash from a number of supporter groups after some fans had their online season-ticket accounts restricted.",
-      "publishedAt": "2026-07-22T07:35:26Z",
+      "publishedAt": "2026-07-22T08:51:27Z",
       "image": "https://a.espncdn.com/photo/2026/0306/r1624085_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49422691/manchester-united-face-backlash-support-groups-season-ticket-restrictions",
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
       ]
+    },
+    {
+      "id": "74d84d277491d7e328d6b3a95ad3eacd",
+      "source": "Sky Sports",
+      "headline": "'Frustrated' Newcastle will demand £80m for Arsenal target Guimaraes",
+      "description": "Newcastle are frustrated with Arsenal's pursuit of Bruno Guimaraes and will only consider selling him for upwards of £80m, according to Sky Sports News ' North East reporter Keith Downie.",
+      "publishedAt": "2026-07-22T08:06:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-newcastle-bruno-bruno-guimaraes_7293252.jpg?20260708201537",
+      "link": "https://www.skysports.com/football/news/12040/13565860/newcastle-frustrated-by-arsenals-pursuit-of-bruno-guimaraes-and-will-demand-transfer-fee-of-80m-for-captain",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49419187,
@@ -87,70 +252,6 @@
       "publishedAt": "2026-07-22T06:12:27Z",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-22T06:09:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-22T06:09:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692213_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "tag": "Arsenal",
       "teams": [
         "Arsenal",
@@ -255,17 +356,6 @@
       ]
     },
     {
-      "id": "1b6bd4a4c2539d06c9891f464502d499",
-      "source": "Sky Sports",
-      "headline": "Hearts suffer chastening CL defeat in nightmare first game for Vrancken",
-      "description": "New Hearts head coach Wouter Vrancken endured a nightmare debut as his side's Champions League hopes all but vanished with a 4-0 defeat against Sturm Graz.",
-      "publishedAt": "2026-07-21T21:20:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-wouter-vrancken-hearts_7303780.jpg?20260721222037",
-      "link": "https://www.skysports.com/football/sturm-graz-vs-hearts/report/558226",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49418092,
       "source": "ESPN",
       "headline": "Investor group led by QPR co-owner Amit Bhatia in talks for Liverpool minority stake - sources",
@@ -278,17 +368,6 @@
         "Liverpool",
         "Queens Park Rangers"
       ]
-    },
-    {
-      "id": "2605ae8b8b05cd8020035d9e8333d673",
-      "source": "Sky Sports",
-      "headline": "Enzo: Argentina played with 'pride' and 'humility'",
-      "description": "Enzo Fernandez has praised Argentina for playing with \"pride\" and \"humility\" at the 2026 World Cup after it was confirmed FIFA will investigate the team's behaviour after the final.",
-      "publishedAt": "2026-07-21T20:30:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-enzo-fernandez-argentina_7303747.jpg?20260721212439",
-      "link": "https://www.skysports.com/football/news/12040/13565780/enzo-fernandez-says-argentina-played-with-pride-and-humility-as-fifa-investigate-world-cup-final-behaviour",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49419107,
@@ -365,35 +444,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-21T10:35:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -481,56 +531,11 @@
         "Mamelodi Sundowns",
         "Liverpool"
       ]
-    },
-    {
-      "id": 49397315,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona set deadline for Argentina's Álvarez; Spain's Rodri wants Real Madrid",
-      "description": "Barcelona have set a deadline of July 31 for Atlético Madrid to accept their offer to sign Argentina striker Julián Álvarez. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-19T18:40:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0713/r1688643_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49397315/transfer-rumors-news-barcelona-set-deadline-argentina-alvarez-spain-rodri-wants-real-madrid",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Spain",
-        "Argentina",
-        "Barcelona",
-        "Manchester City",
-        "Atlético Madrid"
-      ]
-    },
-    {
-      "id": 49398782,
-      "source": "ESPN",
-      "headline": "Man United's Senne Lammens will bounce back well from Belgium World Cup woe - Tom Heaton",
-      "description": "Senne Lammens will come back from his FIFA World Cup frustration as a better goalkeeper, Manchester United teammate Tom Heaton has said.",
-      "publishedAt": "2026-07-19T12:19:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691190_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49398782/man-united-senne-lammens-bounce-back-well-belgium-world-cup-woe-tom-heaton",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Belgium"
-      ]
-    },
-    {
-      "id": 49397847,
-      "source": "ESPN",
-      "headline": "Goalkeeper Radek Vitek ready to leave Man United in search of No. 1 role",
-      "description": "Goalkeeper Radek Vitek is ready to leave Manchester United in search of regular first-team football.",
-      "publishedAt": "2026-07-19T09:24:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691162_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49397847/radek-vitek-manchester-united-leave-game-preseason-wrexham-starter",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-22T08:42:01.632Z"
+    "cachedAt": "2026-07-22T14:19:37.093Z"
   }
 }
