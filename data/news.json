@@ -2,6 +2,104 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49426151,
+      "source": "ESPN",
+      "headline": "Chelsea's Alejandro Garnacho nears loan move to Aston Villa - sources",
+      "description": "Alejandro Garnacho is on the brink of a loan move to Aston Villa from Chelsea per ESPN sources.",
+      "publishedAt": "2026-07-22T18:33:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0303/r1622788_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49426151/chelsea-alejandro-garnacho-nears-loan-move-aston-villa-sources",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": "5e42b0acbdb0082457c416726d2c7080",
+      "source": "Sky Sports",
+      "headline": "Aston Villa agree deal to sign Garnacho",
+      "description": "Aston Villa have agreed a deal to sign Alejandro Garnacho from Chelsea.",
+      "publishedAt": "2026-07-22T18:33:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-garnacho-chelsea_7295237.jpg?20260711140636",
+      "link": "https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49422693,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, Spurs, Chelsea want Rashford",
+      "description": "Arsenal, Chelsea and Tottenham Hotspur are keeping tabs on the situation of Manchester United winger Marcus Rashford. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-22T17:36:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674090_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Arsenal",
+        "Chelsea",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-22T17:19:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692203_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "c6e6990e3a4335e923112890a1d58317",
+      "source": "Sky Sports",
+      "headline": "Casemiro joins Inter Miami on free transfer",
+      "description": "Casemiro has joined Inter Miami on a free transfer after leaving Manchester United.",
+      "publishedAt": "2026-07-22T16:30:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-casemiro-premier-league_7251201.jpg?20260517143044",
+      "link": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "4f5f9efd04405fbe5a4fffb2802569f7",
+      "source": "Sky Sports",
+      "headline": "Spurs 1-0 MK Dons: Key moments as Fernandes hits volleyed screamer!",
+      "description": "",
+      "publishedAt": "2026-07-22T15:20:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mateus-fernandes_7304489.jpg?20260722191503",
+      "link": "https://www.skysports.com/football/tottenham-hotspur-vs-milton-keynes-dons/live/562434",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "047a73a8d4e03c711439dc00f14f5edd",
+      "source": "Sky Sports",
+      "headline": "Is Barcola next on Arsenal's list after missing out on Rogers?",
+      "description": "Arsenal retain an interest in Bradley Barcola after missing out on Morgan Rogers to Chelsea, according to Sky Sports News reporter Dharmesh Sheth.",
+      "publishedAt": "2026-07-22T15:05:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-bradley-barcola-arsenal_7304497.jpg?20260722192341",
+      "link": "https://www.skysports.com/football/news/12040/13566027/bradley-barcola-arsenal-retain-an-interest-in-paris-saint-germain-forward-after-missing-out-on-morgan-rogers-to-chelsea",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49424620,
+      "source": "ESPN",
+      "headline": "Foden: 'Unbelievable feeling' to sign contract extension at Man City until 2030",
+      "description": "Foden: 'Unbelievable feeling' to sign contract extension at Man City until 2030",
+      "publishedAt": "2026-07-22T14:32:14Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Foden_Unbelievable_feeling_to_sign_contract_extension_at_Man_City_until_2030/dm_260722_Foden_Unbelievable_feeling_to_sign_contract_extension_at_Man_City_until_2030.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49424620/unbelievable-feeling-sign-contract-extension-man-city-2030",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
@@ -108,44 +206,6 @@
       ]
     },
     {
-      "id": "c5d88e1854ba9995f129f22b693c3bf1",
-      "source": "Sky Sports",
-      "headline": "'This means everything to me' - Foden signs new Man City contract",
-      "description": "Man City have announced Phil Foden has signed a new contract at the club.",
-      "publishedAt": "2026-07-22T12:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-phil-foden-man-city_7304162.jpg?20260722130904",
-      "link": "https://www.skysports.com/football/news/12040/13565922/phil-foden-contract-man-city-star-signs-new-four-year-contract-running-until-summer-of-2030",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49422693,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Spurs, Chelsea want Rashford",
-      "description": "Arsenal, Chelsea and Tottenham Hotspur are keeping tabs on the situation of Manchester United winger Marcus Rashford. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-22T11:12:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674090_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Arsenal",
-        "Chelsea",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "61a50f9d7a8712c3c877b46ef360ef8e",
-      "source": "Sky Sports",
-      "headline": "Southampton boss Eckert charged by FA over Spygate scandal",
-      "description": "Southampton head coach Tonda Eckert has been charged by the FA with misconduct and potentially bringing the game into disrepute over the 'Spygate' scandal.",
-      "publishedAt": "2026-07-22T10:30:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tonda-eckert-southampton_7254559.jpg?20260521084229",
-      "link": "https://www.skysports.com/football/news/12040/13565861/tonda-eckert-southampton-boss-charged-by-fa-over-spygate-scandal-that-expelled-club-from-championship-play-offs",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49423288,
       "source": "ESPN",
       "headline": "Iraola: Liverpool have to sign new players",
@@ -185,17 +245,6 @@
       ]
     },
     {
-      "id": "74d84d277491d7e328d6b3a95ad3eacd",
-      "source": "Sky Sports",
-      "headline": "'Frustrated' Newcastle will demand £80m for Arsenal target Guimaraes",
-      "description": "Newcastle are frustrated with Arsenal's pursuit of Bruno Guimaraes and will only consider selling him for upwards of £80m, according to Sky Sports News ' North East reporter Keith Downie.",
-      "publishedAt": "2026-07-22T08:06:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-newcastle-bruno-bruno-guimaraes_7293252.jpg?20260708201537",
-      "link": "https://www.skysports.com/football/news/12040/13565860/newcastle-frustrated-by-arsenals-pursuit-of-bruno-guimaraes-and-will-demand-transfer-fee-of-80m-for-captain",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49419187,
       "source": "ESPN",
       "headline": "Aston Villa bid for Alejandro Garnacho loan from Chelsea - sources",
@@ -217,17 +266,6 @@
       "publishedAt": "2026-07-22T07:08:58Z",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692024_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49415757/10-transfer-storylines-missed-world-cup",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-22T07:08:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692203_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
     },
@@ -501,41 +539,11 @@
         "Liverpool",
         "England"
       ]
-    },
-    {
-      "id": 49410524,
-      "source": "ESPN",
-      "headline": "Ogden: Kevin Keegan defined English football in the 1970s",
-      "description": "Ogden: Kevin Keegan defined English football in the 1970s",
-      "publishedAt": "2026-07-20T16:09:10Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_Ogden_Kevin_Keegan_defined_English_football_in_the_1970s/dm_260720_Ogden_Kevin_Keegan_defined_English_football_in_the_1970s.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49410524/kevin-keegan-defined-english-football-1970s",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Liverpool",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49407881,
-      "source": "ESPN",
-      "headline": "South Africa's Jayden Adams' 'big-time goal' was to play for Liverpool - Memorial video",
-      "description": "At Jayden Adams' memorial service in Stellenbosch on Thursday, a video from the former Bafana Bafana midfielder's agency, Forwardzone, was played in which he professed his dream of playing for Liverpool.",
-      "publishedAt": "2026-07-20T07:00:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654758_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49407881/south-africa-jayden-adams-big-goal-was-play-liverpool-memorial-video",
-      "tag": "South Africa",
-      "teams": [
-        "South Africa",
-        "Mamelodi Sundowns",
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-22T14:19:37.093Z"
+    "cachedAt": "2026-07-22T19:41:06.344Z"
   }
 }
