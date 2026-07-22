@@ -2,6 +2,204 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49422693,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, Spurs, Chelsea want Rashford",
+      "description": "Arsenal, Chelsea and Tottenham Hotspur are keeping tabs on the situation of Manchester United winger Marcus Rashford. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-22T07:49:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674090_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Arsenal",
+        "Chelsea",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49422691,
+      "source": "ESPN",
+      "headline": "Manchester United face backlash from support groups for season ticket restrictions",
+      "description": "Manchester United have been met with a backlash from a number of supporter groups after some fans had their online season-ticket accounts restricted.",
+      "publishedAt": "2026-07-22T07:35:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0306/r1624085_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49422691/manchester-united-face-backlash-support-groups-season-ticket-restrictions",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49419187,
+      "source": "ESPN",
+      "headline": "Aston Villa bid for Alejandro Garnacho loan from Chelsea - sources",
+      "description": "Aston Villa have made a bid to sign Chelsea winger Alejandro Garnacho on loan with a possible obligation to buy, sources have told ESPN.",
+      "publishedAt": "2026-07-22T07:33:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692166_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49419187/aston-villa-chelsea-alejandro-garnacho-loan-bid-premier-league",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49415757,
+      "source": "ESPN",
+      "headline": "10 transfer storylines you may have missed during World Cup",
+      "description": "The 2026 World Cup has hogged the spotlight for the past six weeks, but club transfers were ongoing throughout. Here's some things you might not have seen.",
+      "publishedAt": "2026-07-22T07:08:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692024_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49415757/10-transfer-storylines-missed-world-cup",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-22T07:08:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692203_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49419902,
+      "source": "ESPN",
+      "headline": "Andoni Iraola: Liverpool 'definitely need to sign a winger'",
+      "description": "Liverpool head coach Andoni Iraola has said the club has \"obvious\" areas to address in the transfer market as he seeks to bolster his squad ahead of the new season.",
+      "publishedAt": "2026-07-22T06:47:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692198_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49419902/andoni-iraola-liverpool-obvious-areas-address-transfer-market",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49408793,
+      "source": "ESPN",
+      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
+      "publishedAt": "2026-07-22T06:12:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-22T06:09:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-22T06:09:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692213_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49417788,
+      "source": "ESPN",
+      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
+      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
+      "publishedAt": "2026-07-22T06:01:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Tottenham Hotspur",
+        "Barcelona",
+        "Real Madrid",
+        "Bayern Munich",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
       "id": 49415431,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United, Villa looking to sign Everton's Ndiaye",
@@ -17,19 +215,6 @@
       ]
     },
     {
-      "id": 49419902,
-      "source": "ESPN",
-      "headline": "Andoni Iraola: Liverpool have 'obvious' areas to address in transfer market",
-      "description": "Liverpool head coach Andoni Iraola has said the club has \"obvious\" areas to address in the transfer market as he seeks to bolster his squad ahead of the new season.",
-      "publishedAt": "2026-07-21T23:50:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692198_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49419902/andoni-iraola-liverpool-obvious-areas-address-transfer-market",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": 49419529,
       "source": "ESPN",
       "headline": "João Gomes makes Aston Villa debut in 5-0 preseason win at Walsall",
@@ -41,20 +226,6 @@
       "teams": [
         "Aston Villa",
         "Walsall"
-      ]
-    },
-    {
-      "id": 49419187,
-      "source": "ESPN",
-      "headline": "Aston Villa bid for Alejandro Garnacho loan from Chelsea - sources",
-      "description": "Aston Villa have made a bid to sign Chelsea winger Alejandro Garnacho on loan with a possible obligation to buy, sources have told ESPN.",
-      "publishedAt": "2026-07-21T22:56:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49419187/aston-villa-chelsea-alejandro-garnacho-loan-bid-premier-league",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Aston Villa"
       ]
     },
     {
@@ -84,17 +255,6 @@
       ]
     },
     {
-      "id": "23bdd5dbed534eee195a5c3a1ba4d399",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd considering bid for PSG's Zaire-Emery",
-      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "publishedAt": "2026-07-21T22:15:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13565784/xxxx-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": "1b6bd4a4c2539d06c9891f464502d499",
       "source": "Sky Sports",
       "headline": "Hearts suffer chastening CL defeat in nightmare first game for Vrancken",
@@ -103,17 +263,6 @@
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-wouter-vrancken-hearts_7303780.jpg?20260721222037",
       "link": "https://www.skysports.com/football/sturm-graz-vs-hearts/report/558226",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-21T21:17:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692203_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
       "teams": []
     },
     {
@@ -131,9 +280,9 @@
       ]
     },
     {
-      "id": "054b1d6abc8052d0f4434e28844bdf5a",
+      "id": "2605ae8b8b05cd8020035d9e8333d673",
       "source": "Sky Sports",
-      "headline": "Enzo Fernandez: Argentina played with 'pride' and 'humility'",
+      "headline": "Enzo: Argentina played with 'pride' and 'humility'",
       "description": "Enzo Fernandez has praised Argentina for playing with \"pride\" and \"humility\" at the 2026 World Cup after it was confirmed FIFA will investigate the team's behaviour after the final.",
       "publishedAt": "2026-07-21T20:30:00.000Z",
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-enzo-fernandez-argentina_7303747.jpg?20260721212439",
@@ -170,30 +319,6 @@
       ]
     },
     {
-      "id": 49417788,
-      "source": "ESPN",
-      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
-      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
-      "publishedAt": "2026-07-21T15:50:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Tottenham Hotspur",
-        "Barcelona",
-        "Real Madrid",
-        "Bayern Munich",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
       "id": 49417730,
       "source": "ESPN",
       "headline": "Anthony Taylor retires from refereeing after 16 years in Premier League, two World Cups",
@@ -203,38 +328,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/49417730/anthony-taylor-retires-refereeing-world-cup-premier-league-fa-official",
       "tag": "HeadlineNews",
       "teams": []
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-21T12:43:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
     },
     {
       "id": 49408661,
@@ -317,70 +410,6 @@
       ]
     },
     {
-      "id": 49408793,
-      "source": "ESPN",
-      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
-      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
-      "publishedAt": "2026-07-21T08:34:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-21T08:33:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -407,17 +436,6 @@
         "Coventry City",
         "Hull City"
       ]
-    },
-    {
-      "id": "2a6a41c028d8df78f119736f2f72aa96",
-      "source": "Sky Sports",
-      "headline": "West Ham latest: Hammers set to make over £150m - on just two players",
-      "description": "",
-      "publishedAt": "2026-07-20T21:03:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49410987,
@@ -508,53 +526,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49392368,
-      "source": "ESPN",
-      "headline": "Chelsea agree £117m deal for Aston Villa's Morgan Rogers - sources",
-      "description": "Chelsea are set to make Morgan Rogers the most expensive player in British history after agreeing a £117 million deal with Aston Villa, sources have told ESPN.",
-      "publishedAt": "2026-07-18T19:21:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690881_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49392368/chelsea-agree-117m-deal-aston-villa-morgan-rogers-sources-transfer",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 49392595,
-      "source": "ESPN",
-      "headline": "Onuoha: Morgan Rogers joining Chelsea is Alonso's statement of intent",
-      "description": "Onuoha: Morgan Rogers joining Chelsea is Alonso's statement of intent",
-      "publishedAt": "2026-07-18T18:54:52Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Onuoha_Morgan_Rogers_joining_Chelsea_is_Alonsos_statement_of_intent/dm_260718_Onuoha_Morgan_Rogers_joining_Chelsea_is_Alonsos_statement_of_intent.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49392595/morgan-rogers-joining-chelsea-alonso-statement-intent",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49392372,
-      "source": "ESPN",
-      "headline": "Wrexham beat Man United in Helsinki friendly as Andrey Santos makes strong debut",
-      "description": "Andrey Santos made a bright first Manchester United appearance as they fell to a 1-0 preseason friendly loss to Wrexham in Helsinki.",
-      "publishedAt": "2026-07-18T18:44:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690888_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49392372/wrexham-manchester-united-friendly-result-recap-helsinki-preseason",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Wrexham"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-22T03:42:51.080Z"
+    "cachedAt": "2026-07-22T08:42:01.632Z"
   }
 }
