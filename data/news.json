@@ -2,11 +2,53 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49415431,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Villa looking to sign Everton's Ndiaye",
+      "description": "Both Manchester United and Aston Villa are competing to sign Everton's liman Ndiaye. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-22T00:15:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692197_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49415431/transfer-rumors-news-arsenal-move-spain-world-cup-winner-williams",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Aston Villa",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49419902,
+      "source": "ESPN",
+      "headline": "Andoni Iraola: Liverpool have 'obvious' areas to address in transfer market",
+      "description": "Liverpool head coach Andoni Iraola has said the club has \"obvious\" areas to address in the transfer market as he seeks to bolster his squad ahead of the new season.",
+      "publishedAt": "2026-07-21T23:50:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692198_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49419902/andoni-iraola-liverpool-obvious-areas-address-transfer-market",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49419529,
+      "source": "ESPN",
+      "headline": "João Gomes makes Aston Villa debut in 5-0 preseason win at Walsall",
+      "description": "New signing João Gomes made his Aston Villa debut in a comfortable 5-0 win at Walsall to start their preseason.",
+      "publishedAt": "2026-07-21T22:56:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692190_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49419529/joao-gomes-makes-aston-villa-debut-5-0-preseason-win-walsall",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Walsall"
+      ]
+    },
+    {
       "id": 49419187,
       "source": "ESPN",
-      "headline": "Aston Villa bid for Alejandro Garnacho loan from Chelsea - reports",
-      "description": "Aston Villa have made a bid to sign Chelsea winger Alejandro Garnacho on loan with a possible obligation to buy, sources have told the Press Association.",
-      "publishedAt": "2026-07-21T19:28:57Z",
+      "headline": "Aston Villa bid for Alejandro Garnacho loan from Chelsea - sources",
+      "description": "Aston Villa have made a bid to sign Chelsea winger Alejandro Garnacho on loan with a possible obligation to buy, sources have told ESPN.",
+      "publishedAt": "2026-07-21T22:56:31Z",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692166_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49419187/aston-villa-chelsea-alejandro-garnacho-loan-bid-premier-league",
       "tag": "Chelsea",
@@ -14,6 +56,90 @@
         "Chelsea",
         "Aston Villa"
       ]
+    },
+    {
+      "id": 49420757,
+      "source": "ESPN",
+      "headline": "Will Morgan Rogers succeed at Chelsea under Xabi Alonso?",
+      "description": "Will Morgan Rogers succeed at Chelsea under Xabi Alonso?",
+      "publishedAt": "2026-07-21T22:54:45Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_COM_SOC_Analysis_Will_Morgan_Rogers_succeed_at_Chelsea_under_Xabi_Alonso_20260721_GLOBAL/dm_260721_COM_SOC_Analysis_Will_Morgan_Rogers_succeed_at_Chelsea_under_Xabi_Alonso_20260721_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49420757/will-morgan-rogers-succeed-chelsea-xabi-alonso",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49420447,
+      "source": "ESPN",
+      "headline": "Hugo Ekitike, Conor Bradley 'way off' from Liverpool return",
+      "description": "Liverpool head coach Andoni Iraola confirmed striker Hugo Ekitike and defender Conor Bradley are still \"way off\" a return to full fitness, with both players continuing their rehabilitation from long-term injuries.",
+      "publishedAt": "2026-07-21T22:20:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0129/r1607270_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49420447/hugo-ekitike-conor-bradley-way-liverpool-return",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "23bdd5dbed534eee195a5c3a1ba4d399",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd considering bid for PSG's Zaire-Emery",
+      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "publishedAt": "2026-07-21T22:15:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13565784/xxxx-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "1b6bd4a4c2539d06c9891f464502d499",
+      "source": "Sky Sports",
+      "headline": "Hearts suffer chastening CL defeat in nightmare first game for Vrancken",
+      "description": "New Hearts head coach Wouter Vrancken endured a nightmare debut as his side's Champions League hopes all but vanished with a 4-0 defeat against Sturm Graz.",
+      "publishedAt": "2026-07-21T21:20:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-wouter-vrancken-hearts_7303780.jpg?20260721222037",
+      "link": "https://www.skysports.com/football/sturm-graz-vs-hearts/report/558226",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-21T21:17:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692203_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49418092,
+      "source": "ESPN",
+      "headline": "Investor group led by QPR co-owner Amit Bhatia in talks for Liverpool minority stake - sources",
+      "description": "A group of investors led by Queens Park Rangers co-owner Amit Bhatia are in talks to buy a significant minority stake in Liverpool, sources told ESPN.",
+      "publishedAt": "2026-07-21T21:06:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692111_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49418092/investor-group-led-qpr-co-owner-amit-bhatia-talks-liverpool-minority-stake-sources",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Queens Park Rangers"
+      ]
+    },
+    {
+      "id": "054b1d6abc8052d0f4434e28844bdf5a",
+      "source": "Sky Sports",
+      "headline": "Enzo Fernandez: Argentina played with 'pride' and 'humility'",
+      "description": "Enzo Fernandez has praised Argentina for playing with \"pride\" and \"humility\" at the 2026 World Cup after it was confirmed FIFA will investigate the team's behaviour after the final.",
+      "publishedAt": "2026-07-21T20:30:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-enzo-fernandez-argentina_7303747.jpg?20260721212439",
+      "link": "https://www.skysports.com/football/news/12040/13565780/enzo-fernandez-says-argentina-played-with-pride-and-humility-as-fifa-investigate-world-cup-final-behaviour",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49419107,
@@ -30,17 +156,6 @@
       ]
     },
     {
-      "id": "a6e1ee8b9ae2dc9e5430f38277b44b73",
-      "source": "Sky Sports",
-      "headline": "Stones emerges as potential Chelsea target",
-      "description": "Free agent defender John Stones has emerged as a potential option for Chelsea in this transfer window.",
-      "publishedAt": "2026-07-21T18:27:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-john-stones-england_7294374.jpg?20260710100903",
-      "link": "https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49418582,
       "source": "ESPN",
       "headline": "West Ham agree £68m deal to send Crysencio Summerville to Al Hilal - reports",
@@ -53,31 +168,6 @@
         "West Ham United",
         "Al Hilal"
       ]
-    },
-    {
-      "id": 49418092,
-      "source": "ESPN",
-      "headline": "Investor group led by QPR co-owner Amit Bhatia in talks for Liverpool minority stake - sources",
-      "description": "A group of investors led by Queens Park Rangers co-owner Amit Bhatia are in talks to buy a significant minority stake in Liverpool, sources told ESPN.",
-      "publishedAt": "2026-07-21T16:32:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692111_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49418092/investor-group-led-qpr-co-owner-amit-bhatia-talks-liverpool-minority-stake-sources",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Queens Park Rangers"
-      ]
-    },
-    {
-      "id": "4a0bb070926ead95393e5ab49522ec88",
-      "source": "Sky Sports",
-      "headline": "West Ham agree big-money deal with Al Hilal for Summerville",
-      "description": "West Ham have reached an agreement with Al Hilal for the sale of Crysencio Summerville.",
-      "publishedAt": "2026-07-21T16:15:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-crysencio-summerville_7286595.jpg?20260630141233",
-      "link": "https://www.skysports.com/football/news/12040/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49417788,
@@ -113,31 +203,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/49417730/anthony-taylor-retires-refereeing-world-cup-premier-league-fa-official",
       "tag": "HeadlineNews",
       "teams": []
-    },
-    {
-      "id": "3c1512922c50fcb66f15a782be4f2592",
-      "source": "Sky Sports",
-      "headline": "Premier League referee Taylor retires",
-      "description": "Long-serving Premier League referee Anthony Taylor is standing down after 16 years in England's top flight at the conclusion of the World Cup.",
-      "publishedAt": "2026-07-21T15:00:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-anthony-taylor-referee_7047629.jpg?20251010110937",
-      "link": "https://www.skysports.com/football/news/12040/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49415431,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal to move for Spain World Cup winner Williams",
-      "description": "Arsenal have made fresh contact for Athletic Club winger Nico Williams. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-21T12:53:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1689093_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49415431/transfer-rumors-news-arsenal-move-spain-world-cup-winner-williams",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Athletic Club"
-      ]
     },
     {
       "id": 48955344,
@@ -385,17 +450,6 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-20T11:25:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691693_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49407881,
       "source": "ESPN",
       "headline": "South Africa's Jayden Adams' 'big-time goal' was to play for Liverpool - Memorial video",
@@ -496,67 +550,11 @@
         "Manchester United",
         "Wrexham"
       ]
-    },
-    {
-      "id": 49385488,
-      "source": "ESPN",
-      "headline": "World Cup breakout star Johan Manzambi joins Aston Villa",
-      "description": "World Cup breakout star Johan Manzambi joined Champions League-bound Aston Villa on Friday in a record transfer deal for a Swiss player.",
-      "publishedAt": "2026-07-17T18:54:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0622/r1677812_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49385488/world-cup-breakout-star-johan-manzambi-aston-villa",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Switzerland"
-      ]
-    },
-    {
-      "id": 49381951,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Porro's World Cup for Spain catches Barça's eye",
-      "description": "The Pedro Porro-Lamine Yamal partnership has been a boon for Spain at this World Cup, and Barça want to reunite the pair. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-17T17:31:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689231_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49381951/transfer-rumors-news-arsenal-accelerate-morgan-rogers-aston-villa-christos-tzolis",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 49384172,
-      "source": "ESPN",
-      "headline": "Man United vs. Wrexham: Andrey Santos in travelling squad, Benjamin Sesko absent",
-      "description": "Andrey Santos could get his first run-out in Manchester United colours on Saturday after being included in the travelling squad for their pre-season friendly against Wrexham in Helsinki.",
-      "publishedAt": "2026-07-17T14:14:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690427_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49384172/man-united-vs-wrexham-andrey-santos-travelling-squad-benjamin-sesko-absent",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Chelsea",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 49384050,
-      "source": "ESPN",
-      "headline": "Dominik Szoboszlai commits Liverpool future with new long-term contract",
-      "description": "Liverpool midfielder Dominik Szoboszlai has signed a new long-term contract at Anfield.",
-      "publishedAt": "2026-07-17T14:00:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0404/r1638408_4_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49384050/dominik-szoboszlai-commits-liverpool-future-new-long-term-contract",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-21T19:49:07.842Z"
+    "cachedAt": "2026-07-22T03:42:51.080Z"
   }
 }
