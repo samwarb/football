@@ -2,6 +2,183 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49434293,
+      "source": "ESPN",
+      "headline": "Lindop: Iraola didn't want to 'sell himself' to fans",
+      "description": "Lindop: Iraola didn't want to 'sell himself' to fans",
+      "publishedAt": "2026-07-23T17:56:39Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_Lindop_Iraola_didnt_want_to_sell_himself_to_fans/dm_260723_Lindop_Iraola_didnt_want_to_sell_himself_to_fans.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49434293/iraola-want-sell-fans",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49434259,
+      "source": "ESPN",
+      "headline": "Tighe: Iraola faces unknown territory at Liverpool",
+      "description": "Tighe: Iraola faces unknown territory at Liverpool",
+      "publishedAt": "2026-07-23T17:54:02Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_Tighe_Iraola_faces_unknown_territory_at_Liverpool/dm_260723_Tighe_Iraola_faces_unknown_territory_at_Liverpool.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49434259/iraola-faces-unknown-territory-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49429999,
+      "source": "ESPN",
+      "headline": "Alejandro Garnacho joins Aston Villa on loan from Chelsea",
+      "description": "Alejandro Garnacho has joined Aston Villa on loan from Chelsea ahead of the new Premier League season.",
+      "publishedAt": "2026-07-23T17:12:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49429999/alejandro-garnacho-joins-aston-villa-loan-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49433927,
+      "source": "ESPN",
+      "headline": "Why Alejandro Garnacho's Aston Villa move starts as a loan",
+      "description": "Why Alejandro Garnacho's Aston Villa move starts as a loan",
+      "publishedAt": "2026-07-23T17:11:17Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_Why_Alejandro_Garnachos_Aston_Villa_move_starts_as_a_loan/dm_260723_Why_Alejandro_Garnachos_Aston_Villa_move_starts_as_a_loan.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49433927/why-alejandro-garnacho-aston-villa-move-starts-loan",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49430012,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool leading race for PSG's Barcola",
+      "description": "Liverpool are yet to replace Mohamed Salah, but they are reportedly in the driving seat to sign PSG's Bradley Barcola. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-23T16:33:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0123/r1604740_1296x864_3-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49430012/transfer-rumors-news-liverpool-leading-race-psg-bradley-barcola",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Arsenal",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": "604121c5febdeb600bcb9e0a667a9345",
+      "source": "Sky Sports",
+      "headline": "'Kings of Manchester' - Anderson sends Man Utd message after City move sealed",
+      "description": "Elliot Anderson has declared Manchester City the \"kings of Manchester\" after completing his £116m move from Nottingham Forest.",
+      "publishedAt": "2026-07-23T16:30:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-elliot-anderson_7305228.jpg?20260723183036",
+      "link": "https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-23T16:23:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679901_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49432380,
+      "source": "ESPN",
+      "headline": "Elliot Anderson: I looked up to Kevin De Bruyne before joining Man City",
+      "description": "Manchester City's latest recruit Elliot Anderson has listed Kevin De Bruyne as an inspiration upon completing his move to the Etihad Stadium.",
+      "publishedAt": "2026-07-23T16:05:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692790_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49432380/elliot-anderson-man-city-transfer-kevin-de-brune-116-million",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49433223,
+      "source": "ESPN",
+      "headline": "Elliot Anderson completes move to Manchester City from Nottingham Forest",
+      "description": "Manchester City have completed the signing of Elliot Anderson from Nottingham Forest, the club have confirmed.",
+      "publishedAt": "2026-07-23T16:00:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679901_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49433223/elliot-anderson-completes-move-manchester-city-nottingham-forest",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "43dc2c5d23932919ab52834b385218d1",
+      "source": "Sky Sports",
+      "headline": "Rangers confirm Dragojevic signing as seventh summer arrival",
+      "description": "Rangers have signed midfielder Vanja Dragojevic on an initial four-year deal.",
+      "publishedAt": "2026-07-23T16:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-vanja-dragojevic_7298818.jpg?20260716090119",
+      "link": "https://www.skysports.com/football/news/12040/13564373/rangers-transfer-news-vanja160dragojevic160joins-from-partizan160belgrade160as-ibrox-clubs-seventh-summer-signing",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "eb3e4e59a09ae497729436747c0d7d99",
+      "source": "Sky Sports",
+      "headline": "Domestic abuse reports reach record UK highs during 2026 World Cup",
+      "description": "Domestic abuse reports reached record highs in the UK during the 2026 World Cup, figures have shown.",
+      "publishedAt": "2026-07-23T15:49:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-dallas-police-world-cup_7305212.jpg?20260723170447",
+      "link": "https://www.skysports.com/football/news/12040/13566371/world-cup-2026-domestic-abuse-reports-reached-record-high-in-uk-with-major-increase-in-incidents-around-england-games",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "9de2b9dc4476f6a3703323b91a36788e",
+      "source": "Sky Sports",
+      "headline": "Rodri to undergo back surgery and may miss start of Premier League season",
+      "description": "Manchester City's World Cup winner Rodri is to undergo minor surgery on his back, which means he may miss the start of the Premier League season.",
+      "publishedAt": "2026-07-23T15:40:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-rodri-spain-world_7302152.jpg?20260720104844",
+      "link": "https://www.skysports.com/football/news/12040/13566264/rodri-man-citys-world-cup-winner-to-undergo-back-surgery-and-may-miss-start-of-premier-league-season",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "e2cba8a9285ce7aff0c37758a1eebec8",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
+      "description": "",
+      "publishedAt": "2026-07-23T15:23:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49433055,
+      "source": "ESPN",
+      "headline": "Leeds in talks with Manchester City for goalkeeper James Trafford - sources",
+      "description": "Leeds United are in talks with Manchester City over a move for goalkeeper James Trafford, sources have told ESPN.",
+      "publishedAt": "2026-07-23T15:20:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691274_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49433055/leeds-talks-manchester-city-james-trafford-football-premier-league-transfers",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Leeds United",
+        "England"
+      ]
+    },
+    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
@@ -34,20 +211,6 @@
       ]
     },
     {
-      "id": 49429999,
-      "source": "ESPN",
-      "headline": "Alejandro Garnacho joins Aston Villa on loan from Chelsea",
-      "description": "Alejandro Garnacho has joined Aston Villa on loan from Chelsea ahead of the new Premier League season.",
-      "publishedAt": "2026-07-23T14:20:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49429999/alejandro-garnacho-joins-aston-villa-loan-chelsea",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Aston Villa"
-      ]
-    },
-    {
       "id": "332f35dbfcb420353fb532560fd99273",
       "source": "Sky Sports",
       "headline": "Why Villa could offer Garnacho the perfect route to redemption",
@@ -74,17 +237,6 @@
       ]
     },
     {
-      "id": "0d1a67ad8668dae102d0e13f589afe0a",
-      "source": "Sky Sports",
-      "headline": "Explained: Why the Garnacho to Villa deal is complicated",
-      "description": "Sky Sports' James Savundra explains the complications behind Alejandro Garnacho's move from Chelsea to Aston Villa...",
-      "publishedAt": "2026-07-23T12:59:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-alejandro-garnacho_7305052.jpg?20260723143357",
-      "link": "https://www.skysports.com/watch/video/13566318/explained-why-a-move-for-alejandro-garnacho-from-chelsea-to-aston-villa-is-complicated",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49431974,
       "source": "ESPN",
       "headline": "UK police call on clubs - not taxpayers - to contribute towards matchday security",
@@ -107,54 +259,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-23T12:27:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692761_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49430012,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool leading race for PSG's Barcola",
-      "description": "Liverpool are yet to replace Mohamed Salah, but they are reportedly in the driving seat to sign PSG's Bradley Barcola. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-23T12:16:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0123/r1604740_1296x864_3-2.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49430012/transfer-rumors-news-liverpool-leading-race-psg-bradley-barcola",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Arsenal",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": "31520f254624c68b7a04b6c087216b56",
-      "source": "Sky Sports",
-      "headline": "Arsenal complete deal to sign winger Tzolis",
-      "description": "Arsenal have announced the signing of winger Christos Tzolis from Club Brugge on a five-year deal.",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-arsenal-christos-tzolis_7304957.jpg?20260723131240",
-      "link": "https://www.skysports.com/football/news/12040/13564283/arsenal-transfer-news-christos-tzolis-signs-in-34m-deal-from-club-brugge-as-replacement-for-leandro-trossard",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "0cb038800c9a44c72b8fabc3489b16c8",
-      "source": "Sky Sports",
-      "headline": "Kone and Baleba strongly considered by Man Utd for third midfield signing",
-      "description": "Roma's Manu Kone and Brighton's Carlos Baleba are two options who are being strongly considered by Manchester United as their search for a third midfield signing continues.",
-      "publishedAt": "2026-07-23T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-manu-kone-carlos-baleba_7304847.jpg?20260723111556",
-      "link": "https://www.skysports.com/football/news/12040/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -450,20 +554,6 @@
       ]
     },
     {
-      "id": 49419187,
-      "source": "ESPN",
-      "headline": "Aston Villa bid for Alejandro Garnacho loan from Chelsea - sources",
-      "description": "Aston Villa have made a bid to sign Chelsea winger Alejandro Garnacho on loan with a possible obligation to buy, sources have told ESPN.",
-      "publishedAt": "2026-07-22T07:33:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692166_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49419187/aston-villa-chelsea-alejandro-garnacho-loan-bid-premier-league",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Aston Villa"
-      ]
-    },
-    {
       "id": 49415757,
       "source": "ESPN",
       "headline": "10 transfer storylines you may have missed during World Cup",
@@ -473,79 +563,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/49415757/10-transfer-storylines-missed-world-cup",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49419902,
-      "source": "ESPN",
-      "headline": "Andoni Iraola: Liverpool 'definitely need to sign a winger'",
-      "description": "Liverpool head coach Andoni Iraola has said the club has \"obvious\" areas to address in the transfer market as he seeks to bolster his squad ahead of the new season.",
-      "publishedAt": "2026-07-22T06:47:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692198_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49419902/andoni-iraola-liverpool-obvious-areas-address-transfer-market",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49415431,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, Villa looking to sign Everton's Ndiaye",
-      "description": "Both Manchester United and Aston Villa are competing to sign Everton's liman Ndiaye. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-22T00:15:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692197_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49415431/transfer-rumors-news-arsenal-move-spain-world-cup-winner-williams",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Aston Villa",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49419529,
-      "source": "ESPN",
-      "headline": "João Gomes makes Aston Villa debut in 5-0 preseason win at Walsall",
-      "description": "New signing João Gomes made his Aston Villa debut in a comfortable 5-0 win at Walsall to start their preseason.",
-      "publishedAt": "2026-07-21T22:56:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692190_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49419529/joao-gomes-makes-aston-villa-debut-5-0-preseason-win-walsall",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Walsall"
-      ]
-    },
-    {
-      "id": 49420757,
-      "source": "ESPN",
-      "headline": "Will Morgan Rogers succeed at Chelsea under Xabi Alonso?",
-      "description": "Will Morgan Rogers succeed at Chelsea under Xabi Alonso?",
-      "publishedAt": "2026-07-21T22:54:45Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_COM_SOC_Analysis_Will_Morgan_Rogers_succeed_at_Chelsea_under_Xabi_Alonso_20260721_GLOBAL/dm_260721_COM_SOC_Analysis_Will_Morgan_Rogers_succeed_at_Chelsea_under_Xabi_Alonso_20260721_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49420757/will-morgan-rogers-succeed-chelsea-xabi-alonso",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49420447,
-      "source": "ESPN",
-      "headline": "Hugo Ekitike, Conor Bradley 'way off' from Liverpool return",
-      "description": "Liverpool head coach Andoni Iraola confirmed striker Hugo Ekitike and defender Conor Bradley are still \"way off\" a return to full fitness, with both players continuing their rehabilitation from long-term injuries.",
-      "publishedAt": "2026-07-21T22:20:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0129/r1607270_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49420447/hugo-ekitike-conor-bradley-way-liverpool-return",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-23T14:28:15.548Z"
+    "cachedAt": "2026-07-23T19:43:42.305Z"
   }
 }
