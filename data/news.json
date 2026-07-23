@@ -2,6 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49426845,
+      "source": "ESPN",
+      "headline": "Arsenal's William Saliba to miss extended period with back injury, avoids surgery",
+      "description": "Arsenal have confirmed that William Saliba will not require back surgery but will be out for an extended period.",
+      "publishedAt": "2026-07-22T21:53:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682289_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49426845/arsenal-william-saliba-miss-extended-period-back-injury-avoids-surgery",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "037aec410ad69867313b21df4e53f86a",
+      "source": "Sky Sports",
+      "headline": "New signings shine, absentees and exciting youth - Spurs kickstart pre-season",
+      "description": "Tottenham made a winning start to pre-season with a 1-0 victory over newly-promoted League One side MK Dons at Hotspur Way.",
+      "publishedAt": "2026-07-22T21:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mateus-fernandes_7304489.jpg?20260722191503",
+      "link": "https://www.skysports.com/football/news/12040/13566118/tottenham-1-0-mk-dons-spurs-winning-start-to-pre-season-assessed-as-mateus-fernandes-hits-screamer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "16c93ae0b8bf635725519d20a50649a0",
+      "source": "Sky Sports",
+      "headline": "Saliba out for 'extended period' with back injury",
+      "description": "Arsenal have confirmed William Saliba will be out for an extended period with a back injury.",
+      "publishedAt": "2026-07-22T20:21:00.000Z",
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-arsenal-man-city_7200481.jpg?20260322205158",
+      "link": "https://www.skysports.com/football/news/12040/13566125/william-saliba-injury-arsenal-confirm-france-international-will-miss-extended-period-after-returning-from-world-cup-with-back-problem",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49422693,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye move for Camavinga",
+      "description": "Manchester United are exploring the possibility of signing Real Madrid midfielder Eduardo Camavinga. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-22T20:18:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692531_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Real Madrid"
+      ]
+    },
+    {
       "id": 49426151,
       "source": "ESPN",
       "headline": "Chelsea's Alejandro Garnacho nears loan move to Aston Villa - sources",
@@ -27,22 +76,6 @@
       "teams": []
     },
     {
-      "id": 49422693,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Spurs, Chelsea want Rashford",
-      "description": "Arsenal, Chelsea and Tottenham Hotspur are keeping tabs on the situation of Manchester United winger Marcus Rashford. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-22T17:36:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674090_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Arsenal",
-        "Chelsea",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -61,28 +94,6 @@
       "publishedAt": "2026-07-22T16:30:00.000Z",
       "image": "https://e1.365dm.com/26/05/1920x1080/skysports-casemiro-premier-league_7251201.jpg?20260517143044",
       "link": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "4f5f9efd04405fbe5a4fffb2802569f7",
-      "source": "Sky Sports",
-      "headline": "Spurs 1-0 MK Dons: Key moments as Fernandes hits volleyed screamer!",
-      "description": "",
-      "publishedAt": "2026-07-22T15:20:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mateus-fernandes_7304489.jpg?20260722191503",
-      "link": "https://www.skysports.com/football/tottenham-hotspur-vs-milton-keynes-dons/live/562434",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "047a73a8d4e03c711439dc00f14f5edd",
-      "source": "Sky Sports",
-      "headline": "Is Barcola next on Arsenal's list after missing out on Rogers?",
-      "description": "Arsenal retain an interest in Bradley Barcola after missing out on Morgan Rogers to Chelsea, according to Sky Sports News reporter Dharmesh Sheth.",
-      "publishedAt": "2026-07-22T15:05:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-bradley-barcola-arsenal_7304497.jpg?20260722192341",
-      "link": "https://www.skysports.com/football/news/12040/13566027/bradley-barcola-arsenal-retain-an-interest-in-paris-saint-germain-forward-after-missing-out-on-morgan-rogers-to-chelsea",
       "tag": "News Story",
       "teams": []
     },
@@ -524,26 +535,11 @@
         "Coventry City",
         "Hull City"
       ]
-    },
-    {
-      "id": 49410987,
-      "source": "ESPN",
-      "headline": "Alan Shearer leads tributes to Kevin Keegan: 'Sleep easy Boss'",
-      "description": "Alan Shearer paid tribute to his hero and friend Kevin Keegan following the death of his former Newcastle manager at the age of 75.",
-      "publishedAt": "2026-07-20T17:29:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691796_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49410987/alan-shearer-leads-tributes-kevin-keegan-sleep-easy-boss",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Liverpool",
-        "England"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-22T19:41:06.344Z"
+    "cachedAt": "2026-07-23T03:41:22.646Z"
   }
 }
