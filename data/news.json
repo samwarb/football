@@ -2,6 +2,177 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "fad235de12fa62c6257da569f6b73f67",
+      "source": "Sky Sports",
+      "headline": "Replacing Pep, Chelsea, Rodri and Gealish - Marecsa Best Bits",
+      "description": "Watch the best bits from Enzo Maresca's first news conference as Manchester City manager.",
+      "publishedAt": "2026-07-24T13:40:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-enzo-maresca-manchester_7305876.jpg?20260724144520",
+      "link": "https://www.skysports.com/watch/video/13566651/manchester-city-enzo-marescas-best-bits-from-first-news-conference",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-24T12:23:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49437503,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal agree Bruno Guimarães personal terms",
+      "description": "Newcastle United midfielder Bruno Guimarães has agreed personal terms with Arsenal. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-24T11:50:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693088_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49430196,
+      "source": "ESPN",
+      "headline": "Meet Liverpool's new boss: Iraola opens up on vision to unite Anfield fanbase",
+      "description": "Andoni Iraola explains why Spanish coaches are faring so well, the similarities between Athletic Club and Liverpool, and what he will demand in his debut season at Anfield.",
+      "publishedAt": "2026-07-24T11:48:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692732_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49430196/meet-liverpool-new-boss-andoni-iraola-opens-vision-unite-anfield-fanbase",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49435815,
+      "source": "ESPN",
+      "headline": "Andoni Iraola breaks down Liverpool backroom staff revamp",
+      "description": "Andoni Iraola opened up on the importance of his backroom staff at Liverpool, with the club's coaching setup having undergone a significant revamp this summer.",
+      "publishedAt": "2026-07-24T11:27:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692974_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49435815/andoni-iraola-breaks-liverpool-backroom-staff-revamp",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "3dd13f630150055ed9596fe1db49579c",
+      "source": "Sky Sports",
+      "headline": "Spain coach says Argentina behaviour 'intolerable' after World Cup final",
+      "description": "Spain head coach Luis de la Fuente has described the conduct of Argentina players after the World Cup final as \"intolerable and unacceptable\".",
+      "publishedAt": "2026-07-24T11:24:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-parades-argentina_7302004.jpg?20260720073524",
+      "link": "https://www.skysports.com/football/news/12040/13566607/argentina-behaviour-after-world-cup-final-was-intolerable-and-unacceptable-says-spain-head-coach-luis-de-la-fuente",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "fe2320f243855aa77483a07ccd737791",
+      "source": "Sky Sports",
+      "headline": "Scott: The 'scrawny-looking kid' turned complete midfielder wanted by the elite",
+      "description": "Across the seven games in which Bournemouth took points off Arsenal, Manchester City, Manchester United, Liverpool and Chelsea last season, it is telling that Alex Scott was nearly ever-present, playing 625 of a possible 630 minutes.",
+      "publishedAt": "2026-07-24T11:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-premier-league-bournemouth_7305658.jpg?20260724110653",
+      "link": "https://www.skysports.com/football/news/12040/13566546/alex-scott-how-bournemouth-midfielder-wanted-by-arsenal-chelsea-and-man-utd-flourished-under-andoni-iraola",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "7e7d5ccfa50b015f2c06eabc0995bcff",
+      "source": "Sky Sports",
+      "headline": "Could Adeyemi's Barcelona move see Flick unlock winger's true potential?",
+      "description": "Perhaps Karim Adeyemi's move to Barcelona should not come as a surprise even if usurping Lamine Yamal as the team's star left-footed right-winger is impossible. After all, it was Hansi Flick, Barca’s head coach, who gave Adeyemi his debut for Germany.",
+      "publishedAt": "2026-07-24T10:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-karim-adeyemi-borussia-dortmund_7305608.jpg?20260724101357",
+      "link": "https://www.skysports.com/football/news/12040/13561670/karim-adeyemi-to-barcelona-why-hansi-flick-reunion-could-help-former-borussia-dortmund-winger-unlock-his-potential",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-24T09:34:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "329fbbe2d7a27865ce6afb6ee9b2b7e9",
+      "source": "Sky Sports",
+      "headline": "Guardiola rejects chance to become Italy head coach",
+      "description": "Pep Guardiola has turned down the chance to take the Italy head coach job, according to Sky in Italy.",
+      "publishedAt": "2026-07-24T09:30:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-pep-guardiola-man-city_7171536.jpg?20260221235445",
+      "link": "https://www.skysports.com/football/news/12040/13566556/italian-football-federation-holds-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49437885,
+      "source": "ESPN",
+      "headline": "Nottingham Forest join Red Bull Salzburg in race for rising Zimbabwe star Tadiwa Chakuchichi - source",
+      "description": "Nottingham Forest are monitoring Zimbabwe winger Tadiwa Chakuchichi -- the youngest player at the 2025 Africa Cup of Nations (AFCON) -- a well-placed source told ESPN.",
+      "publishedAt": "2026-07-24T08:49:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693099_1026x577_16-9.png",
+      "link": "https://www.espn.com/espn/story/_/id/49437885/nottingham-forest-join-red-bull-salzburg-race-rising-zimbabwe-star-tadiwa-chakuchichi-source",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "RB Salzburg"
+      ]
+    },
+    {
       "id": 49437804,
       "source": "ESPN",
       "headline": "Arsenal's new away kit brings back cult 'bruised banana' design ... again",
@@ -12,31 +183,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "192b635031ad92549cb74272d446667c",
-      "source": "Sky Sports",
-      "headline": "Chelsea agree deal with Palace for Lacroix",
-      "description": "Chelsea have agreed a deal with Crystal Palace to sign Maxence Lacroix.",
-      "publishedAt": "2026-07-24T08:20:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-maxence-lacroix-crystal-palace_7302822.jpg?20260720205359",
-      "link": "https://www.skysports.com/football/news/12040/13565648/maxence-lacroix-transfer-news-chelsea-agree-deal-to-sign-france-defender-from-crystal-palace",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49437503,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal agree Bruno Guimarães personal terms",
-      "description": "Newcastle United midfielder Bruno Guimarães has agreed personal terms with Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-24T07:54:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693088_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
       ]
     },
     {
@@ -52,17 +198,6 @@
         "Cape Town City FC",
         "South Africa"
       ]
-    },
-    {
-      "id": "ea1e229211c79abccd49b983b02e7ccf",
-      "source": "Sky Sports",
-      "headline": "Why Newcastle are looking to emulate German giants on recruitment",
-      "description": "When the Saudi PIF takeover of Newcastle was completed in late 2021 the new ownership set about adding age and experience to their newly acquired investment.",
-      "publishedAt": "2026-07-24T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-premier-league-newcastle_7198025.jpg?20260320082410",
-      "link": "https://www.skysports.com/football/news/12040/13566313/newcastle-transfer-philosophy-why-magpies-are-aiming-to-emulate-borussia-dortmunds-work-on-young-players",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49408793,
@@ -157,38 +292,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-24T06:40:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49417788,
       "source": "ESPN",
       "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
@@ -211,17 +314,6 @@
         "Bayern Munich",
         "Paris Saint-Germain"
       ]
-    },
-    {
-      "id": "40d6cee7e9818e396d7a71a78af2be54",
-      "source": "Sky Sports",
-      "headline": "Papers: Valuations of several Man Utd midfield targets revealed",
-      "description": "The top stories and transfer rumours from Friday's newspapers...",
-      "publishedAt": "2026-07-23T21:30:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49430012,
@@ -371,49 +463,6 @@
       "teams": []
     },
     {
-      "id": 49430196,
-      "source": "ESPN",
-      "headline": "Meet Liverpool's new boss: Iraola opens up on vision to unite Anfield fanbase",
-      "description": "Andoni Iraola explains why Spanish coaches are faring so well, the similarities between Athletic Club and Liverpool, and what he will demand in his debut season at Anfield.",
-      "publishedAt": "2026-07-23T12:33:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692732_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49430196/meet-liverpool-new-boss-andoni-iraola-opens-vision-unite-anfield-fanbase",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-23T10:54:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49430314,
       "source": "ESPN",
       "headline": "John Terry: Morgan Rogers would 'probably have gone to Arsenal' until Chelsea offer",
@@ -506,37 +555,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49423288,
-      "source": "ESPN",
-      "headline": "Iraola: Liverpool have to sign new players",
-      "description": "Iraola: Liverpool have to sign new players",
-      "publishedAt": "2026-07-22T10:24:07Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Iraola_Liverpool_have_to_sign_new_players/dm_260722_Iraola_Liverpool_have_to_sign_new_players.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49423288/liverpool-sign-new-players",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49422991,
-      "source": "ESPN",
-      "headline": "Who will Iraola and Liverpool target in the transfer window?",
-      "description": "Who will Iraola and Liverpool target in the transfer window?",
-      "publishedAt": "2026-07-22T08:53:54Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_COM_SOC_Analysis_Who_will_Iraola_and_Liverpool_target_in_the_transfer_window3F__GLOBAL_2026-07-22/dm_260722_COM_SOC_Analysis_Who_will_Iraola_and_Liverpool_target_in_the_transfer_window3F__GLOBAL_2026-07-22.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49422991/who-iraola-liverpool-target-transfer-window",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-24T08:40:18.045Z"
+    "cachedAt": "2026-07-24T14:09:06.525Z"
   }
 }
