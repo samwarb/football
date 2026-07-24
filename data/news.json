@@ -2,6 +2,31 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "40d6cee7e9818e396d7a71a78af2be54",
+      "source": "Sky Sports",
+      "headline": "Papers: Valuations of several Man Utd midfield targets revealed",
+      "description": "The top stories and transfer rumours from Friday's newspapers...",
+      "publishedAt": "2026-07-23T21:30:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49430012,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea near move for Palace's Lacroix",
+      "description": "Chelsea are reportedly looking to strengthen their defense by signing Crystal Palace defender Maxence Lacroix. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-23T20:55:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692934_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49430012/transfer-rumors-news-liverpool-leading-race-psg-bradley-barcola",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Chelsea"
+      ]
+    },
+    {
       "id": 49434293,
       "source": "ESPN",
       "headline": "Lindop: Iraola didn't want to 'sell himself' to fans",
@@ -56,32 +81,6 @@
       ]
     },
     {
-      "id": 49430012,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool leading race for PSG's Barcola",
-      "description": "Liverpool are yet to replace Mohamed Salah, but they are reportedly in the driving seat to sign PSG's Bradley Barcola. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-23T16:33:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0123/r1604740_1296x864_3-2.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49430012/transfer-rumors-news-liverpool-leading-race-psg-bradley-barcola",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Arsenal",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": "604121c5febdeb600bcb9e0a667a9345",
-      "source": "Sky Sports",
-      "headline": "'Kings of Manchester' - Anderson sends Man Utd message after City move sealed",
-      "description": "Elliot Anderson has declared Manchester City the \"kings of Manchester\" after completing his £116m move from Nottingham Forest.",
-      "publishedAt": "2026-07-23T16:30:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-elliot-anderson_7305228.jpg?20260723183036",
-      "link": "https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -120,17 +119,6 @@
       ]
     },
     {
-      "id": "43dc2c5d23932919ab52834b385218d1",
-      "source": "Sky Sports",
-      "headline": "Rangers confirm Dragojevic signing as seventh summer arrival",
-      "description": "Rangers have signed midfielder Vanja Dragojevic on an initial four-year deal.",
-      "publishedAt": "2026-07-23T16:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-vanja-dragojevic_7298818.jpg?20260716090119",
-      "link": "https://www.skysports.com/football/news/12040/13564373/rangers-transfer-news-vanja160dragojevic160joins-from-partizan160belgrade160as-ibrox-clubs-seventh-summer-signing",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": "eb3e4e59a09ae497729436747c0d7d99",
       "source": "Sky Sports",
       "headline": "Domestic abuse reports reach record UK highs during 2026 World Cup",
@@ -139,28 +127,6 @@
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-dallas-police-world-cup_7305212.jpg?20260723170447",
       "link": "https://www.skysports.com/football/news/12040/13566371/world-cup-2026-domestic-abuse-reports-reached-record-high-in-uk-with-major-increase-in-incidents-around-england-games",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "9de2b9dc4476f6a3703323b91a36788e",
-      "source": "Sky Sports",
-      "headline": "Rodri to undergo back surgery and may miss start of Premier League season",
-      "description": "Manchester City's World Cup winner Rodri is to undergo minor surgery on his back, which means he may miss the start of the Premier League season.",
-      "publishedAt": "2026-07-23T15:40:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-rodri-spain-world_7302152.jpg?20260720104844",
-      "link": "https://www.skysports.com/football/news/12040/13566264/rodri-man-citys-world-cup-winner-to-undergo-back-surgery-and-may-miss-start-of-premier-league-season",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e2cba8a9285ce7aff0c37758a1eebec8",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
-      "description": "",
-      "publishedAt": "2026-07-23T15:23:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -209,17 +175,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "332f35dbfcb420353fb532560fd99273",
-      "source": "Sky Sports",
-      "headline": "Why Villa could offer Garnacho the perfect route to redemption",
-      "description": "At the age of just 22, Alejandro Garnacho's career is at a crossroads, but his move to Aston Villa, driven by Unai Emery, offers the perfect chance to get it back on track.",
-      "publishedAt": "2026-07-23T14:05:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-alejandro-garnacho_7305066.jpg?20260723150425",
-      "link": "https://www.skysports.com/football/news/12040/13566210/alejandro-garnacho-transfer-news-aston-villa-offer-winger-route-to-redemption-after-completing-chelsea-exit",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49405006,
@@ -568,6 +523,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-23T19:43:42.305Z"
+    "cachedAt": "2026-07-24T03:40:10.902Z"
   }
 }
