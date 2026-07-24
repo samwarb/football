@@ -2,14 +2,136 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "fad235de12fa62c6257da569f6b73f67",
+      "id": 49440737,
+      "source": "ESPN",
+      "headline": "What would England's team look like if Pep Guardiola was manager?",
+      "description": "What would England's team look like if Pep Guardiola was manager?",
+      "publishedAt": "2026-07-24T16:41:13Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
+      "tag": "England",
+      "teams": [
+        "England"
+      ]
+    },
+    {
+      "id": 49440733,
+      "source": "ESPN",
+      "headline": "Ogden: Klopp is the best man for the Germany job",
+      "description": "Ogden: Klopp is the best man for the Germany job",
+      "publishedAt": "2026-07-24T16:40:32Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_Ogden3A_Klopp_is_the_best_man_for_the_Germany_job_GLOBAL_2026-07-24/dm_260724_COM_SOC_Analysis_Ogden3A_Klopp_is_the_best_man_for_the_Germany_job_GLOBAL_2026-07-24.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49440733/klopp-best-man-germany-job",
+      "tag": "Germany",
+      "teams": [
+        "Germany",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "da56a997638d74545c1fe493757658fb",
       "source": "Sky Sports",
-      "headline": "Replacing Pep, Chelsea, Rodri and Gealish - Marecsa Best Bits",
-      "description": "Watch the best bits from Enzo Maresca's first news conference as Manchester City manager.",
-      "publishedAt": "2026-07-24T13:40:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-enzo-maresca-manchester_7305876.jpg?20260724144520",
-      "link": "https://www.skysports.com/watch/video/13566651/manchester-city-enzo-marescas-best-bits-from-first-news-conference",
-      "tag": "Video",
+      "headline": "Super League LIVE! Wigan and St Helens continue to trade tries in blistering start",
+      "description": "Live scores, team news, text commentary, analysis from Friday's Super League derby clash between Wigan Warriors and St Helens, live on Sky Sports+ from 7.30pm; Wigan second in the table, two points off league leaders Leeds Rhinos; Saints looking to move back into top six playoff spots",
+      "publishedAt": "2026-07-24T15:14:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-french-wigan-super-league_7306163.jpg?20260724203856",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566689/super-league-live-wigan-warriors-host-st-helens-in-crunch-clash-updates-latest-scores-team-news-commentary",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49439075,
+      "source": "ESPN",
+      "headline": "Enzo Maresca: It's a 'privilege' to succeed Pep Guardiola at Man City",
+      "description": "Enzo Maresca has said it's a \"privilege\" to succeed Pep Guardiola at Manchester City.",
+      "publishedAt": "2026-07-24T14:33:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693173_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49439075/enzo-maresca-man-city-manager-rodri-transfer-news",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "2a873d2e006d3afb6b816c8290f85f23",
+      "source": "Sky Sports",
+      "headline": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
+      "description": "Liverpool's owners Fenway Sports Group are in talks with a consortium fronted by Amit Bhatia over the sale of a minority stake in the club.",
+      "publishedAt": "2026-07-24T14:30:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-liverpool_7305864.jpg?20260724143232",
+      "link": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49437503,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal agree Bruno Guimarães personal terms",
+      "description": "Newcastle United midfielder Bruno Guimarães has agreed personal terms with Arsenal. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-24T14:27:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693088_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49439637,
+      "source": "ESPN",
+      "headline": "Maresca 'privileged' to succeed Guardiola at Man City",
+      "description": "Maresca 'privileged' to succeed Guardiola at Man City",
+      "publishedAt": "2026-07-24T14:27:26Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_Maresca_privileged_to_succeed_Guardiola_at_Man_City/dm_260724_Maresca_privileged_to_succeed_Guardiola_at_Man_City.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49439637/maresca-privileged-succeed-guardiola-man-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49405006,
+      "source": "ESPN",
+      "headline": "What to expect from Arsenal's new €40m winger Christos Tzolis",
+      "description": "Here's what Arsenal can expect from Greece winger Christos Tzolis, their new €40 million signing from Club Brugge.",
+      "publishedAt": "2026-07-24T14:26:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692767_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49405006/what-expect-arsenal-new-40m-winger-christos-tzolis",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Club Brugge",
+        "Greece"
+      ]
+    },
+    {
+      "id": 49434425,
+      "source": "ESPN",
+      "headline": "Darke: Premier League race promises to be a classic based on summer transfers",
+      "description": "It is too early for title race predictions, but even a month ahead of the new season, it is clear that the storylines are intriguing and fascinating.",
+      "publishedAt": "2026-07-24T14:23:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693174_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49434425/premier-league-ian-darke-transfers-arsenal-manchester-city-manchester-united-liverpool-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Liverpool",
+        "Manchester United",
+        "Manchester City",
+        "Arsenal",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "46acda4d4228fd3dd8fb2f84706061da",
+      "source": "Sky Sports",
+      "headline": "Devlin: Rangers wait was 'too stressful'",
+      "description": "Cammy Devlin revealed the stress he felt at the 2026 World Cup as he looked to make his move to Rangers.",
+      "publishedAt": "2026-07-24T14:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-cammy-devlin-rangers_7305878.jpg?20260724144822",
+      "link": "https://www.skysports.com/football/news/12040/13566652/cammy-devlin-waiting-on-rangers-move-during-world-cup-was-too-stressful",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -43,20 +165,6 @@
       ]
     },
     {
-      "id": 49437503,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal agree Bruno Guimarães personal terms",
-      "description": "Newcastle United midfielder Bruno Guimarães has agreed personal terms with Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-24T11:50:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693088_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
-      ]
-    },
-    {
       "id": 49430196,
       "source": "ESPN",
       "headline": "Meet Liverpool's new boss: Iraola opens up on vision to unite Anfield fanbase",
@@ -81,39 +189,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "3dd13f630150055ed9596fe1db49579c",
-      "source": "Sky Sports",
-      "headline": "Spain coach says Argentina behaviour 'intolerable' after World Cup final",
-      "description": "Spain head coach Luis de la Fuente has described the conduct of Argentina players after the World Cup final as \"intolerable and unacceptable\".",
-      "publishedAt": "2026-07-24T11:24:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-parades-argentina_7302004.jpg?20260720073524",
-      "link": "https://www.skysports.com/football/news/12040/13566607/argentina-behaviour-after-world-cup-final-was-intolerable-and-unacceptable-says-spain-head-coach-luis-de-la-fuente",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "fe2320f243855aa77483a07ccd737791",
-      "source": "Sky Sports",
-      "headline": "Scott: The 'scrawny-looking kid' turned complete midfielder wanted by the elite",
-      "description": "Across the seven games in which Bournemouth took points off Arsenal, Manchester City, Manchester United, Liverpool and Chelsea last season, it is telling that Alex Scott was nearly ever-present, playing 625 of a possible 630 minutes.",
-      "publishedAt": "2026-07-24T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-premier-league-bournemouth_7305658.jpg?20260724110653",
-      "link": "https://www.skysports.com/football/news/12040/13566546/alex-scott-how-bournemouth-midfielder-wanted-by-arsenal-chelsea-and-man-utd-flourished-under-andoni-iraola",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "7e7d5ccfa50b015f2c06eabc0995bcff",
-      "source": "Sky Sports",
-      "headline": "Could Adeyemi's Barcelona move see Flick unlock winger's true potential?",
-      "description": "Perhaps Karim Adeyemi's move to Barcelona should not come as a surprise even if usurping Lamine Yamal as the team's star left-footed right-winger is impossible. After all, it was Hansi Flick, Barca’s head coach, who gave Adeyemi his debut for Germany.",
-      "publishedAt": "2026-07-24T10:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-karim-adeyemi-borussia-dortmund_7305608.jpg?20260724101357",
-      "link": "https://www.skysports.com/football/news/12040/13561670/karim-adeyemi-to-barcelona-why-hansi-flick-reunion-could-help-former-borussia-dortmund-winger-unlock-his-potential",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48955344,
@@ -146,17 +221,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "329fbbe2d7a27865ce6afb6ee9b2b7e9",
-      "source": "Sky Sports",
-      "headline": "Guardiola rejects chance to become Italy head coach",
-      "description": "Pep Guardiola has turned down the chance to take the Italy head coach job, according to Sky in Italy.",
-      "publishedAt": "2026-07-24T09:30:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-pep-guardiola-man-city_7171536.jpg?20260221235445",
-      "link": "https://www.skysports.com/football/news/12040/13566556/italian-football-federation-holds-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49437885,
@@ -437,21 +501,6 @@
       ]
     },
     {
-      "id": 49405006,
-      "source": "ESPN",
-      "headline": "What to expect from Arsenal's new €40m winger Christos Tzolis",
-      "description": "Here's what Arsenal can expect from Greece winger Christos Tzolis, their new €40 million signing from Club Brugge.",
-      "publishedAt": "2026-07-23T13:07:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692767_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49405006/what-expect-arsenal-new-40m-winger-christos-tzolis",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Club Brugge",
-        "Greece"
-      ]
-    },
-    {
       "id": 49431974,
       "source": "ESPN",
       "headline": "UK police call on clubs - not taxpayers - to contribute towards matchday security",
@@ -488,78 +537,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49426845,
-      "source": "ESPN",
-      "headline": "Arsenal's William Saliba to miss extended period with back injury, avoids surgery",
-      "description": "Arsenal have confirmed that William Saliba will not require back surgery but will be out for an extended period.",
-      "publishedAt": "2026-07-22T21:53:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682289_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49426845/arsenal-william-saliba-miss-extended-period-back-injury-avoids-surgery",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49422693,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye move for Camavinga",
-      "description": "Manchester United are exploring the possibility of signing Real Madrid midfielder Eduardo Camavinga. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-22T20:18:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692531_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49426151,
-      "source": "ESPN",
-      "headline": "Chelsea's Alejandro Garnacho nears loan move to Aston Villa - sources",
-      "description": "Alejandro Garnacho is on the brink of a loan move to Aston Villa from Chelsea per ESPN sources.",
-      "publishedAt": "2026-07-22T18:33:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0303/r1622788_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49426151/chelsea-alejandro-garnacho-nears-loan-move-aston-villa-sources",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 49424620,
-      "source": "ESPN",
-      "headline": "Foden: 'Unbelievable feeling' to sign contract extension at Man City until 2030",
-      "description": "Foden: 'Unbelievable feeling' to sign contract extension at Man City until 2030",
-      "publishedAt": "2026-07-22T14:32:14Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Foden_Unbelievable_feeling_to_sign_contract_extension_at_Man_City_until_2030/dm_260722_Foden_Unbelievable_feeling_to_sign_contract_extension_at_Man_City_until_2030.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49424620/unbelievable-feeling-sign-contract-extension-man-city-2030",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49423996,
-      "source": "ESPN",
-      "headline": "Man United go retro with royal blue 2026-27 away kit",
-      "description": "Manchester United have officially debuted their brand-new away kit for the upcoming 2026-27 season, a day after leaking it via British rapper Stormzy.",
-      "publishedAt": "2026-07-22T12:39:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692354_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49423996/man-united-go-retro-royal-blue-2026-27-away-kit",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-24T14:09:06.525Z"
+    "cachedAt": "2026-07-24T19:44:08.531Z"
   }
 }
