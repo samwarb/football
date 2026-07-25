@@ -2,6 +2,20 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49437503,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye move for Tchouaméni",
+      "description": "Manchester United are reportedly looking to sign Real Madrid midfielder Aurélien Tchouaméni. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-24T20:55:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693330_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
+      "tag": "Real Madrid",
+      "teams": [
+        "Real Madrid",
+        "Manchester United"
+      ]
+    },
+    {
       "id": 49440737,
       "source": "ESPN",
       "headline": "What would England's team look like if Pep Guardiola was manager?",
@@ -29,12 +43,12 @@
       ]
     },
     {
-      "id": "da56a997638d74545c1fe493757658fb",
+      "id": "5bfb35079d06a12286a1fa077b716252",
       "source": "Sky Sports",
-      "headline": "Super League LIVE! Wigan and St Helens continue to trade tries in blistering start",
+      "headline": "Welsby: Our performances let Rowley down - 'We're gutted, embarrassed'",
       "description": "Live scores, team news, text commentary, analysis from Friday's Super League derby clash between Wigan Warriors and St Helens, live on Sky Sports+ from 7.30pm; Wigan second in the table, two points off league leaders Leeds Rhinos; Saints looking to move back into top six playoff spots",
       "publishedAt": "2026-07-24T15:14:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-french-wigan-super-league_7306163.jpg?20260724203856",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-keighran-wigan-warriors_7306207.jpg?20260724214625",
       "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566689/super-league-live-wigan-warriors-host-st-helens-in-crunch-clash-updates-latest-scores-team-news-commentary",
       "tag": "Liveblog",
       "teams": []
@@ -50,31 +64,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": "2a873d2e006d3afb6b816c8290f85f23",
-      "source": "Sky Sports",
-      "headline": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
-      "description": "Liverpool's owners Fenway Sports Group are in talks with a consortium fronted by Amit Bhatia over the sale of a minority stake in the club.",
-      "publishedAt": "2026-07-24T14:30:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-liverpool_7305864.jpg?20260724143232",
-      "link": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49437503,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal agree Bruno Guimarães personal terms",
-      "description": "Newcastle United midfielder Bruno Guimarães has agreed personal terms with Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-24T14:27:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693088_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
       ]
     },
     {
@@ -122,17 +111,6 @@
         "Arsenal",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "46acda4d4228fd3dd8fb2f84706061da",
-      "source": "Sky Sports",
-      "headline": "Devlin: Rangers wait was 'too stressful'",
-      "description": "Cammy Devlin revealed the stress he felt at the 2026 World Cup as he looked to make his move to Rangers.",
-      "publishedAt": "2026-07-24T14:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-cammy-devlin-rangers_7305878.jpg?20260724144822",
-      "link": "https://www.skysports.com/football/news/12040/13566652/cammy-devlin-waiting-on-rangers-move-during-world-cup-was-too-stressful",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -542,6 +520,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-24T19:44:08.531Z"
+    "cachedAt": "2026-07-25T03:34:23.383Z"
   }
 }
