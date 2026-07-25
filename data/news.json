@@ -2,6 +2,226 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-25T13:46:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "4b6110a09bd1ef90a610ba60cb9d9bee",
+      "source": "Sky Sports",
+      "headline": "Arsenal exploring deal for Real Madrid's Vinicius Jr",
+      "description": "Arsenal are looking into a potential deal for Real Madrid winger Vinicius Junior.",
+      "publishedAt": "2026-07-25T13:45:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-vinicius-junior-brazil_7282172.jpg?20260625002539",
+      "link": "https://www.skysports.com/football/news/12040/13566893/vinicius-jr-transfer-news-arsenal-exploring-deal-for-real-madrid-and-brazil-forward",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49445331,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal explore move for Vinícius Júnior",
+      "description": "Arsenal are reportedly interested in signing Real Madrid star Vinícius Júnior. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-25T13:18:15Z",
+      "image": "https://a.espncdn.com/photo/2025/0830/r1538934_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49445331/transfer-rumors-news-arsenal-viktor-gyokeres-atletico-madrid-julian-alvarez-swap-move",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Real Madrid",
+        "Brazil"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-25T12:44:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679901_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49434125,
+      "source": "ESPN",
+      "headline": "Can MLS capitalize on World Cup fervor in the U.S.?",
+      "description": "The MLS is at a crossroads. What is the league willing to risk in its next chapter?",
+      "publishedAt": "2026-07-25T11:27:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692853_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49434125/mls-capitalize-world-cup-don-garber-commissioner",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49408793,
+      "source": "ESPN",
+      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
+      "publishedAt": "2026-07-25T10:26:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-25T10:23:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-25T10:22:34Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49417788,
+      "source": "ESPN",
+      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
+      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
+      "publishedAt": "2026-07-25T10:21:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Tottenham Hotspur",
+        "Barcelona",
+        "Real Madrid",
+        "Bayern Munich",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": 49445293,
+      "source": "ESPN",
+      "headline": "Abdukodir Khusanov signs new long-term deal with Manchester City",
+      "description": "Manchester City have agreed terms on a new contract for Abdukodir Khusanov, the club have confirmed.",
+      "publishedAt": "2026-07-25T10:13:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693466_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49445293/man-city-abdukoir-khusanov-long-term-contract-premier-league",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "d96b7b2b04803a66e5201a49ddebad66",
+      "source": "Sky Sports",
+      "headline": "'People do not just fail to turn up' - Woking hit back at Defoe after exit",
+      "description": "Woking's director of football Jody Brown claims Jermain Defoe didn't turn up for a meeting and training amid \"growing concerns\" within the club before he left his role as head coach after just four months.",
+      "publishedAt": "2026-07-25T10:00:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-jermain-defoe-woking_7213037.jpg?20260407101959",
+      "link": "https://www.skysports.com/football/news/12040/13566844/jermain-defoe-woking-claim-former-england-and-tottenham-striker-didnt-turn-up-for-meeting-and-training-before-shock-exit",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49437503,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United eye move for Tchouaméni",
@@ -43,17 +263,6 @@
       ]
     },
     {
-      "id": "5bfb35079d06a12286a1fa077b716252",
-      "source": "Sky Sports",
-      "headline": "Welsby: Our performances let Rowley down - 'We're gutted, embarrassed'",
-      "description": "Live scores, team news, text commentary, analysis from Friday's Super League derby clash between Wigan Warriors and St Helens, live on Sky Sports+ from 7.30pm; Wigan second in the table, two points off league leaders Leeds Rhinos; Saints looking to move back into top six playoff spots",
-      "publishedAt": "2026-07-24T15:14:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-keighran-wigan-warriors_7306207.jpg?20260724214625",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566689/super-league-live-wigan-warriors-host-st-helens-in-crunch-clash-updates-latest-scores-team-news-commentary",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49439075,
       "source": "ESPN",
       "headline": "Enzo Maresca: It's a 'privilege' to succeed Pep Guardiola at Man City",
@@ -77,21 +286,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 49405006,
-      "source": "ESPN",
-      "headline": "What to expect from Arsenal's new €40m winger Christos Tzolis",
-      "description": "Here's what Arsenal can expect from Greece winger Christos Tzolis, their new €40 million signing from Club Brugge.",
-      "publishedAt": "2026-07-24T14:26:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692767_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49405006/what-expect-arsenal-new-40m-winger-christos-tzolis",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Club Brugge",
-        "Greece"
       ]
     },
     {
@@ -169,38 +363,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-24T09:34:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49437885,
       "source": "ESPN",
       "headline": "Nottingham Forest join Red Bull Salzburg in race for rising Zimbabwe star Tadiwa Chakuchichi - source",
@@ -239,122 +401,6 @@
       "teams": [
         "Cape Town City FC",
         "South Africa"
-      ]
-    },
-    {
-      "id": 49408793,
-      "source": "ESPN",
-      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
-      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
-      "publishedAt": "2026-07-24T06:43:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-24T06:41:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-24T06:41:12Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49417788,
-      "source": "ESPN",
-      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
-      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
-      "publishedAt": "2026-07-24T06:29:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Tottenham Hotspur",
-        "Barcelona",
-        "Real Madrid",
-        "Bayern Munich",
-        "Paris Saint-Germain"
       ]
     },
     {
@@ -426,17 +472,6 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-23T16:23:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1679901_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49432380,
       "source": "ESPN",
       "headline": "Elliot Anderson: I looked up to Kevin De Bruyne before joining Man City",
@@ -488,38 +523,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/49431974/uk-police-premier-league-clubs-matchday-costs-security",
       "tag": "HeadlineNews",
       "teams": []
-    },
-    {
-      "id": 49430314,
-      "source": "ESPN",
-      "headline": "John Terry: Morgan Rogers would 'probably have gone to Arsenal' until Chelsea offer",
-      "description": "John Terry has suggested that Morgan Rogers may have one point preferred to join Arsenal over his old club, but that the numbers involved in his move to Stamford Bridge must have been too good to turn down.",
-      "publishedAt": "2026-07-23T09:30:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692722_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49430314/john-terry-morgan-rogers-chelsea-transfer-contract-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49430151,
-      "source": "ESPN",
-      "headline": "What has been the best Premier League transfer this summer?",
-      "description": "What has been the best Premier League transfer this summer?",
-      "publishedAt": "2026-07-23T08:13:24Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_COM_SOC_Analysis_What_has_been_the_best_Premier_League_transfer_this_summer_20260723_GLOBAL/dm_260723_COM_SOC_Analysis_What_has_been_the_best_Premier_League_transfer_this_summer_20260723_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49430151/what-best-premier-league-transfer-summer",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-25T08:21:56.028Z"
+    "cachedAt": "2026-07-25T13:59:24.556Z"
   }
 }
