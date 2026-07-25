@@ -2,6 +2,76 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49408793,
+      "source": "ESPN",
+      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
+      "publishedAt": "2026-07-25T18:34:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49447432,
+      "source": "ESPN",
+      "headline": "Eddie Howe unsure on Bruno Guimarães' Newcastle future amid Arsenal interest",
+      "description": "Eddie Howe has said that he is unsure whether Newcastle United captain Bruno Guimarães will remain at the club next season.",
+      "publishedAt": "2026-07-25T16:42:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693556_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49447432/eddie-howe-bruno-guimaraes-newcastle-future-amid-arsenal-interest",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49434125,
+      "source": "ESPN",
+      "headline": "Can MLS capitalize on World Cup fervor in the U.S.?",
+      "description": "The MLS is at a crossroads. What is the league willing to risk in its next chapter?",
+      "publishedAt": "2026-07-25T15:34:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692853_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49434125/mls-capitalize-world-cup-don-garber-commissioner",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49446845,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi: Any Tottenham player not 'proud' to be at the club 'has to leave'",
+      "description": "Roberto De Zerbi has said that any Tottenham player who is not \"happy or proud\" to be at the club \"has to leave,\" amid doubts over Lucas Bergvall's future with the north London side.",
+      "publishedAt": "2026-07-25T15:26:12Z",
+      "image": "https://a.espncdn.com/photo/2025/0916/r1546695_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49446845/tottenham-player-not-happy-proud-the-club-leave",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
@@ -45,21 +115,6 @@
       "teams": []
     },
     {
-      "id": 49445331,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal explore move for Vinícius Júnior",
-      "description": "Arsenal are reportedly interested in signing Real Madrid star Vinícius Júnior. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-25T13:18:15Z",
-      "image": "https://a.espncdn.com/photo/2025/0830/r1538934_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49445331/transfer-rumors-news-arsenal-viktor-gyokeres-atletico-madrid-julian-alvarez-swap-move",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid",
-        "Brazil"
-      ]
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -69,49 +124,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49434125,
-      "source": "ESPN",
-      "headline": "Can MLS capitalize on World Cup fervor in the U.S.?",
-      "description": "The MLS is at a crossroads. What is the league willing to risk in its next chapter?",
-      "publishedAt": "2026-07-25T11:27:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692853_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49434125/mls-capitalize-world-cup-don-garber-commissioner",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49408793,
-      "source": "ESPN",
-      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
-      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
-      "publishedAt": "2026-07-25T10:26:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
     },
     {
       "id": 49154575,
@@ -209,17 +221,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "d96b7b2b04803a66e5201a49ddebad66",
-      "source": "Sky Sports",
-      "headline": "'People do not just fail to turn up' - Woking hit back at Defoe after exit",
-      "description": "Woking's director of football Jody Brown claims Jermain Defoe didn't turn up for a meeting and training amid \"growing concerns\" within the club before he left his role as head coach after just four months.",
-      "publishedAt": "2026-07-25T10:00:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-jermain-defoe-woking_7213037.jpg?20260407101959",
-      "link": "https://www.skysports.com/football/news/12040/13566844/jermain-defoe-woking-claim-former-england-and-tottenham-striker-didnt-turn-up-for-meeting-and-training-before-shock-exit",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49437503,
@@ -512,22 +513,11 @@
         "Leeds United",
         "England"
       ]
-    },
-    {
-      "id": 49431974,
-      "source": "ESPN",
-      "headline": "UK police call on clubs - not taxpayers - to contribute towards matchday security",
-      "description": "Clubs must shoulder more of the cost for policing outside stadiums, the UK's football policing lead has said.",
-      "publishedAt": "2026-07-23T12:54:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692773_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49431974/uk-police-premier-league-clubs-matchday-costs-security",
-      "tag": "HeadlineNews",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-25T13:59:24.556Z"
+    "cachedAt": "2026-07-25T19:32:17.945Z"
   }
 }
