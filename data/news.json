@@ -2,38 +2,117 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49456641,
+      "id": 49460725,
       "source": "ESPN",
-      "headline": "Sunderland's Regis Le Bris rules out Granit Xhaka move to Chelsea: 'This topic is closed'",
-      "description": "Sunderland head coach Regis Le Bris has confirmed captain Granit Xhaka will stay at the club this summer, insisting the saga linking him to a potential move to Chelsea is \"closed.\"",
-      "publishedAt": "2026-07-26T18:50:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0726/r1693999_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49456641/sunderland-regis-le-bris-rules-granit-xhaka-move-chelsea",
-      "tag": "Sunderland",
+      "headline": "Micky van de Ven talks up new-look Tottenham after horror season",
+      "description": "SYDNEY -- Micky van de Ven has said a repeat of Tottenham Hotspur's horror 2025-26 season is something he does not even want to contemplate.",
+      "publishedAt": "2026-07-27T09:22:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694214_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49460725/micky-van-de-ven-talks-new-look-tottenham-hotspur-horror-season",
+      "tag": "Tottenham Hotspur",
       "teams": [
-        "Sunderland",
-        "Chelsea"
+        "Tottenham Hotspur"
       ]
     },
     {
-      "id": "0e8a0baa0d8551f8bb4644acbe306490",
+      "id": "ed805fed8abc4c6282da43628307cd66",
       "source": "Sky Sports",
-      "headline": "Mayo win first All-Ireland title in 75 years as 'curse lifted'",
-      "description": "Mayo claimed a first All-Ireland Senior Football title for 75 years as they beat defending champions Kerry in a thrilling final at Croke Park.",
-      "publishedAt": "2026-07-26T17:45:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-mayo-gaa-croke-park_7307315.jpg?20260726185136",
-      "link": "https://www.skysports.com/gaelic-football/news/12040/13567219/mayo-win-first-all-ireland-senior-football-title-in-75-years-as-curse-lifted-with-thrilling-victory-over-kerry-at-croke-park",
+      "headline": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
+      "description": "",
+      "publishedAt": "2026-07-27T09:12:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "387001da20483bc0351c20d0a5585d0d",
+      "source": "Sky Sports",
+      "headline": "The story of the 'non-League Wrexham' now chasing the EFL dream",
+      "description": "Having sold 40 per cent of influencer marketing agency, Goat, in 2021, Harry Hugo had made his fortune at 26 - and he realised that, by the age of 30, he would have the rare luxury of not needing to work again.",
+      "publishedAt": "2026-07-27T09:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-farnham-town-promotion_7305890.jpg?20260724145901",
+      "link": "https://www.skysports.com/football/news/12040/13566192/harry-hugo-interview",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "f1ba8878b2ba0171de5225d0205b46a7",
+      "id": "c9151d003ad08f0a8ea5bca9ceeb6c10",
       "source": "Sky Sports",
-      "headline": "Sivo injury mars Leeds' win over Bradford as hopes of try record dented",
-      "description": "Maika Sivo's suspected broken arm marred Leeds Rhinos' 42-12 victory over Bradford Bulls that took them two points clear at the top of Super League with the Fijian winger's hopes of breaking the record for the most tries in a season dented.",
-      "publishedAt": "2026-07-26T17:15:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-james-mcdonnell-leeds-rhinos_7307292.jpg?20260726181048",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13567212/super-league-leeds-rhinos-beat-bradford-bulls-but-suffer-big-blow-with-maika-sivo-sustaining-suspected-broken-arm",
+      "headline": "Coping with 'expectation and demand' key to Hibs success, says Gray",
+      "description": "Hibernian head coach David Gray firmly believes adjusting to \"expectation and demand\" will lead to a strong season for the Easter Road club.",
+      "publishedAt": "2026-07-27T08:57:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-david-gray-hibernian_7250665.jpg?20260516171737",
+      "link": "https://www.skysports.com/football/news/12040/13567340/hibernian-david-gray-tells-players-coping-with-expectation-and-demand-key-to-scottish-premiership-success",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49460466,
+      "source": "ESPN",
+      "headline": "Xabi Alonso backs Morgan Rogers for 'instant impact' at Chelsea",
+      "description": "Xabi Alonso believes Morgan Rogers can hit the ground running with Chelsea after his record move from Aston Villa.",
+      "publishedAt": "2026-07-27T08:52:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694205_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49460466/morgan-rogers-xabi-alonso-chelsea-sydney-preseason-tour",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49460704,
+      "source": "ESPN",
+      "headline": "Xabi Alonso asks for patience as he begins Chelsea reign",
+      "description": "Xabi Alonso has asked for patience as his new coaching era at the helm of Chelsea kicks off in Sydney this week.",
+      "publishedAt": "2026-07-27T08:35:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694210_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49460704/xabi-alonso-chelsea-premier-league",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49408793,
+      "source": "ESPN",
+      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
+      "publishedAt": "2026-07-27T07:11:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "4ebbd9de514550d2cfbf3ccc863e0337",
+      "source": "Sky Sports",
+      "headline": "Real to hold further talks over Vinicius Jr's future this week",
+      "description": "Real Madrid will hold further talks with Vincius Junior's representatives about his future this week.",
+      "publishedAt": "2026-07-27T07:02:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-vinicius-jr-real-madrid_7307502.jpg?20260727082715",
+      "link": "https://www.skysports.com/football/news/12040/13567300/vinicius-jr-transfer-news-real-madrid-to-hold-further-talks-over-brazil-internationals-future-this-week-amid-arsenal-interest",
       "tag": "News Story",
       "teams": []
     },
@@ -42,7 +121,7 @@
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
       "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-26T13:47:35Z",
+      "publishedAt": "2026-07-27T06:50:36Z",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "tag": "Arsenal",
@@ -74,7 +153,7 @@
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
       "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-26T13:43:38Z",
+      "publishedAt": "2026-07-27T06:40:30Z",
       "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "tag": "Arsenal",
@@ -102,7 +181,7 @@
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-26T13:43:22Z",
+      "publishedAt": "2026-07-27T06:38:16Z",
       "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "tag": "Arsenal",
@@ -134,7 +213,7 @@
       "source": "ESPN",
       "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
       "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
-      "publishedAt": "2026-07-26T13:41:47Z",
+      "publishedAt": "2026-07-27T06:29:36Z",
       "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
       "tag": "Arsenal",
@@ -154,6 +233,20 @@
       ]
     },
     {
+      "id": 49456641,
+      "source": "ESPN",
+      "headline": "Sunderland's Regis Le Bris rules out Granit Xhaka move to Chelsea: 'This topic is closed'",
+      "description": "Sunderland head coach Regis Le Bris has confirmed captain Granit Xhaka will stay at the club this summer, insisting the saga linking him to a potential move to Chelsea is \"closed.\"",
+      "publishedAt": "2026-07-26T18:50:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0726/r1693999_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49456641/sunderland-regis-le-bris-rules-granit-xhaka-move-chelsea",
+      "tag": "Sunderland",
+      "teams": [
+        "Sunderland",
+        "Chelsea"
+      ]
+    },
+    {
       "id": 49450799,
       "source": "ESPN",
       "headline": "Liverpool win over Sunderland soured by Joe Gomez injury as Andoni Iraola bemoans 'worst news'",
@@ -165,6 +258,17 @@
       "teams": [
         "Liverpool"
       ]
+    },
+    {
+      "id": "2da7634267b1d81e1b2577432f37b43c",
+      "source": "Sky Sports",
+      "headline": "Chelsea latest: Alonso says 'impact' player Rogers and Palmer will line-up together",
+      "description": "",
+      "publishedAt": "2026-07-26T07:21:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49451006,
@@ -195,38 +299,6 @@
         "Manchester City",
         "Arsenal",
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49408793,
-      "source": "ESPN",
-      "headline": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
-      "description": "Here's how every Premier League club was impacted by their players at the World Cup.",
-      "publishedAt": "2026-07-25T18:34:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -481,52 +553,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 49434259,
-      "source": "ESPN",
-      "headline": "Tighe: Iraola faces unknown territory at Liverpool",
-      "description": "Tighe: Iraola faces unknown territory at Liverpool",
-      "publishedAt": "2026-07-23T17:54:02Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_Tighe_Iraola_faces_unknown_territory_at_Liverpool/dm_260723_Tighe_Iraola_faces_unknown_territory_at_Liverpool.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49434259/iraola-faces-unknown-territory-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49433927,
-      "source": "ESPN",
-      "headline": "Why Alejandro Garnacho's Aston Villa move starts as a loan",
-      "description": "Why Alejandro Garnacho's Aston Villa move starts as a loan",
-      "publishedAt": "2026-07-23T17:11:17Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_Why_Alejandro_Garnachos_Aston_Villa_move_starts_as_a_loan/dm_260723_Why_Alejandro_Garnachos_Aston_Villa_move_starts_as_a_loan.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49433927/why-alejandro-garnacho-aston-villa-move-starts-loan",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49433223,
-      "source": "ESPN",
-      "headline": "Elliot Anderson completes move to Manchester City from Nottingham Forest",
-      "description": "Manchester City have completed the signing of Elliot Anderson from Nottingham Forest, the club have confirmed.",
-      "publishedAt": "2026-07-23T16:00:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1679901_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49433223/elliot-anderson-completes-move-manchester-city-nottingham-forest",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-27T03:59:11.888Z"
+    "cachedAt": "2026-07-27T10:06:20.221Z"
   }
 }
