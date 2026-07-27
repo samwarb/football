@@ -2,17 +2,69 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "83d4db9f621a5571f432cd3cd00f62fb",
+      "source": "Sky Sports",
+      "headline": "Chelsea hold positive talks with Brighton over Welbeck",
+      "description": "Chelsea have held positive initial talks with Brighton about a deal for Danny Welbeck.",
+      "publishedAt": "2026-07-27T13:34:00.000Z",
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-premier-league-brighton_7199120.jpg?20260321141553",
+      "link": "https://www.skysports.com/football/news/12040/13567452/danny-welbeck-transfer-news-chelsea-hold-positives-talks-with-brighton-over-signing-of-striker",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49460725,
       "source": "ESPN",
       "headline": "Micky van de Ven talks up new-look Tottenham after horror season",
       "description": "SYDNEY -- Micky van de Ven has said a repeat of Tottenham Hotspur's horror 2025-26 season is something he does not even want to contemplate.",
-      "publishedAt": "2026-07-27T09:22:38Z",
+      "publishedAt": "2026-07-27T12:30:25Z",
       "image": "https://a.espncdn.com/photo/2026/0727/r1694214_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49460725/micky-van-de-ven-talks-new-look-tottenham-hotspur-horror-season",
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-27T11:06:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "000b6d431274247806d4345a6015df3f",
+      "source": "Sky Sports",
+      "headline": "What Arsenal's interest and Real's Diomande pursuit mean for Vini Jr",
+      "description": "Vinicius Junior's Real Madrid future has been the subject of recent speculation, with Arsenal exploring a deal for the forward, but what could happen next?",
+      "publishedAt": "2026-07-27T09:56:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-vinicius-jr-yan-diomande_7307720.jpg?20260727120357",
+      "link": "https://www.skysports.com/football/news/12040/13567372/vinicius-jr-transfer-news-arsenal-interest-explained-as-real-madrid-step-up-efforts-to-sign-yan-diomande-from-rb-leipzig",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": "ed805fed8abc4c6282da43628307cd66",
@@ -33,17 +85,6 @@
       "publishedAt": "2026-07-27T09:00:00.000Z",
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-farnham-town-promotion_7305890.jpg?20260724145901",
       "link": "https://www.skysports.com/football/news/12040/13566192/harry-hugo-interview",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "c9151d003ad08f0a8ea5bca9ceeb6c10",
-      "source": "Sky Sports",
-      "headline": "Coping with 'expectation and demand' key to Hibs success, says Gray",
-      "description": "Hibernian head coach David Gray firmly believes adjusting to \"expectation and demand\" will lead to a strong season for the Easter Road club.",
-      "publishedAt": "2026-07-27T08:57:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-david-gray-hibernian_7250665.jpg?20260516171737",
-      "link": "https://www.skysports.com/football/news/12040/13567340/hibernian-david-gray-tells-players-coping-with-expectation-and-demand-key-to-scottish-premiership-success",
       "tag": "News Story",
       "teams": []
     },
@@ -260,9 +301,9 @@
       ]
     },
     {
-      "id": "2da7634267b1d81e1b2577432f37b43c",
+      "id": "541148e08126fe310c630fbd43644e19",
       "source": "Sky Sports",
-      "headline": "Chelsea latest: Alonso says 'impact' player Rogers and Palmer will line-up together",
+      "headline": "Chelsea latest: VOTE! Is Welbeck the right type of striker at Stamford Bridge?",
       "description": "",
       "publishedAt": "2026-07-26T07:21:00.000Z",
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
@@ -431,36 +472,6 @@
       ]
     },
     {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-24T12:23:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49430196,
       "source": "ESPN",
       "headline": "Meet Liverpool's new boss: Iraola opens up on vision to unite Anfield fanbase",
@@ -558,6 +569,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-27T10:06:20.221Z"
+    "cachedAt": "2026-07-27T15:10:37.086Z"
   }
 }
