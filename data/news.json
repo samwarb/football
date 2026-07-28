@@ -2,11 +2,130 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-28T14:03:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49469084,
+      "source": "ESPN",
+      "headline": "Sean Dyche: Liverpool's Andoni Iraola plays 'lower league' football - and it's brilliant",
+      "description": "Sean Dyche has described new Liverpool head coach Andoni Iraola's style as \"lower-league football, but at a high level,\" in an unusual compliment to the Spaniard's tactical approach.",
+      "publishedAt": "2026-07-28T14:00:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694581_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49469084/sean-dyche-liverpool-andoni-iraola-plays-lower-league-football-brilliant",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Everton"
+      ]
+    },
+    {
+      "id": 49469130,
+      "source": "ESPN",
+      "headline": "Western Sydney Wanderers 4-6 Chelsea: João Pedro hat trick kicks off Xabi Alonso's tenure with chaotic win",
+      "description": "Chelsea began their preseason campaign with a 6-4 victory over Western Sydney Wanderers in Xabi Alonso's first game since taking charge as manager.",
+      "publishedAt": "2026-07-28T13:24:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694584_1296x518_5-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49469130/joao-pedro-hat-trick-chelsea-western-sydney-wanderers-match-report-xabi-alonso",
+      "tag": "Western Sydney Wanderers",
+      "teams": [
+        "Western Sydney Wanderers"
+      ]
+    },
+    {
+      "id": "5ee84f4215761dd11d63b2402abbd1ce",
+      "source": "Sky Sports",
+      "headline": "West Ham latest: Ajax and Real Sociedad interested in Alvarez",
+      "description": "",
+      "publishedAt": "2026-07-28T13:05:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49467567,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Real Madrid offer Vinícius Jr. contract amid Arsenal interest",
+      "description": "Real Madrid have sent a new contract offer to Vinícius Júnior, while Liverpool want Aston Villa's Ezri Konsa. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-28T13:00:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0325/r1633697_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49467567/transfer-rumors-news-real-madrid-offer-vinicius-junior-contract-arsenal-interest",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "4e0cf2522b090ff432121e43589e957f",
+      "source": "Sky Sports",
+      "headline": "Can the new Scottish Premiership season top the best campaign in decades?",
+      "description": "Little over 10 weeks ago, Celtic Park staged one of the most consequential league fixtures in the history of Scottish football.",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-scottish-premiership_7306496.jpg?20260725143529",
+      "link": "https://www.skysports.com/football/news/12040/13567131/scottish-premiership-2026-27-after-celtics-final-day-triumph-over-hearts-how-can-the-new-season-top-the-best-in-decades",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49466413,
+      "source": "ESPN",
+      "headline": "'It's the intensity': How Iraola is changing Liverpool on U.S. preseason tour",
+      "description": "Milos Kerkez sat down with reporters on Liverpool's preseason tour of the United States and revealed some of the changes new boss Andoni Iraola is making.",
+      "publishedAt": "2026-07-28T11:03:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694551_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49466413/how-andoni-iraola-changing-liverpool-arne-slot-us-preseason-tour",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "35fea5d3029375dc41ceba20508cb75e",
+      "source": "Sky Sports",
+      "headline": "Aston Villa latest: Digne to join PSG after his holiday",
+      "description": "",
+      "publishedAt": "2026-07-28T10:32:00.000Z",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
       "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-28T08:20:58Z",
+      "publishedAt": "2026-07-28T10:28:22Z",
       "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
       "tag": "Arsenal",
@@ -32,17 +151,61 @@
       ]
     },
     {
-      "id": 49467567,
+      "id": 49468159,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid offer Vinícius Jr. contract amid Arsenal interest",
-      "description": "Real Madrid have sent a new contract offer to Vinícius Júnior, while Liverpool want Aston Villa's Ezri Konsa. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-28T07:52:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0325/r1633697_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49467567/transfer-rumors-news-real-madrid-offer-vinicius-junior-contract-arsenal-interest",
+      "headline": "Juventus keen on Joshua Zirkzee, Man United open to offers - sources",
+      "description": "Juventus have registered their interest in Manchester United forward Joshua Zirkzee, sources have told ESPN.",
+      "publishedAt": "2026-07-28T09:38:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694548_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49468159/juventus-keen-joshua-zirkzee-man-united-open-offers-sources",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-28T08:47:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "tag": "Arsenal",
       "teams": [
         "Arsenal",
-        "Real Madrid"
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 49464339,
+      "source": "ESPN",
+      "headline": "The 5 most pressing issues facing Man United on their preseason tour of Europe",
+      "description": "Man United's preseason tour of Europe is already well underway, but there's still plenty of work to be done before the new season kicks off next month.",
+      "publishedAt": "2026-07-28T08:01:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694385_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49464339/the-5-most-pressing-issues-facing-manchester-united-their-preseason-tour-europe",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
       ]
     },
     {
@@ -91,38 +254,6 @@
       ]
     },
     {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-28T06:40:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -148,38 +279,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-28T06:28:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -244,17 +343,6 @@
         "Leeds United",
         "Manchester City"
       ]
-    },
-    {
-      "id": "69d50b59ce2b1778fb8b0836ae06912e",
-      "source": "Sky Sports",
-      "headline": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
-      "description": "John Stones has verbally agreed to join Inter Milan on a free transfer, according to Sky in Italy.",
-      "publishedAt": "2026-07-27T18:14:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-john-stones-england_7303693.jpg?20260721193642",
-      "link": "https://www.skysports.com/football/news/12040/13567544/john-stones-transfer-news-england-international-verbally-agrees-deal-to-join-inter-milan-amid-interest-from-arsenal-and-chelsea",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49463339,
@@ -324,17 +412,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "000b6d431274247806d4345a6015df3f",
-      "source": "Sky Sports",
-      "headline": "What Arsenal's interest and Real's Diomande pursuit mean for Vini Jr",
-      "description": "Vinicius Junior's Real Madrid future has been the subject of recent speculation, with Arsenal exploring a deal for the forward, but what could happen next?",
-      "publishedAt": "2026-07-27T09:56:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-vinicius-jr-yan-diomande_7307720.jpg?20260727120357",
-      "link": "https://www.skysports.com/football/news/12040/13567372/vinicius-jr-transfer-news-arsenal-interest-explained-as-real-madrid-step-up-efforts-to-sign-yan-diomande-from-rb-leipzig",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49460466,
@@ -452,76 +529,20 @@
       "teams": []
     },
     {
-      "id": 49445293,
-      "source": "ESPN",
-      "headline": "Abdukodir Khusanov signs new long-term deal with Manchester City",
-      "description": "Manchester City have agreed terms on a new contract for Abdukodir Khusanov, the club have confirmed.",
-      "publishedAt": "2026-07-25T10:13:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0725/r1693466_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49445293/man-city-abdukoir-khusanov-long-term-contract-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49437503,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye move for Tchouaméni",
-      "description": "Manchester United are reportedly looking to sign Real Madrid midfielder Aurélien Tchouaméni. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-24T20:55:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693330_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49440737,
-      "source": "ESPN",
-      "headline": "What would England's team look like if Pep Guardiola was manager?",
-      "description": "What would England's team look like if Pep Guardiola was manager?",
-      "publishedAt": "2026-07-24T16:41:13Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
-      "tag": "England",
-      "teams": [
-        "England"
-      ]
-    },
-    {
-      "id": 49440733,
-      "source": "ESPN",
-      "headline": "Ogden: Klopp is the best man for the Germany job",
-      "description": "Ogden: Klopp is the best man for the Germany job",
-      "publishedAt": "2026-07-24T16:40:32Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_Ogden3A_Klopp_is_the_best_man_for_the_Germany_job_GLOBAL_2026-07-24/dm_260724_COM_SOC_Analysis_Ogden3A_Klopp_is_the_best_man_for_the_Germany_job_GLOBAL_2026-07-24.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49440733/klopp-best-man-germany-job",
-      "tag": "Germany",
-      "teams": [
-        "Germany",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49439637,
-      "source": "ESPN",
-      "headline": "Maresca 'privileged' to succeed Guardiola at Man City",
-      "description": "Maresca 'privileged' to succeed Guardiola at Man City",
-      "publishedAt": "2026-07-24T14:27:26Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_Maresca_privileged_to_succeed_Guardiola_at_Man_City/dm_260724_Maresca_privileged_to_succeed_Guardiola_at_Man_City.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49439637/maresca-privileged-succeed-guardiola-man-city",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
+      "id": "d4ccbd05ca8c66d8f1addeaeb559122e",
+      "source": "Sky Sports",
+      "headline": "Joao Pedro nets hat-trick as Chelsea score SIX in Alonso's first game",
+      "description": "Joao Pedro scored a nine-minute hat-trick as Xabi Alonso began his Chelsea reign with a ridiculous 6-4 victory over Western Sydney Wanderers in pre-season.",
+      "publishedAt": "2026-07-21T11:22:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-joao-pedro-chelsea_7308550.jpg?20260728131148",
+      "link": "https://www.skysports.com/football/news/12040/13567646/western-sydney-wanderers-4-6-chelsea-joao-pedro-scores-hat-trick-as-xabi-alonso-marks-first-game-with-bonkers-10-goal-thriller",
+      "tag": "Report",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-28T08:48:50.805Z"
+    "cachedAt": "2026-07-28T14:33:42.719Z"
   }
 }
