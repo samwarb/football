@@ -2,6 +2,104 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49467567,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Vinícius Jr. set to stay at Madrid, despite Arsenal interest",
+      "description": "Real Madrid are confident that Vinícius Júnior will not depart this summer, while Liverpool want Aston Villa's Ezri Konsa. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-28T17:47:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0325/r1633697_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49467567/transfer-rumors-news-real-madrid-offer-vinicius-junior-contract-arsenal-interest",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49471005,
+      "source": "ESPN",
+      "headline": "Ogden: Vinícius Jr. will stay at Real Madrid",
+      "description": "Ogden: Vinícius Jr. will stay at Real Madrid",
+      "publishedAt": "2026-07-28T17:04:39Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49471005/vinicius-jr-stay-real-madrid",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49470622,
+      "source": "ESPN",
+      "headline": "Gvardiol: Enzo Maresca is one of the best managers",
+      "description": "Gvardiol: Enzo Maresca is one of the best managers",
+      "publishedAt": "2026-07-28T16:13:23Z",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Gvardiol_Enzo_Maresca_is_one_of_the_best_managers/dm_260728_Gvardiol_Enzo_Maresca_is_one_of_the_best_managers.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49470622/enzo-maresca-one-best-managers",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "10d9eb2e48bafeca753a3b1ba3027f27",
+      "source": "Sky Sports",
+      "headline": "Vinicius Jr set to stay at Real Madrid - what next for Arsenal?",
+      "description": "Vinicius Junior will be staying at Real Madrid beyond this summer, Sky Sports News has been told.",
+      "publishedAt": "2026-07-28T15:16:00.000Z",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-champions-league_7195819.jpg?20260317213419",
+      "link": "https://www.skysports.com/football/news/12040/13567839/real-madrid-transfer-news-vinicius-junior-to-stay-at-the-santiago-bernabeu-beyond-this-summer-despite-arsenal-interest",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-28T14:28:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 49469703,
+      "source": "ESPN",
+      "headline": "Xabi Alonso: Chelsea have a lot to do after win over Western Sydney Wanderers",
+      "description": "New Chelsea boss Xabi Alonso admits his team has a lot to do ahead of the upcoming Premier League season.",
+      "publishedAt": "2026-07-28T14:20:40Z",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694613_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49469703/xabi-alonso-reaction-chelsea-vs-western-sydney-wanderers-joao-pedro-hat-trick",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Western Sydney Wanderers"
+      ]
+    },
+    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
@@ -72,31 +170,6 @@
       "teams": []
     },
     {
-      "id": 49467567,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid offer Vinícius Jr. contract amid Arsenal interest",
-      "description": "Real Madrid have sent a new contract offer to Vinícius Júnior, while Liverpool want Aston Villa's Ezri Konsa. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-28T13:00:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0325/r1633697_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49467567/transfer-rumors-news-real-madrid-offer-vinicius-junior-contract-arsenal-interest",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "4e0cf2522b090ff432121e43589e957f",
-      "source": "Sky Sports",
-      "headline": "Can the new Scottish Premiership season top the best campaign in decades?",
-      "description": "Little over 10 weeks ago, Celtic Park staged one of the most consequential league fixtures in the history of Scottish football.",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-scottish-premiership_7306496.jpg?20260725143529",
-      "link": "https://www.skysports.com/football/news/12040/13567131/scottish-premiership-2026-27-after-celtics-final-day-triumph-over-hearts-how-can-the-new-season-top-the-best-in-decades",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49466413,
       "source": "ESPN",
       "headline": "'It's the intensity': How Iraola is changing Liverpool on U.S. preseason tour",
@@ -110,9 +183,9 @@
       ]
     },
     {
-      "id": "35fea5d3029375dc41ceba20508cb75e",
+      "id": "7c4dff8264d804c773aacee03baaaa9f",
       "source": "Sky Sports",
-      "headline": "Aston Villa latest: Digne to join PSG after his holiday",
+      "headline": "Aston Villa latest: Could UEFA ruling impact move for Jackson?",
       "description": "",
       "publishedAt": "2026-07-28T10:32:00.000Z",
       "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
@@ -161,38 +234,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-28T08:47:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
       ]
     },
     {
@@ -492,57 +533,11 @@
         "Newcastle United",
         "Arsenal"
       ]
-    },
-    {
-      "id": 49434125,
-      "source": "ESPN",
-      "headline": "Can MLS capitalize on World Cup fervor in the U.S.?",
-      "description": "The MLS is at a crossroads. What is the league willing to risk in its next chapter?",
-      "publishedAt": "2026-07-25T15:34:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692853_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49434125/mls-capitalize-world-cup-don-garber-commissioner",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49446845,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi: Any Tottenham player not 'proud' to be at the club 'has to leave'",
-      "description": "Roberto De Zerbi has said that any Tottenham player who is not \"happy or proud\" to be at the club \"has to leave,\" amid doubts over Lucas Bergvall's future with the north London side.",
-      "publishedAt": "2026-07-25T15:26:12Z",
-      "image": "https://a.espncdn.com/photo/2025/0916/r1546695_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49446845/tottenham-player-not-happy-proud-the-club-leave",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-25T12:44:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1679901_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "d4ccbd05ca8c66d8f1addeaeb559122e",
-      "source": "Sky Sports",
-      "headline": "Joao Pedro nets hat-trick as Chelsea score SIX in Alonso's first game",
-      "description": "Joao Pedro scored a nine-minute hat-trick as Xabi Alonso began his Chelsea reign with a ridiculous 6-4 victory over Western Sydney Wanderers in pre-season.",
-      "publishedAt": "2026-07-21T11:22:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-joao-pedro-chelsea_7308550.jpg?20260728131148",
-      "link": "https://www.skysports.com/football/news/12040/13567646/western-sydney-wanderers-4-6-chelsea-joao-pedro-scores-hat-trick-as-xabi-alonso-marks-first-game-with-bonkers-10-goal-thriller",
-      "tag": "Report",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-28T14:33:42.719Z"
+    "cachedAt": "2026-07-28T19:50:14.700Z"
   }
 }
