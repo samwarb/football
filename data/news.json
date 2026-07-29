@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49474141,
+      "source": "ESPN",
+      "headline": "Kick It Out: Discrimination 'deeply embedded' in football, reports up 25%",
+      "description": "Discrimination remains \"deeply embedded\" in English football, the chief executive of Kick It Out has said, with reports up 25% last season compared to the prior campaign.",
+      "publishedAt": "2026-07-28T22:16:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694858_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49474141/kick-discrimination-deeply-embedded-football-reports-25",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": "3470a25ed0709dbfca3e1f900afc4c87",
+      "source": "Sky Sports",
+      "headline": "Kick It Out reports of discrimination hit record high after 25-per-cent rise",
+      "description": "Kick It Out received a record 1,744 reports of discrimination during the 2025/26 season, the anti-discrimination charity has revealed.",
+      "publishedAt": "2026-07-28T21:30:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kick-it-out-football_7308626.jpg?20260728145745",
+      "link": "https://www.skysports.com/football/news/12040/13567797/kick-it-out-record-football-discrimination-reports-after-25-per-cent-rise-during-2025-26-season",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49467567,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Vinícius Jr. set to stay at Madrid, despite Arsenal interest",
@@ -519,25 +541,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 49447432,
-      "source": "ESPN",
-      "headline": "Eddie Howe unsure on Bruno Guimarães' Newcastle future amid Arsenal interest",
-      "description": "Eddie Howe has said that he is unsure whether Newcastle United captain Bruno Guimarães will remain at the club next season.",
-      "publishedAt": "2026-07-25T16:42:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0725/r1693556_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49447432/eddie-howe-bruno-guimaraes-newcastle-future-amid-arsenal-interest",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-28T19:50:14.700Z"
+    "cachedAt": "2026-07-29T03:35:50.314Z"
   }
 }
