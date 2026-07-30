@@ -2,25 +2,223 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "c4ee48615c08e08ee02911d261efab84",
+      "id": 49464977,
+      "source": "ESPN",
+      "headline": "John Stones joins Inter Milan on free transfer after Man City exit",
+      "description": "John Stones has completed a move to Serie A side Inter Milan on a free transfer.",
+      "publishedAt": "2026-07-30T19:32:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661672_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49464977/john-stones-joins-inter-milan-free-transfer-man-city-exit",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Internazionale"
+      ]
+    },
+    {
+      "id": "da9284c96f42d2fbffa2851b8d1885c4",
       "source": "Sky Sports",
-      "headline": "Braga: 'Every player has ambitions' | Vranken: Hearts have to focus on future",
-      "description": "Hearts striker Claudio Braga has opened up on his future, insisting \"every player has ambitions\".",
-      "publishedAt": "2026-07-30T14:12:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-braga-claudio-hearts_7310417.jpg?20260730150453",
-      "link": "https://www.skysports.com/football/news/12040/13568360/hearts-claudio-braga-opens-up-on-ambitions-as-new-boss-wouter-vrancken-tells-players-to-put-energy-into-whats-to-come",
+      "headline": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
+      "description": "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but it is not likely to impact the Reds' transfer plans.",
+      "publishedAt": "2026-07-30T19:10:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-joe-gomez_7306847.jpg?20260726013447",
+      "link": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "c2b13b0a4b80d7813a2c8d888c6d9741",
+      "id": 49488247,
+      "source": "ESPN",
+      "headline": "Fulham agree £34m fee with Real Madrid for Gonzalo García, deal for César Palacios also close - sources",
+      "description": "Real Madrid have agreed a deal with Fulham for forward Gonzalo García to join the Premier League club, sources have told ESPN, and are close to another which will see midfielder César Palacios make the same move.",
+      "publishedAt": "2026-07-30T18:59:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695553_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49488247/fulham-agree-deal-gonzalo-garcia-real-madrid-34-million-cesar-palacios",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49488555,
+      "source": "ESPN",
+      "headline": "Harvey Elliott unsure on Liverpool future after 'very tough' Aston Villa stint",
+      "description": "Liverpool midfielder Harvey Elliott has opened up on his \"very tough\" loan spell at Aston Villa and said he is still unsure about his long-term future at Anfield.",
+      "publishedAt": "2026-07-30T18:22:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695569_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49488555/harvey-elliott-unsure-liverpool-future-very-tough-aston-villa-stint",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49490020,
+      "source": "ESPN",
+      "headline": "Liverpool's Joe Gomez to miss start of Premier League season",
+      "description": "Liverpool head coach Andoni Iraola has confirmed defender Joe Gomez will miss the start of the new season after picking up a muscle injury during the Reds' preseason tour of the U.S.",
+      "publishedAt": "2026-07-30T18:16:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695633_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49490020/liverpool-joe-gomez-injury-start-premier-league-season",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49486537,
+      "source": "ESPN",
+      "headline": "Eddie Howe set to leave Newcastle - sources",
+      "description": "Eddie Howe is set to leave his role as Newcastle head coach, sources have told ESPN, bringing an end to his five years in charge.",
+      "publishedAt": "2026-07-30T17:15:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695482_1296x518_5-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49486537/eddie-howe-set-leave-newcastle-sources",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49489636,
+      "source": "ESPN",
+      "headline": "Is Eddie Howe leaving Newcastle a surprise?",
+      "description": "Is Eddie Howe leaving Newcastle a surprise?",
+      "publishedAt": "2026-07-30T17:03:20Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_COM_SOC_Analysis_Is_Eddie_Howe_leaving_Newcastle_a_surprise3F__GLOBAL_2026-07-30/dm_260730_COM_SOC_Analysis_Is_Eddie_Howe_leaving_Newcastle_a_surprise3F__GLOBAL_2026-07-30.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49489636/is-eddie-howe-leaving-newcastle-surprise",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "86591c00ab6c78b6c0e268549f61d61c",
       "source": "Sky Sports",
-      "headline": "Rangers sign defender Makhanya from MLS",
-      "description": "Rangers have completed the signing of centre-back Olwethu Makhanya from Philadelphia Union in a deal worth around £3m.",
-      "publishedAt": "2026-07-30T14:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-olwethu-makhanya_7308057.jpg?20260727190346",
-      "link": "https://www.skysports.com/football/news/12040/13568464/rangers-transfer-news-olwethu-makhanya-joins-in-3m-deal-from-mls-side-philadelphia-union",
+      "headline": "Players guilty of discrimination face 10-game ban under new FA rules",
+      "description": "Players found guilty of discrimination face serving at least 10-game bans under enhanced Football Association rules.",
+      "publishedAt": "2026-07-30T17:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-red-card-chris-kavanagh_7310623.jpg?20260730175528",
+      "link": "https://www.skysports.com/football/news/12040/13568548/players-found-guilty-of-discrimination-face-10-game-ban-under-new-fa-rules",
       "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49489371,
+      "source": "ESPN",
+      "headline": "Arsenal confident of signing Bruno Guimarães as Eddie Howe leaves Newcastle - sources",
+      "description": "Arsenal are increasingly confident of signing Bruno Guimarães from Newcastle United following the exit of manager Eddie Howe, sources have told ESPN's James Olley.",
+      "publishedAt": "2026-07-30T16:38:02Z",
+      "image": "https://a.espncdn.com/photo/2025/0825/r1536679_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49489371/arsenal-confident-signing-bruno-guimaraes-eddie-howe-leaves-newcastle",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "0c1fc3f80a2f13025f0265996d6a194d",
+      "source": "Sky Sports",
+      "headline": "Q&A: Why are UEFA boycotting FIFA tournaments and can it stop Infantino?",
+      "description": "UEFA announced on Thursday that it will boycott FIFA tournaments until plans from president Gianni Infantino to sell off stakes in the World Cup are ended.",
+      "publishedAt": "2026-07-30T16:30:00.000Z",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-uefa-logo-headquarters_7193297.jpg?20260315134758",
+      "link": "https://www.skysports.com/football/news/12040/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49488985,
+      "source": "ESPN",
+      "headline": "Manchester City working on deal to sign Marseille's Gerónimo Rulli - sources",
+      "description": "Manchester City are working on a deal for Marseille goalkeeper Gerónimo Rulli to replace James Trafford, sources have told ESPN.",
+      "publishedAt": "2026-07-30T15:54:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695586_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49488985/manchester-city-working-deal-sign-marseille-geronimo-rulli",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Marseille"
+      ]
+    },
+    {
+      "id": "28a27db9008a31d44d078cb92e412f38",
+      "source": "Sky Sports",
+      "headline": "UEFA to boycott FIFA tournaments if World Cup sell-off goes ahead",
+      "description": "UEFA will boycott FIFA tournaments if Gianni Infantino goes ahead with his proposal to sell off a stake in the World Cup.",
+      "publishedAt": "2026-07-30T15:15:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fifa-uefa-infantino_7310610.png?20260730174215",
+      "link": "https://www.skysports.com/football/news/12040/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49486441,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Real Madrid confident of Rodri signing",
+      "description": "Spain's World Cup-winning captain Rodri is moving closer to joining Real Madrid from Manchester City this summer. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-30T15:09:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695477_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49486441/transfer-rumors-news-real-madrid-confident-signing-spain-captain-manchester-city-midfielder-rodri",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49488549,
+      "source": "ESPN",
+      "headline": "Senne Lammens cuts holiday short to return to Man United training - sources",
+      "description": "Senne Lammens has cut his holiday short to return to training with Manchester United ahead of the new season, sources have told ESPN.",
+      "publishedAt": "2026-07-30T14:47:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695568_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49488549/senne-lammens-cuts-holiday-short-return-man-united-training-sources",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-30T13:59:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-30T13:57:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695557_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
       "teams": []
     },
     {
@@ -43,31 +241,6 @@
       "image": "https://a.espncdn.com/photo/2026/0730/r1695547_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49488095/premier-league-clubs-agree-new-funding-proposal-efl-consider",
       "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 49486441,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid confident of Rodri signing",
-      "description": "Spain's World Cup-winning captain Rodri is moving closer to joining Real Madrid from Manchester City this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-30T13:13:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695477_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49486441/transfer-rumors-news-real-madrid-confident-signing-spain-captain-manchester-city-midfielder-rodri",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "c6ca931df1d9a52f68293f15d5da082c",
-      "source": "Sky Sports",
-      "headline": "Real Madrid expected to make offer for Rodri",
-      "description": "Real Madrid are expected to make an offer for Manchester City midfielder Rodri.",
-      "publishedAt": "2026-07-30T12:56:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-man-city_7309079.jpg?20260729085100",
-      "link": "https://www.skysports.com/football/news/12040/13568453/rodri-transfer-latest-real-madrid-expected-to-make-bid-for-manchester-city-midfielder-after-prolonged-interest",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -204,41 +377,6 @@
       ]
     },
     {
-      "id": 49486537,
-      "source": "ESPN",
-      "headline": "Eddie Howe set to leave Newcastle - sources",
-      "description": "Eddie Howe is set to leave his role as Newcastle head coach, sources have told ESPN, bringing an end to his five years in charge.",
-      "publishedAt": "2026-07-30T10:34:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695482_1296x518_5-2.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49486537/eddie-howe-set-leave-newcastle-sources",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-30T10:33:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695498_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "47df61b4feb6d5da71469bf274640f7e",
-      "source": "Sky Sports",
-      "headline": "Chelsea sign Lacroix from Palace",
-      "description": "Chelsea have completed the signing of Maxence Lacroix from Crystal Palace in a deal worth £51m.",
-      "publishedAt": "2026-07-30T10:10:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-maxence-lacroix-chelsea_7310350.jpg?20260730134916",
-      "link": "https://www.skysports.com/football/news/12040/13566543/maxence-lacroix-transfer-news-chelsea-complete-signing-of-france-defender-from-crystal-palace",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49486951,
       "source": "ESPN",
       "headline": "Ogden: Newcastle 'on brink of crisis' following Eddie Howe departure",
@@ -249,58 +387,6 @@
       "tag": "Newcastle United",
       "teams": [
         "Newcastle United"
-      ]
-    },
-    {
-      "id": "7dac1a3e30da323a3eb3f61f040e0949",
-      "source": "Sky Sports",
-      "headline": "Who is Matthias Jaissle?",
-      "description": "Matthias Jaissle, the man tipped to replace Eddie Howe at Newcastle United, might not be too well known given that his only head coaching roles to date have been in Austria and Saudi Arabia. So who is the man linked with a move to St James' Park?",
-      "publishedAt": "2026-07-30T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-matthias-jaissle_7310038.jpg?20260730094143",
-      "link": "https://www.skysports.com/football/news/12040/13568347/matthias-jaissle-to-newcastle-who-is-the-coach-set-to-replace-eddie-howe-at-st-james-park-and-what-can-we-expect",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "254097f6904fa5c6e92cdc93343f06fc",
-      "source": "Sky Sports",
-      "headline": "Women's Super League fixtures announced for 2026/27 season",
-      "description": "Manchester City will begin their Women's Super League title defence against newly-promoted Birmingham City after London City Lionesses have opened the 2026/27 season against Manchester United, live on Sky Sports.",
-      "publishedAt": "2026-07-30T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-wsl-womens-super-league_7306579.jpg?20260725163241",
-      "link": "https://www.skysports.com/football/news/12040/13567659/womens-super-league-fixtures-2026-27-man-city-host-birmingham-city-and-london-city-lionesses-face-man-utd-in-opening-round",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-30T08:46:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -428,117 +514,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 49480731,
-      "source": "ESPN",
-      "headline": "Can Maresca get the best out of Foden?",
-      "description": "Can Maresca get the best out of Foden?",
-      "publishedAt": "2026-07-29T16:44:49Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_Can_Maresca_get_the_best_out_of_Foden3F_GLOBAL_2026-07-29/dm_260729_COM_SOC_Analysis_Can_Maresca_get_the_best_out_of_Foden3F_GLOBAL_2026-07-29.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49480731/can-maresca-get-best-foden",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49478865,
-      "source": "ESPN",
-      "headline": "Brighton striker Danny Welbeck to join Chelsea on two-year deal, set for medical - reports",
-      "description": "Danny Welbeck has agreed to join Chelsea from Brighton and is set to have a medical at Stamford Bridge, according to multiple reports.",
-      "publishedAt": "2026-07-29T16:08:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695079_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49478865/danny-welbeck-chelsea-brighton-premier-league-transfers",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 49479779,
-      "source": "ESPN",
-      "headline": "Ben Davies praises Tottenham's next generation after penalty shootout win in Sydney",
-      "description": "Tottenham veteran Ben Davies has spoken glowingly of his younger teammates -- some of whom he coached in Spurs' very own academy a few years ago -- after a \"good test\" against Sydney FC at Allianz Stadium on Wednesday.",
-      "publishedAt": "2026-07-29T14:03:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695051_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49479779/spurs-preseason-australia-tour-ben-davies-premier-league",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49479747,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi on Tottenham's Lucas Bergvall: 'I don't want to convince anyone to stay'",
-      "description": "Roberto De Zerbi offered little certainty on Lucas Bergvall when discussing the Sweden international's future after Tottenham beat Sydney FC.",
-      "publishedAt": "2026-07-29T13:53:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695112_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49479747/lucas-bergvall-transfer-news-tottenham-roberto-de-zerbi-sydney-fc-penalty-shootout",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49470401,
-      "source": "ESPN",
-      "headline": "Liverpool's retro 2026-27 away kit features patterns of old match tickets",
-      "description": "Much like this season's home kit, Liverpool have gone back to the glory days of the 1980s in search of inspiration for their 2026-27 away jersey.",
-      "publishedAt": "2026-07-29T11:21:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49470401/liverpool-retro-2026-27-away-kit-features-patterns-old-match-tickets",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49478318,
-      "source": "ESPN",
-      "headline": "Aston Villa's €30 million offer for Allan rejected by Palmeiras - sources",
-      "description": "Palmeiras have rejected a €30 million ($34m) offer from Aston Villa for their Brazilian forward Allan, sources have told ESPN.",
-      "publishedAt": "2026-07-29T10:35:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695054_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49478318/aston-villa-premier-leauge-allan-brazilian-serie-30-million-offer-rejected-sources",
-      "tag": "Palmeiras",
-      "teams": [
-        "Palmeiras"
-      ]
-    },
-    {
-      "id": 49478141,
-      "source": "ESPN",
-      "headline": "Jack Grealish excluded from Man City preseason tour squad, still recovering from injury",
-      "description": "Jack Grealish has been left out of Manchester City's squad for their preseason tour of Asia as he continues to recover from a foot injury.",
-      "publishedAt": "2026-07-29T09:51:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695047_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49478141/jack-grealish-manchester-city-premier-league-recovering-injury-left-man-city-preseason-tour-squad",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49477426,
-      "source": "ESPN",
-      "headline": "Xabi Alonso says Chelsea need 'balance' - as Danny Welbeck move edges closer",
-      "description": "Xabi Alonso has said his Chelsea squad is in need of \"balance,\" as a move for Danny Welbeck reportedly edges closer.",
-      "publishedAt": "2026-07-29T07:18:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695027_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49477426/xabi-alonso-says-chelsea-need-balance-danny-welbeck-medical",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-30T14:28:56.165Z"
+    "cachedAt": "2026-07-30T19:49:01.475Z"
   }
 }
