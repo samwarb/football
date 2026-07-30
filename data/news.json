@@ -2,24 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49486537,
+      "id": "c4ee48615c08e08ee02911d261efab84",
+      "source": "Sky Sports",
+      "headline": "Braga: 'Every player has ambitions' | Vranken: Hearts have to focus on future",
+      "description": "Hearts striker Claudio Braga has opened up on his future, insisting \"every player has ambitions\".",
+      "publishedAt": "2026-07-30T14:12:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-braga-claudio-hearts_7310417.jpg?20260730150453",
+      "link": "https://www.skysports.com/football/news/12040/13568360/hearts-claudio-braga-opens-up-on-ambitions-as-new-boss-wouter-vrancken-tells-players-to-put-energy-into-whats-to-come",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "c2b13b0a4b80d7813a2c8d888c6d9741",
+      "source": "Sky Sports",
+      "headline": "Rangers sign defender Makhanya from MLS",
+      "description": "Rangers have completed the signing of centre-back Olwethu Makhanya from Philadelphia Union in a deal worth around £3m.",
+      "publishedAt": "2026-07-30T14:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-olwethu-makhanya_7308057.jpg?20260727190346",
+      "link": "https://www.skysports.com/football/news/12040/13568464/rangers-transfer-news-olwethu-makhanya-joins-in-3m-deal-from-mls-side-philadelphia-union",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49487981,
       "source": "ESPN",
-      "headline": "Eddie Howe set to leave Newcastle - sources",
-      "description": "Eddie Howe is set to leave his role as Newcastle head coach, sources have told ESPN, bringing an end to his five years in charge.",
-      "publishedAt": "2026-07-30T08:41:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695482_1296x518_5-2.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49486537/eddie-howe-set-leave-newcastle-sources",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
+      "headline": "New FA rules will give minimum 10-game bans to players found guilty of discrimination",
+      "description": "Players found guilty of discrimination face serving at least 10-game bans under enhanced Football Association rules.",
+      "publishedAt": "2026-07-30T13:26:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695546_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49487981/new-fa-rules-minimum-10-game-bans-players-found-guilty-discrimination",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 49488095,
+      "source": "ESPN",
+      "headline": "Premier League clubs agree new funding proposal for EFL to consider",
+      "description": "Premier League clubs have unanimously agreed for a new funding proposal to be put to the EFL.",
+      "publishedAt": "2026-07-30T13:25:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695547_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49488095/premier-league-clubs-agree-new-funding-proposal-efl-consider",
+      "tag": "HeadlineNews",
+      "teams": []
     },
     {
       "id": 49486441,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Real Madrid confident of Rodri signing",
       "description": "Spain's World Cup-winning captain Rodri is moving closer to joining Real Madrid from Manchester City this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-30T08:13:06Z",
+      "publishedAt": "2026-07-30T13:13:00Z",
       "image": "https://a.espncdn.com/photo/2026/0730/r1695477_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49486441/transfer-rumors-news-real-madrid-confident-signing-spain-captain-manchester-city-midfielder-rodri",
       "tag": "Manchester City",
@@ -29,15 +60,248 @@
       ]
     },
     {
-      "id": "771c949a180f9e146f4287bb083f9b4b",
+      "id": "c6ca931df1d9a52f68293f15d5da082c",
       "source": "Sky Sports",
-      "headline": "Howe leaves Newcastle - Saudi-based Jaissle favourite to take over",
-      "description": "Eddie Howe has left his role as Newcastle United head coach.",
-      "publishedAt": "2026-07-30T07:47:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-football-premier-league_7310024.jpg?20260730092057",
-      "link": "https://www.skysports.com/football/news/12040/13568323/eddie-howe-newcastle-head-coach-leaves-role-with-magpies-after-nearly-five-years-in-charge",
+      "headline": "Real Madrid expected to make offer for Rodri",
+      "description": "Real Madrid are expected to make an offer for Manchester City midfielder Rodri.",
+      "publishedAt": "2026-07-30T12:56:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-man-city_7309079.jpg?20260729085100",
+      "link": "https://www.skysports.com/football/news/12040/13568453/rodri-transfer-latest-real-madrid-expected-to-make-bid-for-manchester-city-midfielder-after-prolonged-interest",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-30T12:21:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-30T12:18:47Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-30T12:18:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49437524,
+      "source": "ESPN",
+      "headline": "Chelsea bolster defence as Maxence Lacroix arrives from Crystal Palace",
+      "description": "Chelsea have signed centre-back Maxence Lacroix from fellow Premier League side Crystal Palace.",
+      "publishedAt": "2026-07-30T11:59:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693085_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49437524/chelsea-bolster-defence-maxence-lacroix-moves-crystal-palace",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": 49487296,
+      "source": "ESPN",
+      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
+      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
+      "publishedAt": "2026-07-30T11:24:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Al Ahli"
+      ]
+    },
+    {
+      "id": 49487149,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi hints at new blockbuster Tottenham transfer",
+      "description": "Tottenham Hotspur are looking to complete \"another bomba\" transfer, says head coach Roberto De Zerbi.",
+      "publishedAt": "2026-07-30T10:49:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695497_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49487149/roberto-de-zerbi-tottenham-bomba-transfer-news",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49486537,
+      "source": "ESPN",
+      "headline": "Eddie Howe set to leave Newcastle - sources",
+      "description": "Eddie Howe is set to leave his role as Newcastle head coach, sources have told ESPN, bringing an end to his five years in charge.",
+      "publishedAt": "2026-07-30T10:34:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695482_1296x518_5-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49486537/eddie-howe-set-leave-newcastle-sources",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-30T10:33:40Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695498_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "47df61b4feb6d5da71469bf274640f7e",
+      "source": "Sky Sports",
+      "headline": "Chelsea sign Lacroix from Palace",
+      "description": "Chelsea have completed the signing of Maxence Lacroix from Crystal Palace in a deal worth £51m.",
+      "publishedAt": "2026-07-30T10:10:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-maxence-lacroix-chelsea_7310350.jpg?20260730134916",
+      "link": "https://www.skysports.com/football/news/12040/13566543/maxence-lacroix-transfer-news-chelsea-complete-signing-of-france-defender-from-crystal-palace",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49486951,
+      "source": "ESPN",
+      "headline": "Ogden: Newcastle 'on brink of crisis' following Eddie Howe departure",
+      "description": "Ogden: Newcastle 'on brink of crisis' following Eddie Howe departure",
+      "publishedAt": "2026-07-30T09:43:06Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_Ogden_Newcastle_on_brink_of_crisis_following_Eddie_Howe_departure/dm_260730_Ogden_Newcastle_on_brink_of_crisis_following_Eddie_Howe_departure.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49486951/newcastle-brink-crisis-following-eddie-howe-departure",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "7dac1a3e30da323a3eb3f61f040e0949",
+      "source": "Sky Sports",
+      "headline": "Who is Matthias Jaissle?",
+      "description": "Matthias Jaissle, the man tipped to replace Eddie Howe at Newcastle United, might not be too well known given that his only head coaching roles to date have been in Austria and Saudi Arabia. So who is the man linked with a move to St James' Park?",
+      "publishedAt": "2026-07-30T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-matthias-jaissle_7310038.jpg?20260730094143",
+      "link": "https://www.skysports.com/football/news/12040/13568347/matthias-jaissle-to-newcastle-who-is-the-coach-set-to-replace-eddie-howe-at-st-james-park-and-what-can-we-expect",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "254097f6904fa5c6e92cdc93343f06fc",
+      "source": "Sky Sports",
+      "headline": "Women's Super League fixtures announced for 2026/27 season",
+      "description": "Manchester City will begin their Women's Super League title defence against newly-promoted Birmingham City after London City Lionesses have opened the 2026/27 season against Manchester United, live on Sky Sports.",
+      "publishedAt": "2026-07-30T09:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-wsl-womens-super-league_7306579.jpg?20260725163241",
+      "link": "https://www.skysports.com/football/news/12040/13567659/womens-super-league-fixtures-2026-27-man-city-host-birmingham-city-and-london-city-lionesses-face-man-utd-in-opening-round",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-30T08:46:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
     },
     {
       "id": 49486394,
@@ -91,17 +355,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "fb89f99b0a58ba209a91e1995f8dc115",
-      "source": "Sky Sports",
-      "headline": "Liverpool beat Wrexham in New York to maintain perfect pre-season under Iraola",
-      "description": "Liverpool continued their winning start to life under Andoni Iraola by beating Wrexham 1-0 in their second pre-season contest ahead of the 2026/27 campaign.",
-      "publishedAt": "2026-07-30T02:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-dominik-szoboszlai_7309871.jpg?20260730063847",
-      "link": "https://www.skysports.com/football/news/12040/13568294/liverpool-1-0-wrexham-andoni-iraola-secures-back-to-back-wins-as-new-reds-boss-in-pre-season-thanks-to-rio-ngumoha",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49484465,
@@ -244,17 +497,6 @@
       ]
     },
     {
-      "id": 49474141,
-      "source": "ESPN",
-      "headline": "Kick It Out: Discrimination 'deeply embedded' in football, reports up 25%",
-      "description": "Discrimination remains \"deeply embedded\" in English football, the chief executive of Kick It Out has said, with reports up 25% last season compared to the prior campaign.",
-      "publishedAt": "2026-07-29T11:05:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695069_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49474141/kick-discrimination-deeply-embedded-football-reports-25",
-      "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
       "id": 49478318,
       "source": "ESPN",
       "headline": "Aston Villa's €30 million offer for Allan rejected by Palmeiras - sources",
@@ -281,68 +523,6 @@
       ]
     },
     {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-29T08:56:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-29T07:45:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49477426,
       "source": "ESPN",
       "headline": "Xabi Alonso says Chelsea need 'balance' - as Danny Welbeck move edges closer",
@@ -354,163 +534,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-29T06:25:55Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-29T06:25:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 49417788,
-      "source": "ESPN",
-      "headline": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
-      "description": "With the World Cup over and the Premier League returning in a month, teams are back in preseason action soon, but who are they playing and when?",
-      "publishedAt": "2026-07-29T06:19:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Tottenham Hotspur",
-        "Barcelona",
-        "Real Madrid",
-        "Bayern Munich",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 49477155,
-      "source": "ESPN",
-      "headline": "Ledley King: De Zerbi has made 'a real difference at Spurs'",
-      "description": "Tottenham great Ledley King talks the arrival of new manager Roberto De Zerbi, key signings made over the summer, and Spurs' new mentality.",
-      "publishedAt": "2026-07-29T05:31:14Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_EPL_Interview_Ledley_King_De_Zerbi_has_made_a_real_difference_at_Spurs_2026729_ESPN/dm_260729_EPL_Interview_Ledley_King_De_Zerbi_has_made_a_real_difference_at_Spurs_2026729_ESPN.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49477155/de-zerbi-made-real-difference-spurs",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49467567,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Vinícius Jr. set to stay at Madrid, despite Arsenal interest",
-      "description": "Real Madrid are confident that Vinícius Júnior will not depart this summer, while Liverpool want Aston Villa's Ezri Konsa. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-28T17:47:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0325/r1633697_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49467567/transfer-rumors-news-real-madrid-offer-vinicius-junior-contract-arsenal-interest",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49471005,
-      "source": "ESPN",
-      "headline": "Ogden: Vinícius Jr. will stay at Real Madrid",
-      "description": "Ogden: Vinícius Jr. will stay at Real Madrid",
-      "publishedAt": "2026-07-28T17:04:39Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Ogden3A_VinC3ADcius_Jr_will_stay_at_Real_Madrid__GLOBAL_2026-07-28.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49471005/vinicius-jr-stay-real-madrid",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49470622,
-      "source": "ESPN",
-      "headline": "Gvardiol: Enzo Maresca is one of the best managers",
-      "description": "Gvardiol: Enzo Maresca is one of the best managers",
-      "publishedAt": "2026-07-28T16:13:23Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Gvardiol_Enzo_Maresca_is_one_of_the_best_managers/dm_260728_Gvardiol_Enzo_Maresca_is_one_of_the_best_managers.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49470622/enzo-maresca-one-best-managers",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49469703,
-      "source": "ESPN",
-      "headline": "Xabi Alonso: Chelsea have a lot to do after win over Western Sydney Wanderers",
-      "description": "New Chelsea boss Xabi Alonso admits his team has a lot to do ahead of the upcoming Premier League season.",
-      "publishedAt": "2026-07-28T14:20:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694613_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49469703/xabi-alonso-reaction-chelsea-vs-western-sydney-wanderers-joao-pedro-hat-trick",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Western Sydney Wanderers"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-30T08:46:36.652Z"
+    "cachedAt": "2026-07-30T14:28:56.165Z"
   }
 }
