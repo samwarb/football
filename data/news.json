@@ -2,6 +2,231 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "814a43d6448d9ca089991737a28bd539",
+      "source": "Sky Sports",
+      "headline": "Are Bournemouth set to strike defender gold again with Silva?",
+      "description": "There was a time when Antonio Silva's rise to the top appeared an inevitability. He was only 18 years old when he scored his first Champions League goal for Benfica in a 4-3 win over Juventus. He played at the 2022 World Cup for Portugal soon after that.",
+      "publishedAt": "2026-07-31T08:30:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-antonio-silva-benfica_7303681.jpg?20260721192012",
+      "link": "https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-07-31T08:20:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49494192,
+      "source": "ESPN",
+      "headline": "Newcastle legend Alan Shearer warns: 'Challenging times ahead'",
+      "description": "Newcastle United legend Alan Shearer has thanked Eddie How for giving him the best day of his life as a fan and warned there are tough times ahead for the club.",
+      "publishedAt": "2026-07-31T08:07:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695869_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49494192/newcastle-legend-alan-shearer-warns-challenging-s-ahead-eddie-howe-premier-league",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49494743,
+      "source": "ESPN",
+      "headline": "Bee-utiful! Haaland unveils Man City's new 2026-27 away kit",
+      "description": "You could say that there is already plenty of buzz surrounding Manchester City's new away kit -- if you'll excuse the woeful pun.",
+      "publishedAt": "2026-07-31T08:06:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695045_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49494743/erling-haaland-unveils-manchester-city-new-2026-27-away-kit",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "5ab787793dbf35712566c522176cfe8b",
+      "source": "Sky Sports",
+      "headline": "West Ham in talks for Celtic midfielder Engels",
+      "description": "West Ham are in talks with Celtic over the signing of midfielder Arne Engels.",
+      "publishedAt": "2026-07-31T08:03:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arne-engels-celtic_7250172.jpg?20260516133716",
+      "link": "https://www.skysports.com/football/news/12040/13568688/west-ham-transfer-news-hammers-in-talks-to-sign-celtic-midfielder-arne-engels-amid-premier-league-interest",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49494536,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United looking at pair of Serie A wingers",
+      "description": "Manchester United are looking at a pair of wingers in Serie A, while the USMNT's Gio Reyna is attracting interest from Strasbourg. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-31T07:53:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637319_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49494536/transfer-rumors-news-man-united-looking-pair-serie-wingers",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "AC Milan",
+        "Juventus"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-07-31T06:36:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-07-31T06:35:46Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-07-31T06:35:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49487296,
+      "source": "ESPN",
+      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
+      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
+      "publishedAt": "2026-07-31T06:33:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Al Ahli"
+      ]
+    },
+    {
+      "id": 49492989,
+      "source": "ESPN",
+      "headline": "Lukas Nmecha opens the scoring from distance for Leeds",
+      "description": "Lukas Nmecha opens the scoring from distance for Leeds",
+      "publishedAt": "2026-07-31T05:44:29Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/ss_20260730_210357864_3608148/ss_20260730_210357864_3608148.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49492989/lukas-nmecha-opens-scoring-distance-leeds",
+      "tag": "Leeds United",
+      "teams": [
+        "Leeds United",
+        "Sunderland",
+        "Germany"
+      ]
+    },
+    {
+      "id": "57cc015499c54ce6d24db26081f32256",
+      "source": "Sky Sports",
+      "headline": "FIFA denies 'selling football' as AFC joins opposition to plan",
+      "description": "FIFA insists \"nobody is selling football\" amid criticism of its decision to launch a consultation on selling stakes in a World Cup commercial entity to private investors.",
+      "publishedAt": "2026-07-31T05:03:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
+      "link": "https://www.skysports.com/football/news/12040/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49464977,
       "source": "ESPN",
       "headline": "John Stones joins Inter Milan on free transfer after Man City exit",
@@ -28,17 +253,6 @@
         "Fulham",
         "Real Madrid"
       ]
-    },
-    {
-      "id": "ef8899add5502864b8d8d931705b496b",
-      "source": "Sky Sports",
-      "headline": "Papers: Arsenal closing in on deal for Newcastle captain Guimaraes",
-      "description": "The top stories and transfer rumours from Friday's newspapers...",
-      "publishedAt": "2026-07-30T21:50:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13568628/bruno-guimaraes-transfer-news-arsenal-closing-in-on-deal-for-newcastle-captain-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49486441,
@@ -78,17 +292,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "da9284c96f42d2fbffa2851b8d1885c4",
-      "source": "Sky Sports",
-      "headline": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
-      "description": "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but it is not likely to impact the Reds' transfer plans.",
-      "publishedAt": "2026-07-30T19:10:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-joe-gomez_7306847.jpg?20260726013447",
-      "link": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49488555,
@@ -157,17 +360,6 @@
       ]
     },
     {
-      "id": "0c1fc3f80a2f13025f0265996d6a194d",
-      "source": "Sky Sports",
-      "headline": "Q&A: Why are UEFA boycotting FIFA tournaments and can it stop Infantino?",
-      "description": "UEFA announced on Thursday that it will boycott FIFA tournaments until plans from president Gianni Infantino to sell off stakes in the World Cup are ended.",
-      "publishedAt": "2026-07-30T16:30:00.000Z",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-uefa-logo-headquarters_7193297.jpg?20260315134758",
-      "link": "https://www.skysports.com/football/news/12040/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49488985,
       "source": "ESPN",
       "headline": "Manchester City working on deal to sign Marseille's Gerónimo Rulli - sources",
@@ -182,17 +374,6 @@
       ]
     },
     {
-      "id": "28a27db9008a31d44d078cb92e412f38",
-      "source": "Sky Sports",
-      "headline": "UEFA to boycott FIFA tournaments if World Cup sell-off goes ahead",
-      "description": "UEFA will boycott FIFA tournaments if Gianni Infantino goes ahead with his proposal to sell off a stake in the World Cup.",
-      "publishedAt": "2026-07-30T15:15:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fifa-uefa-infantino_7310610.png?20260730174215",
-      "link": "https://www.skysports.com/football/news/12040/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49488549,
       "source": "ESPN",
       "headline": "Senne Lammens cuts holiday short to return to Man United training - sources",
@@ -203,36 +384,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-30T13:59:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -258,98 +409,6 @@
       "teams": []
     },
     {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-30T12:21:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-30T12:18:47Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-30T12:18:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49437524,
       "source": "ESPN",
       "headline": "Chelsea bolster defence as Maxence Lacroix arrives from Crystal Palace",
@@ -361,20 +420,6 @@
       "teams": [
         "Chelsea",
         "Crystal Palace"
-      ]
-    },
-    {
-      "id": 49487296,
-      "source": "ESPN",
-      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
-      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
-      "publishedAt": "2026-07-30T11:24:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Al Ahli"
       ]
     },
     {
@@ -455,71 +500,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 49484465,
-      "source": "ESPN",
-      "headline": "Tottenham defeat Sydney FC on penalties at Sydney Super Cup",
-      "description": "Mathys Tel nets a stunning free kick for Spurs before Tottenham hold their nerve in a shootout to claim a 1-1 (4-2) victory against a resilient Sydney FC.",
-      "publishedAt": "2026-07-30T00:54:46Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0729/dm_260729_SOC_Highlight_Tottenham_defeat_Sydney_FC_on_penalties_at_Sydney_Super_Cup_2026730_AUS_ONLY/dm_260729_SOC_Highlight_Tottenham_defeat_Sydney_FC_on_penalties_at_Sydney_Super_Cup_2026730_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49484465/tottenham-defeat-sydney-fc-penalties-sydney-super-cup",
-      "tag": "Sydney FC",
-      "teams": [
-        "Sydney FC",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49477597,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Tottenham eye move for Man City's Savinho",
-      "description": "Tottenham are reportedly still keen on a move for Manchester City's Savinho. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-29T23:43:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695346_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49477597/transfer-rumors-news-liverpool-paris-saint-germain-bradley-barcola-personal-terms",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49480773,
-      "source": "ESPN",
-      "headline": "How will Man City lineup if Rodri leaves for Real Madrid?",
-      "description": "How will Man City lineup if Rodri leaves for Real Madrid?",
-      "publishedAt": "2026-07-29T16:47:21Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_How_will_Man_City_lineup_if_Rodri_leaves_for_Real_Madrid3F__GLOBAL_2026-07-29/dm_260729_COM_SOC_Analysis_How_will_Man_City_lineup_if_Rodri_leaves_for_Real_Madrid3F__GLOBAL_2026-07-29.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49480773/how-man-city-lineup-rodri-leaves-real-madrid",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49480746,
-      "source": "ESPN",
-      "headline": "Who will be the young breakout Premier League star of the season?",
-      "description": "Who will be the young breakout Premier League star of the season?",
-      "publishedAt": "2026-07-29T16:46:30Z",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49480746/who-young-breakout-premier-league-star-season",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-31T03:47:17.456Z"
+    "cachedAt": "2026-07-31T09:14:17.595Z"
   }
 }
