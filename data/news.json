@@ -4,16 +4,105 @@
     {
       "id": 49494536,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United looking at pair of Serie A wingers",
-      "description": "Manchester United are looking at a pair of wingers in Serie A, while the USMNT's Gio Reyna is attracting interest from Strasbourg. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-31T14:28:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0401/r1637319_1296x729_16-9.jpg",
+      "headline": "Transfer rumors, news: Newcastle accept €90m Arsenal offer for Guimarães",
+      "description": "Arsenal are reportedly looking for confident that they will sign Bruno Guimarães from Newcastle United. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-31T18:05:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1696034_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49494536/transfer-rumors-news-man-united-looking-pair-serie-wingers",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Brazil",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49497099,
+      "source": "ESPN",
+      "headline": "Chelsea's Mykhailo Mudryk cleared to play after doping ban resolved",
+      "description": "Chelsea winger Mykhailo Mudryk can return to playing immediately after the Football Association and the World Anti-Doping Agency \"resolved his appeal\" against a ban for failing a doping test.",
+      "publishedAt": "2026-07-31T17:25:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695980_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49497099/mykhailo-mudryk-doping-ban-chelsea-ukraine",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Ukraine"
+      ]
+    },
+    {
+      "id": 49496984,
+      "source": "ESPN",
+      "headline": "Where will Man United finish in the Premier League next season?",
+      "description": "Where will Man United finish in the Premier League next season?",
+      "publishedAt": "2026-07-31T16:23:38Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Where_will_Man_United_f743/dm_260731_COM_SOC_Analysis_Where_will_Man_United_f743.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49496984/where-man-united-finish-premier-league-next-season",
       "tag": "Manchester United",
       "teams": [
-        "Manchester United",
-        "AC Milan",
-        "Juventus"
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "09fa0ff07123899de3cdb09a7f544848",
+      "source": "Sky Sports",
+      "headline": "Newcastle to appoint Jaissle as new boss tomorrow after Howe exit confirmed",
+      "description": "Newcastle are set to announce Matthias Jaissle as their new head coach on Saturday after Eddie Howe's exit was confirmed.",
+      "publishedAt": "2026-07-31T16:15:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-newcastle-matthias-jaissle_7310289.jpg?20260730125535",
+      "link": "https://www.skysports.com/football/news/12040/13568841/matthias-jaissle-newcastle-to-appoint-german-as-new-boss-on-saturday-after-eddie-howe-exit-confirmed",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49497036,
+      "source": "ESPN",
+      "headline": "Eddie Howe confirms Newcastle exit: 'Privilege of my lifetime'",
+      "description": "Newcastle United have confirmed that Eddie Howe has stepped down from his role as head coach.",
+      "publishedAt": "2026-07-31T16:10:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0429/r1650979_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49497036/newcastle-united-confirm-eddie-howe-stepped-manager",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49496956,
+      "source": "ESPN",
+      "headline": "Ogden: Man United should keep Rashford at the club",
+      "description": "Ogden: Man United should keep Rashford at the club",
+      "publishedAt": "2026-07-31T15:37:21Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Ogden3A_Man_United_should_keep_Rashford_at_the_club_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis_Ogden3A_Man_United_should_keep_Rashford_at_the_club_GLOBAL_2026-07-31.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49496956/man-united-keep-rashford-club",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "04d1b6e7aeda159986682df842e2442b",
+      "source": "Sky Sports",
+      "headline": "Chelsea's Mudryk cleared to play after doping ban resolved",
+      "description": "Chelsea winger Mykhailo Mudryk has been cleared to return to play after his doping ban was resolved.",
+      "publishedAt": "2026-07-31T15:16:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-mykhailo-mudryk-chelsea_7311335.jpg?20260731161819",
+      "link": "https://www.skysports.com/football/news/12040/13568818/mykhailo-mudryk-chelsea-winger-cleared-to-play-again-with-immediate-effect-after-doping-ban-resolved",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49496659,
+      "source": "ESPN",
+      "headline": "How will Chelsea's ban affect the club moving forward?",
+      "description": "How will Chelsea's ban affect the club moving forward?",
+      "publishedAt": "2026-07-31T14:39:43Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_How_will_ChelseaE28099s_ban_affect_the_club_moving_forward3F_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis_How_will_ChelseaE28099s_ban_affect_the_club_moving_forward3F_GLOBAL_2026-07-31.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49496659/how-chelsea-ban-affect-club-moving-forward",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
       ]
     },
     {
@@ -126,17 +215,6 @@
       ]
     },
     {
-      "id": "ac705965b9c49e7c8bafd723304c9c5e",
-      "source": "Sky Sports",
-      "headline": "Staveley, Ghodoussi company makes offer for West Ham stake",
-      "description": "Amanda Staveley and husband Mehrdad Ghodoussi's PCP Capital Partners have made an offer to buy a 25.1 per cent stake in West Ham.",
-      "publishedAt": "2026-07-31T10:30:00.000Z",
-      "image": "https://e2.365dm.com/24/07/1920x1080/skysports-amanda-staveley-newcastle_6622913.jpg?20240710123558",
-      "link": "https://www.skysports.com/football/news/12040/13568730/west-ham-amanda-staveley-and-mehrdad-ghodoussis-pcp-capital-partners-make-offer-for-stake-in-championship-club",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49495094,
       "source": "ESPN",
       "headline": "Cole Palmer jokes about Morgan Rogers using his celebration: 'He'll have bailiffs at the door'",
@@ -148,39 +226,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "2839ad0bcc8e98a1dd4d672ac120c134",
-      "source": "Sky Sports",
-      "headline": "AC Milan and Italy legend Baresi dies aged 66",
-      "description": "Former AC Milan and Italy defender Franco Baresi has died aged 66.",
-      "publishedAt": "2026-07-31T09:25:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-obit-football-serie-a_7311002.jpg?20260731102019",
-      "link": "https://www.skysports.com/football/news/12040/13568705/franco-baresi-ac-milan-legend-and-world-cup-winner-with-italy-dies-aged-66",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "2a24cae66c0c81f64e4dfc100942b5d9",
-      "source": "Sky Sports",
-      "headline": "Meet Bahoya... the Bundesliga's fastest player attracting PL interest",
-      "description": "",
-      "publishedAt": "2026-07-31T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jean-matteo-bahoya_7310467.png?20260730152727",
-      "link": "https://www.skysports.com/football/story-telling/12040/13568489/meet-jean-matteo-bahoya-the-bundesligas-fastest-player-attracting-premier-league-interest",
-      "tag": "Story Telling",
-      "teams": []
-    },
-    {
-      "id": "814a43d6448d9ca089991737a28bd539",
-      "source": "Sky Sports",
-      "headline": "Are Bournemouth set to strike defender gold again with Silva?",
-      "description": "There was a time when Antonio Silva's rise to the top appeared an inevitability. He was only 18 years old when he scored his first Champions League goal for Benfica in a 4-3 win over Juventus. He played at the 2022 World Cup for Portugal soon after that.",
-      "publishedAt": "2026-07-31T08:30:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-antonio-silva-benfica_7303681.jpg?20260721192012",
-      "link": "https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -224,17 +269,6 @@
       "teams": [
         "Newcastle United"
       ]
-    },
-    {
-      "id": "1da82e680c1367720466468d753be504",
-      "source": "Sky Sports",
-      "headline": "West Ham in talks for Engels as Celtic demand £25m",
-      "description": "West Ham are in talks with Celtic over the signing of Arne Engels, with the Scottish club holding out for a deal worth around £25m for the midfielder.",
-      "publishedAt": "2026-07-31T08:03:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arne-engels-celtic_7250172.jpg?20260516133716",
-      "link": "https://www.skysports.com/football/news/12040/13568688/west-ham-transfer-news-hammers-in-talks-to-sign-celtic-midfielder-arne-engels-amid-premier-league-interest",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49154575,
@@ -481,71 +515,20 @@
       ]
     },
     {
-      "id": 49488549,
-      "source": "ESPN",
-      "headline": "Senne Lammens cuts holiday short to return to Man United training - sources",
-      "description": "Senne Lammens has cut his holiday short to return to training with Manchester United ahead of the new season, sources have told ESPN.",
-      "publishedAt": "2026-07-30T14:47:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695568_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49488549/senne-lammens-cuts-holiday-short-return-man-united-training-sources",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49487981,
-      "source": "ESPN",
-      "headline": "New FA rules will give minimum 10-game bans to players found guilty of discrimination",
-      "description": "Players found guilty of discrimination face serving at least 10-game bans under enhanced Football Association rules.",
-      "publishedAt": "2026-07-30T13:26:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695546_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49487981/new-fa-rules-minimum-10-game-bans-players-found-guilty-discrimination",
-      "tag": "HeadlineNews",
+      "id": "9f64901e1c6cbdc54f13c391eba33c9e",
+      "source": "Sky Sports",
+      "headline": "Rangers rocked by Dundee Utd opener LIVE!",
+      "description": "",
+      "publishedAt": "2026-07-30T10:02:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lawrence-shankland_7311480.jpg?20260731202736",
+      "link": "https://www.skysports.com/football/dundee-united-vs-rangers/live/558333",
+      "tag": "Liveblog",
       "teams": []
-    },
-    {
-      "id": 49488095,
-      "source": "ESPN",
-      "headline": "Premier League clubs agree new funding proposal for EFL to consider",
-      "description": "Premier League clubs have unanimously agreed for a new funding proposal to be put to the EFL.",
-      "publishedAt": "2026-07-30T13:25:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695547_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49488095/premier-league-clubs-agree-new-funding-proposal-efl-consider",
-      "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 49437524,
-      "source": "ESPN",
-      "headline": "Chelsea bolster defence as Maxence Lacroix arrives from Crystal Palace",
-      "description": "Chelsea have signed centre-back Maxence Lacroix from fellow Premier League side Crystal Palace.",
-      "publishedAt": "2026-07-30T11:59:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693085_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49437524/chelsea-bolster-defence-maxence-lacroix-moves-crystal-palace",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Crystal Palace"
-      ]
-    },
-    {
-      "id": 49487149,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi hints at new blockbuster Tottenham transfer",
-      "description": "Tottenham Hotspur are looking to complete \"another bomba\" transfer, says head coach Roberto De Zerbi.",
-      "publishedAt": "2026-07-30T10:49:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695497_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49487149/roberto-de-zerbi-tottenham-bomba-transfer-news",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-31T14:32:23.050Z"
+    "cachedAt": "2026-07-31T19:49:55.809Z"
   }
 }
