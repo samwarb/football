@@ -2,6 +2,176 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49494536,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United looking at pair of Serie A wingers",
+      "description": "Manchester United are looking at a pair of wingers in Serie A, while the USMNT's Gio Reyna is attracting interest from Strasbourg. Transfer Talk has the latest.",
+      "publishedAt": "2026-07-31T14:28:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637319_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49494536/transfer-rumors-news-man-united-looking-pair-serie-wingers",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "AC Milan",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "9c8d279446c23544f1e463aa3fe4d43c",
+      "source": "Sky Sports",
+      "headline": "Chelsea handed £10m fine and suspended transfer ban",
+      "description": "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal board after admitting breaches of Football Association agent rules, the FA has announced.",
+      "publishedAt": "2026-07-31T13:28:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-chelsea-football_7208646.jpg?20260401150446",
+      "link": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49496128,
+      "source": "ESPN",
+      "headline": "Newcastle head to Spain amid Eddie Howe, Matthias Jaissle uncertainty",
+      "description": "Newcastle players headed to a preseason training camp in Spain on Friday amid uncertainty over their coach less than a month before the start of the Premier League season.",
+      "publishedAt": "2026-07-31T13:00:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695923_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49496128/newcastle-head-spain-amid-eddie-howe-matthias-jaissle-uncertainty",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49479946,
+      "source": "ESPN",
+      "headline": "Explaining each top Premier League team's transfer strategy",
+      "description": "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
+      "publishedAt": "2026-07-31T12:35:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689160_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49479946/explaining-top-premier-league-team-transfer-strategy",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Tottenham Hotspur",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Newcastle United",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49494743,
+      "source": "ESPN",
+      "headline": "Bee-utiful! Haaland unveils Man City's new 2026-27 away kit",
+      "description": "You could say that there is already plenty of buzz surrounding Manchester City's new away kit -- if you'll excuse the woeful pun.",
+      "publishedAt": "2026-07-31T12:13:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695045_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49494743/erling-haaland-unveils-manchester-city-new-2026-27-away-kit",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49495591,
+      "source": "ESPN",
+      "headline": "Wojciech Szczesny: It 'hurts' to have missed out on winning a Premier League with Arsenal",
+      "description": "Veteran Barcelona goalkeeper Wojciech Szczesny admits it \"still hurts\" to have missed out on a Premier League title during his time at Arsenal.",
+      "publishedAt": "2026-07-31T11:57:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695899_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49495591/wojciech-szczesny-arsenal-premier-league-title-barcelona-birmingham-preseason-friendly",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 49495328,
+      "source": "ESPN",
+      "headline": "Sandro Tonali: 'I know I have a lot of pressure, but I have to play like a normal Tottenham player'",
+      "description": "Sandro Tonali has opened up about his £100 million ($133 million) move to Tottenham Hotspur from Newcastle this summer, naming head coach Roberto De Zerbi as a key figure in the transfer.",
+      "publishedAt": "2026-07-31T11:40:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695885_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49495328/sandro-tonali-tottenham-premier-league-newcastle",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-07-31T10:51:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695557_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49495161,
+      "source": "ESPN",
+      "headline": "Liverpool vs. Leeds: TV channel, how to watch in UK, kickoff time, live stream, team news",
+      "description": "Liverpool and Leeds will continue their preparation for the Premier League season when they meet in Chicago.",
+      "publishedAt": "2026-07-31T10:45:40Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695882_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49495161/liverpool-vs-leeds-tv-channel-how-watch-uk-kickoff-live-stream-team-news",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": "ac705965b9c49e7c8bafd723304c9c5e",
+      "source": "Sky Sports",
+      "headline": "Staveley, Ghodoussi company makes offer for West Ham stake",
+      "description": "Amanda Staveley and husband Mehrdad Ghodoussi's PCP Capital Partners have made an offer to buy a 25.1 per cent stake in West Ham.",
+      "publishedAt": "2026-07-31T10:30:00.000Z",
+      "image": "https://e2.365dm.com/24/07/1920x1080/skysports-amanda-staveley-newcastle_6622913.jpg?20240710123558",
+      "link": "https://www.skysports.com/football/news/12040/13568730/west-ham-amanda-staveley-and-mehrdad-ghodoussis-pcp-capital-partners-make-offer-for-stake-in-championship-club",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49495094,
+      "source": "ESPN",
+      "headline": "Cole Palmer jokes about Morgan Rogers using his celebration: 'He'll have bailiffs at the door'",
+      "description": "Cole Palmer has joked that new Chelsea teammate Morgan Rogers should be wary of using his trademark 'ice cold' celebration.",
+      "publishedAt": "2026-07-31T09:49:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695878_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49495094/cole-palmer-morgan-rogers-ice-cold-celebration-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2839ad0bcc8e98a1dd4d672ac120c134",
+      "source": "Sky Sports",
+      "headline": "AC Milan and Italy legend Baresi dies aged 66",
+      "description": "Former AC Milan and Italy defender Franco Baresi has died aged 66.",
+      "publishedAt": "2026-07-31T09:25:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-obit-football-serie-a_7311002.jpg?20260731102019",
+      "link": "https://www.skysports.com/football/news/12040/13568705/franco-baresi-ac-milan-legend-and-world-cup-winner-with-italy-dies-aged-66",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "2a24cae66c0c81f64e4dfc100942b5d9",
+      "source": "Sky Sports",
+      "headline": "Meet Bahoya... the Bundesliga's fastest player attracting PL interest",
+      "description": "",
+      "publishedAt": "2026-07-31T09:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jean-matteo-bahoya_7310467.png?20260730152727",
+      "link": "https://www.skysports.com/football/story-telling/12040/13568489/meet-jean-matteo-bahoya-the-bundesligas-fastest-player-attracting-premier-league-interest",
+      "tag": "Story Telling",
+      "teams": []
+    },
+    {
       "id": "814a43d6448d9ca089991737a28bd539",
       "source": "Sky Sports",
       "headline": "Are Bournemouth set to strike defender gold again with Silva?",
@@ -56,43 +226,15 @@
       ]
     },
     {
-      "id": 49494743,
-      "source": "ESPN",
-      "headline": "Bee-utiful! Haaland unveils Man City's new 2026-27 away kit",
-      "description": "You could say that there is already plenty of buzz surrounding Manchester City's new away kit -- if you'll excuse the woeful pun.",
-      "publishedAt": "2026-07-31T08:06:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695045_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49494743/erling-haaland-unveils-manchester-city-new-2026-27-away-kit",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "5ab787793dbf35712566c522176cfe8b",
+      "id": "1da82e680c1367720466468d753be504",
       "source": "Sky Sports",
-      "headline": "West Ham in talks for Celtic midfielder Engels",
-      "description": "West Ham are in talks with Celtic over the signing of midfielder Arne Engels.",
+      "headline": "West Ham in talks for Engels as Celtic demand £25m",
+      "description": "West Ham are in talks with Celtic over the signing of Arne Engels, with the Scottish club holding out for a deal worth around £25m for the midfielder.",
       "publishedAt": "2026-07-31T08:03:00.000Z",
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arne-engels-celtic_7250172.jpg?20260516133716",
       "link": "https://www.skysports.com/football/news/12040/13568688/west-ham-transfer-news-hammers-in-talks-to-sign-celtic-midfielder-arne-engels-amid-premier-league-interest",
       "tag": "News Story",
       "teams": []
-    },
-    {
-      "id": 49494536,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United looking at pair of Serie A wingers",
-      "description": "Manchester United are looking at a pair of wingers in Serie A, while the USMNT's Gio Reyna is attracting interest from Strasbourg. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-31T07:53:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0401/r1637319_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49494536/transfer-rumors-news-man-united-looking-pair-serie-wingers",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "AC Milan",
-        "Juventus"
-      ]
     },
     {
       "id": 49154575,
@@ -216,17 +358,6 @@
       ]
     },
     {
-      "id": "57cc015499c54ce6d24db26081f32256",
-      "source": "Sky Sports",
-      "headline": "FIFA denies 'selling football' as AFC joins opposition to plan",
-      "description": "FIFA insists \"nobody is selling football\" amid criticism of its decision to launch a consultation on selling stakes in a World Cup commercial entity to private investors.",
-      "publishedAt": "2026-07-31T05:03:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
-      "link": "https://www.skysports.com/football/news/12040/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49464977,
       "source": "ESPN",
       "headline": "John Stones joins Inter Milan on free transfer after Man City exit",
@@ -270,17 +401,6 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-30T20:32:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695557_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49490867,
       "source": "ESPN",
       "headline": "Iraola: Isak is going to be massive for Liverpool next season",
@@ -317,19 +437,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": 49486537,
-      "source": "ESPN",
-      "headline": "Eddie Howe set to leave Newcastle - sources",
-      "description": "Eddie Howe is set to leave his role as Newcastle head coach, sources have told ESPN, bringing an end to his five years in charge.",
-      "publishedAt": "2026-07-30T17:15:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695482_1296x518_5-2.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49486537/eddie-howe-set-leave-newcastle-sources",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
       ]
     },
     {
@@ -434,77 +541,11 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 49486951,
-      "source": "ESPN",
-      "headline": "Ogden: Newcastle 'on brink of crisis' following Eddie Howe departure",
-      "description": "Ogden: Newcastle 'on brink of crisis' following Eddie Howe departure",
-      "publishedAt": "2026-07-30T09:43:06Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_Ogden_Newcastle_on_brink_of_crisis_following_Eddie_Howe_departure/dm_260730_Ogden_Newcastle_on_brink_of_crisis_following_Eddie_Howe_departure.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49486951/newcastle-brink-crisis-following-eddie-howe-departure",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49486394,
-      "source": "ESPN",
-      "headline": "Bournemouth's Junior Kroupi to miss start of the season through injury",
-      "description": "Bournemouth's plans for the new season have been dealt a blow after forward Junior Kroupi was ruled out for around three months with a foot injury.",
-      "publishedAt": "2026-07-30T07:44:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695476_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49486394/junior-kroupi-injury-bournemouth-premier-league",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 49486446,
-      "source": "ESPN",
-      "headline": "Nicol: Liverpool currently have no chance of a top four finish",
-      "description": "Nicol: Liverpool currently have no chance of a top four finish",
-      "publishedAt": "2026-07-30T07:39:57Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_Nicol_Liverpool_currently_have_no_chance_of_a_top_four_finish/dm_260730_Nicol_Liverpool_currently_have_no_chance_of_a_top_four_finish.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49486446/liverpool-currently-no-chance-top-four-finish",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49484586,
-      "source": "ESPN",
-      "headline": "Rio Ngumoha's deflected shot loops in for Liverpool vs. Wrexham",
-      "description": "Rio Ngumoha's deflected shot loops in for Liverpool vs. Wrexham",
-      "publishedAt": "2026-07-30T05:52:41Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0730/aadafefa-c5e2-4036-9b3b-50ac9cac5ad4/aadafefa-c5e2-4036-9b3b-50ac9cac5ad4.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49484586/rio-ngumoha-deflected-shot-loops-liverpool-vs-wrexham",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 49485428,
-      "source": "ESPN",
-      "headline": "Ngumoha reminds Liverpool of his potential as Barcola rumors swirl",
-      "description": "Bradley Barcola has been linked with a move to Liverpool, but in Rio Ngumoha the Reds may have a ready-made replacement for Mohamed Salah.",
-      "publishedAt": "2026-07-30T05:02:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695457_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49485428/ngumoha-reminds-liverpool-potential-barcola-rumors-swirl",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-31T09:14:17.595Z"
+    "cachedAt": "2026-07-31T14:32:23.050Z"
   }
 }
