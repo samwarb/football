@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "7ec300bac9a865cc468c326f7e85acfb",
+      "source": "Sky Sports",
+      "headline": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-07-31T22:30:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "ace47b9ddbdfd34e044137f1f599abaa",
+      "source": "Sky Sports",
+      "headline": "Leeds thrash Toulouse as Wigan beat Leigh",
+      "description": "Jake Connor starred as Super League leaders Leeds ran in eight tries in a 46-0 rout of Toulouse while Wigan Warriors remain just two points behind after their 20-8 win over Leigh Leopards.",
+      "publishedAt": "2026-07-31T21:26:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-leeds-rhinos-rugby-league_7311539.jpg?20260731220344",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13568845/super-league-leeds-rhinos-thrash-toulouse-olympique-as-wigan-warriors-beat-leigh-leopards-and-hull-kr-defeat-bradford-bulls",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49494536,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Newcastle accept €90m Arsenal offer for Guimarães",
@@ -44,9 +66,9 @@
       ]
     },
     {
-      "id": "09fa0ff07123899de3cdb09a7f544848",
+      "id": "2ff63925331c16dfb9f0cde71a10836b",
       "source": "Sky Sports",
-      "headline": "Newcastle to appoint Jaissle as new boss tomorrow after Howe exit confirmed",
+      "headline": "Newcastle to appoint Jaissle as new boss after Howe exit confirmed",
       "description": "Newcastle are set to announce Matthias Jaissle as their new head coach on Saturday after Eddie Howe's exit was confirmed.",
       "publishedAt": "2026-07-31T16:15:00.000Z",
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-newcastle-matthias-jaissle_7310289.jpg?20260730125535",
@@ -513,22 +535,11 @@
         "Manchester City",
         "Marseille"
       ]
-    },
-    {
-      "id": "9f64901e1c6cbdc54f13c391eba33c9e",
-      "source": "Sky Sports",
-      "headline": "Rangers rocked by Dundee Utd opener LIVE!",
-      "description": "",
-      "publishedAt": "2026-07-30T10:02:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lawrence-shankland_7311480.jpg?20260731202736",
-      "link": "https://www.skysports.com/football/dundee-united-vs-rangers/live/558333",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-07-31T19:49:55.809Z"
+    "cachedAt": "2026-08-01T03:47:09.852Z"
   }
 }
