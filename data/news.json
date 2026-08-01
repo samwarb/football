@@ -2,94 +2,143 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "7a9cd80e1ab8f09e288b0ab2d0fe1f2a",
-      "source": "Sky Sports",
-      "headline": "Bournemouth sign defender Silva from Benfica",
-      "description": "Bournemouth have completed the signing of Portugal international defender Antonio Silva from Benfica.",
-      "publishedAt": "2026-08-01T13:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-antonio-silva-portugal_7311800.jpg?20260801133552",
-      "link": "https://www.skysports.com/football/news/12040/13569014/antonio-silva-bournemouth-clinch-signing-of-portugal-international-defender-from-benfica",
-      "tag": "News Story",
-      "teams": []
+      "id": 49505676,
+      "source": "ESPN",
+      "headline": "Brentford sign Mamadou Sangaré from Lens for club-record fee",
+      "description": "Brentford have signed Mali midfielder Mamadou Sangaré from Lens for an undisclosed club-record fee, reported to be around £38.5m ($52m).",
+      "publishedAt": "2026-08-01T18:56:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696355_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49505676/brentford-sign-mamadou-sangare-lens-club-record-fee",
+      "tag": "Lens",
+      "teams": [
+        "Lens",
+        "Brentford"
+      ]
     },
     {
-      "id": "be6b6c658d28e452d1c9a5e3161f462e",
-      "source": "Sky Sports",
-      "headline": "Man Utd behind early against Atletico Madrid LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-01T12:18:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-amad-diallo-man-utd_7311830.jpg?20260801142923",
-      "link": "https://www.skysports.com/football/manchester-united-vs-atletico-madrid/live/559826",
-      "tag": "Liveblog",
-      "teams": []
+      "id": 49478554,
+      "source": "ESPN",
+      "headline": "Chelsea complete the signing of Danny Welbeck from Brighton",
+      "description": "Chelsea have completed the signing of Danny Welbeck from Brighton, the club have announced.",
+      "publishedAt": "2026-08-01T18:52:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696348_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49478554/danny-welbeck-chelsea-brighton-premier-league-transfers",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49503204,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Newcastle looking at move for USMNT's Adams",
+      "description": "Bournemouth and USMNT midfielder Tyler Adams is reportedly linked with a move to Newcastle United. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-01T18:34:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696384_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49503204/transfer-rumors-news-bayern-munich-eye-manchester-united-benjamin-sesko-replace-harry-kane",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "United States",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49505774,
+      "source": "ESPN",
+      "headline": "Nicol sees Arsenal's Guimaraes move as 'a great deal'",
+      "description": "Nicol sees Arsenal's Guimaraes move as 'a great deal'",
+      "publishedAt": "2026-08-01T17:28:38Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0801/dm_260801_Nicol_sees_Arsenals_Guimaraes_move_as_a_great_deal/dm_260801_Nicol_sees_Arsenals_Guimaraes_move_as_a_great_deal.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49505774/nicol-sees-arsenal-guimaraes-move-great-deal",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-01T16:43:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
     },
     {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
       "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-01T12:14:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695557_1296x729_16-9.jpg",
+      "publishedAt": "2026-08-01T16:34:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0321/r1631731_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
     },
     {
-      "id": 49503204,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Bayern eye Man United's Sesko to replace Kane",
-      "description": "Bayer Munich are still looking for a long-term successor to Harry Kane, and have Manchester United striker Benjamin Sesko on their short list. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-01T12:09:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0301/r1621673_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49503204/transfer-rumors-news-bayern-munich-eye-manchester-united-benjamin-sesko-replace-harry-kane",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": "58487c8215b6fb0f71c82b8018f88992",
+      "id": "8b6270fddb8ff76b0f840c1ace9b34e4",
       "source": "Sky Sports",
-      "headline": "Richarlison scores late winner as 10-man Spurs beat Chelsea",
-      "description": "Richarlison scored a 92nd-minute winner for Tottenham as they beat Chelsea 2-1 to win the Sydney Super Cup despite Kevin Danso being sent off in the second half.",
-      "publishedAt": "2026-08-01T12:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-richarlison-tottenham_7311784.jpg?20260801124619",
-      "link": "https://www.skysports.com/football/news/12040/13568994/chelsea-1-2-tottenham-richarlison-scores-injury-time-winner-in-sydney-friendly-as-10-man-spurs-win-again-despite-kevin-danso-red-card",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "05772b4f98b5ebd9cea1778970f99273",
-      "source": "Sky Sports",
-      "headline": "One month to go....what your PL club still needs to do in summer window",
-      "description": "",
-      "publishedAt": "2026-08-01T10:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-transfer_7310344.jpg?20260730134519",
-      "link": "https://www.skysports.com/football/news/12040/13568894/premier-league-summer-transfer-window-what-your-club-still-needs-to-do-with-one-month-to-go",
+      "headline": "Staveley-led consortium agrees deal for minority stake in West Ham",
+      "description": "Vanessa Gold has confirmed she has agreed to sell her stake in the club to a consortium led by former Newcastle co-owner Amanda Staveley.",
+      "publishedAt": "2026-08-01T16:08:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-staveley-west-ham_7311914.jpg?20260801171714",
+      "link": "https://www.skysports.com/football/news/12040/13569061/west-ham-vanessa-gold-agrees-to-sell-stake-in-championship-club-to-former-newcastle-co-owner-amanda-staveley-led-consortium",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": 49496505,
-      "source": "ESPN",
-      "headline": "Man City want Ayyoub Bouaddi regardless of Rodri's future - sources",
-      "description": "Manchester City will push ahead with a deal with Ayyoub Bouaddi regardless of doubts about Rodri's future at the Etihad Stadium, sources have told ESPN.",
-      "publishedAt": "2026-08-01T08:56:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49496505/man-city-ayyoub-bouaddi-transfer-news-rodri-real-madrid",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Lille"
-      ]
+      "id": "e49d4a0041790fe7f0f9657fd3e987cc",
+      "source": "Sky Sports",
+      "headline": "Warrington go fourth with win over Castleford, Saints beaten by York in thriller",
+      "description": "Warrington Wolves moved up to fourth in the Betfred Super League table after recovering from a lacklustre start to claim a comprehensive 48-18 win at Castleford Tigers .",
+      "publishedAt": "2026-08-01T16:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugby-league-super-league_7311875.jpg?20260801162329",
+      "link": "https://www.skysports.com/rugby-league/castleford-vs-warrington/report/63300",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "3f9b8deedb64f20b975b20c4c060adc7",
+      "source": "Sky Sports",
+      "headline": "Everton latest: Toffees interested in Man Utd youngster Wheatley",
+      "description": "",
+      "publishedAt": "2026-08-01T14:59:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
       "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-01T06:22:48Z",
+      "publishedAt": "2026-08-01T14:50:52Z",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "tag": "Arsenal",
@@ -114,6 +163,69 @@
         "Sunderland",
         "Tottenham Hotspur",
         "Wrexham"
+      ]
+    },
+    {
+      "id": "b9e0d77d7225735ed252789eab98ac4d",
+      "source": "Sky Sports",
+      "headline": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
+      "description": "",
+      "publishedAt": "2026-08-01T14:34:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49504476,
+      "source": "ESPN",
+      "headline": "Xabi Alonso: Chelsea 'very happy' about surprise return of Mykhailo Mudryk",
+      "description": "Chelsea head coach Xabi Alonso has found his attacking stocks unexpectedly boosted just three weeks out from the Premier League season with the surprise return of full-back Mykhailo Mudryk from a doping ban.",
+      "publishedAt": "2026-08-01T14:21:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696307_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49504476/mykhailo-mudryk-chelsea-doping-ban-xabi-alonso",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "7759a0cae874940021e492e86fac32a2",
+      "source": "Sky Sports",
+      "headline": "Tottenham latest: De Zerbi admits uncertainty over Richarlison future",
+      "description": "",
+      "publishedAt": "2026-08-01T14:15:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49504473,
+      "source": "ESPN",
+      "headline": "Richarlison sometimes says he wants to leave Tottenham - Roberto De Zerbi",
+      "description": "Tottenham manager Roberto De Zerbi has cast doubt on Richarlison's future at the club, saying sometimes the Brazil forward wants to leave.",
+      "publishedAt": "2026-08-01T14:07:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696282_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49504473/richarlison-somes-says-wants-leave-tottenham-roberto-de-zerbi",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Brazil"
+      ]
+    },
+    {
+      "id": 49496505,
+      "source": "ESPN",
+      "headline": "Man City want Ayyoub Bouaddi regardless of Rodri's future - sources",
+      "description": "Manchester City will push ahead with a deal with Ayyoub Bouaddi regardless of doubts about Rodri's future at the Etihad Stadium, sources have told ESPN.",
+      "publishedAt": "2026-08-01T08:56:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49496505/man-city-ayyoub-bouaddi-transfer-news-rodri-real-madrid",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Lille"
       ]
     },
     {
@@ -145,38 +257,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-01T06:21:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49487296,
       "source": "ESPN",
       "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
@@ -203,17 +283,6 @@
         "Liverpool",
         "Leeds United"
       ]
-    },
-    {
-      "id": "ace47b9ddbdfd34e044137f1f599abaa",
-      "source": "Sky Sports",
-      "headline": "Leeds thrash Toulouse as Wigan beat Leigh",
-      "description": "Jake Connor starred as Super League leaders Leeds ran in eight tries in a 46-0 rout of Toulouse while Wigan Warriors remain just two points behind after their 20-8 win over Leigh Leopards.",
-      "publishedAt": "2026-07-31T21:26:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-leeds-rhinos-rugby-league_7311539.jpg?20260731220344",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13568845/super-league-leeds-rhinos-thrash-toulouse-olympique-as-wigan-warriors-beat-leigh-leopards-and-hull-kr-defeat-bradford-bulls",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49494536,
@@ -442,34 +511,6 @@
       ]
     },
     {
-      "id": 49464977,
-      "source": "ESPN",
-      "headline": "John Stones joins Inter Milan on free transfer after Man City exit",
-      "description": "England defender John Stones joined Serie A champions Inter Milan on Thursday, after a decade and numerous titles at Manchester City.",
-      "publishedAt": "2026-07-30T22:06:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695712_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49464977/john-stones-joins-inter-milan-free-transfer-man-city-exit",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Internazionale"
-      ]
-    },
-    {
-      "id": 49488247,
-      "source": "ESPN",
-      "headline": "Fulham agree £34m fee with Real Madrid for Gonzalo García, deal for César Palacios also close - sources",
-      "description": "Real Madrid have agreed a deal with Fulham for forward Gonzalo García to join the Premier League club, sources have told ESPN, and are close to another which will see midfielder César Palacios make the same move.",
-      "publishedAt": "2026-07-30T21:56:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695553_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49488247/fulham-agree-deal-gonzalo-garcia-real-madrid-34-million-cesar-palacios",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Real Madrid"
-      ]
-    },
-    {
       "id": 49486441,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man City eye Bouaddi as potential Rodri replacement",
@@ -498,49 +539,20 @@
       ]
     },
     {
-      "id": 49490020,
-      "source": "ESPN",
-      "headline": "Liverpool's Joe Gomez to miss start of Premier League season",
-      "description": "Liverpool head coach Andoni Iraola has confirmed defender Joe Gomez will miss the start of the new season after picking up a muscle injury during the Reds' preseason tour of the U.S.",
-      "publishedAt": "2026-07-30T18:16:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695633_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49490020/liverpool-joe-gomez-injury-start-premier-league-season",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49489636,
-      "source": "ESPN",
-      "headline": "Is Eddie Howe leaving Newcastle a surprise?",
-      "description": "Is Eddie Howe leaving Newcastle a surprise?",
-      "publishedAt": "2026-07-30T17:03:20Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_COM_SOC_Analysis_Is_Eddie_Howe_leaving_Newcastle_a_surprise3F__GLOBAL_2026-07-30/dm_260730_COM_SOC_Analysis_Is_Eddie_Howe_leaving_Newcastle_a_surprise3F__GLOBAL_2026-07-30.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49489636/is-eddie-howe-leaving-newcastle-surprise",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49489371,
-      "source": "ESPN",
-      "headline": "Arsenal confident of signing Bruno Guimarães as Eddie Howe leaves Newcastle - sources",
-      "description": "Arsenal are increasingly confident of signing Bruno Guimarães from Newcastle United following the exit of manager Eddie Howe, sources have told ESPN's James Olley.",
-      "publishedAt": "2026-07-30T16:38:02Z",
-      "image": "https://a.espncdn.com/photo/2025/0825/r1536679_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49489371/arsenal-confident-signing-bruno-guimaraes-eddie-howe-leaves-newcastle",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
-      ]
+      "id": "432fb60a13a0a6eabd13415d8c07e584",
+      "source": "Sky Sports",
+      "headline": "Welbeck completes move to Chelsea",
+      "description": "Chelsea have completed the signing of Danny Welbeck from Brighton for an undisclosed fee.",
+      "publishedAt": "2026-07-29T08:50:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-danny-welbeck-chelsea_7311926.jpg?20260801174125",
+      "link": "https://www.skysports.com/football/news/12040/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-01T13:51:26.495Z"
+    "cachedAt": "2026-08-01T19:31:30.192Z"
   }
 }
