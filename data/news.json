@@ -2,6 +2,126 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-08-01T06:22:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-01T06:22:09Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-01T06:21:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49487296,
+      "source": "ESPN",
+      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
+      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
+      "publishedAt": "2026-08-01T06:19:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Al Ahli"
+      ]
+    },
+    {
+      "id": 49495161,
+      "source": "ESPN",
+      "headline": "Liverpool vs. Leeds: TV channel, how to watch in UK, kickoff time, live stream, team news",
+      "description": "Liverpool and Leeds will continue their preparation for the Premier League season when they meet in Chicago.",
+      "publishedAt": "2026-08-01T06:18:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695882_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49495161/liverpool-vs-leeds-tv-channel-how-watch-uk-kickoff-live-stream-team-news",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Leeds United"
+      ]
+    },
+    {
       "id": "7ec300bac9a865cc468c326f7e85acfb",
       "source": "Sky Sports",
       "headline": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
@@ -128,17 +248,6 @@
       ]
     },
     {
-      "id": "9c8d279446c23544f1e463aa3fe4d43c",
-      "source": "Sky Sports",
-      "headline": "Chelsea handed £10m fine and suspended transfer ban",
-      "description": "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal board after admitting breaches of Football Association agent rules, the FA has announced.",
-      "publishedAt": "2026-07-31T13:28:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-chelsea-football_7208646.jpg?20260401150446",
-      "link": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49496128,
       "source": "ESPN",
       "headline": "Newcastle head to Spain amid Eddie Howe, Matthias Jaissle uncertainty",
@@ -223,20 +332,6 @@
       "teams": []
     },
     {
-      "id": 49495161,
-      "source": "ESPN",
-      "headline": "Liverpool vs. Leeds: TV channel, how to watch in UK, kickoff time, live stream, team news",
-      "description": "Liverpool and Leeds will continue their preparation for the Premier League season when they meet in Chicago.",
-      "publishedAt": "2026-07-31T10:45:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695882_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49495161/liverpool-vs-leeds-tv-channel-how-watch-uk-kickoff-live-stream-team-news",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Leeds United"
-      ]
-    },
-    {
       "id": 49495094,
       "source": "ESPN",
       "headline": "Cole Palmer jokes about Morgan Rogers using his celebration: 'He'll have bailiffs at the door'",
@@ -290,112 +385,6 @@
       "tag": "Newcastle United",
       "teams": [
         "Newcastle United"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-07-31T06:36:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-07-31T06:35:46Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-07-31T06:35:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49487296,
-      "source": "ESPN",
-      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
-      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
-      "publishedAt": "2026-07-31T06:33:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Al Ahli"
       ]
     },
     {
@@ -540,6 +529,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-01T03:47:09.852Z"
+    "cachedAt": "2026-08-01T08:32:09.704Z"
   }
 }
