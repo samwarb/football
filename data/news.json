@@ -2,6 +2,89 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "7a9cd80e1ab8f09e288b0ab2d0fe1f2a",
+      "source": "Sky Sports",
+      "headline": "Bournemouth sign defender Silva from Benfica",
+      "description": "Bournemouth have completed the signing of Portugal international defender Antonio Silva from Benfica.",
+      "publishedAt": "2026-08-01T13:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-antonio-silva-portugal_7311800.jpg?20260801133552",
+      "link": "https://www.skysports.com/football/news/12040/13569014/antonio-silva-bournemouth-clinch-signing-of-portugal-international-defender-from-benfica",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "be6b6c658d28e452d1c9a5e3161f462e",
+      "source": "Sky Sports",
+      "headline": "Man Utd behind early against Atletico Madrid LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-01T12:18:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-amad-diallo-man-utd_7311830.jpg?20260801142923",
+      "link": "https://www.skysports.com/football/manchester-united-vs-atletico-madrid/live/559826",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-01T12:14:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695557_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49503204,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Bayern eye Man United's Sesko to replace Kane",
+      "description": "Bayer Munich are still looking for a long-term successor to Harry Kane, and have Manchester United striker Benjamin Sesko on their short list. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-01T12:09:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0301/r1621673_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49503204/transfer-rumors-news-bayern-munich-eye-manchester-united-benjamin-sesko-replace-harry-kane",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "58487c8215b6fb0f71c82b8018f88992",
+      "source": "Sky Sports",
+      "headline": "Richarlison scores late winner as 10-man Spurs beat Chelsea",
+      "description": "Richarlison scored a 92nd-minute winner for Tottenham as they beat Chelsea 2-1 to win the Sydney Super Cup despite Kevin Danso being sent off in the second half.",
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-richarlison-tottenham_7311784.jpg?20260801124619",
+      "link": "https://www.skysports.com/football/news/12040/13568994/chelsea-1-2-tottenham-richarlison-scores-injury-time-winner-in-sydney-friendly-as-10-man-spurs-win-again-despite-kevin-danso-red-card",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "05772b4f98b5ebd9cea1778970f99273",
+      "source": "Sky Sports",
+      "headline": "One month to go....what your PL club still needs to do in summer window",
+      "description": "",
+      "publishedAt": "2026-08-01T10:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-transfer_7310344.jpg?20260730134519",
+      "link": "https://www.skysports.com/football/news/12040/13568894/premier-league-summer-transfer-window-what-your-club-still-needs-to-do-with-one-month-to-go",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49496505,
+      "source": "ESPN",
+      "headline": "Man City want Ayyoub Bouaddi regardless of Rodri's future - sources",
+      "description": "Manchester City will push ahead with a deal with Ayyoub Bouaddi regardless of doubts about Rodri's future at the Etihad Stadium, sources have told ESPN.",
+      "publishedAt": "2026-08-01T08:56:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49496505/man-city-ayyoub-bouaddi-transfer-news-rodri-real-madrid",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Lille"
+      ]
+    },
+    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -122,17 +205,6 @@
       ]
     },
     {
-      "id": "7ec300bac9a865cc468c326f7e85acfb",
-      "source": "Sky Sports",
-      "headline": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-07-31T22:30:00.000Z",
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "link": "https://www.skysports.com/football/news/12040/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": "ace47b9ddbdfd34e044137f1f599abaa",
       "source": "Sky Sports",
       "headline": "Leeds thrash Toulouse as Wigan beat Leigh",
@@ -186,17 +258,6 @@
       ]
     },
     {
-      "id": "2ff63925331c16dfb9f0cde71a10836b",
-      "source": "Sky Sports",
-      "headline": "Newcastle to appoint Jaissle as new boss after Howe exit confirmed",
-      "description": "Newcastle are set to announce Matthias Jaissle as their new head coach on Saturday after Eddie Howe's exit was confirmed.",
-      "publishedAt": "2026-07-31T16:15:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-newcastle-matthias-jaissle_7310289.jpg?20260730125535",
-      "link": "https://www.skysports.com/football/news/12040/13568841/matthias-jaissle-newcastle-to-appoint-german-as-new-boss-on-saturday-after-eddie-howe-exit-confirmed",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49497036,
       "source": "ESPN",
       "headline": "Eddie Howe confirms Newcastle exit: 'Privilege of my lifetime'",
@@ -222,17 +283,6 @@
         "England",
         "Manchester United"
       ]
-    },
-    {
-      "id": "04d1b6e7aeda159986682df842e2442b",
-      "source": "Sky Sports",
-      "headline": "Chelsea's Mudryk cleared to play after doping ban resolved",
-      "description": "Chelsea winger Mykhailo Mudryk has been cleared to return to play after his doping ban was resolved.",
-      "publishedAt": "2026-07-31T15:16:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-mykhailo-mudryk-chelsea_7311335.jpg?20260731161819",
-      "link": "https://www.skysports.com/football/news/12040/13568818/mykhailo-mudryk-chelsea-winger-cleared-to-play-again-with-immediate-effect-after-doping-ban-resolved",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49496659,
@@ -319,17 +369,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-07-31T10:51:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695557_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 49495094,
@@ -459,19 +498,6 @@
       ]
     },
     {
-      "id": 49488555,
-      "source": "ESPN",
-      "headline": "Harvey Elliott unsure on Liverpool future after 'very tough' Aston Villa stint",
-      "description": "Liverpool midfielder Harvey Elliott has opened up on his \"very tough\" loan spell at Aston Villa and said he is still unsure about his long-term future at Anfield.",
-      "publishedAt": "2026-07-30T18:22:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695569_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49488555/harvey-elliott-unsure-liverpool-future-very-tough-aston-villa-stint",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": 49490020,
       "source": "ESPN",
       "headline": "Liverpool's Joe Gomez to miss start of Premier League season",
@@ -510,25 +536,11 @@
         "Arsenal",
         "Newcastle United"
       ]
-    },
-    {
-      "id": 49488985,
-      "source": "ESPN",
-      "headline": "Manchester City working on deal to sign Marseille's Gerónimo Rulli - sources",
-      "description": "Manchester City are working on a deal for Marseille goalkeeper Gerónimo Rulli to replace James Trafford, sources have told ESPN.",
-      "publishedAt": "2026-07-30T15:54:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695586_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49488985/manchester-city-working-deal-sign-marseille-geronimo-rulli",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Marseille"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-01T08:32:09.704Z"
+    "cachedAt": "2026-08-01T13:51:26.495Z"
   }
 }
