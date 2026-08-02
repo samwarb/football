@@ -2,17 +2,84 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-08-01T22:50:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": "e060dc3df253fdf3db44bc274a073d6b",
+      "source": "Sky Sports",
+      "headline": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
+      "description": "",
+      "publishedAt": "2026-08-01T22:00:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "a39aa4a7638c01326794c86f44c0f21f",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd considering move for Arsenal's Lewis-Skelly",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-08-01T21:45:00.000Z",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "link": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49505676,
       "source": "ESPN",
       "headline": "Brentford sign Mamadou Sangaré from Lens for club-record fee",
       "description": "Brentford have signed Mali midfielder Mamadou Sangaré from Lens for an undisclosed club-record fee, reported to be around £38.5m ($52m).",
-      "publishedAt": "2026-08-01T18:56:08Z",
+      "publishedAt": "2026-08-01T20:45:51Z",
       "image": "https://a.espncdn.com/photo/2026/0801/r1696355_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49505676/brentford-sign-mamadou-sangare-lens-club-record-fee",
       "tag": "Lens",
       "teams": [
         "Lens",
         "Brentford"
+      ]
+    },
+    {
+      "id": 49506377,
+      "source": "ESPN",
+      "headline": "Bournemouth announce the signing of Antonio Silva from Benfica",
+      "description": "Bournemouth have announced the signing of António Silva from Benfica for a fee believed to be in the region of £25 million ($33.7 million.)",
+      "publishedAt": "2026-08-01T19:06:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696394_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49506377/bournemouth-transfers-premier-league-antonio-silva-benfica",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth"
       ]
     },
     {
@@ -112,58 +179,15 @@
       "teams": []
     },
     {
-      "id": "e49d4a0041790fe7f0f9657fd3e987cc",
+      "id": "5685ee06037e4a851c2987aec765a0e0",
       "source": "Sky Sports",
-      "headline": "Warrington go fourth with win over Castleford, Saints beaten by York in thriller",
+      "headline": "Warrington go fourth as Wakefield move second, Saints beaten by York",
       "description": "Warrington Wolves moved up to fourth in the Betfred Super League table after recovering from a lacklustre start to claim a comprehensive 48-18 win at Castleford Tigers .",
       "publishedAt": "2026-08-01T16:00:00.000Z",
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugby-league-super-league_7311875.jpg?20260801162329",
       "link": "https://www.skysports.com/rugby-league/castleford-vs-warrington/report/63300",
       "tag": "Report",
       "teams": []
-    },
-    {
-      "id": "3f9b8deedb64f20b975b20c4c060adc7",
-      "source": "Sky Sports",
-      "headline": "Everton latest: Toffees interested in Man Utd youngster Wheatley",
-      "description": "",
-      "publishedAt": "2026-08-01T14:59:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-01T14:50:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
     },
     {
       "id": "b9e0d77d7225735ed252789eab98ac4d",
@@ -188,17 +212,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "7759a0cae874940021e492e86fac32a2",
-      "source": "Sky Sports",
-      "headline": "Tottenham latest: De Zerbi admits uncertainty over Richarlison future",
-      "description": "",
-      "publishedAt": "2026-08-01T14:15:00.000Z",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49504473,
@@ -526,19 +539,6 @@
       ]
     },
     {
-      "id": 49490867,
-      "source": "ESPN",
-      "headline": "Iraola: Isak is going to be massive for Liverpool next season",
-      "description": "Iraola: Isak is going to be massive for Liverpool next season",
-      "publishedAt": "2026-07-30T19:59:39Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_COM_SOC_Analysis_Iraola3A_Isak_is_going_to_be_massive_for_Liverpool_next_season_GLOBAL_2026-07-30/dm_260730_COM_SOC_Analysis_Iraola3A_Isak_is_going_to_be_massive_for_Liverpool_next_season_GLOBAL_2026-07-30.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49490867/isak-going-massive-liverpool-next-season",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": "432fb60a13a0a6eabd13415d8c07e584",
       "source": "Sky Sports",
       "headline": "Welbeck completes move to Chelsea",
@@ -553,6 +553,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-01T19:31:30.192Z"
+    "cachedAt": "2026-08-02T03:49:48.261Z"
   }
 }
