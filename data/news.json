@@ -2,11 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-08-02T08:17:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49511046,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Salah set for Trabzonspor after Liverpool exit",
+      "description": "Former Liverpool winger Mohamed Salah is set to move to Turkish club Trabzonspor. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-02T08:10:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693567_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49511046/transfer-rumors-news-mohamed-salah-set-trabzonspor-liverpool-exit",
+      "tag": "Trabzonspor",
+      "teams": [
+        "Trabzonspor",
+        "Liverpool"
+      ]
+    },
+    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
       "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-01T22:50:31Z",
+      "publishedAt": "2026-08-02T07:22:03Z",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "tag": "Arsenal",
@@ -34,14 +78,102 @@
       ]
     },
     {
-      "id": "e060dc3df253fdf3db44bc274a073d6b",
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-02T07:21:15Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-02T07:20:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49487296,
+      "source": "ESPN",
+      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
+      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
+      "publishedAt": "2026-08-02T07:19:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Al Ahli"
+      ]
+    },
+    {
+      "id": 49495161,
+      "source": "ESPN",
+      "headline": "Liverpool vs. Leeds: TV channel, how to watch in UK, kickoff time, live stream, team news",
+      "description": "Liverpool and Leeds will continue their preparation for the Premier League season when they meet in Chicago.",
+      "publishedAt": "2026-08-02T07:19:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695882_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49495161/liverpool-vs-leeds-tv-channel-how-watch-uk-kickoff-live-stream-team-news",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": "a9129245394445c571e3b9a0631d1098",
       "source": "Sky Sports",
-      "headline": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
-      "description": "",
-      "publishedAt": "2026-08-01T22:00:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
+      "headline": "Wolves move into fourth with dominant display over Tigers",
+      "description": "Highlights of Castleford Tigers against Warrington Wolves in Super League.",
+      "publishedAt": "2026-08-01T23:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rugby-super-league_7311942.jpg?20260801181047",
+      "link": "https://www.skysports.com/watch/video/13569073/castleford-tigers-18-48-warrington-wolves-rugby-super-league-highlights",
+      "tag": "Video",
       "teams": []
     },
     {
@@ -125,38 +257,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-01T16:43:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -187,17 +287,6 @@
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugby-league-super-league_7311875.jpg?20260801162329",
       "link": "https://www.skysports.com/rugby-league/castleford-vs-warrington/report/63300",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "b9e0d77d7225735ed252789eab98ac4d",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
-      "description": "",
-      "publishedAt": "2026-08-01T14:34:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -239,62 +328,6 @@
       "teams": [
         "Manchester City",
         "Lille"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-01T06:22:09Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49487296,
-      "source": "ESPN",
-      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
-      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
-      "publishedAt": "2026-08-01T06:19:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Al Ahli"
-      ]
-    },
-    {
-      "id": 49495161,
-      "source": "ESPN",
-      "headline": "Liverpool vs. Leeds: TV channel, how to watch in UK, kickoff time, live stream, team news",
-      "description": "Liverpool and Leeds will continue their preparation for the Premier League season when they meet in Chicago.",
-      "publishedAt": "2026-08-01T06:18:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695882_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49495161/liverpool-vs-leeds-tv-channel-how-watch-uk-kickoff-live-stream-team-news",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Leeds United"
       ]
     },
     {
@@ -466,36 +499,6 @@
       ]
     },
     {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-07-31T08:20:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49494192,
       "source": "ESPN",
       "headline": "Newcastle legend Alan Shearer warns: 'Challenging times ahead'",
@@ -522,37 +525,11 @@
         "Sunderland",
         "Germany"
       ]
-    },
-    {
-      "id": 49486441,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City eye Bouaddi as potential Rodri replacement",
-      "description": "Manchester City are reportedly looking to sign Ayyoub Bouaddi from Lille. Transfer Talk has the latest.",
-      "publishedAt": "2026-07-30T21:18:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695708_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49486441/transfer-rumors-news-real-madrid-confident-signing-spain-captain-manchester-city-midfielder-rodri",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Lille",
-        "Morocco"
-      ]
-    },
-    {
-      "id": "432fb60a13a0a6eabd13415d8c07e584",
-      "source": "Sky Sports",
-      "headline": "Welbeck completes move to Chelsea",
-      "description": "Chelsea have completed the signing of Danny Welbeck from Brighton for an undisclosed fee.",
-      "publishedAt": "2026-07-29T08:50:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-danny-welbeck-chelsea_7311926.jpg?20260801174125",
-      "link": "https://www.skysports.com/football/news/12040/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-02T03:49:48.261Z"
+    "cachedAt": "2026-08-02T08:35:19.316Z"
   }
 }
