@@ -2,6 +2,151 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "0f48446e6922ceb1929261b7e566f91b",
+      "source": "Sky Sports",
+      "headline": "Chelsea confirm Henderson signing",
+      "description": "Chelsea have confirmed the signing of England midfielder Jordan Henderson.",
+      "publishedAt": "2026-08-03T15:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-jordan-henderson_7290730.jpg?20260706043159",
+      "link": "https://www.skysports.com/football/news/12040/13569179/jordan-henderson-transfer-news-chelsea-confirm-signing-of-midfielder-following-brentford-exit",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "7f12b405b6eb3a55e3692f4412df1f79",
+      "source": "Sky Sports",
+      "headline": "FA set to withdraw support for Infantino as UEFA considers legal action",
+      "description": "The Football Association is set to withdraw support for FIFA president Gianni Infantino.",
+      "publishedAt": "2026-08-03T13:45:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832",
+      "link": "https://www.skysports.com/football/news/12040/13569337/gianni-infantino-english-fa-set-to-withdraw-support-for-fifa-president-as-uefa-considers-legal-action",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-08-03T12:43:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": "34a356fa01d1f97fc18e3bb9f8679593",
+      "source": "Sky Sports",
+      "headline": "Celtic learn CL opponents as Brighton discover European route",
+      "description": "Celtic will play Austrian champions LASK for a place in the league phase of the Champions League, while Brighton will face CFR Cluj or Tromso in the Conference League play-off round.",
+      "publishedAt": "2026-08-03T12:30:00.000Z",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-champions-league_7225302.jpg?20260803123057",
+      "link": "https://www.skysports.com/football/news/12040/13569393/champions-league-europa-league-conference-league-play-off-draws-celtic-rangers-brighton-hearts-hibernian-motherwell-discover-opponents",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49518337,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arteta tries to convince Vinícius Jr. to join Arsenal",
+      "description": "Mikel Arteta has tried to convince Real Madrid star Vinícius Júnior to join Arsenal. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-03T12:02:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1696990_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49518337/transfer-rumors-news-arsenal-boss-arteta-makes-push-vinicius-jr",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-08-03T12:02:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "13a15e7930d56ab289e0d4ded5d17814",
+      "source": "Sky Sports",
+      "headline": "Newcastle reject Guimaraes bid from Arsenal",
+      "description": "Arsenal's opening bid for Bruno Guimaraes has been rejected by Newcastle.",
+      "publishedAt": "2026-08-03T11:39:00.000Z",
+      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-bruno-guimaraes-newcastle-united_7126176.jpg?20260104164227",
+      "link": "https://www.skysports.com/football/news/12040/13557961/bruno-guimaraes-arsenal-bid-rejected-by-newcastle-with-magpies-determined-to-keep-captain-and-brazil-international-midfielder",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49519333,
+      "source": "ESPN",
+      "headline": "Arsenal's new third kit is a blast from the (recent) past",
+      "description": "Arsenal have rolled out their new third kit for the 2026-27 season, but we would forgive you for thinking that you have seen it before.",
+      "publishedAt": "2026-08-03T11:23:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697011_606x341_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49519333/arsenal-new-2026-27-third-kit-blast-recent-past",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "962147c2a14a8e8b0e67aacfea3fadce",
+      "source": "Sky Sports",
+      "headline": "Can Mount be the third midfielder Man Utd are looking for?",
+      "description": "\"Why go out searching for a midfielder when you've got Mason Mount at home?\"",
+      "publishedAt": "2026-08-03T11:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mason-mount-manchester-united_7312641.jpg?20260803094438",
+      "link": "https://www.skysports.com/football/news/12040/13569342/mason-mount-can-manchester-uniteds-pre-season-revelation-be-a-big-part-of-michael-carricks-midfield-overhaul",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49511485,
       "source": "ESPN",
       "headline": "Christos Tzolis ready to stake claim for Arsenal wing spot amid Vinicius Jr. links",
@@ -15,17 +160,6 @@
       ]
     },
     {
-      "id": "16d988f22cfcc1f1fedaa70ffa804c61",
-      "source": "Sky Sports",
-      "headline": "Guimaraes fails to turn up at Newcastle training camp as planned",
-      "description": "Bruno Guimaraes failed to arrive at La Manga to meet up with his Newcastle United team-mates at their pre-season training base as planned on Sunday night.",
-      "publishedAt": "2026-08-03T09:40:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-guimaraes-arsenal_7303206.jpg?20260721120010",
-      "link": "https://www.skysports.com/football/news/12040/13565570/bruno-guimaraes-arsenal-transfer-target-failed-to-turn-up-for-newcastles-pre-season-training-camp-in-la-manga-as-planned-on-sunday",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": "5a04948348ac427ce398b9f814ad3930",
       "source": "Sky Sports",
       "headline": "Tzolis unfazed by Vini Jr rumours as fitness champion settles into Arsenal",
@@ -35,64 +169,6 @@
       "link": "https://www.skysports.com/football/news/12040/13568811/christos-tzolis-interview-new-arsenal-signing-discusses-vinicius-jr-rumours-winning-the-pre-season-fitness-tests-and-leonidas-nickname",
       "tag": "News Story",
       "teams": []
-    },
-    {
-      "id": "890787bfd3b1def38061a77616f9be59",
-      "source": "Sky Sports",
-      "headline": "'Made of muscles!' Why PSG want Japan goalkeeper Suzuki",
-      "description": "Having been linked with a move to the Premier League, Zion Suzuki is set for a switch to European champions Paris Saint-German instead. It marks the completion of the 23-year-old Japanese goalkeeper's rise to the game's summit after a stellar World Cup.",
-      "publishedAt": "2026-08-03T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-zion-suzuki-japan_7292757.jpg?20260708100529",
-      "link": "https://www.skysports.com/football/news/12040/13561579/zion-suzuki-to-psg-why-parma-and-japan-goalkeeper-is-in-demand-long-throws-catching-crosses-and-much-more",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "003f77c203f3730d22a634b6cc245ee2",
-      "source": "Sky Sports",
-      "headline": "West Ham latest: Potts set to undergo Club Brugge medical",
-      "description": "",
-      "publishedAt": "2026-08-03T08:56:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "ddafdbd6dcc473842a6677b3767e2bc3",
-      "source": "Sky Sports",
-      "headline": "Spurs interested in Liverpool's Gakpo",
-      "description": "Tottenham are interested in signing Cody Gakpo from Liverpool this summer.",
-      "publishedAt": "2026-08-03T08:51:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-cody-gakpo-liverpool_7312688.jpg?20260803103036",
-      "link": "https://www.skysports.com/football/news/12040/13569350/cody-gakpo-tottenham-interested-in-signing-liverpool-forward-as-roberto-de-zerbi-aims-to-improve-spurs-attack",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "bcd19661148c31d505f710f96932c100",
-      "source": "Sky Sports",
-      "headline": "FA set to follow Welsh FA and withdraw support for Infantino",
-      "description": "The Football Association is set to withdraw support for FIFA president Gianni Infantino.",
-      "publishedAt": "2026-08-03T08:45:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832",
-      "link": "https://www.skysports.com/football/news/12040/13569337/gianni-infantino-english-fa-set-to-follow-welsh-fa-and-withdraw-support-for-fifa-president",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49518337,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arteta tries to convince Vinícius Jr. to join Arsenal",
-      "description": "Mikel Arteta has tried to convince Real Madrid star Vinícius Júnior to join Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-03T08:24:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1696990_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49518337/transfer-rumors-news-arsenal-boss-arteta-makes-push-vinicius-jr",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
     },
     {
       "id": 48955344,
@@ -127,28 +203,6 @@
       ]
     },
     {
-      "id": "028236fced3a0654d8a778c529d91c9e",
-      "source": "Sky Sports",
-      "headline": "Newcastle sign goalkeeper Hornicek",
-      "description": "Newcastle United have signed goalkeeper Lukas Hornicek from Braga in a deal worth £25.7m.",
-      "publishedAt": "2026-08-03T08:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lukas-hornicek-hornicek_7311398.jpg?20260731180550",
-      "link": "https://www.skysports.com/football/news/12040/13569327/lukas-hornicek-newcastle-united-sign-czech-republic-international-goalkeeper-on-five-year-contract-from-braga-in-deal-worth-25-7m",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "8b42108d90bb6442e4ba751121d3cea6",
-      "source": "Sky Sports",
-      "headline": "Skinner leaves Man Utd Women",
-      "description": "Marc Skinner has left his role as Manchester United Women head coach after five years in charge.",
-      "publishedAt": "2026-08-03T07:45:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-man-utd-boss-wsl_7312609.jpg?20260803090541",
-      "link": "https://www.skysports.com/football/news/12040/13569329/marc-skinner-manchester-united-womens-head-coach-leaves-club-after-five-years-in-charge",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -170,38 +224,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-03T06:18:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
       ]
     },
     {
@@ -383,36 +405,6 @@
       ]
     },
     {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-08-02T08:17:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49505676,
       "source": "ESPN",
       "headline": "Brentford sign Mamadou Sangaré from Lens for club-record fee",
@@ -538,19 +530,6 @@
       ]
     },
     {
-      "id": 49496984,
-      "source": "ESPN",
-      "headline": "Where will Man United finish in the Premier League next season?",
-      "description": "Where will Man United finish in the Premier League next season?",
-      "publishedAt": "2026-07-31T16:23:38Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Where_will_Man_United_f743/dm_260731_COM_SOC_Analysis_Where_will_Man_United_f743.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49496984/where-man-united-finish-premier-league-next-season",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49497036,
       "source": "ESPN",
       "headline": "Eddie Howe confirms Newcastle exit: 'Privilege of my lifetime'",
@@ -567,6 +546,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-03T10:03:09.762Z"
+    "cachedAt": "2026-08-03T15:13:05.308Z"
   }
 }
