@@ -2,26 +2,50 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "0f48446e6922ceb1929261b7e566f91b",
-      "source": "Sky Sports",
-      "headline": "Chelsea confirm Henderson signing",
-      "description": "Chelsea have confirmed the signing of England midfielder Jordan Henderson.",
-      "publishedAt": "2026-08-03T15:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-jordan-henderson_7290730.jpg?20260706043159",
-      "link": "https://www.skysports.com/football/news/12040/13569179/jordan-henderson-transfer-news-chelsea-confirm-signing-of-midfielder-following-brentford-exit",
-      "tag": "News Story",
-      "teams": []
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-03T15:38:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
     },
     {
-      "id": "7f12b405b6eb3a55e3692f4412df1f79",
-      "source": "Sky Sports",
-      "headline": "FA set to withdraw support for Infantino as UEFA considers legal action",
-      "description": "The Football Association is set to withdraw support for FIFA president Gianni Infantino.",
-      "publishedAt": "2026-08-03T13:45:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832",
-      "link": "https://www.skysports.com/football/news/12040/13569337/gianni-infantino-english-fa-set-to-withdraw-support-for-fifa-president-as-uefa-considers-legal-action",
-      "tag": "News Story",
-      "teams": []
+      "id": 49487583,
+      "source": "ESPN",
+      "headline": "Jordan Henderson completes move to Chelsea after leaving Brentford",
+      "description": "Jordan Henderson has completed a move to Chelsea after leaving Brentford as a free agent via a mutual agreement.",
+      "publishedAt": "2026-08-03T15:15:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695529_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49487583/jordan-henderson-completes-chelsea-move-leaving-brentford",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Brentford"
+      ]
     },
     {
       "id": 49154575,
@@ -111,17 +135,6 @@
       ]
     },
     {
-      "id": "13a15e7930d56ab289e0d4ded5d17814",
-      "source": "Sky Sports",
-      "headline": "Newcastle reject Guimaraes bid from Arsenal",
-      "description": "Arsenal's opening bid for Bruno Guimaraes has been rejected by Newcastle.",
-      "publishedAt": "2026-08-03T11:39:00.000Z",
-      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-bruno-guimaraes-newcastle-united_7126176.jpg?20260104164227",
-      "link": "https://www.skysports.com/football/news/12040/13557961/bruno-guimaraes-arsenal-bid-rejected-by-newcastle-with-magpies-determined-to-keep-captain-and-brazil-international-midfielder",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49519333,
       "source": "ESPN",
       "headline": "Arsenal's new third kit is a blast from the (recent) past",
@@ -157,49 +170,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "5a04948348ac427ce398b9f814ad3930",
-      "source": "Sky Sports",
-      "headline": "Tzolis unfazed by Vini Jr rumours as fitness champion settles into Arsenal",
-      "description": "At Arsenal, there is an excitement about whether Vinicius Jr could sign this summer. But on Saturday, they were given a decent reminder that Christos Tzolis now plays for the club on the left wing.",
-      "publishedAt": "2026-08-03T09:30:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7312618.jpg?20260803093047",
-      "link": "https://www.skysports.com/football/news/12040/13568811/christos-tzolis-interview-new-arsenal-signing-discusses-vinicius-jr-rumours-winning-the-pre-season-fitness-tests-and-leonidas-nickname",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-03T08:18:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -528,24 +498,11 @@
         "Chelsea",
         "Ukraine"
       ]
-    },
-    {
-      "id": 49497036,
-      "source": "ESPN",
-      "headline": "Eddie Howe confirms Newcastle exit: 'Privilege of my lifetime'",
-      "description": "Newcastle United have confirmed that Eddie Howe has stepped down from his role as head coach.",
-      "publishedAt": "2026-07-31T16:10:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1650979_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49497036/newcastle-united-confirm-eddie-howe-stepped-manager",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-03T15:13:05.308Z"
+    "cachedAt": "2026-08-03T19:54:42.881Z"
   }
 }
