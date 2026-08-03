@@ -2,6 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49516371,
+      "source": "ESPN",
+      "headline": "Nordi Mukiele scores lone goal in Sunderland's win vs. Wrexham",
+      "description": "Nordi Mukiele scores lone goal in Sunderland's win vs. Wrexham",
+      "publishedAt": "2026-08-03T00:25:59Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0803/9f93b20a-a652-4b09-b735-aeb0690b89f4/9f93b20a-a652-4b09-b735-aeb0690b89f4.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49516371/nordi-mukiele-scores-lone-goal-sunderland-win-vs-wrexham",
+      "tag": "Sunderland",
+      "teams": [
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 49511046,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City eye Chelsea winger Pedro Neto",
+      "description": "Manchester City are preparing a surprise move for Chelsea winger Pedro Neto. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-02T20:22:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0313/r1627958_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49511046/transfer-rumors-news-man-city-eye-chelsea-winger-pedro-neto",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City"
+      ]
+    },
+    {
       "id": 49514055,
       "source": "ESPN",
       "headline": "Wrexham end pre-season with defeat to Sunderland in Philadelphia",
@@ -14,6 +41,17 @@
         "Wrexham",
         "Sunderland"
       ]
+    },
+    {
+      "id": "4aba7b0eb79bb12f86dad65765ceb943",
+      "source": "Sky Sports",
+      "headline": "Liverpool collapse as Leeds come from 2-0 down to win",
+      "description": "Liverpool threw away a two-goal lead in spectacular fashion as Leeds won the final match of both teams' United States tour 4-2.",
+      "publishedAt": "2026-08-02T19:04:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-leeds_7312483.jpg?20260802232218",
+      "link": "https://www.skysports.com/football/liverpool-vs-leeds-united/report/554987",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49513683,
@@ -57,12 +95,12 @@
       ]
     },
     {
-      "id": "a8896a60401a68069d607c7aa67681d8",
+      "id": "81ac29828445164a227aecca8a0a84d1",
       "source": "Sky Sports",
-      "headline": "Isak and Wirtz start for Liverpool vs Leeds LIVE!",
+      "headline": "What we learned from Liverpool's collapse to Leeds...",
       "description": "",
       "publishedAt": "2026-08-02T17:47:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-wirtz_7312421.jpg?20260802200337",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-liverpool-leeds_7312478.jpg?20260802225521",
       "link": "https://www.skysports.com/football/liverpool-vs-leeds-united/live/554987",
       "tag": "Liveblog",
       "teams": []
@@ -137,20 +175,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 49511046,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City eye Chelsea winger Pedro Neto",
-      "description": "Manchester City are preparing a surprise move for Chelsea winger Pedro Neto. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-02T15:03:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0313/r1627958_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49511046/transfer-rumors-news-man-city-eye-chelsea-winger-pedro-neto",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
       ]
     },
     {
@@ -296,17 +320,6 @@
       ]
     },
     {
-      "id": "a9129245394445c571e3b9a0631d1098",
-      "source": "Sky Sports",
-      "headline": "Wolves move into fourth with dominant display over Tigers",
-      "description": "Highlights of Castleford Tigers against Warrington Wolves in Super League.",
-      "publishedAt": "2026-08-01T23:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rugby-super-league_7311942.jpg?20260801181047",
-      "link": "https://www.skysports.com/watch/video/13569073/castleford-tigers-18-48-warrington-wolves-rugby-super-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49505676,
       "source": "ESPN",
       "headline": "Brentford sign Mamadou Sangaré from Lens for club-record fee",
@@ -376,28 +389,6 @@
       ]
     },
     {
-      "id": "8b6270fddb8ff76b0f840c1ace9b34e4",
-      "source": "Sky Sports",
-      "headline": "Staveley-led consortium agrees deal for minority stake in West Ham",
-      "description": "Vanessa Gold has confirmed she has agreed to sell her stake in the club to a consortium led by former Newcastle co-owner Amanda Staveley.",
-      "publishedAt": "2026-08-01T16:08:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-staveley-west-ham_7311914.jpg?20260801171714",
-      "link": "https://www.skysports.com/football/news/12040/13569061/west-ham-vanessa-gold-agrees-to-sell-stake-in-championship-club-to-former-newcastle-co-owner-amanda-staveley-led-consortium",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "5685ee06037e4a851c2987aec765a0e0",
-      "source": "Sky Sports",
-      "headline": "Warrington go fourth as Wakefield move second, Saints beaten by York",
-      "description": "Warrington Wolves moved up to fourth in the Betfred Super League table after recovering from a lacklustre start to claim a comprehensive 48-18 win at Castleford Tigers .",
-      "publishedAt": "2026-08-01T16:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugby-league-super-league_7311875.jpg?20260801162329",
-      "link": "https://www.skysports.com/rugby-league/castleford-vs-warrington/report/63300",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49504476,
       "source": "ESPN",
       "headline": "Xabi Alonso: Chelsea 'very happy' about surprise return of Mykhailo Mudryk",
@@ -422,20 +413,6 @@
       "teams": [
         "Tottenham Hotspur",
         "Brazil"
-      ]
-    },
-    {
-      "id": 49496505,
-      "source": "ESPN",
-      "headline": "Man City want Ayyoub Bouaddi regardless of Rodri's future - sources",
-      "description": "Manchester City will push ahead with a deal with Ayyoub Bouaddi regardless of doubts about Rodri's future at the Etihad Stadium, sources have told ESPN.",
-      "publishedAt": "2026-08-01T08:56:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49496505/man-city-ayyoub-bouaddi-transfer-news-rodri-real-madrid",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Lille"
       ]
     },
     {
@@ -524,6 +501,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-02T19:31:50.932Z"
+    "cachedAt": "2026-08-03T03:51:40.076Z"
   }
 }
