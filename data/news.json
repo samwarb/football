@@ -2,11 +2,146 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49528494,
+      "source": "ESPN",
+      "headline": "Mykhailo Mudryk could make return to Chelsea squad on Wednesday 20 months after last appearance",
+      "description": "Mykhailo Mudryk could step onto a football field for the first time in 20 months on Wednesday according to Chelsea manager Xabi Alonso.",
+      "publishedAt": "2026-08-04T14:06:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697495_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49528494/mykhailo-mudryk-make-return-chelsea-squad-wednesday-20-months-last-appearance",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49526703,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Fenerbahce eye Man United's Rashford",
+      "description": "Fenerbahce are ready to make an ambitious move to sign Manchester United forward Marcus Rashford. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-04T13:21:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0111/r1599222_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49526703/transfer-rumors-news-fenerbahce-eye-man-united-winger-marcus-rashford",
+      "tag": "Fenerbahce",
+      "teams": [
+        "Fenerbahce",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49521178,
+      "source": "ESPN",
+      "headline": "Liverpool's preseason: Injuries, squad depth a concern for Iraola & Co.",
+      "description": "Liverpool's time in the U.S. showed that coach Iraola & Co. still have a lot of work to do ahead of the 2026-27 campaign. Here's what we learned from their U.S. preseason trip.",
+      "publishedAt": "2026-08-04T13:19:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697188_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49521178/liverpool-preseason-leeds-united-wrexham-sunderland-andoni-iraola-beth-lindop",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49524791,
+      "source": "ESPN",
+      "headline": "Why 'winning the summer transfer window' doesn't help Premier League clubs",
+      "description": "Clubs spend millions of dollars in the summer transfer window, trying to scoop up all the biggest stars. But is it actually worth it?",
+      "publishedAt": "2026-08-04T12:41:01Z",
+      "image": "https://a.espncdn.com/photo/2025/1126/r1581240_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49524791/why-winning-transfer-window-help-premier-league-clubs",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester United",
+        "Arsenal",
+        "Chelsea",
+        "Real Madrid",
+        "Manchester City",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": 49527911,
+      "source": "ESPN",
+      "headline": "World Cup referee Anthony Taylor lands new role in Turkey",
+      "description": "English World Cup referee Anthony Taylor has taken up a post as director of elite refereeing with the Turkish Football Federation.",
+      "publishedAt": "2026-08-04T11:58:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692095_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49527911/world-cup-referee-anthony-taylor-lands-new-role-turkey",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-04T11:51:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674230_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "0d78ceb9cc6e3d492e114603f94a0bf3",
+      "source": "Sky Sports",
+      "headline": "Where would Guimaraes fit in at Arsenal?",
+      "description": "It is easy to understand Arsenal's interest in Bruno Guimaraes . The Newcastle captain is one of the Premier League's most complete midfielders, capable of dominating and destroying but also scoring and creating, with passing ability to match his physicality.",
+      "publishedAt": "2026-08-04T11:50:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-bruno-guimaraes-newcastle_7313641.jpg?20260804124506",
+      "link": "https://www.skysports.com/football/news/12040/13569644/bruno-guimaraes-to-arsenal-where-would-newcastle-captain-fit-in-and-what-would-it-mean-for-martin-zubimendi-martin-odegaard-myles-lewis-skelly",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-04T11:47:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "055249ca3190cea7c4f36599ea954dfe",
+      "source": "Sky Sports",
+      "headline": "'Need four or five signings!' | Austin urges Liverpool speed up transfer business",
+      "description": "Charlie Austin believes that Liverpool need 'four or five' signings to add to their squad depth ahead of the season where 'top four is the bare minimum'.",
+      "publishedAt": "2026-08-04T10:10:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-liverpool-transfers_7313546.jpg?20260804111837",
+      "link": "https://www.skysports.com/watch/video/13569669/charlie-austin-urges-liverpool-speed-up-their-transfer-business",
+      "tag": "Video",
+      "teams": []
+    },
+    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
       "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-08-04T08:33:04Z",
+      "publishedAt": "2026-08-04T09:00:44Z",
       "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
       "tag": "Arsenal",
@@ -30,74 +165,6 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "b65e3253e9fb5763420e7f017e1db989",
-      "source": "Sky Sports",
-      "headline": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-      "description": "",
-      "publishedAt": "2026-08-04T07:45:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49526703,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Fenerbahce eye Man United's Rashford",
-      "description": "Fenerbahce are ready to make an ambitious move to sign Manchester United forward Marcus Rashford. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-04T07:40:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0111/r1599222_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49526703/transfer-rumors-news-fenerbahce-eye-man-united-winger-marcus-rashford",
-      "tag": "Fenerbahce",
-      "teams": [
-        "Fenerbahce",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49524791,
-      "source": "ESPN",
-      "headline": "Why \"winning the transfer window\" doesn't help Premier League clubs",
-      "description": "Clubs spend millions of dollars in the summer transfer window, trying to scoop up all the biggest stars. But is it actually worth it?",
-      "publishedAt": "2026-08-04T07:16:03Z",
-      "image": "https://a.espncdn.com/photo/2025/1126/r1581240_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49524791/why-winning-transfer-window-help-premier-league-clubs",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester United",
-        "Arsenal",
-        "Chelsea",
-        "Real Madrid",
-        "Manchester City",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 49521178,
-      "source": "ESPN",
-      "headline": "Liverpool's preseason: Injuries, squad depth a concern for Iraola & Co.",
-      "description": "Liverpool's time in the U.S. showed that coach Iraola & Co. still have a lot of work to do ahead of the 2026-27 campaign. Here's what we learned from their U.S. preseason trip.",
-      "publishedAt": "2026-08-04T07:14:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697188_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49521178/liverpool-preseason-leeds-united-wrexham-sunderland-andoni-iraola-beth-lindop",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-04T07:03:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": "c40cd735f4034fbf7b31a02487d7493b",
@@ -182,38 +249,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-04T06:15:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -475,40 +510,11 @@
       "teams": [
         "AFC Bournemouth"
       ]
-    },
-    {
-      "id": 49503204,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Newcastle looking at move for USMNT's Adams",
-      "description": "Bournemouth and USMNT midfielder Tyler Adams is reportedly linked with a move to Newcastle United. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-01T18:34:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0801/r1696384_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49503204/transfer-rumors-news-bayern-munich-eye-manchester-united-benjamin-sesko-replace-harry-kane",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "United States",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49505774,
-      "source": "ESPN",
-      "headline": "Nicol sees Arsenal's Guimaraes move as 'a great deal'",
-      "description": "Nicol sees Arsenal's Guimaraes move as 'a great deal'",
-      "publishedAt": "2026-08-01T17:28:38Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0801/dm_260801_Nicol_sees_Arsenals_Guimaraes_move_as_a_great_deal/dm_260801_Nicol_sees_Arsenals_Guimaraes_move_as_a_great_deal.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49505774/nicol-sees-arsenal-guimaraes-move-great-deal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-04T08:51:19.057Z"
+    "cachedAt": "2026-08-04T14:37:03.580Z"
   }
 }
