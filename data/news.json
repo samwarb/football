@@ -2,11 +2,74 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "b82d5a62305417c27fd3381a84bae983",
+      "source": "Sky Sports",
+      "headline": "Infantino to hold crisis meeting with senior FIFA staff",
+      "description": "Under-pressure FIFA president Gianni Infantino will hold a crisis meeting with senior staff in Morocco on Wednesday.",
+      "publishedAt": "2026-08-04T19:04:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
+      "link": "https://www.skysports.com/football/news/12040/13569849/gianni-infantino-fifa-president-asks-senior-staff-to-attend-crisis-meeting-in-morocco-on-wednesday",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "47e80e533b5da79ee3a86928e6e3ba7b",
+      "source": "Sky Sports",
+      "headline": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "description": "",
+      "publishedAt": "2026-08-04T17:45:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
+      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "bc7ecf94540c9c452f45597f4becf026",
+      "source": "Sky Sports",
+      "headline": "Why have Barcelona broken transfer records to sign Kerolin?",
+      "description": "It's been brief. Kerolin only joined the Women's Super League from the NWSL 18 months ago. She now leaves as the English top-flight's most expensive export.",
+      "publishedAt": "2026-08-04T15:30:00.000Z",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-kerolin-manchester-city_7229984.jpg?20260425122748",
+      "link": "https://www.skysports.com/football/news/12040/13566568/kerolin-nicoli-transfer-news-man-city-forward-joins-barcelona-as-womens-super-leagues-most-expensive-export",
+      "tag": "Feature Story",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-08-04T15:06:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
       "id": 49528494,
       "source": "ESPN",
       "headline": "Mykhailo Mudryk could make return to Chelsea squad on Wednesday 20 months after last appearance",
       "description": "Mykhailo Mudryk could step onto a football field for the first time in 20 months on Wednesday according to Chelsea manager Xabi Alonso.",
-      "publishedAt": "2026-08-04T14:06:25Z",
+      "publishedAt": "2026-08-04T14:40:14Z",
       "image": "https://a.espncdn.com/photo/2026/0804/r1697495_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49528494/mykhailo-mudryk-make-return-chelsea-squad-wednesday-20-months-last-appearance",
       "tag": "Chelsea",
@@ -83,17 +146,6 @@
       "teams": []
     },
     {
-      "id": "0d78ceb9cc6e3d492e114603f94a0bf3",
-      "source": "Sky Sports",
-      "headline": "Where would Guimaraes fit in at Arsenal?",
-      "description": "It is easy to understand Arsenal's interest in Bruno Guimaraes . The Newcastle captain is one of the Premier League's most complete midfielders, capable of dominating and destroying but also scoring and creating, with passing ability to match his physicality.",
-      "publishedAt": "2026-08-04T11:50:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-bruno-guimaraes-newcastle_7313641.jpg?20260804124506",
-      "link": "https://www.skysports.com/football/news/12040/13569644/bruno-guimaraes-to-arsenal-where-would-newcastle-captain-fit-in-and-what-would-it-mean-for-martin-zubimendi-martin-odegaard-myles-lewis-skelly",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
@@ -124,58 +176,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "055249ca3190cea7c4f36599ea954dfe",
-      "source": "Sky Sports",
-      "headline": "'Need four or five signings!' | Austin urges Liverpool speed up transfer business",
-      "description": "Charlie Austin believes that Liverpool need 'four or five' signings to add to their squad depth ahead of the season where 'top four is the bare minimum'.",
-      "publishedAt": "2026-08-04T10:10:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-liverpool-transfers_7313546.jpg?20260804111837",
-      "link": "https://www.skysports.com/watch/video/13569669/charlie-austin-urges-liverpool-speed-up-their-transfer-business",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-08-04T09:00:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "c40cd735f4034fbf7b31a02487d7493b",
-      "source": "Sky Sports",
-      "headline": "FREE Scottish Premiership highlights",
-      "description": "",
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-scottish-premiership_7310026.jpg?20260730092304",
-      "link": "https://www.skysports.com/football/live-blog/12040/13567422/scottish-premiership-goals-and-free-match-highlights-of-every-game-in-2026-27-season",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49487583,
@@ -515,6 +515,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-04T14:37:03.580Z"
+    "cachedAt": "2026-08-04T19:54:16.969Z"
   }
 }
