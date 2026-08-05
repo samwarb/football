@@ -2,11 +2,130 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49523086,
+      "source": "ESPN",
+      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
+      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
+      "publishedAt": "2026-08-05T14:18:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
+      "link": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "United States"
+      ]
+    },
+    {
+      "id": 49535386,
+      "source": "ESPN",
+      "headline": "Mykhailo Mudryk plays for Chelsea after 20-month doping ban",
+      "description": "Chelsea winger Mykhailo Mudryk returned in Wednesday's pre-season friendly against Juventus after serving a 20-month doping ban.",
+      "publishedAt": "2026-08-05T14:16:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697940_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49535386/mykhailo-mudryk-plays-chelsea-20-month-doping-ban",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49536838,
+      "source": "ESPN",
+      "headline": "Man City cruise to preseason win against K League All Stars",
+      "description": "Manchester City ran out 3-1 winners in a preseason friendly against the K-League All Stars in Seoul, South Korea.",
+      "publishedAt": "2026-08-05T14:00:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697924_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49536838/man-city-cruise-preseason-win-k-league-all-stars",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49535315,
+      "source": "ESPN",
+      "headline": "K-League All Stars 1-3 Manchester City: Enzo Maresca wins first match as City boss - as it happened",
+      "description": "Enzo Maresca earned his first victory as Manchester City manager on Wednesday, with a 3-1 win over the K-League All Stars in Seoul, South Korea.",
+      "publishedAt": "2026-08-05T13:09:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697880_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49535315/k-league-all-stars-manchester-city-live-friendly-latest-updates-commentary-score-result",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49534606,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Spurs eye USMNT star Balogun, alongside Osimhen, Jackson",
+      "description": "AS Monaco and USMNT striker Folarin Balogun has been offered to Tottenham Hotspur. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-05T12:13:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0304/r1622848_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49534606/transfer-rumors-news-spurs-eye-usmnt-star-balogun-alongside-osimhen-jackson",
+      "tag": "AS Monaco",
+      "teams": [
+        "AS Monaco",
+        "Tottenham Hotspur",
+        "United States"
+      ]
+    },
+    {
+      "id": 49532207,
+      "source": "ESPN",
+      "headline": "Has Haaland's and Norway's profile been boosted since the World Cup?",
+      "description": "Has Haaland's and Norway's profile been boosted since the World Cup?",
+      "publishedAt": "2026-08-05T12:12:18Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260804_COM_SOC_Analysis_Has_HaalandE28099s_and_491/dm_260804_COM_SOC_Analysis_Has_HaalandE28099s_and_491.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49532207/has-haaland-norway-profile-boosted-world-cup",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Norway"
+      ]
+    },
+    {
+      "id": "44e08b73e0eab9ac807f9fb6e692cfae",
+      "source": "Sky Sports",
+      "headline": "Chelsea suffer defeat to Juventus in lacklustre Hong Kong friendly",
+      "description": "Chelsea failed to ramp up their pre-season preparations as Xabi Alonso's side suffered a 1-0 defeat to Juventus in Hong Kong thanks to Edon Zhegrova's stunning second-half strike.",
+      "publishedAt": "2026-08-05T11:26:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chelsea-juventus_7314601.jpg?20260805141229",
+      "link": "https://www.skysports.com/football/chelsea-vs-juventus/report/556017",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49535743,
+      "source": "ESPN",
+      "headline": "Chelsea close to £16.3m Pep Chavarria deal from Rayo Vallecano - report",
+      "description": "Chelsea are close to agreeing a £16.3million deal to sign defender Pep Chavarría from Rayo Vallecano, the Press Association understands.",
+      "publishedAt": "2026-08-05T11:12:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697867_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49535743/chelsea-close-163m-pep-chavarria-deal-rayo-vallecano",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49535696,
+      "source": "ESPN",
+      "headline": "Maresca: Man City still have more to do in the transfer window",
+      "description": "Maresca: Man City still have more to do in the transfer window",
+      "publishedAt": "2026-08-05T11:02:40Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_Maresca_Man_City_still_have_more_to_do_in_the_transfer_window/dm_260805_Maresca_Man_City_still_have_more_to_do_in_the_transfer_window.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49535696/man-city-more-do-transfer-window",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
       "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-08-05T08:35:39Z",
+      "publishedAt": "2026-08-05T10:39:18Z",
       "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
       "tag": "Arsenal",
@@ -32,19 +151,59 @@
       ]
     },
     {
-      "id": 49534606,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Spurs eye USMNT star Balogun, alongside Osimhen, Jackson",
-      "description": "AS Monaco and USMNT striker Folarin Balogun has been offered to Tottenham Hotspur. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-05T08:14:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0304/r1622848_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49534606/transfer-rumors-news-spurs-eye-usmnt-star-balogun-alongside-osimhen-jackson",
-      "tag": "AS Monaco",
-      "teams": [
-        "AS Monaco",
-        "Tottenham Hotspur",
-        "United States"
-      ]
+      "id": "eb3e6d0dc58f3c82c06af39c7902d493",
+      "source": "Sky Sports",
+      "headline": "Liverpool explore deal for PSG winger Mbaye",
+      "description": "Liverpool have explored the conditions of a deal for Paris Saint-Germain's teenage winger Ibrahim Mbaye.",
+      "publishedAt": "2026-08-05T09:42:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paris-saint-germain_7314281.jpg?20260805085619",
+      "link": "https://www.skysports.com/football/news/12040/13569955/ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "3b3164d16a586b19e3b9233d58c98f3e",
+      "source": "Sky Sports",
+      "headline": "Chelsea set to clinch deal to sign Rayo Vallecano left-back Chavarria",
+      "description": "Chelsea are set to clinch a deal to sign Rayo Vallecano left-back Pep Chavarria for a fee of around £16.3m (€19m) plus add-ons.",
+      "publishedAt": "2026-08-05T09:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-pep-cgavarria-rayo_7314271.jpg?20260805084522",
+      "link": "https://www.skysports.com/football/news/12040/13569945/pep-chavarria-chelsea-set-to-clinch-deal-to-sign-rayo-vallecano-left-back-for-initial-16-3m-fee-as-blues-seek-to-replace-marc-cucurella",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "459803abcc549c55137e9f76bf34503e",
+      "source": "Sky Sports",
+      "headline": "Yokota targets 'special memories' as he seals Rangers move",
+      "description": "Rangers have completed the signing of winger Daisuke Yokota from Hannover 96.",
+      "publishedAt": "2026-08-05T09:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-daisuke-yokota-rangers_7313311.jpg?20260803223437",
+      "link": "https://www.skysports.com/football/news/12040/13569962/rangers-transfer-news-daisuke-yokota-joins-from-hannover-96-to-become-derek-mcinnes-ninth-summer-signing",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "63f1ef38c057152fa1d5770fd3a8f39a",
+      "source": "Sky Sports",
+      "headline": "Is Jackson underrated? Could Emery reunion unlock more from him at Villa?",
+      "description": "During his time at Chelsea, Nicolas Jackson earned an unwanted reputation as an unusually unreliable finisher. He missed a lot of clear chances. But does that mean other top clubs are making a mistake in turning to the Senegalese striker? Not necessarily.",
+      "publishedAt": "2026-08-05T09:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-nicolas-jackson-world-cup_7303147.jpg?20260721112030",
+      "link": "https://www.skysports.com/football/news/12040/13565547/nicolas-jackson-transfer-to-aston-villa-or-tottenham-why-striker-from-chelsea-could-yet-prove-to-be-underrated",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "03efbceb8f74ebb7a9b5c2ac43e0ee80",
+      "source": "Sky Sports",
+      "headline": "The latest transfer news on Guimaraes, Diomande, Vinicius Jr and more...",
+      "description": "Catch up with the latest transfer stories from Sky Sports News including the news that Arsenal have a greed a fee with Newcastle for Bruno Guimaraes.",
+      "publishedAt": "2026-08-05T08:51:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/sky-sports-transfers-diomande_7314339.jpg?20260805102149",
+      "link": "https://www.skysports.com/watch/video/13569966/transfer-update-the-latest-on-gumaraes-diomande-vinicius-jr-and-more",
+      "tag": "Video",
+      "teams": []
     },
     {
       "id": "30714f39d6db6926e24a3ded12c5115a",
@@ -54,31 +213,6 @@
       "publishedAt": "2026-08-05T08:13:00.000Z",
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-newcastle-bruno-bruno-guimaraes_7293252.jpg?20260708201537",
       "link": "https://www.skysports.com/football/news/12040/13569653/bruno-guimaraes-transfer-news-arsenal-agree-75m-fee-for-newcastle-midfielder",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49523086,
-      "source": "ESPN",
-      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
-      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
-      "publishedAt": "2026-08-05T08:00:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
-      "link": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "United States"
-      ]
-    },
-    {
-      "id": "b65e3253e9fb5763420e7f017e1db989",
-      "source": "Sky Sports",
-      "headline": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-      "description": "",
-      "publishedAt": "2026-08-05T07:50:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
       "tag": "News Story",
       "teams": []
     },
@@ -140,20 +274,6 @@
         "Coventry City",
         "Hull City",
         "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49532207,
-      "source": "ESPN",
-      "headline": "Has Haaland's and Norway's profile been boosted since the World Cup?",
-      "description": "Has Haaland's and Norway's profile been boosted since the World Cup?",
-      "publishedAt": "2026-08-04T22:35:02Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Has_HaalandE28099s_and_NorwayE28099s_profile_been_boosted_since_the_World_Cup3F__GLOBAL_2026/dm_260804_COM_SOC_Analysis_Has_HaalandE28099s_and_NorwayE28099s_profile_been_boosted_since_the_World_Cup3F__GLO.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49532207/has-haaland-norway-profile-boosted-world-cup",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Norway"
       ]
     },
     {
@@ -397,19 +517,6 @@
       ]
     },
     {
-      "id": 49429944,
-      "source": "ESPN",
-      "headline": "Argentina's Valentín Barco joins Chelsea from Strasbourg",
-      "description": "Argentina international Valentín Barco has joined Chelsea from Strasbourg, the London club have announced.",
-      "publishedAt": "2026-08-03T06:52:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692713_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49429944/argentina-valentin-barco-joins-chelsea-strasbourg",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
       "id": 49487296,
       "source": "ESPN",
       "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
@@ -449,66 +556,11 @@
         "Chelsea",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49514055,
-      "source": "ESPN",
-      "headline": "Wrexham end pre-season with defeat to Sunderland in Philadelphia",
-      "description": "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
-      "publishedAt": "2026-08-02T19:05:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0802/r1696764_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49514055/wrexham-end-preseason-defeat-sunderland-philadelphia",
-      "tag": "Wrexham",
-      "teams": [
-        "Wrexham",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49513683,
-      "source": "ESPN",
-      "headline": "Lindop: Barcola to Liverpool is becoming a saga",
-      "description": "Lindop: Barcola to Liverpool is becoming a saga",
-      "publishedAt": "2026-08-02T18:01:07Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_COM_SOC_ANALYSIS_Lindop_Barcola_to_Liverpool_is_becoming_a_saga_2026_8_2/dm_260802_COM_SOC_ANALYSIS_Lindop_Barcola_to_Liverpool_is_becoming_a_saga_2026_8_2.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49513683/barcola-liverpool-becoming-saga",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 49513679,
-      "source": "ESPN",
-      "headline": "Is Vinicius Jr. using Arsenal to secure a new Real Madrid deal?",
-      "description": "Is Vinicius Jr. using Arsenal to secure a new Real Madrid deal?",
-      "publishedAt": "2026-08-02T18:00:36Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_COM_SOC_ANALYSIS_Is_Vinicius_Jr_using_Arsenal_to_secure_a_new_Real_Madrid_deal_2026_8_2/dm_260802_COM_SOC_ANALYSIS_Is_Vinicius_Jr_using_Arsenal_to_secure_a_new_Real_Madrid_deal_2026_8_2.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49513679/is-vinicius-jr-using-arsenal-secure-new-real-madrid-deal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49513672,
-      "source": "ESPN",
-      "headline": "Hutchison: Max Dowman must stay patient at Arsenal",
-      "description": "Hutchison: Max Dowman must stay patient at Arsenal",
-      "publishedAt": "2026-08-02T18:00:02Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_COM_SOC_ANALYSIS_Hutchison_Max_Dowman_must_stay_patient_at_Arsenal_2026_8_2/dm_260802_COM_SOC_ANALYSIS_Hutchison_Max_Dowman_must_stay_patient_at_Arsenal_2026_8_2.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49513672/max-dowman-stay-patient-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-05T08:49:57.252Z"
+    "cachedAt": "2026-08-05T14:30:11.853Z"
   }
 }
