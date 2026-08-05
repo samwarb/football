@@ -2,6 +2,89 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49534606,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool eye move for PSG's Mbaye",
+      "description": "Liverpool are reportedly looking to strengthen their attack by signing Paris Saint-Germain winger Ibrahim Mbaye. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-05T19:09:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698064_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49534606/transfer-rumors-news-spurs-eye-usmnt-star-balogun-alongside-osimhen-jackson",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49488797,
+      "source": "ESPN",
+      "headline": "Newcastle name Matthias Jaissle head coach, replacing Eddie Howe",
+      "description": "Newcastle United have confirmed the appointment of Matthias Jaissle as the club's new head coach following the departure of Eddie Howe.",
+      "publishedAt": "2026-08-05T18:35:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695580_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49488797/matthias-jaissle-new-newcastle-united-head-coach-eddie-howe",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Al Ahli"
+      ]
+    },
+    {
+      "id": "4813172b92fe4b2aea50d0870bb433d1",
+      "source": "Sky Sports",
+      "headline": "Newcastle appoint Jaissle as Howe's successor",
+      "description": "Newcastle have appointed Matthias Jaissle as their new head coach following Eddie Howe's exit.",
+      "publishedAt": "2026-08-05T18:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-matthias-jaissle_7312157.png?20260802125132",
+      "link": "https://www.skysports.com/football/news/12040/13568428/newcastle-united-appoint-matthias-jaissle-as-head-coach-following-eddie-howes-departure-from-st-james-park",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49535386,
+      "source": "ESPN",
+      "headline": "Mykhailo Mudryk makes 'emotional' Chelsea return after doping ban",
+      "description": "Mykhailo Mudryk made his first appearance for Chelsea following a 20-month doping ban in the club's 1-0 preseason friendly defeat to Juventus on Wednesday.",
+      "publishedAt": "2026-08-05T17:57:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697940_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49535386/mykhailo-mudryk-plays-chelsea-20-month-doping-ban",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Ukraine"
+      ]
+    },
+    {
+      "id": "3014b955044922d1abb6b63978f91ec8",
+      "source": "Sky Sports",
+      "headline": "Arsenal concede third goal against Real Betis before half-time LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-05T17:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-betis_7314907.jpg?20260805202120",
+      "link": "https://www.skysports.com/football/arsenal-vs-real-betis/live/555716",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "2bba7e895a0dbf47c63e6cb6f5be9a7b",
+      "source": "Sky Sports",
+      "headline": "Fulham latest: Talks advancing over Southampton midfielder",
+      "description": "",
+      "publishedAt": "2026-08-05T16:50:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "db60b4d7a9cbcdaa0ec66b1bbff8455a",
+      "source": "Sky Sports",
+      "headline": "Man City latest: Teenager Monga reveals why he joined City over Arsenal",
+      "description": "",
+      "publishedAt": "2026-08-05T16:42:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49523086,
       "source": "ESPN",
       "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
@@ -13,19 +96,6 @@
       "teams": [
         "Manchester City",
         "United States"
-      ]
-    },
-    {
-      "id": 49535386,
-      "source": "ESPN",
-      "headline": "Mykhailo Mudryk plays for Chelsea after 20-month doping ban",
-      "description": "Chelsea winger Mykhailo Mudryk returned in Wednesday's pre-season friendly against Juventus after serving a 20-month doping ban.",
-      "publishedAt": "2026-08-05T14:16:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697940_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49535386/mykhailo-mudryk-plays-chelsea-20-month-doping-ban",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
       ]
     },
     {
@@ -55,21 +125,6 @@
       ]
     },
     {
-      "id": 49534606,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Spurs eye USMNT star Balogun, alongside Osimhen, Jackson",
-      "description": "AS Monaco and USMNT striker Folarin Balogun has been offered to Tottenham Hotspur. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-05T12:13:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0304/r1622848_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49534606/transfer-rumors-news-spurs-eye-usmnt-star-balogun-alongside-osimhen-jackson",
-      "tag": "AS Monaco",
-      "teams": [
-        "AS Monaco",
-        "Tottenham Hotspur",
-        "United States"
-      ]
-    },
-    {
       "id": 49532207,
       "source": "ESPN",
       "headline": "Has Haaland's and Norway's profile been boosted since the World Cup?",
@@ -82,17 +137,6 @@
         "Manchester City",
         "Norway"
       ]
-    },
-    {
-      "id": "44e08b73e0eab9ac807f9fb6e692cfae",
-      "source": "Sky Sports",
-      "headline": "Chelsea suffer defeat to Juventus in lacklustre Hong Kong friendly",
-      "description": "Chelsea failed to ramp up their pre-season preparations as Xabi Alonso's side suffered a 1-0 defeat to Juventus in Hong Kong thanks to Edon Zhegrova's stunning second-half strike.",
-      "publishedAt": "2026-08-05T11:26:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chelsea-juventus_7314601.jpg?20260805141229",
-      "link": "https://www.skysports.com/football/chelsea-vs-juventus/report/556017",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49535743,
@@ -149,72 +193,6 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "eb3e6d0dc58f3c82c06af39c7902d493",
-      "source": "Sky Sports",
-      "headline": "Liverpool explore deal for PSG winger Mbaye",
-      "description": "Liverpool have explored the conditions of a deal for Paris Saint-Germain's teenage winger Ibrahim Mbaye.",
-      "publishedAt": "2026-08-05T09:42:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paris-saint-germain_7314281.jpg?20260805085619",
-      "link": "https://www.skysports.com/football/news/12040/13569955/ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "3b3164d16a586b19e3b9233d58c98f3e",
-      "source": "Sky Sports",
-      "headline": "Chelsea set to clinch deal to sign Rayo Vallecano left-back Chavarria",
-      "description": "Chelsea are set to clinch a deal to sign Rayo Vallecano left-back Pep Chavarria for a fee of around £16.3m (€19m) plus add-ons.",
-      "publishedAt": "2026-08-05T09:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-pep-cgavarria-rayo_7314271.jpg?20260805084522",
-      "link": "https://www.skysports.com/football/news/12040/13569945/pep-chavarria-chelsea-set-to-clinch-deal-to-sign-rayo-vallecano-left-back-for-initial-16-3m-fee-as-blues-seek-to-replace-marc-cucurella",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "459803abcc549c55137e9f76bf34503e",
-      "source": "Sky Sports",
-      "headline": "Yokota targets 'special memories' as he seals Rangers move",
-      "description": "Rangers have completed the signing of winger Daisuke Yokota from Hannover 96.",
-      "publishedAt": "2026-08-05T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-daisuke-yokota-rangers_7313311.jpg?20260803223437",
-      "link": "https://www.skysports.com/football/news/12040/13569962/rangers-transfer-news-daisuke-yokota-joins-from-hannover-96-to-become-derek-mcinnes-ninth-summer-signing",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "63f1ef38c057152fa1d5770fd3a8f39a",
-      "source": "Sky Sports",
-      "headline": "Is Jackson underrated? Could Emery reunion unlock more from him at Villa?",
-      "description": "During his time at Chelsea, Nicolas Jackson earned an unwanted reputation as an unusually unreliable finisher. He missed a lot of clear chances. But does that mean other top clubs are making a mistake in turning to the Senegalese striker? Not necessarily.",
-      "publishedAt": "2026-08-05T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-nicolas-jackson-world-cup_7303147.jpg?20260721112030",
-      "link": "https://www.skysports.com/football/news/12040/13565547/nicolas-jackson-transfer-to-aston-villa-or-tottenham-why-striker-from-chelsea-could-yet-prove-to-be-underrated",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "03efbceb8f74ebb7a9b5c2ac43e0ee80",
-      "source": "Sky Sports",
-      "headline": "The latest transfer news on Guimaraes, Diomande, Vinicius Jr and more...",
-      "description": "Catch up with the latest transfer stories from Sky Sports News including the news that Arsenal have a greed a fee with Newcastle for Bruno Guimaraes.",
-      "publishedAt": "2026-08-05T08:51:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/sky-sports-transfers-diomande_7314339.jpg?20260805102149",
-      "link": "https://www.skysports.com/watch/video/13569966/transfer-update-the-latest-on-gumaraes-diomande-vinicius-jr-and-more",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "30714f39d6db6926e24a3ded12c5115a",
-      "source": "Sky Sports",
-      "headline": "Arsenal agree fee for Guimaraes",
-      "description": "Arsenal have agreed a £75m fee with Newcastle for their captain Bruno Guimaraes.",
-      "publishedAt": "2026-08-05T08:13:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-newcastle-bruno-bruno-guimaraes_7293252.jpg?20260708201537",
-      "link": "https://www.skysports.com/football/news/12040/13569653/bruno-guimaraes-transfer-news-arsenal-agree-75m-fee-for-newcastle-midfielder",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -318,6 +296,28 @@
         "Real Madrid",
         "Barcelona"
       ]
+    },
+    {
+      "id": "fc6f29e8c4f159d34bd3a919df9c65e5",
+      "source": "Sky Sports",
+      "headline": "Palace latest: Eagles 'grappling with financial constraints'",
+      "description": "",
+      "publishedAt": "2026-08-04T19:07:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "f855a879f090b496276dc52ed078c1ea",
+      "source": "Sky Sports",
+      "headline": "West Ham latest: Veltman in advanced talks over Hammers move",
+      "description": "",
+      "publishedAt": "2026-08-04T14:48:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49528494,
@@ -544,23 +544,20 @@
       ]
     },
     {
-      "id": 49511046,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City eye Chelsea winger Pedro Neto",
-      "description": "Manchester City are preparing a surprise move for Chelsea winger Pedro Neto. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-02T20:22:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0313/r1627958_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49511046/transfer-rumors-news-man-city-eye-chelsea-winger-pedro-neto",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
-      ]
+      "id": "88a70dfc585167dc413a3c3424d2e4c4",
+      "source": "Sky Sports",
+      "headline": "Who is Jaissle? What Newcastle fans can expect from Howe's replacement",
+      "description": "Matthias Jaissle, Eddie Howe's replacement at Newcastle United, might not be too well known given that his only head coaching roles to date have been in Austria and Saudi Arabia. So who is the man arriving to take charge at St James' Park?",
+      "publishedAt": "2026-07-30T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-matthias-jaissle_7310038.jpg?20260730094143",
+      "link": "https://www.skysports.com/football/news/12040/13568347/matthias-jaissle-to-newcastle-who-is-the-coach-set-to-replace-eddie-howe-at-st-james-park-and-what-can-we-expect",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-05T14:30:11.853Z"
+    "cachedAt": "2026-08-05T19:52:09.100Z"
   }
 }
