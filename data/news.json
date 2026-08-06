@@ -2,6 +2,159 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "b65e3253e9fb5763420e7f017e1db989",
+      "source": "Sky Sports",
+      "headline": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+      "description": "",
+      "publishedAt": "2026-08-06T07:50:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
+      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49543040,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool offered Real Madrid CB amid defensive woes",
+      "description": "Liverpool have been offered a way to fix their woeful defensive depth, while Man United are looking at USMNT's Antonee Robinson. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-06T07:43:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698268_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49543040/transfer-rumors-news-liverpool-offered-real-madrid-cb-amid-defensive-woes",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-06T07:28:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684075_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49537784,
+      "source": "ESPN",
+      "headline": "Why did Salah leave Liverpool for Türkiye's fourth-most popular club?",
+      "description": "Mohamed Salah decided to trade the Premier League for Turkish side Trabzonspor, but with time running out in the transfer window, where does his departure leave Liverpool?",
+      "publishedAt": "2026-08-06T07:22:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697977_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49537784/why-did-mohamed-salah-leave-liverpool-turkiyes-fourth-most-popular-club",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-08-06T07:08:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-06T07:01:24Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-06T06:59:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "a7172ed2b510e5d55d0c488750347016",
+      "source": "Sky Sports",
+      "headline": "Arsenal players 'fuming' after defeat to Real Betis in Dublin friendly",
+      "description": "Mikel Arteta revealed his players were \"fuming\" after Arsenal produced a sloppy performance as they were beaten 3-1 by LaLiga side Real Betis in a pre-season friendly in Dublin.",
+      "publishedAt": "2026-08-06T06:10:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-betis_7314907.jpg?20260806093238",
+      "link": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49534606,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool eye move for PSG's Mbaye",
@@ -69,28 +222,6 @@
         "Real Betis",
         "Arsenal"
       ]
-    },
-    {
-      "id": "23f641ab900ab70e8a28f4a37b1f6580",
-      "source": "Sky Sports",
-      "headline": "Arsenal beaten by Real Betis in Dublin friendly",
-      "description": "Arsenal produced a sloppy performance as they were beaten 3-1 by LaLiga side Real Betis in a pre-season friendly in Dublin.",
-      "publishedAt": "2026-08-05T20:44:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-betis_7314907.jpg?20260805202120",
-      "link": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "d1a793af59046d204f25642ff062848e",
-      "source": "Sky Sports",
-      "headline": "Real Madrid improve Vinicius Jr offer amid Arsenal interest",
-      "description": "Real Madrid have improved their contract offer to Vinicius Junior amid interest from Arsenal.",
-      "publishedAt": "2026-08-05T20:15:00.000Z",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-champions-league_7195819.jpg?20260317213419",
-      "link": "https://www.skysports.com/football/news/12040/13570198/vinicius-junior-future-arsenal-target-set-to-stay-at-real-madrid-after-positive-contract-talks-over-new-deal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": "67ce02d53fb06ef16767de93e978813a",
@@ -264,66 +395,6 @@
       ]
     },
     {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-05T07:17:03Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-05T07:15:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49532201,
       "source": "ESPN",
       "headline": "Moreno: Real Madrid are prioritising Mbappé over Vinícius Jr.",
@@ -350,17 +421,6 @@
         "Crystal Palace",
         "Real Salt Lake"
       ]
-    },
-    {
-      "id": "79550d7a2b38efb178a9e9b5729c878c",
-      "source": "Sky Sports",
-      "headline": "Papers: Arsenal feel Vinicius Jr increasingly likely to stay at Real Madrid",
-      "description": "The top stories and transfer rumours from Thursday's newspapers...",
-      "publishedAt": "2026-08-04T21:30:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-paper-talk-sky-sports-news_7311195.png?20260731134338",
-      "link": "https://www.skysports.com/football/news/12040/13570216/vinicius-junior-transfer-news-arsenal-feel-real-madrid-forward-increasingly-likely-to-stay-at-spanish-giants-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49526703,
@@ -434,63 +494,6 @@
       "teams": []
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-04T11:51:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674230_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49487583,
-      "source": "ESPN",
-      "headline": "Jordan Henderson completes move to Chelsea after leaving Brentford",
-      "description": "Jordan Henderson has completed a move to Chelsea after leaving Brentford as a free agent via a mutual agreement.",
-      "publishedAt": "2026-08-04T06:42:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49487583/jordan-henderson-completes-chelsea-move-leaving-brentford",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Brentford"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-04T06:22:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
       "id": 49524588,
       "source": "ESPN",
       "headline": "Would Real Madrid miss Vinícius Jr. if he joined Arsenal?",
@@ -532,25 +535,11 @@
         "Fulham",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 49518337,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Atlético Madrid weigh move for Jack Grealish",
-      "description": "Atlético Madrid are admirers of Manchester City winger Jack Grealish. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-03T20:29:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697241_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49518337/transfer-rumors-news-arsenal-boss-arteta-makes-push-vinicius-jr",
-      "tag": "Atlético Madrid",
-      "teams": [
-        "Atlético Madrid",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-06T03:33:05.445Z"
+    "cachedAt": "2026-08-06T08:50:51.677Z"
   }
 }
