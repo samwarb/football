@@ -6,10 +6,101 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool eye move for PSG's Mbaye",
       "description": "Liverpool are reportedly looking to strengthen their attack by signing Paris Saint-Germain winger Ibrahim Mbaye. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-05T19:09:49Z",
+      "publishedAt": "2026-08-06T01:16:26Z",
       "image": "https://a.espncdn.com/photo/2026/0805/r1698064_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49534606/transfer-rumors-news-spurs-eye-usmnt-star-balogun-alongside-osimhen-jackson",
-      "tag": "Story",
+      "tag": "Paris Saint-Germain",
+      "teams": [
+        "Paris Saint-Germain",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49540699,
+      "source": "ESPN",
+      "headline": "Leboeuf: Arsenal are the clear Premier League favourites",
+      "description": "Leboeuf: Arsenal are the clear Premier League favourites",
+      "publishedAt": "2026-08-05T22:28:22Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Leboeuf3A_Arsenal_are_the_clear_Premier_League_favourites_GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Leboeuf3A_Arsenal_are_the_clear_Premier_League_favourites_GLOBAL_2026-08-05.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49540699/arsenal-clear-premier-league-favourites",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49540686,
+      "source": "ESPN",
+      "headline": "Can Chelsea finish in the top 4 under Alonso?",
+      "description": "Can Chelsea finish in the top 4 under Alonso?",
+      "publishedAt": "2026-08-05T22:27:27Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Can_Chelsea_finish_in_the_top_4_under_Alonso3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Can_Chelsea_finish_in_the_top_4_under_Alonso3F__GLOBAL_2026-08-05.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49540686/can-chelsea-finish-top-4-alonso",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49540382,
+      "source": "ESPN",
+      "headline": "Everton sign midfielder Christian Nørgaard from Arsenal",
+      "description": "Everton have completed the signing of Denmark international Christian Nørgaard from Arsenal, the clubs announced Wednesday.",
+      "publishedAt": "2026-08-05T22:20:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698112_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49540382/everton-christian-norgaard-arsenal-transfer",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Everton",
+        "Denmark"
+      ]
+    },
+    {
+      "id": 49540284,
+      "source": "ESPN",
+      "headline": "Arsenal suffer disappointing defeat to Real Betis in preseason friendly",
+      "description": "Arsenal were soundly beaten 3-1 by Real Betis in their preseason friendly in Dublin.",
+      "publishedAt": "2026-08-05T21:33:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698111_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49540284/arsenal-suffer-disappointing-defeat-real-betis-pre-season-friendly",
+      "tag": "Real Betis",
+      "teams": [
+        "Real Betis",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "23f641ab900ab70e8a28f4a37b1f6580",
+      "source": "Sky Sports",
+      "headline": "Arsenal beaten by Real Betis in Dublin friendly",
+      "description": "Arsenal produced a sloppy performance as they were beaten 3-1 by LaLiga side Real Betis in a pre-season friendly in Dublin.",
+      "publishedAt": "2026-08-05T20:44:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-betis_7314907.jpg?20260805202120",
+      "link": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "d1a793af59046d204f25642ff062848e",
+      "source": "Sky Sports",
+      "headline": "Real Madrid improve Vinicius Jr offer amid Arsenal interest",
+      "description": "Real Madrid have improved their contract offer to Vinicius Junior amid interest from Arsenal.",
+      "publishedAt": "2026-08-05T20:15:00.000Z",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-champions-league_7195819.jpg?20260317213419",
+      "link": "https://www.skysports.com/football/news/12040/13570198/vinicius-junior-future-arsenal-target-set-to-stay-at-real-madrid-after-positive-contract-talks-over-new-deal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "67ce02d53fb06ef16767de93e978813a",
+      "source": "Sky Sports",
+      "headline": "Infantino remains FIFA president following crisis meeting",
+      "description": "Under-fire FIFA president Gianni Infantino has shaken off calls to resign - for now - with the backing of the governing body's leaders, though apologised for \"mistakes\" in his botched attempts to sell off a stake in the World Cup.",
+      "publishedAt": "2026-08-05T19:58:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
+      "link": "https://www.skysports.com/football/news/12040/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -52,39 +143,6 @@
       ]
     },
     {
-      "id": "3014b955044922d1abb6b63978f91ec8",
-      "source": "Sky Sports",
-      "headline": "Arsenal concede third goal against Real Betis before half-time LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-05T17:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-betis_7314907.jpg?20260805202120",
-      "link": "https://www.skysports.com/football/arsenal-vs-real-betis/live/555716",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "2bba7e895a0dbf47c63e6cb6f5be9a7b",
-      "source": "Sky Sports",
-      "headline": "Fulham latest: Talks advancing over Southampton midfielder",
-      "description": "",
-      "publishedAt": "2026-08-05T16:50:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "db60b4d7a9cbcdaa0ec66b1bbff8455a",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Teenager Monga reveals why he joined City over Arsenal",
-      "description": "",
-      "publishedAt": "2026-08-05T16:42:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49523086,
       "source": "ESPN",
       "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
@@ -123,6 +181,17 @@
       "teams": [
         "Manchester City"
       ]
+    },
+    {
+      "id": "8f16913fd2e20badab271bddea84ec5f",
+      "source": "Sky Sports",
+      "headline": "Everton latest: Norgaard completes move from Arsenal",
+      "description": "",
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49532207,
@@ -283,6 +352,17 @@
       ]
     },
     {
+      "id": "79550d7a2b38efb178a9e9b5729c878c",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal feel Vinicius Jr increasingly likely to stay at Real Madrid",
+      "description": "The top stories and transfer rumours from Thursday's newspapers...",
+      "publishedAt": "2026-08-04T21:30:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-paper-talk-sky-sports-news_7311195.png?20260731134338",
+      "link": "https://www.skysports.com/football/news/12040/13570216/vinicius-junior-transfer-news-arsenal-feel-real-madrid-forward-increasingly-likely-to-stay-at-spanish-giants-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49526703,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Barcelona eye move for Man City's Rodri",
@@ -296,28 +376,6 @@
         "Real Madrid",
         "Barcelona"
       ]
-    },
-    {
-      "id": "fc6f29e8c4f159d34bd3a919df9c65e5",
-      "source": "Sky Sports",
-      "headline": "Palace latest: Eagles 'grappling with financial constraints'",
-      "description": "",
-      "publishedAt": "2026-08-04T19:07:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "f855a879f090b496276dc52ed078c1ea",
-      "source": "Sky Sports",
-      "headline": "West Ham latest: Veltman in advanced talks over Hammers move",
-      "description": "",
-      "publishedAt": "2026-08-04T14:48:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49528494,
@@ -488,76 +546,11 @@
         "Atlético Madrid",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49519333,
-      "source": "ESPN",
-      "headline": "Arsenal's new third kit is a blast from the (recent) past",
-      "description": "Arsenal have rolled out their new third kit for the 2026-27 season, but we would forgive you for thinking that you have seen it before.",
-      "publishedAt": "2026-08-03T11:23:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697011_606x341_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49519333/arsenal-new-2026-27-third-kit-blast-recent-past",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49511485,
-      "source": "ESPN",
-      "headline": "Christos Tzolis ready to stake claim for Arsenal wing spot amid Vinicius Jr. links",
-      "description": "New recruit Christos Tzolis is ready to impress Arsenal boss Mikel Arteta and stake a claim for a spot on the left wing amid reports linking the Premier League champions with a move for Vinícius Júnior.",
-      "publishedAt": "2026-08-03T09:57:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0802/r1696641_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49511485/christos-tzolis-ready-stake-claim-arsenal-wing-spot-amid-vinicius-jr-links",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49487296,
-      "source": "ESPN",
-      "headline": "Who is Newcastle-linked Matthias Jaissle, the favourite to succeed Eddie Howe at St James' Park?",
-      "description": "Al Ahli head coach Matthias Jaissle is reportedly set to replace Eddie Howe at Newcastle. But who is he?",
-      "publishedAt": "2026-08-03T06:10:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695505_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49487296/who-matthias-jaissle-newcastle-eddie-howe-al-ahli-st-james-park",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Al Ahli"
-      ]
-    },
-    {
-      "id": 49516371,
-      "source": "ESPN",
-      "headline": "Nordi Mukiele scores lone goal in Sunderland's win vs. Wrexham",
-      "description": "Nordi Mukiele scores lone goal in Sunderland's win vs. Wrexham",
-      "publishedAt": "2026-08-03T00:25:59Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0803/9f93b20a-a652-4b09-b735-aeb0690b89f4/9f93b20a-a652-4b09-b735-aeb0690b89f4.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49516371/nordi-mukiele-scores-lone-goal-sunderland-win-vs-wrexham",
-      "tag": "Sunderland",
-      "teams": [
-        "Sunderland"
-      ]
-    },
-    {
-      "id": "88a70dfc585167dc413a3c3424d2e4c4",
-      "source": "Sky Sports",
-      "headline": "Who is Jaissle? What Newcastle fans can expect from Howe's replacement",
-      "description": "Matthias Jaissle, Eddie Howe's replacement at Newcastle United, might not be too well known given that his only head coaching roles to date have been in Austria and Saudi Arabia. So who is the man arriving to take charge at St James' Park?",
-      "publishedAt": "2026-07-30T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-matthias-jaissle_7310038.jpg?20260730094143",
-      "link": "https://www.skysports.com/football/news/12040/13568347/matthias-jaissle-to-newcastle-who-is-the-coach-set-to-replace-eddie-howe-at-st-james-park-and-what-can-we-expect",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-05T19:52:09.100Z"
+    "cachedAt": "2026-08-06T03:33:05.445Z"
   }
 }
