@@ -2,22 +2,11 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "b65e3253e9fb5763420e7f017e1db989",
-      "source": "Sky Sports",
-      "headline": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-      "description": "",
-      "publishedAt": "2026-08-06T07:50:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49543040,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool offered Real Madrid CB amid defensive woes",
       "description": "Liverpool have been offered a way to fix their woeful defensive depth, while Man United are looking at USMNT's Antonee Robinson. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-06T07:43:58Z",
+      "publishedAt": "2026-08-06T14:27:28Z",
       "image": "https://a.espncdn.com/photo/2026/0806/r1698268_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49543040/transfer-rumors-news-liverpool-offered-real-madrid-cb-amid-defensive-woes",
       "tag": "Liverpool",
@@ -31,10 +20,97 @@
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
       "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-06T07:28:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684075_1296x729_16-9.jpg",
+      "publishedAt": "2026-08-06T14:24:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0604/r1668008_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "b253c64472985387cbea8e579a841186",
+      "source": "Sky Sports",
+      "headline": "UEFA boycott of FIFA tournaments still stands as Infantino stays on",
+      "description": "UEFA's boycott of FIFA tournaments still stands, with under-fire FIFA president Gianni Infantino remaining in his position.",
+      "publishedAt": "2026-08-06T14:05:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fifa-uefa-infantino_7310610.png?20260730174215",
+      "link": "https://www.skysports.com/football/news/12040/13570404/gianni-infantino-uefas-boycott-of-fifa-tournaments-still-stands-as-under-pressure-president-remains-in-position",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "af3c223ae8c0f43bcaf213a5c9013937",
+      "source": "Sky Sports",
+      "headline": "Real Madrid agree deal for Diomande",
+      "description": "Real Madrid have agreed a deal with RB Leipzig for Yan Diomande.",
+      "publishedAt": "2026-08-06T14:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-diomande-rb-leipzig_7306872.jpg?20260726210321",
+      "link": "https://www.skysports.com/football/news/12040/13567543/yan-diomande-transfer-news-real-madrid-agree-deal-for-ivory-coast-international-with-rb-leipzig",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b732a3287fe88866eaf26cbfc5fff936",
+      "source": "Sky Sports",
+      "headline": "Salah joins Turkish side Trabzonspor",
+      "description": "Mohamed Salah has joined Turkish Super Lig side Trabzonspor on a free transfer.",
+      "publishedAt": "2026-08-06T12:29:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-egypt-new-zealand_7279724.jpg?20260622082125",
+      "link": "https://www.skysports.com/football/news/12040/13570282/mohamed-salah-former-liverpool-forward-joins-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "publishedAt": "2026-08-06T12:12:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49543227,
+      "source": "ESPN",
+      "headline": "'Rock star' Matthias Jaissle the perfect man for 'Newcastle 2.0' - club CEO",
+      "description": "Newcastle United CEO David Hopkinson has called new head coach Matthias Jaissle a \"rock star\" with \"no ceiling on where his career could go.\"",
+      "publishedAt": "2026-08-06T09:03:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698265_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49543227/rock-star-matthias-jaissle-perfect-man-newcastle-20-club-ceo",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "9a9b8b59f91383753690a7124ade3275",
+      "source": "Sky Sports",
+      "headline": "Why Jimenez’s Wolves return means so much to fans",
+      "description": "The most romantic signing of the summer came early. Raul Jimenez is back at Wolves. And for the club's supporters, they are not so much welcoming back a former favourite but revisiting a chapter of their own lives. For a generation, Jimenez is the Wolves No 9.",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-raul-jimenez-wolves_7309163.jpg?20260729103837",
+      "link": "https://www.skysports.com/football/news/12040/13568007/raul-jimenezs-wolves-return-mexican-strikers-comeback-aged-35-has-captured-supporters-imagination-at-molineux",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -144,17 +220,6 @@
       ]
     },
     {
-      "id": "a7172ed2b510e5d55d0c488750347016",
-      "source": "Sky Sports",
-      "headline": "Arsenal players 'fuming' after defeat to Real Betis in Dublin friendly",
-      "description": "Mikel Arteta revealed his players were \"fuming\" after Arsenal produced a sloppy performance as they were beaten 3-1 by LaLiga side Real Betis in a pre-season friendly in Dublin.",
-      "publishedAt": "2026-08-06T06:10:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-betis_7314907.jpg?20260806093238",
-      "link": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49534606,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool eye move for PSG's Mbaye",
@@ -224,17 +289,6 @@
       ]
     },
     {
-      "id": "67ce02d53fb06ef16767de93e978813a",
-      "source": "Sky Sports",
-      "headline": "Infantino remains FIFA president following crisis meeting",
-      "description": "Under-fire FIFA president Gianni Infantino has shaken off calls to resign - for now - with the backing of the governing body's leaders, though apologised for \"mistakes\" in his botched attempts to sell off a stake in the World Cup.",
-      "publishedAt": "2026-08-05T19:58:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
-      "link": "https://www.skysports.com/football/news/12040/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49488797,
       "source": "ESPN",
       "headline": "Newcastle name Matthias Jaissle head coach, replacing Eddie Howe",
@@ -247,17 +301,6 @@
         "Newcastle United",
         "Al Ahli"
       ]
-    },
-    {
-      "id": "4813172b92fe4b2aea50d0870bb433d1",
-      "source": "Sky Sports",
-      "headline": "Newcastle appoint Jaissle as Howe's successor",
-      "description": "Newcastle have appointed Matthias Jaissle as their new head coach following Eddie Howe's exit.",
-      "publishedAt": "2026-08-05T18:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-matthias-jaissle_7312157.png?20260802125132",
-      "link": "https://www.skysports.com/football/news/12040/13568428/newcastle-united-appoint-matthias-jaissle-as-head-coach-following-eddie-howes-departure-from-st-james-park",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49535386,
@@ -314,17 +357,6 @@
       ]
     },
     {
-      "id": "8f16913fd2e20badab271bddea84ec5f",
-      "source": "Sky Sports",
-      "headline": "Everton latest: Norgaard completes move from Arsenal",
-      "description": "",
-      "publishedAt": "2026-08-05T13:00:00.000Z",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49532207,
       "source": "ESPN",
       "headline": "Has Haaland's and Norway's profile been boosted since the World Cup?",
@@ -362,36 +394,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
-      "publishedAt": "2026-08-05T10:39:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -521,25 +523,11 @@
         "Real Madrid",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49523499,
-      "source": "ESPN",
-      "headline": "Fulham sign Gonzalo García from Real Madrid",
-      "description": "Gonzalo García has joined Premier League side Fulham from Real Madrid, the club has confirmed.",
-      "publishedAt": "2026-08-03T21:12:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697250_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49523499/fulham-sign-gonzalo-garcia-real-madrid",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Real Madrid"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-06T08:50:51.677Z"
+    "cachedAt": "2026-08-06T14:32:24.743Z"
   }
 }
