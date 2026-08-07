@@ -2,17 +2,42 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49547954,
+      "source": "ESPN",
+      "headline": "Will Arsenal's transfers help them retain the Premier League title?",
+      "description": "Will Arsenal's transfers help them retain the Premier League title?",
+      "publishedAt": "2026-08-06T21:51:51Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Will_Arsenals_transfers_help_them_retain_the_Premier_League_title/dm_260806_Will_Arsenals_transfers_help_them_retain_the_Premier_League_title.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49547954/will-arsenal-transfers-help-retain-premier-league-title",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "73e89a10b6f70b081a8cc7aafb620bc7",
+      "source": "Sky Sports",
+      "headline": "Hearts humbled by Benfica as Hibs secure vital win; Motherwell held in Helsinki",
+      "description": "Hearts endured a predictably bruising evening in Lisbon as their hopes of progressing to the Europa League were all but ended by a 6-1 thrashing at the hands of Benfica.",
+      "publishedAt": "2026-08-06T21:45:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jhon-duran-benfica_7315765.jpg?20260806230226",
+      "link": "https://www.skysports.com/football/news/12040/13570541/benfica-thrash-hearts-as-hibernian-beat-shkendija-motherwell-earn-valuable-draw-at-hjk-helsinki",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49543040,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool offered Real Madrid CB amid defensive woes",
-      "description": "Liverpool have been offered a way to fix their woeful defensive depth, while Man United are looking at USMNT's Antonee Robinson. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-06T14:27:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698268_1296x729_16-9.jpg",
+      "headline": "Transfer rumors, news: Man United continue to explore move for Robinson",
+      "description": "Manchester United are reportedly looking at a move for USMNT's Antonee Robinson. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-06T19:38:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698473_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49543040/transfer-rumors-news-liverpool-offered-real-madrid-cb-amid-defensive-woes",
-      "tag": "Liverpool",
+      "tag": "Fulham",
       "teams": [
-        "Liverpool",
-        "Real Madrid"
+        "Fulham",
+        "United States",
+        "Manchester United"
       ]
     },
     {
@@ -20,43 +45,46 @@
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
       "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-06T14:24:19Z",
+      "publishedAt": "2026-08-06T19:08:25Z",
       "image": "https://a.espncdn.com/photo/2026/0604/r1668008_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
     },
     {
-      "id": "b253c64472985387cbea8e579a841186",
+      "id": "6f1cd8798946db968c5910449cad3c63",
       "source": "Sky Sports",
-      "headline": "UEFA boycott of FIFA tournaments still stands as Infantino stays on",
-      "description": "UEFA's boycott of FIFA tournaments still stands, with under-fire FIFA president Gianni Infantino remaining in his position.",
-      "publishedAt": "2026-08-06T14:05:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fifa-uefa-infantino_7310610.png?20260730174215",
-      "link": "https://www.skysports.com/football/news/12040/13570404/gianni-infantino-uefas-boycott-of-fifa-tournaments-still-stands-as-under-pressure-president-remains-in-position",
+      "headline": "The Vinicius Junior dream is over - so what do Arsenal do now?",
+      "description": "No Morgan Rogers, no Vinicius Junior - what do Arsenal do now in their bid to improve their forward line this summer?",
+      "publishedAt": "2026-08-06T19:00:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-vinicius-jr-real-madrid_7307502.jpg?20260727082715",
+      "link": "https://www.skysports.com/football/news/12040/13570357/arsenal-transfer-news-what-do-gunners-do-now-after-vinicius-jr-commits-to-new-real-madrid-contract",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "af3c223ae8c0f43bcaf213a5c9013937",
-      "source": "Sky Sports",
-      "headline": "Real Madrid agree deal for Diomande",
-      "description": "Real Madrid have agreed a deal with RB Leipzig for Yan Diomande.",
-      "publishedAt": "2026-08-06T14:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-diomande-rb-leipzig_7306872.jpg?20260726210321",
-      "link": "https://www.skysports.com/football/news/12040/13567543/yan-diomande-transfer-news-real-madrid-agree-deal-for-ivory-coast-international-with-rb-leipzig",
-      "tag": "News Story",
-      "teams": []
+      "id": 49523086,
+      "source": "ESPN",
+      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
+      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
+      "publishedAt": "2026-08-06T17:48:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
+      "link": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "United States"
+      ]
     },
     {
-      "id": "b732a3287fe88866eaf26cbfc5fff936",
+      "id": "f7687c8e06f4182be854b20bff9456d1",
       "source": "Sky Sports",
-      "headline": "Salah joins Turkish side Trabzonspor",
-      "description": "Mohamed Salah has joined Turkish Super Lig side Trabzonspor on a free transfer.",
-      "publishedAt": "2026-08-06T12:29:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-egypt-new-zealand_7279724.jpg?20260622082125",
-      "link": "https://www.skysports.com/football/news/12040/13570282/mohamed-salah-former-liverpool-forward-joins-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield",
-      "tag": "News Story",
+      "headline": "Walsall shock Bristol City in Carabao Cup curtain raiser",
+      "description": "",
+      "publishedAt": "2026-08-06T13:44:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-aaron-pressley-walsall_7315744.jpg?20260806223635",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -90,6 +118,17 @@
       ]
     },
     {
+      "id": "02de02521dd2bb144c2438ae641ab796",
+      "source": "Sky Sports",
+      "headline": "Leeds latest: Shortlist drawn up for Trafford's understudy",
+      "description": "",
+      "publishedAt": "2026-08-06T10:47:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-leeds-news-club-blog_7039256.jpg?20251002160345",
+      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49543227,
       "source": "ESPN",
       "headline": "'Rock star' Matthias Jaissle the perfect man for 'Newcastle 2.0' - club CEO",
@@ -101,17 +140,6 @@
       "teams": [
         "Newcastle United"
       ]
-    },
-    {
-      "id": "9a9b8b59f91383753690a7124ade3275",
-      "source": "Sky Sports",
-      "headline": "Why Jimenez’s Wolves return means so much to fans",
-      "description": "The most romantic signing of the summer came early. Raul Jimenez is back at Wolves. And for the club's supporters, they are not so much welcoming back a former favourite but revisiting a chapter of their own lives. For a generation, Jimenez is the Wolves No 9.",
-      "publishedAt": "2026-08-06T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-raul-jimenez-wolves_7309163.jpg?20260729103837",
-      "link": "https://www.skysports.com/football/news/12040/13568007/raul-jimenezs-wolves-return-mexican-strikers-comeback-aged-35-has-captured-supporters-imagination-at-molineux",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49537784,
@@ -289,6 +317,17 @@
       ]
     },
     {
+      "id": "59c3de117289b50e82c92c7ad88e8c67",
+      "source": "Sky Sports",
+      "headline": "Vinicius Jr signs Real Madrid extension to end Arsenal interest",
+      "description": "Vinicius Junior has signed a new six-year Real Madrid contract to put an end to Arsenal's pursuit of the forward.",
+      "publishedAt": "2026-08-05T20:15:00.000Z",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-champions-league_7195819.jpg?20260317213419",
+      "link": "https://www.skysports.com/football/news/12040/13570470/vinicius-junior-arsenal-target-signs-real-madrid-contract-extension-to-end-uncertainty-over-future",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49488797,
       "source": "ESPN",
       "headline": "Newcastle name Matthias Jaissle head coach, replacing Eddie Howe",
@@ -314,20 +353,6 @@
       "teams": [
         "Chelsea",
         "Ukraine"
-      ]
-    },
-    {
-      "id": 49523086,
-      "source": "ESPN",
-      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
-      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
-      "publishedAt": "2026-08-05T14:18:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png",
-      "link": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "United States"
       ]
     },
     {
@@ -509,25 +534,11 @@
         "Brazil",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 49523768,
-      "source": "ESPN",
-      "headline": "Bernardo Silva 'didn't think twice' about joining Real Madrid",
-      "description": "Bernardo Silva said he \"didn't think twice\" about joining Real Madrid after completing his first training session with the club on Monday.",
-      "publishedAt": "2026-08-03T21:40:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697263_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49523768/bernardo-silva-think-twice-joining-real-madrid",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-06T14:32:24.743Z"
+    "cachedAt": "2026-08-07T00:13:26.063Z"
   }
 }
