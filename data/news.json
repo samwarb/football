@@ -2,6 +2,103 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49536934,
+      "source": "ESPN",
+      "headline": "Which big clubs are struggling with World Cup burnout?",
+      "description": "The World Cup was a great spectacle, but it was also hard work for the players, and as many of the game's stars return to their clubs to prepare for the 2026-27, which clubs are battling burnout the most?",
+      "publishedAt": "2026-08-07T07:22:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Tottenham Hotspur",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Real Madrid",
+        "Barcelona",
+        "Bayern Munich",
+        "Paris Saint-Germain",
+        "Atlético Madrid",
+        "Borussia Dortmund"
+      ]
+    },
+    {
+      "id": 49538943,
+      "source": "ESPN",
+      "headline": "Rashford's return to Man United brings a lot of questions",
+      "description": "Marcus Rashford's future at Manchester United is at a crossroads, with Barcelona declining to execute a permanent transfer. Is there a place for him in Michael Carrick's plans this season?",
+      "publishedAt": "2026-08-07T07:11:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698704_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49538943/marcus-rashford-return-manchester-united-brings-lot-questions",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-07T07:11:02Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-07T07:07:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693086_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
       "id": 49547954,
       "source": "ESPN",
       "headline": "Will Arsenal's transfers help them retain the Premier League title?",
@@ -49,17 +146,6 @@
       "image": "https://a.espncdn.com/photo/2026/0604/r1668008_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "6f1cd8798946db968c5910449cad3c63",
-      "source": "Sky Sports",
-      "headline": "The Vinicius Junior dream is over - so what do Arsenal do now?",
-      "description": "No Morgan Rogers, no Vinicius Junior - what do Arsenal do now in their bid to improve their forward line this summer?",
-      "publishedAt": "2026-08-06T19:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-vinicius-jr-real-madrid_7307502.jpg?20260727082715",
-      "link": "https://www.skysports.com/football/news/12040/13570357/arsenal-transfer-news-what-do-gunners-do-now-after-vinicius-jr-commits-to-new-real-madrid-contract",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -118,17 +204,6 @@
       ]
     },
     {
-      "id": "02de02521dd2bb144c2438ae641ab796",
-      "source": "Sky Sports",
-      "headline": "Leeds latest: Shortlist drawn up for Trafford's understudy",
-      "description": "",
-      "publishedAt": "2026-08-06T10:47:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-leeds-news-club-blog_7039256.jpg?20251002160345",
-      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49543227,
       "source": "ESPN",
       "headline": "'Rock star' Matthias Jaissle the perfect man for 'Newcastle 2.0' - club CEO",
@@ -185,66 +260,6 @@
         "Sunderland",
         "Tottenham Hotspur",
         "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-06T07:01:24Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-06T06:59:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -315,17 +330,6 @@
         "Real Betis",
         "Arsenal"
       ]
-    },
-    {
-      "id": "59c3de117289b50e82c92c7ad88e8c67",
-      "source": "Sky Sports",
-      "headline": "Vinicius Jr signs Real Madrid extension to end Arsenal interest",
-      "description": "Vinicius Junior has signed a new six-year Real Madrid contract to put an end to Arsenal's pursuit of the forward.",
-      "publishedAt": "2026-08-05T20:15:00.000Z",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-champions-league_7195819.jpg?20260317213419",
-      "link": "https://www.skysports.com/football/news/12040/13570470/vinicius-junior-arsenal-target-signs-real-madrid-contract-extension-to-end-uncertainty-over-future",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49488797,
@@ -478,19 +482,6 @@
       ]
     },
     {
-      "id": 49521178,
-      "source": "ESPN",
-      "headline": "Liverpool's preseason: Injuries, squad depth a concern for Iraola & Co.",
-      "description": "Liverpool's time in the U.S. showed that coach Iraola & Co. still have a lot of work to do ahead of the 2026-27 campaign. Here's what we learned from their U.S. preseason trip.",
-      "publishedAt": "2026-08-04T13:19:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697188_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49521178/liverpool-preseason-leeds-united-wrexham-sunderland-andoni-iraola-beth-lindop",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": 49524791,
       "source": "ESPN",
       "headline": "Why 'winning the summer transfer window' doesn't help Premier League clubs",
@@ -519,26 +510,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/49527911/world-cup-referee-anthony-taylor-lands-new-role-turkey",
       "tag": "HeadlineNews",
       "teams": []
-    },
-    {
-      "id": 49524588,
-      "source": "ESPN",
-      "headline": "Would Real Madrid miss Vinícius Jr. if he joined Arsenal?",
-      "description": "Would Real Madrid miss Vinícius Jr. if he joined Arsenal?",
-      "publishedAt": "2026-08-03T23:03:03Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Would_Real_Madrid_miss_1142/dm_260803_COM_SOC_Analysis_Would_Real_Madrid_miss_1142.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49524588/would-real-madrid-miss-vinicius-jr-joined-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Brazil",
-        "Real Madrid"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-07T03:13:56.884Z"
+    "cachedAt": "2026-08-07T07:38:42.159Z"
   }
 }
