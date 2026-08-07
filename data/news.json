@@ -2,6 +2,132 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "d8d425a07e3de655a89868eac9fe3aa1",
+      "source": "Sky Sports",
+      "headline": "Man City reject Barcelona offer for Rodri",
+      "description": "Manchester City have knocked back an initial offer from Barcelona for Rodri that is considered far too low.",
+      "publishedAt": "2026-08-07T12:45:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rodri-real-madrid_7315553.png?20260806172243",
+      "link": "https://www.skysports.com/football/news/12040/13570585/rodri-transfer-news-man-city-reject-initial-barcelona-off-for-spain-midfielder-with-bid-considered-far-too-low",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49551148,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City eye Enzo Fernández as Rodri replacement",
+      "description": "Chelsea midfielder Enzo Fernández has emerged as a main candidate to replace Rodri at Manchester City. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-07T12:10:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0523/r1662564_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49551148/transfer-rumors-news-man-city-eye-enzo-fernandez-rodri-replacement",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49552275,
+      "source": "ESPN",
+      "headline": "Kompany: The Premier League is better than the Bundesliga",
+      "description": "Kompany: The Premier League is better than the Bundesliga",
+      "publishedAt": "2026-08-07T11:41:41Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/dm_260807_COM_SOC_Analysis_Kompany3A_The_Premier_League_is_better_than_the_Bundesliga_GLOBAL_2026-08-07/dm_260807_COM_SOC_Analysis_Kompany3A_The_Premier_League_is_better_than_the_Bundesliga_GLOBAL_2026-08-07.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49552275/premier-league-better-bundesliga",
+      "tag": "Media",
+      "teams": []
+    },
+    {
+      "id": "4bcf4fda3063c7020266a4d617d868c2",
+      "source": "Sky Sports",
+      "headline": "Gallagher ready to show what he can do under De Zerbi at Spurs",
+      "description": "Timing in sport often defines a career and for Conor Gallagher and Tottenham, it probably could not have been worse.",
+      "publishedAt": "2026-08-07T11:20:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-spurs-midfielder_7316029.jpg?20260807123348",
+      "link": "https://www.skysports.com/football/news/12040/13570633/conor-gallagher-exclusive-spurs-midfielder-ready-to-show-what-he-can-do-under-roberto-de-zerbi-this-season",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "23e9a9408fc95004fe6e6a90b4184128",
+      "source": "Sky Sports",
+      "headline": "Kim header gives Bayern Munich the lead vs Aston Villa LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-07T11:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bayern-munich-min-jae-kim_7316090.jpg?20260807142808",
+      "link": "https://www.skysports.com/football/live-blog/12040/13570609/bayern-munich-vs-aston-villa-live-pre-season-friendly-commentary-updates-scores-and-team-news",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49551924,
+      "source": "ESPN",
+      "headline": "Sian Massey-Ellis to retire from Premier League officiating for new FA role",
+      "description": "Assistant referee Sian Massey-Ellis is to retire from officiating after a career which she says was \"beyond anything I could ever have imagined.\"",
+      "publishedAt": "2026-08-07T10:48:47Z",
+      "image": "https://a.espncdn.com/photo/2022/0601/r1020035_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49551924/sian-massey-ellis-retire-premier-league-officiating-new-fa-role",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": "a70573a078a42be9dc21592636c85dff",
+      "source": "Sky Sports",
+      "headline": "Massey-Ellis retires from officiating to take up new role with FA",
+      "description": "Assistant referee Sian Massey-Ellis has retired from officiating and will take up a new role with the Football Association.",
+      "publishedAt": "2026-08-07T10:05:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-sian-massey-ellis_7315970.jpg?20260807110103",
+      "link": "https://www.skysports.com/football/news/12040/13570628/sian-massey-ellis",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49551552,
+      "source": "ESPN",
+      "headline": "Mohamed Salah at Trabzonspor is 'a level too low' - Jamie Carragher",
+      "description": "Jamie Carragher has said playing for Trabzonspor in Türkiye \"feels a level too low\" for Mohamed Salah.",
+      "publishedAt": "2026-08-07T09:49:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698718_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49551552/mohamed-salah-trabzonspor-level-too-low-jamie-carragher",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-07T07:42:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693086_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
       "id": 49536934,
       "source": "ESPN",
       "headline": "Which big clubs are struggling with World Cup burnout?",
@@ -67,38 +193,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-07T07:07:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693086_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 49547954,
       "source": "ESPN",
       "headline": "Will Arsenal's transfers help them retain the Premier League title?",
@@ -110,17 +204,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "73e89a10b6f70b081a8cc7aafb620bc7",
-      "source": "Sky Sports",
-      "headline": "Hearts humbled by Benfica as Hibs secure vital win; Motherwell held in Helsinki",
-      "description": "Hearts endured a predictably bruising evening in Lisbon as their hopes of progressing to the Europa League were all but ended by a 6-1 thrashing at the hands of Benfica.",
-      "publishedAt": "2026-08-06T21:45:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jhon-duran-benfica_7315765.jpg?20260806230226",
-      "link": "https://www.skysports.com/football/news/12040/13570541/benfica-thrash-hearts-as-hibernian-beat-shkendija-motherwell-earn-valuable-draw-at-hjk-helsinki",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49543040,
@@ -161,17 +244,6 @@
         "Manchester City",
         "United States"
       ]
-    },
-    {
-      "id": "f7687c8e06f4182be854b20bff9456d1",
-      "source": "Sky Sports",
-      "headline": "Walsall shock Bristol City in Carabao Cup curtain raiser",
-      "description": "",
-      "publishedAt": "2026-08-06T13:44:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-aaron-pressley-walsall_7315744.jpg?20260806223635",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -452,69 +524,11 @@
         "Crystal Palace",
         "Real Salt Lake"
       ]
-    },
-    {
-      "id": 49526703,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona eye move for Man City's Rodri",
-      "description": "Barcelona are reportedly looking to sign Manchester City's Rodri ahead of Real Madrid. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-04T20:41:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697645_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49526703/transfer-rumors-news-fenerbahce-eye-man-united-winger-marcus-rashford",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Real Madrid",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 49528494,
-      "source": "ESPN",
-      "headline": "Mykhailo Mudryk could make return to Chelsea squad on Wednesday 20 months after last appearance",
-      "description": "Mykhailo Mudryk could step onto a football field for the first time in 20 months on Wednesday according to Chelsea manager Xabi Alonso.",
-      "publishedAt": "2026-08-04T14:40:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697495_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49528494/mykhailo-mudryk-make-return-chelsea-squad-wednesday-20-months-last-appearance",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49524791,
-      "source": "ESPN",
-      "headline": "Why 'winning the summer transfer window' doesn't help Premier League clubs",
-      "description": "Clubs spend millions of dollars in the summer transfer window, trying to scoop up all the biggest stars. But is it actually worth it?",
-      "publishedAt": "2026-08-04T12:41:01Z",
-      "image": "https://a.espncdn.com/photo/2025/1126/r1581240_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49524791/why-winning-transfer-window-help-premier-league-clubs",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester United",
-        "Arsenal",
-        "Chelsea",
-        "Real Madrid",
-        "Manchester City",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 49527911,
-      "source": "ESPN",
-      "headline": "World Cup referee Anthony Taylor lands new role in Turkey",
-      "description": "English World Cup referee Anthony Taylor has taken up a post as director of elite refereeing with the Turkish Football Federation.",
-      "publishedAt": "2026-08-04T11:58:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692095_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49527911/world-cup-referee-anthony-taylor-lands-new-role-turkey",
-      "tag": "HeadlineNews",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-07T07:38:42.159Z"
+    "cachedAt": "2026-08-07T13:35:54.539Z"
   }
 }
