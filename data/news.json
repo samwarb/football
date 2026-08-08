@@ -2,6 +2,98 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49556442,
+      "source": "ESPN",
+      "headline": "Sources: Liverpool set to sign Barcelona's Ronald Araújo on loan",
+      "description": "Liverpool are set to sign defender Ronald Araújo on a seasonlong loan deal from Barcelona, sources told ESPN.",
+      "publishedAt": "2026-08-07T23:57:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698956_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49556442/liverpool-barcelona-transfer-ronald-araujo-loan",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Barcelona",
+        "Uruguay"
+      ]
+    },
+    {
+      "id": 49552275,
+      "source": "ESPN",
+      "headline": "Kompany: The Premier League is better than the Bundesliga",
+      "description": "Kompany: The Premier League is better than the Bundesliga",
+      "publishedAt": "2026-08-07T23:23:11Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/dm_260807_COM_SOC_Analysis_Kompany3A_The_Premier_League_is_better_than_the_Bundesliga_GLOBAL_2026-08-07/dm_260807_COM_SOC_Analysis_Kompany3A_The_Premier_League_is_better_than_the_Bundesliga_GLOBAL_2026-08-07.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49552275/premier-league-better-bundesliga",
+      "tag": "Media",
+      "teams": []
+    },
+    {
+      "id": "d7c7d76915b2a45e5ddcf4cc359cd997",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal could hijack Liverpool's move for Barcola",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-08-07T22:30:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-paper-talk-sky-sports-news_7311195.png?20260731134338",
+      "link": "https://www.skysports.com/football/news/12040/13570879/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "aaa196a21118b49fa387df20da993a94",
+      "source": "Sky Sports",
+      "headline": "Araujo set for surprise Liverpool loan move",
+      "description": "Liverpool have agreed a surprise deal for Barcelona defender Ronald Araujo to join on loan for the season.",
+      "publishedAt": "2026-08-07T21:51:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ronald-araujo-barcelona_7316498.jpg?20260807230449",
+      "link": "https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "cc6b99f16471a328454e579698b08356",
+      "source": "Sky Sports",
+      "headline": "UEFA aware of allegation it paid off Infantino's 'mistress' while he worked for them",
+      "description": "UEFA has confirmed it is aware of an allegation that European football's governing body paid off an alleged mistress of Gianni Infantino.",
+      "publishedAt": "2026-08-07T21:16:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-gianni-infantino_7316467.jpg?20260807222346",
+      "link": "https://www.skysports.com/football/news/12040/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "d44e8ff3caae14d2152f89336a8beb0c",
+      "source": "Sky Sports",
+      "headline": "Debut Lankshear goal sees Boro past Wrexham as Wolves & Stevenage progress",
+      "description": "Will Lankshear's debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round.",
+      "publishedAt": "2026-08-07T21:05:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-will-lankshear-middlesbrough_7316474.jpg?20260807222608",
+      "link": "https://www.skysports.com/football/news/12040/13570859/carabao-cup-will-lankshear-strike-sees-middlesbrough-past-wrexham-as-wolves-beat-port-vale-and-stevenage-edge-wycombe",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "da57c272461d9782ea9473788b64848c",
+      "source": "Sky Sports",
+      "headline": "Late winner sees Leeds edge Wakefield",
+      "description": "Highlights of Wakefield Trinity against Leeds Rhinos from the Super League.",
+      "publishedAt": "2026-08-07T21:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugbyleague-superleague_7316464.jpg?20260807221227",
+      "link": "https://www.skysports.com/watch/video/13570851/wakefield-trinity-22-24-leeds-rhinos-super-league-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 49555196,
+      "source": "ESPN",
+      "headline": "FA bans pitchside walls after death of Billy Vigar",
+      "description": "Clubs in the National League System must remove brick or concrete walls around pitches or use padding to cover them following a safety review prompted by the death of Chichester City forward Billy Vigar.",
+      "publishedAt": "2026-08-07T19:33:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698880_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49555196/fa-bans-pitchside-walls-death-billy-vigar",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
       "id": 49551148,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, Man United eye Shakhtar's Elias",
@@ -25,17 +117,6 @@
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-club-rumours_7242342.jpg?20260508093716",
       "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "d6841cc48cf2775509e30c3261fac6e2",
-      "source": "Sky Sports",
-      "headline": "Liverpool Barcola deal difficult to complete after talks with PSG",
-      "description": "Liverpool have held preliminary talks with Paris Saint-Germain over the possibility of signing Bradley Barcola.",
-      "publishedAt": "2026-08-07T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-psg-bradley-barcola_7316242.jpg?20260807181125",
-      "link": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -69,28 +150,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "3e5cb40c0a60991bd82d99557f390be4",
-      "source": "Sky Sports",
-      "headline": "Carabao Cup LIVE! Boro host Wrexham while Wolves lead Port Vale",
-      "description": "",
-      "publishedAt": "2026-08-07T12:28:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-efl-football-carabao-cup_7314236.jpg?20260805075837",
-      "link": "https://www.skysports.com/football/middlesbrough-vs-wrexham/live/562176",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49552275,
-      "source": "ESPN",
-      "headline": "Kompany: The Premier League is better than the Bundesliga",
-      "description": "Kompany: The Premier League is better than the Bundesliga",
-      "publishedAt": "2026-08-07T11:41:41Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/dm_260807_COM_SOC_Analysis_Kompany3A_The_Premier_League_is_better_than_the_Bundesliga_GLOBAL_2026-08-07/dm_260807_COM_SOC_Analysis_Kompany3A_The_Premier_League_is_better_than_the_Bundesliga_GLOBAL_2026-08-07.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49552275/premier-league-better-bundesliga",
-      "tag": "Media",
-      "teams": []
     },
     {
       "id": 49551924,
@@ -497,39 +556,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 49532201,
-      "source": "ESPN",
-      "headline": "Moreno: Real Madrid are prioritising Mbappé over Vinícius Jr.",
-      "description": "Moreno: Real Madrid are prioritising Mbappé over Vinícius Jr.",
-      "publishedAt": "2026-08-04T22:32:48Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0804/dm_260804_COM_SOC_Analysis_Moreno3A_Real_Madrid_are_prioritising_MbappC3A9_over_VinC3ADcius_Jr_GLOBAL_2026-08-04/dm_260804_COM_SOC_Analysis_Moreno3A_Real_Madrid_are_prioritising_MbappC3A9_over_VinC3ADcius_Jr_GLOBAL_2026-08-04.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49532201/real-madrid-prioritising-mbappe-vinicius-jr",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49531779,
-      "source": "ESPN",
-      "headline": "Source: Zavier Gozo close to Palace move from Salt Lake",
-      "description": "Premier League side Crystal Palace are in advanced talks to sign Real Salt Lake's 19-year-old wing-back Zavier Gozo, a source confirmed to ESPN.",
-      "publishedAt": "2026-08-04T21:53:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697690_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49531779/zavier-gozo-close-palace-move-salt-lake",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Real Salt Lake"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-07T19:12:34.710Z"
+    "cachedAt": "2026-08-08T02:19:04.221Z"
   }
 }
