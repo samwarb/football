@@ -2,11 +2,141 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "684b60218e6598168fe27b49e0d12d10",
+      "source": "Sky Sports",
+      "headline": "Hornicek and Bamba handed debuts by Jaissle as Newcastle face Valencia LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-08T18:01:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-matthias-jaissle_7310038.jpg?20260730094143",
+      "link": "https://www.skysports.com/football/live-blog/12040/13571193/valencia-vs-newcastle-live-pre-season-fixture-score-live-updates-and-team-news",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49561483,
+      "source": "ESPN",
+      "headline": "Conor Gallagher equaliser against Getafe keeps Tottenham unbeaten in preseason",
+      "description": "Conor Gallagher scored Tottenham's equaliser in a 1-1 draw against Getafe in preseason on Saturday.",
+      "publishedAt": "2026-08-08T17:24:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699138_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49561483/conor-gallagher-equaliser-getafe-keeps-tottenham-unbeaten-preseason",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Getafe"
+      ]
+    },
+    {
+      "id": 49560861,
+      "source": "ESPN",
+      "headline": "Moisés Caicedo volley helps Chelsea past Milan in preseason",
+      "description": "Moisés Caicedo's brilliant volley helped Chelsea beat AC Milan 3-0 in a preseason friendly on Saturday.",
+      "publishedAt": "2026-08-08T17:22:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699101_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49560861/moises-caicedo-volley-helps-chelsea-milan-preseason",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "AC Milan"
+      ]
+    },
+    {
+      "id": "4505e8a5ae8b9607e4fe2faf5d5ee513",
+      "source": "Sky Sports",
+      "headline": "Mbeumo scores in encouraging Man Utd draw with PSG but Mount injured",
+      "description": "Bryan Mbeumo earned Man Utd a 1-1 draw with Paris St-Germain in Gothenburg but Mason Mount's injury was a cause for concern.",
+      "publishedAt": "2026-08-08T17:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-mbeumo-united-manchester_7316888.jpg?20260808164039",
+      "link": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49559004,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
+      "description": "Inter Milan striker Pio Esposito is wanted by Premier League giants Arsenal and Manchester United. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-08T16:05:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699047_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49559004/transfer-rumors-news-arsenal-manchester-united-inter-milan-pio-esposito",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester United",
+        "Internazionale"
+      ]
+    },
+    {
+      "id": "b7931c2baf6b8c8390b6ce8f480cc056",
+      "source": "Sky Sports",
+      "headline": "Burnley edge win on penalties, West Ham through in Carabao Cup first round",
+      "description": "Kyle Walker struck the winning penalty as Burnley edged out Notts County 4-3 in a shoot-out to reach the Carabao Cup second round after a 1-1 draw at Turf Moor.",
+      "publishedAt": "2026-08-08T16:05:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-burnley-kyle-walker_7317041.jpg?20260808182011",
+      "link": "https://www.skysports.com/football/news/12040/13570969/carabao-cup-burnley-edge-win-on-penalties-west-ham-norwich-watford-through",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49561003,
+      "source": "ESPN",
+      "headline": "Onuoha: Rodri deserves to leave Man City for Barcelona",
+      "description": "Onuoha: Rodri deserves to leave Man City for Barcelona",
+      "publishedAt": "2026-08-08T15:04:56Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0808/dm_260808_COM_SOC_Analysis_Onuoha3A_Rodri_deserves_to_leave_Man_City_for_Barcelona_GLOBAL_2026-08-08/dm_260808_COM_SOC_Analysis_Onuoha3A_Rodri_deserves_to_leave_Man_City_for_Barcelona_GLOBAL_2026-08-08.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49561003/rodri-deserves-leave-man-city-barcelona",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Manchester City",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49511174,
+      "source": "ESPN",
+      "headline": "Arsenal sign Bruno Guimarães from Newcastle",
+      "description": "Bruno Guimarães has joined Arsenal from Newcastle United, the club has confirmed.",
+      "publishedAt": "2026-08-08T14:19:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699061_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49511174/arsenal-sign-bruno-guimaraes-newcastle",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-08T13:55:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699095_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49543427,
+      "source": "ESPN",
+      "headline": "How will Bruno Guimarães fit in Arsenal's midfield?",
+      "description": "Arsenal have spent £75 million to sign 28-year-old Bruno Guimarães from Newcastle United, but how will he fit in an already stacked midfield?",
+      "publishedAt": "2026-08-08T13:43:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699093_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49543427/how-bruno-guimaraes-fit-arsenals-midfield",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Newcastle United"
+      ]
+    },
+    {
       "id": 49560010,
       "source": "ESPN",
       "headline": "Barcelona's 'triangular' match? Unusual preseason fixture explained",
       "description": "Barcelona's preseason run-out on Saturday pits them against both Nottingham Forest and Udinese over a total of 90 minutes. How does that work?",
-      "publishedAt": "2026-08-08T12:59:31Z",
+      "publishedAt": "2026-08-08T13:22:41Z",
       "image": "https://a.espncdn.com/photo/2026/0808/r1699079_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49560010/barcelona-playing-triangular-match-vs-udinese-nottingham-forest-unusual-preseason-fixture-explained",
       "tag": "Barcelona",
@@ -14,6 +144,19 @@
         "Barcelona",
         "Nottingham Forest",
         "Udinese"
+      ]
+    },
+    {
+      "id": 49560391,
+      "source": "ESPN",
+      "headline": "Bruno Guimarães joined Arsenal after 'differences in ideas' with Newcastle",
+      "description": "Bruno Guimarães said he had \"differences in ideas\" with Newcastle United which led him to join Arsenal.",
+      "publishedAt": "2026-08-08T13:20:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699087_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49560391/bruno-guimaraes-joined-arsenal-due-differences-ideas-newcastle",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
       ]
     },
     {
@@ -77,42 +220,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "7b9c7ea6906bb204b5c215129f8e1eda",
-      "source": "Sky Sports",
-      "headline": "QPR host Millwall with ALL Carabao Cup first-round games on Sky LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-08T12:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-football-efl-carabao-cup_7314233.jpg?20260805075727",
-      "link": "https://www.skysports.com/football/live-blog/12040/13570685/carabao-cup-first-round-live-scores-match-updates-and-free-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49511174,
-      "source": "ESPN",
-      "headline": "Arsenal sign Bruno Guimarães from Newcastle",
-      "description": "Bruno Guimarães has joined Arsenal from Newcastle United, the club has confirmed.",
-      "publishedAt": "2026-08-08T12:21:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699061_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49511174/arsenal-sign-bruno-guimaraes-newcastle",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "84b27df038360ab65789e1b76976cdba",
-      "source": "Sky Sports",
-      "headline": "Guimaraes reveals hilarious Rice and Gabriel messages!",
-      "description": "Bruno Guimaraes reveals hilarious Declan Rice and Gabriel messages before signing for Arsenal. Credit: Arsenal.",
-      "publishedAt": "2026-08-08T12:21:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bruno-arsenal_7316665.jpg?20260808132414",
-      "link": "https://www.skysports.com/watch/video/13570945/bruno-guimaraes-reveals-hilarious-declan-rice-and-gabriel-messages-no-fights-now-were-friends",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 49154575,
@@ -189,57 +296,6 @@
       ]
     },
     {
-      "id": 49559004,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
-      "description": "Inter Milan striker Pio Esposito is wanted by Premier League giants Arsenal and Manchester United. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-08T11:09:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699047_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49559004/transfer-rumors-news-arsenal-manchester-united-inter-milan-pio-esposito",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester United",
-        "Internazionale"
-      ]
-    },
-    {
-      "id": 49543427,
-      "source": "ESPN",
-      "headline": "How will Bruno Guimarães fit in Arsenal's midfield?",
-      "description": "Arsenal have spent £75 million to sign 28-year-old Bruno Guimarães from Newcastle United, but how will he fit in an already stacked midfield?",
-      "publishedAt": "2026-08-08T11:06:44Z",
-      "image": "https://a.espncdn.com/photo/2025/1025/r1565676_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49543427/how-bruno-guimaraes-fit-arsenals-midfield",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": "55eff109c16870c0ef17a61a030523f3",
-      "source": "Sky Sports",
-      "headline": "Where does Guimaraes fit in at Arsenal?",
-      "description": "It is easy to understand why Arsenal have signed Bruno Guimaraes. The now ex-Newcastle captain is one of the Premier League's most complete midfielders, capable of dominating and destroying but also scoring and creating, with passing ability to match his physicality.",
-      "publishedAt": "2026-08-08T11:01:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bruno-guimaraes-premier-league_7316644.jpg?20260808123955",
-      "link": "https://www.skysports.com/football/news/12040/13569644/bruno-guimaraes-to-arsenal-how-does-ex-newcastle-captain-fit-in-and-what-does-it-mean-for-martin-zubimendi-martin-odegaard-myles-lewis-skelly",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e633854421938e5e866890f272f78100",
-      "source": "Sky Sports",
-      "headline": "'I'm your warrior' - Guimaraes moves to Arsenal from Newcastle for £75m",
-      "description": "Arsenal have signed midfielder Bruno Guimaraes from Newcastle in a £75m transfer.",
-      "publishedAt": "2026-08-08T11:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7316625.jpg?20260808121633",
-      "link": "https://www.skysports.com/football/news/12040/13570096/bruno-guimaraes-arsenal-sign-midfielder-in-75m-transfer-as-newcastle-surpass-240m-in-player-sales-this-summer",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
@@ -270,6 +326,17 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": "2ec21d75d198cad649afef5afe448113",
+      "source": "Sky Sports",
+      "headline": "Sullivan attends West Ham game despite being advised not to",
+      "description": "David Sullivan attended West Ham's Carabao Cup match against Portsmouth at the London Stadium on Saturday, despite him being advised to stay away from home matches.",
+      "publishedAt": "2026-08-08T07:28:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-david-sullivan-west_7316870.jpg?20260808162549",
+      "link": "https://www.skysports.com/football/news/12040/13570905/west-ham-david-sullivan-attends-carabao-cup-first-round-tie-with-portsmouth-despite-being-advised-not-to",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49552275,
@@ -307,17 +374,6 @@
         "Arsenal",
         "Manchester United"
       ]
-    },
-    {
-      "id": "34b5f02f57b44f21367c87dd0e510a20",
-      "source": "Sky Sports",
-      "headline": "Joao Pedro heads Chelsea in front vs Milan LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-07T16:42:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-chelsea-ac-milan_7316675.jpg?20260808134841",
-      "link": "https://www.skysports.com/football/live-blog/12040/13570761/chelsea-vs-ac-milan-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog-from-jakarta",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49551924,
@@ -410,17 +466,6 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-06T19:08:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0604/r1668008_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49543227,
       "source": "ESPN",
       "headline": "'Rock star' Matthias Jaissle the perfect man for 'Newcastle 2.0' - club CEO",
@@ -445,20 +490,6 @@
       "teams": [
         "Liverpool",
         "Trabzonspor"
-      ]
-    },
-    {
-      "id": 49534606,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye move for PSG's Mbaye",
-      "description": "Liverpool are reportedly looking to strengthen their attack by signing Paris Saint-Germain winger Ibrahim Mbaye. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-06T01:16:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698064_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49534606/transfer-rumors-news-spurs-eye-usmnt-star-balogun-alongside-osimhen-jackson",
-      "tag": "Paris Saint-Germain",
-      "teams": [
-        "Paris Saint-Germain",
-        "Liverpool"
       ]
     },
     {
@@ -501,64 +532,11 @@
         "Everton",
         "Denmark"
       ]
-    },
-    {
-      "id": 49540284,
-      "source": "ESPN",
-      "headline": "Arsenal suffer disappointing defeat to Real Betis in preseason friendly",
-      "description": "Arsenal were soundly beaten 3-1 by Real Betis in their preseason friendly in Dublin.",
-      "publishedAt": "2026-08-05T21:33:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698111_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49540284/arsenal-suffer-disappointing-defeat-real-betis-pre-season-friendly",
-      "tag": "Real Betis",
-      "teams": [
-        "Real Betis",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49488797,
-      "source": "ESPN",
-      "headline": "Newcastle name Matthias Jaissle head coach, replacing Eddie Howe",
-      "description": "Newcastle United have confirmed the appointment of Matthias Jaissle as the club's new head coach following the departure of Eddie Howe.",
-      "publishedAt": "2026-08-05T18:35:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695580_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49488797/matthias-jaissle-new-newcastle-united-head-coach-eddie-howe",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Al Ahli"
-      ]
-    },
-    {
-      "id": 49535386,
-      "source": "ESPN",
-      "headline": "Mykhailo Mudryk makes 'emotional' Chelsea return after doping ban",
-      "description": "Mykhailo Mudryk made his first appearance for Chelsea following a 20-month doping ban in the club's 1-0 preseason friendly defeat to Juventus on Wednesday.",
-      "publishedAt": "2026-08-05T17:57:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697940_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49535386/mykhailo-mudryk-plays-chelsea-20-month-doping-ban",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Ukraine"
-      ]
-    },
-    {
-      "id": "4934624da7b2263147c7b3098ae1f740",
-      "source": "Sky Sports",
-      "headline": "Bruno Guimaraes' FIERY clashes against Rice and Arsenal!",
-      "description": "A look back at when Arsenal target Bruno Guimaraes took on the Gunners in a fiery clash at St James' Park in 2023.",
-      "publishedAt": "2026-07-09T13:25:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-bruno-guimaraes_7293761.jpg?20260709144109",
-      "link": "https://www.skysports.com/watch/video/13561965/bruno-guimaraes-when-arsenal-target-took-on-gunners-in-fiery-clash",
-      "tag": "Video",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-08T13:09:43.113Z"
+    "cachedAt": "2026-08-08T18:56:19.308Z"
   }
 }
