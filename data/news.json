@@ -50,17 +50,6 @@
       "teams": []
     },
     {
-      "id": "cc6b99f16471a328454e579698b08356",
-      "source": "Sky Sports",
-      "headline": "UEFA aware of allegation it paid off Infantino's 'mistress' while he worked for them",
-      "description": "UEFA has confirmed it is aware of an allegation that European football's governing body paid off an alleged mistress of Gianni Infantino.",
-      "publishedAt": "2026-08-07T21:16:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-gianni-infantino_7316467.jpg?20260807222346",
-      "link": "https://www.skysports.com/football/news/12040/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": "d44e8ff3caae14d2152f89336a8beb0c",
       "source": "Sky Sports",
       "headline": "Debut Lankshear goal sees Boro past Wrexham as Wolves & Stevenage progress",
@@ -107,17 +96,6 @@
         "Arsenal",
         "Manchester United"
       ]
-    },
-    {
-      "id": "6ee3a0c88b4887273abdd18007f5bf90",
-      "source": "Sky Sports",
-      "headline": "Coventry latest: Ghana midfielder Yirenkyi joins in £26m deal",
-      "description": "",
-      "publishedAt": "2026-08-07T17:41:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-club-rumours_7242342.jpg?20260508093716",
-      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 48955344,
@@ -323,17 +301,6 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "598bd38f0ddeedf1c68e0f0af851dc65",
-      "source": "Sky Sports",
-      "headline": "West Ham latest: Sullivan likely to attend games despite advice",
-      "description": "",
-      "publishedAt": "2026-08-06T10:00:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49543227,
@@ -561,6 +528,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-08T02:19:04.221Z"
+    "cachedAt": "2026-08-08T07:11:42.795Z"
   }
 }
