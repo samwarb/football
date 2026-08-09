@@ -2,15 +2,107 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "684b60218e6598168fe27b49e0d12d10",
+      "id": "9782febc4c6ec281b97bb47642a92aa3",
       "source": "Sky Sports",
-      "headline": "Hornicek and Bamba handed debuts by Jaissle as Newcastle face Valencia LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-08T18:01:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-matthias-jaissle_7310038.jpg?20260730094143",
-      "link": "https://www.skysports.com/football/live-blog/12040/13571193/valencia-vs-newcastle-live-pre-season-fixture-score-live-updates-and-team-news",
-      "tag": "Liveblog",
+      "headline": "Wolves overwhelm Bradford in emphatic away victory",
+      "description": "Highlights of the Super League clash between Bradford Bulls and Warrington Wolves as Matty Ashton scored twice in a dominant 42-4 victory for the visitors.",
+      "publishedAt": "2026-08-08T23:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-wolves-bradford_7317178.jpg?20260808210836",
+      "link": "https://www.skysports.com/watch/video/13571231/bradford-bulls-4-42-warrington-wolves-super-league-highlights",
+      "tag": "Video",
       "teams": []
+    },
+    {
+      "id": 49563606,
+      "source": "ESPN",
+      "headline": "Does Bruno Guimarães improve Arsenal?",
+      "description": "Does Bruno Guimarães improve Arsenal?",
+      "publishedAt": "2026-08-08T22:20:57Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0808/dm_260808_COM_SOC_Analysis_Does_Bruno_GuimarC3A3es_improve_Arsenal3F_GLOBAL_2026-08-08/dm_260808_COM_SOC_Analysis_Does_Bruno_GuimarC3A3es_improve_Arsenal3F_GLOBAL_2026-08-08.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49563606/does-bruno-guimaraes-improve-arsenal",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49563594,
+      "source": "ESPN",
+      "headline": "How will Man United fans react to Rashford's return?",
+      "description": "How will Man United fans react to Rashford's return?",
+      "publishedAt": "2026-08-08T22:20:25Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0808/dm_260808_COM_SOC_Analysis_How_will_Man_United_fans_react_to_RashfordE28099s_return3F__GLOBAL_2026-08-08/dm_260808_COM_SOC_Analysis_How_will_Man_United_fans_react_to_RashfordE28099s_return3F__GLOBAL_2026-08-08.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49563594/how-man-united-fans-react-rashford-return",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49563588,
+      "source": "ESPN",
+      "headline": "Nicol: Araújo is a desperate signing from Liverpool",
+      "description": "Nicol: Araújo is a desperate signing from Liverpool",
+      "publishedAt": "2026-08-08T22:18:57Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0808/dm_260808_COM_SOC_Analysis_Nicol3A_AraC3BAjo_is_a_desperate_signing_from_Liverpool_GLOBAL_2026-08-08/dm_260808_COM_SOC_Analysis_Nicol3A_AraC3BAjo_is_a_desperate_signing_from_Liverpool_GLOBAL_2026-08-08.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49563588/araujo-desperate-signing-liverpool",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "cb2fbbbd5f11a445e8326266371f6d91",
+      "source": "Sky Sports",
+      "headline": "Papers: Romero open to joining Arsenal but Spurs resist",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-08-08T22:15:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-paper-talk-sky-sports-news_7311195.png?20260731134338",
+      "link": "https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49563413,
+      "source": "ESPN",
+      "headline": "Udinese beat Barcelona, Nottingham Forest in triangular preseason tournament",
+      "description": "Udinese beat Spanish champions Barcelona and Premier League side Nottingham Forest on Saturday to win the inaugural Friuli Venezia Giulia Cup.",
+      "publishedAt": "2026-08-08T21:59:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699269_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49563413/udinese-beat-barcelona-nottingham-forest-triangular-preseason-tournament",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Udinese",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "a6d61668194f5d51b26802c71dfdbf49",
+      "source": "Sky Sports",
+      "headline": "Wissa double gives Newcastle boss Jaissle winning start at 10-man Valencia",
+      "description": "Substitute Yoane Wissa scored twice to give Matthias Jaissle a winning start as Newcastle boss with a 2-1 comeback pre-season win at 10-man Valencia.",
+      "publishedAt": "2026-08-08T21:26:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wissa-valencia-yoane_7317227.jpg?20260808221634",
+      "link": "https://www.skysports.com/football/news/12040/13571236/valencia-1-2-newcastle-yoane-wissas-double-gives-matthias-jaissle-winning-start-as-anthony-elanga-stretchered-off",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49562837,
+      "source": "ESPN",
+      "headline": "Man United being 'careful' with Mason Mount after injury scare",
+      "description": "Manchester United coach Michael Carrick said he had to be \"careful\" with Mason Mount after the England midfielder handed United an injury scare in their friendly with Paris Saint-Germain.",
+      "publishedAt": "2026-08-08T20:20:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699224_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49562837/man-united-mason-mount-injury-psg-friendly-preseason",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
     },
     {
       "id": 49561483,
@@ -41,10 +133,10 @@
       ]
     },
     {
-      "id": "4505e8a5ae8b9607e4fe2faf5d5ee513",
+      "id": "b1af7edeaadf57ba0a03128136479e2a",
       "source": "Sky Sports",
-      "headline": "Mbeumo scores in encouraging Man Utd draw with PSG but Mount injured",
-      "description": "Bryan Mbeumo earned Man Utd a 1-1 draw with Paris St-Germain in Gothenburg but Mason Mount's injury was a cause for concern.",
+      "headline": "'Good signs' for Man Utd as Mbeumo scores in encouraging draw with PSG",
+      "description": "Bryan Mbeumo earned Man Utd a 1-1 draw with Paris St-Germain in Gothenburg, a pre-season friendly which left boss Michael Carrick encouraged by the \"good signs\" from his side.",
       "publishedAt": "2026-08-08T17:00:00.000Z",
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-mbeumo-united-manchester_7316888.jpg?20260808164039",
       "link": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766",
@@ -65,17 +157,6 @@
         "Manchester United",
         "Internazionale"
       ]
-    },
-    {
-      "id": "b7931c2baf6b8c8390b6ce8f480cc056",
-      "source": "Sky Sports",
-      "headline": "Burnley edge win on penalties, West Ham through in Carabao Cup first round",
-      "description": "Kyle Walker struck the winning penalty as Burnley edged out Notts County 4-3 in a shoot-out to reach the Carabao Cup second round after a 1-1 draw at Turf Moor.",
-      "publishedAt": "2026-08-08T16:05:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-burnley-kyle-walker_7317041.jpg?20260808182011",
-      "link": "https://www.skysports.com/football/news/12040/13570969/carabao-cup-burnley-edge-win-on-penalties-west-ham-norwich-watford-through",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49561003,
@@ -328,17 +409,6 @@
       ]
     },
     {
-      "id": "2ec21d75d198cad649afef5afe448113",
-      "source": "Sky Sports",
-      "headline": "Sullivan attends West Ham game despite being advised not to",
-      "description": "David Sullivan attended West Ham's Carabao Cup match against Portsmouth at the London Stadium on Saturday, despite him being advised to stay away from home matches.",
-      "publishedAt": "2026-08-08T07:28:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-david-sullivan-west_7316870.jpg?20260808162549",
-      "link": "https://www.skysports.com/football/news/12040/13570905/west-ham-david-sullivan-attends-carabao-cup-first-round-tie-with-portsmouth-despite-being-advised-not-to",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49552275,
       "source": "ESPN",
       "headline": "Kompany: The Premier League is better than the Bundesliga",
@@ -464,79 +534,11 @@
         "United States",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49543227,
-      "source": "ESPN",
-      "headline": "'Rock star' Matthias Jaissle the perfect man for 'Newcastle 2.0' - club CEO",
-      "description": "Newcastle United CEO David Hopkinson has called new head coach Matthias Jaissle a \"rock star\" with \"no ceiling on where his career could go.\"",
-      "publishedAt": "2026-08-06T09:03:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698265_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49543227/rock-star-matthias-jaissle-perfect-man-newcastle-20-club-ceo",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49537784,
-      "source": "ESPN",
-      "headline": "Why did Salah leave Liverpool for Türkiye's fourth-most popular club?",
-      "description": "Mohamed Salah decided to trade the Premier League for Turkish side Trabzonspor, but with time running out in the transfer window, where does his departure leave Liverpool?",
-      "publishedAt": "2026-08-06T07:22:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697977_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49537784/why-did-mohamed-salah-leave-liverpool-turkiyes-fourth-most-popular-club",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Trabzonspor"
-      ]
-    },
-    {
-      "id": 49540699,
-      "source": "ESPN",
-      "headline": "Leboeuf: Arsenal are the clear Premier League favourites",
-      "description": "Leboeuf: Arsenal are the clear Premier League favourites",
-      "publishedAt": "2026-08-05T22:28:22Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Leboeuf3A_Arsenal_are_the_clear_Premier_League_favourites_GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Leboeuf3A_Arsenal_are_the_clear_Premier_League_favourites_GLOBAL_2026-08-05.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49540699/arsenal-clear-premier-league-favourites",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49540686,
-      "source": "ESPN",
-      "headline": "Can Chelsea finish in the top 4 under Alonso?",
-      "description": "Can Chelsea finish in the top 4 under Alonso?",
-      "publishedAt": "2026-08-05T22:27:27Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Can_Chelsea_finish_in_the_top_4_under_Alonso3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Can_Chelsea_finish_in_the_top_4_under_Alonso3F__GLOBAL_2026-08-05.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49540686/can-chelsea-finish-top-4-alonso",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49540382,
-      "source": "ESPN",
-      "headline": "Everton sign midfielder Christian Nørgaard from Arsenal",
-      "description": "Everton have completed the signing of Denmark international Christian Nørgaard from Arsenal, the clubs announced Wednesday.",
-      "publishedAt": "2026-08-05T22:20:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1698112_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49540382/everton-christian-norgaard-arsenal-transfer",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Everton",
-        "Denmark"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-08T18:56:19.308Z"
+    "cachedAt": "2026-08-09T02:26:19.130Z"
   }
 }
