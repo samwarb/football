@@ -2,15 +2,200 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "9782febc4c6ec281b97bb47642a92aa3",
+      "id": "68d4857c27efdbb65bcd4c9ef9369d47",
       "source": "Sky Sports",
-      "headline": "Wolves overwhelm Bradford in emphatic away victory",
-      "description": "Highlights of the Super League clash between Bradford Bulls and Warrington Wolves as Matty Ashton scored twice in a dominant 42-4 victory for the visitors.",
-      "publishedAt": "2026-08-08T23:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-wolves-bradford_7317178.jpg?20260808210836",
-      "link": "https://www.skysports.com/watch/video/13571231/bradford-bulls-4-42-warrington-wolves-super-league-highlights",
+      "headline": "Liverpool vs Monaco team news LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-09T12:23:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-alexander-isak-liverpool_7249730.jpg?20260515182022",
+      "link": "https://www.skysports.com/football/liverpool-vs-monaco/live/556109",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49566333,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Could Tottenham's Romero join Arsenal?",
+      "description": "Tottenham Hotspur captain Cristian Romero is reportedly open to joining his club's local rivals Arsenal. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-09T12:09:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0324/r1633066_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49566333/transfer-rumors-news-tottenham-hotspur-cristian-romero-arsenal",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "6772d59b396c597d2a448285da19c955",
+      "source": "Sky Sports",
+      "headline": "Arsenal fall behind AGAIN in pre-season to Dortmund LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-09T11:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-bruno_7317527.jpg?20260809140536",
+      "link": "https://www.skysports.com/football/live-blog/12040/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-08-09T11:23:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-09T11:22:53Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-09T11:21:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "3e6473a9527a47b83e273867db73b184",
+      "source": "Sky Sports",
+      "headline": "Semenyo stars as Man City come from behind to beat Atletico LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-09T09:58:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-savinho-man-city_7317468.jpg?20260809130753",
+      "link": "https://www.skysports.com/football/manchester-city-vs-atletico-madrid/live/559827",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "e5e878d81d2d54a342346e16243715eb",
+      "source": "Sky Sports",
+      "headline": "TWO REDS as tempers flare between Scott and Antony!",
+      "description": "Watch as Bournemouth's 2-2 draw with Real Betis was anything but a pre-season friendly, as an on-pitch brawl resulted in two red cards, including one for former Manchester United winger Antony.",
+      "publishedAt": "2026-08-09T09:20:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-bournemouth-betis_7317400.jpg?20260809102827",
+      "link": "https://www.skysports.com/watch/video/13571317/tempers-flare-between-real-betis-and-bournemouth-in-pre-season-friendly",
       "tag": "Video",
       "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
+      "publishedAt": "2026-08-09T09:12:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49543427,
+      "source": "ESPN",
+      "headline": "How will Bruno Guimarães fit in Arsenal's midfield?",
+      "description": "Arsenal have spent £75 million to sign 28-year-old Bruno Guimarães from Newcastle United, but how will he fit in an already stacked midfield?",
+      "publishedAt": "2026-08-09T08:19:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699093_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49543427/how-bruno-guimaraes-fit-arsenals-midfield",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Newcastle United"
+      ]
     },
     {
       "id": 49563606,
@@ -55,17 +240,6 @@
       ]
     },
     {
-      "id": "cb2fbbbd5f11a445e8326266371f6d91",
-      "source": "Sky Sports",
-      "headline": "Papers: Romero open to joining Arsenal but Spurs resist",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-08-08T22:15:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-paper-talk-sky-sports-news_7311195.png?20260731134338",
-      "link": "https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49563413,
       "source": "ESPN",
       "headline": "Udinese beat Barcelona, Nottingham Forest in triangular preseason tournament",
@@ -79,17 +253,6 @@
         "Udinese",
         "Barcelona"
       ]
-    },
-    {
-      "id": "a6d61668194f5d51b26802c71dfdbf49",
-      "source": "Sky Sports",
-      "headline": "Wissa double gives Newcastle boss Jaissle winning start at 10-man Valencia",
-      "description": "Substitute Yoane Wissa scored twice to give Matthias Jaissle a winning start as Newcastle boss with a 2-1 comeback pre-season win at 10-man Valencia.",
-      "publishedAt": "2026-08-08T21:26:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wissa-valencia-yoane_7317227.jpg?20260808221634",
-      "link": "https://www.skysports.com/football/news/12040/13571236/valencia-1-2-newcastle-yoane-wissas-double-gives-matthias-jaissle-winning-start-as-anthony-elanga-stretchered-off",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49562837,
@@ -188,20 +351,6 @@
       "teams": []
     },
     {
-      "id": 49543427,
-      "source": "ESPN",
-      "headline": "How will Bruno Guimarães fit in Arsenal's midfield?",
-      "description": "Arsenal have spent £75 million to sign 28-year-old Bruno Guimarães from Newcastle United, but how will he fit in an already stacked midfield?",
-      "publishedAt": "2026-08-08T13:43:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699093_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49543427/how-bruno-guimaraes-fit-arsenals-midfield",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
-      ]
-    },
-    {
       "id": 49560010,
       "source": "ESPN",
       "headline": "Barcelona's 'triangular' match? Unusual preseason fixture explained",
@@ -260,98 +409,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-08T12:46:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-08T11:43:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-08T11:42:22Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
       "id": 49559787,
       "source": "ESPN",
       "headline": "Bruno Guimarães at Arsenal: Declan Rice told me 'please no more fights!'",
@@ -363,38 +420,6 @@
       "teams": [
         "Arsenal",
         "Newcastle United"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "publishedAt": "2026-08-08T10:48:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -508,26 +533,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49543040,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United continue to explore move for Robinson",
-      "description": "Manchester United are reportedly looking at a move for USMNT's Antonee Robinson. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-06T19:38:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698473_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49543040/transfer-rumors-news-liverpool-offered-real-madrid-cb-amid-defensive-woes",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "United States",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-09T07:13:43.961Z"
+    "cachedAt": "2026-08-09T13:13:17.646Z"
   }
 }
