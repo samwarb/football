@@ -2,14 +2,124 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "68d4857c27efdbb65bcd4c9ef9369d47",
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-09T18:36:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49569137,
+      "source": "ESPN",
+      "headline": "Lucas Digne completes transfer to Paris Saint-Germain from Aston Villa",
+      "description": "Lucas Digne has completed his transfer to Paris Saint-Germain from Aston Villa on a three-year deal, the Ligue 1 club announced.",
+      "publishedAt": "2026-08-09T18:35:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699599_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49569137/lucas-digne-completes-transfer-paris-saint-germain-aston-villa",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": 49568973,
+      "source": "ESPN",
+      "headline": "Is it time for Marmoush to leave Man City?",
+      "description": "Is it time for Marmoush to leave Man City?",
+      "publishedAt": "2026-08-09T18:07:20Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_Is_it_time_for_Marmoush_to_leave_Man_City/dm_260809_Is_it_time_for_Marmoush_to_leave_Man_City.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49568973/is-marmoush-leave-man-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49568968,
+      "source": "ESPN",
+      "headline": "Hislop: Arsenal should sign Julian Alvarez",
+      "description": "Hislop: Arsenal should sign Julian Alvarez",
+      "publishedAt": "2026-08-09T18:07:09Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_Hislop_Arsenal_should_sign_Julian_Alvarez/dm_260809_Hislop_Arsenal_should_sign_Julian_Alvarez.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49568968/arsenal-sign-julian-alvarez",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Atlético Madrid"
+      ]
+    },
+    {
+      "id": 49568741,
+      "source": "ESPN",
+      "headline": "Arteta says 'warrior' Guimarães can 'ignite' different Arsenal",
+      "description": "Mikel Arteta has backed \"warrior\" Bruno Guimarães to \"ignite something different\" in Premier League champions Arsenal.",
+      "publishedAt": "2026-08-09T17:48:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699580_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49568741/arteta-says-warrior-guimaraes-ignite-different-arsenal",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49568540,
+      "source": "ESPN",
+      "headline": "Maresca: There is no update on Rodri's future",
+      "description": "Maresca: There is no update on Rodri's future",
+      "publishedAt": "2026-08-09T16:56:23Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_COM_SOC_Presser_Maresca_There_is_no_update_on_Rodris_future_20260809_GLOBAL/dm_260809_COM_SOC_Presser_Maresca_There_is_no_update_on_Rodris_future_20260809_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49568540/there-no-update-rodri-future",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "935bfe513dda63bd2229f133e5ef7522",
       "source": "Sky Sports",
-      "headline": "Liverpool vs Monaco team news LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-09T12:23:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-alexander-isak-liverpool_7249730.jpg?20260515182022",
-      "link": "https://www.skysports.com/football/liverpool-vs-monaco/live/556109",
-      "tag": "Liveblog",
+      "headline": "Hibs win at Rangers as McInnes remains winless",
+      "description": "Derek McInnes is still looking for his first win as Rangers manager after Hibernian netted an injury-time winner to triumph 2-1 at Ibrox.",
+      "publishedAt": "2026-08-09T16:50:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rangers-lawrence_7317708.jpg?20260809174031",
+      "link": "https://www.skysports.com/football/rangers-vs-hibernian/report/558344",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "98e81254c5b80afecff4eb9f056a75a6",
+      "source": "Sky Sports",
+      "headline": "Liverpool throw away another 2-0 lead as Iraola loses first Anfield game",
+      "description": "Liverpool threw away another pre-season lead as Monaco came from behind to win 3-2 in Andoni Iraola's first game in charge at Anfield.",
+      "publishedAt": "2026-08-09T15:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-liverpool-fc_7317670.jpg?20260809162948",
+      "link": "https://www.skysports.com/football/liverpool-vs-monaco/report/556109",
+      "tag": "Report",
       "teams": []
     },
     {
@@ -17,7 +127,7 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Could Tottenham's Romero join Arsenal?",
       "description": "Tottenham Hotspur captain Cristian Romero is reportedly open to joining his club's local rivals Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-09T12:09:44Z",
+      "publishedAt": "2026-08-09T15:26:24Z",
       "image": "https://a.espncdn.com/photo/2026/0324/r1633066_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49566333/transfer-rumors-news-tottenham-hotspur-cristian-romero-arsenal",
       "tag": "Arsenal",
@@ -27,14 +137,14 @@
       ]
     },
     {
-      "id": "6772d59b396c597d2a448285da19c955",
+      "id": "bc599206aff4e10c1e1b6f1046c9b142",
       "source": "Sky Sports",
-      "headline": "Arsenal fall behind AGAIN in pre-season to Dortmund LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-09T11:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-bruno_7317527.jpg?20260809140536",
-      "link": "https://www.skysports.com/football/live-blog/12040/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog",
-      "tag": "Liveblog",
+      "headline": "Arsenal concede 'poor goals' as Dortmund win Emirates Cup",
+      "description": "Arsenal produced more comical defending in pre-season as Borussia Dortmund won 3-2 in north London to win the Emirates Cup.",
+      "publishedAt": "2026-08-09T14:58:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-borussia-dortmund_7317671.jpg?20260809163256",
+      "link": "https://www.skysports.com/football/news/12040/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup",
+      "tag": "Report",
       "teams": []
     },
     {
@@ -96,60 +206,6 @@
         "Coventry City",
         "Hull City"
       ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-09T11:21:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": "3e6473a9527a47b83e273867db73b184",
-      "source": "Sky Sports",
-      "headline": "Semenyo stars as Man City come from behind to beat Atletico LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-09T09:58:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-savinho-man-city_7317468.jpg?20260809130753",
-      "link": "https://www.skysports.com/football/manchester-city-vs-atletico-madrid/live/559827",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "e5e878d81d2d54a342346e16243715eb",
-      "source": "Sky Sports",
-      "headline": "TWO REDS as tempers flare between Scott and Antony!",
-      "description": "Watch as Bournemouth's 2-2 draw with Real Betis was anything but a pre-season friendly, as an on-pitch brawl resulted in two red cards, including one for former Manchester United winger Antony.",
-      "publishedAt": "2026-08-09T09:20:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-bournemouth-betis_7317400.jpg?20260809102827",
-      "link": "https://www.skysports.com/watch/video/13571317/tempers-flare-between-real-betis-and-bournemouth-in-pre-season-friendly",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -458,86 +514,11 @@
         "Arsenal",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49551924,
-      "source": "ESPN",
-      "headline": "Sian Massey-Ellis to retire from Premier League officiating for new FA role",
-      "description": "Assistant referee Sian Massey-Ellis is to retire from officiating after a career which she says was \"beyond anything I could ever have imagined.\"",
-      "publishedAt": "2026-08-07T10:48:47Z",
-      "image": "https://a.espncdn.com/photo/2022/0601/r1020035_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49551924/sian-massey-ellis-retire-premier-league-officiating-new-fa-role",
-      "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 49551552,
-      "source": "ESPN",
-      "headline": "Mohamed Salah at Trabzonspor is 'a level too low' - Jamie Carragher",
-      "description": "Jamie Carragher has said playing for Trabzonspor in Türkiye \"feels a level too low\" for Mohamed Salah.",
-      "publishedAt": "2026-08-07T09:49:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698718_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49551552/mohamed-salah-trabzonspor-level-too-low-jamie-carragher",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Trabzonspor"
-      ]
-    },
-    {
-      "id": 49536934,
-      "source": "ESPN",
-      "headline": "Which big clubs are struggling with World Cup burnout?",
-      "description": "The World Cup was a great spectacle, but it was also hard work for the players, and as many of the game's stars return to their clubs to prepare for the 2026-27, which clubs are battling burnout the most?",
-      "publishedAt": "2026-08-07T07:22:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698706_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49536934/world-cup-burnout-premier-league-laliga-liverpool-arsenal-barcelona-bayern-munich-man-united",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Tottenham Hotspur",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Real Madrid",
-        "Barcelona",
-        "Bayern Munich",
-        "Paris Saint-Germain",
-        "Atlético Madrid",
-        "Borussia Dortmund"
-      ]
-    },
-    {
-      "id": 49538943,
-      "source": "ESPN",
-      "headline": "Rashford's return to Man United brings a lot of questions",
-      "description": "Marcus Rashford's future at Manchester United is at a crossroads, with Barcelona declining to execute a permanent transfer. Is there a place for him in Michael Carrick's plans this season?",
-      "publishedAt": "2026-08-07T07:11:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698704_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49538943/marcus-rashford-return-manchester-united-brings-lot-questions",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49547954,
-      "source": "ESPN",
-      "headline": "Will Arsenal's transfers help them retain the Premier League title?",
-      "description": "Will Arsenal's transfers help them retain the Premier League title?",
-      "publishedAt": "2026-08-06T21:51:51Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_Will_Arsenals_transfers_help_them_retain_the_Premier_League_title/dm_260806_Will_Arsenals_transfers_help_them_retain_the_Premier_League_title.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49547954/will-arsenal-transfers-help-retain-premier-league-title",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-09T13:13:17.646Z"
+    "cachedAt": "2026-08-09T18:58:45.172Z"
   }
 }
