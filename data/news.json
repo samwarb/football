@@ -2,6 +2,59 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49571327,
+      "source": "ESPN",
+      "headline": "Mourinho had deal to succeed Sir Alex at Manchester United",
+      "description": "Jose Mourinho revealed in a documentary that he signed a contract to succeed Sir Alex Ferguson as Manchester United manager in 2013 but tearfully turned back on the deal and returned to Chelsea.",
+      "publishedAt": "2026-08-10T01:03:19Z",
+      "image": "https://a.espncdn.com/photo/2016/0704/r99585_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49571327/mourinho-had-deal-succeed-sir-alex-manchester-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49570718,
+      "source": "ESPN",
+      "headline": "Maresca expects Rodri back at Manchester City 'at the moment'",
+      "description": "Enzo Maresca said Rodri is due back with Manchester City next week amid continuing speculation over the Spain midfielder's future.",
+      "publishedAt": "2026-08-09T22:21:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0326/r1634120_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49570718/maresca-rodri-back-manchester-city-moment",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "9a5713deb0b36b0f10aad1b8dcc39b07",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd and Arsenal chase Club Brugge full-back Seys",
+      "description": "The top stories and transfer rumours from Monday's newspapers...",
+      "publishedAt": "2026-08-09T22:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13571517/manchester-united-and-arsenal-among-several-clubs-chasing-club-brugge-left-back-joaquin-seys",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49566333,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona step up Rodri chase from Man City",
+      "description": "Barcelona are stepping up their pursuit of Man City midfielder Rodri. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-09T19:08:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0326/r1634120_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49566333/transfer-rumors-news-barcelona-step-rodri-chase-man-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Barcelona"
+      ]
+    },
+    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
@@ -108,42 +161,6 @@
       "publishedAt": "2026-08-09T16:50:00.000Z",
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rangers-lawrence_7317708.jpg?20260809174031",
       "link": "https://www.skysports.com/football/rangers-vs-hibernian/report/558344",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "98e81254c5b80afecff4eb9f056a75a6",
-      "source": "Sky Sports",
-      "headline": "Liverpool throw away another 2-0 lead as Iraola loses first Anfield game",
-      "description": "Liverpool threw away another pre-season lead as Monaco came from behind to win 3-2 in Andoni Iraola's first game in charge at Anfield.",
-      "publishedAt": "2026-08-09T15:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-liverpool-fc_7317670.jpg?20260809162948",
-      "link": "https://www.skysports.com/football/liverpool-vs-monaco/report/556109",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 49566333,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Could Tottenham's Romero join Arsenal?",
-      "description": "Tottenham Hotspur captain Cristian Romero is reportedly open to joining his club's local rivals Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-09T15:26:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0324/r1633066_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49566333/transfer-rumors-news-tottenham-hotspur-cristian-romero-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "bc599206aff4e10c1e1b6f1046c9b142",
-      "source": "Sky Sports",
-      "headline": "Arsenal concede 'poor goals' as Dortmund win Emirates Cup",
-      "description": "Arsenal produced more comical defending in pre-season as Borussia Dortmund won 3-2 in north London to win the Emirates Cup.",
-      "publishedAt": "2026-08-09T14:58:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-borussia-dortmund_7317671.jpg?20260809163256",
-      "link": "https://www.skysports.com/football/news/12040/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup",
       "tag": "Report",
       "teams": []
     },
@@ -479,17 +496,6 @@
       ]
     },
     {
-      "id": 49552275,
-      "source": "ESPN",
-      "headline": "Kompany: The Premier League is better than the Bundesliga",
-      "description": "Kompany: The Premier League is better than the Bundesliga",
-      "publishedAt": "2026-08-07T23:23:11Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/dm_260807_COM_SOC_Analysis_Kompany3A_The_Premier_League_is_better_than_the_Bundesliga_GLOBAL_2026-08-07/dm_260807_COM_SOC_Analysis_Kompany3A_The_Premier_League_is_better_than_the_Bundesliga_GLOBAL_2026-08-07.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49552275/premier-league-better-bundesliga",
-      "tag": "Media",
-      "teams": []
-    },
-    {
       "id": 49555196,
       "source": "ESPN",
       "headline": "FA bans pitchside walls after death of Billy Vigar",
@@ -499,26 +505,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/49555196/fa-bans-pitchside-walls-death-billy-vigar",
       "tag": "HeadlineNews",
       "teams": []
-    },
-    {
-      "id": 49551148,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Man United eye Shakhtar's Elias",
-      "description": "Both Arsenal and Manchester United are reportedly looking to sign Shakhtar Donetsk forward Kauã Elias. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-07T18:55:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698871_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49551148/transfer-rumors-news-man-city-eye-enzo-fernandez-rodri-replacement",
-      "tag": "Shakhtar Donetsk",
-      "teams": [
-        "Shakhtar Donetsk",
-        "Arsenal",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-09T18:58:45.172Z"
+    "cachedAt": "2026-08-10T02:31:08.783Z"
   }
 }
