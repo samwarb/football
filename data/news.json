@@ -2,6 +2,166 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49574405,
+      "source": "ESPN",
+      "headline": "Johnson-McNeil deal: Have two clubs ever swapped players before?",
+      "description": "Brennan Johnson and Dwight McNeil are swapping Premier League clubs. It's a rare transfer practice, but it's happened before with varying successes.",
+      "publishedAt": "2026-08-10T13:30:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699877_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49574405/johnson-mcneil-swap-deal-two-clubs-ever-swapped-players-before",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Everton"
+      ]
+    },
+    {
+      "id": "3ea1b16b7cd4e86b48340fd239fe972f",
+      "source": "Sky Sports",
+      "headline": "Palace latest: Eagles in talks to sign Khalaili",
+      "description": "",
+      "publishedAt": "2026-08-10T13:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "2bd5c14daf6c3f5dfdbd82babbf745ec",
+      "source": "Sky Sports",
+      "headline": "Carabao Cup second-round draw tonight as Chelsea, Spurs and Newcastle enter",
+      "description": "",
+      "publishedAt": "2026-08-10T12:45:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-carabao-cup-draw_7318195.jpg?20260810125946",
+      "link": "https://www.skysports.com/football/live-blog/12040/13571626/carabao-cup-draw-chelsea-spurs-everton-newcastle-leeds-nottingham-forest-and-more-join-first-round-winners-in-second-round",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49574071,
+      "source": "ESPN",
+      "headline": "Viktor Gyökeres feels 'very good physically' a year on in Arsenal preseason",
+      "description": "Viktor Gyökeres has said he feels in far better physical shape than when he signed for Arsenal a year ago.",
+      "publishedAt": "2026-08-10T12:13:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699869_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49574071/arsenal-viktor-gyokeres-premier-league-feels-very-good-physically-year-preseason",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49572938,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Manchester United turn to youth in chase for Leicester, Club Brugge stars",
+      "description": "Manchester United are targeting two young players in the form of Club Brugge left back Joaquin Seys and Leicester City wonderkid Louis Page. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-10T11:46:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699834_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Club Brugge",
+        "Leicester City"
+      ]
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
+      "publishedAt": "2026-08-10T11:17:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49573684,
+      "source": "ESPN",
+      "headline": "Dwight McNeil, Brennan Johnson set for Everton, Crystal Palace swap - source",
+      "description": "Everton and Crystal Palace have agreed a straight swap deal involving Dwight McNeil and Brennan Johnson, a source has told ESPN.",
+      "publishedAt": "2026-08-10T10:24:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699854_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49573684/dwight-mcneil-brennan-johnson-agree-everton-crystal-palace-swap-source",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": "05f76046c7ecb1822933807c77de99bd",
+      "source": "Sky Sports",
+      "headline": "Amazon founder Bezos nears deal to buy stake in Liverpool",
+      "description": "Sky News understands a consortium including the Amazon founder Jeff Bezos is closing in on a deal to buy a roughly one-third stake in Liverpool.",
+      "publishedAt": "2026-08-10T10:14:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-jeff-bezos-amazon_7318168.jpg?20260810122608",
+      "link": "https://www.skysports.com/football/news/12040/13571596/liverpool-amazon-founder-jeff-bezos-nears-deal-to-buy-stake-with-consortium-led-by-amit-bhatia",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49573365,
+      "source": "ESPN",
+      "headline": "Andoni Iraola: Liverpool players 'don't have energy for 90 minutes'",
+      "description": "Liverpool head coach Andoni Iraola has said that his side are struggling to sustain his desired level following a 3-2 defeat to Monaco in preseason.",
+      "publishedAt": "2026-08-10T09:25:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699838_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49573365/andoni-iraola-liverpool-preseason-monaco-defeat-premier-league",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "192310930fd1f8d93a3463dc11a2e8c2",
+      "source": "Sky Sports",
+      "headline": "Sunderland latest: Wrexham agree £8m deal to sign Black Cats 'keeper",
+      "description": "",
+      "publishedAt": "2026-08-10T09:25:00.000Z",
+      "image": "https://e2.365dm.com/25/05/1920x1080/skysports-sunderland-club-blog_6929406.jpg?20250528092613",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49561129,
+      "source": "ESPN",
+      "headline": "Rodri transfer saga: Join Barcelona, Real Madrid? Man City stay?",
+      "description": "After Rodri led Spain to World Cup glory, it's no surprise that Barcelona and Real Madrid both want him. Will he move this summer or remain at Man City?",
+      "publishedAt": "2026-08-10T08:02:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699500_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49561129/rodri-transfer-saga-join-barcelona-real-madrid-stay-manchester-city",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Real Madrid",
+        "Manchester City"
+      ]
+    },
+    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -45,17 +205,6 @@
       "teams": []
     },
     {
-      "id": "b65e3253e9fb5763420e7f017e1db989",
-      "source": "Sky Sports",
-      "headline": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-      "description": "",
-      "publishedAt": "2026-08-10T07:50:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49571327,
       "source": "ESPN",
       "headline": "José Mourinho turned down chance to succeed Sir Alex Ferguson",
@@ -68,21 +217,6 @@
         "Manchester United",
         "Chelsea",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": 49572938,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Manchester United turn to youth in chase for Leicester, Club Brugge stars",
-      "description": "Manchester United are targeting two young players in the form of Club Brugge left back Joaquin Seys and Leicester City wonderkid Louis Page. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-10T07:35:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699834_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Club Brugge",
-        "Leicester City"
       ]
     },
     {
@@ -172,17 +306,6 @@
       ]
     },
     {
-      "id": "9a5713deb0b36b0f10aad1b8dcc39b07",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd and Arsenal chase Club Brugge full-back Seys",
-      "description": "The top stories and transfer rumours from Monday's newspapers...",
-      "publishedAt": "2026-08-09T22:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13571517/manchester-united-and-arsenal-among-several-clubs-chasing-club-brugge-left-back-joaquin-seys",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49566333,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Barcelona step up Rodri chase from Man City",
@@ -261,63 +384,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": "eef9d7c5068a4febce46873f21a66030",
-      "source": "Sky Sports",
-      "headline": "Sutherland with DOUBLE drop against Welsh Fire",
-      "description": "Annabel Sutherland dropped two catches that could have proved costly for her side as Sunrisers Leeds looked to topple Welsh Fire to stay in the The Hundred.",
-      "publishedAt": "2026-08-09T11:01:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-cricket-hundred_7317429.jpg?20260809120311",
-      "link": "https://www.skysports.com/watch/video/13571332/annabel-sutherland-makes-double-drop-catch-against-welsh-fire",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "publishedAt": "2026-08-09T09:12:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49543427,
-      "source": "ESPN",
-      "headline": "How will Bruno Guimarães fit in Arsenal's midfield?",
-      "description": "Arsenal have spent £75 million to sign 28-year-old Bruno Guimarães from Newcastle United, but how will he fit in an already stacked midfield?",
-      "publishedAt": "2026-08-09T08:19:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699093_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49543427/how-bruno-guimaraes-fit-arsenals-midfield",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
       ]
     },
     {
@@ -449,35 +515,6 @@
       ]
     },
     {
-      "id": 49511174,
-      "source": "ESPN",
-      "headline": "Arsenal sign Bruno Guimarães from Newcastle",
-      "description": "Bruno Guimarães has joined Arsenal from Newcastle United, the club has confirmed.",
-      "publishedAt": "2026-08-08T14:19:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699061_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49511174/arsenal-sign-bruno-guimaraes-newcastle",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49560010,
-      "source": "ESPN",
-      "headline": "Barcelona's 'triangular' match? Unusual preseason fixture explained",
-      "description": "Barcelona's preseason run-out on Saturday pits them against both Nottingham Forest and Udinese over a total of 90 minutes. How does that work?",
-      "publishedAt": "2026-08-08T13:22:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699079_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49560010/barcelona-playing-triangular-match-vs-udinese-nottingham-forest-unusual-preseason-fixture-explained",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Nottingham Forest",
-        "Udinese"
-      ]
-    },
-    {
       "id": 49560391,
       "source": "ESPN",
       "headline": "Bruno Guimarães joined Arsenal after 'differences in ideas' with Newcastle",
@@ -489,40 +526,11 @@
       "teams": [
         "Newcastle United"
       ]
-    },
-    {
-      "id": 49559983,
-      "source": "ESPN",
-      "headline": "Man City won't sanction cut-price Rodri deal amid Barcelona, Real Madrid interest",
-      "description": "Manchester City value Rodri at more than €70 million (£60m / $81m) amid interest from Barcelona and Real Madrid, sources have told ESPN.",
-      "publishedAt": "2026-08-08T12:58:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0310/r1626419_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49559983/man-city-wont-sanction-cutprice-rodri-deal-amid-barcelona-real-madrid-interest",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49559787,
-      "source": "ESPN",
-      "headline": "Bruno Guimarães at Arsenal: Declan Rice told me 'please no more fights!'",
-      "description": "Bruno Guimarães has revealed a message from Declan Rice as he completed his move to Arsenal which ended their on-pitch \"fights.\"",
-      "publishedAt": "2026-08-08T11:31:39Z",
-      "image": "https://a.espncdn.com/photo/2023/1104/r1248414_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49559787/bruno-guimaraes-arsenal-declan-rice-told-please-no-more-fights",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Newcastle United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-10T08:01:55.202Z"
+    "cachedAt": "2026-08-10T13:40:35.995Z"
   }
 }
