@@ -2,18 +2,160 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-08-10T07:54:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-10T07:53:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699095_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "b65e3253e9fb5763420e7f017e1db989",
+      "source": "Sky Sports",
+      "headline": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+      "description": "",
+      "publishedAt": "2026-08-10T07:50:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
+      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49571327,
       "source": "ESPN",
-      "headline": "Mourinho had deal to succeed Sir Alex at Manchester United",
-      "description": "Jose Mourinho revealed in a documentary that he signed a contract to succeed Sir Alex Ferguson as Manchester United manager in 2013 but tearfully turned back on the deal and returned to Chelsea.",
-      "publishedAt": "2026-08-10T01:03:19Z",
-      "image": "https://a.espncdn.com/photo/2016/0704/r99585_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49571327/mourinho-had-deal-succeed-sir-alex-manchester-united",
+      "headline": "José Mourinho turned down chance to succeed Sir Alex Ferguson",
+      "description": "José Mourinho was set to replace Sir Alex Ferguson as Manchester United boss in 2013 before changing his mind and rejoining Chelsea, a new Netflix docuseries on the Portuguese manager revealed.",
+      "publishedAt": "2026-08-10T07:42:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699532_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49571327/jose-mourinho-turned-chance-replace-sir-alex-ferguson-man-united-netflix-documentary-reveals",
       "tag": "Manchester United",
       "teams": [
         "Manchester United",
         "Chelsea",
         "Real Madrid"
+      ]
+    },
+    {
+      "id": 49572938,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Manchester United turn to youth in chase for Leicester, Club Brugge stars",
+      "description": "Manchester United are targeting two young players in the form of Club Brugge left back Joaquin Seys and Leicester City wonderkid Louis Page. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-10T07:35:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699834_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Club Brugge",
+        "Leicester City"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-10T07:08:02Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-10T07:05:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49572875,
+      "source": "ESPN",
+      "headline": "Mikel Arteta 'trying' to add more Arsenal recruits after Vinícius Jr blow",
+      "description": "Mikel Arteta has said he is still \"trying\" to bring in players to make his Arsenal squad \"much better,\" after Vinícius Jr. opted to stay at Real Madrid.",
+      "publishedAt": "2026-08-10T06:53:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699831_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49572875/mikel-arteta-trying-arsenal-transfers-vinicius-jr-real-madrid-stay",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
       ]
     },
     {
@@ -52,38 +194,6 @@
       "teams": [
         "Manchester City",
         "Barcelona"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-09T18:36:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -154,75 +264,15 @@
       ]
     },
     {
-      "id": "935bfe513dda63bd2229f133e5ef7522",
+      "id": "eef9d7c5068a4febce46873f21a66030",
       "source": "Sky Sports",
-      "headline": "Hibs win at Rangers as McInnes remains winless",
-      "description": "Derek McInnes is still looking for his first win as Rangers manager after Hibernian netted an injury-time winner to triumph 2-1 at Ibrox.",
-      "publishedAt": "2026-08-09T16:50:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rangers-lawrence_7317708.jpg?20260809174031",
-      "link": "https://www.skysports.com/football/rangers-vs-hibernian/report/558344",
-      "tag": "Report",
+      "headline": "Sutherland with DOUBLE drop against Welsh Fire",
+      "description": "Annabel Sutherland dropped two catches that could have proved costly for her side as Sunrisers Leeds looked to topple Welsh Fire to stay in the The Hundred.",
+      "publishedAt": "2026-08-09T11:01:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-cricket-hundred_7317429.jpg?20260809120311",
+      "link": "https://www.skysports.com/watch/video/13571332/annabel-sutherland-makes-double-drop-catch-against-welsh-fire",
+      "tag": "Video",
       "teams": []
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-09T11:23:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-09T11:22:53Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
     },
     {
       "id": 49163915,
@@ -413,17 +463,6 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-08T13:55:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699095_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49560010,
       "source": "ESPN",
       "headline": "Barcelona's 'triangular' match? Unusual preseason fixture explained",
@@ -449,21 +488,6 @@
       "tag": "Newcastle United",
       "teams": [
         "Newcastle United"
-      ]
-    },
-    {
-      "id": 49556442,
-      "source": "ESPN",
-      "headline": "Sources: Liverpool set to sign Barcelona's Ronald Araújo on loan",
-      "description": "Liverpool are set to sign defender Ronald Araújo on a season-long loan deal from Barcelona, sources told ESPN.",
-      "publishedAt": "2026-08-08T12:59:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698956_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49556442/liverpool-barcelona-transfer-ronald-araujo-loan",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Barcelona",
-        "Uruguay"
       ]
     },
     {
@@ -494,22 +518,11 @@
         "Arsenal",
         "Newcastle United"
       ]
-    },
-    {
-      "id": 49555196,
-      "source": "ESPN",
-      "headline": "FA bans pitchside walls after death of Billy Vigar",
-      "description": "Clubs in the National League System must remove brick or concrete walls around pitches or use padding to cover them following a safety review prompted by the death of Chichester City forward Billy Vigar.",
-      "publishedAt": "2026-08-07T19:33:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698880_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49555196/fa-bans-pitchside-walls-death-billy-vigar",
-      "tag": "HeadlineNews",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-10T02:31:08.783Z"
+    "cachedAt": "2026-08-10T08:01:55.202Z"
   }
 }
