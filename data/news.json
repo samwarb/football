@@ -2,6 +2,71 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49572938,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Tottenham eye move for Liverpool's Gakpo",
+      "description": "Liverpool could end up letting Cody Gakpo depart to Tottenham if they are able to get a replacement. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-11T00:23:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700067_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Paris Saint-Germain",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49573365,
+      "source": "ESPN",
+      "headline": "Andoni Iraola: Liverpool players 'don't have energy for 90 minutes'",
+      "description": "Liverpool head coach Andoni Iraola has said that his side are struggling to sustain his desired level following a 3-2 defeat to Monaco in preseason.",
+      "publishedAt": "2026-08-10T21:45:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699838_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49573365/andoni-iraola-liverpool-preseason-monaco-defeat-premier-league",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49577565,
+      "source": "ESPN",
+      "headline": "Moreno not worried by Liverpool's preseason fitness levels",
+      "description": "Moreno not worried by Liverpool's preseason fitness levels",
+      "publishedAt": "2026-08-10T21:44:07Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0810/dm_260810_Moreno_not_worried_by_Liverpools_preseason_fitness_levels/dm_260810_Moreno_not_worried_by_Liverpools_preseason_fitness_levels.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49577565/moreno-not-worried-liverpool-preseason-fitness-levels",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49577092,
+      "source": "ESPN",
+      "headline": "Micky van de Ven signs new Tottenham contract",
+      "description": "Tottenham Hotspur centre-back Micky van de Ven has signed a new contract to extend his stay in north London, the Premier League club has announced.",
+      "publishedAt": "2026-08-10T20:40:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700064_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49577092/micky-van-de-ven-signs-new-tottenham-hotspur-contract",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-10T19:50:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700049_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
       "id": 49567137,
       "source": "ESPN",
       "headline": "Liverpool sign Barcelona defender Ronald Araújo on loan with €55m permanent option",
@@ -30,30 +95,26 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-10T17:43:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699983_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
+      "id": "36f9cc0c111bf0a4b19aa7400ebe0e2f",
+      "source": "Sky Sports",
+      "headline": "Liverpool sign Araujo from Barcelona",
+      "description": "Liverpool have confirmed the signing of defender Ronald Araujo from Barcelona.",
+      "publishedAt": "2026-08-10T17:30:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-ronald-araujo-liverpool_7318505.jpg?20260810190526",
+      "link": "https://www.skysports.com/football/news/12040/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy",
+      "tag": "News Story",
       "teams": []
     },
     {
-      "id": 49572938,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Manchester United turn to youth in chase for Leicester, Club Brugge stars",
-      "description": "Manchester United are targeting two young players in the form of Club Brugge left back Joaquin Seys and Leicester City wonderkid Louis Page. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-10T15:16:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699834_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Club Brugge",
-        "Leicester City"
-      ]
+      "id": "d720c669543a860c59442e9768dce353",
+      "source": "Sky Sports",
+      "headline": "Man City in Bouaddi talks and Chelsea's Fernandez also an option",
+      "description": "Man City are in ongoing talks with Lille for Morocco midfielder Ayyoub Bouaddi.",
+      "publishedAt": "2026-08-10T16:39:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-man-city_7318475.jpg?20260810180409",
+      "link": "https://www.skysports.com/football/news/12040/13571742/man-city-transfer-news-talks-ongoing-with-lilles-ayyoub-bouaddi-but-rodri-to-barcelona-talks-inactive-with-enzo-fernandez-also-an-option",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48955344,
@@ -126,50 +187,6 @@
       ]
     },
     {
-      "id": "40054eefcc16e8ff72a63fa4e4bfce82",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Marmoush will decide Etihad future, says Maresca",
-      "description": "",
-      "publishedAt": "2026-08-10T13:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "87b69d0a0742bc59943afb7db118a62a",
-      "source": "Sky Sports",
-      "headline": "Has Arsenal's indifferent pre-season revealed a surprise weakness?",
-      "description": "Arsenal have been conceding goals at an alarming rate in pre-season. Seven across three games. Has their greatest strength, one that contributed hugely to their Premier League title success last season, become a surprise source of frailty on the eve of the next?",
-      "publishedAt": "2026-08-10T13:29:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-borussia-dortmund_7317671.jpg?20260809163256",
-      "link": "https://www.skysports.com/football/news/12040/13571668/arsenal-have-looked-defensively-weak-in-pre-season-can-they-cope-without-william-saliba-as-premier-league-campaign-nears",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "3ea1b16b7cd4e86b48340fd239fe972f",
-      "source": "Sky Sports",
-      "headline": "Palace latest: Eagles in talks to sign Khalaili",
-      "description": "",
-      "publishedAt": "2026-08-10T13:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "2bd5c14daf6c3f5dfdbd82babbf745ec",
-      "source": "Sky Sports",
-      "headline": "Carabao Cup second-round draw tonight as Chelsea, Spurs and Newcastle enter",
-      "description": "",
-      "publishedAt": "2026-08-10T12:45:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-carabao-cup-draw_7318195.jpg?20260810125946",
-      "link": "https://www.skysports.com/football/live-blog/12040/13571626/carabao-cup-draw-chelsea-spurs-everton-newcastle-leeds-nottingham-forest-and-more-join-first-round-winners-in-second-round",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49574071,
       "source": "ESPN",
       "headline": "Viktor Gyökeres feels 'very good physically' a year on in Arsenal preseason",
@@ -181,6 +198,17 @@
       "teams": [
         "Arsenal"
       ]
+    },
+    {
+      "id": "77d029a73e20e9054edd8ee1a78a6af3",
+      "source": "Sky Sports",
+      "headline": "Chelsea get Luton as Spurs to host Charlton in Carabao Cup",
+      "description": "Chelsea will host Jack Wilshere's Luton Town in the Carabao Cup second round, while Tottenham Hotspur host Charlton Athletic in a London derby.",
+      "publishedAt": "2026-08-10T11:36:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-xabi-alonso-chelsea_7314620.jpg?20260805143504",
+      "link": "https://www.skysports.com/football/news/12040/13571634/carabao-cup-second-round-chelsea-vs-luton-tottenham-vs-charlton-and-newcastle-vs-west-brom-as-11-premier-league-sides-enter-draw",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49163915,
@@ -226,30 +254,6 @@
       "teams": [
         "Everton",
         "Crystal Palace"
-      ]
-    },
-    {
-      "id": "05f76046c7ecb1822933807c77de99bd",
-      "source": "Sky Sports",
-      "headline": "Amazon founder Bezos nears deal to buy stake in Liverpool",
-      "description": "Sky News understands a consortium including the Amazon founder Jeff Bezos is closing in on a deal to buy a roughly one-third stake in Liverpool.",
-      "publishedAt": "2026-08-10T10:14:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-jeff-bezos-amazon_7318168.jpg?20260810122608",
-      "link": "https://www.skysports.com/football/news/12040/13571596/liverpool-amazon-founder-jeff-bezos-nears-deal-to-buy-stake-with-consortium-led-by-amit-bhatia",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49573365,
-      "source": "ESPN",
-      "headline": "Andoni Iraola: Liverpool players 'don't have energy for 90 minutes'",
-      "description": "Liverpool head coach Andoni Iraola has said that his side are struggling to sustain his desired level following a 3-2 defeat to Monaco in preseason.",
-      "publishedAt": "2026-08-10T09:25:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699838_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49573365/andoni-iraola-liverpool-preseason-monaco-defeat-premier-league",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
       ]
     },
     {
@@ -367,6 +371,17 @@
       "teams": [
         "Manchester City"
       ]
+    },
+    {
+      "id": "1156a7e96cdabe211361ddc3d9d26d24",
+      "source": "Sky Sports",
+      "headline": "Papers: Aston Villa interested in Endrick loan from Real Madrid",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "publishedAt": "2026-08-09T22:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13571792/aston-villa-keen-on-loan-deal-for-real-madrid-wonderkid-endrick-paper-talk",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49566333,
@@ -518,40 +533,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49561483,
-      "source": "ESPN",
-      "headline": "Conor Gallagher equaliser against Getafe keeps Tottenham unbeaten in preseason",
-      "description": "Conor Gallagher scored Tottenham's equaliser in a 1-1 draw against Getafe in preseason on Saturday.",
-      "publishedAt": "2026-08-08T17:24:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699138_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49561483/conor-gallagher-equaliser-getafe-keeps-tottenham-unbeaten-preseason",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Getafe"
-      ]
-    },
-    {
-      "id": 49561003,
-      "source": "ESPN",
-      "headline": "Onuoha: Rodri deserves to leave Man City for Barcelona",
-      "description": "Onuoha: Rodri deserves to leave Man City for Barcelona",
-      "publishedAt": "2026-08-08T15:04:56Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0808/dm_260808_COM_SOC_Analysis_Onuoha3A_Rodri_deserves_to_leave_Man_City_for_Barcelona_GLOBAL_2026-08-08/dm_260808_COM_SOC_Analysis_Onuoha3A_Rodri_deserves_to_leave_Man_City_for_Barcelona_GLOBAL_2026-08-08.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49561003/rodri-deserves-leave-man-city-barcelona",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Manchester City",
-        "Real Madrid"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-10T19:14:17.570Z"
+    "cachedAt": "2026-08-11T02:25:00.830Z"
   }
 }
