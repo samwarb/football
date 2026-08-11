@@ -2,11 +2,112 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49583279,
+      "source": "ESPN",
+      "headline": "Newcastle boss Matthias Jaissle feels 'ambitious,' warns success won't happen 'overnight'",
+      "description": "Matthias Jaissle has said he's arrived at Newcastle in an \"ambitious\" mood, but the new head coach has warned success \"will not happen overnight\" after replacing Eddie Howe.",
+      "publishedAt": "2026-08-11T16:37:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700330_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49583279/newcastle-premier-league-matthias-jaissle-feels-ambitious-warns-success-happen-overnight",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49582031,
+      "source": "ESPN",
+      "headline": "One U21 player to watch from each Premier League team",
+      "description": "From the player who could become Man United's youngest ever to Brighton's next big thing, meet the Premier League's brightest young stars.",
+      "publishedAt": "2026-08-11T15:50:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700262_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49582031/one-u21-player-watch-premier-league-team",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Tottenham Hotspur",
+        "Liverpool",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49580333,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye Leipzig left back Raum",
+      "description": "Manchester United are weighing up a summer move for RB Leipzig left back David Raum. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-11T15:48:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700217_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49580333/transfer-rumors-news-manchester-united-rb-leipzig-left-back-david-raum",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "RB Leipzig"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-11T15:32:13Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": "b348f228b708994fcc586fe53c3db574",
+      "source": "Sky Sports",
+      "headline": "Chelsea make enquiry for Arsenal's Lewis-Skelly",
+      "description": "Chelsea have made a new enquiry about signing Arsenal's Myles Lewis-Skelly.",
+      "publishedAt": "2026-08-11T15:05:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-myles-lewis-skelly_7239246.jpg?20260504202528",
+      "link": "https://www.skysports.com/football/news/12040/13571919/myles-lewis-skelly-transfer-news-chelsea-make-enquiry-for-arsenal-teenager-amid-long-term-interest-from-blues-and-man-utd",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49561129,
+      "source": "ESPN",
+      "headline": "Rodri transfer saga: Join Barcelona, Real Madrid? Man City stay?",
+      "description": "After Rodri led Spain to World Cup glory, it's no surprise that Barcelona and Real Madrid both want him. Will he move this summer or remain at Man City?",
+      "publishedAt": "2026-08-11T15:00:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699500_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49561129/rodri-transfer-saga-join-barcelona-real-madrid-stay-manchester-city",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Real Madrid",
+        "Manchester City"
+      ]
+    },
+    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-11T13:33:31Z",
+      "publishedAt": "2026-08-11T14:01:06Z",
       "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "tag": "Arsenal",
@@ -47,20 +148,6 @@
       ]
     },
     {
-      "id": 49580333,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye Leipzig left back Raum",
-      "description": "Manchester United are weighing up a summer move for RB Leipzig left back David Raum. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-11T13:22:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700217_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49580333/transfer-rumors-news-manchester-united-rb-leipzig-left-back-david-raum",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "RB Leipzig"
-      ]
-    },
-    {
       "id": 49581314,
       "source": "ESPN",
       "headline": "Liverpool supporter group seek clarity amid consortium linked to Jeff Bezos",
@@ -74,6 +161,17 @@
       ]
     },
     {
+      "id": "dd6706e5286b5d3c365fd499f6001f86",
+      "source": "Sky Sports",
+      "headline": "Arsenal to retain title? Liverpool above Man Utd? Sky Sports predicted table revealed",
+      "description": "Will Arsenal retain the title? What's in store for Manchester City, Liverpool and Chelsea under their new managers? And which teams are going to be relegated?",
+      "publishedAt": "2026-08-11T11:22:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-arsenal-declan-rice_7319052.jpg?20260811153602",
+      "link": "https://www.skysports.com/football/news/12040/13571927/sky-sports-supercomputer-predicts-2026-27-premier-league-table-as-arsenal-retain-title-and-liverpool-jump-back-above-man-utd-between-the-lines",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49580356,
       "source": "ESPN",
       "headline": "UEFA referee chief calls for change in VAR use: 'It's football, not PlayStation'",
@@ -82,6 +180,17 @@
       "image": "https://a.espncdn.com/photo/2026/0511/r1656603_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49580356/uefa-referee-chief-calls-change-var-use-football-not-playstation",
       "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": "212aa01588619682cbaafeb84a606e30",
+      "source": "Sky Sports",
+      "headline": "Wrexham set to make club-record signing as Phillips returns to Blades",
+      "description": "",
+      "publishedAt": "2026-08-11T10:26:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-patterson-anthony_7241322.jpg?20260811112727",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -172,17 +281,6 @@
       ]
     },
     {
-      "id": "c86616f432495f24b1d6e9f9266d4b19",
-      "source": "Sky Sports",
-      "headline": "Everton sign Johnson from Palace in transfer swap for McNeil",
-      "description": "Everton have signed winger Brennan Johnson from Crystal Palace in a transfer swap deal that sees Dwight McNeil move to Selhurst Park.",
-      "publishedAt": "2026-08-11T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-dwight-mcneil-brennan-johnson_7318092.jpg?20260810111528",
-      "link": "https://www.skysports.com/football/news/12040/13571877/everton-sign-brennan-johnson-from-crystal-palace-as-dwight-mcneil-moves-to-selhurst-park-in-transfer-swap-deal",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49573365,
       "source": "ESPN",
       "headline": "Andoni Iraola: Liverpool players 'don't have energy for 90 minutes'",
@@ -194,17 +292,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "5a341eb3f0fd6e0b434ca5f0a91cf18f",
-      "source": "Sky Sports",
-      "headline": "Rashford set for reintegration at Man Utd - but is it a good idea?",
-      "description": "All eyes will be on Marcus Rashford this week.",
-      "publishedAt": "2026-08-11T07:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-graphic-marcus-rashford_7318380.jpg?20260810162026",
-      "link": "https://www.skysports.com/football/news/12040/13571617/marcus-rashford-what-are-manchester-uniteds-plans-to-reintegrate-the-england-forward-after-two-loan-spells",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49154575,
@@ -370,21 +457,6 @@
       ]
     },
     {
-      "id": 49561129,
-      "source": "ESPN",
-      "headline": "Rodri transfer saga: Join Barcelona, Real Madrid? Man City stay?",
-      "description": "After Rodri led Spain to World Cup glory, it's no surprise that Barcelona and Real Madrid both want him. Will he move this summer or remain at Man City?",
-      "publishedAt": "2026-08-10T08:02:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0809/r1699500_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49561129/rodri-transfer-saga-join-barcelona-real-madrid-stay-manchester-city",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Real Madrid",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 49571327,
       "source": "ESPN",
       "headline": "José Mourinho turned down chance to succeed Sir Alex Ferguson",
@@ -397,34 +469,6 @@
         "Manchester United",
         "Chelsea",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-10T07:08:02Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
       ]
     },
     {
@@ -480,38 +524,11 @@
         "Aston Villa",
         "Paris Saint-Germain"
       ]
-    },
-    {
-      "id": 49568973,
-      "source": "ESPN",
-      "headline": "Is it time for Marmoush to leave Man City?",
-      "description": "Is it time for Marmoush to leave Man City?",
-      "publishedAt": "2026-08-09T18:07:20Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_Is_it_time_for_Marmoush_to_leave_Man_City/dm_260809_Is_it_time_for_Marmoush_to_leave_Man_City.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49568973/is-marmoush-leave-man-city",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49568968,
-      "source": "ESPN",
-      "headline": "Hislop: Arsenal should sign Julian Alvarez",
-      "description": "Hislop: Arsenal should sign Julian Alvarez",
-      "publishedAt": "2026-08-09T18:07:09Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_Hislop_Arsenal_should_sign_Julian_Alvarez/dm_260809_Hislop_Arsenal_should_sign_Julian_Alvarez.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49568968/arsenal-sign-julian-alvarez",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Atlético Madrid"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-11T13:39:35.055Z"
+    "cachedAt": "2026-08-11T19:17:12.854Z"
   }
 }
