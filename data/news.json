@@ -2,6 +2,107 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49591558,
+      "source": "ESPN",
+      "headline": "Hull break club transfer record to sign Senegal's Nobel Mendy",
+      "description": "Hull City have signed Senegal defender Nobel Mendy from Spanish side Rayo Vallecano for what the newly promoted Premier League club said was a club-record transfer fee.",
+      "publishedAt": "2026-08-12T17:44:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700827_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49591558/hull-city-transfer-record-nobel-mendy-senegal-rayo-vallecano",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Rayo Vallecano",
+        "Senegal"
+      ]
+    },
+    {
+      "id": 49591376,
+      "source": "ESPN",
+      "headline": "Everton's Martin Sherif charged with breaching FA betting rules",
+      "description": "Everton under-21 forward Martin Sherif has been charged with breaching Football Association betting rules.",
+      "publishedAt": "2026-08-12T17:11:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700820_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49591376/everton-martin-sherif-betting-rule-fa-61",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Rotherham United",
+        "Port Vale"
+      ]
+    },
+    {
+      "id": 49591202,
+      "source": "ESPN",
+      "headline": "Man City's new signing Elliot Anderson could not be persuaded to sign for Man United",
+      "description": "Elliot Anderson insists he never came close to a move to Old Trafford despite the attempts of some Manchester United players to persuade him while he was on holiday.",
+      "publishedAt": "2026-08-12T16:51:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700798_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49591202/man-citys-new-signing-elliot-anderson-not-persuaded-sign-man-united",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49590386,
+      "source": "ESPN",
+      "headline": "Inter Milan in talks with Tottenham over Djed Spence deal - sources",
+      "description": "Inter Milan are progressing talks with Tottenham over a deal to sign Djed Spence, sources have told ESPN.",
+      "publishedAt": "2026-08-12T16:41:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700734_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49590386/djed-spence-inter-milan-tottenham-premier-league-transfers-serie-a",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Internazionale",
+        "England"
+      ]
+    },
+    {
+      "id": "b071dadeba00d6f234a9cd954db7e235",
+      "source": "Sky Sports",
+      "headline": "Pre-season: Newcastle vs Everton LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-12T15:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-matthias-jaissle_7319828.jpg?20260812162457",
+      "link": "https://www.skysports.com/football/newcastle-united-vs-everton/live/568648",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-08-12T13:49:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
       "id": 49588359,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Maresca wants Man City to sign Chelsea duo",
@@ -72,6 +173,17 @@
         "Belgium",
         "United States"
       ]
+    },
+    {
+      "id": "cbd4c010a654ca7016d30021d55166d2",
+      "source": "Sky Sports",
+      "headline": "Tielemans: I did not expect to leave Aston Villa for Man Utd this summer",
+      "description": "'Not really, no' - the perhaps surprising answer from Manchester United’s summer signing Youri Tielemans when asked whether he expected to leave his former club Aston Villa in this window.",
+      "publishedAt": "2026-08-12T11:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-youri-tielemans-man-utd_7319528.jpg?20260812101045",
+      "link": "https://www.skysports.com/football/news/12040/13572176/youri-tielemans-man-utd-midfield-on-joining-the-club-reuniting-with-marcus-rashford-and-jonny-evans-and-belgiums-world-cup-campaign",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49588946,
@@ -147,49 +259,6 @@
         "Nottingham Forest",
         "Sunderland",
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "46c99ba2b024a88d174f98695eb33806",
-      "source": "Sky Sports",
-      "headline": "UEFA Super Cup preview: Why three Villa stars won't play vs PSG",
-      "description": "",
-      "publishedAt": "2026-08-12T08:02:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-aston-villa-ollie-watkins_7257341.jpg?20260524175517",
-      "link": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/live/556002",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-12T07:09:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
       ]
     },
     {
@@ -442,20 +511,6 @@
       ]
     },
     {
-      "id": 49567137,
-      "source": "ESPN",
-      "headline": "Liverpool sign Barcelona defender Ronald Araújo on loan with €55m permanent option",
-      "description": "Liverpool have completed the signing of Barcelona defender Ronald Araújo on a season long loan, the two clubs have confirmed.",
-      "publishedAt": "2026-08-10T17:59:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0809/r1699475_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49567137/liverpool-sign-barcelona-defender-ronald-araujo-loan-55m-permanent-option",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Liverpool"
-      ]
-    },
-    {
       "id": 49573469,
       "source": "ESPN",
       "headline": "Why have Liverpool signed Barcelona captain Ronald Araújo, and what will he bring?",
@@ -468,51 +523,11 @@
         "Liverpool",
         "Barcelona"
       ]
-    },
-    {
-      "id": 49574541,
-      "source": "ESPN",
-      "headline": "Enzo Maresca on Omar Marmoush's Man City future: 'He needs to decide'",
-      "description": "Enzo Maresca has insisted that Omar Marmoush will decide if his future lies at Manchester City.",
-      "publishedAt": "2026-08-10T13:54:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699905_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49574541/manchester-city-premier-league-enzo-maresca-omar-marmoush-future-needs-decide",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49574071,
-      "source": "ESPN",
-      "headline": "Viktor Gyökeres feels 'very good physically' a year on in Arsenal preseason",
-      "description": "Viktor Gyökeres has said he feels in far better physical shape than when he signed for Arsenal a year ago.",
-      "publishedAt": "2026-08-10T12:13:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699869_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49574071/arsenal-viktor-gyokeres-premier-league-feels-very-good-physically-year-preseason",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49573684,
-      "source": "ESPN",
-      "headline": "Dwight McNeil, Brennan Johnson set for Everton, Crystal Palace swap - source",
-      "description": "Everton and Crystal Palace have agreed a straight swap deal involving Dwight McNeil and Brennan Johnson, a source has told ESPN.",
-      "publishedAt": "2026-08-10T10:24:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699854_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49573684/dwight-mcneil-brennan-johnson-agree-everton-crystal-palace-swap-source",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Crystal Palace"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-12T13:43:14.484Z"
+    "cachedAt": "2026-08-12T19:17:28.434Z"
   }
 }
