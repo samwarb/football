@@ -2,6 +2,72 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49584489,
+      "source": "ESPN",
+      "headline": "Mason Mount (foot) a doubt for Man United friendly vs. Leeds",
+      "description": "Mason Mount is a doubt for Manchester United's preseason friendly against Leeds United in Dublin on Wednesday as he continues his recovery from a foot injury, sources have told ESPN.",
+      "publishedAt": "2026-08-11T19:59:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700434_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49584489/mason-mount-injury-man-united-preseason-friendly-vs-leeds",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49580333,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal eye move for Barcelona's Koundé",
+      "description": "Arsenal are reportedly looking at a possible move for Barcelona defender Jules Koundé. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-11T19:48:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700418_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49580333/transfer-rumors-news-manchester-united-rb-leipzig-left-back-david-raum",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49584332,
+      "source": "ESPN",
+      "headline": "John McGinn: Aston Villa will compete despite big name departures",
+      "description": "John McGinn is confident Aston Villa are going to continue challenging the elite in the Premier League and Europe despite their latest summer shake-up.",
+      "publishedAt": "2026-08-11T19:44:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700421_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49584332/john-mcginn-aston-villa-compete-big-name-departures",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49583917,
+      "source": "ESPN",
+      "headline": "Manchester City's Kalvin Phillips re-joins Sheffield United on loan",
+      "description": "Manchester City midfielder Kalvin Phillips has returned to Sheffield United on loan after an injury-affected spell last season.",
+      "publishedAt": "2026-08-11T19:40:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700390_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49583917/manchester-city-kalvin-phillips-re-joins-sheffield-united-loan",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Sheffield United",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": "42c7e9b971e97669ea7b7f32fec282ee",
+      "source": "Sky Sports",
+      "headline": "Inter Milan in talks over Spurs and England defender Spence",
+      "description": "Tottenham are in talks with Inter Milan over the sale of Djed Spence.",
+      "publishedAt": "2026-08-11T16:59:00.000Z",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-djed-spence-tottenham_7182118.jpg?20260304143530",
+      "link": "https://www.skysports.com/football/news/12040/13572037/djed-spence-transfer-news-inter-milan-in-talks-to-sign-spurs-and-england-defender",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49583279,
       "source": "ESPN",
       "headline": "Newcastle boss Matthias Jaissle feels 'ambitious,' warns success won't happen 'overnight'",
@@ -32,20 +98,6 @@
         "Tottenham Hotspur",
         "Liverpool",
         "Newcastle United"
-      ]
-    },
-    {
-      "id": 49580333,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye Leipzig left back Raum",
-      "description": "Manchester United are weighing up a summer move for RB Leipzig left back David Raum. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-11T15:48:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700217_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49580333/transfer-rumors-news-manchester-united-rb-leipzig-left-back-david-raum",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "RB Leipzig"
       ]
     },
     {
@@ -183,17 +235,6 @@
       "teams": []
     },
     {
-      "id": "212aa01588619682cbaafeb84a606e30",
-      "source": "Sky Sports",
-      "headline": "Wrexham set to make club-record signing as Phillips returns to Blades",
-      "description": "",
-      "publishedAt": "2026-08-11T10:26:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-patterson-anthony_7241322.jpg?20260811112727",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49580826,
       "source": "ESPN",
       "headline": "Enzo Maresca: Following Pep Guardiola at Man City could be the 'impossible job' but also a 'privilege'",
@@ -324,17 +365,6 @@
         "Tottenham Hotspur",
         "Wrexham"
       ]
-    },
-    {
-      "id": "fb1891aa5a24861ccc5d9dad1d5de53b",
-      "source": "Sky Sports",
-      "headline": "Trump warns of 'terrible mistake' if FIFA replaces Infantino",
-      "description": "US President Donald Trump has warned FIFA would be making a \"terrible mistake\" if it got rid of Gianni Infantino as head of world football’s governing body.",
-      "publishedAt": "2026-08-11T06:04:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-donald-trump-gianni-infantino_7318666.jpg?20260811073125",
-      "link": "https://www.skysports.com/football/news/12040/13571834/gianni-infantino-donald-trump-warns-of-terrible-mistake-if-fifa-replaces-under-pressure-president",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49572938,
@@ -483,52 +513,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49570718,
-      "source": "ESPN",
-      "headline": "Maresca expects Rodri back at Manchester City 'at the moment'",
-      "description": "Enzo Maresca said Rodri is due back with Manchester City next week amid continuing speculation over the Spain midfielder's future.",
-      "publishedAt": "2026-08-09T22:21:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0326/r1634120_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49570718/maresca-rodri-back-manchester-city-moment",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49566333,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona step up Rodri chase from Man City",
-      "description": "Barcelona are stepping up their pursuit of Man City midfielder Rodri. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-09T19:08:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0326/r1634120_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49566333/transfer-rumors-news-barcelona-step-rodri-chase-man-city",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 49569137,
-      "source": "ESPN",
-      "headline": "Lucas Digne completes transfer to Paris Saint-Germain from Aston Villa",
-      "description": "Lucas Digne has completed his transfer to Paris Saint-Germain from Aston Villa on a three-year deal, the Ligue 1 club announced.",
-      "publishedAt": "2026-08-09T18:35:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0809/r1699599_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49569137/lucas-digne-completes-transfer-paris-saint-germain-aston-villa",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Paris Saint-Germain"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-11T19:17:12.854Z"
+    "cachedAt": "2026-08-12T02:41:21.837Z"
   }
 }
