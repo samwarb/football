@@ -2,11 +2,127 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49588359,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Maresca wants Man City to sign Chelsea duo",
+      "description": "Man City boss Enzo Maresca is keen to be reunited with two of his most-trusted Chelsea players, Enzo Fernandez and Pedro Neto. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-12T13:37:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700654_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49588359/transfer-rumors-news-maresca-wants-man-city-sign-chelsea-duo",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-12T12:16:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49422798,
+      "source": "ESPN",
+      "headline": "Ranking the top 30 best men's club managers in Europe",
+      "description": "ESPN ranks the top 30 men's managers in the European club game. Who is going to be No. 1? Mikel Arteta, Xabi Alonso, Luis Enrique?",
+      "publishedAt": "2026-08-12T12:12:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698301_3_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49422798/ranking-top-30-best-mens-club-managers-europe",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49588834,
+      "source": "ESPN",
+      "headline": "Youri Tielemans: FIFA's Balogun red card U-turn inspired Belgium to beat U.S. at World Cup",
+      "description": "Youri Tielemans has said that FIFA's shock decision to suspend Folarin Balogun's red card helped inspire Belgium's performance against the United States in their World Cup knockout tie.",
+      "publishedAt": "2026-08-12T11:08:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700664_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49588834/youri-tielemans-man-united-belgium-usmnt-usa-balogun-red-card-world-cup-premier-league",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Belgium",
+        "United States"
+      ]
+    },
+    {
+      "id": 49588946,
+      "source": "ESPN",
+      "headline": "Gerónimo Rulli joins Manchester City as Gianluigi Donnarumma's new understudy",
+      "description": "Manchester City have signed goalkeeper Geronimo Rulli from Marseille, the club have confirmed.",
+      "publishedAt": "2026-08-12T10:08:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700667_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49588946/geronimo-rulli-joins-manchester-city-gianluigi-donnarumma-new-understudy",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": "f18ec93133a75531a0e4745a51fcd3a9",
+      "source": "Sky Sports",
+      "headline": "What next for Birmingham City? Why Davies is changing his approach",
+      "description": "Birmingham City is a football club transformed. Over 20,000 season tickets have been sold for the forthcoming Championship season, with 14,000 more on the waiting list. Fan parks surround St Andrew's these days. The buzz around the place is palpable.",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chris-davies-birmingham-city_7319295.jpg?20260811220649",
+      "link": "https://www.skysports.com/football/news/12040/13566218/chris-davies-interview-birmingham-city-managers-tactical-change-could-take-this-ambitious-club-up-from-the-championship",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b813acb39565d2e42c10560ac28fecf5",
+      "source": "Sky Sports",
+      "headline": "Championship play-off changes, new managers & star players - the EFL is BACK!",
+      "description": "The 2026/27 EFL season is here!",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-football-southampton_7318895.jpg?20260811124729",
+      "link": "https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-12T08:36:40Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700656_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
       "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "publishedAt": "2026-08-12T07:25:14Z",
+      "publishedAt": "2026-08-12T08:34:52Z",
       "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
       "tag": "Arsenal",
@@ -32,6 +148,17 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": "46c99ba2b024a88d174f98695eb33806",
+      "source": "Sky Sports",
+      "headline": "UEFA Super Cup preview: Why three Villa stars won't play vs PSG",
+      "description": "",
+      "publishedAt": "2026-08-12T08:02:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-aston-villa-ollie-watkins_7257341.jpg?20260524175517",
+      "link": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/live/556002",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49154575,
@@ -66,17 +193,6 @@
       ]
     },
     {
-      "id": 49422798,
-      "source": "ESPN",
-      "headline": "Ranking the top 30 best men's club managers in Europe",
-      "description": "ESPN ranks the top 30 men's managers in the European club game. Who is going to be No. 1? Mikel Arteta, Xabi Alonso, Luis Enrique?",
-      "publishedAt": "2026-08-12T07:04:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698301_3_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49422798/ranking-top-30-best-mens-club-managers-europe",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -102,38 +218,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-12T06:32:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -192,17 +276,6 @@
       ]
     },
     {
-      "id": "42c7e9b971e97669ea7b7f32fec282ee",
-      "source": "Sky Sports",
-      "headline": "Inter Milan in talks over Spurs and England defender Spence",
-      "description": "Tottenham are in talks with Inter Milan over the sale of Djed Spence.",
-      "publishedAt": "2026-08-11T16:59:00.000Z",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-djed-spence-tottenham_7182118.jpg?20260304143530",
-      "link": "https://www.skysports.com/football/news/12040/13572037/djed-spence-transfer-news-inter-milan-in-talks-to-sign-spurs-and-england-defender",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49583279,
       "source": "ESPN",
       "headline": "Newcastle boss Matthias Jaissle feels 'ambitious,' warns success won't happen 'overnight'",
@@ -236,32 +309,6 @@
       ]
     },
     {
-      "id": "b348f228b708994fcc586fe53c3db574",
-      "source": "Sky Sports",
-      "headline": "Chelsea make enquiry for Arsenal's Lewis-Skelly",
-      "description": "Chelsea have made a new enquiry about signing Arsenal's Myles Lewis-Skelly.",
-      "publishedAt": "2026-08-11T15:05:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-myles-lewis-skelly_7239246.jpg?20260504202528",
-      "link": "https://www.skysports.com/football/news/12040/13571919/myles-lewis-skelly-transfer-news-chelsea-make-enquiry-for-arsenal-teenager-amid-long-term-interest-from-blues-and-man-utd",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49561129,
-      "source": "ESPN",
-      "headline": "Rodri transfer saga: Join Barcelona, Real Madrid? Man City stay?",
-      "description": "After Rodri led Spain to World Cup glory, it's no surprise that Barcelona and Real Madrid both want him. Will he move this summer or remain at Man City?",
-      "publishedAt": "2026-08-11T15:00:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0809/r1699500_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49561129/rodri-transfer-saga-join-barcelona-real-madrid-stay-manchester-city",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Real Madrid",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 49582084,
       "source": "ESPN",
       "headline": "Enzo Maresca says captaincy ploy unlikely to work if Erling Haaland was leading Man City",
@@ -286,17 +333,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "dd6706e5286b5d3c365fd499f6001f86",
-      "source": "Sky Sports",
-      "headline": "Arsenal to retain title? Liverpool above Man Utd? Sky Sports predicted table revealed",
-      "description": "Will Arsenal retain the title? What's in store for Manchester City, Liverpool and Chelsea under their new managers? And which teams are going to be relegated?",
-      "publishedAt": "2026-08-11T11:22:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-arsenal-declan-rice_7319052.jpg?20260811153602",
-      "link": "https://www.skysports.com/football/news/12040/13571927/sky-sports-supercomputer-predicts-2026-27-premier-league-table-as-arsenal-retain-title-and-liverpool-jump-back-above-man-utd-between-the-lines",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49580356,
@@ -365,19 +401,6 @@
       ]
     },
     {
-      "id": 49573365,
-      "source": "ESPN",
-      "headline": "Andoni Iraola: Liverpool players 'don't have energy for 90 minutes'",
-      "description": "Liverpool head coach Andoni Iraola has said that his side are struggling to sustain his desired level following a 3-2 defeat to Monaco in preseason.",
-      "publishedAt": "2026-08-11T08:10:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699838_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49573365/andoni-iraola-liverpool-preseason-monaco-defeat-premier-league",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": 49572938,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Tottenham eye move for Liverpool's Gakpo",
@@ -417,17 +440,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-10T19:50:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1700049_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 49567137,
@@ -496,24 +508,11 @@
         "Everton",
         "Crystal Palace"
       ]
-    },
-    {
-      "id": 49572875,
-      "source": "ESPN",
-      "headline": "Mikel Arteta 'trying' to add more Arsenal recruits after Vinícius Jr blow",
-      "description": "Mikel Arteta has said he is still \"trying\" to bring in players to make his Arsenal squad \"much better,\" after Vinícius Jr. opted to stay at Real Madrid.",
-      "publishedAt": "2026-08-10T06:53:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699831_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49572875/mikel-arteta-trying-arsenal-transfers-vinicius-jr-real-madrid-stay",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-12T07:49:00.830Z"
+    "cachedAt": "2026-08-12T13:43:14.484Z"
   }
 }
