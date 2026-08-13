@@ -6,10 +6,121 @@
       "source": "ESPN",
       "headline": "Former referee Anthony Taylor speaks out on reasons for stepping away from English game",
       "description": "After 20 years as an English football referee, Anthony Taylor will not be involved at the start of the upcoming season -- he explains what caused him to make such a drastic decision.",
-      "publishedAt": "2026-08-13T12:42:13Z",
+      "publishedAt": "2026-08-13T18:06:08Z",
       "image": "https://a.espncdn.com/photo/2026/0711/r1687722_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49599487/former-referee-anthony-taylor-speaks-reasons-stepping-away-english-game",
       "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 49600204,
+      "source": "ESPN",
+      "headline": "Michael Carrick calls for more Man United signings: 'Need to keep pushing'",
+      "description": "Michael Carrick has said Manchester United \"need\" more signings before the transfer deadline.",
+      "publishedAt": "2026-08-13T18:05:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695884_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49600204/michael-carrick-calls-more-man-united-signings-need-keep-pushing",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "2424b2257ed3bc677d83d9737ccb9ddd",
+      "source": "Sky Sports",
+      "headline": "Rangers vs Jagiellonia Bialystok LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-13T17:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rangers-derek-mcinnes_7315590.jpg?20260806180126",
+      "link": "https://www.skysports.com/football/rangers-vs-jagiellonia-bialystok/live/571444",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49598413,
+      "source": "ESPN",
+      "headline": "Manchester City transfers: Jérémy Doku pens new deal, Tijjani Reinders set to leave",
+      "description": "Jérémy Doku has become the latest Manchester City player to extend his contract after signing a new five-year deal, the club have confirmed.",
+      "publishedAt": "2026-08-13T16:56:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0621/r1677111_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49598413/manchester-city-transfers-jeremy-doku-pens-new-deal-tijjani-reijnders-set-leave",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49600452,
+      "source": "ESPN",
+      "headline": "Málaga score into empty net after Fulham walk off pitch in preseason friendly",
+      "description": "Fulham's preseason match against Málaga CF turned out to be not too friendly when the English club walked off and coach Álvaro Arbeloa was red-carded on Wednesday.",
+      "publishedAt": "2026-08-13T15:40:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701269_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49600452/malaga-score-empty-net-fulham-walk-pitch-preseason-friendly",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Málaga"
+      ]
+    },
+    {
+      "id": "9f65f4c993e28ed8f52c3d9c92483e0a",
+      "source": "Sky Sports",
+      "headline": "Celtic sign midfielder Baur on an initial four-year deal",
+      "description": "Celtic have made their fourth summer signing with midfielder Mika Baur joining on an initial four-year deal, with the option for a further year.",
+      "publishedAt": "2026-08-13T15:05:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-mika-baur-celtic_7320809.jpg?20260813170629",
+      "link": "https://www.skysports.com/football/news/12040/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49600103,
+      "source": "ESPN",
+      "headline": "Youri Tielemans apologises to Aston Villa fans following comments regarding Manchester United move",
+      "description": "Youri Tielemans has taken to social media to apologise to Aston Villa fans for comments he made regarding his move to Manchester United.",
+      "publishedAt": "2026-08-13T14:39:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699100_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49600103/youri-tielemans-apologises-aston-villa-fans-following-comments-regarding-manchester-united-move",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49600090,
+      "source": "ESPN",
+      "headline": "Doku: 'I'm an unfinished product' after new Manchester City contract",
+      "description": "Doku: 'I'm an unfinished product' after new Manchester City contract",
+      "publishedAt": "2026-08-13T14:33:00Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_Dok_Im_an_unfinished_product_after_new_Manchester_City_contract/dm_260813_Dok_Im_an_unfinished_product_after_new_Manchester_City_contract.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49600090/unfinished-product-new-manchester-city-contract",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "4978b903e92d3622a84b4b595f86a18f",
+      "source": "Sky Sports",
+      "headline": "Brighton latest: Genoa make contact over Ferguson loan",
+      "description": "",
+      "publishedAt": "2026-08-13T14:27:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "b022668d3de8ffc9e498427e872c4c6d",
+      "source": "Sky Sports",
+      "headline": "West Ham latest: Interim chief exec Virani targets Premier League return",
+      "description": "",
+      "publishedAt": "2026-08-13T14:08:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -58,30 +169,6 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 49598413,
-      "source": "ESPN",
-      "headline": "Manchester City transfers: Jérémy Doku pens new deal, Tijjani Reinders set to leave",
-      "description": "Jérémy Doku has become the latest Manchester City player to extend his contract after signing a new five-year deal, the club have confirmed.",
-      "publishedAt": "2026-08-13T11:04:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0621/r1677111_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49598413/manchester-city-transfers-jeremy-doku-pens-new-deal-tijjani-reijnders-set-leave",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "1396ebd77f6ff836e592a4e5b6e222f4",
-      "source": "Sky Sports",
-      "headline": "EFL latest: 'It feels like home' - Jimenez explains Wolves return",
-      "description": "",
-      "publishedAt": "2026-08-13T10:26:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-football-carabao-cup_7316418.jpg?20260807213328",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49598641,
@@ -141,17 +228,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "6d47d1566f8decc0bf864dcf0b4e67d8",
-      "source": "Sky Sports",
-      "headline": "Man City reject fresh Barcelona bid for Rodri",
-      "description": "Manchester City have rejected a new £55m bid from Barcelona for Rodri.",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-man-city_7309079.jpg?20260729085100",
-      "link": "https://www.skysports.com/football/news/12040/13567985/rodri-transfer-news-man-city-reject-55m-bid-from-barcelona-for-world-cup-winning-midfielder",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49597995,
@@ -239,17 +315,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "4019a843eef7fbc950389f4348c16d71",
-      "source": "Sky Sports",
-      "headline": "Papers: Arsenal hold further talks over Villa's Konsa",
-      "description": "The top stories and transfer rumours from Thursday's newspapers...",
-      "publishedAt": "2026-08-12T22:30:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13572412/arsenal-transfer-news-gunners-hold-further-talks-over-aston-villa-defender-ezri-konsa-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49593678,
@@ -374,6 +439,17 @@
       "teams": []
     },
     {
+      "id": "6817289e769179b8ea27037c247bc4ed",
+      "source": "Sky Sports",
+      "headline": "Could UK diaspora players represent India? | Bhatia closes in on Liverpool stake",
+      "description": "Welcome to Dev's Digest, a regular Sky Sports column in which Asian Football Award winner Dev Trehan delivers exclusive news and reflects on some of the key developments for British South Asians in Football.",
+      "publishedAt": "2026-08-12T11:15:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-football-devs-digest_7319666.jpg?20260812123630",
+      "link": "https://www.skysports.com/football/news/12040/13570292/devs-digest-will-british-indians-represent-india-national-team-amit-bhatia-closes-in-on-liverpool-stake-yan-dhandas-debut-revisited",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
       "id": 49588834,
       "source": "ESPN",
       "headline": "Youri Tielemans: FIFA's Balogun red card U-turn inspired Belgium to beat U.S. at World Cup",
@@ -449,83 +525,11 @@
       "teams": [
         "Aston Villa"
       ]
-    },
-    {
-      "id": 49583917,
-      "source": "ESPN",
-      "headline": "Manchester City's Kalvin Phillips re-joins Sheffield United on loan",
-      "description": "Manchester City midfielder Kalvin Phillips has returned to Sheffield United on loan after an injury-affected spell last season.",
-      "publishedAt": "2026-08-11T19:40:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700390_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49583917/manchester-city-kalvin-phillips-re-joins-sheffield-united-loan",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Sheffield United",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 49583279,
-      "source": "ESPN",
-      "headline": "Newcastle boss Matthias Jaissle feels 'ambitious,' warns success won't happen 'overnight'",
-      "description": "Matthias Jaissle has said he's arrived at Newcastle in an \"ambitious\" mood, but the new head coach has warned success \"will not happen overnight\" after replacing Eddie Howe.",
-      "publishedAt": "2026-08-11T16:37:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700330_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49583279/newcastle-premier-league-matthias-jaissle-feels-ambitious-warns-success-happen-overnight",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49582031,
-      "source": "ESPN",
-      "headline": "One U21 player to watch from each Premier League team",
-      "description": "From the player who could become Man United's youngest ever to Brighton's next big thing, meet the Premier League's brightest young stars.",
-      "publishedAt": "2026-08-11T15:50:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700262_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49582031/one-u21-player-watch-premier-league-team",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Tottenham Hotspur",
-        "Liverpool",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49582084,
-      "source": "ESPN",
-      "headline": "Enzo Maresca says captaincy ploy unlikely to work if Erling Haaland was leading Man City",
-      "description": "Erling Haaland is unlikely to be given the captain's armband at Manchester City due to his goalscoring prowess, head coach Enzo Maresca has indicated.",
-      "publishedAt": "2026-08-11T13:28:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700266_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49582084/enzo-maresca-says-captaincy-ploy-unlikely-work-erling-haaland-was-leading-man-city",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "f63b51ac15987e6a4234a7254e464559",
-      "source": "Sky Sports",
-      "headline": "Leeds Rhinos sign Lodge from NRL's Cowboys",
-      "description": "",
-      "publishedAt": "2026-08-10T18:31:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-matt-lodge-nrl-rugby-league_7320411.jpg?20260813101621",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-13T13:44:08.115Z"
+    "cachedAt": "2026-08-13T19:17:40.244Z"
   }
 }
