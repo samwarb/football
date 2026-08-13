@@ -2,11 +2,154 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49594261,
+      "source": "ESPN",
+      "headline": "Arsenal's Mikel Arteta welcomes speculation around Myles Lewis-Skelly",
+      "description": "Arsenal manager Mikel Arteta has brushed off transfer speculation surrounding Myles Lewis-Skelly, saying he welcomes his players being linked with moves to other clubs.",
+      "publishedAt": "2026-08-12T23:28:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700919_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49594261/arsenal-myles-lewis-skelly-transfer-mikel-arteta-como",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4019a843eef7fbc950389f4348c16d71",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal hold further talks over Villa's Konsa",
+      "description": "The top stories and transfer rumours from Thursday's newspapers...",
+      "publishedAt": "2026-08-12T22:30:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13572412/arsenal-transfer-news-gunners-hold-further-talks-over-aston-villa-defender-ezri-konsa-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49593678,
+      "source": "ESPN",
+      "headline": "Mazraoui: Pitch invaders show 'big love' for United",
+      "description": "Noussair Mazraoui kept his cool amid a bizarre finish to Manchester United's pre-season friendly in Dublin, rolling in the decisive penalty as they beat Leeds United 5-4 in a shoot-out.",
+      "publishedAt": "2026-08-12T22:27:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700975_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49593678/mazraoui-big-love-manchester-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49593673,
+      "source": "ESPN",
+      "headline": "Who is the best manager in Europe?",
+      "description": "Who is the best manager in Europe?",
+      "publishedAt": "2026-08-12T22:15:33Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Who_is_the_best_manager_in_Europe3F__GLOBAL_2026-08-12/dm_260812_COM_SOC_Analysis_Who_is_the_best_manager_in_Europe3F__GLOBAL_2026-08-12.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49593673/who-best-manager-europe",
+      "tag": "Media",
+      "teams": []
+    },
+    {
+      "id": 49593644,
+      "source": "ESPN",
+      "headline": "Moreno: Romero is the perfect Simeone and Atlético Madrid player",
+      "description": "Moreno: Romero is the perfect Simeone and Atlético Madrid player",
+      "publishedAt": "2026-08-12T22:14:08Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/dm_260812_COM_SOC_Analysis_Moreno3A_Romero_is_the_perfect_Simeone_and_AtlC3A9tico_Madrid_player_GLOBAL_2026-08-1/dm_260812_COM_SOC_Analysis_Moreno3A_Romero_is_the_perfect_Simeone_and_AtlC3A9tico_Madrid_player_GLOBAL_2026-08-1.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49593644/romero-perfect-simeone-atletico-madrid-player",
+      "tag": "Atlético Madrid",
+      "teams": [
+        "Atlético Madrid",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "0b5ba1b5961d205dfb0981f45d97e883",
+      "source": "Sky Sports",
+      "headline": "Arteta: There's more we want to do in the transfer market",
+      "description": "Mikel Arteta says Arsenal are actively looking for more new signings in the transfer market but admits there is only a small pool of available players who can take them to the next level.",
+      "publishedAt": "2026-08-12T22:10:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-mikel-arteta-arsenal_7320143.jpg?20260812225900",
+      "link": "https://www.skysports.com/football/news/12040/13572410/mikel-arteta-says-arsenal-are-actively-looking-for-signings-in-the-transfer-market-after-bruno-guimaraes-makes-bow-in-friendly-against-como",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "8b75f8acdfc1d0ddb9333f4226dfdb9c",
+      "source": "Sky Sports",
+      "headline": "Doue silences Madjo-mania as PSG beat Villa to win Super Cup",
+      "description": "Desire Doue scored the winner as champions of Europe Paris Saint-Germain beat Aston Villa 2-1 to win the UEFA Super Cup.",
+      "publishedAt": "2026-08-12T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-psg-aston-villa-super-cup_7320132.jpg?20260812224528",
+      "link": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/report/556002",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "ff684eac968f14fc91d617d9f4f27ec2",
+      "source": "Sky Sports",
+      "headline": "Chelsea set Man City deadline to bid for Fernandez",
+      "description": "Chelsea have told Manchester City they have a deadline of 5pm this Friday to make an offer for Enzo Fernandez.",
+      "publishedAt": "2026-08-12T20:49:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-chelsea_7253462.jpg?20260519204412",
+      "link": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "c220f0801c0f65bb3a5880eca0fa128c",
+      "source": "Sky Sports",
+      "headline": "Rashford absent in Leeds friendly win but still part of Man Utd plans",
+      "description": "Joshua Zirkzee and Brenden Aaronson scored as Manchester United and old foes Leeds played out an entertaining 1-1 friendly draw at the spiritual home of Irish sport in Dublin, before the concluding shoot-out was edged 5-4 by Michael Carrick's side.",
+      "publishedAt": "2026-08-12T20:48:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-joshua-zirkzee_7320054.jpg?20260812201610",
+      "link": "https://www.skysports.com/football/manchester-united-vs-leeds-united/report/555721",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "67876d4b2636fd4834f621448560cce3",
+      "source": "Sky Sports",
+      "headline": "Guimaraes makes bow and Lewis-Skelly scores as Arsenal held by Como",
+      "description": "Bruno Guimaraes made his first appearance and Myles Lewis-Skelly scored amid speculation about his future as Arsenal were held to a 1-1 draw by Como before winning 4-3 on penalties.",
+      "publishedAt": "2026-08-12T20:30:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320098.jpg?20260812215814",
+      "link": "https://www.skysports.com/football/arsenal-vs-como/report/562442",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "02a15062fff4ebce068dad87b816e3ae",
+      "source": "Sky Sports",
+      "headline": "Atletico agree deal to sign Spurs captain Romero",
+      "description": "Atletico Madrid have agreed a deal in principle with Tottenham to sign Cristian Romero.",
+      "publishedAt": "2026-08-12T20:30:00.000Z",
+      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-cristian-romero-spurs_7129975.jpg?20260108074432",
+      "link": "https://www.skysports.com/football/news/12040/13571751/cristian-romero-atletico-madrid-agree-deal-with-tottenham-to-sign-argentina-defender-after-long-term-interest",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49588359,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Tottenham continue interest for USMNT's Balogun",
+      "description": "United States striker Folarin Balogun is reportedly linked with a move to Tottenham Hotspur. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-12T20:09:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700903_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49588359/transfer-rumors-news-maresca-wants-man-city-sign-chelsea-duo",
+      "tag": "AS Monaco",
+      "teams": [
+        "AS Monaco",
+        "Tottenham Hotspur",
+        "United States"
+      ]
+    },
+    {
       "id": 49591558,
       "source": "ESPN",
       "headline": "Hull break club transfer record to sign Senegal's Nobel Mendy",
       "description": "Hull City have signed Senegal defender Nobel Mendy from Spanish side Rayo Vallecano for what the newly promoted Premier League club said was a club-record transfer fee.",
-      "publishedAt": "2026-08-12T17:44:11Z",
+      "publishedAt": "2026-08-12T19:35:44Z",
       "image": "https://a.espncdn.com/photo/2026/0812/r1700827_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49591558/hull-city-transfer-record-nobel-mendy-senegal-rayo-vallecano",
       "tag": "Hull City",
@@ -60,17 +203,6 @@
       ]
     },
     {
-      "id": "b071dadeba00d6f234a9cd954db7e235",
-      "source": "Sky Sports",
-      "headline": "Pre-season: Newcastle vs Everton LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-12T15:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-matthias-jaissle_7319828.jpg?20260812162457",
-      "link": "https://www.skysports.com/football/newcastle-united-vs-everton/live/568648",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -100,20 +232,6 @@
         "Sunderland",
         "Tottenham Hotspur",
         "Wrexham"
-      ]
-    },
-    {
-      "id": 49588359,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Maresca wants Man City to sign Chelsea duo",
-      "description": "Man City boss Enzo Maresca is keen to be reunited with two of his most-trusted Chelsea players, Enzo Fernandez and Pedro Neto. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-12T13:37:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700654_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49588359/transfer-rumors-news-maresca-wants-man-city-sign-chelsea-duo",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
       ]
     },
     {
@@ -175,17 +293,6 @@
       ]
     },
     {
-      "id": "cbd4c010a654ca7016d30021d55166d2",
-      "source": "Sky Sports",
-      "headline": "Tielemans: I did not expect to leave Aston Villa for Man Utd this summer",
-      "description": "'Not really, no' - the perhaps surprising answer from Manchester United’s summer signing Youri Tielemans when asked whether he expected to leave his former club Aston Villa in this window.",
-      "publishedAt": "2026-08-12T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-youri-tielemans-man-utd_7319528.jpg?20260812101045",
-      "link": "https://www.skysports.com/football/news/12040/13572176/youri-tielemans-man-utd-midfield-on-joining-the-club-reuniting-with-marcus-rashford-and-jonny-evans-and-belgiums-world-cup-campaign",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49588946,
       "source": "ESPN",
       "headline": "Gerónimo Rulli joins Manchester City as Gianluigi Donnarumma's new understudy",
@@ -194,28 +301,6 @@
       "image": "https://a.espncdn.com/photo/2026/0812/r1700667_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49588946/geronimo-rulli-joins-manchester-city-gianluigi-donnarumma-new-understudy",
       "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": "f18ec93133a75531a0e4745a51fcd3a9",
-      "source": "Sky Sports",
-      "headline": "What next for Birmingham City? Why Davies is changing his approach",
-      "description": "Birmingham City is a football club transformed. Over 20,000 season tickets have been sold for the forthcoming Championship season, with 14,000 more on the waiting list. Fan parks surround St Andrew's these days. The buzz around the place is palpable.",
-      "publishedAt": "2026-08-12T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chris-davies-birmingham-city_7319295.jpg?20260811220649",
-      "link": "https://www.skysports.com/football/news/12040/13566218/chris-davies-interview-birmingham-city-managers-tactical-change-could-take-this-ambitious-club-up-from-the-championship",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b813acb39565d2e42c10560ac28fecf5",
-      "source": "Sky Sports",
-      "headline": "Championship play-off changes, new managers & star players - the EFL is BACK!",
-      "description": "The 2026/27 EFL season is here!",
-      "publishedAt": "2026-08-12T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-football-southampton_7318895.jpg?20260811124729",
-      "link": "https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -468,66 +553,11 @@
         "Crystal Palace",
         "Everton"
       ]
-    },
-    {
-      "id": 49572938,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Tottenham eye move for Liverpool's Gakpo",
-      "description": "Liverpool could end up letting Cody Gakpo depart to Tottenham if they are able to get a replacement. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-11T00:23:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1700067_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Paris Saint-Germain",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49577565,
-      "source": "ESPN",
-      "headline": "Moreno not worried by Liverpool's preseason fitness levels",
-      "description": "Moreno not worried by Liverpool's preseason fitness levels",
-      "publishedAt": "2026-08-10T21:44:07Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0810/dm_260810_Moreno_not_worried_by_Liverpools_preseason_fitness_levels/dm_260810_Moreno_not_worried_by_Liverpools_preseason_fitness_levels.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49577565/moreno-not-worried-liverpool-preseason-fitness-levels",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49577092,
-      "source": "ESPN",
-      "headline": "Micky van de Ven signs new Tottenham contract",
-      "description": "Tottenham Hotspur centre-back Micky van de Ven has signed a new contract to extend his stay in north London, the Premier League club has announced.",
-      "publishedAt": "2026-08-10T20:40:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1700064_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49577092/micky-van-de-ven-signs-new-tottenham-hotspur-contract",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49573469,
-      "source": "ESPN",
-      "headline": "Why have Liverpool signed Barcelona captain Ronald Araújo, and what will he bring?",
-      "description": "Liverpool have signed versatile Barcelona defender Ronald Araújo on loan, with a €55 million option. But is it a good deal for them? And why have they done it?",
-      "publishedAt": "2026-08-10T17:51:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699987_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49573469/why-liverpool-signed-barcelona-captain-ronald-araujo-he-bring",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Barcelona"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-12T19:17:28.434Z"
+    "cachedAt": "2026-08-13T02:44:38.818Z"
   }
 }
