@@ -2,6 +2,172 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49599487,
+      "source": "ESPN",
+      "headline": "Former referee Anthony Taylor speaks out on reasons for stepping away from English game",
+      "description": "After 20 years as an English football referee, Anthony Taylor will not be involved at the start of the upcoming season -- he explains what caused him to make such a drastic decision.",
+      "publishedAt": "2026-08-13T12:42:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687722_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49599487/former-referee-anthony-taylor-speaks-reasons-stepping-away-english-game",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 49597770,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea eye Zubimendi as Enzo Fernández replacement",
+      "description": "Chelsea could sign Arsenal midfielder Martín Zubimendi if Enzo Fernández joins Manchester City this summer. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-13T12:24:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701169_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49597770/transfer-rumors-news-chelsea-eye-arsenal-zubimendi-replace-man-city-target-enzo-fernandez",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Arsenal",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
+      "publishedAt": "2026-08-13T11:53:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49598413,
+      "source": "ESPN",
+      "headline": "Manchester City transfers: Jérémy Doku pens new deal, Tijjani Reinders set to leave",
+      "description": "Jérémy Doku has become the latest Manchester City player to extend his contract after signing a new five-year deal, the club have confirmed.",
+      "publishedAt": "2026-08-13T11:04:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0621/r1677111_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49598413/manchester-city-transfers-jeremy-doku-pens-new-deal-tijjani-reijnders-set-leave",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "1396ebd77f6ff836e592a4e5b6e222f4",
+      "source": "Sky Sports",
+      "headline": "EFL latest: 'It feels like home' - Jimenez explains Wolves return",
+      "description": "",
+      "publishedAt": "2026-08-13T10:26:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-football-carabao-cup_7316418.jpg?20260807213328",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49598641,
+      "source": "ESPN",
+      "headline": "Chelsea set Friday deadline for Enzo Fernández amid Man City interest - sources",
+      "description": "Chelsea have set a Friday deadline for any clubs wishing to meet their £120million valuation of Enzo Fernández, sources have told ESPN.",
+      "publishedAt": "2026-08-13T09:57:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701193_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49598641/chelsea-enzo-fernandez-man-city-premier-league-transfers",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49598618,
+      "source": "ESPN",
+      "headline": "Aston Villa's John McGinn on rookie striker Brian Madjo: 'He's going to be a big player for us'",
+      "description": "John McGinn has backed rookie striker Brian Madjo to play a big part for Aston Villa this season.",
+      "publishedAt": "2026-08-13T09:56:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701190_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49598618/aston-villas-john-mcginn-rookie-striker-brian-madjo-going-big-player-us",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-13T09:55:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "6d47d1566f8decc0bf864dcf0b4e67d8",
+      "source": "Sky Sports",
+      "headline": "Man City reject fresh Barcelona bid for Rodri",
+      "description": "Manchester City have rejected a new £55m bid from Barcelona for Rodri.",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-man-city_7309079.jpg?20260729085100",
+      "link": "https://www.skysports.com/football/news/12040/13567985/rodri-transfer-news-man-city-reject-55m-bid-from-barcelona-for-world-cup-winning-midfielder",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49597995,
+      "source": "ESPN",
+      "headline": "Marcus Rashford could make Man United return against Ruben Amorim's AC Milan",
+      "description": "Manchester United head coach Michael Carrick has praised Marcus Rashford and said that he may be available to face Ruben Amorim's AC Milan in a preseason friendly.",
+      "publishedAt": "2026-08-13T08:55:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701165_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49597995/marcus-rashford-man-united-ruben-amorim-ac-milan-michael-carrick",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "AC Milan"
+      ]
+    },
+    {
       "id": 49154575,
       "source": "ESPN",
       "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -59,38 +225,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-13T07:03:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -154,72 +288,6 @@
         "Atlético Madrid",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "0b5ba1b5961d205dfb0981f45d97e883",
-      "source": "Sky Sports",
-      "headline": "Arteta: There's more we want to do in the transfer market",
-      "description": "Mikel Arteta says Arsenal are actively looking for more new signings in the transfer market but admits there is only a small pool of available players who can take them to the next level.",
-      "publishedAt": "2026-08-12T22:10:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-mikel-arteta-arsenal_7320143.jpg?20260812225900",
-      "link": "https://www.skysports.com/football/news/12040/13572410/mikel-arteta-says-arsenal-are-actively-looking-for-signings-in-the-transfer-market-after-bruno-guimaraes-makes-bow-in-friendly-against-como",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "8b75f8acdfc1d0ddb9333f4226dfdb9c",
-      "source": "Sky Sports",
-      "headline": "Doue silences Madjo-mania as PSG beat Villa to win Super Cup",
-      "description": "Desire Doue scored the winner as champions of Europe Paris Saint-Germain beat Aston Villa 2-1 to win the UEFA Super Cup.",
-      "publishedAt": "2026-08-12T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-psg-aston-villa-super-cup_7320132.jpg?20260812224528",
-      "link": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/report/556002",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "ff684eac968f14fc91d617d9f4f27ec2",
-      "source": "Sky Sports",
-      "headline": "Chelsea set Man City deadline to bid for Fernandez",
-      "description": "Chelsea have told Manchester City they have a deadline of 5pm this Friday to make an offer for Enzo Fernandez.",
-      "publishedAt": "2026-08-12T20:49:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-chelsea_7253462.jpg?20260519204412",
-      "link": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "c220f0801c0f65bb3a5880eca0fa128c",
-      "source": "Sky Sports",
-      "headline": "Rashford absent in Leeds friendly win but still part of Man Utd plans",
-      "description": "Joshua Zirkzee and Brenden Aaronson scored as Manchester United and old foes Leeds played out an entertaining 1-1 friendly draw at the spiritual home of Irish sport in Dublin, before the concluding shoot-out was edged 5-4 by Michael Carrick's side.",
-      "publishedAt": "2026-08-12T20:48:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-joshua-zirkzee_7320054.jpg?20260812201610",
-      "link": "https://www.skysports.com/football/manchester-united-vs-leeds-united/report/555721",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "67876d4b2636fd4834f621448560cce3",
-      "source": "Sky Sports",
-      "headline": "Guimaraes makes bow and Lewis-Skelly scores as Arsenal held by Como",
-      "description": "Bruno Guimaraes made his first appearance and Myles Lewis-Skelly scored amid speculation about his future as Arsenal were held to a 1-1 draw by Como before winning 4-3 on penalties.",
-      "publishedAt": "2026-08-12T20:30:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320098.jpg?20260812215814",
-      "link": "https://www.skysports.com/football/arsenal-vs-como/report/562442",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "02a15062fff4ebce068dad87b816e3ae",
-      "source": "Sky Sports",
-      "headline": "Atletico agree deal to sign Spurs captain Romero",
-      "description": "Atletico Madrid have agreed a deal in principle with Tottenham to sign Cristian Romero.",
-      "publishedAt": "2026-08-12T20:30:00.000Z",
-      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-cristian-romero-spurs_7129975.jpg?20260108074432",
-      "link": "https://www.skysports.com/football/news/12040/13571751/cristian-romero-atletico-madrid-agree-deal-with-tottenham-to-sign-argentina-defender-after-long-term-interest",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49588359,
@@ -343,38 +411,6 @@
       "teams": []
     },
     {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "publishedAt": "2026-08-12T08:34:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49584489,
       "source": "ESPN",
       "headline": "Mason Mount (foot) a doubt for Man United friendly vs. Leeds",
@@ -476,88 +512,20 @@
       ]
     },
     {
-      "id": 49581314,
-      "source": "ESPN",
-      "headline": "Liverpool supporter group seek clarity amid consortium linked to Jeff Bezos",
-      "description": "Supporters' group Spirit of Shankly (SoS) has written to Liverpool to stress the ownership and control of the club is \"fundamental to us all.\"",
-      "publishedAt": "2026-08-11T11:55:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700239_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49581314/liverpool-supporter-group-seek-clarity-amid-consortium-linked-jeff-bezos-premier-league",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49580356,
-      "source": "ESPN",
-      "headline": "UEFA referee chief calls for change in VAR use: 'It's football, not PlayStation'",
-      "description": "UEFA referees' chief Roberto Rosetti has called for a change in the use of the video assistant referee (VAR) in European football.",
-      "publishedAt": "2026-08-11T10:31:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0511/r1656603_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49580356/uefa-referee-chief-calls-change-var-use-football-not-playstation",
-      "tag": "HeadlineNews",
+      "id": "f63b51ac15987e6a4234a7254e464559",
+      "source": "Sky Sports",
+      "headline": "Leeds Rhinos sign Lodge from NRL's Cowboys",
+      "description": "",
+      "publishedAt": "2026-08-10T18:31:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-matt-lodge-nrl-rugby-league_7320411.jpg?20260813101621",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
+      "tag": "Liveblog",
       "teams": []
-    },
-    {
-      "id": 49580826,
-      "source": "ESPN",
-      "headline": "Enzo Maresca: Following Pep Guardiola at Man City could be the 'impossible job' but also a 'privilege'",
-      "description": "Enzo Maresca has opened up on life at Manchester City, as his first season as head coach of the club draws near.",
-      "publishedAt": "2026-08-11T10:19:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700219_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49580826/enzo-maresca-man-city-premier-league-pep-guardiola-chelsea",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49580789,
-      "source": "ESPN",
-      "headline": "Fulham sign Shea Charles from Southampton on five-year contract",
-      "description": "Fulham have announced the signing of Shea Charles from Southampton as Alvaro Arbeloa continues to strengthen his squad.",
-      "publishedAt": "2026-08-11T10:13:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700223_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49580789/fulham-sign-shea-charles-southampton-five-year-contract-premier-league",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham"
-      ]
-    },
-    {
-      "id": 49580612,
-      "source": "ESPN",
-      "headline": "Brennan Johnson, Dwight McNeil complete Everton, Crystal Palace moves in rare swap",
-      "description": "Brennan Johnson and Dwight McNeil's moves to Everton and Crystal Palace respectively have been confirmed",
-      "publishedAt": "2026-08-11T09:19:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699854_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49580612/brennan-johnson-dwight-mcneil-complete-everton-crystal-palace-moves-rare-swap",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Crystal Palace"
-      ]
-    },
-    {
-      "id": 49574405,
-      "source": "ESPN",
-      "headline": "Johnson-McNeil deal: Have two clubs ever swapped players before?",
-      "description": "Brennan Johnson and Dwight McNeil have swapped Premier League clubs. It's a rare transfer practice, but it's happened before with varying levels of success.",
-      "publishedAt": "2026-08-11T09:11:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699877_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49574405/johnson-mcneil-swap-deal-two-clubs-ever-swapped-players-before",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Everton"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-13T07:50:23.232Z"
+    "cachedAt": "2026-08-13T13:44:08.115Z"
   }
 }
