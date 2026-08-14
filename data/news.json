@@ -2,6 +2,110 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49604116,
+      "source": "ESPN",
+      "headline": "Tottenham's Djed Spence lands in Italy to complete Inter transfer",
+      "description": "Tottenham Hotspur defender Djed Spence has landed in Italy ahead of completing a move to Inter Milan.",
+      "publishedAt": "2026-08-14T01:54:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701482_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49604116/tottenham-djed-spence-inter-milan-transfer",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Internazionale",
+        "England"
+      ]
+    },
+    {
+      "id": 49603893,
+      "source": "ESPN",
+      "headline": "Will new IFAB rules impact Arsenal most in the Premier League?",
+      "description": "Will new IFAB rules impact Arsenal most in the Premier League?",
+      "publishedAt": "2026-08-13T22:58:01Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_Will_new_IFAB_rules_impact_Arsenal_most_in_the_Premier_League_2026_8_13/dm_260813_COM_SOC_ANALYSIS_Will_new_IFAB_rules_impact_Arsenal_most_in_the_Premier_League_2026_8_13.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49603893/will-new-ifab-rules-impact-arsenal-most-premier-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49603875,
+      "source": "ESPN",
+      "headline": "Is Enzo Fernandez the right fit for Man City?",
+      "description": "Is Enzo Fernandez the right fit for Man City?",
+      "publishedAt": "2026-08-13T22:53:40Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_Is_Enzo_Fernandez_the_right_fit_for_Man_City_2026_8_13/dm_260813_COM_SOC_ANALYSIS_Is_Enzo_Fernandez_the_right_fit_for_Man_City_2026_8_13.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49603875/is-enzo-fernandez-right-fit-man-city",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49603825,
+      "source": "ESPN",
+      "headline": "Leboeuf: Doku's 2032 deal crucial for Man City",
+      "description": "Leboeuf: Doku's 2032 deal crucial for Man City",
+      "publishedAt": "2026-08-13T22:43:06Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALSYSIS_Leboeuf_Dokus_2032_deal_crucial_for_Man_City_2026_8_13/dm_260813_COM_SOC_ANALSYSIS_Leboeuf_Dokus_2032_deal_crucial_for_Man_City_2026_8_13.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49603825/doku-2032-deal-crucial-man-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "68d2146377a78278253f1b918a0a1bf7",
+      "source": "Sky Sports",
+      "headline": "Rangers 'are not ready' to compete in Europa League, says McInnes",
+      "description": "Derek McInnes admitted Rangers are \"not ready\" to compete at Europa League level.",
+      "publishedAt": "2026-08-13T22:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rangers-derek-mcinnes_7321032.jpg?20260813222029",
+      "link": "https://www.skysports.com/football/news/12040/13572768/rangers-derek-mcinnes-admits-rangers-not-ready-to-compete-in-europa-league-as-dismal-winless-run-continues",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "7ddecb389dcc40995edca0f8875c7b66",
+      "source": "Sky Sports",
+      "headline": "Super League leaders Leeds beaten by Leigh after late drama",
+      "description": "Innes Senior scored twice as Leigh Leopards inflicted a first home defeat of the season on Betfred Super League leaders Leeds Rhinos by winning 20-16 at Headingley.",
+      "publishedAt": "2026-08-13T21:40:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-umyla-hanley-leigh_7321059.jpg?20260813224515",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13572725/super-league-leaders-leeds-rhinos-suffer-first-home-defeat-of-season-as-leigh-leopards-claim-surprise-20-16-win-at-headingley",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49598413,
+      "source": "ESPN",
+      "headline": "Manchester City transfers: Jérémy Doku pens new deal, Tijjani Reijnders set to leave",
+      "description": "Jérémy Doku has become the latest Manchester City player to extend his contract after signing a new five-year deal, the club have confirmed.",
+      "publishedAt": "2026-08-13T20:12:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0621/r1677111_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49598413/manchester-city-transfers-jeremy-doku-pens-new-deal-tijjani-reijnders-set-leave",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49597770,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea join race to sign Monaco's Camara",
+      "description": "Chelsea are the latest Premier League team linked with a move for AS Monaco midfielder Lamine Camara. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-13T20:12:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701406_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49597770/transfer-rumors-news-chelsea-eye-arsenal-zubimendi-replace-man-city-target-enzo-fernandez",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "AS Monaco"
+      ]
+    },
+    {
       "id": 49599487,
       "source": "ESPN",
       "headline": "Former referee Anthony Taylor speaks out on reasons for stepping away from English game",
@@ -26,28 +130,26 @@
       ]
     },
     {
-      "id": "2424b2257ed3bc677d83d9737ccb9ddd",
+      "id": "310f4c9b51bf6d0a8238d6f7cc457ed7",
       "source": "Sky Sports",
-      "headline": "Rangers vs Jagiellonia Bialystok LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-13T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rangers-derek-mcinnes_7315590.jpg?20260806180126",
-      "link": "https://www.skysports.com/football/rangers-vs-jagiellonia-bialystok/live/571444",
-      "tag": "Liveblog",
+      "headline": "Leicester City up for sale for more than £200m",
+      "description": "Thai owners King Power are seeking to sell Leicester City for more than £200m.",
+      "publishedAt": "2026-08-13T17:27:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leicester-city_7304340.jpg?20260722161109",
+      "link": "https://www.skysports.com/football/news/12040/13572696/leicester-city-for-sale-thai-owners-king-power-put-club-on-market-for-more-than-200m",
+      "tag": "News Story",
       "teams": []
     },
     {
-      "id": 49598413,
-      "source": "ESPN",
-      "headline": "Manchester City transfers: Jérémy Doku pens new deal, Tijjani Reinders set to leave",
-      "description": "Jérémy Doku has become the latest Manchester City player to extend his contract after signing a new five-year deal, the club have confirmed.",
-      "publishedAt": "2026-08-13T16:56:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0621/r1677111_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49598413/manchester-city-transfers-jeremy-doku-pens-new-deal-tijjani-reijnders-set-leave",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
+      "id": "fa62e4f2c101a03993075f029d3edd79",
+      "source": "Sky Sports",
+      "headline": "Championship predictions & best bets: Wolves to fall flat on opening night",
+      "description": "",
+      "publishedAt": "2026-08-13T17:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-championship_7320352.jpg?20260813093238",
+      "link": "https://www.skysports.com/football/news/12040/13572484/efl-2026-27-season-kick-off-championship-predictions-and-best-bets",
+      "tag": "Article/Blog",
+      "teams": []
     },
     {
       "id": 49600452,
@@ -98,43 +200,6 @@
       "link": "https://www.espn.com/video/clip/_/id/49600090/unfinished-product-new-manchester-city-contract",
       "tag": "Manchester City",
       "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "4978b903e92d3622a84b4b595f86a18f",
-      "source": "Sky Sports",
-      "headline": "Brighton latest: Genoa make contact over Ferguson loan",
-      "description": "",
-      "publishedAt": "2026-08-13T14:27:00.000Z",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "b022668d3de8ffc9e498427e872c4c6d",
-      "source": "Sky Sports",
-      "headline": "West Ham latest: Interim chief exec Virani targets Premier League return",
-      "description": "",
-      "publishedAt": "2026-08-13T14:08:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49597770,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea eye Zubimendi as Enzo Fernández replacement",
-      "description": "Chelsea could sign Arsenal midfielder Martín Zubimendi if Enzo Fernández joins Manchester City this summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-13T12:24:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701169_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49597770/transfer-rumors-news-chelsea-eye-arsenal-zubimendi-replace-man-city-target-enzo-fernandez",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Arsenal",
         "Manchester City"
       ]
     },
@@ -317,6 +382,17 @@
       ]
     },
     {
+      "id": "26ccdf4bfff298f2374ac5fc68b5756d",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal hold talks over Osimhen with Galatasaray",
+      "description": "The top stories and transfer rumours from Friday's newspapers...",
+      "publishedAt": "2026-08-12T22:30:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13572744/arsenal-transfer-news-gunners-discuss-victor-osimhen-with-galatasaray-amid-gabriel-martinelli-and-ethan-nwaneri-talks-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49593678,
       "source": "ESPN",
       "headline": "Mazraoui: Pitch invaders show 'big love' for United",
@@ -428,28 +504,6 @@
       ]
     },
     {
-      "id": 49422798,
-      "source": "ESPN",
-      "headline": "Ranking the top 30 best men's club managers in Europe",
-      "description": "ESPN ranks the top 30 men's managers in the European club game. Who is going to be No. 1? Mikel Arteta, Xabi Alonso, Luis Enrique?",
-      "publishedAt": "2026-08-12T12:12:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698301_3_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49422798/ranking-top-30-best-mens-club-managers-europe",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "6817289e769179b8ea27037c247bc4ed",
-      "source": "Sky Sports",
-      "headline": "Could UK diaspora players represent India? | Bhatia closes in on Liverpool stake",
-      "description": "Welcome to Dev's Digest, a regular Sky Sports column in which Asian Football Award winner Dev Trehan delivers exclusive news and reflects on some of the key developments for British South Asians in Football.",
-      "publishedAt": "2026-08-12T11:15:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-football-devs-digest_7319666.jpg?20260812123630",
-      "link": "https://www.skysports.com/football/news/12040/13570292/devs-digest-will-british-indians-represent-india-national-team-amit-bhatia-closes-in-on-liverpool-stake-yan-dhandas-debut-revisited",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
       "id": 49588834,
       "source": "ESPN",
       "headline": "Youri Tielemans: FIFA's Balogun red card U-turn inspired Belgium to beat U.S. at World Cup",
@@ -485,51 +539,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49584489,
-      "source": "ESPN",
-      "headline": "Mason Mount (foot) a doubt for Man United friendly vs. Leeds",
-      "description": "Mason Mount is a doubt for Manchester United's preseason friendly against Leeds United in Dublin on Wednesday as he continues his recovery from a foot injury, sources have told ESPN.",
-      "publishedAt": "2026-08-11T19:59:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700434_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49584489/mason-mount-injury-man-united-preseason-friendly-vs-leeds",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49580333,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal eye move for Barcelona's Koundé",
-      "description": "Arsenal are reportedly looking at a possible move for Barcelona defender Jules Koundé. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-11T19:48:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700418_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49580333/transfer-rumors-news-manchester-united-rb-leipzig-left-back-david-raum",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49584332,
-      "source": "ESPN",
-      "headline": "John McGinn: Aston Villa will compete despite big name departures",
-      "description": "John McGinn is confident Aston Villa are going to continue challenging the elite in the Premier League and Europe despite their latest summer shake-up.",
-      "publishedAt": "2026-08-11T19:44:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0811/r1700421_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49584332/john-mcginn-aston-villa-compete-big-name-departures",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-13T19:17:40.244Z"
+    "cachedAt": "2026-08-14T02:43:01.380Z"
   }
 }
