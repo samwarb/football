@@ -2,11 +2,139 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49601516,
+      "source": "ESPN",
+      "headline": "Predicting where Premier League betting odds are wrong this season",
+      "description": "Premier League betting odds pick who will win the league, get relegated, win the Golden Boot and more. But which players and teams are poised to defy the odds?",
+      "publishedAt": "2026-08-14T18:01:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701481_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49601516/predicting-where-premier-league-betting-odds-wrong-2026-27-season",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Manchester City",
+        "Aston Villa",
+        "Everton",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Brentford",
+        "Nottingham Forest",
+        "Fulham",
+        "Brighton & Hove Albion",
+        "Newcastle United",
+        "Chelsea",
+        "Crystal Palace",
+        "Leeds United",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 49610494,
+      "source": "ESPN",
+      "headline": "Liverpool owners sell stake to Jeff Bezos-backed consortium",
+      "description": "Liverpool owner Fenway Sports Group confirmed the sale of a minority stake in the club to a consortium that includes Amazon founder Jeff Bezos.",
+      "publishedAt": "2026-08-14T17:47:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701749_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49610494/liverpool-owners-fsg-sell-stake-consortium-jeff-bezos-amit-bhatia",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49610484,
+      "source": "ESPN",
+      "headline": "Chelsea expect Enzo Fernández stay as Man City miss deadline - sources",
+      "description": "Chelsea insist Enzo Fernández is expected to stay at the club for the upcoming season after no club matched their £120 million ($161.8m) valuation by Friday's self-imposed deadline, sources have told ESPN.Fernández",
+      "publishedAt": "2026-08-14T17:32:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0403/r1637953_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49610484/enzo-fernandez-set-chelsea-stay-manchester-city-miss-deadline-sources",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "71adc735ccdad5d6322726ca783524d2",
+      "source": "Sky Sports",
+      "headline": "Liverpool takeover Q&A: What do we know about Bezos' consortium?",
+      "description": "Liverpool's owners Fenway Sports Group have sold a stake in Liverpool Football Club to a consortium including Amazon founder Jeff Bezos.",
+      "publishedAt": "2026-08-14T17:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-liverpool_7305864.jpg?20260724143232",
+      "link": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49609645,
+      "source": "ESPN",
+      "headline": "Arsenal's Mikel Arteta surprised by big-money transfers this summer",
+      "description": "Arsenal boss Mikel Arteta has admitted his surprise at this summer's big-money deals in the transfer market.",
+      "publishedAt": "2026-08-14T16:46:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0311/r1626877_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49609645/arsenal-mikel-arteta-surprised-big-money-transfers-summer",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "dcee3f4e972e21013425327e4ed6890e",
+      "source": "Sky Sports",
+      "headline": "Man City miss Chelsea's deadline to bid for Fernandez",
+      "description": "The 5pm Friday deadline set by Chelsea for Man City to make their bid for Enzo Fernandez has passed with no offer made for the midfielder.",
+      "publishedAt": "2026-08-14T16:27:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-chelsea_7253462.jpg?20260519204412",
+      "link": "https://www.skysports.com/football/news/12040/13572838/enzo-fernandez-transfer-news-man-city-miss-chelseas-deadline-to-bid-for-midfielder",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "fe4d8710b941c5bb9b09a9b6b652bba1",
+      "source": "Sky Sports",
+      "headline": "Hull City latest: Club confirm forward exit",
+      "description": "",
+      "publishedAt": "2026-08-14T15:20:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-hull-city_7259338.jpg?20260527081515",
+      "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "a09bdc0a3ccd128786c508b645cdf0b6",
+      "source": "Sky Sports",
+      "headline": "Rangers boss McInnes 'doing his best', says Halliday",
+      "description": "\"Derek McInnes is doing the best that he possibly can with what's at his disposal to try and get results.\"",
+      "publishedAt": "2026-08-14T15:20:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rangers-boss-derek-mcinnes_7321696.jpg?20260814162753",
+      "link": "https://www.skysports.com/football/news/12040/13572976/rangers-boss-derek-mcinnes-doing-the-best-he-can-despite-poor-start-says-former-midfielder-andy-halliday",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49608042,
+      "source": "ESPN",
+      "headline": "Man City unlikely to meet Chelsea's Enzo Fernández deadline - Enzo Maresca",
+      "description": "Manchester City are unlikely to meet Chelsea's Friday deadline for Enzo Fernández, according to Enzo Maresca.",
+      "publishedAt": "2026-08-14T13:49:16Z",
+      "image": "https://a.espncdn.com/photo/2024/1223/r1431327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49608042/man-city-deadline-chelsea-enzo-fernandez-enzo-maresca",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City"
+      ]
+    },
+    {
       "id": 49607175,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal hold talks over Osimhen deal",
       "description": "Galatasaray striker Victor Osimhen could be on his way to Premier League champions Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-14T13:10:01Z",
+      "publishedAt": "2026-08-14T13:34:09Z",
       "image": "https://a.espncdn.com/photo/2026/0814/r1701616_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49607175/transfer-rumors-news-arsenal-hold-talks-galatasaray-victor-osimhen-deal",
       "tag": "Arsenal",
@@ -42,20 +170,6 @@
         "AS Monaco",
         "Tottenham Hotspur",
         "United States"
-      ]
-    },
-    {
-      "id": 49608042,
-      "source": "ESPN",
-      "headline": "Man City unlikely to meet Chelsea's Enzo Fernández deadline - Enzo Maresca",
-      "description": "Manchester City are unlikely to meet Chelsea's Friday deadline for Enzo Fernández, according to Enzo Maresca.",
-      "publishedAt": "2026-08-14T11:40:38Z",
-      "image": "https://a.espncdn.com/photo/2024/1223/r1431327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49608042/man-city-deadline-chelsea-enzo-fernandez-enzo-maresca",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
       ]
     },
     {
@@ -104,28 +218,6 @@
       ]
     },
     {
-      "id": "78af4cd410c2ddbbfc767bdb1be121bc",
-      "source": "Sky Sports",
-      "headline": "Spurs agree £30m deal with Inter for Spence",
-      "description": "Inter Milan have agreed a £30m deal to sign England defender Djed Spence from Tottenham.",
-      "publishedAt": "2026-08-14T10:00:00.000Z",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-djed-spence-tottenham_7182118.jpg?20260304143530",
-      "link": "https://www.skysports.com/football/news/12040/13572315/djed-spence-transfer-news-tottenham-and-inter-milan-agree-30m-deal-for-england-defender",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "7fb0adb5f2775f9c1d63ce3ec3eadb8f",
-      "source": "Sky Sports",
-      "headline": "Arsenal in talks with Leverkusen over Quansah",
-      "description": "Arsenal are in talks with Bayer Leverkusen over a possible deal for England defender Jarell Quansah.",
-      "publishedAt": "2026-08-14T09:28:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jarell-quansah-england_7290623.jpg?20260710093042",
-      "link": "https://www.skysports.com/football/news/12040/13572821/jarell-quansah-arsenal-in-talks-with-bayer-leverkusen-over-signing-england-and-former-liverpool-defender",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49600669,
       "source": "ESPN",
       "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
@@ -158,17 +250,6 @@
       ]
     },
     {
-      "id": "9ae8648f6d3273e3c620fa6f4af0455a",
-      "source": "Sky Sports",
-      "headline": "Bowen: As long as West Ham get back to the PL, I don't care how we do it",
-      "description": "When West Ham were relegated from the Premier League after 15 years back in May, it seemed inevitable Jarrod Bowen would not be there to join them as they returned to the Sky Bet Championship.",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-efl-championship_7318795.jpg?20260811105633",
-      "link": "https://www.skysports.com/football/news/12040/13572527/jarrod-bowen-exclusive-west-ham-captain",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49607572,
       "source": "ESPN",
       "headline": "Carrick backs Mainoo after 'challenging' World Cup",
@@ -180,35 +261,6 @@
       "teams": [
         "England",
         "Manchester United"
-      ]
-    },
-    {
-      "id": 49601516,
-      "source": "ESPN",
-      "headline": "Predicting where Premier League betting odds are wrong this season",
-      "description": "Premier League betting odds have picks for who will win the league, get relegated, win the Golden Boot and more. But where might those odds be off base?",
-      "publishedAt": "2026-08-14T08:21:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701481_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49601516/predicting-where-premier-league-betting-odds-wrong-2026-27-season",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Liverpool",
-        "Arsenal",
-        "Manchester City",
-        "Aston Villa",
-        "Everton",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Brentford",
-        "Nottingham Forest",
-        "Fulham",
-        "Brighton & Hove Albion",
-        "Newcastle United",
-        "Chelsea",
-        "Crystal Palace",
-        "Leeds United",
-        "Sunderland"
       ]
     },
     {
@@ -317,17 +369,6 @@
       ]
     },
     {
-      "id": "d1854207f3c1ee4d7d1a2c1fe52b26d8",
-      "source": "Sky Sports",
-      "headline": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
-      "description": "Sky Sports News takes you through a selection of the back page headlines from Friday morning's papers.",
-      "publishedAt": "2026-08-14T06:57:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-paper-talk-konsa_7321246.jpg?20260814080307",
-      "link": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49607042,
       "source": "ESPN",
       "headline": "Eva Carneiro: Ex-Chelsea doctor hits back at José Mourinho, John Terry over documentary as row revisited",
@@ -394,17 +435,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "7ddecb389dcc40995edca0f8875c7b66",
-      "source": "Sky Sports",
-      "headline": "Super League leaders Leeds beaten by Leigh after late drama",
-      "description": "Innes Senior scored twice as Leigh Leopards inflicted a first home defeat of the season on Betfred Super League leaders Leeds Rhinos by winning 20-16 at Headingley.",
-      "publishedAt": "2026-08-13T21:40:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-umyla-hanley-leigh_7321059.jpg?20260813224515",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13572725/super-league-leaders-leeds-rhinos-suffer-first-home-defeat-of-season-as-leigh-leopards-claim-surprise-20-16-win-at-headingley",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49598413,
@@ -524,51 +554,11 @@
       "teams": [
         "Aston Villa"
       ]
-    },
-    {
-      "id": 49597995,
-      "source": "ESPN",
-      "headline": "Marcus Rashford could make Man United return against Ruben Amorim's AC Milan",
-      "description": "Manchester United head coach Michael Carrick has praised Marcus Rashford and said that he may be available to face Ruben Amorim's AC Milan in a preseason friendly.",
-      "publishedAt": "2026-08-13T08:55:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701165_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49597995/marcus-rashford-man-united-ruben-amorim-ac-milan-michael-carrick",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "AC Milan"
-      ]
-    },
-    {
-      "id": 49594261,
-      "source": "ESPN",
-      "headline": "Arsenal's Mikel Arteta welcomes speculation around Myles Lewis-Skelly",
-      "description": "Arsenal manager Mikel Arteta has brushed off transfer speculation surrounding Myles Lewis-Skelly, saying he welcomes his players being linked with moves to other clubs.",
-      "publishedAt": "2026-08-12T23:28:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700919_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49594261/arsenal-myles-lewis-skelly-transfer-mikel-arteta-como",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49593678,
-      "source": "ESPN",
-      "headline": "Mazraoui: Pitch invaders show 'big love' for United",
-      "description": "Noussair Mazraoui kept his cool amid a bizarre finish to Manchester United's pre-season friendly in Dublin, rolling in the decisive penalty as they beat Leeds United 5-4 in a shoot-out.",
-      "publishedAt": "2026-08-12T22:27:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700975_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49593678/mazraoui-big-love-manchester-united",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-14T13:38:31.810Z"
+    "cachedAt": "2026-08-14T19:11:16.525Z"
   }
 }
