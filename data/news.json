@@ -2,6 +2,104 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49610211,
+      "source": "ESPN",
+      "headline": "Mikel Arteta: Arsenal fans 'don't have to worry' about contract situation",
+      "description": "Mikel Arteta has told Arsenal fans not to worry about his contract situation and insisted he is happy to stay at the club despite entering the final year of his deal.",
+      "publishedAt": "2026-08-14T23:18:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0425/r1649002_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49610211/mikel-arteta-arsenal-worry-contract-fa-community-shield-cardiff",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4aeaca2c691804b50aa0d4cc361827b5",
+      "source": "Sky Sports",
+      "headline": "Arteta says he will sign new Arsenal contract in 'organic way'",
+      "description": "Mikel Arteta has revealed he will sign a new Arsenal contract and there is no need for fans to be worried about his future.",
+      "publishedAt": "2026-08-14T21:30:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-arteta_7254817.jpg?20260521151727",
+      "link": "https://www.skysports.com/football/news/12040/13572989/mikel-arteta-arsenal-manager-says-he-will-sign-new-contract-after-entering-the-last-year-of-his-current-deal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "573e033191a35424e88e805a83e1f8cd",
+      "source": "Sky Sports",
+      "headline": "Jimenez the hero as controversial late pen spares Wolves' blushes",
+      "description": "Highlights from the Sky Bet Championship match between Wolverhampton Wanderers and Blackburn Rovers.",
+      "publishedAt": "2026-08-14T21:25:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wolves-blackburn_7322073.jpg?20260814222957",
+      "link": "https://www.skysports.com/watch/video/13573181/wolverhampton-wanderers-2-2-blackburn-rovers-championship-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "33803d4637753b222aff0345a13373f8",
+      "source": "Sky Sports",
+      "headline": "'It's such a BIG call!' | Controversial late Wolves penalty decision ANALYSED",
+      "description": "Curtis Davies and Jobi McAnuff debate whether Wolves' late penalty was correctly award during their opening day 2-2 draw against Blackburn.",
+      "publishedAt": "2026-08-14T21:15:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-blackburn-wolves_7322072.jpg?20260814222604",
+      "link": "https://www.skysports.com/watch/video/13573176/wolves-vs-blackburn-was-the-referee-right-to-award-wolves-controversial-late-penalty",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "c81173a758c79d237d19dd0cfeed8de5",
+      "source": "Sky Sports",
+      "headline": "Jimenez salvages dramatic point for Wolves on Molineux return",
+      "description": "Raul Jimenez scored a stoppage-time equaliser from the penalty spot on his return to Molineux to salvage a 2-2 draw for Wolves against Blackburn.",
+      "publishedAt": "2026-08-14T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-raul-jimenez-wolves_7322069.jpg?20260814222455",
+      "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-blackburn-rovers/report/560498",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49607175,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Tottenham continue interest for Liverpool's Gakpo",
+      "description": "Could Cody Gakpo end up making a move from Liverpool to Tottenham? Transfer Talk has the latest.",
+      "publishedAt": "2026-08-14T20:45:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701887_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49607175/transfer-rumors-news-arsenal-hold-talks-galatasaray-victor-osimhen-deal",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49611582,
+      "source": "ESPN",
+      "headline": "Cristian Romero confirms Tottenham exit; 'I wasn't perfect'",
+      "description": "Cristian Romero has confirmed he has left Tottenham Hotspur, acknowledging he \"wasn't perfect\" but said the leaves with \"a heart full of memories.\"",
+      "publishedAt": "2026-08-14T19:30:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0324/r1633066_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49611582/cristian-romero-confirms-tottenham-exit-perfect",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Atlético Madrid"
+      ]
+    },
+    {
+      "id": 49611080,
+      "source": "ESPN",
+      "headline": "What Bezos, Bhatia-backed investment means for Liverpool, FSG",
+      "description": "Jeff Bezos is among the investors behind a $1.65 billion deal for a minority stake in Liverpool, with reported option to take a controlling interest, but what will it mean for the club and current majority owners, FSG?",
+      "publishedAt": "2026-08-14T19:26:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701788_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49611080/liverpool-jeff-bezos-amit-bhatia-investment-fsg-premier-league-beth-lindop-analysis",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": 49601516,
       "source": "ESPN",
       "headline": "Predicting where Premier League betting odds are wrong this season",
@@ -59,17 +157,6 @@
       ]
     },
     {
-      "id": "71adc735ccdad5d6322726ca783524d2",
-      "source": "Sky Sports",
-      "headline": "Liverpool takeover Q&A: What do we know about Bezos' consortium?",
-      "description": "Liverpool's owners Fenway Sports Group have sold a stake in Liverpool Football Club to a consortium including Amazon founder Jeff Bezos.",
-      "publishedAt": "2026-08-14T17:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-liverpool_7305864.jpg?20260724143232",
-      "link": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49609645,
       "source": "ESPN",
       "headline": "Arsenal's Mikel Arteta surprised by big-money transfers this summer",
@@ -83,39 +170,6 @@
       ]
     },
     {
-      "id": "dcee3f4e972e21013425327e4ed6890e",
-      "source": "Sky Sports",
-      "headline": "Man City miss Chelsea's deadline to bid for Fernandez",
-      "description": "The 5pm Friday deadline set by Chelsea for Man City to make their bid for Enzo Fernandez has passed with no offer made for the midfielder.",
-      "publishedAt": "2026-08-14T16:27:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-chelsea_7253462.jpg?20260519204412",
-      "link": "https://www.skysports.com/football/news/12040/13572838/enzo-fernandez-transfer-news-man-city-miss-chelseas-deadline-to-bid-for-midfielder",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "fe4d8710b941c5bb9b09a9b6b652bba1",
-      "source": "Sky Sports",
-      "headline": "Hull City latest: Club confirm forward exit",
-      "description": "",
-      "publishedAt": "2026-08-14T15:20:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-hull-city_7259338.jpg?20260527081515",
-      "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "a09bdc0a3ccd128786c508b645cdf0b6",
-      "source": "Sky Sports",
-      "headline": "Rangers boss McInnes 'doing his best', says Halliday",
-      "description": "\"Derek McInnes is doing the best that he possibly can with what's at his disposal to try and get results.\"",
-      "publishedAt": "2026-08-14T15:20:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rangers-boss-derek-mcinnes_7321696.jpg?20260814162753",
-      "link": "https://www.skysports.com/football/news/12040/13572976/rangers-boss-derek-mcinnes-doing-the-best-he-can-despite-poor-start-says-former-midfielder-andy-halliday",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49608042,
       "source": "ESPN",
       "headline": "Man City unlikely to meet Chelsea's Enzo Fernández deadline - Enzo Maresca",
@@ -127,20 +181,6 @@
       "teams": [
         "Chelsea",
         "Manchester City"
-      ]
-    },
-    {
-      "id": 49607175,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal hold talks over Osimhen deal",
-      "description": "Galatasaray striker Victor Osimhen could be on his way to Premier League champions Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-14T13:34:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701616_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49607175/transfer-rumors-news-arsenal-hold-talks-galatasaray-victor-osimhen-deal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Galatasaray"
       ]
     },
     {
@@ -437,19 +477,6 @@
       ]
     },
     {
-      "id": 49598413,
-      "source": "ESPN",
-      "headline": "Manchester City transfers: Jérémy Doku pens new deal, Tijjani Reijnders set to leave",
-      "description": "Jérémy Doku has become the latest Manchester City player to extend his contract after signing a new five-year deal, the club have confirmed.",
-      "publishedAt": "2026-08-13T20:12:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0621/r1677111_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49598413/manchester-city-transfers-jeremy-doku-pens-new-deal-tijjani-reijnders-set-leave",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 49597770,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Chelsea join race to sign Monaco's Camara",
@@ -462,6 +489,17 @@
         "Chelsea",
         "AS Monaco"
       ]
+    },
+    {
+      "id": "3afe5e5294f49fcbb0029c8a63fd74f0",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal lead race for £50m-rated Hinshelwood",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-08-13T20:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13573177/arsenal-transfer-news-gunners-lead-race-for-brighton-midfielder-jack-hinshelwood-paper-talk",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49599487,
@@ -529,36 +567,20 @@
       ]
     },
     {
-      "id": 49598641,
-      "source": "ESPN",
-      "headline": "Chelsea set Friday deadline for Enzo Fernández amid Man City interest - sources",
-      "description": "Chelsea have set a Friday deadline for any clubs wishing to meet their £120million valuation of Enzo Fernández, sources have told ESPN.",
-      "publishedAt": "2026-08-13T09:57:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701193_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49598641/chelsea-enzo-fernandez-man-city-premier-league-transfers",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49598618,
-      "source": "ESPN",
-      "headline": "Aston Villa's John McGinn on rookie striker Brian Madjo: 'He's going to be a big player for us'",
-      "description": "John McGinn has backed rookie striker Brian Madjo to play a big part for Aston Villa this season.",
-      "publishedAt": "2026-08-13T09:56:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701190_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49598618/aston-villas-john-mcginn-rookie-striker-brian-madjo-going-big-player-us",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa"
-      ]
+      "id": "b813acb39565d2e42c10560ac28fecf5",
+      "source": "Sky Sports",
+      "headline": "Championship play-off changes, new managers & star players - the EFL is BACK!",
+      "description": "The 2026/27 EFL season is here!",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-football-southampton_7318895.jpg?20260811124729",
+      "link": "https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-14T19:11:16.525Z"
+    "cachedAt": "2026-08-15T01:47:20.442Z"
   }
 }
