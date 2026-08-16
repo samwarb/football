@@ -2,11 +2,172 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49621757,
+      "source": "ESPN",
+      "headline": "Enzo Maresca to pick Man City leaders at end of transfer window",
+      "description": "Enzo Maresca will wait until the end of the transfer window to finalise his Manchester City leadership group given the uncertainty over the final make-up of his squad.",
+      "publishedAt": "2026-08-15T23:48:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702258_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49621757/enzo-maresca-pick-man-city-leaders-end-transfer-window-moment-ruben-erling",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49622294,
+      "source": "ESPN",
+      "headline": "What kind of transfer activity will happen at Liverpool?",
+      "description": "What kind of transfer activity will happen at Liverpool?",
+      "publishedAt": "2026-08-15T22:58:34Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0815/dm_260815_COM_SOC_Analysis_What_kind_of_transfer_activity_will_happen_at_Liverpool3F__GLOBAL_2026-08-16/dm_260815_COM_SOC_Analysis_What_kind_of_transfer_activity_will_happen_at_Liverpool3F__GLOBAL_2026-08-16.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49622294/what-kind-transfer-activity-happen-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": "fd258a00df99bc0bf217843949540c4b",
+      "source": "Sky Sports",
+      "headline": "Man City latest: Maresca confirms club captains 'for now'",
+      "description": "",
+      "publishedAt": "2026-08-15T21:30:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "9c9f43ab3a1970889481c2720e0fa2c3",
+      "source": "Sky Sports",
+      "headline": "Papers: Lille head coach confirms Man City's Bouaddi talks",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-08-15T21:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13573576/man-city-transfer-news-ayyoub-bouaddi-talks-confirmed-by-lille-head-coach-davide-ancelotti-who-hopes-deal-falls-through",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49593676,
+      "source": "ESPN",
+      "headline": "Cristian Romero seals transfer to Atlético Madrid from Tottenham",
+      "description": "Cristian Romero has completed a transfer from Tottenham Hotspur to Atlético Madrid, the two clubs have confirmed.",
+      "publishedAt": "2026-08-15T20:09:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690735_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49593676/cristian-romero-seals-transfer-atletico-madrid-tottenham",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Atlético Madrid"
+      ]
+    },
+    {
+      "id": 49620602,
+      "source": "ESPN",
+      "headline": "'Emotional' Xabi Alonso delighted with Chelsea reaction in 'new home'",
+      "description": "Xabi Alonso said he was \"emotional\" to experience Stamford Bridge for the first time as Chelsea manager as his side ended their preseason campaign with a 3-1 win over Real Sociedad.",
+      "publishedAt": "2026-08-15T19:07:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702176_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49620602/emotional-alonso-delighted-chelsea-reaction-new-home",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Real Sociedad"
+      ]
+    },
+    {
+      "id": 49620194,
+      "source": "ESPN",
+      "headline": "Michael Carrick on Man United's defeat to Ruben Amorim's AC Milan: 'No excuses'",
+      "description": "Manchester United boss Michael Carrick said there were \"no excuses\" after his side fell to a 4-2 preseason defeat to AC Milan.",
+      "publishedAt": "2026-08-15T18:56:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702172_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49620194/michael-carrick-manchester-united-ruben-amorim-ac-milan-preseason-no-excuses",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49616548,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Como want Chelsea's Delap to bolster attack",
+      "description": "Como are looking to add Chelsea's Liam Delap to their forward corps. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-15T18:32:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702169_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49616548/transfer-rumors-news-arsenal-turn-versatile-brighton-midfielder",
+      "tag": "Como",
+      "teams": [
+        "Como",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "06ca0b9c77d182b39c16270d7d6465ba",
+      "source": "Sky Sports",
+      "headline": "Sheff Utd & Birmingham draw a blank on opening day",
+      "description": "Sheffield United and Birmingham made an underwhelming start to the Championship season as they played out a goalless draw at Bramall Lane.",
+      "publishedAt": "2026-08-15T18:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-romelle-donovan-jay-stansfield_7322780.jpg?20260815190226",
+      "link": "https://www.skysports.com/football/sheffield-united-vs-birmingham-city/report/560505",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49618569,
+      "source": "ESPN",
+      "headline": "Tottenham 3-0 Hoffenheim: Mikey Moore's brace helps hosts earn comfortable friendly win",
+      "description": "A first-half strike from Richarlison and a second-half brace from Mikey Moore helped Roberto De Zerbi's new-look Tottenham team beat Hoffenheim 3-0.",
+      "publishedAt": "2026-08-15T18:17:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702101_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49618569/mikey-moore-brace-helps-hosts-earn-comfortable-friendly-win",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "TSG Hoffenheim"
+      ]
+    },
+    {
+      "id": 49154575,
+      "source": "ESPN",
+      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
+      "publishedAt": "2026-08-15T17:26:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "Chelsea",
+        "Coventry City",
+        "Everton",
+        "Brighton & Hove Albion",
+        "Brentford",
+        "Crystal Palace",
+        "Fulham",
+        "Hull City",
+        "Ipswich Town",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-15T11:41:33Z",
+      "publishedAt": "2026-08-15T16:48:49Z",
       "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "tag": "Arsenal",
@@ -34,86 +195,26 @@
       ]
     },
     {
-      "id": 49593676,
-      "source": "ESPN",
-      "headline": "Cristian Romero seals transfer to Atlético Madrid from Tottenham",
-      "description": "Cristian Romero has completed a transfer from Tottenham Hotspur to Atlético Madrid, the two clubs have confirmed.",
-      "publishedAt": "2026-08-15T11:25:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49593676/cristian-romero-seals-transfer-atletico-madrid-tottenham",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Atlético Madrid"
-      ]
-    },
-    {
-      "id": "98df43cada7d0f464dade7bce77a1773",
+      "id": "1fbdb749fa1747699cd19d4bca1cef4f",
       "source": "Sky Sports",
-      "headline": "It's time! Championship, League One and League Two opening day LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-15T10:30:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bolton-preston-championship_7320781.jpg?20260813163933",
-      "link": "https://www.skysports.com/football/live-blog/12040/13573022/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
-      "tag": "Liveblog",
+      "headline": "Burton 1-1 Stevenage",
+      "description": "Olly Sanderson bundled home in stoppage time to snatch Stevenage a point in a 1-1 draw against Burton.",
+      "publishedAt": "2026-08-15T16:00:00.000Z",
+      "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021",
+      "link": "https://www.skysports.com/football/burton-albion-vs-stevenage/report/561605",
+      "tag": "Report",
       "teams": []
-    },
-    {
-      "id": 49616548,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal turn to versatile Brighton midfielder",
-      "description": "Arsenal are leading the race to sign Brighton & Hove Albion midfielder Jack Hinshelwood. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-15T09:33:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702035_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49616548/transfer-rumors-news-arsenal-turn-versatile-brighton-midfielder",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Brighton & Hove Albion"
-      ]
     },
     {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
       "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-15T09:17:58Z",
+      "publishedAt": "2026-08-15T13:44:27Z",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691568_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-15T08:08:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
     },
     {
       "id": 48944912,
@@ -313,17 +414,6 @@
       ]
     },
     {
-      "id": "ce916230eaf9d74fe620d9cb5b0d1aea",
-      "source": "Sky Sports",
-      "headline": "Live on Sky: Watford vs Southampton & Burnley vs West Ham",
-      "description": "",
-      "publishedAt": "2026-08-14T16:01:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-watford-southampton_7320788.jpg?20260813164606",
-      "link": "https://www.skysports.com/football/watford-vs-southampton/live/560508",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49608042,
       "source": "ESPN",
       "headline": "Man City unlikely to meet Chelsea's Enzo Fernández deadline - Enzo Maresca",
@@ -482,80 +572,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49604116,
-      "source": "ESPN",
-      "headline": "Tottenham's Djed Spence lands in Italy to complete Inter transfer",
-      "description": "Tottenham Hotspur defender Djed Spence has landed in Italy ahead of completing a move to Inter Milan.",
-      "publishedAt": "2026-08-14T01:54:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701482_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49604116/tottenham-djed-spence-inter-milan-transfer",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Internazionale",
-        "England"
-      ]
-    },
-    {
-      "id": 49603893,
-      "source": "ESPN",
-      "headline": "Will new IFAB rules impact Arsenal most in the Premier League?",
-      "description": "Will new IFAB rules impact Arsenal most in the Premier League?",
-      "publishedAt": "2026-08-13T22:58:01Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_Will_new_IFAB_rules_impact_Arsenal_most_in_the_Premier_League_2026_8_13/dm_260813_COM_SOC_ANALYSIS_Will_new_IFAB_rules_impact_Arsenal_most_in_the_Premier_League_2026_8_13.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49603893/will-new-ifab-rules-impact-arsenal-most-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49603875,
-      "source": "ESPN",
-      "headline": "Is Enzo Fernandez the right fit for Man City?",
-      "description": "Is Enzo Fernandez the right fit for Man City?",
-      "publishedAt": "2026-08-13T22:53:40Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALYSIS_Is_Enzo_Fernandez_the_right_fit_for_Man_City_2026_8_13/dm_260813_COM_SOC_ANALYSIS_Is_Enzo_Fernandez_the_right_fit_for_Man_City_2026_8_13.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49603875/is-enzo-fernandez-right-fit-man-city",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49603825,
-      "source": "ESPN",
-      "headline": "Leboeuf: Doku's 2032 deal crucial for Man City",
-      "description": "Leboeuf: Doku's 2032 deal crucial for Man City",
-      "publishedAt": "2026-08-13T22:43:06Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_COM_SOC_ANALSYSIS_Leboeuf_Dokus_2032_deal_crucial_for_Man_City_2026_8_13/dm_260813_COM_SOC_ANALSYSIS_Leboeuf_Dokus_2032_deal_crucial_for_Man_City_2026_8_13.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49603825/doku-2032-deal-crucial-man-city",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49597770,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea join race to sign Monaco's Camara",
-      "description": "Chelsea are the latest Premier League team linked with a move for AS Monaco midfielder Lamine Camara. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-13T20:12:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701406_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49597770/transfer-rumors-news-chelsea-eye-arsenal-zubimendi-replace-man-city-target-enzo-fernandez",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "AS Monaco"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-15T12:56:51.622Z"
+    "cachedAt": "2026-08-16T01:55:29.754Z"
   }
 }
