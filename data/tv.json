@@ -121,11 +121,107 @@
     "fulham|manchester united": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
+    ],
+    "arsenal|leeds united": [
+      "TNT Sports 1",
+      "TNT Sports Ultimate",
+      "HBO Max"
+    ],
+    "manchester united|tottenham hotspur": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "crystal palace|nottingham forest": [
+      "Sky Sports TBC"
+    ],
+    "hull city|everton": [
+      "Sky Sports TBC"
+    ],
+    "liverpool|manchester city": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "coventry city|newcastle united": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "everton|chelsea": [
+      "TNT Sports 1",
+      "TNT Sports Ultimate",
+      "HBO Max"
+    ],
+    "newcastle united|aston villa": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "bournemouth|sunderland": [
+      "Sky Sports TBC"
+    ],
+    "brighton and hove albion|crystal palace": [
+      "Sky Sports TBC"
+    ],
+    "leeds united|manchester united": [
+      "Sky Sports TBC"
+    ],
+    "nottingham forest|arsenal": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "tottenham hotspur|coventry city": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "ipswich town|nottingham forest": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "aston villa|manchester city": [
+      "TNT Sports 1",
+      "TNT Sports Ultimate",
+      "HBO Max"
+    ],
+    "chelsea|tottenham hotspur": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "crystal palace|newcastle united": [
+      "Sky Sports TBC"
+    ],
+    "hull city|brentford": [
+      "Sky Sports TBC"
+    ],
+    "manchester united|bournemouth": [
+      "Sky Sports TBC"
+    ],
+    "sunderland|leeds united": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "chelsea|manchester united": [
+      "TNT Sports 1",
+      "TNT Sports Ultimate",
+      "HBO Max"
+    ],
+    "tottenham hotspur|crystal palace": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "aston villa|fulham": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "liverpool|arsenal": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "newcastle united|everton": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
     ]
   },
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-17T13:03:24.506Z"
+    "cachedAt": "2026-08-17T18:54:54.089Z"
   }
 }

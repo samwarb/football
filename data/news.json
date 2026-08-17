@@ -2,6 +2,161 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49639894,
+      "source": "ESPN",
+      "headline": "Coventry City sign striker Taiwo Awoniyi from Nottingham Forest",
+      "description": "Coventry City have signed striker Taiwo Awoniyi from Nottingham Forest.",
+      "publishedAt": "2026-08-17T17:11:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1703025_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49639894/coventry-city-sign-striker-taiwo-awoniyi-nottingham-forest",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 49638217,
+      "source": "ESPN",
+      "headline": "Man City's 115 charges still linger ahead of new Premier League season. Why?",
+      "description": "It's been several years since the Premier League announced charges against Man City. On the eve of the new campaign, why are we still waiting for a resolution?",
+      "publishedAt": "2026-08-17T16:40:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0226/r1620396_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49638217/premier-league-manchester-city-115-charges-verdict-latest-mark-ogden",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49639696,
+      "source": "ESPN",
+      "headline": "Chelsea's Reece James: 'Rust' needs to come off before Premier League opener",
+      "description": "Reece James said there is \"rust\" to come off before he is match fit after being given an extended Chelsea break following England's run to the World Cup semifinal.",
+      "publishedAt": "2026-08-17T16:32:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702996_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49639696/chelsea-reece-james-rust-needs-come-premier-league-opener",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "dafd0b8f431bbba890299c0289bcd48a",
+      "source": "Sky Sports",
+      "headline": "Alonso, Fernandez and a new era at Chelsea - podcast special!",
+      "description": "It's been another summer of change at Chelsea - and on the eve of a new Premier League season, there is so much to analyse at the club, with Xabi Alonso's reign kicking off, big-money transfers to be settled and a search for success on the pitch in their sights.",
+      "publishedAt": "2026-08-17T16:11:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-chelsea-big-summer_7324184.jpg?20260817153352",
+      "link": "https://www.skysports.com/football/news/12040/13574084/chelsea-podcast-xabi-alonso-enzo-fernandez-future-transfers-and-a-new-era-at-stamford-bridge-analysed",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49636850,
+      "source": "ESPN",
+      "headline": "Juventus to sign Guglielmo Vicario from Tottenham on loan with option to buy - sources",
+      "description": "Juventus have agreed a deal with Tottenham to sign Guglielmo Vicario on loan, sources have told ESPN.",
+      "publishedAt": "2026-08-17T15:52:51Z",
+      "image": "https://a.espncdn.com/photo/2025/0307/r1460768_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49636850/juventus-sign-guglielmo-vicario-tottenham-loan-option-buy-sources",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Juventus"
+      ]
+    },
+    {
+      "id": 49639380,
+      "source": "ESPN",
+      "headline": "Is Vicario a better option for Juventus than Martínez?",
+      "description": "Is Vicario a better option for Juventus than Martínez?",
+      "publishedAt": "2026-08-17T15:51:35Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Is_Vicario_a_better_option_for_Juventus_than_Martinez_20260817_GLOBAL/dm_260817_COM_SOC_Analysis_Is_Vicario_a_better_option_for_Juventus_than_Martinez_20260817_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49639380/is-vicario-better-option-juventus-martinez",
+      "tag": "Juventus",
+      "teams": [
+        "Juventus"
+      ]
+    },
+    {
+      "id": "05f1b890f2722e13004f4c2eadd3ab17",
+      "source": "Sky Sports",
+      "headline": "Man Utd captain Fernandes not for sale despite Galatasaray interest",
+      "description": "Manchester United captain Bruno Fernandes is not for sale at any price despite interest from Galatasaray.",
+      "publishedAt": "2026-08-17T15:01:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-bruno-fernandes-manchester-united_7257272.jpg?20260524172043",
+      "link": "https://www.skysports.com/football/news/12040/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49637958,
+      "source": "ESPN",
+      "headline": "How a tiny Basque club spawned Premier League's top managers",
+      "description": "Whether it be the Premier League, Champions League or World Cup, hiring a coach from Spain's northern coast is bringing clubs guaranteed success.",
+      "publishedAt": "2026-08-17T14:47:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702904_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49637958/arteta-alonso-iraola-tiny-basque-club-shaped-premier-league-top-bosses",
+      "tag": "Real Sociedad",
+      "teams": [
+        "Real Sociedad",
+        "Arsenal",
+        "Aston Villa",
+        "Liverpool",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "488ac2da95e1277a526a058684f22c07",
+      "source": "Sky Sports",
+      "headline": "How are Man Utd shaping up ahead of the new season?",
+      "description": "Manchester United ended their pre-season with a 4-2 defeat to AC Milan, and the question is what kind of condition they are in as they go into the new season?",
+      "publishedAt": "2026-08-17T14:15:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-man-utd-transfers_7313710.jpg?20260804140058",
+      "link": "https://www.skysports.com/football/news/12040/13574077/manchester-uniteds-pre-season-analysed-joshua-zirkzee-resurgent-and-marcus-rashford-reunited-but-they-still-need-a-left-back",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49638437,
+      "source": "ESPN",
+      "headline": "Ball-boy kicked by Chelsea's Eden Hazard to sell company for major windfall",
+      "description": "The ball-boy kicked by Eden Hazard in 2013 is reportedly set to earn a major windfall by selling his viral business.",
+      "publishedAt": "2026-08-17T14:06:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702922_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49638437/ball-boy-charlie-morghan-kicked-chelsea-eden-hazard-sell-company-au-vodka",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "b95b5864f60eb78322ff3b6249df6d3b",
+      "source": "Sky Sports",
+      "headline": "Arsenal's trip to Liverpool and Leeds vs Man Utd live on Sky Sports",
+      "description": "Liverpool's home matches against Manchester City and Arsenal, plus Manchester United's trip to rivals Leeds, are among the 21 Premier League games being shown live on Sky Sports in October and November.",
+      "publishedAt": "2026-08-17T14:05:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270618.jpg?20260611102640",
+      "link": "https://www.skysports.com/football/news/12040/13574076/premier-league-fixtures-on-sky-sports-liverpool-vs-man-city-and-arsenal-plus-leeds-vs-man-utd-live-in-october-and-november",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49636079,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona eye Arsenal striker Viktor Gyökeres",
+      "description": "Barcelona are considering a move for Arsenal striker Viktor Gyökeres. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-17T13:45:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702859_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49636079/transfer-rumors-news-barcelona-eye-arsenal-striker-viktor-gyokeres",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
       "id": 49637198,
       "source": "ESPN",
       "headline": "Martin Ødegaard on Bruno Guimarães: 'Connection already there' in Arsenal midfield",
@@ -12,20 +167,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 49636079,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona eye Arsenal striker Viktor Gyökeres",
-      "description": "Barcelona are considering a move for Arsenal striker Viktor Gyökeres. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-17T11:26:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702859_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49636079/transfer-rumors-news-barcelona-eye-arsenal-striker-viktor-gyokeres",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Barcelona"
       ]
     },
     {
@@ -51,20 +192,6 @@
       "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
       "teams": []
-    },
-    {
-      "id": 49636850,
-      "source": "ESPN",
-      "headline": "Juventus to sign Guglielmo Vicario from Tottenham on loan with option to buy - sources",
-      "description": "Juventus have agreed a deal with Tottenham to sign Guglielmo Vicario on loan, sources have told ESPN.",
-      "publishedAt": "2026-08-17T09:44:47Z",
-      "image": "https://a.espncdn.com/photo/2025/0307/r1460768_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49636850/juventus-sign-guglielmo-vicario-tottenham-loan-option-buy-sources",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Juventus"
-      ]
     },
     {
       "id": 49636691,
@@ -436,93 +563,11 @@
         "Sunderland",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 49610623,
-      "source": "ESPN",
-      "headline": "Carrick has steadied Man United, but can he take the next step?",
-      "description": "Michael Carrick enters his first full season as Manchester United boss, but now he must contend with the Red Devils' ever-present expectations.",
-      "publishedAt": "2026-08-15T07:51:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701741_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49610623/carrick-steadied-man-united-take-next-step",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49610211,
-      "source": "ESPN",
-      "headline": "Mikel Arteta: Arsenal fans 'don't have to worry' about contract situation",
-      "description": "Mikel Arteta has told Arsenal fans not to worry about his contract situation and insisted he is happy to stay at the club despite entering the final year of his deal.",
-      "publishedAt": "2026-08-14T23:18:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0425/r1649002_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49610211/mikel-arteta-arsenal-worry-contract-fa-community-shield-cardiff",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49607175,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Tottenham continue interest for Liverpool's Gakpo",
-      "description": "Could Cody Gakpo end up making a move from Liverpool to Tottenham? Transfer Talk has the latest.",
-      "publishedAt": "2026-08-14T20:45:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701887_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49607175/transfer-rumors-news-arsenal-hold-talks-galatasaray-victor-osimhen-deal",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49611582,
-      "source": "ESPN",
-      "headline": "Cristian Romero confirms Tottenham exit; 'I wasn't perfect'",
-      "description": "Cristian Romero has confirmed he has left Tottenham Hotspur, acknowledging he \"wasn't perfect\" but said the leaves with \"a heart full of memories.\"",
-      "publishedAt": "2026-08-14T19:30:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0324/r1633066_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49611582/cristian-romero-confirms-tottenham-exit-perfect",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Atlético Madrid"
-      ]
-    },
-    {
-      "id": 49611080,
-      "source": "ESPN",
-      "headline": "What Bezos, Bhatia-backed investment means for Liverpool, FSG",
-      "description": "Jeff Bezos is among the investors behind a $1.65 billion deal for a minority stake in Liverpool, with reported option to take a controlling interest, but what will it mean for the club and current majority owners, FSG?",
-      "publishedAt": "2026-08-14T19:26:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701788_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49611080/liverpool-jeff-bezos-amit-bhatia-investment-fsg-premier-league-beth-lindop-analysis",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49610484,
-      "source": "ESPN",
-      "headline": "Chelsea expect Enzo Fernández stay as Man City miss deadline - sources",
-      "description": "Chelsea insist Enzo Fernández is expected to stay at the club for the upcoming season after no club matched their £120 million ($161.8m) valuation by Friday's self-imposed deadline, sources have told ESPN.Fernández",
-      "publishedAt": "2026-08-14T17:32:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0403/r1637953_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49610484/enzo-fernandez-set-chelsea-stay-manchester-city-miss-deadline-sources",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City",
-        "Argentina"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-17T13:03:23.973Z"
+    "cachedAt": "2026-08-17T18:54:54.290Z"
   }
 }
