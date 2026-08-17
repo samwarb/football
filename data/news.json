@@ -2,18 +2,113 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49626304,
+      "id": "457bc1d5eac108154487165d4e3a2e0a",
+      "source": "Sky Sports",
+      "headline": "Papers: Delap & Neto move closer to Chelsea exit",
+      "description": "The top stories and transfer rumours from Monday's newspapers...",
+      "publishedAt": "2026-08-16T21:30:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49632126,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool step up Barcola chase as PSG sign Godts",
-      "description": "Liverpool are ready to make another move for Paris Saint-Germain winger Bradley Barcola. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-16T09:32:23Z",
-      "image": "https://a.espncdn.com/photo/2025/0807/r1528816_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49626304/transfer-rumors-news-liverpool-step-barcola-chase-psg-sign-godts",
-      "tag": "Paris Saint-Germain",
+      "headline": "Michalik: Wirtz has to be Liverpool's 'Bruno Fernandes' this season",
+      "description": "Michalik: Wirtz has to be Liverpool's 'Bruno Fernandes' this season",
+      "publishedAt": "2026-08-16T21:22:09Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_ANALYSIS_Michalik_Wirtz_has_to_be_Liverpools_Bruno_Fernandes_this_season_2026_8_16/dm_260816_COM_SOC_ANALYSIS_Michalik_Wirtz_has_to_be_Liverpools_Bruno_Fernandes_this_season_2026_8_16.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49632126/wirtz-liverpool-bruno-fernandes-season",
+      "tag": "Liverpool",
       "teams": [
-        "Paris Saint-Germain",
         "Liverpool"
       ]
+    },
+    {
+      "id": "7e54fdccd1d23ca6c14b1aa6fee65517",
+      "source": "Sky Sports",
+      "headline": "EFL latest: Birmingham and Cardiff interested in midfielders",
+      "description": "",
+      "publishedAt": "2026-08-16T19:32:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-efl-efl-fixtures_7277457.jpg?20260619075719",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49630528,
+      "source": "ESPN",
+      "headline": "Enzo Maresca: Community Shield defeat won't change Man City's summer transfer plans",
+      "description": "Manchester City boss Enzo Maresca has said the defeat to Arsenal in the Community Shield won't alter their transfer plans this summer.",
+      "publishedAt": "2026-08-16T18:46:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0816/r1702630_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49630528/enzo-maresca-manchester-city-community-shield-defeat-change-summer-transfer-plans",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49626304,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Gakpo 'one step away' from Spurs switch",
+      "description": "Tottenham are \"one step away\" from sealing a deal for Liverpool wide man Cody Gakpo. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-16T18:35:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680599_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49626304/transfer-rumors-news-liverpool-step-barcola-chase-psg-sign-godts",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "f0972e139a26a4a3232032393f357f42",
+      "source": "Sky Sports",
+      "headline": "Forest latest: Pre-season rounded off with Brest win",
+      "description": "",
+      "publishedAt": "2026-08-16T18:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-nottingham-forest_7287949.jpg?20260702112820",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49629750,
+      "source": "ESPN",
+      "headline": "Forest's Taiwo Awoniyi set to join Coventry City in £17m deal - sources",
+      "description": "Taiwo Awoniyi is set to leave Nottingham Forest for Coventry City for a deal worth in the region of £17million ($23m), sources have told ESPN.",
+      "publishedAt": "2026-08-16T17:34:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0816/r1702588_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49629750/nottingham-forest-taiwo-awoniyi-coventry-city-transfer-sources",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": "cd1a54b0cfedcade7ffbf806e187abe6",
+      "source": "Sky Sports",
+      "headline": "West Ham blow two-goal lead at Burnley to draw on Championship return",
+      "description": "Zian Flemming struck twice late on as Burnley came back to deny West Ham in a 2-2 Championship draw between the freshly relegated sides at Turf Moor.",
+      "publishedAt": "2026-08-16T17:28:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-zian-flemming-burnley_7323434.jpg?20260816183006",
+      "link": "https://www.skysports.com/football/burnley-vs-west-ham-united/report/560507",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "c9cfd0185df22606c34e68717a29920a",
+      "source": "Sky Sports",
+      "headline": "Jacquet scores on debut as Liverpool beat Como",
+      "description": "Jeremy Jacquet was the star as Liverpool enjoyed a confidence-boosting 2-0 win over Como in their final pre-season friendly at Anfield.",
+      "publishedAt": "2026-08-16T15:09:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-jeremy-jacquet-liverpool_7323528.jpg?20260816195110",
+      "link": "https://www.skysports.com/football/news/12040/13573738/liverpool-2-0-como-jeremy-jacquet-scores-on-debut-to-add-to-cody-gakpo-goal-as-reds-win-at-anfield",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 48991120,
@@ -35,17 +130,6 @@
       "image": "https://a.espncdn.com/photo/2026/0719/r1691568_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "62d6a3abeeef9fc5ac41a084713e48b3",
-      "source": "Sky Sports",
-      "headline": "Newcastle agree deal to sign Dedic from Benfica",
-      "description": "Newcastle United have reached an agreement with Benfica to sign defender Amar Dedic.",
-      "publishedAt": "2026-08-16T08:48:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-amar-dedic-newcastle_7323053.jpg?20260816100000",
-      "link": "https://www.skysports.com/football/news/12040/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -166,28 +250,6 @@
         "Liverpool",
         "Paris Saint-Germain"
       ]
-    },
-    {
-      "id": "fd258a00df99bc0bf217843949540c4b",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Maresca confirms club captains 'for now'",
-      "description": "",
-      "publishedAt": "2026-08-15T21:30:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "9c9f43ab3a1970889481c2720e0fa2c3",
-      "source": "Sky Sports",
-      "headline": "Papers: Lille head coach confirms Man City's Bouaddi talks",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-08-15T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13573576/man-city-transfer-news-ayyoub-bouaddi-talks-confirmed-by-lille-head-coach-davide-ancelotti-who-hopes-deal-falls-through",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49593676,
@@ -358,35 +420,6 @@
       ]
     },
     {
-      "id": 49601516,
-      "source": "ESPN",
-      "headline": "Predicting where Premier League betting odds are wrong this season",
-      "description": "Premier League betting odds pick who will win the league, get relegated, win the Golden Boot and more. But which players and teams are poised to defy the odds?",
-      "publishedAt": "2026-08-14T18:01:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701481_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49601516/predicting-where-premier-league-betting-odds-wrong-2026-27-season",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Liverpool",
-        "Arsenal",
-        "Manchester City",
-        "Aston Villa",
-        "Everton",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Brentford",
-        "Nottingham Forest",
-        "Fulham",
-        "Brighton & Hove Albion",
-        "Newcastle United",
-        "Chelsea",
-        "Crystal Palace",
-        "Leeds United",
-        "Sunderland"
-      ]
-    },
-    {
       "id": 49610494,
       "source": "ESPN",
       "headline": "Liverpool owners sell stake to Jeff Bezos-backed consortium",
@@ -516,55 +549,20 @@
       ]
     },
     {
-      "id": 49600669,
-      "source": "ESPN",
-      "headline": "Time limits, VAR, mistaken identity: Which World Cup rules has Premier League adopted?",
-      "description": "Which World Cup law changes will continue for the Premier League, and which ones have been rejected?",
-      "publishedAt": "2026-08-14T09:05:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701282_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49600669/limits-var-mistaken-identity-2026-world-cup-rules-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49607572,
-      "source": "ESPN",
-      "headline": "Carrick backs Mainoo after 'challenging' World Cup",
-      "description": "Carrick backs Mainoo after 'challenging' World Cup",
-      "publishedAt": "2026-08-14T08:53:15Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0814/dm_260814_COM_SOC_Interview_Carrick_backs_Mainoo_after_challenging_World_Cup_20260814_GLOBAL/dm_260814_COM_SOC_Interview_Carrick_backs_Mainoo_after_challenging_World_Cup_20260814_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49607572/carrick-backs-mainoo-challenging-world-cup",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Manchester United"
-      ]
+      "id": "fe82e8ee074c08a3eb503301c7644168",
+      "source": "Sky Sports",
+      "headline": "Man City and Barcelona agree fee for Rodri",
+      "description": "Man City and Barcelona have agreed a £65.4m fee for Rodri.",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rodri-man-city_7323576.png?20260816204201",
+      "link": "https://www.skysports.com/football/news/12040/13572836/rodri-transfer-news-man-city-accept-bid-from-barcelona-for-world-cup-winning-midfielder-and-former-ballon-dor-holder",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-16T12:58:30.037Z"
+    "cachedAt": "2026-08-17T01:53:23.132Z"
   }
 }
