@@ -2,6 +2,184 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49650740,
+      "source": "ESPN",
+      "headline": "Footy for Fido: Adidas drops dog kits for 2026-27",
+      "description": "Adidas has released its Clubs Pet Collection with six different mini kits specialized for your beloved canines.",
+      "publishedAt": "2026-08-18T18:34:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703470_3_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49650740/footy-fido-adidas-drops-dog-kits-2026-27",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "Arsenal",
+        "América",
+        "Manchester United",
+        "Benfica",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49598191,
+      "source": "ESPN",
+      "headline": "Rodri seals transfer to Barcelona after seven-year stint at Man City",
+      "description": "Spain's World Cup winning captain Rodri has completed his transfer from Manchester City to Barcelona.",
+      "publishedAt": "2026-08-18T18:27:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702895_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49598191/rodri-seals-transfer-barcelona-seven-year-stint-man-city",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49609872,
+      "source": "ESPN",
+      "headline": "2026 FC 100: Kane, Yamal, Messi among best men's soccer players",
+      "description": "Before the 2026-27 season kicks off across Europe this weekend, it's time to rank the top 100 players in the world of men's soccer, including those who starred at the World Cup this summer. Welcome to the FC 100.",
+      "publishedAt": "2026-08-18T18:04:40Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/260817_soc_fc100_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49609872/2026-fc-100-kane-yamal-messi-best-mens-soccer-players",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49650143,
+      "source": "ESPN",
+      "headline": "Premier League chief Masters: FIFA has hit 'self-destruct button'",
+      "description": "Premier League chief executive Richard Masters has accused embattled FIFA president Gianni Infantino of pressing the \"self-destruct button\" over failed plans to sell stakes in the World Cup.",
+      "publishedAt": "2026-08-18T17:44:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-18T17:11:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703455_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
+      "publishedAt": "2026-08-18T16:08:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "46aef0569ed660d8c82102b3ccbdc953",
+      "source": "Sky Sports",
+      "headline": "Maguire: I want to be greedy about winning trophies",
+      "description": "Sitting down with Harry Maguire for one of his first interviews of the season, I found a player who was reflective but also excited about the future and what's to come.",
+      "publishedAt": "2026-08-18T16:00:00.000Z",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-harry-maguire-luke-shaw_7182320.jpg?20260304183715",
+      "link": "https://www.skysports.com/football/news/12040/13574426/harry-maguire-man-utd-defender-on-winning-trophies-new-signings-michael-carrick-and-the-future-with-ayden-heaven-and-leny-yoro",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "cd469b71e0a4e1f7758ac2f025cefecc",
+      "source": "Sky Sports",
+      "headline": "PL chief Masters: Man City charges verdict 'has taken longer than expected'",
+      "description": "Premier League chief executive Richard Masters says a verdict on the alleged charges against Manchester City \"has taken longer than expected\".",
+      "publishedAt": "2026-08-18T15:30:00.000Z",
+      "image": "https://e0.365dm.com/24/01/1920x1080/skysports-man-city-premier-league_6423479.jpg?20240116130948",
+      "link": "https://www.skysports.com/football/news/12040/13574259/manchester-city-charges-premier-league-chief-executive-richard-masters-says-verdict-has-taken-longer-than-expected",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49638340,
+      "source": "ESPN",
+      "headline": "Guglielmo Vicario joins Juventus on loan from Tottenham",
+      "description": "Guglilemo Vicario has joined Juventus on a season-long loan from Tottenham, the two clubs have announced.",
+      "publishedAt": "2026-08-18T14:22:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703390_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49638340/guglielmo-vicario-juventus-spurs-premier-league-transfers-serie-a",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Juventus"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-18T14:22:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49648047,
+      "source": "ESPN",
+      "headline": "Chelsea rebrand U21, U19 teams to 'Cobham Next Gen'",
+      "description": "Chelsea have announced a rebrand of their under-21 and under-19 teams, confirming their new name as Cobham Next Gen (CNG).",
+      "publishedAt": "2026-08-18T13:55:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703361_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49648047/chelsea-rebrand-u21-u19-teams-cobham-next-gen",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
       "id": 49646017,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Galatasaray offer Bruno Fernandes double his salary",
@@ -42,17 +220,6 @@
       ]
     },
     {
-      "id": 49609872,
-      "source": "ESPN",
-      "headline": "2026 FC 100: Kane, Yamal, Messi among best men's soccer players",
-      "description": "Before the 2026-27 season kicks off across Europe this weekend, it's time to rank the top 100 players in the world of men's soccer, including those who starred at the World Cup this summer. Welcome to the FC 100.",
-      "publishedAt": "2026-08-18T11:11:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/260817_soc_fc100_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49609872/2026-fc-100-kane-yamal-messi-best-mens-soccer-players",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49640814,
       "source": "ESPN",
       "headline": "Marcotti picks Rice over Vitinha in the FC 100",
@@ -67,6 +234,17 @@
         "Paris Saint-Germain",
         "Portugal"
       ]
+    },
+    {
+      "id": "677b763d20efdd0f81be9a9239214501",
+      "source": "Sky Sports",
+      "headline": "Rodri completes Barcelona move",
+      "description": "Barcelona have confirmed the signing of Rodri from Manchester City in a deal worth £65.4m.",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-man-city_7309079.jpg?20260729085100",
+      "link": "https://www.skysports.com/football/news/12040/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49646487,
@@ -132,17 +310,6 @@
       ]
     },
     {
-      "id": "ef4292fdccf5a735c7f0a33e26a733b3",
-      "source": "Sky Sports",
-      "headline": "Premier League build-up: More ref audio to be released this season",
-      "description": "",
-      "publishedAt": "2026-08-18T09:58:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-ref-var_7262517.jpg?20260531213834",
-      "link": "https://www.skysports.com/football/live-blog/12040/13574293/premier-league-2026-27-preview-team-news-analysis-injury-latest-suspensions-and-fantasy-football",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49646799,
       "source": "ESPN",
       "headline": "Pep Guardiola mentions divorce in furious rant at Man City players: 'We lost the passion'",
@@ -154,60 +321,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "72e996fc65a8c5bfb247596c8fcf1547",
-      "source": "Sky Sports",
-      "headline": "The Premier League is back! All 20 clubs assessed",
-      "description": "Football hasn't stopped this summer, so to make sure you're up to speed with how every Premier League is shaping up ahead of the new season we've taken a look at their preparations for the new campaign.",
-      "publishedAt": "2026-08-18T09:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-manchester-united_7323862.jpg?20260817100219",
-      "link": "https://www.skysports.com/football/news/12040/13572964/premier-league-season-preview-each-clubs-pre-season-preparations-analysed-ahead-of-new-campaigns-kick-off-this-friday",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-18T08:20:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": "47e80e533b5da79ee3a86928e6e3ba7b",
-      "source": "Sky Sports",
-      "headline": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "description": "",
-      "publishedAt": "2026-08-18T07:50:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49626572,
@@ -240,17 +353,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "3cd067aa7dc00e8d2dca4c52d2705215",
-      "source": "Sky Sports",
-      "headline": "Watch out for Brentford's Sangare - he could be signing of the season",
-      "description": "It's September 2024, and Mamadou Sangare has been called up to the Mali squad for the very first time. As is normal in modern football, new players have to do an initiation song while stood on top of a chair.",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mamadou-sangare-brentford_7322765.jpg?20260815182706",
-      "link": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -377,20 +479,6 @@
       ]
     },
     {
-      "id": 49636850,
-      "source": "ESPN",
-      "headline": "Juventus to sign Guglielmo Vicario from Tottenham on loan with option to buy - sources",
-      "description": "Juventus have agreed a deal with Tottenham to sign Guglielmo Vicario on loan, sources have told ESPN.",
-      "publishedAt": "2026-08-17T15:52:51Z",
-      "image": "https://a.espncdn.com/photo/2025/0307/r1460768_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49636850/juventus-sign-guglielmo-vicario-tottenham-loan-option-buy-sources",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Juventus"
-      ]
-    },
-    {
       "id": 49639380,
       "source": "ESPN",
       "headline": "Is Vicario a better option for Juventus than Martínez?",
@@ -401,23 +489,6 @@
       "tag": "Juventus",
       "teams": [
         "Juventus"
-      ]
-    },
-    {
-      "id": 49637958,
-      "source": "ESPN",
-      "headline": "How a tiny Basque club spawned Premier League's top managers",
-      "description": "Whether it be the Premier League, Champions League or World Cup, hiring a coach from Spain's northern coast is bringing clubs guaranteed success.",
-      "publishedAt": "2026-08-17T14:47:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702904_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49637958/arteta-alonso-iraola-tiny-basque-club-shaped-premier-league-top-bosses",
-      "tag": "Real Sociedad",
-      "teams": [
-        "Real Sociedad",
-        "Arsenal",
-        "Aston Villa",
-        "Liverpool",
-        "Chelsea"
       ]
     },
     {
@@ -432,90 +503,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49637198,
-      "source": "ESPN",
-      "headline": "Martin Ødegaard on Bruno Guimarães: 'Connection already there' in Arsenal midfield",
-      "description": "Martin Ødegaard has spoken glowingly of Bruno Guimarães and said he has already formed a connection with the Brazil international on the pitch.",
-      "publishedAt": "2026-08-17T11:29:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702566_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49637198/martin-odegaard-bruno-guimarees-connection-already-there-arsenal-midfield",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49636987,
-      "source": "ESPN",
-      "headline": "Virgil van Dijk praises Liverpool's Jérémy Jacquet, Ronald Araújo but bond requires 'time'",
-      "description": "Liverpool defender Virgil van Dijk has praised summer signings Jérémy Jacquet and Ronald Araújo for their impressive debuts against Como.",
-      "publishedAt": "2026-08-17T11:00:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702612_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49636987/virgil-van-dijk-praises-liverpool-jeremy-jacquet-ronald-araujo-bond-requires",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49636691,
-      "source": "ESPN",
-      "headline": "Mikel Arteta says Gabriel Martinelli, Gabriel Jesus will stay at Arsenal despite Community Shield omission",
-      "description": "Gabriel Martinelli and Gabriel Jesus remain \"important\" to Arsenal despite not being picked for their Community Shield squad, Mikel Arteta said.",
-      "publishedAt": "2026-08-17T09:20:13Z",
-      "image": "https://a.espncdn.com/photo/2025/0916/r1546641_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49636691/mikel-arteta-says-gabriel-martinelli-gabriel-jesus-stay-arsenal-community-shield-omission",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49636671,
-      "source": "ESPN",
-      "headline": "Jack Grealish will play if he 'deserves it' but door open to Man City exit - Enzo Maresca",
-      "description": "Enzo Maresca has said that Jack Grealish will be given minutes for Manchester City this season if he \"deserves\" to play -- but left the door open to an exit.",
-      "publishedAt": "2026-08-17T09:19:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702863_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49636671/enzo-maresca-man-city-jack-grealish-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49610912,
-      "source": "ESPN",
-      "headline": "Premier League Top 50: Ranking best players before 2026-27 season",
-      "description": "Ahead of the 2026-27 Premier League season, let's rank the best 50 players to keep an eye on.",
-      "publishedAt": "2026-08-17T07:53:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1701942_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49610912/premier-league-top-50-ranking-best-players-2026-27-season-liverpool-arsenal-man-united",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Liverpool",
-        "Manchester United",
-        "Chelsea",
-        "Manchester City",
-        "Tottenham Hotspur",
-        "Aston Villa",
-        "Newcastle United",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Crystal Palace",
-        "AFC Bournemouth",
-        "Everton",
-        "Fulham",
-        "Nottingham Forest"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-18T13:05:14.397Z"
+    "cachedAt": "2026-08-18T18:53:56.940Z"
   }
 }
