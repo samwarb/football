@@ -2,6 +2,119 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49643207,
+      "source": "ESPN",
+      "headline": "Doc details turmoil for Pep, players in Manchester City swoons",
+      "description": "Pep Guardiola clashed with his captain and almost broke down in tears as he railed at players during his worst run as Manchester City manager.",
+      "publishedAt": "2026-08-17T23:31:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0201/r1608961_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49643207/doc-details-turmoil-pep-players-manchester-city-swoons",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "97883ce9cdb6859997c492637589c40b",
+      "source": "Sky Sports",
+      "headline": "Boehly and Walter hold talks over selling Chelsea shares to majority owners",
+      "description": "Todd Boehly and Mark Walter have held talks about selling their shares in Chelsea to Clearlake Capital.",
+      "publishedAt": "2026-08-17T21:50:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-todd-boehly-chelsea_7324305.jpg?20260817174915",
+      "link": "https://www.skysports.com/football/news/12040/13574134/chelsea-co-owners-todd-boehly-and-mark-walter-hold-talks-over-selling-shares-to-majority-owners-clearlake-capital",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49642423,
+      "source": "ESPN",
+      "headline": "Leboeuf: Nobody will compete with Arsenal in the Premier League",
+      "description": "Leboeuf: Nobody will compete with Arsenal in the Premier League",
+      "publishedAt": "2026-08-17T21:46:38Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Leboeuf_Nobody_will_compete_with_Arsenal_in_the_Premier_League_20260817_GLOBAL/dm_260817_COM_SOC_Analysis_Leboeuf_Nobody_will_compete_with_Arsenal_in_the_Premier_League_20260817_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49642423/compete-arsenal-premier-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7ce3b2adbe33158dc7336c76e54d990a",
+      "source": "Sky Sports",
+      "headline": "Papers: Potential power shift at Chelsea as club valued at £5bn",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "publishedAt": "2026-08-17T21:35:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13574191/chelsea-co-owners-todd-boehly-and-mark-walter-open-to-selling-stakes-to-majority-owners-clearlake-capital-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49642005,
+      "source": "ESPN",
+      "headline": "Rodri arrives in Barcelona ahead of 'dream' move from Man City",
+      "description": "Manchester City midfielder Rodri has arrived in Barcelona ahead of his €76.5 million (£65.3M) move to the Catalan giants.",
+      "publishedAt": "2026-08-17T21:09:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701652_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49642005/rodri-arrives-barcelona-man-city-spain-dream-move",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "d0228e98e6b9657ebeb618d3fcd5b30f",
+      "source": "Sky Sports",
+      "headline": "Colwill hits last-second stunner as Cardiff fight back to deny Wrexham",
+      "description": "Cardiff earned the most dramatic point on their return to the Sky Bet Championship as Rubin Colwill's stunning 98th-minute free-kick earned a 1-1 draw against Wrexham.",
+      "publishedAt": "2026-08-17T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rubin-colwill-cardiff_7324435.jpg?20260817220931",
+      "link": "https://www.skysports.com/football/cardiff-city-vs-wrexham/report/560509",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49640908,
+      "source": "ESPN",
+      "headline": "Sources: Manchester City near deal for Lille star Ayyoub Bouaddi",
+      "description": "Manchester City are closing in on a deal for Morocco and Lille defensive midfielder Ayyoub Bouaddi and want it completed this week, sources told ESPN.",
+      "publishedAt": "2026-08-17T19:28:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1703080_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49640908/manchester-city-deal-lille-star-bouaddi",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Lille",
+        "Morocco"
+      ]
+    },
+    {
+      "id": 49636079,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Real Madrid eye Arsenal midfielder Zubimendi",
+      "description": "Real Madrid are reportedly looking at a move for Arsenal midfielder Martín Zubimendi. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-17T19:25:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1703079_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49636079/transfer-rumors-news-barcelona-eye-arsenal-striker-viktor-gyokeres",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "164595df361793a3913571e66849ca8c",
+      "source": "Sky Sports",
+      "headline": "Sheff Utd face winding-up hearing as former owner makes claim",
+      "description": "Sheffield United's owners are focused on the new season despite the club's former owners suggesting they face a \"real prospect\" of administration ahead of an insolvency court hearing on Wednesday.",
+      "publishedAt": "2026-08-17T19:19:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sheffield-united_7293084.jpg?20260708155512",
+      "link": "https://www.skysports.com/football/news/12040/13574171/sheffield-united-face-winding-up-hearing-in-court-as-former-owners-united-world-claim-coh-sports-owes-35m",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49639894,
       "source": "ESPN",
       "headline": "Coventry City sign striker Taiwo Awoniyi from Nottingham Forest",
@@ -40,17 +153,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "dafd0b8f431bbba890299c0289bcd48a",
-      "source": "Sky Sports",
-      "headline": "Alonso, Fernandez and a new era at Chelsea - podcast special!",
-      "description": "It's been another summer of change at Chelsea - and on the eve of a new Premier League season, there is so much to analyse at the club, with Xabi Alonso's reign kicking off, big-money transfers to be settled and a search for success on the pitch in their sights.",
-      "publishedAt": "2026-08-17T16:11:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-chelsea-big-summer_7324184.jpg?20260817153352",
-      "link": "https://www.skysports.com/football/news/12040/13574084/chelsea-podcast-xabi-alonso-enzo-fernandez-future-transfers-and-a-new-era-at-stamford-bridge-analysed",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49636850,
@@ -132,31 +234,6 @@
       ]
     },
     {
-      "id": "b95b5864f60eb78322ff3b6249df6d3b",
-      "source": "Sky Sports",
-      "headline": "Arsenal's trip to Liverpool and Leeds vs Man Utd live on Sky Sports",
-      "description": "Liverpool's home matches against Manchester City and Arsenal, plus Manchester United's trip to rivals Leeds, are among the 21 Premier League games being shown live on Sky Sports in October and November.",
-      "publishedAt": "2026-08-17T14:05:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270618.jpg?20260611102640",
-      "link": "https://www.skysports.com/football/news/12040/13574076/premier-league-fixtures-on-sky-sports-liverpool-vs-man-city-and-arsenal-plus-leeds-vs-man-utd-live-in-october-and-november",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49636079,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona eye Arsenal striker Viktor Gyökeres",
-      "description": "Barcelona are considering a move for Arsenal striker Viktor Gyökeres. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-17T13:45:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702859_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49636079/transfer-rumors-news-barcelona-eye-arsenal-striker-viktor-gyokeres",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
       "id": 49637198,
       "source": "ESPN",
       "headline": "Martin Ødegaard on Bruno Guimarães: 'Connection already there' in Arsenal midfield",
@@ -183,17 +260,6 @@
       ]
     },
     {
-      "id": "9f0e81aa03f98517b9356f3cbc744173",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Talks ongoing for Bouaddi as price tag revealed",
-      "description": "",
-      "publishedAt": "2026-08-17T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49636691,
       "source": "ESPN",
       "headline": "Mikel Arteta says Gabriel Martinelli, Gabriel Jesus will stay at Arsenal despite Community Shield omission",
@@ -218,17 +284,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "d83fd718abbb3d7752617e22008a612d",
-      "source": "Sky Sports",
-      "headline": "Rogers on playing with 'artist' Palmer and getting Chelsea back to the top",
-      "description": "Morgan Rogers is convinced Chelsea can once again compete for the top trophies and says he and Cole Palmer know exactly how to play together.",
-      "publishedAt": "2026-08-17T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-chelsea_7321597.jpg?20260814143817",
-      "link": "https://www.skysports.com/football/news/12040/13572952/chelseas-morgan-rogers-relishing-prospect-of-playing-with-cole-palmer-as-he-targets-premier-league-and-champions-league-glory",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49610912,
@@ -318,17 +373,6 @@
       ]
     },
     {
-      "id": "33353fdfa7299520e090927441fe2511",
-      "source": "Sky Sports",
-      "headline": "The NEW laws in the Premier League explained",
-      "description": "Sky Sports takes you through the new rules that the Premier League teams will have to abide by throughout the new season.",
-      "publishedAt": "2026-08-17T05:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-referee-premier-league_7323297.jpg?20260816153023",
-      "link": "https://www.skysports.com/watch/video/13573709/explained-the-new-laws-in-the-premier-league-this-season",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49632126,
       "source": "ESPN",
       "headline": "Michalik: Wirtz has to be Liverpool's 'Bruno Fernandes' this season",
@@ -390,17 +434,6 @@
       "publishedAt": "2026-08-16T09:30:27Z",
       "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-16T09:21:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691568_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
     },
@@ -492,19 +525,6 @@
       ]
     },
     {
-      "id": 49620194,
-      "source": "ESPN",
-      "headline": "Michael Carrick on Man United's defeat to Ruben Amorim's AC Milan: 'No excuses'",
-      "description": "Manchester United boss Michael Carrick said there were \"no excuses\" after his side fell to a 4-2 preseason defeat to AC Milan.",
-      "publishedAt": "2026-08-15T18:56:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702172_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49620194/michael-carrick-manchester-united-ruben-amorim-ac-milan-preseason-no-excuses",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49616548,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Como want Chelsea's Delap to bolster attack",
@@ -517,57 +537,11 @@
         "Como",
         "Chelsea"
       ]
-    },
-    {
-      "id": 49618569,
-      "source": "ESPN",
-      "headline": "Tottenham 3-0 Hoffenheim: Mikey Moore's brace helps hosts earn comfortable friendly win",
-      "description": "A first-half strike from Richarlison and a second-half brace from Mikey Moore helped Roberto De Zerbi's new-look Tottenham team beat Hoffenheim 3-0.",
-      "publishedAt": "2026-08-15T18:17:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702101_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49618569/mikey-moore-brace-helps-hosts-earn-comfortable-friendly-win",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "TSG Hoffenheim"
-      ]
-    },
-    {
-      "id": 49582486,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 preseason winners and losers",
-      "description": "Who has excelled and who has seemingly struggled to get into their best form ahead of the 2026-27 Premier League season?",
-      "publishedAt": "2026-08-15T08:05:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701635_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49582486/premier-league-2026-27-preseason-winners-losers-arsenal-chelsea-man-city-man-united-liverpool",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Arsenal",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-17T18:54:54.290Z"
+    "cachedAt": "2026-08-18T01:48:23.653Z"
   }
 }
