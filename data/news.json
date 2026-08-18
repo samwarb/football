@@ -2,39 +2,176 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 48944912,
+      "id": 49646017,
       "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-18T06:49:37Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "headline": "Transfer rumors, news: Galatasaray offer Bruno Fernandes double his salary",
+      "description": "Galatasaray have stepped up their pursuit of Manchester United midfielder Bruno Fernandes. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-18T12:18:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1700906_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49646017/transfer-rumors-news-galatasaray-offer-bruno-fernandes-double-salary",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Galatasaray"
+      ]
+    },
+    {
+      "id": 49640731,
+      "source": "ESPN",
+      "headline": "Can Arsenal avoid breaking Rice in their Premier League title defense?",
+      "description": "Declan Rice's durability has long been praised, but after a grueling season for club and country, can he do it all again for Arsenal's title defense?",
+      "publishedAt": "2026-08-18T12:18:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1703062_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49640731/arsenal-declan-rice-risk-premier-league-title-defense-burnout",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49647189,
+      "source": "ESPN",
+      "headline": "Wayne Rooney on Marcus Rashford at Man United: 'Has he got the hunger?'",
+      "description": "Marcus Rashford must alter his body language and show that he has the \"hunger\" to play for Manchester United, Wayne Rooney has said.",
+      "publishedAt": "2026-08-18T12:00:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703308_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49647189/wayne-rooney-marcus-rashford-man-united-premier-league",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49609872,
+      "source": "ESPN",
+      "headline": "2026 FC 100: Kane, Yamal, Messi among best men's soccer players",
+      "description": "Before the 2026-27 season kicks off across Europe this weekend, it's time to rank the top 100 players in the world of men's soccer, including those who starred at the World Cup this summer. Welcome to the FC 100.",
+      "publishedAt": "2026-08-18T11:11:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0813/260817_soc_fc100_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49609872/2026-fc-100-kane-yamal-messi-best-mens-soccer-players",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49640814,
+      "source": "ESPN",
+      "headline": "Marcotti picks Rice over Vitinha in the FC 100",
+      "description": "Marcotti picks Rice over Vitinha in the FC 100",
+      "publishedAt": "2026-08-18T11:06:14Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Marcotti_picks_Rice_over_Vitinha_in_the_FC_100_20260817_GLOBAL/dm_260817_COM_SOC_Analysis_Marcotti_picks_Rice_over_Vitinha_in_the_FC_100_20260817_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49640814/marcotti-picks-rice-vitinha-fc-100",
       "tag": "Arsenal",
       "teams": [
         "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
+        "England",
+        "Paris Saint-Germain",
+        "Portugal"
       ]
+    },
+    {
+      "id": 49646487,
+      "source": "ESPN",
+      "headline": "EA Sports FC 27 player ratings revealed: Erling Haaland, Kylian Mbappé top list ahead of Rodri, Harry Kane",
+      "description": "EA Sports have revealed the 27 top-rated men's and women's players ahead the much-anticipated release of FC 27.",
+      "publishedAt": "2026-08-18T10:54:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703305_1296x729_16-9.png",
+      "link": "https://www.espn.com/soccer/story/_/id/49646487/fc-27-player-ratings-revealed-erling-haaland-kylian-mbappe-top-list-ahead-rodri-harry-kane-fifa",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Real Madrid",
+        "Barcelona",
+        "Arsenal",
+        "Bayern Munich",
+        "Paris Saint-Germain",
+        "London City Lionesses",
+        "Barcelona",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49646408,
+      "source": "ESPN",
+      "headline": "No one created goals like FC 100 winner Bruno Fernandes",
+      "description": "No one created goals like FC 100 winner Bruno Fernandes",
+      "publishedAt": "2026-08-18T10:54:14Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0818/dm_260818_COM_SOC_Analysis_No_one_created_goals_like_FC_100_winner_Bruno_Fernandes_GLOBAL_2026-08-18/dm_260818_COM_SOC_Analysis_No_one_created_goals_like_FC_100_winner_Bruno_Fernandes_GLOBAL_2026-08-18.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49646408/no-one-created-goals-fc-100-winner-bruno-fernandes",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Portugal"
+      ]
+    },
+    {
+      "id": 49646328,
+      "source": "ESPN",
+      "headline": "Why Arsenal's William Saliba had to be the FC 100's best center-back",
+      "description": "Why Arsenal's William Saliba had to be the FC 100's best center back",
+      "publishedAt": "2026-08-18T10:51:42Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0818/dm_260818_COM_SOC_Analysis_Why_Arsenals_William_Saliba_had_to_be_the_FC_100s_best_center-back_GLOBAL_2026-/dm_260818_COM_SOC_Analysis_Why_Arsenals_William_Saliba_had_to_be_the_FC_100s_best_center-back_GLOBAL_2026-.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49646328/why-arsenal-william-saliba-had-fc-100-best-center-back",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "France"
+      ]
+    },
+    {
+      "id": 49646182,
+      "source": "ESPN",
+      "headline": "Why unbeatable David Raya is the best goalkeeper in the FC 100",
+      "description": "Why unbeatable David Raya is the best goalkeeper in the FC 100",
+      "publishedAt": "2026-08-18T10:46:52Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0818/dm_260818_COM_SOC_Analysis_Why_unbeatable_David_Raya_is_the_best_goalkeeper_in_the_FC_100_GLOBAL_2026-08-18/dm_260818_COM_SOC_Analysis_Why_unbeatable_David_Raya_is_the_best_goalkeeper_in_the_FC_100_GLOBAL_2026-08-18.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49646182/why-unbeatable-david-raya-best-goalkeeper-fc-100",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Spain"
+      ]
+    },
+    {
+      "id": "ef4292fdccf5a735c7f0a33e26a733b3",
+      "source": "Sky Sports",
+      "headline": "Premier League build-up: More ref audio to be released this season",
+      "description": "",
+      "publishedAt": "2026-08-18T09:58:00.000Z",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-ref-var_7262517.jpg?20260531213834",
+      "link": "https://www.skysports.com/football/live-blog/12040/13574293/premier-league-2026-27-preview-team-news-analysis-injury-latest-suspensions-and-fantasy-football",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49646799,
+      "source": "ESPN",
+      "headline": "Pep Guardiola mentions divorce in furious rant at Man City players: 'We lost the passion'",
+      "description": "Pep Guardiola revealed he and his wife \"lost the passion\" in their marriage as he opened up about personal struggles during his final years at Manchester City.",
+      "publishedAt": "2026-08-18T09:57:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0518/r1659892_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49646799/pep-guardiola-mentions-divorce-furious-rant-man-city-players-lost-passion",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "72e996fc65a8c5bfb247596c8fcf1547",
+      "source": "Sky Sports",
+      "headline": "The Premier League is back! All 20 clubs assessed",
+      "description": "Football hasn't stopped this summer, so to make sure you're up to speed with how every Premier League is shaping up ahead of the new season we've taken a look at their preparations for the new campaign.",
+      "publishedAt": "2026-08-18T09:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-manchester-united_7323862.jpg?20260817100219",
+      "link": "https://www.skysports.com/football/news/12040/13572964/premier-league-season-preview-each-clubs-pre-season-preparations-analysed-ahead-of-new-campaigns-kick-off-this-friday",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 48955344,
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-18T06:42:23Z",
+      "publishedAt": "2026-08-18T08:20:41Z",
       "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "tag": "Arsenal",
@@ -62,11 +199,41 @@
       ]
     },
     {
+      "id": "47e80e533b5da79ee3a86928e6e3ba7b",
+      "source": "Sky Sports",
+      "headline": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "description": "",
+      "publishedAt": "2026-08-18T07:50:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
+      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49626572,
+      "source": "ESPN",
+      "headline": "Premier League Week 1 predictions: Big club starting lineups",
+      "description": "The 2026-27 Premier League is here! After a busy summer of World Cup, transfers and preseason prep, here's how we expect all the top clubs to line up for opening weekend.",
+      "publishedAt": "2026-08-18T07:45:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703293_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49626572/premier-league-week-1-starting-lineups-man-united-man-city-liverpool-arsenal",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Arsenal",
+        "Manchester City",
+        "Manchester United",
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Chelsea"
+      ]
+    },
+    {
       "id": 49643207,
       "source": "ESPN",
-      "headline": "Doc details turmoil for Pep, players in Manchester City swoons",
+      "headline": "Pep Guardiola-Kyle Walker row detailed in new Man City documentary",
       "description": "Pep Guardiola clashed with his captain and almost broke down in tears as he railed at players during his worst run as Manchester City manager.",
-      "publishedAt": "2026-08-17T23:31:24Z",
+      "publishedAt": "2026-08-18T07:28:45Z",
       "image": "https://a.espncdn.com/photo/2026/0201/r1608961_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49643207/doc-details-turmoil-pep-players-manchester-city-swoons",
       "tag": "Manchester City",
@@ -75,15 +242,43 @@
       ]
     },
     {
-      "id": "97883ce9cdb6859997c492637589c40b",
+      "id": "3cd067aa7dc00e8d2dca4c52d2705215",
       "source": "Sky Sports",
-      "headline": "Boehly and Walter hold talks over selling Chelsea shares to majority owners",
-      "description": "Todd Boehly and Mark Walter have held talks about selling their shares in Chelsea to Clearlake Capital.",
-      "publishedAt": "2026-08-17T21:50:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-todd-boehly-chelsea_7324305.jpg?20260817174915",
-      "link": "https://www.skysports.com/football/news/12040/13574134/chelsea-co-owners-todd-boehly-and-mark-walter-hold-talks-over-selling-shares-to-majority-owners-clearlake-capital",
+      "headline": "Watch out for Brentford's Sangare - he could be signing of the season",
+      "description": "It's September 2024, and Mamadou Sangare has been called up to the Mali squad for the very first time. As is normal in modern football, new players have to do an initiation song while stood on top of a chair.",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mamadou-sangare-brentford_7322765.jpg?20260815182706",
+      "link": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
       "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-18T06:49:37Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
     },
     {
       "id": 49642423,
@@ -113,17 +308,6 @@
       ]
     },
     {
-      "id": "d0228e98e6b9657ebeb618d3fcd5b30f",
-      "source": "Sky Sports",
-      "headline": "Colwill hits last-second stunner as Cardiff fight back to deny Wrexham",
-      "description": "Cardiff earned the most dramatic point on their return to the Sky Bet Championship as Rubin Colwill's stunning 98th-minute free-kick earned a 1-1 draw against Wrexham.",
-      "publishedAt": "2026-08-17T21:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rubin-colwill-cardiff_7324435.jpg?20260817220931",
-      "link": "https://www.skysports.com/football/cardiff-city-vs-wrexham/report/560509",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49640908,
       "source": "ESPN",
       "headline": "Sources: Manchester City near deal for Lille star Ayyoub Bouaddi",
@@ -151,17 +335,6 @@
         "Arsenal",
         "Real Madrid"
       ]
-    },
-    {
-      "id": "164595df361793a3913571e66849ca8c",
-      "source": "Sky Sports",
-      "headline": "Sheff Utd face winding-up hearing as former owner makes claim",
-      "description": "Sheffield United's owners are focused on the new season despite the club's former owners suggesting they face a \"real prospect\" of administration ahead of an insolvency court hearing on Wednesday.",
-      "publishedAt": "2026-08-17T19:19:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sheffield-united_7293084.jpg?20260708155512",
-      "link": "https://www.skysports.com/football/news/12040/13574171/sheffield-united-face-winding-up-hearing-in-court-as-former-owners-united-world-claim-coh-sports-owes-35m",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49639894,
@@ -338,177 +511,11 @@
         "Fulham",
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": 49632126,
-      "source": "ESPN",
-      "headline": "Michalik: Wirtz has to be Liverpool's 'Bruno Fernandes' this season",
-      "description": "Michalik: Wirtz has to be Liverpool's 'Bruno Fernandes' this season",
-      "publishedAt": "2026-08-16T21:22:09Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0816/dm_260816_COM_SOC_ANALYSIS_Michalik_Wirtz_has_to_be_Liverpools_Bruno_Fernandes_this_season_2026_8_16/dm_260816_COM_SOC_ANALYSIS_Michalik_Wirtz_has_to_be_Liverpools_Bruno_Fernandes_this_season_2026_8_16.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49632126/wirtz-liverpool-bruno-fernandes-season",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49630528,
-      "source": "ESPN",
-      "headline": "Enzo Maresca: Community Shield defeat won't change Man City's summer transfer plans",
-      "description": "Manchester City boss Enzo Maresca has said the defeat to Arsenal in the Community Shield won't alter their transfer plans this summer.",
-      "publishedAt": "2026-08-16T18:46:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702630_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49630528/enzo-maresca-manchester-city-community-shield-defeat-change-summer-transfer-plans",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49626304,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Gakpo 'one step away' from Spurs switch",
-      "description": "Tottenham are \"one step away\" from sealing a deal for Liverpool wide man Cody Gakpo. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-16T18:35:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680599_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49626304/transfer-rumors-news-liverpool-step-barcola-chase-psg-sign-godts",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49629750,
-      "source": "ESPN",
-      "headline": "Forest's Taiwo Awoniyi set to join Coventry City in £17m deal - sources",
-      "description": "Taiwo Awoniyi is set to leave Nottingham Forest for Coventry City for a deal worth in the region of £17million ($23m), sources have told ESPN.",
-      "publishedAt": "2026-08-16T17:34:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0816/r1702588_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49629750/nottingham-forest-taiwo-awoniyi-coventry-city-transfer-sources",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 48991120,
-      "source": "ESPN",
-      "headline": "Transfer big board: Best players in each position who could move this summer",
-      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
-      "publishedAt": "2026-08-16T09:30:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49154575,
-      "source": "ESPN",
-      "headline": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "description": "Premier League clubs have confirmed their preseason schedules ahead of the new campaign, with the 2026-27 season kicking off on Aug. 21.",
-      "publishedAt": "2026-08-16T06:48:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "Chelsea",
-        "Coventry City",
-        "Everton",
-        "Brighton & Hove Albion",
-        "Brentford",
-        "Crystal Palace",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 49621757,
-      "source": "ESPN",
-      "headline": "Enzo Maresca to pick Man City leaders at end of transfer window",
-      "description": "Enzo Maresca will wait until the end of the transfer window to finalise his Manchester City leadership group given the uncertainty over the final make-up of his squad.",
-      "publishedAt": "2026-08-15T23:48:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702258_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49621757/enzo-maresca-pick-man-city-leaders-end-transfer-window-moment-ruben-erling",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49622294,
-      "source": "ESPN",
-      "headline": "What kind of transfer activity will happen at Liverpool?",
-      "description": "What kind of transfer activity will happen at Liverpool?",
-      "publishedAt": "2026-08-15T22:58:34Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0815/dm_260815_COM_SOC_Analysis_What_kind_of_transfer_activity_will_happen_at_Liverpool3F__GLOBAL_2026-08-16/dm_260815_COM_SOC_Analysis_What_kind_of_transfer_activity_will_happen_at_Liverpool3F__GLOBAL_2026-08-16.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49622294/what-kind-transfer-activity-happen-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 49593676,
-      "source": "ESPN",
-      "headline": "Cristian Romero seals transfer to Atlético Madrid from Tottenham",
-      "description": "Cristian Romero has completed a transfer from Tottenham Hotspur to Atlético Madrid, the two clubs have confirmed.",
-      "publishedAt": "2026-08-15T20:09:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690735_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49593676/cristian-romero-seals-transfer-atletico-madrid-tottenham",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Atlético Madrid"
-      ]
-    },
-    {
-      "id": 49620602,
-      "source": "ESPN",
-      "headline": "'Emotional' Xabi Alonso delighted with Chelsea reaction in 'new home'",
-      "description": "Xabi Alonso said he was \"emotional\" to experience Stamford Bridge for the first time as Chelsea manager as his side ended their preseason campaign with a 3-1 win over Real Sociedad.",
-      "publishedAt": "2026-08-15T19:07:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702176_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49620602/emotional-alonso-delighted-chelsea-reaction-new-home",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Real Sociedad"
-      ]
-    },
-    {
-      "id": 49616548,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Como want Chelsea's Delap to bolster attack",
-      "description": "Como are looking to add Chelsea's Liam Delap to their forward corps. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-15T18:32:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702169_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49616548/transfer-rumors-news-arsenal-turn-versatile-brighton-midfielder",
-      "tag": "Como",
-      "teams": [
-        "Como",
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-18T07:01:46.073Z"
+    "cachedAt": "2026-08-18T13:05:14.397Z"
   }
 }
