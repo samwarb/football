@@ -2,6 +2,66 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-18T06:49:37Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-18T06:42:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
       "id": 49643207,
       "source": "ESPN",
       "headline": "Doc details turmoil for Pep, players in Manchester City swoons",
@@ -37,17 +97,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "7ce3b2adbe33158dc7336c76e54d990a",
-      "source": "Sky Sports",
-      "headline": "Papers: Potential power shift at Chelsea as club valued at £5bn",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-08-17T21:35:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13574191/chelsea-co-owners-todd-boehly-and-mark-walter-open-to-selling-stakes-to-majority-owners-clearlake-capital-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49642005,
@@ -182,17 +231,6 @@
       ]
     },
     {
-      "id": "05f1b890f2722e13004f4c2eadd3ab17",
-      "source": "Sky Sports",
-      "headline": "Man Utd captain Fernandes not for sale despite Galatasaray interest",
-      "description": "Manchester United captain Bruno Fernandes is not for sale at any price despite interest from Galatasaray.",
-      "publishedAt": "2026-08-17T15:01:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-bruno-fernandes-manchester-united_7257272.jpg?20260524172043",
-      "link": "https://www.skysports.com/football/news/12040/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49637958,
       "source": "ESPN",
       "headline": "How a tiny Basque club spawned Premier League's top managers",
@@ -208,17 +246,6 @@
         "Liverpool",
         "Chelsea"
       ]
-    },
-    {
-      "id": "488ac2da95e1277a526a058684f22c07",
-      "source": "Sky Sports",
-      "headline": "How are Man Utd shaping up ahead of the new season?",
-      "description": "Manchester United ended their pre-season with a 4-2 defeat to AC Milan, and the question is what kind of condition they are in as they go into the new season?",
-      "publishedAt": "2026-08-17T14:15:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-man-utd-transfers_7313710.jpg?20260804140058",
-      "link": "https://www.skysports.com/football/news/12040/13574077/manchester-uniteds-pre-season-analysed-joshua-zirkzee-resurgent-and-marcus-rashford-reunited-but-they-still-need-a-left-back",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49638437,
@@ -310,66 +337,6 @@
         "Everton",
         "Fulham",
         "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-17T06:43:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-17T06:40:33Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
       ]
     },
     {
@@ -542,6 +509,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-18T01:48:23.653Z"
+    "cachedAt": "2026-08-18T07:01:46.073Z"
   }
 }
