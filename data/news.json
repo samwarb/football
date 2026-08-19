@@ -2,11 +2,51 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "12dc82e3b850b522b41f7bd8f3dbca74",
+      "source": "Sky Sports",
+      "headline": "Papers: Barca midfielder rejects chance to join Man Utd",
+      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "publishedAt": "2026-08-18T21:40:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13574535/man-utd-transfer-news-barcelona-midfielder-gavi-rejects-chance-to-join-old-trafford-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49651722,
+      "source": "ESPN",
+      "headline": "Brighton sign Canada striker Promise David on loan",
+      "description": "Brighton & Hove Albion have signed Canada striker Promise David on a season-long loan from Union St.-Gilloise",
+      "publishedAt": "2026-08-18T21:22:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703575_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49651722/brighton-canada-promise-david-loan-union-st-gilloise",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Canada",
+        "Union St.-Gilloise"
+      ]
+    },
+    {
+      "id": 49646017,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Coventry City to sign Chelsea's Mudryk?",
+      "description": "Coventry City are reportedly linked with a move for Chelsea's Mykhailo Mudryk. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-18T20:47:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703563_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49646017/transfer-rumors-news-galatasaray-offer-bruno-fernandes-double-salary",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Coventry City"
+      ]
+    },
+    {
       "id": 49650740,
       "source": "ESPN",
       "headline": "Footy for Fido: Adidas drops dog kits for 2026-27",
-      "description": "Adidas has released its Clubs Pet Collection with six different mini kits specialized for your beloved canines.",
-      "publishedAt": "2026-08-18T18:34:44Z",
+      "description": "Adidas has released its Clubs Pet Collection with seven different mini kits specialized for your beloved canines.",
+      "publishedAt": "2026-08-18T19:21:46Z",
       "image": "https://a.espncdn.com/photo/2026/0818/r1703470_3_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49650740/footy-fido-adidas-drops-dog-kits-2026-27",
       "tag": "Bayern Munich",
@@ -18,6 +58,31 @@
         "Benfica",
         "Real Madrid"
       ]
+    },
+    {
+      "id": 49650848,
+      "source": "ESPN",
+      "headline": "Newcastle show interest in signing Nico González from Man City - sources",
+      "description": "Newcastle United have made contact with Manchester City over a deal for Nico González, sources have told ESPN.",
+      "publishedAt": "2026-08-18T18:53:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703516_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49650848/newcastle-show-interest-signing-nico-gonzalez-man-city-sources",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "6a1d0e6daeb6074cc3a4f94885672c60",
+      "source": "Sky Sports",
+      "headline": "Arteta: We want to be the best club in the world",
+      "description": "Mikel Arteta is excited to keep building Arsenal after their Premier League win, vowing to make them \"the best club in the world\".",
+      "publishedAt": "2026-08-18T18:52:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-mikel-arteta-arsenal_7258629.jpg?20260526085536",
+      "link": "https://www.skysports.com/football/news/12040/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49598191,
@@ -110,17 +175,6 @@
       "teams": []
     },
     {
-      "id": "cd469b71e0a4e1f7758ac2f025cefecc",
-      "source": "Sky Sports",
-      "headline": "PL chief Masters: Man City charges verdict 'has taken longer than expected'",
-      "description": "Premier League chief executive Richard Masters says a verdict on the alleged charges against Manchester City \"has taken longer than expected\".",
-      "publishedAt": "2026-08-18T15:30:00.000Z",
-      "image": "https://e0.365dm.com/24/01/1920x1080/skysports-man-city-premier-league_6423479.jpg?20240116130948",
-      "link": "https://www.skysports.com/football/news/12040/13574259/manchester-city-charges-premier-league-chief-executive-richard-masters-says-verdict-has-taken-longer-than-expected",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49638340,
       "source": "ESPN",
       "headline": "Guglielmo Vicario joins Juventus on loan from Tottenham",
@@ -180,20 +234,6 @@
       ]
     },
     {
-      "id": 49646017,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Galatasaray offer Bruno Fernandes double his salary",
-      "description": "Galatasaray have stepped up their pursuit of Manchester United midfielder Bruno Fernandes. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-18T12:18:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1700906_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49646017/transfer-rumors-news-galatasaray-offer-bruno-fernandes-double-salary",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Galatasaray"
-      ]
-    },
-    {
       "id": 49640731,
       "source": "ESPN",
       "headline": "Can Arsenal avoid breaking Rice in their Premier League title defense?",
@@ -236,12 +276,12 @@
       ]
     },
     {
-      "id": "677b763d20efdd0f81be9a9239214501",
+      "id": "24cfdbcf8e70e2e6f5dad990ebe67a9f",
       "source": "Sky Sports",
-      "headline": "Rodri completes Barcelona move",
+      "headline": "Rodri completes Barcelona move as Man City pursue replacement",
       "description": "Barcelona have confirmed the signing of Rodri from Manchester City in a deal worth £65.4m.",
       "publishedAt": "2026-08-18T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rodri-man-city_7309079.jpg?20260729085100",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rodri-barcelona_7325168.jpg?20260818210155",
       "link": "https://www.skysports.com/football/news/12040/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city",
       "tag": "News Story",
       "teams": []
@@ -477,37 +517,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49639380,
-      "source": "ESPN",
-      "headline": "Is Vicario a better option for Juventus than Martínez?",
-      "description": "Is Vicario a better option for Juventus than Martínez?",
-      "publishedAt": "2026-08-17T15:51:35Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Is_Vicario_a_better_option_for_Juventus_than_Martinez_20260817_GLOBAL/dm_260817_COM_SOC_Analysis_Is_Vicario_a_better_option_for_Juventus_than_Martinez_20260817_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49639380/is-vicario-better-option-juventus-martinez",
-      "tag": "Juventus",
-      "teams": [
-        "Juventus"
-      ]
-    },
-    {
-      "id": 49638437,
-      "source": "ESPN",
-      "headline": "Ball-boy kicked by Chelsea's Eden Hazard to sell company for major windfall",
-      "description": "The ball-boy kicked by Eden Hazard in 2013 is reportedly set to earn a major windfall by selling his viral business.",
-      "publishedAt": "2026-08-17T14:06:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702922_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49638437/ball-boy-charlie-morghan-kicked-chelsea-eden-hazard-sell-company-au-vodka",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-18T18:53:56.940Z"
+    "cachedAt": "2026-08-19T01:50:52.159Z"
   }
 }
