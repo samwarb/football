@@ -2,6 +2,213 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-19T12:55:04Z",
+      "image": "https://a.espncdn.com/photo/2023/0808/r1207818_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49657167,
+      "source": "ESPN",
+      "headline": "Is Baleba the best replacement for Casemiro at Man United?",
+      "description": "Brighton midfielder Carlos Baleba looks set to join Manchester United, but is he the right choice?",
+      "publishedAt": "2026-08-19T12:24:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703770_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49657167/is-carlos-baleba-best-replacement-casemiro-manchester-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": "9c4bfbd126b37a35a93e7f0b69a73fc7",
+      "source": "Sky Sports",
+      "headline": "Transfer Centre LIVE! Fernandez, Konsa and Baleba latest",
+      "description": "",
+      "publishedAt": "2026-08-19T11:59:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tc-transfer-centre_7325605.jpg?20260819125711",
+      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49652192,
+      "source": "ESPN",
+      "headline": "Do Man United need to sign more midfielders in transfer window?",
+      "description": "Man United coach Michael Carrick has espoused the importance of a strong midfield -- but without more transfers, United may fall behind.",
+      "publishedAt": "2026-08-19T11:50:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689160_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49652192/will-man-united-look-back-transfer-window-regret-not-signing-more-midfielders",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "4af9468454820dd80d28761b870ec7ec",
+      "source": "Sky Sports",
+      "headline": "Savinho, Gakpo, Neto, Marmoush! Spurs in market to sign THREE new forwards",
+      "description": "Tottenham hope to sign as many as three new forwards before the transfer deadline.",
+      "publishedAt": "2026-08-19T10:49:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-tottenham-savinho_7325577.jpg?20260819130157",
+      "link": "https://www.skysports.com/football/news/12040/13574668/tottenham-transfer-news-spurs-considering-cody-gakpo-savinho-omar-marmoush-and-pedro-neto-in-search-for-three-new-forwards",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49651674,
+      "source": "ESPN",
+      "headline": "Gilberto Silva remembers scoring Arsenal's first Emirates Stadium goal",
+      "description": "Gilberto Silva remembers scoring Arsenal's first Emirates Stadium goal",
+      "publishedAt": "2026-08-19T10:39:19Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0818/dm_260818_Gilberto_Silva_remembers_scoring_Arsenals_first_Emirates_Stadium_goal/dm_260818_Gilberto_Silva_remembers_scoring_Arsenals_first_Emirates_Stadium_goal.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49651674/gilberto-silva-remembers-scoring-arsenal-first-emirates-stadium-goal",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9868570e49e7a0d9d51b96a8b46316da",
+      "source": "Sky Sports",
+      "headline": "Arsenal in advanced talks to sign Villa's Konsa",
+      "description": "Arsenal are in advanced talks with Aston Villa to sign Ezri Konsa.",
+      "publishedAt": "2026-08-19T10:36:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-konsa-arsenal_7325544.jpg?20260819113902",
+      "link": "https://www.skysports.com/football/news/12040/13574665/ezri-konsa-transfer-news-arsenal-in-advanced-talks-to-sign-aston-villa-and-england-defender",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49657059,
+      "source": "ESPN",
+      "headline": "Arsenal 'not actively seeking' Myles Lewis-Skelly, Ethan Nwaneri exits but will consider 'right opportunity'",
+      "description": "Arsenal would consider exits for Myles Lewis-Skelly and Ethan Nwaneri if \"the right opportunity\" came up but are not actively seeking their departure, CEO Richard Garlick told BBC Sport.",
+      "publishedAt": "2026-08-19T09:44:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703750_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49657059/arsenal-myles-lewis-skelly-ethan-nwaneri-premier-league-transfers",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-19T09:40:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703455_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49656945,
+      "source": "ESPN",
+      "headline": "Man United in talks with Brighton for Carlos Baleba - sources",
+      "description": "Manchester United are in talks with Brighton over a deal for Carlos Baleba, sources have told ESPN.",
+      "publishedAt": "2026-08-19T09:24:33Z",
+      "image": "https://a.espncdn.com/photo/2025/0812/r1530728_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49656945/man-united-talks-brighton-carlos-baleba-sources",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": "01e81523769c3bcec9a8dca5ee589b6f",
+      "source": "Sky Sports",
+      "headline": "Merson's Premier League season preview: Who wins the title and who stays up?",
+      "description": "In his latest column, Paul Merson predicts the 2026/27 Premier League season at both ends of the table.",
+      "publishedAt": "2026-08-19T09:17:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-merson-merson-says_7325355.jpg?20260819093739",
+      "link": "https://www.skysports.com/football/news/12040/13574632/paul-mersons-premier-league-season-preview-who-wins-title-and-finishes-in-top-five-and-who-are-relegation-contenders",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": "3eaaf3917d27ca0b89dc4796b679a617",
+      "source": "Sky Sports",
+      "headline": "Man Utd close to full agreement with Brighton for Baleba",
+      "description": "Manchester United are close to a full agreement with Brighton to sign Carlos Baleba.",
+      "publishedAt": "2026-08-19T09:02:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-carlos-baleba-premier-league_7325426.jpg?20260819101420",
+      "link": "https://www.skysports.com/football/news/12040/13574619/carlos-baleba-transfer-manchester-united-close-to-full-agreement-with-brighton-for-cameroon-midfielder",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49574148,
+      "source": "ESPN",
+      "headline": "Aston Villa complete signing of Matteo Ruggeri from Atlético Madrid",
+      "description": "Aston Villa have completed the signings of left-back Matteo Ruggeri from Atlético Madrid and goalkeeper Zion Suzuki from Parma.",
+      "publishedAt": "2026-08-19T08:17:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699871_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49574148/aston-villa-matteo-ruggeri-atletico-madrid-premier-league-transfers",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Atlético Madrid"
+      ]
+    },
+    {
+      "id": 49650848,
+      "source": "ESPN",
+      "headline": "Newcastle show interest in signing Nico González from Man City - sources",
+      "description": "Newcastle United have made contact with Manchester City over a deal for Nico González, sources have told ESPN.",
+      "publishedAt": "2026-08-19T07:40:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703516_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49650848/newcastle-show-interest-signing-nico-gonzalez-man-city-sources",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49655939,
+      "source": "ESPN",
+      "headline": "Jack Grealish and Everton 'remained in contact' - club chief",
+      "description": "Jack Grealish has stayed in contact with Everton after last season's loan move was cut short by injury, the club's CEO said.",
+      "publishedAt": "2026-08-19T07:13:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703739_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49655939/jack-grealish-everton-remained-contact-club-chief",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Manchester City"
+      ]
+    },
+    {
       "id": 49644584,
       "source": "ESPN",
       "headline": "Premier League 2026-27 mega-preview: Team-by-team analysis",
@@ -31,38 +238,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-19T06:24:21Z",
-      "image": "https://a.espncdn.com/photo/2023/0808/r1207818_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -89,17 +264,6 @@
         "Coventry City",
         "Hull City"
       ]
-    },
-    {
-      "id": "12dc82e3b850b522b41f7bd8f3dbca74",
-      "source": "Sky Sports",
-      "headline": "Papers: Barca midfielder rejects chance to join Man Utd",
-      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "publishedAt": "2026-08-18T21:40:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13574535/man-utd-transfer-news-barcelona-midfielder-gavi-rejects-chance-to-join-old-trafford-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49651722,
@@ -149,28 +313,14 @@
       ]
     },
     {
-      "id": 49650848,
-      "source": "ESPN",
-      "headline": "Newcastle show interest in signing Nico González from Man City - sources",
-      "description": "Newcastle United have made contact with Manchester City over a deal for Nico González, sources have told ESPN.",
-      "publishedAt": "2026-08-18T18:53:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703516_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49650848/newcastle-show-interest-signing-nico-gonzalez-man-city-sources",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": "6a1d0e6daeb6074cc3a4f94885672c60",
+      "id": "d8e3c324834b250f77aa4ac55b43f9d2",
       "source": "Sky Sports",
-      "headline": "Arteta: We want to be the best club in the world",
-      "description": "Mikel Arteta is excited to keep building Arsenal after their Premier League win, vowing to make them \"the best club in the world\".",
-      "publishedAt": "2026-08-18T18:52:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-mikel-arteta-arsenal_7258629.jpg?20260526085536",
-      "link": "https://www.skysports.com/football/news/12040/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world",
-      "tag": "News Story",
+      "headline": "Pogba parts ways with Monaco",
+      "description": "",
+      "publishedAt": "2026-08-18T18:28:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-paul-pogba-monaco_7319756.jpg?20260812145506",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -207,17 +357,6 @@
       "image": "https://a.espncdn.com/photo/2026/0818/r1703471_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
       "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-18T17:11:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703455_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
       "teams": []
     },
     {
@@ -306,20 +445,15 @@
       ]
     },
     {
-      "id": 49640814,
-      "source": "ESPN",
-      "headline": "Marcotti picks Rice over Vitinha in the FC 100",
-      "description": "Marcotti picks Rice over Vitinha in the FC 100",
-      "publishedAt": "2026-08-18T11:06:14Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Marcotti_picks_Rice_over_Vitinha_in_the_FC_100_20260817_GLOBAL/dm_260817_COM_SOC_Analysis_Marcotti_picks_Rice_over_Vitinha_in_the_FC_100_20260817_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49640814/marcotti-picks-rice-vitinha-fc-100",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "England",
-        "Paris Saint-Germain",
-        "Portugal"
-      ]
+      "id": "0634fe1385030656b2bd6c7a27210afc",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Highly-rated defender set for Spain loan",
+      "description": "",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49646487,
@@ -430,92 +564,20 @@
       ]
     },
     {
-      "id": 49642423,
-      "source": "ESPN",
-      "headline": "Leboeuf: Nobody will compete with Arsenal in the Premier League",
-      "description": "Leboeuf: Nobody will compete with Arsenal in the Premier League",
-      "publishedAt": "2026-08-17T21:46:38Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0817/dm_260817_COM_SOC_Analysis_Leboeuf_Nobody_will_compete_with_Arsenal_in_the_Premier_League_20260817_GLOBAL/dm_260817_COM_SOC_Analysis_Leboeuf_Nobody_will_compete_with_Arsenal_in_the_Premier_League_20260817_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49642423/compete-arsenal-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49642005,
-      "source": "ESPN",
-      "headline": "Rodri arrives in Barcelona ahead of 'dream' move from Man City",
-      "description": "Manchester City midfielder Rodri has arrived in Barcelona ahead of his €76.5 million (£65.3M) move to the Catalan giants.",
-      "publishedAt": "2026-08-17T21:09:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701652_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49642005/rodri-arrives-barcelona-man-city-spain-dream-move",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49640908,
-      "source": "ESPN",
-      "headline": "Sources: Manchester City near deal for Lille star Ayyoub Bouaddi",
-      "description": "Manchester City are closing in on a deal for Morocco and Lille defensive midfielder Ayyoub Bouaddi and want it completed this week, sources told ESPN.",
-      "publishedAt": "2026-08-17T19:28:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703080_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49640908/manchester-city-deal-lille-star-bouaddi",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Lille",
-        "Morocco"
-      ]
-    },
-    {
-      "id": 49636079,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid eye Arsenal midfielder Zubimendi",
-      "description": "Real Madrid are reportedly looking at a move for Arsenal midfielder Martín Zubimendi. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-17T19:25:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703079_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49636079/transfer-rumors-news-barcelona-eye-arsenal-striker-viktor-gyokeres",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49639894,
-      "source": "ESPN",
-      "headline": "Coventry City sign striker Taiwo Awoniyi from Nottingham Forest",
-      "description": "Coventry City have signed striker Taiwo Awoniyi from Nottingham Forest.",
-      "publishedAt": "2026-08-17T17:11:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703025_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49639894/coventry-city-sign-striker-taiwo-awoniyi-nottingham-forest",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 49638217,
-      "source": "ESPN",
-      "headline": "Man City's 115 charges still linger ahead of new Premier League season. Why?",
-      "description": "It's been several years since the Premier League announced charges against Man City. On the eve of the new campaign, why are we still waiting for a resolution?",
-      "publishedAt": "2026-08-17T16:40:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0226/r1620396_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49638217/premier-league-manchester-city-115-charges-verdict-latest-mark-ogden",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
+      "id": "e9d5c821f936e5990fbdd26899815338",
+      "source": "Sky Sports",
+      "headline": "Arsenal latest: Why Konsa is the perfect Arteta player",
+      "description": "",
+      "publishedAt": "2026-08-17T17:18:00.000Z",
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-19T07:02:49.973Z"
+    "cachedAt": "2026-08-19T13:06:14.760Z"
   }
 }
