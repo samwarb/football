@@ -2,6 +2,95 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49644584,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 mega-preview: Team-by-team analysis",
+      "description": "The Premier League is back! Let's predict how each team will finish by assessing how Arsenal, Chelsea, Liverpool, Man United and all the rest look.",
+      "publishedAt": "2026-08-19T06:56:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703483_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49644584/premier-league-2026-2027-preview-offseason-moves-stats-analysis-predictions-teams",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Chelsea",
+        "Manchester City",
+        "Aston Villa",
+        "Everton",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Brentford",
+        "Nottingham Forest",
+        "Fulham",
+        "Brighton & Hove Albion",
+        "Newcastle United",
+        "Crystal Palace",
+        "Leeds United",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-19T06:24:21Z",
+      "image": "https://a.espncdn.com/photo/2023/0808/r1207818_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 48944912,
+      "source": "ESPN",
+      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
+      "publishedAt": "2026-08-19T06:18:03Z",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa",
+        "AFC Bournemouth",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "Leeds United",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Coventry City",
+        "Hull City"
+      ]
+    },
+    {
       "id": "12dc82e3b850b522b41f7bd8f3dbca74",
       "source": "Sky Sports",
       "headline": "Papers: Barca midfielder rejects chance to join Man Utd",
@@ -164,17 +253,6 @@
       ]
     },
     {
-      "id": "46aef0569ed660d8c82102b3ccbdc953",
-      "source": "Sky Sports",
-      "headline": "Maguire: I want to be greedy about winning trophies",
-      "description": "Sitting down with Harry Maguire for one of his first interviews of the season, I found a player who was reflective but also excited about the future and what's to come.",
-      "publishedAt": "2026-08-18T16:00:00.000Z",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-harry-maguire-luke-shaw_7182320.jpg?20260304183715",
-      "link": "https://www.skysports.com/football/news/12040/13574426/harry-maguire-man-utd-defender-on-winning-trophies-new-signings-michael-carrick-and-the-future-with-ayden-heaven-and-leny-yoro",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49638340,
       "source": "ESPN",
       "headline": "Guglielmo Vicario joins Juventus on loan from Tottenham",
@@ -186,38 +264,6 @@
       "teams": [
         "Tottenham Hotspur",
         "Juventus"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-18T14:22:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -274,17 +320,6 @@
         "Paris Saint-Germain",
         "Portugal"
       ]
-    },
-    {
-      "id": "24cfdbcf8e70e2e6f5dad990ebe67a9f",
-      "source": "Sky Sports",
-      "headline": "Rodri completes Barcelona move as Man City pursue replacement",
-      "description": "Barcelona have confirmed the signing of Rodri from Manchester City in a deal worth £65.4m.",
-      "publishedAt": "2026-08-18T11:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rodri-barcelona_7325168.jpg?20260818210155",
-      "link": "https://www.skysports.com/football/news/12040/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49646487,
@@ -395,34 +430,6 @@
       ]
     },
     {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-18T06:49:37Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
       "id": 49642423,
       "source": "ESPN",
       "headline": "Leboeuf: Nobody will compete with Arsenal in the Premier League",
@@ -504,24 +511,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 49639696,
-      "source": "ESPN",
-      "headline": "Chelsea's Reece James: 'Rust' needs to come off before Premier League opener",
-      "description": "Reece James said there is \"rust\" to come off before he is match fit after being given an extended Chelsea break following England's run to the World Cup semifinal.",
-      "publishedAt": "2026-08-17T16:32:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702996_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49639696/chelsea-reece-james-rust-needs-come-premier-league-opener",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-19T01:50:52.159Z"
+    "cachedAt": "2026-08-19T07:02:49.973Z"
   }
 }
