@@ -2,11 +2,100 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49672307,
+      "source": "ESPN",
+      "headline": "Newcastle's Matthias Jaissle: 'I don't care' about outside negativity",
+      "description": "Matthias Jaissle told his detractors he does not care about their opinions amid a wave of negativity for his Newcastle side ahead of the start of the new season.",
+      "publishedAt": "2026-08-20T17:41:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704482_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49672307/newcastle-matthias-jaissle-dont-care-negativity",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49672340,
+      "source": "ESPN",
+      "headline": "Hull chairman hits out at 'laughable' Joe Cole criticism",
+      "description": "Hull City chairman Acun Ilicali has criticised former players Joe Cole and Carlton Cole for mocking the club's Premier League survival chances.",
+      "publishedAt": "2026-08-20T17:40:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704483_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49672340/hull-city-chairman-acun-ilicali-joe-cole-carlton",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49672097,
+      "source": "ESPN",
+      "headline": "Michael Carrick: 'Ridiculous' to say Man United have easy start",
+      "description": "Manchester United head coach Michael Carrick has hit back at suggestions that Manchester United have been given a favourable start to the Premier League season.",
+      "publishedAt": "2026-08-20T17:22:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704476_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49672097/michael-carrick-man-united-premier-league-start-transfer-window",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49670490,
+      "source": "ESPN",
+      "headline": "Manchester City in talks with Palmeiras for winger Allan Elias - sources",
+      "description": "Manchester City are in talks over a deal for Palmeiras winger Allan Elias, sources have told ESPN.",
+      "publishedAt": "2026-08-20T17:21:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704419_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49670490/manchester-city-talks-palmeiras-winger-allan-elias-sources",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Palmeiras"
+      ]
+    },
+    {
+      "id": 49671998,
+      "source": "ESPN",
+      "headline": "Liverpool have £50 million bid for Yankuba Minteh rejected by Brighton - sources",
+      "description": "Liverpool have had a £50 million ($68m) bid for Brighton & Hove Albion's Yankuba Minteh rejected, sources told ESPN.",
+      "publishedAt": "2026-08-20T17:11:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704471_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49671998/liverpool-yankuba-minteh-50-million-bid-rejected-brighton-sources",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 49650452,
+      "source": "ESPN",
+      "headline": "Breaking down 10 years of FC 100: Top countries, trends, all-time starting XI",
+      "description": "For the 10th anniversary edition of the FC 100, let's take a look at the big takeaways from a decade of ranking the best men's soccer players.",
+      "publishedAt": "2026-08-20T16:42:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1704067_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49650452/breaking-10-years-fc-100-top-countries-trends-all-starting-xi",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "036ba2d3a5c21c09cbbb652eff77634d",
+      "source": "Sky Sports",
+      "headline": "One to watch? Hot take?! Sky Sports writers give their PL predictions!",
+      "description": "Sky Sports writers have given their Premier League predictions ahead of the new season, including their hot take and one to watch!",
+      "publishedAt": "2026-08-20T16:09:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-football-premier-league_7326756.jpg?20260820172536",
+      "link": "https://www.skysports.com/watch/video/13575127/sky-sports-writers-give-their-premier-league-predictions-ahead-of-new-season",
+      "tag": "Video",
+      "teams": []
+    },
+    {
       "id": 49659699,
       "source": "ESPN",
       "headline": "Ian Darke's best-case, worst-case Premier League scenarios",
       "description": "Arsenal rolled to the Premier League title in 2025-26, but what will the new season hold? Ian Darke makes his best- and worst-case scenario forecasts for all 20 teams.",
-      "publishedAt": "2026-08-20T12:45:16Z",
+      "publishedAt": "2026-08-20T15:51:25Z",
       "image": "https://a.espncdn.com/photo/2026/0820/r1704317_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49659699/premier-league-ian-darke-preview-arsenal-manchester-city-manchester-united-liverpool-chelsea",
       "tag": "Chelsea",
@@ -34,6 +123,122 @@
       ]
     },
     {
+      "id": 49671086,
+      "source": "ESPN",
+      "headline": "Frank Lampard expects 'tougher times' for Coventry on return to Premier League",
+      "description": "Coventry boss Frank Lampard said his side need to be ready for \"tougher times\" this season ahead of their Premier League curtain-raiser against champions Arsenal on Friday.",
+      "publishedAt": "2026-08-20T15:50:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704441_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49671086/frank-lampard-tougher-s-coventry-return-premier-league",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 49642340,
+      "source": "ESPN",
+      "headline": "2026-27 European soccer predictions: Premier League, Champions League, LaLiga",
+      "description": "The new season has arrived! Which teams will win silverware? Who wins Golden Boot? ESPN's writers predict it all for Europe's top men's leagues.",
+      "publishedAt": "2026-08-20T15:20:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/soc_european-predictions_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49642340/european-soccer-predictions-2026-27-premier-league-champions-league-laliga-bundesliga-golden-boot",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City",
+        "Real Madrid",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 49670433,
+      "source": "ESPN",
+      "headline": "Arteta 'hungrier than ever' ahead of opening Premier League match",
+      "description": "Arteta 'hungrier than ever' ahead of opening Premier League match",
+      "publishedAt": "2026-08-20T14:26:03Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_Arteta_hungrier_than_ever_ahead_of_opening_Premier_League_match/dm_260820_Arteta_hungrier_than_ever_ahead_of_opening_Premier_League_match.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49670433/arteta-hungrier-ever-ahead-opening-premier-league-match",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49667408,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United move for Santander left back",
+      "description": "Manchester United are considering a move for Racing Santander left back Jorge Salinas, but face competition from Atlético Madrid. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-20T14:12:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704299_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49667408/man-united-move-racing-santander-left-back",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Racing Santander"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-20T14:11:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703455_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49669179,
+      "source": "ESPN",
+      "headline": "Mikel Arteta relishing prospect of Arsenal being 'hunted' in Premier League title race",
+      "description": "Mikel Arteta has said he is relishing the prospect of going from the hunter to \"the hunted\" as Arsenal aim to defend their Premier League crown.",
+      "publishedAt": "2026-08-20T13:49:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704386_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49669179/mikel-arteta-relishing-prospect-arsenal-being-hunted-premier-league-title-race",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49669177,
+      "source": "ESPN",
+      "headline": "Xabi Alonso brushes off talk of Enzo Fernández leaving Chelsea this summer",
+      "description": "Xabi Alonso has reaffirmed Enzo Fernández' status as a Chelsea player and said the Argentina star is preparing for Monday's game against Fulham.",
+      "publishedAt": "2026-08-20T13:38:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1662564_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49669177/enzo-fernandez-chelsea-player-preparing-fulham-xabi-alonso",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 49669869,
+      "source": "ESPN",
+      "headline": "What does the season hold for Africa's nine players in ESPN's FC 100 for 2026",
+      "description": "What does the season ahead hold for Africa's nine players in ESPN's FC 100 for 2026, and what do they need to do to find themselves back on the list in 12 months' time?",
+      "publishedAt": "2026-08-20T13:13:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "cd670993b41dba52ef1498db25a4f31e",
+      "source": "Sky Sports",
+      "headline": "'100 per cent' - Arteta confident Lewis-Skelly stays at Arsenal",
+      "description": "Mikel Arteta says he is \"100 per cent\" confident Myles Lewis-Skelly will be an Arsenal player at the end of the transfer window.",
+      "publishedAt": "2026-08-20T13:04:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320052.jpg?20260812201414",
+      "link": "https://www.skysports.com/football/news/12040/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49669109,
       "source": "ESPN",
       "headline": "Amad Diallo, Antoine Semenyo, Taiwo Awoniyi - 12 African players, and storylines, to watch in the Premier League this season",
@@ -49,17 +254,6 @@
         "Nigeria",
         "Senegal"
       ]
-    },
-    {
-      "id": "533e1261d51d8a5a5df3d7931da32e6d",
-      "source": "Sky Sports",
-      "headline": "Palace latest: Sage provides update on Henderson fitness - and transfer targets",
-      "description": "",
-      "publishedAt": "2026-08-20T12:25:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49668226,
@@ -88,17 +282,6 @@
         "England",
         "Liverpool"
       ]
-    },
-    {
-      "id": "8746716202231cdf927a473d7a97f89e",
-      "source": "Sky Sports",
-      "headline": "Premier League reset: Record manager upheaval leaves 2026/27 wide open",
-      "description": "There's a sense of unpredictability surrounding the new Premier League campaign.",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-graphic-premier-league_7326453.jpg?20260820124934",
-      "link": "https://www.skysports.com/football/news/12040/13574814/premier-league-managers-2026-27-record-new-bosses-manager-changes-and-tenure",
-      "tag": "Feature Story",
-      "teams": []
     },
     {
       "id": 49669171,
@@ -163,22 +346,6 @@
       ]
     },
     {
-      "id": 49642340,
-      "source": "ESPN",
-      "headline": "2026-27 European soccer predictions: Premier League, Champions League, LaLiga",
-      "description": "The new season has arrived! Which teams will win silverware? Who wins Golden Boot? ESPN's writers predict it all for Europe's top men's leagues.",
-      "publishedAt": "2026-08-20T11:06:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/soc_european-predictions_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49642340/european-soccer-predictions-2026-27-premier-league-champions-league-laliga-bundesliga-golden-boot",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City",
-        "Real Madrid",
-        "Barcelona"
-      ]
-    },
-    {
       "id": 49163915,
       "source": "ESPN",
       "headline": "Premier League 2026-27 kits: Ranking every jersey released",
@@ -239,20 +406,6 @@
       ]
     },
     {
-      "id": 49667408,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United move for Santander left back",
-      "description": "Manchester United are considering a move for Racing Santander left back Jorge Salinas, but face competition from Atlético Madrid. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-20T10:12:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704299_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49667408/man-united-move-racing-santander-left-back",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Racing Santander"
-      ]
-    },
-    {
       "id": 49668476,
       "source": "ESPN",
       "headline": "João Pedro given Liam Delap's Chelsea No. 9 shirt",
@@ -280,32 +433,6 @@
       ]
     },
     {
-      "id": 49658716,
-      "source": "ESPN",
-      "headline": "Arsenal agree deal for Aston Villa's Ezri Konsa - sources",
-      "description": "Arsenal have agreed a deal worth in the region of £51 million for Aston Villa defender Ezri Konsa, sources have told ESPN.",
-      "publishedAt": "2026-08-20T08:31:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703841_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49658716/arsenal-ezri-konsa-deal-agreed-sources-premier-league-transfers",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "England"
-      ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-20T08:23:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703455_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49657298,
       "source": "ESPN",
       "headline": "Meet the Premier League new boys: What you need to know about Coventry, Ipswich and Hull",
@@ -319,17 +446,6 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "6d06f5bf7ac492251bbdaffb201d4f58",
-      "source": "Sky Sports",
-      "headline": "How does Arteta deliver step five of his Arsenal plan?",
-      "description": "When Mikel Arteta arrived at Arsenal, he presented a five-step plan to go from crisis club to glory. Welcome to step five: create a dynasty.",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7324591.jpg?20260818090313",
-      "link": "https://www.skysports.com/football/news/12040/13574067/arsenal-will-mikel-artetas-side-make-more-history-and-record-back-to-back-premier-league-titles",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 48944912,
@@ -386,170 +502,11 @@
         "Chelsea",
         "Napoli"
       ]
-    },
-    {
-      "id": 49662557,
-      "source": "ESPN",
-      "headline": "Man United's Marcus Rashford thanks Jamie Carragher for shutting down Gary Neville question",
-      "description": "Marcus Rashford expressed his desire to focus on playing football without his \"name being mentioned every day\" in response to Gary Neville attempting to start a discussion about the Manchester United forward.",
-      "publishedAt": "2026-08-19T20:25:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703308_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49662557/man-united-marcus-rashford-thanks-jamie-carragher-shutting-gary-neville-question",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49662205,
-      "source": "ESPN",
-      "headline": "Harry Kane: No longer have same 'itch' to return to England",
-      "description": "Harry Kane said he no longer has the same \"itch\" to return to the Premier League as he did when he first left Tottenham Hotspur for Bayern Munich three years ago.",
-      "publishedAt": "2026-08-19T20:04:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1704026_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49662205/harry-kane-premier-league-bayern-munich-transfer-golden-shoe",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "England"
-      ]
-    },
-    {
-      "id": 49661670,
-      "source": "ESPN",
-      "headline": "USMNT, Coventry forward Haji Wright out with 'very serious' injury",
-      "description": "United States forward Haji Wright has been ruled out for up to 12 weeks with a quad injury in a major blow to Coventry City for their return to the Premier League.",
-      "publishedAt": "2026-08-19T18:55:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703992_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49661670/usa-coventry-city-haji-wright-injury-premier-league",
-      "tag": "United States",
-      "teams": [
-        "United States",
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 49619746,
-      "source": "ESPN",
-      "headline": "Tijjani Reijnders completes transfer to Saudi Pro League's Al Qadsiah from Man City",
-      "description": "Tijjani Reijnders has completed a move to Saudi Pro League club Al Qadsiah from Manchester City, just 12 months after joining the Premier League club.",
-      "publishedAt": "2026-08-19T18:07:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0104/r1596482_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49619746/tijjani-reijnders-completes-transfer-saudi-pro-league-al-qadsiah-man-city",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Al Qadsiah"
-      ]
-    },
-    {
-      "id": 49660534,
-      "source": "ESPN",
-      "headline": "Coventry boss Frank Lampard keen to emulate Sunderland, Leeds in Premier League return",
-      "description": "Frank Lampard wants his Coventry City side to take inspiration from Sunderland and Leeds United as they prepare for a first Premier League campaign in 25 years.",
-      "publishedAt": "2026-08-19T16:59:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703938_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49660534/coventry-boss-frank-lampard-keen-emulate-sunderland-leeds-premier-league-return",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City",
-        "Sunderland",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 49574148,
-      "source": "ESPN",
-      "headline": "Aston Villa sign left back Matteo Ruggeri, goalkeeper Zion Suzuki",
-      "description": "Aston Villa have completed the signings of left back Matteo Ruggeri from Atlético Madrid and goalkeeper Zion Suzuki from Parma.",
-      "publishedAt": "2026-08-19T16:31:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699871_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49574148/aston-villa-matteo-ruggeri-atletico-madrid-premier-league-transfers",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Atlético Madrid",
-        "Japan",
-        "Italy"
-      ]
-    },
-    {
-      "id": 49658888,
-      "source": "ESPN",
-      "headline": "Premier League's Webb: Balogun World Cup red card saga fuels ref distrust",
-      "description": "Howard Webb, the head of Premier League referees, has said he was \"troubled\" by Folarin Balogun's overturned red card during the World Cup as it fuelled perceptions among supporters that decisions are either \"correct or corrupt.\"",
-      "publishedAt": "2026-08-19T16:00:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685293_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49658888/premier-league-howard-webb-balogun-world-cup-red-card-saga-fuels-ref-distrust",
-      "tag": "United States",
-      "teams": [
-        "United States"
-      ]
-    },
-    {
-      "id": 49651381,
-      "source": "ESPN",
-      "headline": "A decade of elite men's soccer as seen through the FC 100",
-      "description": "We've been tracking the FC 100 since 2016 and a lot has changed in the game -- though Lionel Messi has been ever-present. Gab Marcotti reflects on the list, its growth and what it shows you about men's soccer.",
-      "publishedAt": "2026-08-19T15:52:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703878_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49651381/a-decade-elite-men-soccer-seen-fc-100",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "02a909eab781f345f430c7083c975a2b",
-      "source": "Sky Sports",
-      "headline": "Aston Villa latest: More players sold?! Transfer plans analysed...",
-      "description": "",
-      "publishedAt": "2026-08-19T15:00:00.000Z",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49657059,
-      "source": "ESPN",
-      "headline": "Arsenal 'not actively seeking' Myles Lewis-Skelly, Ethan Nwaneri exits but will consider 'right opportunity'",
-      "description": "Arsenal would consider exits for Myles Lewis-Skelly and Ethan Nwaneri if \"the right opportunity\" came up but are not actively seeking their departure, CEO Richard Garlick told BBC Sport.",
-      "publishedAt": "2026-08-19T13:38:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703750_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49657059/arsenal-myles-lewis-skelly-ethan-nwaneri-premier-league-transfers",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49657167,
-      "source": "ESPN",
-      "headline": "Is Baleba the best replacement for Casemiro at Man United?",
-      "description": "Brighton midfielder Carlos Baleba looks set to join Manchester United, but is he the right choice?",
-      "publishedAt": "2026-08-19T12:24:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703770_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49657167/is-carlos-baleba-best-replacement-casemiro-manchester-united",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": "0ba1801d912aa5b448c2edbd3cd4628a",
-      "source": "Sky Sports",
-      "headline": "EFL latest: Lille keen on Burnley's Flemming",
-      "description": "",
-      "publishedAt": "2026-08-19T12:19:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-zian-flemming-burnley_7323434.jpg?20260816183006",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-20T13:08:42.427Z"
+    "cachedAt": "2026-08-20T18:56:46.792Z"
   }
 }
