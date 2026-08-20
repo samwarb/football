@@ -2,6 +2,115 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49663379,
+      "source": "ESPN",
+      "headline": "Hutchison: Spurs' transfer activity shows the pull De Zerbi has",
+      "description": "Hutchison: Spurs' transfer activity shows the pull De Zerbi has.",
+      "publishedAt": "2026-08-19T21:38:45Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Hutchison_Spurs_transfer_activity_shows_the_pull_De_Zerbi_has/dm_260819_Hutchison_Spurs_transfer_activity_shows_the_pull_De_Zerbi_has.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49663379/spurs-transfer-activity-shows-pull-de-zerbi-has",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49663356,
+      "source": "ESPN",
+      "headline": "Hutchison: Konsa would be a 'smart signing' for Arsenal",
+      "description": "Hutchison: Konsa would be a 'smart signing' for Arsenal.",
+      "publishedAt": "2026-08-19T21:38:06Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Hutchison_Konsa_would_be_a_smart_signing_for_Arsenal/dm_260819_Hutchison_Konsa_would_be_a_smart_signing_for_Arsenal.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49663356/konsa-smart-signing-arsenal",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49656126,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Napoli eye moves for Zirkzee, Jackson",
+      "description": "Manchester United forward Joshua Zirkzee and Chelsea's Nicolas Jackson are both linked with a move to Napoli. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-19T20:58:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1704047_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49656126/transfer-rumors-news-al-hilal-eye-shock-move-bayern-striker-harry-kane",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Chelsea",
+        "Napoli"
+      ]
+    },
+    {
+      "id": 49653748,
+      "source": "ESPN",
+      "headline": "Why Herrington's Premier League move is a big deal for Aussie football",
+      "description": "Australia's best young talent appears to be having something of a moment, highlighted by Lucas Herrington's move to Hull City.",
+      "publishedAt": "2026-08-19T20:31:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703719_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49653748/why-herringtons-premier-league-move-big-deal-aussie-football",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Australia",
+        "Colorado Rapids"
+      ]
+    },
+    {
+      "id": 49662557,
+      "source": "ESPN",
+      "headline": "Man United's Marcus Rashford thanks Jamie Carragher for shutting down Gary Neville question",
+      "description": "Marcus Rashford expressed his desire to focus on playing football without his \"name being mentioned every day\" in response to Gary Neville attempting to start a discussion about the Manchester United forward.",
+      "publishedAt": "2026-08-19T20:25:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703308_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49662557/man-united-marcus-rashford-thanks-jamie-carragher-shutting-gary-neville-question",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49662205,
+      "source": "ESPN",
+      "headline": "Harry Kane: No longer have same 'itch' to return to England",
+      "description": "Harry Kane said he no longer has the same \"itch\" to return to the Premier League as he did when he first left Tottenham Hotspur for Bayern Munich three years ago.",
+      "publishedAt": "2026-08-19T20:04:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1704026_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49662205/harry-kane-premier-league-bayern-munich-transfer-golden-shoe",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "England"
+      ]
+    },
+    {
+      "id": 49661670,
+      "source": "ESPN",
+      "headline": "USMNT, Coventry forward Haji Wright out with 'very serious' injury",
+      "description": "United States forward Haji Wright has been ruled out for up to 12 weeks with a quad injury in a major blow to Coventry City for their return to the Premier League.",
+      "publishedAt": "2026-08-19T18:55:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703992_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49661670/usa-coventry-city-haji-wright-injury-premier-league",
+      "tag": "United States",
+      "teams": [
+        "United States",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": "cffb80ab2a6d61e051583821e26769b6",
+      "source": "Sky Sports",
+      "headline": "Jaissle: Club aligned on Newcastle squad needing adjustments",
+      "description": "Newcastle head coach Matthias Jaissle says the club are aligned on the need for \"adjustments\" to the squad in the final few weeks of the summer transfer window.",
+      "publishedAt": "2026-08-19T18:45:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-matthias-jaissle_7325976.png?20260819193728",
+      "link": "https://www.skysports.com/football/news/12040/13574826/matthias-jaissle-newcastle-head-coach-says-squad-needs-adjustments-in-transfer-window-and-previews-liverpool-game",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49619746,
       "source": "ESPN",
       "headline": "Tijjani Reijnders completes transfer to Saudi Pro League's Al Qadsiah from Man City",
@@ -14,17 +123,6 @@
         "Manchester City",
         "Al Qadsiah"
       ]
-    },
-    {
-      "id": "47e80e533b5da79ee3a86928e6e3ba7b",
-      "source": "Sky Sports",
-      "headline": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "description": "",
-      "publishedAt": "2026-08-19T17:50:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49658716,
@@ -65,17 +163,6 @@
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-balogun-usa_7287725.jpg?20260702023831",
       "link": "https://www.skysports.com/football/news/12040/13574783/richard-masters-and-howard-webb-criticise-fifa-over-folarin-baloguns-red-card-controversy-at-2026-world-cup",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "2245b8bde2a895be63877b63d377350c",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: Delap and Tosin lose squad numbers amid uncertain futures",
-      "description": "",
-      "publishedAt": "2026-08-19T16:50:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -171,17 +258,6 @@
         "Liverpool",
         "Internazionale"
       ]
-    },
-    {
-      "id": "508ab5e4cebfbee8460959389ade59dd",
-      "source": "Sky Sports",
-      "headline": "Arsenal agree £51m deal to sign Aston Villa's Konsa",
-      "description": "Arsenal have agreed a £51m deal to sign Ezri Konsa from Aston Villa.",
-      "publishedAt": "2026-08-19T13:50:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ezri-konsa-aston-villa_7325701.jpg?20260819142003",
-      "link": "https://www.skysports.com/football/news/12040/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49657059,
@@ -411,17 +487,6 @@
       ]
     },
     {
-      "id": 49609872,
-      "source": "ESPN",
-      "headline": "2026 FC 100: Kane, Yamal, Messi among best men's soccer players",
-      "description": "Before the 2026-27 season kicks off across Europe this weekend, it's time to rank the top 100 players in the world of men's soccer, including those who starred at the World Cup this summer. Welcome to the FC 100.",
-      "publishedAt": "2026-08-18T18:04:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0813/260817_soc_fc100_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49609872/2026-fc-100-kane-yamal-messi-best-mens-soccer-players",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49650143,
       "source": "ESPN",
       "headline": "Premier League chief Masters: FIFA has hit 'self-destruct button'",
@@ -431,109 +496,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/49650143/premier-league-richard-master-fifa-gianni-infantino",
       "tag": "HeadlineNews",
       "teams": []
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "publishedAt": "2026-08-18T16:08:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49638340,
-      "source": "ESPN",
-      "headline": "Guglielmo Vicario joins Juventus on loan from Tottenham",
-      "description": "Guglilemo Vicario has joined Juventus on a season-long loan from Tottenham, the two clubs have announced.",
-      "publishedAt": "2026-08-18T14:22:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703390_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49638340/guglielmo-vicario-juventus-spurs-premier-league-transfers-serie-a",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Juventus"
-      ]
-    },
-    {
-      "id": 49648047,
-      "source": "ESPN",
-      "headline": "Chelsea rebrand U21, U19 teams to 'Cobham Next Gen'",
-      "description": "Chelsea have announced a rebrand of their under-21 and under-19 teams, confirming their new name as Cobham Next Gen (CNG).",
-      "publishedAt": "2026-08-18T13:55:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703361_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49648047/chelsea-rebrand-u21-u19-teams-cobham-next-gen",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49640731,
-      "source": "ESPN",
-      "headline": "Can Arsenal avoid breaking Rice in their Premier League title defense?",
-      "description": "Declan Rice's durability has long been praised, but after a grueling season for club and country, can he do it all again for Arsenal's title defense?",
-      "publishedAt": "2026-08-18T12:18:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1703062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49640731/arsenal-declan-rice-risk-premier-league-title-defense-burnout",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49647189,
-      "source": "ESPN",
-      "headline": "Wayne Rooney on Marcus Rashford at Man United: 'Has he got the hunger?'",
-      "description": "Marcus Rashford must alter his body language and show that he has the \"hunger\" to play for Manchester United, Wayne Rooney has said.",
-      "publishedAt": "2026-08-18T12:00:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703308_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49647189/wayne-rooney-marcus-rashford-man-united-premier-league",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49646799,
-      "source": "ESPN",
-      "headline": "Pep Guardiola mentions divorce in furious rant at Man City players: 'We lost the passion'",
-      "description": "Pep Guardiola revealed he and his wife \"lost the passion\" in their marriage as he opened up about personal struggles during his final years at Manchester City.",
-      "publishedAt": "2026-08-18T09:57:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0518/r1659892_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49646799/pep-guardiola-mentions-divorce-furious-rant-man-city-players-lost-passion",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-19T18:50:59.918Z"
+    "cachedAt": "2026-08-20T01:49:18.400Z"
   }
 }
