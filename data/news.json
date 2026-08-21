@@ -2,6 +2,246 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49660035,
+      "source": "ESPN",
+      "headline": "Premier League live updates: Arsenal kick off season against Coventry",
+      "description": "The 2026-27 Premier League season begins as defending champions Arsenal take on newly promoted Coventry City.",
+      "publishedAt": "2026-08-21T13:00:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703916_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49660035/premier-league-live-updates-arsenal-kick-season-coventry-city",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 49678076,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal want Yildiz as Al Hilal add Martinelli to short list",
+      "description": "Arsenal are looking into the possibility of signing Kenan Yildiz from Juventus. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-21T11:58:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0128/r1606845_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49678076/transfer-rumors-news-arsenal-want-yildiz-al-hilal-add-martinelli-shortlist",
+      "tag": "Juventus",
+      "teams": [
+        "Juventus",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49678964,
+      "source": "ESPN",
+      "headline": "Abdelkarim to Zadok - Predicting 10 African breakout football stars across Europe in 2026-27",
+      "description": "Whether wonderkids taking their first steps in the game, or international players on the brink of another stratum altogether, here are ESPN's predicted 10 African breakout stars for the 26-27 season.",
+      "publishedAt": "2026-08-21T11:40:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704748_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49678964/abdelkarim-zadok-predicting-10-african-breakout-football-stars-europe-2026-27",
+      "tag": "Nigeria",
+      "teams": [
+        "Nigeria",
+        "Ivory Coast",
+        "Ghana",
+        "Senegal",
+        "Mali",
+        "Lille",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-21T11:40:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685229_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49679399,
+      "source": "ESPN",
+      "headline": "Alonso: Fernández is still a Chelsea player",
+      "description": "Alonso: Fernández is still a Chelsea player",
+      "publishedAt": "2026-08-21T10:41:49Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0821/dm_260821_COM_SOC_Analysis_Alonso3A_FernC3A1ndez_is_still_a_Chelsea_player_GLOBAL_2026-08-21/dm_260821_COM_SOC_Analysis_Alonso3A_FernC3A1ndez_is_still_a_Chelsea_player_GLOBAL_2026-08-21.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49679399/fernandez-chelsea-player",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 49679324,
+      "source": "ESPN",
+      "headline": "Man United's Michael Carrick wary of 'buzz' at newly-promoted Hull",
+      "description": "Manchester United boss Michael Carrick expects a far tougher Premier League opener at promoted Hull than many predict.",
+      "publishedAt": "2026-08-21T10:31:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0515/r1658535_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49679324/man-united-michael-carrick-wary-ofbuzz-newlypromoted-hull",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-21T10:25:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0409/r1641030_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "e47da20f72d98ee0e6b4d9f7f2e2330f",
+      "source": "Sky Sports",
+      "headline": "Arsenal complete £51m Konsa deal",
+      "description": "Arsenal have completed the £51m deal to sign defender Ezri Konsa from Aston Villa.",
+      "publishedAt": "2026-08-21T10:24:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-konsa-arsenal_7325544.jpg?20260821120514",
+      "link": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "29b1d680e58bc78e7143e06a7f180db7",
+      "source": "Sky Sports",
+      "headline": "Rise of Espanyol's English winger Dolan: 'I am not the player I was a year ago'",
+      "description": "Tyrhys Dolan made an explosive start to the season in LaLiga with a goal in Espanyol’s 3-0 win over Levante. The English forward looked particularly sharp. Something has changed. “I am not the person or player I was a year ago,” Dolan tells Sky Sports .",
+      "publishedAt": "2026-08-21T10:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tyrhys-dolan-espanyol_7324339.jpg?20260817184107",
+      "link": "https://www.skysports.com/football/news/12040/13574143/tyrhys-dolan-interview-espanyol-winger-scored-against-levante-in-laliga-opener-and-is-ready-to-face-real-madrid-next",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49678731,
+      "source": "ESPN",
+      "headline": "Atlético Madrid working on loan deal for Chelsea's Nicolas Jackson, Aston Villa also interested - sources",
+      "description": "Atlético Madrid are looking to beat Aston Villa to the loan signing of Nicolas Jackson from Chelsea, sources told ESPN.",
+      "publishedAt": "2026-08-21T09:20:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704740_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49678731/atletico-madrid-loan-deal-chelsea-nicolas-jackson-aston-villa-interested",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Chelsea",
+        "Atlético Madrid"
+      ]
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
+      "publishedAt": "2026-08-21T08:40:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49668652,
+      "source": "ESPN",
+      "headline": "If Barcelona want a striker like Julián Álvarez, only a few options match up",
+      "description": "Barcelona want a No. 9 striker but have been unable to land their first-choice target of Julián Álvarez. Who should they go for instead? And what do the stats tell us?",
+      "publishedAt": "2026-08-21T07:54:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704345_5_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49668652/if-barcelona-want-striker-julian-alvarez-only-options-match-up",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 49659024,
+      "source": "ESPN",
+      "headline": "The 11 best Premier League careers in USMNT history",
+      "description": "With the Premier League kicking off and several Americans set to play big minutes in 2026-27, ESPN ranks the best careers by U.S. players in the league.",
+      "publishedAt": "2026-08-21T07:42:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703881_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49659024/christian-pulisic-brad-friedel-clint-dempsey-11-best-premier-league-careers-usmnt-history",
+      "tag": "United States",
+      "teams": [
+        "United States"
+      ]
+    },
+    {
+      "id": 49678080,
+      "source": "ESPN",
+      "headline": "Tottenham agree deal for Man City's Savinho - sources",
+      "description": "Tottenham have agreed a deal worth up to £85 million ($116m) to sign Savinho from Manchester City, sources have told ESPN.",
+      "publishedAt": "2026-08-21T07:33:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695346_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49678080/tottenham-agree-deal-man-city-savinho-sources",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49668119,
+      "source": "ESPN",
+      "headline": "Curtis Jones' exit means Liverpool have no local players now. Is that a problem?",
+      "description": "Curtis Jones was the last local lad in this Liverpool squad. But for a club associated with the likes of Steven Gerrard and Jamie Carragher, is that an issue?",
+      "publishedAt": "2026-08-21T07:31:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704309_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49668119/curtis-jones-exit-means-liverpool-no-local-players-now-problem",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": 49669109,
       "source": "ESPN",
       "headline": "Amad Diallo, Antoine Semenyo, Taiwo Awoniyi - 12 African players, and storylines, to watch in the Premier League this season",
@@ -55,38 +295,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-21T06:07:01Z",
-      "image": "https://a.espncdn.com/photo/2023/0808/r1207818_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -276,38 +484,6 @@
       "teams": []
     },
     {
-      "id": 49659699,
-      "source": "ESPN",
-      "headline": "Ian Darke's best-case, worst-case Premier League scenarios",
-      "description": "Arsenal rolled to the Premier League title in 2025-26, but what will the new season hold? Ian Darke makes his best- and worst-case scenario forecasts for all 20 teams.",
-      "publishedAt": "2026-08-20T15:51:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704317_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49659699/premier-league-ian-darke-preview-arsenal-manchester-city-manchester-united-liverpool-chelsea",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Liverpool",
-        "Manchester United",
-        "Manchester City",
-        "Arsenal",
-        "Tottenham Hotspur",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Hull City",
-        "Ipswich Town",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland"
-      ]
-    },
-    {
       "id": 49671086,
       "source": "ESPN",
       "headline": "Frank Lampard expects 'tougher times' for Coventry on return to Premier League",
@@ -319,206 +495,11 @@
       "teams": [
         "Coventry City"
       ]
-    },
-    {
-      "id": 49642340,
-      "source": "ESPN",
-      "headline": "2026-27 European soccer predictions: Premier League, Champions League, LaLiga",
-      "description": "The new season has arrived! Which teams will win silverware? Who wins Golden Boot? ESPN's writers predict it all for Europe's top men's leagues.",
-      "publishedAt": "2026-08-20T15:20:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/soc_european-predictions_16x9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49642340/european-soccer-predictions-2026-27-premier-league-champions-league-laliga-bundesliga-golden-boot",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City",
-        "Real Madrid",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 49670433,
-      "source": "ESPN",
-      "headline": "Arteta 'hungrier than ever' ahead of opening Premier League match",
-      "description": "Arteta 'hungrier than ever' ahead of opening Premier League match",
-      "publishedAt": "2026-08-20T14:26:03Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_Arteta_hungrier_than_ever_ahead_of_opening_Premier_League_match/dm_260820_Arteta_hungrier_than_ever_ahead_of_opening_Premier_League_match.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49670433/arteta-hungrier-ever-ahead-opening-premier-league-match",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49669179,
-      "source": "ESPN",
-      "headline": "Mikel Arteta relishing prospect of Arsenal being 'hunted' in Premier League title race",
-      "description": "Mikel Arteta has said he is relishing the prospect of going from the hunter to \"the hunted\" as Arsenal aim to defend their Premier League crown.",
-      "publishedAt": "2026-08-20T13:49:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704386_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49669179/mikel-arteta-relishing-prospect-arsenal-being-hunted-premier-league-title-race",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49669177,
-      "source": "ESPN",
-      "headline": "Xabi Alonso brushes off talk of Enzo Fernández leaving Chelsea this summer",
-      "description": "Xabi Alonso has reaffirmed Enzo Fernández' status as a Chelsea player and said the Argentina star is preparing for Monday's game against Fulham.",
-      "publishedAt": "2026-08-20T13:38:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1662564_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49669177/enzo-fernandez-chelsea-player-preparing-fulham-xabi-alonso",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 49669379,
-      "source": "ESPN",
-      "headline": "Marcotti: Liverpool have to sign a replacement for Jones",
-      "description": "Marcotti: Liverpool have to sign a replacement for Jones",
-      "publishedAt": "2026-08-20T12:17:17Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Marcotti_Liverpool_have_to_sign_a_replacement_for_Jones_20260820_GLOBAL/dm_260820_COM_SOC_Analysis_Marcotti_Liverpool_have_to_sign_a_replacement_for_Jones_20260820_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49669379/liverpool-sign-replacement-jones",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ef8ba278415372b2c238d0c87339693f",
-      "source": "Sky Sports",
-      "headline": "Play Super 6 to win £1m!",
-      "description": "",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-super-6-sky-bet_7320401.jpg?20260813100058",
-      "link": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49669171,
-      "source": "ESPN",
-      "headline": "Could Tottenham sign Marmoush & Savinho?",
-      "description": "Could Tottenham sign Marmoush & Savinho?",
-      "publishedAt": "2026-08-20T11:51:40Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Could_Tottenham_sign_Marmoush_Savinho_20260820_GLOBAL/dm_260820_COM_SOC_Analysis_Could_Tottenham_sign_Marmoush_Savinho_20260820_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49669171/could-tottenham-sign-marmoush-savinho",
-      "tag": "Egypt",
-      "teams": [
-        "Egypt",
-        "Manchester City",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49669135,
-      "source": "ESPN",
-      "headline": "Why Ezri Konsa would be an 'outstanding signing' for Arsenal",
-      "description": "Why Ezri Konsa would be an 'outstanding signing' for Arsenal",
-      "publishedAt": "2026-08-20T11:41:58Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Why_Ezri_Konsa_would_be_an_outstanding_signing_for_Arsenal_20260820_GLOBAL/dm_260820_COM_SOC_Analysis_Why_Ezri_Konsa_would_be_an_outstanding_signing_for_Arsenal_20260820_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49669135/why-ezri-konsa-outstanding-signing-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "England"
-      ]
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "publishedAt": "2026-08-20T10:59:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49668804,
-      "source": "ESPN",
-      "headline": "Will Man United's momentum under Carrick continue?",
-      "description": "Will Man United's momentum under Carrick continue?",
-      "publishedAt": "2026-08-20T10:54:43Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Will_Man_Uniteds_momentum_under_Carrick_continue_20260820_GLOBAL/dm_260820_COM_SOC_Analysis_Will_Man_Uniteds_momentum_under_Carrick_continue_20260820_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49668804/will-man-united-momentum-carrick-continue",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49668710,
-      "source": "ESPN",
-      "headline": "Laurens: Gap has grown between Arsenal & Premier League chasers",
-      "description": "Laurens: Gap has grown between Arsenal & Premier League chasers",
-      "publishedAt": "2026-08-20T10:40:11Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Laurens_Gap_has_grown_between_Arsenal_Premier_League_chasers_20260820_GLOBAL/dm_260820_COM_SOC_Analysis_Laurens_Gap_has_grown_between_Arsenal_Premier_League_chasers_20260820_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49668710/gap-grown-arsenal-premier-league-chasers",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 49668476,
-      "source": "ESPN",
-      "headline": "João Pedro given Liam Delap's Chelsea No. 9 shirt",
-      "description": "Chelsea's list of squad numbers for the 2026-27 campaign has been released and Liam Delap has lost the No. 9 shirt to João Pedro.",
-      "publishedAt": "2026-08-20T10:06:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704314_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49668476/liam-delap-joao-pedro-chelsea-premier-league",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0bae4d8b713193071bd3964ffa258841",
-      "source": "Sky Sports",
-      "headline": "Football is back (with no hydration breaks!) - How to watch the new season",
-      "description": "No hydration breaks or half-time shows... football as we know and love it is back - with 1,500 games on Sky Sports! Here is everything you need to know ahead of the new season...",
-      "publishedAt": "2026-08-13T14:30:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-get-sky-sports-premier-league_7314381.jpg?20260805105705",
-      "link": "https://www.skysports.com/football/news/12040/13572180/how-to-watch-or-stream-football-live-this-season-premier-league-efl-scottish-premiership-and-wsl-on-sky-sports-and-now",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-21T07:04:56.052Z"
+    "cachedAt": "2026-08-21T13:08:31.730Z"
   }
 }
