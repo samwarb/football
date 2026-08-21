@@ -2,11 +2,26 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49667878,
+      "source": "ESPN",
+      "headline": "Inter Milan sign Curtis Jones signing from Liverpool",
+      "description": "Inter Milan have completed the signing of Liverpool midfielder Curtis Jones on a five-year contract, the Italian champions announced Friday.",
+      "publishedAt": "2026-08-21T18:51:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0131/r1608582_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49667878/inter-milan-confirm-curtis-jones-signing-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Internazionale",
+        "England"
+      ]
+    },
+    {
       "id": 49660035,
       "source": "ESPN",
       "headline": "Premier League live updates: Arsenal kick off season against Coventry",
       "description": "The 2026-27 Premier League season begins as defending champions Arsenal take on newly promoted Coventry City.",
-      "publishedAt": "2026-08-21T13:00:39Z",
+      "publishedAt": "2026-08-21T18:30:45Z",
       "image": "https://a.espncdn.com/photo/2026/0819/r1703916_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49660035/premier-league-live-updates-arsenal-kick-season-coventry-city",
       "tag": "Arsenal",
@@ -16,36 +31,97 @@
       ]
     },
     {
-      "id": 49678076,
+      "id": "05cae1dc10289036a8645af4b7627b14",
+      "source": "Sky Sports",
+      "headline": "Inter Milan sign Jones from Liverpool",
+      "description": "Inter Milan have confirmed the signing of Curtis Jones in a £30m (€35m) deal from Liverpool.",
+      "publishedAt": "2026-08-21T18:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-liverpool-curtis-jones_7324404.jpg?20260817211432",
+      "link": "https://www.skysports.com/football/news/12040/13575215/curtis-jones-transfer-news-inter-milan-sign-midfielder-from-liverpool-in-30m-deal-with-sell-on-clause-included",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49681472,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal want Yildiz as Al Hilal add Martinelli to short list",
-      "description": "Arsenal are looking into the possibility of signing Kenan Yildiz from Juventus. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-21T11:58:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0128/r1606845_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49678076/transfer-rumors-news-arsenal-want-yildiz-al-hilal-add-martinelli-shortlist",
-      "tag": "Juventus",
+      "headline": "Unai Emery: Ollie Watkins, Emiliano Martínez could leave Aston Villa",
+      "description": "Aston Villa boss Unai Emery admits Ollie Watkins could be the next big-name player to leave the club this summer, while also revealing Emiliano Martínez has asked to move.",
+      "publishedAt": "2026-08-21T17:47:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704851_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49681472/unai-emery-ollie-watkins-emiliano-martinez-leave-aston-villa",
+      "tag": "Aston Villa",
       "teams": [
-        "Juventus",
-        "Arsenal"
+        "Aston Villa",
+        "Argentina",
+        "England"
       ]
     },
     {
-      "id": 49678964,
+      "id": 49682885,
       "source": "ESPN",
-      "headline": "Abdelkarim to Zadok - Predicting 10 African breakout football stars across Europe in 2026-27",
-      "description": "Whether wonderkids taking their first steps in the game, or international players on the brink of another stratum altogether, here are ESPN's predicted 10 African breakout stars for the 26-27 season.",
-      "publishedAt": "2026-08-21T11:40:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704748_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49678964/abdelkarim-zadok-predicting-10-african-breakout-football-stars-europe-2026-27",
-      "tag": "Nigeria",
+      "headline": "Iraola: Liverpool 'open-minded' ahead of transfer window deadline",
+      "description": "Iraola: Liverpool 'open-minded' ahead of transfer window deadline",
+      "publishedAt": "2026-08-21T17:47:17Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0821/dm_260821_COM_SOC_Presser_Iraola_Liverpool_open_minded_ahead_of_transfer_window_deadline_20260821_GLOBA/dm_260821_COM_SOC_Presser_Iraola_Liverpool_open_minded_ahead_of_transfer_window_deadline_20260821_GLOBA.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49682885/liverpool-open-minded-ahead-transfer-window-deadline",
+      "tag": "Liverpool",
       "teams": [
-        "Nigeria",
-        "Ivory Coast",
-        "Ghana",
-        "Senegal",
-        "Mali",
-        "Lille",
-        "Barcelona"
+        "Liverpool",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "8984f49f6fdf2978656f544f7440d574",
+      "source": "Sky Sports",
+      "headline": "Brighton reject £60m Liverpool bid for Minteh",
+      "description": "Brighton have rejected a £60m bid from Liverpool for winger Yankuba Minteh.",
+      "publishedAt": "2026-08-21T17:24:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-yankuba-minteh-liverpool_7327558.jpg?20260821181740",
+      "link": "https://www.skysports.com/football/news/12040/13575558/yankuba-minteh-transfer-news-brighton-reject-liverpool-bid-of-60m-for-winger",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "c0189e4dbb0802b50995cb21b273166b",
+      "source": "Sky Sports",
+      "headline": "Arsenal vs Coventry LIVE on Sky!",
+      "description": "",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7327005.jpg?20260821075756",
+      "link": "https://www.skysports.com/football/arsenal-vs-coventry-city/live/559444",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
+      "publishedAt": "2026-08-21T16:15:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Tottenham Hotspur"
       ]
     },
     {
@@ -53,7 +129,7 @@
       "source": "ESPN",
       "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-21T11:40:01Z",
+      "publishedAt": "2026-08-21T15:45:54Z",
       "image": "https://a.espncdn.com/photo/2026/0706/r1685229_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "tag": "Arsenal",
@@ -78,6 +154,168 @@
         "Coventry City",
         "Hull City",
         "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49681409,
+      "source": "ESPN",
+      "headline": "Enzo Maresca: Jérémy Doku will miss Man City's Premier League opener",
+      "description": "Manchester City winger Jérémy Doku will miss their Premier League opener against Bournemouth with a calf injury, manager Enzo Maresca has confirmed.",
+      "publishedAt": "2026-08-21T15:44:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704850_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49681409/enzo-maresca-jeremy-doku-miss-man-city-premier-league-opener",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49668045,
+      "source": "ESPN",
+      "headline": "Ezri Konsa joins Premier League champions Arsenal from Aston Villa",
+      "description": "Ezri Konsa has joined Arsenal from Aston Villa, the club has confirmed.",
+      "publishedAt": "2026-08-21T15:35:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49668045/ezri-konsa-joins-premier-league-champions-arsenal-aston-villa",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49681773,
+      "source": "ESPN",
+      "headline": "Fabian Hürzeler insists Carlos Baleba 'a Brighton player' amid Man United enquiries",
+      "description": "Fabian Hürzeler refused to discuss the future of Brighton midfielder Carlos Baleba amid links with Manchester United.",
+      "publishedAt": "2026-08-21T15:31:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704866_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49681773/fabian-hurzeler-insists-carlos-baleba-brighton-player-amid-manchester-united-links",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "2cb70f988ec7f03ac07a5a918ee67a90",
+      "source": "Sky Sports",
+      "headline": "Chelsea to host Shakhtar's Champions League home games amid ongoing exile",
+      "description": "Shakhtar Donetsk will play their Champions League home games at Stamford Bridge this season after coming to an agreement with Chelsea to host their European matches while they remain in exile from their Donbas Arena home.",
+      "publishedAt": "2026-08-21T15:30:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-shakhtar-stamford-bridge_7327433.jpg?20260821163242",
+      "link": "https://www.skysports.com/football/news/12040/13575487/why-are-shakhtar-playing-at-chelsea-stamford-bridge-to-host-exiled-ukrainian-sides-champions-league-home-games",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49678076,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal want Yildiz as Al Hilal add Martinelli to short list",
+      "description": "Arsenal are looking into the possibility of signing Kenan Yildiz from Juventus. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-21T15:26:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0128/r1606845_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49678076/transfer-rumors-news-arsenal-want-yildiz-al-hilal-add-martinelli-shortlist",
+      "tag": "Juventus",
+      "teams": [
+        "Juventus",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49681498,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi confirms Micky van de Ven as new Tottenham captain",
+      "description": "Roberto De Zerbi has confirmed Micky van de Ven is Tottenham's new captain.",
+      "publishedAt": "2026-08-21T14:59:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700064_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49681498/roberto-de-zerbi-confirms-micky-van-de-ven-new-tottenham-captain",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-21T14:37:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0409/r1641030_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49680811,
+      "source": "ESPN",
+      "headline": "Liverpool 'will definitely sign some players' - Andoni Iraola",
+      "description": "Andoni Iraola has insisted Liverpool will be active in the transfer market over the coming weeks, although they may have to wait until later in the window for deals to be completed.",
+      "publishedAt": "2026-08-21T14:30:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0726/r1693772_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49680811/liverpool-definitely-sign-some-players-andoni-iraola",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49681135,
+      "source": "ESPN",
+      "headline": "Enzo Maresca 'not worried' about players leaving Manchester City",
+      "description": "Enzo Maresca 'not worried' about players leaving Manchester City",
+      "publishedAt": "2026-08-21T14:04:21Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0821/dm_260821_COM_SOC_Presser_Enzo_Maresca_not_worried_about_players_leaving_Manchester_City_20260821_GLOBAL/dm_260821_COM_SOC_Presser_Enzo_Maresca_not_worried_about_players_leaving_Manchester_City_20260821_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49681135/enzo-maresca-not-worried-players-leaving-manchester-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49668652,
+      "source": "ESPN",
+      "headline": "If Barcelona want a striker like Julián Álvarez, only a few options match up",
+      "description": "Barcelona want a No. 9 striker but have been unable to land their first-choice target of Julián Álvarez. Who should they go for instead? And what do the stats tell us?",
+      "publishedAt": "2026-08-21T13:42:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704345_5_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49668652/if-barcelona-want-striker-julian-alvarez-only-options-match-up",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 49678080,
+      "source": "ESPN",
+      "headline": "Tottenham agree on deal for Man City's Savinho - sources",
+      "description": "Tottenham have agreed on a deal worth up to £85 million ($116m) to sign Savinho from Manchester City, sources told ESPN.",
+      "publishedAt": "2026-08-21T13:35:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695346_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49678080/tottenham-agree-deal-man-city-savinho-sources",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49678964,
+      "source": "ESPN",
+      "headline": "Abdelkarim to Zadok - Predicting 10 African breakout football stars across Europe in 2026-27",
+      "description": "Whether wonderkids taking their first steps in the game, or international players on the brink of another stratum altogether, here are ESPN's predicted 10 African breakout stars for the 26-27 season.",
+      "publishedAt": "2026-08-21T11:40:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704748_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49678964/abdelkarim-zadok-predicting-10-african-breakout-football-stars-europe-2026-27",
+      "tag": "Nigeria",
+      "teams": [
+        "Nigeria",
+        "Ivory Coast",
+        "Ghana",
+        "Senegal",
+        "Mali",
+        "Lille",
+        "Barcelona"
       ]
     },
     {
@@ -109,39 +347,6 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-21T10:25:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0409/r1641030_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "e47da20f72d98ee0e6b4d9f7f2e2330f",
-      "source": "Sky Sports",
-      "headline": "Arsenal complete £51m Konsa deal",
-      "description": "Arsenal have completed the £51m deal to sign defender Ezri Konsa from Aston Villa.",
-      "publishedAt": "2026-08-21T10:24:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-konsa-arsenal_7325544.jpg?20260821120514",
-      "link": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "29b1d680e58bc78e7143e06a7f180db7",
-      "source": "Sky Sports",
-      "headline": "Rise of Espanyol's English winger Dolan: 'I am not the player I was a year ago'",
-      "description": "Tyrhys Dolan made an explosive start to the season in LaLiga with a goal in Espanyol’s 3-0 win over Levante. The English forward looked particularly sharp. Something has changed. “I am not the person or player I was a year ago,” Dolan tells Sky Sports .",
-      "publishedAt": "2026-08-21T10:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tyrhys-dolan-espanyol_7324339.jpg?20260817184107",
-      "link": "https://www.skysports.com/football/news/12040/13574143/tyrhys-dolan-interview-espanyol-winger-scored-against-levante-in-laliga-opener-and-is-ready-to-face-real-madrid-next",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49678731,
       "source": "ESPN",
       "headline": "Atlético Madrid working on loan deal for Chelsea's Nicolas Jackson, Aston Villa also interested - sources",
@@ -157,51 +362,6 @@
       ]
     },
     {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "publishedAt": "2026-08-21T08:40:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49668652,
-      "source": "ESPN",
-      "headline": "If Barcelona want a striker like Julián Álvarez, only a few options match up",
-      "description": "Barcelona want a No. 9 striker but have been unable to land their first-choice target of Julián Álvarez. Who should they go for instead? And what do the stats tell us?",
-      "publishedAt": "2026-08-21T07:54:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704345_5_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49668652/if-barcelona-want-striker-julian-alvarez-only-options-match-up",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona"
-      ]
-    },
-    {
       "id": 49659024,
       "source": "ESPN",
       "headline": "The 11 best Premier League careers in USMNT history",
@@ -212,20 +372,6 @@
       "tag": "United States",
       "teams": [
         "United States"
-      ]
-    },
-    {
-      "id": 49678080,
-      "source": "ESPN",
-      "headline": "Tottenham agree deal for Man City's Savinho - sources",
-      "description": "Tottenham have agreed a deal worth up to £85 million ($116m) to sign Savinho from Manchester City, sources have told ESPN.",
-      "publishedAt": "2026-08-21T07:33:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695346_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49678080/tottenham-agree-deal-man-city-savinho-sources",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Manchester City"
       ]
     },
     {
@@ -295,20 +441,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 49667408,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool looking at Wharton as Jones replacement",
-      "description": "Liverpool are looking at alternatives for Curtis Jones, with Crystal Palace's Adam Wharton being among the names linked. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-21T02:02:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704531_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49667408/man-united-move-racing-santander-left-back",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Crystal Palace"
       ]
     },
     {
@@ -390,116 +522,11 @@
         "Hull City",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49673737,
-      "source": "ESPN",
-      "headline": "USMNT's Aaronson inks new 3-year deal with Leeds United",
-      "description": "United States attacker Brenden Aaronson has signed a new three-year contract to stay at Leeds United, the club announced Thursday.",
-      "publishedAt": "2026-08-20T20:32:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0107/r1597808_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49673737/usmnt-aaronson-new-3-year-deal-leeds-united",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United",
-        "United States"
-      ]
-    },
-    {
-      "id": 49672307,
-      "source": "ESPN",
-      "headline": "Newcastle's Matthias Jaissle: 'I don't care' about outside negativity",
-      "description": "Matthias Jaissle told his detractors he does not care about their opinions amid a wave of negativity for his Newcastle side ahead of the start of the new season.",
-      "publishedAt": "2026-08-20T17:41:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704482_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49672307/newcastle-matthias-jaissle-dont-care-negativity",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49672340,
-      "source": "ESPN",
-      "headline": "Hull chairman hits out at 'laughable' Joe Cole criticism",
-      "description": "Hull City chairman Acun Ilicali has criticised former players Joe Cole and Carlton Cole for mocking the club's Premier League survival chances.",
-      "publishedAt": "2026-08-20T17:40:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704483_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49672340/hull-city-chairman-acun-ilicali-joe-cole-carlton",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49672097,
-      "source": "ESPN",
-      "headline": "Michael Carrick: 'Ridiculous' to say Man United have easy start",
-      "description": "Manchester United head coach Michael Carrick has hit back at suggestions that Manchester United have been given a favourable start to the Premier League season.",
-      "publishedAt": "2026-08-20T17:22:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704476_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49672097/michael-carrick-man-united-premier-league-start-transfer-window",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49670490,
-      "source": "ESPN",
-      "headline": "Manchester City in talks with Palmeiras for winger Allan Elias - sources",
-      "description": "Manchester City are in talks over a deal for Palmeiras winger Allan Elias, sources have told ESPN.",
-      "publishedAt": "2026-08-20T17:21:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704419_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49670490/manchester-city-talks-palmeiras-winger-allan-elias-sources",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Palmeiras"
-      ]
-    },
-    {
-      "id": 49671998,
-      "source": "ESPN",
-      "headline": "Liverpool have £50 million bid for Yankuba Minteh rejected by Brighton - sources",
-      "description": "Liverpool have had a £50 million ($68m) bid for Brighton & Hove Albion's Yankuba Minteh rejected, sources told ESPN.",
-      "publishedAt": "2026-08-20T17:11:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704471_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49671998/liverpool-yankuba-minteh-50-million-bid-rejected-brighton-sources",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 49650452,
-      "source": "ESPN",
-      "headline": "Breaking down 10 years of FC 100: Top countries, trends, all-time starting XI",
-      "description": "For the 10th anniversary edition of the FC 100, let's take a look at the big takeaways from a decade of ranking the best men's soccer players.",
-      "publishedAt": "2026-08-20T16:42:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1704067_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49650452/breaking-10-years-fc-100-top-countries-trends-all-starting-xi",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49671086,
-      "source": "ESPN",
-      "headline": "Frank Lampard expects 'tougher times' for Coventry on return to Premier League",
-      "description": "Coventry boss Frank Lampard said his side need to be ready for \"tougher times\" this season ahead of their Premier League curtain-raiser against champions Arsenal on Friday.",
-      "publishedAt": "2026-08-20T15:50:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704441_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49671086/frank-lampard-tougher-s-coventry-return-premier-league",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-21T13:08:31.730Z"
+    "cachedAt": "2026-08-21T18:53:11.449Z"
   }
 }
