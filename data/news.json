@@ -2,6 +2,114 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49672383,
+      "source": "ESPN",
+      "headline": "Weekend predictions: Liverpool or Newcastle? Can Mourinho win first match of Madrid return?",
+      "description": "Julien Laurens makes his predictions for the opening weekend of Premier League action and beyond, including Liverpool's stiff test vs. Newcastle.",
+      "publishedAt": "2026-08-20T22:45:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704555_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49672383/liverpool-newcastle-mourinho-win-first-match-madrid-return",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "Real Madrid",
+        "Liverpool",
+        "Coventry City",
+        "Newcastle United",
+        "Arsenal",
+        "Borussia Dortmund",
+        "Stade Rennais",
+        "Paris Saint-Germain",
+        "FC Groningen",
+        "PSV Eindhoven",
+        "Internazionale",
+        "Monza"
+      ]
+    },
+    {
+      "id": 49674587,
+      "source": "ESPN",
+      "headline": "Burley questions if Marmoush & Savinho improve Tottenham",
+      "description": "Burley questions if Marmoush & Savinho improve Tottenham",
+      "publishedAt": "2026-08-20T22:17:27Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Burley_questions_if_Marmoush_26_Savinho_improve_Tottenham_GLOBAL_2026-08-20/dm_260820_COM_SOC_Analysis_Burley_questions_if_Marmoush_26_Savinho_improve_Tottenham_GLOBAL_2026-08-20.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49674587/burley-questions-marmoush-savinho-improve-tottenham",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49674598,
+      "source": "ESPN",
+      "headline": "Walcott: Arsenal fans want to win the Champions League this season",
+      "description": "Walcott: Arsenal fans want to win the Champions League this season",
+      "publishedAt": "2026-08-20T22:16:20Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Walcott3A_Arsenal_fans_want_to_win_the_Champions_League_this_season_GLOBAL_2026-08/dm_260820_COM_SOC_Analysis_Walcott3A_Arsenal_fans_want_to_win_the_Champions_League_this_season_GLOBAL_2026-08.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49674598/arsenal-fans-want-win-champions-league-season",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49674592,
+      "source": "ESPN",
+      "headline": "Will Arsenal make it back-to-back Premier League titles?",
+      "description": "Will Arsenal make it back-to-back Premier League titles?",
+      "publishedAt": "2026-08-20T22:15:46Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Will_Arsenal_make_it_back-to-back_Premier_League_titles3F_GLOBAL_2026-08-20/dm_260820_COM_SOC_Analysis_Will_Arsenal_make_it_back-to-back_Premier_League_titles3F_GLOBAL_2026-08-20.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49674592/will-arsenal-make-back-back-premier-league-titles",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 49673805,
+      "source": "ESPN",
+      "headline": "Carrick: Rashford is enjoying his football at Man United",
+      "description": "Carrick: Rashford is enjoying his football at Man United",
+      "publishedAt": "2026-08-20T20:39:57Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Carrick3A_Rashford_is_enjoying_his_football_at_Man_United_GLOBAL_2026-08-20/dm_260820_COM_SOC_Analysis_Carrick3A_Rashford_is_enjoying_his_football_at_Man_United_GLOBAL_2026-08-20.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49673805/rashford-enjoying-football-man-united",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49673737,
+      "source": "ESPN",
+      "headline": "USMNT's Aaronson inks new 3-year deal with Leeds United",
+      "description": "United States attacker Brenden Aaronson has signed a new three-year contract to stay at Leeds United, the club announced Thursday.",
+      "publishedAt": "2026-08-20T20:32:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0107/r1597808_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49673737/usmnt-aaronson-new-3-year-deal-leeds-united",
+      "tag": "Leeds United",
+      "teams": [
+        "Leeds United",
+        "United States"
+      ]
+    },
+    {
+      "id": 49667408,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool looking at Wharton as Jones replacement",
+      "description": "Liverpool are looking at alternatives for Curtis Jones, with Crystal Palace's Adam Wharton being among the names linked. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-20T20:31:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0820/r1704531_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49667408/man-united-move-racing-santander-left-back",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Crystal Palace"
+      ]
+    },
+    {
       "id": 49672307,
       "source": "ESPN",
       "headline": "Newcastle's Matthias Jaissle: 'I don't care' about outside negativity",
@@ -80,17 +188,6 @@
       "teams": []
     },
     {
-      "id": "036ba2d3a5c21c09cbbb652eff77634d",
-      "source": "Sky Sports",
-      "headline": "One to watch? Hot take?! Sky Sports writers give their PL predictions!",
-      "description": "Sky Sports writers have given their Premier League predictions ahead of the new season, including their hot take and one to watch!",
-      "publishedAt": "2026-08-20T16:09:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-football-premier-league_7326756.jpg?20260820172536",
-      "link": "https://www.skysports.com/watch/video/13575127/sky-sports-writers-give-their-premier-league-predictions-ahead-of-new-season",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49659699,
       "source": "ESPN",
       "headline": "Ian Darke's best-case, worst-case Premier League scenarios",
@@ -165,31 +262,6 @@
       ]
     },
     {
-      "id": 49667408,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United move for Santander left back",
-      "description": "Manchester United are considering a move for Racing Santander left back Jorge Salinas, but face competition from Atlético Madrid. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-20T14:12:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704299_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49667408/man-united-move-racing-santander-left-back",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Racing Santander"
-      ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-20T14:11:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703455_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49669179,
       "source": "ESPN",
       "headline": "Mikel Arteta relishing prospect of Arsenal being 'hunted' in Premier League title race",
@@ -225,17 +297,6 @@
       "image": "https://a.espncdn.com/photo/2026/0817/260818_soc_fc100_africa.jpg",
       "link": "https://www.espn.com/espn/story/_/id/49669869/what-does-season-hold-africa-nine-players-espn-fc-100-2026",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "cd670993b41dba52ef1498db25a4f31e",
-      "source": "Sky Sports",
-      "headline": "'100 per cent' - Arteta confident Lewis-Skelly stays at Arsenal",
-      "description": "Mikel Arteta says he is \"100 per cent\" confident Myles Lewis-Skelly will be an Arsenal player at the end of the transfer window.",
-      "publishedAt": "2026-08-20T13:04:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320052.jpg?20260812201414",
-      "link": "https://www.skysports.com/football/news/12040/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -284,6 +345,17 @@
       ]
     },
     {
+      "id": "ef8ba278415372b2c238d0c87339693f",
+      "source": "Sky Sports",
+      "headline": "Play Super 6 to win £1m!",
+      "description": "",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-super-6-sky-bet_7320401.jpg?20260813100058",
+      "link": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49669171,
       "source": "ESPN",
       "headline": "Could Tottenham sign Marmoush & Savinho?",
@@ -311,38 +383,6 @@
         "Arsenal",
         "Aston Villa",
         "England"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-20T11:19:34Z",
-      "image": "https://a.espncdn.com/photo/2023/0808/r1207818_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -419,20 +459,6 @@
       ]
     },
     {
-      "id": 49663356,
-      "source": "ESPN",
-      "headline": "Hutchison: Konsa would be a 'smart signing' for Arsenal",
-      "description": "Hutchison: Konsa would be a 'smart signing' for Arsenal.",
-      "publishedAt": "2026-08-20T08:37:26Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Hutchison_Konsa_would_be_a_smart_signing_for_Arsenal/dm_260819_Hutchison_Konsa_would_be_a_smart_signing_for_Arsenal.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49663356/konsa-smart-signing-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa"
-      ]
-    },
-    {
       "id": 49657298,
       "source": "ESPN",
       "headline": "Meet the Premier League new boys: What you need to know about Coventry, Ipswich and Hull",
@@ -446,67 +472,11 @@
         "Hull City",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-20T06:44:52Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49663379,
-      "source": "ESPN",
-      "headline": "Hutchison: Spurs' transfer activity shows the pull De Zerbi has",
-      "description": "Hutchison: Spurs' transfer activity shows the pull De Zerbi has.",
-      "publishedAt": "2026-08-19T21:38:45Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/dm_260819_Hutchison_Spurs_transfer_activity_shows_the_pull_De_Zerbi_has/dm_260819_Hutchison_Spurs_transfer_activity_shows_the_pull_De_Zerbi_has.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49663379/spurs-transfer-activity-shows-pull-de-zerbi-has",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49656126,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Napoli eye moves for Zirkzee, Jackson",
-      "description": "Manchester United forward Joshua Zirkzee and Chelsea's Nicolas Jackson are both linked with a move to Napoli. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-19T20:58:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1704047_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49656126/transfer-rumors-news-al-hilal-eye-shock-move-bayern-striker-harry-kane",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Chelsea",
-        "Napoli"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-20T18:56:46.792Z"
+    "cachedAt": "2026-08-21T01:55:25.431Z"
   }
 }
