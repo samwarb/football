@@ -2,6 +2,120 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49661606,
+      "source": "ESPN",
+      "headline": "European soccer live updates: Hull lead Man United in season opener",
+      "description": "Manchester United and Real Madrid are among the clubs in action during a full set of matches across Europe on Saturday.",
+      "publishedAt": "2026-08-22T12:51:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705211_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49661606/european-soccer-live-updates-manchester-united-real-madrid-tottenham",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49690076,
+      "source": "ESPN",
+      "headline": "Arteta: I'm really impressed with Arsenal's domination",
+      "description": "Arteta: I'm really impressed with Arsenal's domination",
+      "publishedAt": "2026-08-22T12:12:46Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Arteta_Im_really_impressed_with_Arsenals_domination/dm_260822_Arteta_Im_really_impressed_with_Arsenals_domination.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49690076/really-impressed-arsenal-domination",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 49689130,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool eye Endrick in case Minteh deal fails",
+      "description": "Liverpool want Brighton's Yankuba Minteh, but they have a plan should they fail to make a deal. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-22T11:46:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705202_1252x705_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49689130/transfer-rumors-news-liverpool-eye-endrick-case-minteh-deal-fails",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Real Madrid",
+        "Brazil"
+      ]
+    },
+    {
+      "id": 49689666,
+      "source": "ESPN",
+      "headline": "Alexander Isak encouraged to 'open spaces' for Liverpool teammates by Andoni Iraola",
+      "description": "Liverpool head coach Andoni Iraola knows Alexander Isak will score goals but is working on the striker's ability to create chances for team-mates.",
+      "publishedAt": "2026-08-22T11:37:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0414/r1643606_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49689666/alexander-isak-encouraged-open-spaces-liverpool-teammates-andoni-iraola",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 48955344,
+      "source": "ESPN",
+      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
+      "publishedAt": "2026-08-22T11:12:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
+        "Crystal Palace",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Fulham",
+        "Coventry City",
+        "Hull City",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49689220,
+      "source": "ESPN",
+      "headline": "João Pedro signs new contract with Chelsea until 2032, option of two further years",
+      "description": "João Pedro has signed a new contract with Chelsea, keeping him at Stamford Bridge until 2032 with an option of two further years.",
+      "publishedAt": "2026-08-22T10:46:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705183_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49689220/joao-pedro-signs-new-contract-chelsea-2032-option-two-further-years-premier-league",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49688814,
+      "source": "ESPN",
+      "headline": "Man City boss Enzo Maresca backs Phil Foden to rediscover his spark this season",
+      "description": "Enzo Maresca is hopeful Phil Foden will rediscover his spark this season.",
+      "publishedAt": "2026-08-22T08:53:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705176_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49688814/man-city-boss-enzo-maresca-backs-phil-foden-rediscover-spark-season",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -27,38 +141,6 @@
         "Sunderland",
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-22T06:12:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685229_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
       ]
     },
     {
@@ -212,9 +294,9 @@
       "teams": []
     },
     {
-      "id": "c360270050c15c060f05ca18c71d6286",
+      "id": "654264f3f158608454ca0a1a732bb3e8",
       "source": "Sky Sports",
-      "headline": "Arsenal kick off title defence with thumping win over Coventry",
+      "headline": "'Dominant' - Arsenal kick off title defence with thumping Coventry win",
       "description": "Arsenal made a flying start to their Premier League title defence with a 3-0 thumping of newly-promoted Coventry City in the season opener at the Emirates Stadium.",
       "publishedAt": "2026-08-21T20:50:00.000Z",
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-bukayo-saka-martin-odegaard_7327700.jpg?20260821210850",
@@ -307,38 +389,6 @@
       ]
     },
     {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is fast approaching, and every club has released at least one of their new jerseys. Here they all are -- ranked!",
-      "publishedAt": "2026-08-21T16:15:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49681409,
       "source": "ESPN",
       "headline": "Enzo Maresca: Jérémy Doku will miss Man City's Premier League opener",
@@ -419,52 +469,6 @@
       ]
     },
     {
-      "id": 49668652,
-      "source": "ESPN",
-      "headline": "If Barcelona want a striker like Julián Álvarez, only a few options match up",
-      "description": "Barcelona want a No. 9 striker but have been unable to land their first-choice target of Julián Álvarez. Who should they go for instead? And what do the stats tell us?",
-      "publishedAt": "2026-08-21T13:42:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0820/r1704345_5_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49668652/if-barcelona-want-striker-julian-alvarez-only-options-match-up",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 49678080,
-      "source": "ESPN",
-      "headline": "Tottenham agree on deal for Man City's Savinho - sources",
-      "description": "Tottenham have agreed on a deal worth up to £85 million ($116m) to sign Savinho from Manchester City, sources told ESPN.",
-      "publishedAt": "2026-08-21T13:35:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695346_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49678080/tottenham-agree-deal-man-city-savinho-sources",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49678964,
-      "source": "ESPN",
-      "headline": "Abdelkarim to Zadok - Predicting 10 African breakout football stars across Europe in 2026-27",
-      "description": "Whether wonderkids taking their first steps in the game, or international players on the brink of another stratum altogether, here are ESPN's predicted 10 African breakout stars for the 26-27 season.",
-      "publishedAt": "2026-08-21T11:40:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704748_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/49678964/abdelkarim-zadok-predicting-10-african-breakout-football-stars-europe-2026-27",
-      "tag": "Nigeria",
-      "teams": [
-        "Nigeria",
-        "Ivory Coast",
-        "Ghana",
-        "Senegal",
-        "Mali",
-        "Lille",
-        "Barcelona"
-      ]
-    },
-    {
       "id": 49679399,
       "source": "ESPN",
       "headline": "Alonso: Fernández is still a Chelsea player",
@@ -491,39 +495,11 @@
         "Manchester United",
         "Hull City"
       ]
-    },
-    {
-      "id": 49678731,
-      "source": "ESPN",
-      "headline": "Atlético Madrid working on loan deal for Chelsea's Nicolas Jackson, Aston Villa also interested - sources",
-      "description": "Atlético Madrid are looking to beat Aston Villa to the loan signing of Nicolas Jackson from Chelsea, sources told ESPN.",
-      "publishedAt": "2026-08-21T09:20:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704740_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49678731/atletico-madrid-loan-deal-chelsea-nicolas-jackson-aston-villa-interested",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Chelsea",
-        "Atlético Madrid"
-      ]
-    },
-    {
-      "id": 49659024,
-      "source": "ESPN",
-      "headline": "The 11 best Premier League careers in USMNT history",
-      "description": "With the Premier League kicking off and several Americans set to play big minutes in 2026-27, ESPN ranks the best careers by U.S. players in the league.",
-      "publishedAt": "2026-08-21T07:42:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703881_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49659024/christian-pulisic-brad-friedel-clint-dempsey-11-best-premier-league-careers-usmnt-history",
-      "tag": "United States",
-      "teams": [
-        "United States"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-22T06:56:59.696Z"
+    "cachedAt": "2026-08-22T12:58:13.081Z"
   }
 }
