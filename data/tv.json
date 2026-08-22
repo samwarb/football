@@ -2,11 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "hull city|manchester united": [
-      "TNT Sports 1",
-      "TNT Sports Ultimate",
-      "HBO Max"
-    ],
     "brentford|tottenham hotspur": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -218,6 +213,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-22T12:58:13.038Z"
+    "cachedAt": "2026-08-22T18:46:59.941Z"
   }
 }
