@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "arsenal|coventry city": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "hull city|manchester united": [
       "TNT Sports 1",
       "TNT Sports Ultimate",
@@ -222,6 +218,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-21T18:53:11.299Z"
+    "cachedAt": "2026-08-22T01:48:11.980Z"
   }
 }
