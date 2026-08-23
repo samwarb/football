@@ -2,6 +2,77 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49661948,
+      "source": "ESPN",
+      "headline": "European soccer live updates: Man City begin season vs. Bournemouth; Villa face Brighton",
+      "description": "We have more matches this Sunday with Man City, Liverpool, Barcelona and more in action.",
+      "publishedAt": "2026-08-23T12:45:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705664_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49661948/european-soccer-live-updates-manchester-city-liverpool-barcelona-ac-milan-juventus",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 49700745,
+      "source": "ESPN",
+      "headline": "Record-breaking Archie Gray admits Tottenham performance 'wasn't good enough'",
+      "description": "Archie Gray blasted Tottenham's dismal opening-day defeat at Brentford as \"not good enough.\"",
+      "publishedAt": "2026-08-23T12:09:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705676_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49700745/record-breaking-archie-gray-admits-tottenham-performance-wasnt-good-enough",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49700150,
+      "source": "ESPN",
+      "headline": "New season, new haircut: Erling Haaland ditches iconic long hair for new season",
+      "description": "Erling Haaland shared his latest viral social media post, showing him cutting his long blonde hair in favour of a buzz cut.",
+      "publishedAt": "2026-08-23T11:59:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705662_502x282_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49700150/man-city-erling-haaland-ditches-iconic-long-hair-premier-league-season",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Norway"
+      ]
+    },
+    {
+      "id": 49700554,
+      "source": "ESPN",
+      "headline": "Man United 'dreadful, offered nothing' up front - Alan Shearer",
+      "description": "Manchester United's attack has been criticised as \"dreadful\" by Alan Shearer after their surprise defeat to Hull City on Saturday.",
+      "publishedAt": "2026-08-23T11:54:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705670_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49700554/man-united-dreadful-offered-front-alan-shearer",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49699929,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Nottingham Forest bid £70m for Igor Thiago",
+      "description": "Nottingham Forest want Brazil striker Igor Thiago, and Barcelona continue their search for a No. 9. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-23T10:01:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705658_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49699929/transfer-rumors-news-nottingham-forest-bid-70m-igor-thiago",
+      "tag": "Brazil",
+      "teams": [
+        "Brazil",
+        "Brentford",
+        "Nottingham Forest"
+      ]
+    },
+    {
       "id": 48944912,
       "source": "ESPN",
       "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -171,17 +242,6 @@
         "Tottenham Hotspur",
         "Brentford"
       ]
-    },
-    {
-      "id": "550bae29819f76821704f690411e6e26",
-      "source": "Sky Sports",
-      "headline": "De Zerbi admits 'we're not a team yet' as Redknapp labels Spurs 'strangers'",
-      "description": "Tottenham boss Roberto De Zerbi believes their dismal 3-0 opening-season defeat at Brentford shows his new-look side are \"not a team yet\" after a big summer of spending.",
-      "publishedAt": "2026-08-22T21:20:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-tottenham-spurs-sandro-tonali_7328773.jpg?20260822221504",
-      "link": "https://www.skysports.com/football/news/12040/13575888/roberto-de-zerbi-tottenham-boss-admits-were-not-a-team-yet-after-new-look-side-suffer-dismal-brentford-loss",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49689130,
@@ -422,80 +482,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49690702,
-      "source": "ESPN",
-      "headline": "'Are you watching Joe Cole?' Hull fans mock prediction after Man United upset",
-      "description": "Hull fans had a message for Joe Cole as they got their Premier League campaign underway at home with a 2-0 victory over Manchester United.",
-      "publishedAt": "2026-08-22T14:29:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705233_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49690702/are-watching-joe-cole-hull-fans-mock-prediction-man-united-upset",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49691025,
-      "source": "ESPN",
-      "headline": "Nicol: Carrick needs to improve Man United's defence",
-      "description": "Nicol: Carrick needs to improve Man United's defence",
-      "publishedAt": "2026-08-22T14:24:18Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_COM_SOC_Analysis_Nicol3A_Carrick_needs_to_improve_Man_UnitedE28099s_defence__GLOBAL_2026-08-22/dm_260822_COM_SOC_Analysis_Nicol3A_Carrick_needs_to_improve_Man_UnitedE28099s_defence__GLOBAL_2026-08-22.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49691025/carrick-needs-improve-man-united-defence",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49690984,
-      "source": "ESPN",
-      "headline": "Nicol believes Hull City deserved all three points vs. Man United",
-      "description": "Nicol believes Hull City deserved all three points vs. Man United",
-      "publishedAt": "2026-08-22T14:23:40Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_COM_SOC_Analysis_Nicol_believes_Hull_City_deserved_all_three_points_vs_Man_United_GLOBAL_2026-08-/dm_260822_COM_SOC_Analysis_Nicol_believes_Hull_City_deserved_all_three_points_vs_Man_United_GLOBAL_2026-08-.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49690984/nicol-believes-hull-city-deserved-all-three-points-vs-man-united",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49690175,
-      "source": "ESPN",
-      "headline": "Record for Premier League's tallest ever player is broken",
-      "description": "The record for being the tallest player to play a Premier League game was broken on the first matchday of 2026-27.",
-      "publishedAt": "2026-08-22T14:12:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705214_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49690175/record-premier-league-tallest-ever-player-broken-kjell-scherpen",
-      "tag": "Ipswich Town",
-      "teams": [
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49673833,
-      "source": "ESPN",
-      "headline": "Man United slip to surprise Hull defeat as Premier League begins",
-      "description": "Manchester United made a nightmare start to the new season as promoted Hull confounded their many doubters by securing a shock 2-0 victory on their Premier League return.",
-      "publishedAt": "2026-08-22T14:00:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705228_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879322",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-23T06:58:31.942Z"
+    "cachedAt": "2026-08-23T12:59:48.408Z"
   }
 }
