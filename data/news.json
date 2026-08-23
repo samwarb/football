@@ -2,12 +2,51 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49703061,
+      "source": "ESPN",
+      "headline": "Liverpool's Dominik Szoboszlai scores late penalty to draw at Newcastle",
+      "description": "Dominik Szoboszlai scored a stoppage-time equaliser from the penalty spot to rescue a 2-2 draw for Liverpool at Newcastle United on Sunday.",
+      "publishedAt": "2026-08-23T17:58:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705835_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49703061/liverpool-score-stoppage-penalty-draw-newcastle",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 49673943,
+      "source": "ESPN",
+      "headline": "Last-gasp Liverpool claim draw at Newcastle",
+      "description": "Dominik Szoboszlai converted a stoppage-time penalty to snatch a draw as Newcastle and Liverpool served up a Premier League thriller of which Kevin Keegan would have been proud.",
+      "publishedAt": "2026-08-23T17:44:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705836_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879319",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49701850,
+      "source": "ESPN",
+      "headline": "With Guéhi in midfield, Maresca makes transfer needs clear in Man City win",
+      "description": "Marc Guéhi was given a surprise role in center midfield against Bournemouth. Enzo Maresca will hope he never has to do so again.",
+      "publishedAt": "2026-08-23T17:38:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705784_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49701850/with-marc-guehi-midfield-enzo-maresca-sends-statement-man-city-win-bournemouth",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "AFC Bournemouth"
+      ]
+    },
+    {
       "id": 49661948,
       "source": "ESPN",
-      "headline": "European soccer live updates: Man City begin season vs. Bournemouth; Villa face Brighton",
-      "description": "We have more matches this Sunday with Man City, Liverpool, Barcelona and more in action.",
-      "publishedAt": "2026-08-23T12:45:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705664_1296x729_16-9.jpg",
+      "headline": "European soccer live updates: Liverpool manage comeback draw vs. Newcastle",
+      "description": "Follow all the action this Sunday with Man City, Liverpool, Barcelona and more in action.",
+      "publishedAt": "2026-08-23T17:37:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705830_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49661948/european-soccer-live-updates-manchester-city-liverpool-barcelona-ac-milan-juventus",
       "tag": "Manchester City",
       "teams": [
@@ -15,6 +54,157 @@
         "AFC Bournemouth",
         "Aston Villa",
         "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 49701780,
+      "source": "ESPN",
+      "headline": "Two late goals save Man City blushes against Bournemouth in Premier League opener",
+      "description": "Late goals from Marc Guéhi and Josko Gvardiol rescued Manchester City who eventually beat Bournemouth 2-1 in their Premier League opener.",
+      "publishedAt": "2026-08-23T16:50:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705744_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49701780/two-late-goals-save-man-city-blushes-bournemouth-premier-league-opener",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "AFC Bournemouth"
+      ]
+    },
+    {
+      "id": 49702459,
+      "source": "ESPN",
+      "headline": "Nicol: Title challengers win games like Man City did vs. Bournemouth",
+      "description": "Nicol: Title challengers win games like Man City did vs. Bournemouth",
+      "publishedAt": "2026-08-23T16:22:44Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_Analysis_Nicol_Title_challengers_win_games_like_Man_City_did_vs_Bournemouth_20260823_G/dm_260823_COM_SOC_Analysis_Nicol_Title_challengers_win_games_like_Man_City_did_vs_Bournemouth_20260823_G.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49702459/title-challengers-win-games-man-city-did-vs-bournemouth",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49702415,
+      "source": "ESPN",
+      "headline": "Nicol: Anderson's good, but he's 'just not Rodri' for Man City",
+      "description": "Nicol: Anderson's good, but he's 'just not Rodri' for Man City",
+      "publishedAt": "2026-08-23T16:21:45Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_Nicol_Andersons_good_but_hes_just_not_Rodri_for_Man_City/dm_260823_Nicol_Andersons_good_but_hes_just_not_Rodri_for_Man_City.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49702415/anderson-good-just-not-rodri-man-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49702124,
+      "source": "ESPN",
+      "headline": "Newcastle, Liverpool pay joint tribute to Kevin Keegan before Premier League clash",
+      "description": "Newcastle United and Liverpool paid tribute to Kevin Keegan ahead of their Premier League clash at St James' Park on Sunday, with both sides honouring the former player and manager following his death.",
+      "publishedAt": "2026-08-23T16:15:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705768_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49702124/newcastle-liverpool-pay-tribute-kevin-keegan-premier-league-clash",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49702355,
+      "source": "ESPN",
+      "headline": "Chelsea's Xabi Alonso: 'World class' Cole Palmer is over his injury problems",
+      "description": "Chelsea manager Xabi Alonso said Cole Palmer is over the injury problems that wrecked his season and is determined to get back to enjoying playing football.",
+      "publishedAt": "2026-08-23T16:05:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0405/r1638833_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49702355/world-class-cole-palmer-injury-problems",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49700838,
+      "source": "ESPN",
+      "headline": "Man City vs Bournemouth player ratings as Enzo Maresca's side secures a comeback win",
+      "description": "How Manchester City's players fared on a nervy afternoon at the Etihad Stadium.",
+      "publishedAt": "2026-08-23T15:45:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705748_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49700838/man-city-player-ratings-bournemouth-premier-league-enzo-maresca-marc-guehi-josko-gvardiol",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49673912,
+      "source": "ESPN",
+      "headline": "Brilliant Brighton batter dreadful Aston Villa",
+      "description": "Jack Hinshelwood struck twice in two first-half minutes as rampant Brighton ruthlessly exploited Aston Villa's summer exodus with a thumping 4-0 Premier League victory.",
+      "publishedAt": "2026-08-23T15:27:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705757_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879297",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49673916,
+      "source": "ESPN",
+      "headline": "Man City strike late to break Bournemouth's hearts",
+      "description": "Manchester City produced a dramatic late fightback to snatch a 2-1 victory over Bournemouth in Enzo Maresca's first Premier League match as their manager.",
+      "publishedAt": "2026-08-23T15:23:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705746_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879320",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "AFC Bournemouth"
+      ]
+    },
+    {
+      "id": 49700150,
+      "source": "ESPN",
+      "headline": "New season, new haircut: Erling Haaland ditches iconic long hair for new season",
+      "description": "Erling Haaland shared his latest viral social media post, showing him cutting his long blonde hair in favour of a buzz cut.",
+      "publishedAt": "2026-08-23T15:09:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705662_502x282_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49700150/man-city-erling-haaland-ditches-iconic-long-hair-premier-league-season",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Norway"
+      ]
+    },
+    {
+      "id": 49699929,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Nottingham Forest bid £70M for Igor Thiago",
+      "description": "Nottingham Forest want Brazil striker Igor Thiago, and Barcelona continue their search for a No. 9. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-23T13:23:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705658_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49699929/transfer-rumors-news-nottingham-forest-bid-70m-igor-thiago",
+      "tag": "Brazil",
+      "teams": [
+        "Brazil",
+        "Brentford",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49701043,
+      "source": "ESPN",
+      "headline": "Michael Carrick: 'Ridiculous' to claim Man United lack passion",
+      "description": "Michael Carrick has hit back at criticism of his Manchester United players following the opening day defeat to Hull City by insisting it is \"ridiculous\" to claim they lacked passion.",
+      "publishedAt": "2026-08-23T12:57:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705687_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49701043/michael-carrick-ridiculous-claim-man-united-lack-passion",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
       ]
     },
     {
@@ -31,18 +221,15 @@
       ]
     },
     {
-      "id": 49700150,
-      "source": "ESPN",
-      "headline": "New season, new haircut: Erling Haaland ditches iconic long hair for new season",
-      "description": "Erling Haaland shared his latest viral social media post, showing him cutting his long blonde hair in favour of a buzz cut.",
-      "publishedAt": "2026-08-23T11:59:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705662_502x282_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49700150/man-city-erling-haaland-ditches-iconic-long-hair-premier-league-season",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Norway"
-      ]
+      "id": "52721ceab203d9fca0c9343be83a3ce1",
+      "source": "Sky Sports",
+      "headline": "Man City agree record-breaking deal with Lille to sign Bouaddi",
+      "description": "Manchester City have agreed a deal with Lille for Morocco international midfielder Ayyoub Bouaddi worth up to £86m (€100m).",
+      "publishedAt": "2026-08-23T12:02:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-ayyoub-bouaddi_7318919.jpg?20260811132349",
+      "link": "https://www.skysports.com/football/news/12040/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49700554,
@@ -58,19 +245,15 @@
       ]
     },
     {
-      "id": 49699929,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Nottingham Forest bid £70m for Igor Thiago",
-      "description": "Nottingham Forest want Brazil striker Igor Thiago, and Barcelona continue their search for a No. 9. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-23T10:01:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705658_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49699929/transfer-rumors-news-nottingham-forest-bid-70m-igor-thiago",
-      "tag": "Brazil",
-      "teams": [
-        "Brazil",
-        "Brentford",
-        "Nottingham Forest"
-      ]
+      "id": "59e8d848677f95a7fbbc4784e24cb150",
+      "source": "Sky Sports",
+      "headline": "Brighton capitalise on Torres' error to take lead vs Aston Villa LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-23T11:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-brighton_7329087.jpg?20260823141243",
+      "link": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/live/559450",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48944912,
@@ -259,17 +442,6 @@
       ]
     },
     {
-      "id": "b78b1f3819430e3dfda2a848d6943026",
-      "source": "Sky Sports",
-      "headline": "Papers: Arsenal pair Arteta and Berta in 'frequent contact' with Alvarez",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-08-22T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49693373,
       "source": "ESPN",
       "headline": "Brentford are everything Spurs want to be. Can De Zerbi bridge the gap?",
@@ -284,31 +456,6 @@
       ]
     },
     {
-      "id": 49691616,
-      "source": "ESPN",
-      "headline": "Michael Carrick: Man United should not panic after humbling Hull defeat",
-      "description": "Manchester United head coach Michael Carrick insisted it was not the time to panic despite watching his team fall to a humbling 2-0 defeat to newly-promoted Hull City on Saturday.",
-      "publishedAt": "2026-08-22T19:46:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705282_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49691616/michael-carrick-man-united-panic-humbling-hull-defeat",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": "0f6b8d8f7625b1e1e45ec7625b3d35fd",
-      "source": "Sky Sports",
-      "headline": "Hits and misses: Man Utd lack guts and fight, but can Leeds dare to dream?",
-      "description": "",
-      "publishedAt": "2026-08-22T19:20:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-hits-and-misses_7328560.jpg?20260822183501",
-      "link": "https://www.skysports.com/football/news/12040/13575708/man-utd-lack-guts-and-fight-leeds-have-a-right-to-dream-and-arsenal-have-rejuvenated-attack-premier-league-hits-and-misses",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49693600,
       "source": "ESPN",
       "headline": "Nicol: Tottenham got bullied by Brentford",
@@ -321,172 +468,11 @@
         "Brentford",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 49673903,
-      "source": "ESPN",
-      "headline": "Tottenham thumped by Brentford in Premier League opener",
-      "description": "Tottenham's expensive summer rebuild was shaken to its foundations by rampant Brentford on an alarming opening day for Roberto De Zerbi's side.",
-      "publishedAt": "2026-08-22T19:15:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705383_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879321",
-      "tag": "Brentford",
-      "teams": [
-        "Brentford",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "873c78e7f6e427511c12c21205199bb1",
-      "source": "Sky Sports",
-      "headline": "Dundee claim derby bragging rights with victory over winless Dundee United",
-      "description": "Dundee enjoyed another memorable trip across the road as they secured a deserved 2-0 derby victory away to Dundee United to move joint-top of the fledgling Scottish Premiership table.",
-      "publishedAt": "2026-08-22T19:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-owen-bevan-dundee_7328614.jpg?20260822192706",
-      "link": "https://www.skysports.com/football/dundee-united-vs-dundee/report/558345",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 49692819,
-      "source": "ESPN",
-      "headline": "New season, same streak: Viral Man United fan's haircut challenge continues",
-      "description": "Viral Manchester United fan Frank Ilett could have been days away from completing his haircut challenge. After defeat to Hull City, he's back to square one.",
-      "publishedAt": "2026-08-22T17:50:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0210/r1613205_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49692819/viral-man-united-fan-haircut-challenge-continues",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49692822,
-      "source": "ESPN",
-      "headline": "Return to Sender: Ex-Sunderland man Jack Clarke ruins Elvis Presley kit debut",
-      "description": "Sunderland's debut outing in their Elvis Presley-inspired pink kit ended in a case of 'Heartbreak Hotel' after they conceded in the 90th minute to lose 2-1 at Ipswich.",
-      "publishedAt": "2026-08-22T17:44:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705366_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49692822/sunderland-elvis-presley-kit-debut-jack-clarke-ipswich",
-      "tag": "Sunderland",
-      "teams": [
-        "Sunderland",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49673858,
-      "source": "ESPN",
-      "headline": "Everton start Premier League campaign with 2-0 win over Crystal Palace as Prime Minister attends",
-      "description": "Thierno Barry scored in Everton's comfortable 2-0 Premier League victory over Crystal Palace to give manager David Moyes one less thing to worry about -- for now.",
-      "publishedAt": "2026-08-22T16:28:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705316_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879300",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Crystal Palace"
-      ]
-    },
-    {
-      "id": 49673874,
-      "source": "ESPN",
-      "headline": "Ipswich Town mark Premier League return with win over Sunderland as Jack Clarke pops up late",
-      "description": "Jack Clarke fired newly-promoted Ipswich to an opening-day victory with a 90th-minute winner to down old club Sunderland.",
-      "publishedAt": "2026-08-22T16:21:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705311_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879299",
-      "tag": "Ipswich Town",
-      "teams": [
-        "Ipswich Town",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49692222,
-      "source": "ESPN",
-      "headline": "Carrick describes opening game defeat to Hull City as 'hugely disappointing'",
-      "description": "Carrick describes opening game defeat to Hull City as 'hugely disappointing'.",
-      "publishedAt": "2026-08-22T16:17:28Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Carrick_describes_opening_game_defeat_to_Hull_City_as_hugely_disappointing/dm_260822_Carrick_describes_opening_game_defeat_to_Hull_City_as_hugely_disappointing.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49692222/carrick-describes-opening-game-defeat-hull-city-hugely-disappointing",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49691465,
-      "source": "ESPN",
-      "headline": "Too soon to panic? Man United see problems exposed in Hull City defeat",
-      "description": "Was Man United's season-opening defeat to newly promoted Hull City a bump in the road or a warning sign of a difficult campaign to come?",
-      "publishedAt": "2026-08-22T16:03:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705243_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49691465/too-soon-panic-man-united-see-problems-exposed-hull-city-defeat",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49673898,
-      "source": "ESPN",
-      "headline": "Anton Stack free kick helps Leeds beat Nottingham Forest",
-      "description": "Anton Stach's late free kick saw Leeds kick off their Premier League campaign with a 1-0 win at Nottingham Forest.",
-      "publishedAt": "2026-08-22T16:02:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705302_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879298",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 49691944,
-      "source": "ESPN",
-      "headline": "Bruno Fernandes: 'Same mistakes, every away game' to blame for Man United loss to Hull",
-      "description": "Manchester United captain Bruno Fernandes said the \"same mistakes\" were responsible for his side's shock 2-0 defeat to newly-promoted Hull City in their opening game of the Premier League season on Saturday.",
-      "publishedAt": "2026-08-22T15:56:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705300_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49691944/bruno-fernandes-same-mistakes-man-united-loss-hull",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49691677,
-      "source": "ESPN",
-      "headline": "Andy Burnham unable to sit in usual Everton seat after becoming Prime Minister",
-      "description": "Prime Minister Andy Burnham took an afternoon off from running the country to watch his beloved Everton play Crystal Palace at Hill Dickinson Stadium.",
-      "publishedAt": "2026-08-22T15:22:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694805_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49691677/andy-burnham-unable-sit-usual-everton-seat-becoming-prime-minister",
-      "tag": "Everton",
-      "teams": [
-        "Everton"
-      ]
-    },
-    {
-      "id": 49691276,
-      "source": "ESPN",
-      "headline": "Ian Wright: Gabriel Martinelli deserves 'more respect' at Arsenal",
-      "description": "Ian Wright said Arsenal's handling of Gabriel Martinelli's potential exit from the club has left him feeling \"uncomfortable\" and claimed the forward deserves \"more respect.\"",
-      "publishedAt": "2026-08-22T14:42:34Z",
-      "image": "https://a.espncdn.com/photo/2025/0129/r1444798_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49691276/gabriel-martinelli-deserves-more-respect-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-23T12:59:48.408Z"
+    "cachedAt": "2026-08-23T18:46:06.279Z"
   }
 }
