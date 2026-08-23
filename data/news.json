@@ -2,11 +2,185 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49695452,
+      "source": "ESPN",
+      "headline": "Herrington's dream start to life in Premier League",
+      "description": "Teenage Socceroos star Lucas Herrington has made a dream start to life in the Premier League, coming on as a second-half substitute in Hull City's boilover 2-0 victory over giants Manchester United.",
+      "publishedAt": "2026-08-23T00:36:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705509_1296x518_5-2.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49695452/premier-league-hull-city-lucas-herrington-dream-start-life-epl",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Australia"
+      ]
+    },
+    {
+      "id": 49695870,
+      "source": "ESPN",
+      "headline": "Hull City stun Manchester United in historic 2-0 upset",
+      "description": "Newly promoted Hull City silence the doubters and secure their first ever EPL victory against Manchester United in their return to the top-flight division.",
+      "publishedAt": "2026-08-22T23:55:05Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_EPL_Highlight_Hull_City_stun_Manchester_United_in_historic_20_upset_20260823_AUS_ONLY/dm_260822_EPL_Highlight_Hull_City_stun_Manchester_United_in_historic_20_upset_20260823_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49695870/hull-city-stun-manchester-united-historic-2-0-upset",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49661606,
+      "source": "ESPN",
+      "headline": "European soccer recap: Madrid nab late winner over Espanyol",
+      "description": "",
+      "publishedAt": "2026-08-22T22:52:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705482_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49661606/european-soccer-live-updates-manchester-united-real-madrid-tottenham",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49695348,
+      "source": "ESPN",
+      "headline": "Will Liverpool start their season with a win vs. Newcastle?",
+      "description": "Will Liverpool start their season with a win vs. Newcastle?",
+      "publishedAt": "2026-08-22T22:29:36Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_COM_SOC_Analysis_Will_Liverpool_start_their_season_with_a_win_vs_Newcastle_20260822_GLOBAL/dm_260822_COM_SOC_Analysis_Will_Liverpool_start_their_season_with_a_win_vs_Newcastle_20260822_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49695348/will-liverpool-start-their-season-win-vs-newcastle",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49695282,
+      "source": "ESPN",
+      "headline": "Dawson: Rashford will have to play key role for Man United this season",
+      "description": "Dawson: Rashford will have to play key role for Man United this season.",
+      "publishedAt": "2026-08-22T22:16:29Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Dawson_Rashford_will_have_to_play_key_role_for_Man_United_this_season/dm_260822_Dawson_Rashford_will_have_to_play_key_role_for_Man_United_this_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49695282/rashford-play-key-role-man-united-season",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49694117,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi: Tottenham 'not a team yet' and lacking fight after Brentford defeat",
+      "description": "Roberto De Zerbi has said that Tottenham are undercooked and \"lacking fight\" after they slumped to a 3-0 defeat at Brentford.",
+      "publishedAt": "2026-08-22T21:30:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705429_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49694117/roberto-de-zerbi-tottenham-not-team-yet-lacking-fight-brentford-defeat",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Brentford"
+      ]
+    },
+    {
+      "id": "550bae29819f76821704f690411e6e26",
+      "source": "Sky Sports",
+      "headline": "De Zerbi admits 'we're not a team yet' as Redknapp labels Spurs 'strangers'",
+      "description": "Tottenham boss Roberto De Zerbi believes their dismal 3-0 opening-season defeat at Brentford shows his new-look side are \"not a team yet\" after a big summer of spending.",
+      "publishedAt": "2026-08-22T21:20:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-tottenham-spurs-sandro-tonali_7328773.jpg?20260822221504",
+      "link": "https://www.skysports.com/football/news/12040/13575888/roberto-de-zerbi-tottenham-boss-admits-were-not-a-team-yet-after-new-look-side-suffer-dismal-brentford-loss",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49689130,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool eye Endrick in case Minteh deal fails",
+      "description": "Liverpool want Brighton's Yankuba Minteh, but they have a plan should they fail to make a deal. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-22T21:08:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705202_1252x705_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49689130/transfer-rumors-news-liverpool-eye-endrick-case-minteh-deal-fails",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Real Madrid",
+        "Brazil"
+      ]
+    },
+    {
+      "id": "b78b1f3819430e3dfda2a848d6943026",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal pair Arteta and Berta in 'frequent contact' with Alvarez",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-08-22T21:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49693373,
+      "source": "ESPN",
+      "headline": "Brentford are everything Spurs want to be. Can De Zerbi bridge the gap?",
+      "description": "Brentford beat Tottenham Hotspur and new manager Roberto De Zerbi at their own game, showing the scale of the task ahead for the Italian.",
+      "publishedAt": "2026-08-22T20:13:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705412_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49693373/brentford-everything-spurs-want-de-zerbi-bridge-gap",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49691616,
+      "source": "ESPN",
+      "headline": "Michael Carrick: Man United should not panic after humbling Hull defeat",
+      "description": "Manchester United head coach Michael Carrick insisted it was not the time to panic despite watching his team fall to a humbling 2-0 defeat to newly-promoted Hull City on Saturday.",
+      "publishedAt": "2026-08-22T19:46:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705282_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49691616/michael-carrick-man-united-panic-humbling-hull-defeat",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "0f6b8d8f7625b1e1e45ec7625b3d35fd",
+      "source": "Sky Sports",
+      "headline": "Hits and misses: Man Utd lack guts and fight, but can Leeds dare to dream?",
+      "description": "",
+      "publishedAt": "2026-08-22T19:20:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-hits-and-misses_7328560.jpg?20260822183501",
+      "link": "https://www.skysports.com/football/news/12040/13575708/man-utd-lack-guts-and-fight-leeds-have-a-right-to-dream-and-arsenal-have-rejuvenated-attack-premier-league-hits-and-misses",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49693600,
+      "source": "ESPN",
+      "headline": "Nicol: Tottenham got bullied by Brentford",
+      "description": "Nicol: Tottenham got bullied by Brentford",
+      "publishedAt": "2026-08-22T19:18:17Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Nicol_Tottenham_got_bullied_by_Brentford/dm_260822_Nicol_Tottenham_got_bullied_by_Brentford.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49693600/tottenham-got-bullied-brentford",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
       "id": 49673903,
       "source": "ESPN",
       "headline": "Tottenham thumped by Brentford in Premier League opener",
       "description": "Tottenham's expensive summer rebuild was shaken to its foundations by rampant Brentford on an alarming opening day for Roberto De Zerbi's side.",
-      "publishedAt": "2026-08-22T18:42:57Z",
+      "publishedAt": "2026-08-22T19:15:00Z",
       "image": "https://a.espncdn.com/photo/2026/0822/r1705383_1296x729_16-9.jpg",
       "link": "http://www.espn.com/soccer/report/_/gameId/401879321",
       "tag": "Brentford",
@@ -14,6 +188,17 @@
         "Brentford",
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": "873c78e7f6e427511c12c21205199bb1",
+      "source": "Sky Sports",
+      "headline": "Dundee claim derby bragging rights with victory over winless Dundee United",
+      "description": "Dundee enjoyed another memorable trip across the road as they secured a deserved 2-0 derby victory away to Dundee United to move joint-top of the fledgling Scottish Premiership table.",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-owen-bevan-dundee_7328614.jpg?20260822192706",
+      "link": "https://www.skysports.com/football/dundee-united-vs-dundee/report/558345",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49692819,
@@ -153,35 +338,6 @@
       ]
     },
     {
-      "id": 49691616,
-      "source": "ESPN",
-      "headline": "Michael Carrick: Man United should not panic after humbling Hull defeat",
-      "description": "Manchester United head coach Michael Carrick insisted it was not the time to panic despite watching his team fall to a humbling 2-0 defeat to newly-promoted Hull City on Saturday.",
-      "publishedAt": "2026-08-22T15:16:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705282_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49691616/michael-carrick-man-united-panic-humbling-hull-defeat",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49689130,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye Endrick in case Minteh deal fails",
-      "description": "Liverpool want Brighton's Yankuba Minteh, but they have a plan should they fail to make a deal. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-22T15:14:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705202_1252x705_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49689130/transfer-rumors-news-liverpool-eye-endrick-case-minteh-deal-fails",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Real Madrid",
-        "Brazil"
-      ]
-    },
-    {
       "id": 49691276,
       "source": "ESPN",
       "headline": "Ian Wright: Gabriel Martinelli deserves 'more respect' at Arsenal",
@@ -278,17 +434,6 @@
       ]
     },
     {
-      "id": "51eaeeb7ce329b6f73c90777059e2a80",
-      "source": "Sky Sports",
-      "headline": "Everton vs Crystal Palace team news LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-22T12:00:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-iliman-ndiaye-everton_7259941.jpg?20260528003138",
-      "link": "https://www.skysports.com/football/everton-vs-crystal-palace/live/559446",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49689666,
       "source": "ESPN",
       "headline": "Alexander Isak encouraged to 'open spaces' for Liverpool teammates by Andoni Iraola",
@@ -302,49 +447,6 @@
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-22T11:12:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": "0afae6f566018157d57450f5ff8c1bfe",
-      "source": "Sky Sports",
-      "headline": "Millwall, Pompey lead; Birmingham peg back Bristol City - EFL LIVE on Sky!",
-      "description": "",
-      "publishedAt": "2026-08-22T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-millwall-norwich_7328042.jpg?20260822125504",
-      "link": "https://www.skysports.com/football/live-blog/12040/13575067/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49689220,
       "source": "ESPN",
       "headline": "João Pedro signs new contract with Chelsea until 2032, option of two further years",
@@ -356,127 +458,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49688814,
-      "source": "ESPN",
-      "headline": "Man City boss Enzo Maresca backs Phil Foden to rediscover his spark this season",
-      "description": "Enzo Maresca is hopeful Phil Foden will rediscover his spark this season.",
-      "publishedAt": "2026-08-22T08:53:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705176_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49688814/man-city-boss-enzo-maresca-backs-phil-foden-rediscover-spark-season",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 48944912,
-      "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-22T06:25:40Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49684284,
-      "source": "ESPN",
-      "headline": "Arsenal rout Coventry in 'perfect start' to Premier League title defense",
-      "description": "Arsenal made light work of Premier League newcomers Coventry City as the Gunners began their title defense with a statement 3-0 win at the Emirates Stadium on Friday.",
-      "publishedAt": "2026-08-22T00:02:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1705019_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49684284/arsenal-coventry-city-premier-league-result",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 49685535,
-      "source": "ESPN",
-      "headline": "Arsenal off to perfect start after 3-0 win over Coventry City",
-      "description": "The Gunners have started their title defence in the best possible way, with a 3-0 win over newly-promoted Coventry City at the Emirates.",
-      "publishedAt": "2026-08-21T23:59:38Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0821/dm_260821_Soccer_Highlight_Arsenal_off_to_perfect_start_after_30_win_over_Coventry_City_20260822_AUS/dm_260821_Soccer_Highlight_Arsenal_off_to_perfect_start_after_30_win_over_Coventry_City_20260822_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49685535/arsenal-perfect-start-3-0-win-coventry-city",
-      "tag": "Media",
-      "teams": []
-    },
-    {
-      "id": 49684722,
-      "source": "ESPN",
-      "headline": "Arsenal's Mikel Arteta downplays Bruno Guimarães injury",
-      "description": "Mikel Arteta has played down the severity of Bruno Guimarães' groin problem after the midfielder missed Arsenal's 3-0 win over Coventry City on Friday.",
-      "publishedAt": "2026-08-21T23:42:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1705046_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49684722/arsenal-mikel-arteta-downplays-severity-bruno-guimaraes-groin-issue-missing-win-coventry",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49685260,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi defends Tottenham summer spending spree",
-      "description": "Tottenham Hotspur head coach Roberto De Zerbi has defended his club's big-spending summer transfer window, adding that he is ready to set \"big ambitions\" for his new-look team.",
-      "publishedAt": "2026-08-21T23:34:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1705076_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49685260/roberto-de-zerbi-tottenham-hotspur-transfers",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49685051,
-      "source": "ESPN",
-      "headline": "Michael Carrick calls for Man United to 'evolve,' targets second year in Champions League places",
-      "description": "Michael Carrick is targeting another Champions League finish as the Manchester United manager seeks evolution and improvement, as the path to a long-awaited Premier League title continues.",
-      "publishedAt": "2026-08-21T22:57:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1705057_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49685051/michael-carrick-manchester-united-evolve-champions-league-top-4",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": "dd41e04d6a4e26630b68b4d7f4636b7f",
-      "source": "Sky Sports",
-      "headline": "Rashford on as lacklustre Man Utd look for a way back vs Hull LIVE!",
-      "description": "",
-      "publishedAt": "2026-07-21T09:41:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-hull_7328093.jpg?20260822135912",
-      "link": "https://www.skysports.com/football/hull-city-vs-manchester-united/live/559447",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-22T18:46:59.520Z"
+    "cachedAt": "2026-08-23T01:57:52.165Z"
   }
 }

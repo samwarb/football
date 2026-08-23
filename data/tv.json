@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "brentford|tottenham hotspur": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "brighton and hove albion|aston villa": [
       "Sky Sports Premier League"
     ],
@@ -213,6 +209,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-22T18:46:59.941Z"
+    "cachedAt": "2026-08-23T01:57:51.893Z"
   }
 }
