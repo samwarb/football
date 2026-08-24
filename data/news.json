@@ -2,107 +2,176 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49711180,
+      "source": "ESPN",
+      "headline": "Man United monitor Alejandro Balde at Barcelona - sources",
+      "description": "Manchester United are monitoring Alejandro Balde's situation at Barcelona ahead of a potential move before the transfer deadline, sources have told ESPN.",
+      "publishedAt": "2026-08-24T13:01:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0606/r1669122_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49711180/man-united-monitor-alejandro-balde-barcelona-sources",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49709318,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City ready to sign Enzo Fernández for £120M",
+      "description": "Manchester City are ready to meet Chelsea's £120 million asking price for the transfer of midfielder Enzo Fernández. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-24T12:54:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1662564_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49709318/transfer-rumors-news-man-city-ready-sign-enzo-fernandez-120m",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49710872,
+      "source": "ESPN",
+      "headline": "Laurens expects 'outstanding' Minteh to make late Liverpool move",
+      "description": "Laurens expects 'outstanding' Minteh to make late Liverpool move",
+      "publishedAt": "2026-08-24T11:55:06Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_COM_SOC_Analysis_Laurens_expects_outstanding_Minteh_to_make_late_Liverpool_move_20260824_GLOBA/dm_260824_COM_SOC_Analysis_Laurens_expects_outstanding_Minteh_to_make_late_Liverpool_move_20260824_GLOBA.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49710872/laurens-expects-outstanding-minteh-make-late-liverpool-move",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49710404,
+      "source": "ESPN",
+      "headline": "Arsenal ready if Julián Álvarez transfer door opens - sources",
+      "description": "Arsenal are ready to make a move for Julián Álvarez in the final week of the transfer window if they receive encouragement, sources told ESPN.",
+      "publishedAt": "2026-08-24T11:17:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706143_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49710404/arsenal-ready-swoop-julian-alvarez-atletico-madrid-sources",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Atlético Madrid"
+      ]
+    },
+    {
+      "id": 49710514,
+      "source": "ESPN",
+      "headline": "Does Iraola need to change Liverpool's formation?",
+      "description": "Does Iraola need to change Liverpool's formation?",
+      "publishedAt": "2026-08-24T11:12:58Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_COM_SOC_Analysis_Does_Iraola_need_to_change_Liverpools_formation_20260824_GLOBAL/dm_260824_COM_SOC_Analysis_Does_Iraola_need_to_change_Liverpools_formation_20260824_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49710514/does-iraola-need-change-liverpool-formation",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49710499,
+      "source": "ESPN",
+      "headline": "Laurens: Newcastle executed 'perfect plan' vs. Liverpool",
+      "description": "Laurens: Newcastle executed 'perfect plan' vs. Liverpool",
+      "publishedAt": "2026-08-24T11:08:00Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_COM_SOC_Analysis_Laurens_Newcastle_executed_perfect_plan_vs_Liverpool_20260824_GLOBAL/dm_260824_COM_SOC_Analysis_Laurens_Newcastle_executed_perfect_plan_vs_Liverpool_20260824_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49710499/newcastle-executed-perfect-plan-vs-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49709884,
+      "source": "ESPN",
+      "headline": "Virgil van Dijk 'fully trusts' Liverpool in transfer market",
+      "description": "Virgil van Dijk has said he \"fully trusts\" Liverpool to make the right decisions in the transfer market before the window shuts next week.",
+      "publishedAt": "2026-08-24T11:00:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706130_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49709884/virgil-van-dijk-fully-trusts-liverpool-transfer-market",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49709434,
+      "source": "ESPN",
+      "headline": "Morgan Rogers: Xabi Alonso 'could probably still play in the Premier League now'",
+      "description": "New Chelsea signing Morgan Rogers said that Xabi Alonso \"could probably still play in the Premier League\" due to his ability to pass a ball in training.",
+      "publishedAt": "2026-08-24T08:54:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0725/r1693618_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49709434/morgan-rogers-chelsea-xabi-alonso-probably-play-premier-league-now",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49709745,
+      "source": "ESPN",
+      "headline": "Burley & Nicol question 'scared' Van Dijk",
+      "description": "Burley & Nicol question 'scared' Van Dijk",
+      "publishedAt": "2026-08-24T08:53:24Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_COM_SOC_Analysis_Burley_Nicol_question_scared_Van_Dijk_20260824_GLOBAL/dm_260824_COM_SOC_Analysis_Burley_Nicol_question_scared_Van_Dijk_20260824_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49709745/burley-nicol-question-scared-van-dijk",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Netherlands"
+      ]
+    },
+    {
       "id": 49709399,
       "source": "ESPN",
-      "headline": "Brighton fan, 73, dies after falling ill after Aston Villa match",
+      "headline": "Brighton fan, 72, dies after falling ill after Aston Villa match",
       "description": "A Brighton fan has died after falling ill as he was leaving the stadium following their 4-0 win over Aston Villa, the club have confirmed.",
-      "publishedAt": "2026-08-24T07:15:10Z",
+      "publishedAt": "2026-08-24T08:51:44Z",
       "image": "https://a.espncdn.com/photo/2018/1027/r453825_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49709399/brighton-fan-73-dies-falling-ill-aston-villa-match",
+      "link": "https://www.espn.com/soccer/story/_/id/49709399/brighton-fan-72-dies-falling-ill-aston-villa-match",
       "tag": "Brighton & Hove Albion",
       "teams": [
         "Brighton & Hove Albion"
       ]
     },
     {
-      "id": 48944912,
+      "id": 49668709,
       "source": "ESPN",
-      "headline": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "description": "Everything that Premier League and EFL supporters need to know about the 2026 summer transfer window, and key dates around it.",
-      "publishedAt": "2026-08-24T06:50:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703775_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "headline": "Arsenal want another Premier League title, but it won't come easy",
+      "description": "Arsenal's Premier League title win was a triumph for Mikel Arteta & Co., but their desire to defend their crown will be a much tougher challenge. Just ask former title winners who fell short of a repeat.",
+      "publishedAt": "2026-08-24T08:17:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706058_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49668709/premier-league-arsenal-title-mikel-arteta-challenges-dynasty-mark-ogden",
       "tag": "Arsenal",
       "teams": [
-        "Arsenal",
-        "Aston Villa",
-        "AFC Bournemouth",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Crystal Palace",
-        "Fulham",
-        "Leeds United",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Coventry City",
-        "Hull City"
+        "Arsenal"
       ]
     },
     {
-      "id": 48955344,
-      "source": "ESPN",
-      "headline": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "description": "Here's every Premier League in and out before the 2026-27 season begins.",
-      "publishedAt": "2026-08-24T06:44:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Everton",
-        "Leeds United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Crystal Palace",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Fulham",
-        "Coventry City",
-        "Hull City",
-        "Ipswich Town"
-      ]
+      "id": "e89bf4088a730ed533efea686e0ae9f3",
+      "source": "Sky Sports",
+      "headline": "Could Balde be on his way to Man Utd?",
+      "description": "Sky Sports News takes you through the back pages of the morning papers, including possible ins and outs at Manchester United.",
+      "publishedAt": "2026-08-24T07:14:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-papers-alejandro_7329772.jpg?20260824081658",
+      "link": "https://www.skysports.com/watch/video/13576530/paper-talk-could-alejandro-balde-be-on-his-way-to-man-utd",
+      "tag": "Video",
+      "teams": []
     },
     {
-      "id": 49673912,
-      "source": "ESPN",
-      "headline": "Brilliant Brighton batter dreadful Aston Villa",
-      "description": "Jack Hinshelwood struck twice in two first-half minutes as rampant Brighton ruthlessly exploited Aston Villa's summer exodus with a thumping 4-0 Premier League victory.",
-      "publishedAt": "2026-08-24T05:09:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705757_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879297",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 42269743,
-      "source": "ESPN",
-      "headline": "Who are the top scorers in Premier League history?",
-      "description": "Alan Shearer has scored the most goals in Premier League history. Which other players are at the top of the list? Check out the breakdown now.",
-      "publishedAt": "2026-08-24T04:25:50Z",
-      "image": "https://a.espncdn.com/photo/2018/0501/r364055_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/42269743/who-top-scorers-premier-league-history",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Arsenal",
-        "Tottenham Hotspur",
-        "Leicester City"
-      ]
+      "id": "fd5fb402aa323a5119f37a09800c7e5d",
+      "source": "Sky Sports",
+      "headline": "Nev on title race: Liverpool, Man City nowhere near levels required",
+      "description": "Liverpool and Manchester City are well below the level required to win the Premier League title this season, says Sky Sports pundit Gary Neville.",
+      "publishedAt": "2026-08-24T06:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-van-dijk-liverpool_7329590.jpg?20260823215938",
+      "link": "https://www.skysports.com/football/news/12040/13576438/premier-league-title-race-liverpool-and-man-city-nowhere-near-arsenals-level-says-gary-neville",
+      "tag": "Article/Blog",
+      "teams": []
     },
     {
       "id": 49708338,
@@ -209,28 +278,6 @@
       ]
     },
     {
-      "id": "2ee1765d51e28ce174b844d54888cf2f",
-      "source": "Sky Sports",
-      "headline": "Hits and misses: Maresca's Man City experiment gets lucky",
-      "description": "",
-      "publishedAt": "2026-08-23T20:57:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-hits-and-misses_7329486.jpg?20260823190658",
-      "link": "https://www.skysports.com/football/news/12040/13576249/enzo-marescas-man-city-experiment-gets-lucky-alexander-isaks-struggles-continue-and-aston-villas-problems-exposed-premier-league-hits-and-misses",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "c1cc20853968ae33b78e7f5e9b32e4b7",
-      "source": "Sky Sports",
-      "headline": "Nev: Wirtz and Isak Liverpool's biggest disappointments - they must improve",
-      "description": "Gary Neville called on Florian Wirtz and Alexander Isak to improve after a year of \"being kind to\" Liverpool's £200m+ duo, but said he had faith the pair would come good despite being their \"biggest disappointments\" at Newcastle.",
-      "publishedAt": "2026-08-23T20:30:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-alexander-isak-florian-wirtz_7329582.jpg?20260823211513",
-      "link": "https://www.skysports.com/football/news/12040/13576437/liverpools-alexander-isak-and-florian-wirtz-biggest-disappointments-says-gary-neville-after-pair-underwhelm-in-draw-at-newcastle",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49704588,
       "source": "ESPN",
       "headline": "Liverpool's Andoni Iraola: Newcastle draw a 'good step' for Alexander Isak",
@@ -257,17 +304,6 @@
         "Liverpool",
         "Newcastle United"
       ]
-    },
-    {
-      "id": "319ebd9c8f8a40e3058d880e8c7684f0",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Iraola says Isak expected hostile return at Newcastle",
-      "description": "",
-      "publishedAt": "2026-08-23T19:12:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49703912,
@@ -339,17 +375,6 @@
       "teams": []
     },
     {
-      "id": "193cf92064acb4878249bd8988f08fd1",
-      "source": "Sky Sports",
-      "headline": "Late Liverpool pen sees Szoboszlai silence Newcastle in draw",
-      "description": "FREE TO WATCH: Highlights from the Premier League match between Newcastle and Liverpool.",
-      "publishedAt": "2026-08-23T17:47:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-football-premier-league_7329455.jpg?20260823183342",
-      "link": "https://www.skysports.com/watch/video/13576408/newcastle-2-2-liverpool-premier-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49673943,
       "source": "ESPN",
       "headline": "Last-gasp Liverpool claim draw at Newcastle",
@@ -361,34 +386,6 @@
       "teams": [
         "Newcastle United",
         "Liverpool"
-      ]
-    },
-    {
-      "id": 49701850,
-      "source": "ESPN",
-      "headline": "With Guéhi in midfield, Maresca makes transfer needs clear in Man City win",
-      "description": "Marc Guéhi was given a surprise role in center midfield against Bournemouth. Enzo Maresca will hope he never has to do so again.",
-      "publishedAt": "2026-08-23T17:38:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705784_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49701850/with-marc-guehi-midfield-enzo-maresca-sends-statement-man-city-win-bournemouth",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 49701780,
-      "source": "ESPN",
-      "headline": "Two late goals save Man City blushes against Bournemouth in Premier League opener",
-      "description": "Late goals from Marc Guéhi and Josko Gvardiol rescued Manchester City who eventually beat Bournemouth 2-1 in their Premier League opener.",
-      "publishedAt": "2026-08-23T16:50:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705744_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49701780/two-late-goals-save-man-city-blushes-bournemouth-premier-league-opener",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "AFC Bournemouth"
       ]
     },
     {
@@ -457,67 +454,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 49673916,
-      "source": "ESPN",
-      "headline": "Man City strike late to break Bournemouth's hearts",
-      "description": "Manchester City produced a dramatic late fightback to snatch a 2-1 victory over Bournemouth in Enzo Maresca's first Premier League match as their manager.",
-      "publishedAt": "2026-08-23T15:23:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705746_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879320",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 49700150,
-      "source": "ESPN",
-      "headline": "New season, new haircut: Erling Haaland ditches iconic long hair for new season",
-      "description": "Erling Haaland shared his latest viral social media post, showing him cutting his long blonde hair in favour of a buzz cut.",
-      "publishedAt": "2026-08-23T15:09:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705662_502x282_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49700150/man-city-erling-haaland-ditches-iconic-long-hair-premier-league-season",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Norway"
-      ]
-    },
-    {
-      "id": 49699929,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Nottingham Forest bid £70M for Igor Thiago",
-      "description": "Nottingham Forest want Brazil striker Igor Thiago, and Barcelona continue their search for a No. 9. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-23T13:23:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705658_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49699929/transfer-rumors-news-nottingham-forest-bid-70m-igor-thiago",
-      "tag": "Brazil",
-      "teams": [
-        "Brazil",
-        "Brentford",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49701043,
-      "source": "ESPN",
-      "headline": "Michael Carrick: 'Ridiculous' to claim Man United lack passion",
-      "description": "Michael Carrick has hit back at criticism of his Manchester United players following the opening day defeat to Hull City by insisting it is \"ridiculous\" to claim they lacked passion.",
-      "publishedAt": "2026-08-23T12:57:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1705687_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49701043/michael-carrick-ridiculous-claim-man-united-lack-passion",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-24T07:17:57.072Z"
+    "cachedAt": "2026-08-24T13:10:45.011Z"
   }
 }
