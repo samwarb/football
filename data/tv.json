@@ -2,16 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "brighton and hove albion|aston villa": [
-      "Sky Sports Premier League"
-    ],
-    "manchester city|bournemouth": [
-      "Sky Sports Main Event"
-    ],
-    "newcastle united|liverpool": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "fulham|chelsea": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -209,6 +199,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-23T18:46:06.858Z"
+    "cachedAt": "2026-08-24T01:55:42.281Z"
   }
 }
