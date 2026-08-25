@@ -2,11 +2,92 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49723938,
+      "source": "ESPN",
+      "headline": "Chelsea's Liam Delap set for £50M Nottingham Forest move as deal reached - sources",
+      "description": "Nottingham Forest have reached a deal to sign Chelsea forward Liam Delap, sources have told ESPN.",
+      "publishedAt": "2026-08-25T18:18:51Z",
+      "image": "https://a.espncdn.com/photo/2025/0822/r1535278_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49723938/chelsea-liam-delap-set-50m-nottingham-forest-move-deal-reached",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-25T17:57:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706746_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49723011,
+      "source": "ESPN",
+      "headline": "Man City's Nico González to join Newcastle for £52 million - sources",
+      "description": "Nico González's transfer from Manchester City to Newcastle United has been agreed, sources have told ESPN.",
+      "publishedAt": "2026-08-25T16:13:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706755_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49723011/man-city-nico-gonzalez-newcastle-united-transfer",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49657167,
+      "source": "ESPN",
+      "headline": "Is Baleba the best replacement for Casemiro at Man United?",
+      "description": "Brighton & Hove Albion midfielder Carlos Baleba has joined Manchester United, but is he the right choice?",
+      "publishedAt": "2026-08-25T16:12:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703770_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49657167/is-carlos-baleba-best-replacement-casemiro-manchester-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 49709524,
+      "source": "ESPN",
+      "headline": "Man United confirm signing of Carlos Baleba from Brighton",
+      "description": "Manchester United have confirmed the arrival of Carlos Baleba from Brighton & Hove Albion.",
+      "publishedAt": "2026-08-25T15:58:14Z",
+      "image": "https://a.espncdn.com/photo/2025/0812/r1530728_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49709524/man-united-confirm-signing-carlos-baleba-brighton",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Brighton & Hove Albion",
+        "Cameroon"
+      ]
+    },
+    {
+      "id": 49722514,
+      "source": "ESPN",
+      "headline": "Arsenal's Bruno Guimarães: Chance to 'make a dynasty' under Mikel Arteta",
+      "description": "Bruno Guimaraes is relishing being part of Mikel Arteta's quest to \"make a dynasty\" at Arsenal.",
+      "publishedAt": "2026-08-25T15:21:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706709_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49722514/arsenal-bruno-guimaraes-mikel-arteta-make-dynasty",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": 49719456,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Could Jackson to Atlético pave way for Álvarez exit?",
       "description": "Atlético Madrid want Chelsea striker Nicolas Jackson, plus Bournemouth's Junior Kroupi is still attracting interest. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-25T12:38:23Z",
+      "publishedAt": "2026-08-25T13:09:25Z",
       "image": "https://a.espncdn.com/photo/2026/0825/r1706604_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49719456/transfer-rumors-news-nicolas-jackson-atletico-madrid-pave-way-julian-alvarez-arsenal-barcelona",
       "tag": "Arsenal",
@@ -121,14 +202,14 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-25T09:24:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0608/r1669864_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
+      "id": "553272ac1b78251d076722eb4abf46ec",
+      "source": "Sky Sports",
+      "headline": "Savinho changes name to Savio as he joins Spurs for £85m",
+      "description": "Tottenham have confirmed the signing of winger Savio from Manchester City in an £85m deal.",
+      "publishedAt": "2026-08-25T09:06:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-savio-transfer-premier-league_7330658.jpg?20260825102114",
+      "link": "https://www.skysports.com/football/news/12040/13575398/savio-transfer-news-tottenham-sign-winger-from-manchester-city-in-85m-deal",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -158,6 +239,17 @@
         "Brentford",
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": "586224721c6fcd6b7461444767761849",
+      "source": "Sky Sports",
+      "headline": "Leeds and Rangers co-owner York arrested",
+      "description": "Leeds United and Rangers co-owner Jed York was arrested over the weekend in Ohio and pleaded no contest to misdemeanour charges of disorderly conduct and possessing criminal tools.",
+      "publishedAt": "2026-08-25T07:44:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-jed-york_7330597.jpg?20260825084623",
+      "link": "https://www.skysports.com/football/news/12040/13576878/leeds-and-rangers-co-owner-jed-york-arrested-in-ohio-and-pleads-no-contest-to-misdemeanour-charges-of-disorderly-conduct-and-possessing-criminal-tools",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49719549,
@@ -213,17 +305,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "4411f0babc21374fd213fe0425bf5962",
-      "source": "Sky Sports",
-      "headline": "Champions? Relegated? One to watch? Carra and Neville's season predictions!",
-      "description": "Jamie Carragher and Gary Neville made their 2026/27 Premier League season predictions on Monday Night Football.",
-      "publishedAt": "2026-08-24T23:05:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-carragher-neville_7330480.jpg?20260824231958",
-      "link": "https://www.skysports.com/football/news/12040/13576703/premier-league-season-predictions-jamie-carragher-and-gary-neville-pick-the-title-winner-and-players-to-watch-in-2026-27",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49716318,
@@ -308,28 +389,6 @@
       ]
     },
     {
-      "id": "043aaf4fe68d273186f92de99c38c272",
-      "source": "Sky Sports",
-      "headline": "Papers: Arsenal ready to make £130m Alvarez push",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-08-24T22:10:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13576722/xxxx-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "439203f47b5daa5739c182501aa0c598",
-      "source": "Sky Sports",
-      "headline": "Five-goal thriller! Palmer & Rogers star as Alonso era begins with win",
-      "description": "FREE TO WATCH: Highlights from Fulham’s match against Chelsea in the Premier League.",
-      "publishedAt": "2026-08-24T21:45:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chelsea-fulham_7330463.jpg?20260824225614",
-      "link": "https://www.skysports.com/watch/video/13576822/fulham-2-3-chelsea-premier-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49662528,
       "source": "ESPN",
       "headline": "Premier League recap: Chelsea beat Fulham in five-goal thriller",
@@ -342,17 +401,6 @@
         "Chelsea",
         "Fulham"
       ]
-    },
-    {
-      "id": "bdbfe94a40bd1f14f4ad5e83153978f0",
-      "source": "Sky Sports",
-      "headline": "Chelsea's electric front three edge out Fulham in pulsating MNF opener",
-      "description": "Cole Palmer was back to his best to get Xabi Alonso's Chelsea career off to a winning start in a chaotic 3-2 victory at Fulham on Monday Night Football.",
-      "publishedAt": "2026-08-24T20:45:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-cole-palmer-morgan-rogers_7330427.jpg?20260824220513",
-      "link": "https://www.skysports.com/football/fulham-vs-chelsea/report/559453",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49714065,
@@ -411,17 +459,6 @@
       ]
     },
     {
-      "id": "b632339e70ca7f8e076034fdfac24055",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: VOTE! How do Blues solve goalkeeper 'problem'?",
-      "description": "",
-      "publishedAt": "2026-08-24T15:23:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49712216,
       "source": "ESPN",
       "headline": "Marcotti: Carrick has work to do at Manchester United",
@@ -433,86 +470,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49712111,
-      "source": "ESPN",
-      "headline": "Marcotti: Cherki has to start for Manchester City",
-      "description": "Marcotti: Cherki has to start for Manchester City",
-      "publishedAt": "2026-08-24T14:49:21Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_COM_SOC_Analysis_Marcotti_Cherki_has_to_start_for_Manchester_City_20260824_GLOBAL/dm_260824_COM_SOC_Analysis_Marcotti_Cherki_has_to_start_for_Manchester_City_20260824_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49712111/cherki-start-manchester-city",
-      "tag": "France",
-      "teams": [
-        "France",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49709885,
-      "source": "ESPN",
-      "headline": "Liverpool face long road back to top, Mourinho's Real Madrid win ugly",
-      "description": "The new European season is here, and with it, the triumphant return of Gab Marcotti's Monday Musings. This week, Liverpool and Man United still look half-baked, and Mourinho gets a vintage kind of win with Real Madrid.",
-      "publishedAt": "2026-08-24T14:18:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706152_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49709885/liverpool-real-madrid-manchester-united-andoni-iraola-barcelona-gab-marcotti-analysis",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Real Madrid",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49711304,
-      "source": "ESPN",
-      "headline": "Tim Sherwood blasts Roberto De Zerbi after Spurs loss: 'Buck stops with the manager'",
-      "description": "Former Tottenham manager Tim Sherwood said the \"buck stops\" with Roberto De Zerbi and his players after he accused Spurs of lacking \"desire and passion\" in their defeat against Brentford.",
-      "publishedAt": "2026-08-24T13:25:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705412_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49711304/tim-sherwood-blasts-roberto-de-zerbi-spurs-loss-buck-stops-manager",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49711325,
-      "source": "ESPN",
-      "headline": "Florian Wirtz 'needs to sort himself out' at Liverpool - Gary Neville",
-      "description": "Liverpool playmaker Florian Wirtz has been told he \"needs to sort himself out\" after an underwhelming maiden campaign.",
-      "publishedAt": "2026-08-24T13:23:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706182_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49711325/florian-wirtz-needs-sort-liverpool-gary-neville",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49711180,
-      "source": "ESPN",
-      "headline": "Man United monitor Alejandro Balde at Barcelona - sources",
-      "description": "Manchester United are monitoring Alejandro Balde's situation at Barcelona ahead of a potential move before the transfer deadline, sources have told ESPN.",
-      "publishedAt": "2026-08-24T13:01:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0606/r1669122_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49711180/man-united-monitor-alejandro-balde-barcelona-sources",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": "af36b9b8d956fc238350de62902c01ce",
-      "source": "Sky Sports",
-      "headline": "Fulham latest: 'This is how I want us to play,' says Arbeloa after Chelsea loss",
-      "description": "",
-      "publishedAt": "2026-08-23T17:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": "3c3df9d319c380c1b38c2243e4f90408",
@@ -529,6 +486,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-25T13:09:04.888Z"
+    "cachedAt": "2026-08-25T18:54:58.105Z"
   }
 }
