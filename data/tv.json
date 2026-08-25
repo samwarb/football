@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "fulham|chelsea": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "crystal palace|manchester city": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -199,6 +195,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-24T18:57:12.860Z"
+    "cachedAt": "2026-08-25T01:50:04.449Z"
   }
 }

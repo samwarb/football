@@ -1,6 +1,6 @@
 {
   "season": "2025-2026",
-  "updatedAt": "2026-08-24T18:57:12.550Z",
+  "updatedAt": "2026-08-25T01:50:03.961Z",
   "teams": [
     {
       "providerId": "331",
@@ -93,13 +93,31 @@
       "note": "Europa League"
     },
     {
+      "providerId": "363",
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "shortName": "Chelsea",
+      "abbreviation": "CHE",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "rank": 6,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "goalDifference": 1,
+      "points": 3,
+      "note": ""
+    },
+    {
       "providerId": "373",
       "slug": "ipswich-town",
       "name": "Ipswich Town",
       "shortName": "Ipswich Town",
       "abbreviation": "IPS",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-      "rank": 6,
+      "rank": 7,
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -117,7 +135,7 @@
       "shortName": "Man City",
       "abbreviation": "MNC",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "rank": 7,
+      "rank": 8,
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -135,7 +153,7 @@
       "shortName": "Leeds",
       "abbreviation": "LEE",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-      "rank": 8,
+      "rank": 9,
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -153,7 +171,7 @@
       "shortName": "Liverpool",
       "abbreviation": "LIV",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "rank": 9,
+      "rank": 10,
       "played": 1,
       "wins": 0,
       "draws": 1,
@@ -171,7 +189,7 @@
       "shortName": "Newcastle",
       "abbreviation": "NEW",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "rank": 10,
+      "rank": 11,
       "played": 1,
       "wins": 0,
       "draws": 1,
@@ -183,24 +201,6 @@
       "note": ""
     },
     {
-      "providerId": "363",
-      "slug": "chelsea",
-      "name": "Chelsea",
-      "shortName": "Chelsea",
-      "abbreviation": "CHE",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "rank": 11,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "points": 0,
-      "note": ""
-    },
-    {
       "providerId": "370",
       "slug": "fulham",
       "name": "Fulham",
@@ -208,13 +208,13 @@
       "abbreviation": "FUL",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
       "rank": 12,
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
+      "losses": 1,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "goalDifference": -1,
       "points": 0,
       "note": ""
     },
@@ -365,6 +365,6 @@
   ],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-24T18:57:12.550Z"
+    "cachedAt": "2026-08-25T01:50:03.961Z"
   }
 }
