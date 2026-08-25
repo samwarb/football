@@ -2,6 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49719175,
+      "source": "ESPN",
+      "headline": "Has Brentford's Mamadou Sangare won signing of the season already?",
+      "description": "Twelve minutes were enough for Mamadou Sangare to prove that the pre-match hype was real.",
+      "publishedAt": "2026-08-25T06:30:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706597_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49719175/has-brentford-mamadou-sangare-won-signing-season-already",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford"
+      ]
+    },
+    {
+      "id": 49710805,
+      "source": "ESPN",
+      "headline": "Why Marcus Neill wants to flip the script on being called 'Lucas' son'",
+      "description": "Marcus Neill, son of Socceroos legend Lucas Neill, is beginning to make a name for his own at Sunderland.",
+      "publishedAt": "2026-08-25T01:59:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706557_1295x729_16-9.png",
+      "link": "https://www.espn.com/soccer/story/_/id/49710805/why-marcus-neill-wants-flip-script-being-called-lucas-son",
+      "tag": "Australia",
+      "teams": [
+        "Australia",
+        "Sunderland"
+      ]
+    },
+    {
       "id": 49715242,
       "source": "ESPN",
       "headline": "Chelsea's Premier League opener under Xabi Alonso hints at fun season to come",
@@ -462,33 +489,6 @@
       ]
     },
     {
-      "id": 49708338,
-      "source": "ESPN",
-      "headline": "Brighton have red hot start to season with 4-0 win over Villa",
-      "description": "Brighton's Maxim De Cuyper and Jack Hinshelwood doing the damage for Brighton as they opened up 4-0 lead after just 30 minutes to blow Aston Villa away.",
-      "publishedAt": "2026-08-24T03:40:55Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_Soccer_HIGHLIGHT_Brighton_have_red_hot_start_to_season_with_4_0_win_over_Villa_20260824_AUS/dm_260823_Soccer_HIGHLIGHT_Brighton_have_red_hot_start_to_season_with_4_0_win_over_Villa_20260824_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49708338/brighton-red-hot-start-season-4-0-win-villa",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 49706417,
-      "source": "ESPN",
-      "headline": "Iraola: Isak expected a tough atmosphere at St James' Park",
-      "description": "Iraola: Isak expected a tough atmosphere at St James' Park",
-      "publishedAt": "2026-08-23T23:42:56Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_COM_SOC_PRESSER_Iraola_Isak_expected_a_tough_atmosphere_at_St_James_Park_2026_8_24/dm_260823_COM_SOC_PRESSER_Iraola_Isak_expected_a_tough_atmosphere_at_St_James_Park_2026_8_24.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49706417/isak-expected-tough-atmosphere-st-james-park",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Newcastle United"
-      ]
-    },
-    {
       "id": "af36b9b8d956fc238350de62902c01ce",
       "source": "Sky Sports",
       "headline": "Fulham latest: 'This is how I want us to play,' says Arbeloa after Chelsea loss",
@@ -503,6 +503,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-25T01:50:04.040Z"
+    "cachedAt": "2026-08-25T07:06:12.395Z"
   }
 }
