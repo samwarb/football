@@ -2,6 +2,94 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49729578,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona, Man United to hold Balde talks",
+      "description": "Manchester United are set to open negotiations with Barcelona over the signing of defender Alejandro Balde. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-26T12:42:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707044_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49729578/transfer-rumors-news-barcelona-manchester-united-alejandro-balde-talks",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 49726645,
+      "source": "ESPN",
+      "headline": "10 players who could still move before the transfer window closes",
+      "description": "Here are 10 players who either really need to find a solution, or promise to be the subject of intense speculation, ahead of the transfer window slamming shut on Sept. 1.",
+      "publishedAt": "2026-08-26T12:24:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1706988_1295x729_16-9.png",
+      "link": "https://www.espn.com/soccer/story/_/id/49726645/10-players-looking-moves-transfer-window-closes",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Brighton & Hove Albion",
+        "Paris Saint-Germain",
+        "Atlético Madrid",
+        "Liverpool",
+        "Manchester City",
+        "Aston Villa",
+        "AC Milan"
+      ]
+    },
+    {
+      "id": 49729868,
+      "source": "ESPN",
+      "headline": "Raheem Sterling charged with dangerous driving after car crash",
+      "description": "Former England forward Raheem Sterling has been charged with dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway, police have said.",
+      "publishedAt": "2026-08-26T11:28:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0129/r1607247_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49729868/raheem-sterling-charges-dangerous-driving-car-crash",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Chelsea",
+        "England"
+      ]
+    },
+    {
+      "id": 49700891,
+      "source": "ESPN",
+      "headline": "Man City confirm Ayyoub Bouaddi signing from Lille",
+      "description": "Ayyoub Bouaddi has completed his move from Lille to Manchester City.",
+      "publishedAt": "2026-08-26T10:34:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707060_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49700891/man-city-confirm-ayyoub-bouaddi-signing-lille",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-26T10:16:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49729581,
+      "source": "ESPN",
+      "headline": "Oliver Glasner: 'I'm no messiah,' Nottingham Forest 'ignored reality'",
+      "description": "Nottingham Forest boss Oliver Glasner says the club have \"ignored reality\" after losing to Leeds for the second time in three days.",
+      "publishedAt": "2026-08-26T07:39:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707039_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49729581/oliver-glasner-no-messiah-nottingham-forest-ignored-reality",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Leeds United"
+      ]
+    },
+    {
       "id": 49726306,
       "source": "ESPN",
       "headline": "Will Carlos Baleba improve Man United?",
@@ -158,50 +246,6 @@
       "teams": []
     },
     {
-      "id": "668deb7138499e9a7aca356fa97ac830",
-      "source": "Sky Sports",
-      "headline": "Coventry survive Plymouth scare to progress in Carabao Cup",
-      "description": "Premier League new boys Coventry survived an EFL Cup second-round scare at League One Plymouth before easing through 4-2 at Home Park.",
-      "publishedAt": "2026-08-25T20:35:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-coventry-city_7331340.jpg?20260825220736",
-      "link": "https://www.skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "bfbd73f328b5c27b6335fa04c0707060",
-      "source": "Sky Sports",
-      "headline": "Hull require penalties to overcome stubborn Stoke",
-      "description": "Premier League new boys Hull followed up their 2-0 win over Manchester United on Saturday by knocking Stoke out of the Carabao Cup on penalties after a 1-1 draw at the bet365 Stadium.",
-      "publishedAt": "2026-08-25T20:35:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-hull-city_7331351.jpg?20260825221554",
-      "link": "https://www.skysports.com/football/stoke-city-vs-hull-city/report/577438",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "8f490d21d8e67bbf304f87988704ef2c",
-      "source": "Sky Sports",
-      "headline": "West Ham hit back to thump four past Southampton",
-      "description": "Teenager Josh Ayala scored twice on his full professional debut as West Ham came from behind to thrash Championship rivals Southampton 4-1 in the Carabao Cup.",
-      "publishedAt": "2026-08-25T20:35:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-jarrod-bowen-west-ham_7331301.jpg?20260825215411",
-      "link": "https://www.skysports.com/football/southampton-vs-west-ham-united/report/577436",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "d024476e543fd0040526947e3d90eccd",
-      "source": "Sky Sports",
-      "headline": "Nunez's halfway stunner helps Ipswich past Leicester",
-      "description": "Marcelino Nunez scored a sensational goal from the halfway line to help Ipswich claim a hard-fought 3-1 win over Leicester in the Carabao Cup.",
-      "publishedAt": "2026-08-25T20:35:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-marcelino-nunez_7331324.jpg?20260825220243",
-      "link": "https://www.skysports.com/football/ipswich-town-vs-leicester-city/report/577431",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49723938,
       "source": "ESPN",
       "headline": "Chelsea's Liam Delap set for £50M Nottingham Forest move as deal reached - sources",
@@ -214,17 +258,6 @@
         "Chelsea",
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-25T17:57:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706746_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 49723011,
@@ -469,79 +502,11 @@
         "Chelsea",
         "Fulham"
       ]
-    },
-    {
-      "id": 49716081,
-      "source": "ESPN",
-      "headline": "Burley: Palmer at his best could mask Chelsea's issues",
-      "description": "Burley: Palmer at his best could mask Chelsea's issues",
-      "publishedAt": "2026-08-24T23:00:44Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_Burley_Palmer_at_his_best_could_mask_Chelseas_issues/dm_260824_Burley_Palmer_at_his_best_could_mask_Chelseas_issues.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49716081/palmer-best-mask-chelsea-issues",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49716101,
-      "source": "ESPN",
-      "headline": "Burley: Arsenal are the Premier League's only finished article",
-      "description": "Burley: Arsenal are the Premier League's only finished article",
-      "publishedAt": "2026-08-24T23:00:16Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_Burley_Arsenal_are_the_Premier_Leagues_only_finished_article/dm_260824_Burley_Arsenal_are_the_Premier_Leagues_only_finished_article.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49716101/arsenal-premier-league-only-finished-article",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49716094,
-      "source": "ESPN",
-      "headline": "Xabi Alonso wins Chelsea debut as revamped front three dazzles",
-      "description": "",
-      "publishedAt": "2026-08-24T22:36:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706489_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49716094/xabi-alonso-wins-chelsea-debut-revamped-front-three-dazzles",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 49715961,
-      "source": "ESPN",
-      "headline": "Álvaro Arbeloa: Fulham showed the right energy in defeat to Chelsea",
-      "description": "Fulham manager Álvaro Arbeloa took heart from his side's performance in the 3-2 defeat to Chelsea and said it typified the character he wants to see from his players this season.",
-      "publishedAt": "2026-08-24T22:24:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706486_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49715961/alvaro-arbeloa-fulham-showed-right-energy-chelsea-defeat",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 49715794,
-      "source": "ESPN",
-      "headline": "Nottingham Forest eye move for Chelsea's Liam Delap - sources",
-      "description": "Nottingham Forest are keen on bringing in striker Liam Delap from Chelsea, sources have told ESPN.",
-      "publishedAt": "2026-08-24T22:17:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702169_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49715794/nottingham-forest-eye-move-chelsea-liam-delap-football-premier-league-transfers",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-26T07:06:23.477Z"
+    "cachedAt": "2026-08-26T13:13:38.390Z"
   }
 }
