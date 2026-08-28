@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "crystal palace|manchester city": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "liverpool|nottingham forest": [
       "TNT Sports 1",
       "TNT Sports Ultimate",
@@ -195,6 +191,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-28T11:20:01.804Z"
+    "cachedAt": "2026-08-28T22:16:06.246Z"
   }
 }

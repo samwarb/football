@@ -2,11 +2,154 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49756300,
+      "source": "ESPN",
+      "headline": "Man City's Enzo Maresca hails 'complete' Rayan Cherki after Crystal Palace win",
+      "description": "Manchester City manager Enzo Maresca said Rayan Cherki put in a \"complete\" performance as his double helped them to a commanding 4-1 win at Crystal Palace on Friday evening.",
+      "publishedAt": "2026-08-28T22:10:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708308_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49756300/man-city-enzo-maresca-hails-complete-rayan-cherki-crystal-palace-win",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49755862,
+      "source": "ESPN",
+      "headline": "With Cherki and Haaland, Man City can challenge Arsenal in Premier League",
+      "description": "When Manchester City are clicking, they remain a potent force capable of winning the Premier League -- as Rayan Cherki and Erling Haaland showed on Friday.",
+      "publishedAt": "2026-08-28T21:48:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708279_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49755862/with-cherki-haaland-man-city-challenge-arsenal-premier-league",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49756047,
+      "source": "ESPN",
+      "headline": "Manchester City vs. Crystal Palace player ratings as City maintain winning start with emphatic 4-1 victory at Selhurst Park",
+      "description": "Manchester City continued their winning start to the 2026-27 Premier League season on Friday with a 4-1 victory over Crystal Palace at Selhurst Park.",
+      "publishedAt": "2026-08-28T21:40:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708258_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49756047/man-city-vs-crystal-palace-player-ratings-premier-league",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": 49756016,
+      "source": "ESPN",
+      "headline": "Leboeuf: Cherki can be 'unstoppable if consistent' at Man City",
+      "description": "Leboeuf: Cherki can be 'unstoppable if consistent' at Man City",
+      "publishedAt": "2026-08-28T21:25:45Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_COM_SOC_Analysis_Leboeuf_Cherki_can_be_unstoppable_if_consistent_at_Man_City_20260828_GLOBAL/dm_260828_COM_SOC_Analysis_Leboeuf_Cherki_can_be_unstoppable_if_consistent_at_Man_City_20260828_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49756016/cherki-unstoppable-consistent-man-city",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49747247,
+      "source": "ESPN",
+      "headline": "Haaland, Cherki braces keep Man City perfect with win over Palace",
+      "description": "Rayan Cherki's quickfire double inspired Manchester City to a 4-1 victory over Crystal Palace to spoil Pierre Sage's welcome party at Selhurst Park.",
+      "publishedAt": "2026-08-28T21:20:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708271_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879294",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49750272,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Real Madrid eye move for Roma's Koné",
+      "description": "Real Madrid are reportedly interested in signing AS Roma midfielder Manu Koné. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-28T21:16:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708284_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49750272/transfer-rumors-news-liverpool-eyeing-sarr-barcola-deal-agreed",
+      "tag": "Real Madrid",
+      "teams": [
+        "Real Madrid",
+        "AS Roma"
+      ]
+    },
+    {
+      "id": 49754547,
+      "source": "ESPN",
+      "headline": "Aston Villa sign striker Nicolas Jackson from Chelsea",
+      "description": "Aston Villa completed the signing of Senegal striker Nicolas Jackson from Chelsea on Friday.",
+      "publishedAt": "2026-08-28T19:29:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708194_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49754547/aston-villa-transfer-nicolas-jackson-chelsea",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Chelsea",
+        "Senegal"
+      ]
+    },
+    {
+      "id": "b5429a51e0f310f2cc416fced2731d0c",
+      "source": "Sky Sports",
+      "headline": "Atletico set deadline for Alvarez decision on staying or move to Arsenal",
+      "description": "Atletico Madrid have given Julian Alvarez until Sunday to make a decision; open up to the idea of a move to Arsenal or stay at the club.",
+      "publishedAt": "2026-08-28T19:07:00.000Z",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-julian-alvarez-atletico-madrid_7261294.jpg?20260529191506",
+      "link": "https://www.skysports.com/football/news/12040/13578318/julian-alvarez-transfer-news-atletico-madrid-set-deadline-for-striker-to-decide-whether-he-stays-or-joins-arsenal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-28T18:50:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49754508,
+      "source": "ESPN",
+      "headline": "Carrick eyes first Man United win of season in front of Old Trafford crowd",
+      "description": "Carrick eyes first Man United win of season in front of Old Trafford crowd",
+      "publishedAt": "2026-08-28T18:18:53Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Carrick_eyes_first_Man_United_win_of_season_in_front_of_Old_Trafford_crowd/dm_260828_Carrick_eyes_first_Man_United_win_of_season_in_front_of_Old_Trafford_crowd.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49754508/carrick-eyes-first-man-united-win-season-front-old-trafford-crowd",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "066782c49b49979490b934e7d97231a5",
+      "source": "Sky Sports",
+      "headline": "Stansfield misses glorious chance to double Birmingham's lead at Wrexham LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-28T17:30:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-phil-neumann-birmingham_7334060.jpg?20260828201928",
+      "link": "https://www.skysports.com/football/wrexham-vs-birmingham-city/live/560533",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49732248,
       "source": "ESPN",
-      "headline": "'That lifelong dream is done': USMNT's Richards puts World Cup heartbreak behind him",
+      "headline": "USMNT's Richards puts World Cup heartbreak behind him",
       "description": "Playing in this World Cup was Chris Richards' lifelong dream, but its abrupt end gave him little time to grieve before returning to the Premier League.",
-      "publishedAt": "2026-08-28T11:11:51Z",
+      "publishedAt": "2026-08-28T15:43:25Z",
       "image": "https://a.espncdn.com/photo/2026/0826/r1707191_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49732248/that-lifelong-dream-done-usmnt-chris-richards-puts-world-cup-heartbreak-focus-palace-premier-league",
       "tag": "United States",
@@ -16,33 +159,84 @@
       ]
     },
     {
-      "id": 49750984,
+      "id": 49753479,
       "source": "ESPN",
-      "headline": "UEFA Europa League, Conference League draw LIVE: Bournemouth, Crystal Palace, Sunderland learn opponents",
-      "description": "The draws for the UEFA Europa League and the Conference League take place on Friday, and you can follow live with ESPN.",
-      "publishedAt": "2026-08-28T11:07:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708025_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49750984/uefa-europa-league-conference-league-draw-live-updates-blog-fixtures-bournemouth-crystal-palace-sunderland",
-      "tag": "AFC Bournemouth",
+      "headline": "Should Chris Richards join other top players in leaving Crystal Palace?",
+      "description": "Should Chris Richards join other top players in leaving Crystal Palace?",
+      "publishedAt": "2026-08-28T15:41:16Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Should_Chris_Richards_join_other_top_players_in_leaving_Crystal_Palace/dm_260828_Should_Chris_Richards_join_other_top_players_in_leaving_Crystal_Palace.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49753479/should-chris-richards-join-other-top-players-leaving-crystal-palace",
+      "tag": "Crystal Palace",
       "teams": [
-        "AFC Bournemouth",
-        "Sunderland",
-        "Crystal Palace",
-        "Brighton & Hove Albion"
+        "Crystal Palace"
       ]
     },
     {
-      "id": 49750272,
+      "id": 49753414,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool still eyeing Sarr after Barcola deal agreed",
-      "description": "Liverpool are still trying to sign Crystal Palace winger Ismaïla Sarr. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-28T11:00:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0409/r1641062_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49750272/transfer-rumors-news-liverpool-eyeing-sarr-barcola-deal-agreed",
-      "tag": "Liverpool",
+      "headline": "Chris Richards admits feeling like he let the U.S. down after Belgium defeat",
+      "description": "Chris Richards admits feeling like he let the U.S. down after Belgium defeat",
+      "publishedAt": "2026-08-28T15:33:38Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Chris_Richards_admits_feeling_like_he_let_the_US_down_after_Belgium_defeat/dm_260828_Chris_Richards_admits_feeling_like_he_let_the_US_down_after_Belgium_defeat.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49753414/chris-richards-admits-feeling-let-us-belgium-defeat",
+      "tag": "Crystal Palace",
       "teams": [
-        "Liverpool",
-        "Crystal Palace"
+        "Crystal Palace",
+        "United States"
+      ]
+    },
+    {
+      "id": 49753093,
+      "source": "ESPN",
+      "headline": "Al Hilal closing in on deal for Arsenal's Gabriel Martinelli - sources",
+      "description": "Al Hilal are closing in on the signing of Arsenal forward Gabriel Martinelli in a deal worth up to €65 million ($76m), sources have told ESPN in Brazil.",
+      "publishedAt": "2026-08-28T15:28:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708109_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49753093/al-hilal-closing-deal-arsenal-gabriel-martinelli-sources",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Al Hilal"
+      ]
+    },
+    {
+      "id": 49753099,
+      "source": "ESPN",
+      "headline": "Unai Emery says Ollie Watkins' Aston Villa legacy untarnished by refusal to play",
+      "description": "Unai Emery confirmed Ollie Watkins will become the latest player to join the Aston Villa exodus and says his impending exit left him in tears.",
+      "publishedAt": "2026-08-28T14:55:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708104_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49753099/unai-emery-says-ollie-watkins-aston-villa-legacy-untarnished-refusal-play",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Al Hilal"
+      ]
+    },
+    {
+      "id": 49752966,
+      "source": "ESPN",
+      "headline": "Tottenham boss Roberto De Zerbi hopeful of 'one player more' after 'bomba' Sávio, Marmoush arrivals",
+      "description": "Roberto De Zerbi is delighted Tottenham pulled off two \"bomba\" signings in Sávio and Omar Marmoush, but has said he believes one more could follow before the summer window closes on Tuesday night.",
+      "publishedAt": "2026-08-28T14:33:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708096_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49752966/tottenham-boss-roberto-de-zerbi-hopeful-one-player-more-bomba-savio-marmoush-arrivals",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49752343,
+      "source": "ESPN",
+      "headline": "Michael Carrick: Man United signing Baleba unlikely to play for 'a couple of weeks'",
+      "description": "Michael Carrick is not expecting to be able to pick new signing Carlos Baleba for \"two or three weeks\" while he recovers from an ankle injury.",
+      "publishedAt": "2026-08-28T13:19:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708064_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49752343/michael-carrick-carlos-baleba-unavailable-2-3-weeks-manchester-united-ipswich-town-premier-league",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
       ]
     },
     {
@@ -50,7 +244,7 @@
       "source": "ESPN",
       "headline": "What Arsenal's Premier League title rivals still need in transfer window",
       "description": "Arsenal look as strong as ever, but the transfer window is still open. Here's how their title rivals can dethrone the reigning champs.",
-      "publishedAt": "2026-08-28T09:51:22Z",
+      "publishedAt": "2026-08-28T13:03:18Z",
       "image": "https://a.espncdn.com/photo/2026/0827/r1707742_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49742465/what-arsenal-premier-league-title-rivals-need-transfer-window-man-city-man-united-liverpool-chelsea",
       "tag": "Arsenal",
@@ -59,6 +253,49 @@
         "Manchester City",
         "Liverpool",
         "Chelsea",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "eba1c7c6c368ef6eb67ccf1b334e82fb",
+      "source": "Sky Sports",
+      "headline": "Europa League and Conference League draws: British teams learn opponents",
+      "description": "Sunderland will travel to AC Milan in the Europa League and Bournemouth will host the Serie A giants as Brighton and Hearts discovered their Conference League opponents.",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-europa-league-conference-league_7330161.jpg?20260824160843",
+      "link": "https://www.skysports.com/football/news/12040/13578045/europa-league-and-conference-league-draws-celtic-bournemouth-sunderland-crystal-palace-brighton-hearts-learn-opponents",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49163915,
+      "source": "ESPN",
+      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
+      "description": "The 2026-27 Premier League season is finally here, and that means new home and away jerseys for all 20 clubs. Here they all are -- ranked!",
+      "publishedAt": "2026-08-28T11:47:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "AFC Bournemouth",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Chelsea",
+        "Coventry City",
+        "Crystal Palace",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Hull City",
+        "Leeds United",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Newcastle United",
+        "Nottingham Forest",
+        "Sunderland",
         "Tottenham Hotspur"
       ]
     },
@@ -108,32 +345,6 @@
       ]
     },
     {
-      "id": 49750822,
-      "source": "ESPN",
-      "headline": "Julián Álvarez sits out latest Atlético Madrid training session amid transfer links",
-      "description": "Julián Álvarez missed yet another training session for Atlético Madrid on Friday due to a reported illness amidst ongoing transfer speculation.",
-      "publishedAt": "2026-08-28T09:35:38Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0827/dm_260827_Laurens_tells_Atletico_Madrid_to_accept_Alvarezs_exit/dm_260827_Laurens_tells_Atletico_Madrid_to_accept_Alvarezs_exit.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49750822/julian-alvarez-sits-latest-atletico-madrid-training-session-amid-transfer-links",
-      "tag": "Atlético Madrid",
-      "teams": [
-        "Atlético Madrid",
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-28T09:11:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695938_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 48833505,
       "source": "ESPN",
       "headline": "When does the 2026 summer transfer window open and close?",
@@ -142,17 +353,6 @@
       "image": "https://a.espncdn.com/photo/2026/0813/r1701176_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/48833505/when-does-summer-transfer-window-close-premier-league-serie-laliga-bundesliga-ligue-1",
       "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": "f879ebdd00ab53244bb922ed980dd388",
-      "source": "Sky Sports",
-      "headline": "Chelsea prepared to sell Fernandez to Man City for right price",
-      "description": "Chelsea are prepared to sell Enzo Fernandez to Manchester City for the right price - and if they can improve their squad before the window closes.",
-      "publishedAt": "2026-08-28T07:15:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-fernandez_7331664.jpg?20260826122332",
-      "link": "https://www.skysports.com/football/news/12040/13578017/enzo-fernandez-transfer-news-chelsea-prepared-to-sell-argentina-midfielder-to-manchester-city-for-right-price",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -266,216 +466,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49743623,
-      "source": "ESPN",
-      "headline": "Man City, Puma equip fans with AI to design 2026-27 third kit",
-      "description": "Manchester City fans submitted more than 180,000 AI-generated kit designs, but the club chose Elliott's to wear as their third shirt in 2026-27.",
-      "publishedAt": "2026-08-27T18:08:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707659_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49743623/manchester-city-puma-equip-fans-ai-design-2026-27-third-kit",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "f37726b1f602238928656ce9a63f0382",
-      "source": "Sky Sports",
-      "headline": "PL Predictions: More Palace pain? Man City to make it back-to-back wins",
-      "description": "Our top tipster Lewis Jones, aka Jones Knows, was in flying form last weekend - can he repeat the trick?",
-      "publishedAt": "2026-08-27T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933",
-      "link": "https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49742736,
-      "source": "ESPN",
-      "headline": "Aston Villa sign Leon Goretzka on free transfer after he leaves Bayern Munich",
-      "description": "Leon Goretzka has joined rebuilding Aston Villa on a free transfer from Bayern Munich.",
-      "publishedAt": "2026-08-27T16:34:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707617_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49742736/aston-villa-sign-leon-goretzka-free-transfer-leaves-bayern-munich",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Bayern Munich"
-      ]
-    },
-    {
-      "id": 49741898,
-      "source": "ESPN",
-      "headline": "Fiorentina in talks with Man United over Zirkzee - sources",
-      "description": "Fiorentina are in discussions with Manchester United over a deal for Joshua Zirkzee, sources have told ESPN.",
-      "publishedAt": "2026-08-27T15:39:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707586_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49741898/fiorentina-talks-man-united-zirkzee-sources",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Fiorentina",
-        "Netherlands"
-      ]
-    },
-    {
-      "id": "4529920227d072e44ce541b2a8b6dc7d",
-      "source": "Sky Sports",
-      "headline": "Muniz nets first goal in a year as Fulham ease past Wimbledon",
-      "description": "Rodrigo Muniz was finally all smiles again as he ended a year-long goal drought to help earn Alvaro Arbeloa his first win and see Fulham breeze past AFC Wimbledon 3-0 in the Carabao Cup.",
-      "publishedAt": "2026-08-27T15:26:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rodrigo-muniz-fulham_7333178.jpg?20260827220646",
-      "link": "https://www.skysports.com/football/fulham-vs-afc-wimbledon/report/577430",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 49163915,
-      "source": "ESPN",
-      "headline": "Premier League 2026-27 kits: Ranking every jersey released",
-      "description": "The 2026-27 Premier League season is finally here, and that means new home and away jerseys for all 20 clubs. Here they all are -- ranked!",
-      "publishedAt": "2026-08-27T15:09:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "AFC Bournemouth",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Chelsea",
-        "Coventry City",
-        "Crystal Palace",
-        "Everton",
-        "Fulham",
-        "Ipswich Town",
-        "Hull City",
-        "Leeds United",
-        "Liverpool",
-        "Manchester City",
-        "Manchester United",
-        "Newcastle United",
-        "Nottingham Forest",
-        "Sunderland",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49742289,
-      "source": "ESPN",
-      "headline": "Iraola on Barcola transfer: I hope we'll have good news soon",
-      "description": "Iraola on Barcola transfer: I hope we'll have good news soon",
-      "publishedAt": "2026-08-27T14:50:24Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0827/dm_260827_COM_SOC_Analysis_Iraola_on_Barcola_transfer3A_I_hope_weE28099ll_have_good_news_soon_GLOBAL_2026-08-28/dm_260827_COM_SOC_Analysis_Iraola_on_Barcola_transfer3A_I_hope_weE28099ll_have_good_news_soon_GLOBAL_2026-08-28.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49742289/hope-good-news-soon",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 49742190,
-      "source": "ESPN",
-      "headline": "Jamie Carragher faces bankruptcy petition after unpaid tax bill",
-      "description": "Former Liverpool defender Jamie Carragher could face bankruptcy after HM Revenue and Customs (HMRC) issued a bankruptcy petition against him.",
-      "publishedAt": "2026-08-27T14:46:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0519/r1660275_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49742190/jamie-carragher-faces-bankruptcy-petition-unpaid-tax-bill",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49742073,
-      "source": "ESPN",
-      "headline": "Aston Villa's Tammy Abraham close to Ipswich loan move - sources",
-      "description": "Ipswich Town are close to signing Tammy Abraham on a season-long loan from Aston Villa, sources have told ESPN.",
-      "publishedAt": "2026-08-27T14:26:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0214/r1615173_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49742073/aston-villa-tammy-abraham-close-ipswich-loan-move-sources",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49741962,
-      "source": "ESPN",
-      "headline": "Mikel Arteta to Arsenal squad amid Julián Álvarez transfer talk: 'Knock on my door'",
-      "description": "Mikel Arteta has told any Arsenal players unsettled by ongoing speculation over Julián Álvarez's possible arrival to \"knock on his door\" and find out the truth.",
-      "publishedAt": "2026-08-27T14:12:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1651109_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49741962/mikel-arteta-arsenal-squad-amid-julian-alvarez-transfer-talk-knock-my-door",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Atlético Madrid"
-      ]
-    },
-    {
-      "id": 49741683,
-      "source": "ESPN",
-      "headline": "Liverpool's Andoni Iraola on Cody Gakpo's future: 'Cannot guarantee anything'",
-      "description": "Liverpool head coach Andoni Iraola has said he can offer no guarantees about the future of forward Cody Gakpo amid continued interest from both Tottenham Hotspur and Manchester City.",
-      "publishedAt": "2026-08-27T13:30:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1700067_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49741683/liverpool-andoni-iraola-cody-gakpo-future-cannot-guarantee-anything",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49740958,
-      "source": "ESPN",
-      "headline": "Why Man City signed Ayyoub Bouaddi, their future and present midfield star",
-      "description": "Man City had been tracking the young Morocco and Lille star since he emerged at age 16; now, at 18, Bouaddi figures to be a major part of Man City's present and future.",
-      "publishedAt": "2026-08-27T13:18:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707566_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49740958/manchester-city-ayyoub-bouaddi-transfer-lille-morocco-rob-dawson",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Lille",
-        "Morocco"
-      ]
-    },
-    {
-      "id": 49741600,
-      "source": "ESPN",
-      "headline": "Hutchison: Barcola will be an 'amazing signing' for Liverpool",
-      "description": "Hutchison: Barcola will be an 'amazing signing' for Liverpool",
-      "publishedAt": "2026-08-27T13:16:24Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0827/dm_260827_Hutchison_Barcola_will_be_an_amazing_signing_for_Liverpool/dm_260827_Hutchison_Barcola_will_be_an_amazing_signing_for_Liverpool.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49741600/barcola-amazing-signing-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49741529,
-      "source": "ESPN",
-      "headline": "Hutchison calls Joao Pedro 'one of the best' No.9's in the world",
-      "description": "Hutchison calls Joao Pedro 'one of the best' No.9's in the world",
-      "publishedAt": "2026-08-27T13:08:09Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0827/dm_260827_Hutchison_calls_Joao_Pedro_one_of_the_best_No9s_in_the_world/dm_260827_Hutchison_calls_Joao_Pedro_one_of_the_best_No9s_in_the_world.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49741529/hutchison-calls-joao-pedro-one-best-no9-world",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-28T11:20:01.501Z"
+    "cachedAt": "2026-08-28T22:16:06.380Z"
   }
 }
