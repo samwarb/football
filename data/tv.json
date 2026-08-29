@@ -2,11 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "liverpool|nottingham forest": [
-      "TNT Sports 1",
-      "TNT Sports Ultimate",
-      "HBO Max"
-    ],
     "tottenham hotspur|newcastle united": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -86,6 +81,9 @@
     "bournemouth|liverpool": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
+    ],
+    "manchester city|sunderland": [
+      "Sky Sports TBC"
     ],
     "fulham|manchester united": [
       "Sky Sports Main Event",
@@ -191,6 +189,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-29T07:01:02.121Z"
+    "cachedAt": "2026-08-29T16:41:12.975Z"
   }
 }
