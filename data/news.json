@@ -2,13 +2,52 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49758380,
+      "source": "ESPN",
+      "headline": "Haaland and Cherki fire City to dominant win",
+      "description": "Manchester City made light work of Crystal Palace, winning 4-1 with Erling Haaland and Rayan Cherki both scoring braces",
+      "publishedAt": "2026-08-29T03:01:58Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Soccer_Highlight_Haaland_and_Cherki_fire_City_to_dominant_win_20260829_AUS_ONLY/dm_260828_Soccer_Highlight_Haaland_and_Cherki_fire_City_to_dominant_win_20260829_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49758380/haaland-cherki-fire-city-dominant-win",
+      "tag": "Media",
+      "teams": []
+    },
+    {
       "id": 49756300,
       "source": "ESPN",
       "headline": "Man City's Enzo Maresca hails 'complete' Rayan Cherki after Crystal Palace win",
       "description": "Manchester City manager Enzo Maresca said Rayan Cherki put in a \"complete\" performance as his double helped them to a commanding 4-1 win at Crystal Palace on Friday evening.",
-      "publishedAt": "2026-08-28T22:10:52Z",
+      "publishedAt": "2026-08-28T23:53:37Z",
       "image": "https://a.espncdn.com/photo/2026/0828/r1708308_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49756300/man-city-enzo-maresca-hails-complete-rayan-cherki-crystal-palace-win",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49754547,
+      "source": "ESPN",
+      "headline": "Aston Villa sign striker Nicolas Jackson from Chelsea",
+      "description": "Aston Villa completed the signing of Senegal striker Nicolas Jackson from Chelsea on Friday.",
+      "publishedAt": "2026-08-28T23:31:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708194_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49754547/aston-villa-transfer-nicolas-jackson-chelsea",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Chelsea",
+        "Senegal"
+      ]
+    },
+    {
+      "id": 49756706,
+      "source": "ESPN",
+      "headline": "Maresca hails 'complete' Cherki after brace vs. Crystal Palace",
+      "description": "Maresca hails 'complete' Cherki after brace vs. Crystal Palace.",
+      "publishedAt": "2026-08-28T22:55:49Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Maresca_hails_complete_Cherki_after_brace_vs_Crystal_Palace/dm_260828_Maresca_hails_complete_Cherki_after_brace_vs_Crystal_Palace.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49756706/maresca-hails-complete-cherki-brace-vs-crystal-palace",
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
@@ -18,8 +57,8 @@
       "id": 49755862,
       "source": "ESPN",
       "headline": "With Cherki and Haaland, Man City can challenge Arsenal in Premier League",
-      "description": "When Manchester City are clicking, they remain a potent force capable of winning the Premier League -- as Rayan Cherki and Erling Haaland showed on Friday.",
-      "publishedAt": "2026-08-28T21:48:26Z",
+      "description": "When Manchester City are clicking, they remain a potent force capable of winning the Premier League -- as Rayan Cherki and Erling Haaland showed Friday.",
+      "publishedAt": "2026-08-28T22:19:50Z",
       "image": "https://a.espncdn.com/photo/2026/0828/r1708279_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49755862/with-cherki-haaland-man-city-challenge-arsenal-premier-league",
       "tag": "Manchester City",
@@ -84,29 +123,14 @@
       ]
     },
     {
-      "id": 49754547,
-      "source": "ESPN",
-      "headline": "Aston Villa sign striker Nicolas Jackson from Chelsea",
-      "description": "Aston Villa completed the signing of Senegal striker Nicolas Jackson from Chelsea on Friday.",
-      "publishedAt": "2026-08-28T19:29:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708194_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49754547/aston-villa-transfer-nicolas-jackson-chelsea",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Chelsea",
-        "Senegal"
-      ]
-    },
-    {
-      "id": "b5429a51e0f310f2cc416fced2731d0c",
+      "id": "e00937b73eaba315b67e4f4595b0d1f5",
       "source": "Sky Sports",
-      "headline": "Atletico set deadline for Alvarez decision on staying or move to Arsenal",
-      "description": "Atletico Madrid have given Julian Alvarez until Sunday to make a decision; open up to the idea of a move to Arsenal or stay at the club.",
-      "publishedAt": "2026-08-28T19:07:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-julian-alvarez-atletico-madrid_7261294.jpg?20260529191506",
-      "link": "https://www.skysports.com/football/news/12040/13578318/julian-alvarez-transfer-news-atletico-madrid-set-deadline-for-striker-to-decide-whether-he-stays-or-joins-arsenal",
-      "tag": "News Story",
+      "headline": "Wrexham's winless start continues with defeat to Birmingham",
+      "description": "Wrexham's winless start to the season was extended to four games in all competitions after they were beaten 2-1 by Birmingham at the Racecourse Ground.",
+      "publishedAt": "2026-08-28T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-phil-neumann-birmingham_7334153.jpg?20260828213501",
+      "link": "https://www.skysports.com/football/wrexham-vs-birmingham-city/report/560533",
+      "tag": "Report",
       "teams": []
     },
     {
@@ -132,17 +156,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "066782c49b49979490b934e7d97231a5",
-      "source": "Sky Sports",
-      "headline": "Stansfield misses glorious chance to double Birmingham's lead at Wrexham LIVE!",
-      "description": "",
-      "publishedAt": "2026-08-28T17:30:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-phil-neumann-birmingham_7334060.jpg?20260828201928",
-      "link": "https://www.skysports.com/football/wrexham-vs-birmingham-city/live/560533",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49732248,
@@ -255,17 +268,6 @@
         "Chelsea",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "eba1c7c6c368ef6eb67ccf1b334e82fb",
-      "source": "Sky Sports",
-      "headline": "Europa League and Conference League draws: British teams learn opponents",
-      "description": "Sunderland will travel to AC Milan in the Europa League and Bournemouth will host the Serie A giants as Brighton and Hearts discovered their Conference League opponents.",
-      "publishedAt": "2026-08-28T12:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-europa-league-conference-league_7330161.jpg?20260824160843",
-      "link": "https://www.skysports.com/football/news/12040/13578045/europa-league-and-conference-league-draws-celtic-bournemouth-sunderland-crystal-palace-brighton-hearts-learn-opponents",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -440,37 +442,20 @@
       ]
     },
     {
-      "id": 49744624,
-      "source": "ESPN",
-      "headline": "Chelsea set to sign Emiliano Martínez from Aston Villa - sources",
-      "description": "Chelsea have agreed to a deal to sign Argentina goalkeeper Emiliano Martínez from Aston Villa for a fee of £7.5 million (10.2m), sources confirmed to ESPN's James Olley.",
-      "publishedAt": "2026-08-27T19:17:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707759_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49744624/chelsea-transfer-emiliano-martinez-aston-villa-argentina",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Aston Villa",
-        "Argentina"
-      ]
-    },
-    {
-      "id": 49744476,
-      "source": "ESPN",
-      "headline": "Arsenal terminate Reiss Nelson contract by mutual agreement, becomes free agent",
-      "description": "Reiss Nelson has left Arsenal after he and the club chose to terminate his contract by mutual agreement.",
-      "publishedAt": "2026-08-27T18:58:11Z",
-      "image": "https://a.espncdn.com/photo/2024/0403/r1313705_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49744476/arsenal-terminate-reiss-nelson-contract-mutual-agreement-becomes-free-agent",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
+      "id": "e80e82042804b56f4d0f20e63d601e43",
+      "source": "Sky Sports",
+      "headline": "PL Predictions: Back Spurs to bounce back against Newcastle",
+      "description": "Our top tipster Lewis Jones, aka Jones Knows, was in flying form last weekend - can he repeat the trick?",
+      "publishedAt": "2026-08-27T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933",
+      "link": "https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins",
+      "tag": "Article/Blog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-28T22:16:06.380Z"
+    "cachedAt": "2026-08-29T07:01:02.075Z"
   }
 }
