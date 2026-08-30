@@ -2,38 +2,173 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49765147,
+      "id": 49759947,
       "source": "ESPN",
-      "headline": "De Zerbi apologies to Spurs fans for 'environment' after successive league defeats",
-      "description": "De Zerbi apologies to Spurs fans for 'environment' after successive league defeats",
-      "publishedAt": "2026-08-29T20:16:11Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_De_Zerbi_apologies_to_Spurs_fans_for_environment_after_successive_league_defeats/dm_260829_De_Zerbi_apologies_to_Spurs_fans_for_environment_after_successive_league_defeats.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49765147/de-zerbi-apologies-spurs-fans-environment-successive-league-defeats",
+      "headline": "Transfer rumors, news: Man United offered Atleti striker Sørloth",
+      "description": "Manchester United have been offered the chance to sign Atlético Madrid striker Alexander Sørloth. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-30T02:21:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0221/r1618266_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
+      "tag": "Atlético Madrid",
+      "teams": [
+        "Atlético Madrid",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49767560,
+      "source": "ESPN",
+      "headline": "Muñoz, Liverpool rescue late 2-2 draw against Forest",
+      "description": "Víctor Muñoz's powerful 82nd-minute strike levels late for Liverpool in their home opener against Nottingham Forest.",
+      "publishedAt": "2026-08-30T00:37:47Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_EPL_Highlight_Munoz_Liverpool_rescue_late_22_draw_against_Forest_20260830_AUS_ONLY/dm_260829_EPL_Highlight_Munoz_Liverpool_rescue_late_22_draw_against_Forest_20260830_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49767560/munoz-liverpool-rescue-late-2-2-draw-forest",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49767554,
+      "source": "ESPN",
+      "headline": "Newcastle hand big-spending Spurs second-consecutive EPL loss",
+      "description": "Anthony Elanga and Yoane Wisse score for the Magpies to leave a deflated Tottenham pointless after two Premier League games.",
+      "publishedAt": "2026-08-30T00:37:21Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_EPL_Highlight_Newcastle_hand_bigspending_Spurs_secondconsecutive_EPL_loss__20260830_AUS_ONLY/dm_260829_EPL_Highlight_Newcastle_hand_bigspending_Spurs_secondconsecutive_EPL_loss__20260830_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49767554/newcastle-hand-big-spending-spurs-second-consecutive-epl-loss",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49763086,
+      "source": "ESPN",
+      "headline": "Everton fans threaten 'riot' over potential transfer of teenage winger Harrison Armstrong to Nottingham Forest",
+      "description": "Everton fans threatened to \"riot\" if the club cash in on teenage winger Harrison Armstrong.",
+      "publishedAt": "2026-08-30T00:13:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708547_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49763086/everton-harrison-armstrong-nottingham-forest-premier-league",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49765222,
+      "source": "ESPN",
+      "headline": "Spurs spent £380m this summer, but De Zerbi & Co. can't buy mentality",
+      "description": "After nearly being relegated last season, Tottenham spent big this summer. In a 2-0 loss to Newcastle on Saturday, they showed the same mental frailty.",
+      "publishedAt": "2026-08-29T23:21:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708661_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49765222/tottenham-hotspur-spent-380-million-transfers-summer-roberto-de-zerbi-cant-buy-mentality",
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
       ]
     },
     {
-      "id": 49764998,
+      "id": "7ed18bea53b52171ada18340453b5453",
+      "source": "Sky Sports",
+      "headline": "Warrington continue winning streak after edging Hull FC and booking play-off spot!",
+      "description": "Highlights of the Super League match between Hull FC and Warrington Wolves.",
+      "publishedAt": "2026-08-29T23:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugby-warrington_7335341.jpg?20260829232740",
+      "link": "https://www.skysports.com/watch/video/13578907/hull-fc-14-16-warrington-wolves-super-league-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 49763383,
       "source": "ESPN",
-      "headline": "Man City in transfer talks for Liverpool's Cody Gakpo - sources",
-      "description": "Manchester City are in talks to sign Cody Gakpo from Liverpool, sources have told ESPN. Manchester City are in talks to sign Cody Gakpo from Liverpool, sources have told ESPN.",
-      "publishedAt": "2026-08-29T20:10:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701887_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49764998/man-city-transfer-talks-liverpool-cody-gakpo-sources",
+      "headline": "Nottingham Forest nearing deal for Daniel Muñoz from Crystal Palace - sources",
+      "description": "Nottingham Forest are closing in on the signing of full-back Daniel Muñoz from fellow Premier League side Crystal Palace, sources have told ESPN.",
+      "publishedAt": "2026-08-29T22:43:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708569_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49763383/nottingham-forest-nearing-deal-daniel-munoz-crystal-palace-sources",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": 49766206,
+      "source": "ESPN",
+      "headline": "Can Liverpool afford to let Gakpo join Man City?",
+      "description": "Can Liverpool afford to let Gakpo join Man City?",
+      "publishedAt": "2026-08-29T22:17:47Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_COM_SOC_ANALYSIS_Can_Liverpool_afford_to_let_Gakpo_join_Man_City_2026_8_26/dm_260829_COM_SOC_ANALYSIS_Can_Liverpool_afford_to_let_Gakpo_join_Man_City_2026_8_26.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49766206/can-liverpool-afford-let-gakpo-join-man-city",
       "tag": "Liverpool",
       "teams": [
         "Liverpool",
-        "Manchester City"
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49766194,
+      "source": "ESPN",
+      "headline": "Is Barcola the key to unlocking Wirtz at Liverpool?",
+      "description": "Is Barcola the key to unlocking Wirtz at Liverpool?",
+      "publishedAt": "2026-08-29T22:17:19Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_COM_SOC_ANALYSIS_Is_Barcola_the_key_to_unlocking_Wirtz_at_Liverpool_2026_8_29/dm_260829_COM_SOC_ANALYSIS_Is_Barcola_the_key_to_unlocking_Wirtz_at_Liverpool_2026_8_29.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49766194/is-barcola-key-unlocking-wirtz-liverpool",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49764906,
+      "source": "ESPN",
+      "headline": "Michael Carrick: 'Lazy' to claim Man United lack passion",
+      "description": "Manchester United head coach Michael Carrick has branded claims that his side lacked motivation in their defeat to Hull City as \"lazy.\"",
+      "publishedAt": "2026-08-29T21:30:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708657_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49764906/michael-carrick-man-united-passion-lazy-hull-ipswich",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "7481873bd8016b4820bad387a0a44222",
+      "source": "Sky Sports",
+      "headline": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-08-29T21:22:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49765158,
+      "source": "ESPN",
+      "headline": "Tottenham's De Zerbi: Richarlison, Danso, Sarr have asked to leave",
+      "description": "Tottenham Hotspur coach Roberto De Zerbi said Richarlison, Kevin Danso and Pape Matar Sarr have asked to leave the club.",
+      "publishedAt": "2026-08-29T21:04:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708658_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49765158/tottenham-roberto-de-zerbi-richarlison-kevin-danso-pape-sarr",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Brazil",
+        "Senegal",
+        "Austria"
       ]
     },
     {
       "id": 49733907,
       "source": "ESPN",
-      "headline": "European live updates: Liverpool held by Forest, big-spending Spurs stumble vs. Newcastle",
+      "headline": "European soccer recap: Liverpool held by Forest, big-spending Spurs stumble vs. Newcastle",
       "description": "Soccer matches are kicking off in the Premier League and across Europe with all five of the continent's major leagues finally in action!",
-      "publishedAt": "2026-08-29T20:00:48Z",
+      "publishedAt": "2026-08-29T21:02:07Z",
       "image": "https://a.espncdn.com/photo/2026/0829/r1708595_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49733907/european-live-updates-liverpool-draw-forest-premier-league-action-continues",
       "tag": "Nottingham Forest",
@@ -44,6 +179,33 @@
         "Everton",
         "Coventry City",
         "Hull City"
+      ]
+    },
+    {
+      "id": 49764998,
+      "source": "ESPN",
+      "headline": "Man City in transfer talks for Liverpool's Cody Gakpo - sources",
+      "description": "Manchester City are in talks to sign Cody Gakpo from Liverpool, sources have told ESPN. Manchester City are in talks to sign Cody Gakpo from Liverpool, sources have told ESPN.",
+      "publishedAt": "2026-08-29T20:28:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0814/r1701887_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49764998/man-city-transfer-talks-liverpool-cody-gakpo-sources",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49765147,
+      "source": "ESPN",
+      "headline": "De Zerbi apologies to Spurs fans for 'environment' after successive league defeats",
+      "description": "De Zerbi apologies to Spurs fans for 'environment' after successive league defeats",
+      "publishedAt": "2026-08-29T20:16:11Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_De_Zerbi_apologies_to_Spurs_fans_for_environment_after_successive_league_defeats/dm_260829_De_Zerbi_apologies_to_Spurs_fans_for_environment_after_successive_league_defeats.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49765147/de-zerbi-apologies-spurs-fans-environment-successive-league-defeats",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
       ]
     },
     {
@@ -102,31 +264,6 @@
       ]
     },
     {
-      "id": "b46418d378fd504920a33809051ae005",
-      "source": "Sky Sports",
-      "headline": "Fulham latest: Talks held to sign Romanian right-back as Everton want Tete",
-      "description": "",
-      "publishedAt": "2026-08-29T19:37:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49759947,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United offered Atétli striker Sørloth",
-      "description": "Manchester United have been offered the chance to sign Atlético Madrid striker Alexander Sørloth. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-29T19:27:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0221/r1618266_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
-      "tag": "Atlético Madrid",
-      "teams": [
-        "Atlético Madrid",
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49764094,
       "source": "ESPN",
       "headline": "Hull head coach Sergej Jakirovic: Players must 'stay humble' as dream start continues",
@@ -137,81 +274,6 @@
       "tag": "Hull City",
       "teams": [
         "Hull City"
-      ]
-    },
-    {
-      "id": "d2527b3e58c497bf78e55333a8b7a043",
-      "source": "Sky Sports",
-      "headline": "Leeds latest: Zetterer joins as Perri completes Torino loan",
-      "description": "",
-      "publishedAt": "2026-08-29T19:01:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402",
-      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "0584ad0f691cd3711c40b62fd0308a6f",
-      "source": "Sky Sports",
-      "headline": "Aston Villa latest: Maatsen to be offered new deal after Man Utd interest",
-      "description": "",
-      "publishedAt": "2026-08-29T19:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "cd27620b3f8bcb02b8c517c2eeee91cf",
-      "source": "Sky Sports",
-      "headline": "Another defeat for Spurs as Elanga and Wissa goals seal Magpies win",
-      "description": "FREE TO WATCH: Highlights from the Premier League match between Tottenham Hotspur and Newcastle United.",
-      "publishedAt": "2026-08-29T18:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-football-premier-league_7335130.jpg?20260829192441",
-      "link": "https://www.skysports.com/watch/video/13578834/tottenham-hotspur-0-2-newcastle-premier-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": 49763086,
-      "source": "ESPN",
-      "headline": "Everton fans threaten 'riot' over potential sale of teenage winger Harrison Armstrong to Nottingham Forest",
-      "description": "Everton fans threatened to \"riot\" if the club cash in on teenage winger Harrison Armstrong.",
-      "publishedAt": "2026-08-29T17:41:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708547_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49763086/everton-harrison-armstrong-nottingham-forest-premier-league",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49763383,
-      "source": "ESPN",
-      "headline": "Nottingham Forest nearing deal for Daniel Muñoz from Crystal Palace - sources",
-      "description": "Nottingham Forest are closing in on the signing of full-back Daniel Muñoz from fellow Premier League side Crystal Palace, sources have told ESPN.",
-      "publishedAt": "2026-08-29T17:33:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708569_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49763383/nottingham-forest-nearing-deal-daniel-munoz-crystal-palace-sources",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Crystal Palace"
-      ]
-    },
-    {
-      "id": 49750790,
-      "source": "ESPN",
-      "headline": "Is Liverpool's No.1 transfer target Barcola the right Salah replacement?",
-      "description": "Liverpool could spend up to €140 million in their deal for PSG winger Bradley Barcola, so is he the man to replace Mohamed Salah long term?",
-      "publishedAt": "2026-08-29T16:16:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708014_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49750790/will-liverpool-no1-summer-transfer-target-winger-psg-bradley-barcola-replacement-mohamed-salah",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Paris Saint-Germain"
       ]
     },
     {
@@ -240,19 +302,6 @@
       "teams": [
         "Coventry City",
         "Hull City"
-      ]
-    },
-    {
-      "id": 49756300,
-      "source": "ESPN",
-      "headline": "Man City's Enzo Maresca hails 'complete' Rayan Cherki after Crystal Palace win",
-      "description": "Manchester City manager Enzo Maresca said Rayan Cherki put in a \"complete\" performance as his double helped them to a commanding 4-1 win at Crystal Palace on Friday evening.",
-      "publishedAt": "2026-08-29T15:45:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708308_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49756300/man-city-enzo-maresca-hails-complete-rayan-cherki-crystal-palace-win",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
       ]
     },
     {
@@ -389,98 +438,11 @@
       "teams": [
         "Ipswich Town"
       ]
-    },
-    {
-      "id": 49758380,
-      "source": "ESPN",
-      "headline": "Haaland and Cherki fire City to dominant win",
-      "description": "Manchester City made light work of Crystal Palace, winning 4-1 with Erling Haaland and Rayan Cherki both scoring braces",
-      "publishedAt": "2026-08-29T03:01:58Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Soccer_Highlight_Haaland_and_Cherki_fire_City_to_dominant_win_20260829_AUS_ONLY/dm_260828_Soccer_Highlight_Haaland_and_Cherki_fire_City_to_dominant_win_20260829_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49758380/haaland-cherki-fire-city-dominant-win",
-      "tag": "Media",
-      "teams": []
-    },
-    {
-      "id": 49756706,
-      "source": "ESPN",
-      "headline": "Maresca hails 'complete' Cherki after brace vs. Crystal Palace",
-      "description": "Maresca hails 'complete' Cherki after brace vs. Crystal Palace.",
-      "publishedAt": "2026-08-28T22:55:49Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Maresca_hails_complete_Cherki_after_brace_vs_Crystal_Palace/dm_260828_Maresca_hails_complete_Cherki_after_brace_vs_Crystal_Palace.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49756706/maresca-hails-complete-cherki-brace-vs-crystal-palace",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49755862,
-      "source": "ESPN",
-      "headline": "With Cherki and Haaland, Man City can challenge Arsenal in Premier League",
-      "description": "When Manchester City are clicking, they remain a potent force capable of winning the Premier League -- as Rayan Cherki and Erling Haaland showed Friday.",
-      "publishedAt": "2026-08-28T22:19:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708279_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49755862/with-cherki-haaland-man-city-challenge-arsenal-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49756047,
-      "source": "ESPN",
-      "headline": "Manchester City vs. Crystal Palace player ratings as City maintain winning start with emphatic 4-1 victory at Selhurst Park",
-      "description": "Manchester City continued their winning start to the 2026-27 Premier League season on Friday with a 4-1 victory over Crystal Palace at Selhurst Park.",
-      "publishedAt": "2026-08-28T21:40:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708258_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49756047/man-city-vs-crystal-palace-player-ratings-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Crystal Palace"
-      ]
-    },
-    {
-      "id": 49756016,
-      "source": "ESPN",
-      "headline": "Leboeuf: Cherki can be 'unstoppable if consistent' at Man City",
-      "description": "Leboeuf: Cherki can be 'unstoppable if consistent' at Man City",
-      "publishedAt": "2026-08-28T21:25:45Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_COM_SOC_Analysis_Leboeuf_Cherki_can_be_unstoppable_if_consistent_at_Man_City_20260828_GLOBAL/dm_260828_COM_SOC_Analysis_Leboeuf_Cherki_can_be_unstoppable_if_consistent_at_Man_City_20260828_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49756016/cherki-unstoppable-consistent-man-city",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "f68179dc4449b3dfd7320efbf6fbb729",
-      "source": "Sky Sports",
-      "headline": "Europa League and Conference League fixtures",
-      "description": "Sunderland will travel to AC Milan in the Europa League and Bournemouth will host the Serie A giants as Brighton and Hearts discovered their Conference League opponents.",
-      "publishedAt": "2026-08-28T20:02:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-europa-league-conference-league_7330161.jpg?20260824160843",
-      "link": "https://www.skysports.com/football/news/12040/13578346/europa-league-and-conference-league-fixtures-for-celtic-bournemouth-sunderland-crystal-palace-brighton-and-hearts-confirmed",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "09bf98a9b3f29c82ad3346a9a3b2afbe",
-      "source": "Sky Sports",
-      "headline": "Tottenham latest: 'Couldn't have gone any worse' - Carragher assesses Spurs start",
-      "description": "",
-      "publishedAt": "2026-08-28T12:30:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-29T20:53:13.894Z"
+    "cachedAt": "2026-08-30T05:20:43.595Z"
   }
 }
