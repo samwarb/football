@@ -2,6 +2,241 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49774532,
+      "source": "ESPN",
+      "headline": "After Man United's rocky start, Carrick's calm vindicated in win over Ipswich",
+      "description": "Coach Michael Carrick had a rocky start to Man United's season, but his approach was vindicated in a huge blowout win over Ipswich Town.",
+      "publishedAt": "2026-08-30T20:45:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709098_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49774532/after-man-united-rocky-start-carrick-calm-vindicated-win-ipswich",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49703019,
+      "source": "ESPN",
+      "headline": "Premier League VAR review: Man United handball didn't cancel goal for odd reason",
+      "description": "VAR causes an upset most weeks, but how are those decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
+      "publishedAt": "2026-08-30T20:14:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709133_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "47e2ffcebdcd549cb4bc42dc8558c328",
+      "source": "Sky Sports",
+      "headline": "Tottenham latest: Spurs must get themselves right quickly, says Neville",
+      "description": "",
+      "publishedAt": "2026-08-30T20:05:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "1bb737a0ddabcd12ff8055b01a11fa4b",
+      "source": "Sky Sports",
+      "headline": "Arsenal latest: Alvarez returns to Atletico training as deadline expires",
+      "description": "",
+      "publishedAt": "2026-08-30T19:50:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "1efd801c1b9b8914d92d9e7e5ec7ac4b",
+      "source": "Sky Sports",
+      "headline": "Palace latest: Sarr wants out but Eagles refusing to sell",
+      "description": "",
+      "publishedAt": "2026-08-30T19:45:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49735720,
+      "source": "ESPN",
+      "headline": "European soccer recap: Man United cruise past Ipswich",
+      "description": "Man United beat Ipswich Town after a slow start, Chelsea earned a thrilling win over Brighton and more.",
+      "publishedAt": "2026-08-30T19:44:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709052_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49735720/european-soccer-live-updates-marcus-rashford-starts-manchester-united-host-ipswich-town",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "dfcf837d2882c98c8f01f7e0d7aa59b8",
+      "source": "Sky Sports",
+      "headline": "National League record sale as Abdulmalik leaves Boreham Wood",
+      "description": "",
+      "publishedAt": "2026-08-30T19:10:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-abdul-abdulmalik_7336096.jpg?20260830201102",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49774637,
+      "source": "ESPN",
+      "headline": "Man United's Michael Carrick leaves door open for more transfers before deadline",
+      "description": "Michael Carrick has left the door open for more Manchester United's signings before the transfer deadline, saying \"we'll have to wait and see.\"",
+      "publishedAt": "2026-08-30T19:03:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709094_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49774637/man-united-michael-carrick-leaves-door-open-more-transfers-deadline",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49774606,
+      "source": "ESPN",
+      "headline": "Hislop: VAR decision on Man United goal makes no sense",
+      "description": "Hislop: VAR decision on Man United goal makes no sense",
+      "publishedAt": "2026-08-30T18:52:20Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_ANALYSIS_Hislop_VAR_decision_on_Man_United_goal_makes_no_sense_2026_8_30/dm_260830_COM_SOC_ANALYSIS_Hislop_VAR_decision_on_Man_United_goal_makes_no_sense_2026_8_30.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49774606/var-decision-man-united-goal-makes-no-sense",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49774570,
+      "source": "ESPN",
+      "headline": "Hislop: Chelsea have impressed, but areas of concern remain",
+      "description": "Hislop: Chelsea have impressed, but areas of concern remain",
+      "publishedAt": "2026-08-30T18:50:26Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_ANALYSIS_Hislop_Chelsea_have_impressed_but_areas_of_concern_remain_2026_8_30/dm_260830_COM_SOC_ANALYSIS_Hislop_Chelsea_have_impressed_but_areas_of_concern_remain_2026_8_30.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49774570/chelsea-impressed-areas-concern-remain",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49774267,
+      "source": "ESPN",
+      "headline": "Man United hit Ipswich Town for five, as Bruno Fernandes scores hat trick",
+      "description": "Manchester United captain Bruno Fernandes was on fire against Ipswich Town, as he inspired his team to come from behind to thrash Gary O'Neil's side 5-2.",
+      "publishedAt": "2026-08-30T18:40:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709065_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49774267/man-united-ipswich-town-bruno-fernandes-premier-league-transfers",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49747266,
+      "source": "ESPN",
+      "headline": "Bruno Fernandes nets hat trick as Man United run riot in comeback against Ipswich",
+      "description": "Bruno Fernandes' hat trick helped Manchester United bounce back from their humiliation against Hull City and a poor start against Ipswich to secure a 5-2 comeback victory on Sunday.",
+      "publishedAt": "2026-08-30T18:17:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709043_2_594x334_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879293",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49750271,
+      "source": "ESPN",
+      "headline": "Ollie Watkins departs Aston Villa, joins Saudi Pro League side Al Hilal",
+      "description": "England international Ollie Watkins has joined Al Hilal from Aston Villa, the club has announced.",
+      "publishedAt": "2026-08-30T18:11:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661613_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49750271/ollie-watkins-departs-aston-villa-joins-saudi-pro-league-side-al-hilal",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Al Hilal"
+      ]
+    },
+    {
+      "id": 49774357,
+      "source": "ESPN",
+      "headline": "Alonso: Emi Martinez has 'aura to influence' at Chelsea",
+      "description": "Alonso: Emi Martinez has 'aura to influence' at Chelsea",
+      "publishedAt": "2026-08-30T18:11:09Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_Analysis_Alonso_Emi_Martinez_has_aura_to_influence_at_Chelsea_20260830_GLOBAL/dm_260830_COM_SOC_Analysis_Alonso_Emi_Martinez_has_aura_to_influence_at_Chelsea_20260830_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49774357/emi-martinez-aura-influence-chelsea",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49773669,
+      "source": "ESPN",
+      "headline": "Alonso dropping Enzo Fernández has worked for Chelsea -- so far. Can they afford to let him go?",
+      "description": "Chelsea boss Xabi Alonso has made a big call by dropping Enzo Fernández. But while the midfielder wants out, would the Blues' title hopes leave with him?",
+      "publishedAt": "2026-08-30T17:56:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709060_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49773669/xabi-alonso-dropping-enzo-fernandez-worked-chelsea-far-afford-let-leave",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49747256,
+      "source": "ESPN",
+      "headline": "Dominic Calvert-Lewin scores late equaliser to salvage a 1-1 draw with Brentford at Elland Road",
+      "description": "Dominic Calvert-Lewin fired a late equaliser as Leeds fought back to salvage a 1-1 draw against Brentford in their opening home Premier League game of the season.",
+      "publishedAt": "2026-08-30T17:28:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1708986_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879315",
+      "tag": "Leeds United",
+      "teams": [
+        "Leeds United",
+        "Brentford"
+      ]
+    },
+    {
+      "id": 49747261,
+      "source": "ESPN",
+      "headline": "Sunderland get their first win of the season as Wilson Isidor strike seals 1-0 victory over Fulham",
+      "description": "Sunderland claimed their first win of the season as they edged out Fulham 1-0 thanks to Wilson Isidor's goal, just days after he signed a new contract with the Black Cats.",
+      "publishedAt": "2026-08-30T17:27:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1708987_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879313",
+      "tag": "Sunderland",
+      "teams": [
+        "Sunderland",
+        "Fulham"
+      ]
+    },
+    {
+      "id": "ed652468bf9e6fb4ea75b2fc4eb13dcc",
+      "source": "Sky Sports",
+      "headline": "Hits and misses: Mainoo impresses as well as Fernandes",
+      "description": "",
+      "publishedAt": "2026-08-30T16:31:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-kobbie-mainoo-man-utd_7336086.jpg?20260830195642",
+      "link": "https://www.skysports.com/football/news/12040/13579146/kobbie-mainoo-stars-alongside-bruno-fernandes-in-man-utds-win-over-ipswich-premier-league-hits-and-misses",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49770153,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool in talks to sign Ismaïla Sarr",
@@ -44,42 +279,6 @@
       ]
     },
     {
-      "id": 49735720,
-      "source": "ESPN",
-      "headline": "European soccer live updates: Man United look to bounce back vs. Ipswich",
-      "description": "Marcus Rashford makes his first Premier League start for Manchester United since December 2024 as newly promoted Ipswich Town come to Old Trafford.",
-      "publishedAt": "2026-08-30T16:02:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709011_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49735720/european-soccer-live-updates-marcus-rashford-starts-manchester-united-host-ipswich-town",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": "31c910185937d15548648184ba14a29f",
-      "source": "Sky Sports",
-      "headline": "McInnes' Rangers earn first league win as VAR denies Aberdeen equaliser",
-      "description": "Lawrence Shankland's penalty proved decisive as Rangers secured a 1-0 win at Aberdeen, their first Scottish Premiership win of the season, after the home side were denied a late equaliser by VAR at Pittodrie, easing the pressure on Derek McInnes.",
-      "publishedAt": "2026-08-30T13:32:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-lawrence-shankland_7335555.jpg?20260830134425",
-      "link": "https://www.skysports.com/football/aberdeen-vs-rangers/report/558351",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "521320c2122018a73d7ef5cca3014092",
-      "source": "Sky Sports",
-      "headline": "Barcelona agree deal to sign Jesus from Arsenal",
-      "description": "Barcelona have agreed a deal in principle with Arsenal to sign Gabriel Jesus for £8.6m (€10m).",
-      "publishedAt": "2026-08-30T13:01:00.000Z",
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-gabriel-jesus-arsenal_7151359.jpg?20260131165341",
-      "link": "https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49771534,
       "source": "ESPN",
       "headline": "Liverpool captain Virgil van Dijk urges club to keep a hold of Cody Gakpo",
@@ -107,17 +306,6 @@
       ]
     },
     {
-      "id": "6b96c3f2cb3f4a18dc3622e2c59a6a7c",
-      "source": "Sky Sports",
-      "headline": "Coventry latest: Man City youngster Mfuni joins Sky Blues on loan",
-      "description": "",
-      "publishedAt": "2026-08-30T11:38:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142",
-      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -142,17 +330,6 @@
       ]
     },
     {
-      "id": "20b981ad3dabe322879f3deb6996f2cb",
-      "source": "Sky Sports",
-      "headline": "Spurs and Everton in advanced talks over Ndiaye and Richarlison",
-      "description": "Tottenham and Everton are in advanced talks over transfers for Iliman Ndiaye and Richarlison.",
-      "publishedAt": "2026-08-30T09:42:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-iliman-ndiaye-richarlison_7335450.jpg?20260830103520",
-      "link": "https://www.skysports.com/football/news/12040/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49770342,
       "source": "ESPN",
       "headline": "Tottenham boss Roberto De Zerbi defends 'crucial' Sandro Tonali after tough loss to Newcastle",
@@ -163,31 +340,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "e120d6205614dfc34e6be31291a1db9d",
-      "source": "Sky Sports",
-      "headline": "Chelsea sign Martinez in £7.5m deal from Villa",
-      "description": "Chelsea have signed Emi Martinez from Aston Villa on a three-year deal.",
-      "publishedAt": "2026-08-30T08:10:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-emiliano-martinez_7335481.jpg?20260830115012",
-      "link": "https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49759947,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United offered Atleti striker Sørloth",
-      "description": "Manchester United have been offered the chance to sign Atlético Madrid striker Alexander Sørloth. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-30T02:21:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0221/r1618266_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
-      "tag": "Atlético Madrid",
-      "teams": [
-        "Atlético Madrid",
-        "Manchester United"
       ]
     },
     {
@@ -219,20 +371,6 @@
       ]
     },
     {
-      "id": 49763086,
-      "source": "ESPN",
-      "headline": "Everton fans threaten 'riot' over potential transfer of teenage winger Harrison Armstrong to Nottingham Forest",
-      "description": "Everton fans threatened to \"riot\" if the club cash in on teenage winger Harrison Armstrong.",
-      "publishedAt": "2026-08-30T00:13:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708547_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49763086/everton-harrison-armstrong-nottingham-forest-premier-league",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Nottingham Forest"
-      ]
-    },
-    {
       "id": 49765222,
       "source": "ESPN",
       "headline": "Spurs spent £380m this summer, but De Zerbi & Co. can't buy mentality",
@@ -243,20 +381,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49763383,
-      "source": "ESPN",
-      "headline": "Nottingham Forest nearing deal for Daniel Muñoz from Crystal Palace - sources",
-      "description": "Nottingham Forest are closing in on the signing of full-back Daniel Muñoz from fellow Premier League side Crystal Palace, sources have told ESPN.",
-      "publishedAt": "2026-08-29T22:43:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708569_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49763383/nottingham-forest-nearing-deal-daniel-munoz-crystal-palace-sources",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Crystal Palace"
       ]
     },
     {
@@ -335,20 +459,6 @@
       ]
     },
     {
-      "id": 49764998,
-      "source": "ESPN",
-      "headline": "Man City in transfer talks for Liverpool's Cody Gakpo - sources",
-      "description": "Manchester City are in talks to sign Cody Gakpo from Liverpool, sources have told ESPN. Manchester City are in talks to sign Cody Gakpo from Liverpool, sources have told ESPN.",
-      "publishedAt": "2026-08-29T20:28:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701887_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49764998/man-city-transfer-talks-liverpool-cody-gakpo-sources",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 49765147,
       "source": "ESPN",
       "headline": "De Zerbi apologies to Spurs fans for 'environment' after successive league defeats",
@@ -362,118 +472,20 @@
       ]
     },
     {
-      "id": 49764975,
-      "source": "ESPN",
-      "headline": "Hislop: Tottenham need to find another level",
-      "description": "Hislop: Tottenham need to find another level",
-      "publishedAt": "2026-08-29T19:56:18Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_COM_SOC_ANALYSIS_Hislop_Tottenham_need_to_find_another_level_2026_8_29/dm_260829_COM_SOC_ANALYSIS_Hislop_Tottenham_need_to_find_another_level_2026_8_29.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49764975/tottenham-need-find-another-level",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49764945,
-      "source": "ESPN",
-      "headline": "Hislop hails Newcastle's latest signing González for 'unlocking' Tottenham",
-      "description": "Hislop hails Newcastle's latest signing González for 'unlocking' Tottenham",
-      "publishedAt": "2026-08-29T19:53:36Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_COM_SOC_ANALYSIS_Hislop_hails_Newcastles_latest_signing_GonzC3A1lez_for_Eunlocking_Tottenham_2026_8/dm_260829_COM_SOC_ANALYSIS_Hislop_hails_Newcastles_latest_signing_GonzC3A1lez_for_Eunlocking_Tottenham_2026_8.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49764945/hislop-hails-newcastle-latest-signing-gonzalez-unlocking-tottenham",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49764900,
-      "source": "ESPN",
-      "headline": "Liverpool's Andoni Iraola fumes at substitution delay before Nottingham Forest penalty",
-      "description": "Liverpool manager Andoni Iraola revealed his frustration after being unable to make substitutions before Nottingham Forest were awarded a crucial penalty at Anfield on Saturday.",
-      "publishedAt": "2026-08-29T19:50:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708647_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49764900/liverpool-andoni-iraola-fumes-substitution-delay-nottingham-forest-penalty",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49764441,
-      "source": "ESPN",
-      "headline": "Tottenham suffer back-to-back Premier League defeats after Newcastle inflict 2-0 loss on Roberto De Zerbi's side",
-      "description": "After two Premier League games, Tottenham are winless. Newcastle struck twice in the second half to condemn Spurs to a second defeat in a row in the league.",
-      "publishedAt": "2026-08-29T19:37:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708630_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49764441/spurs-vs-newcastle-premier-league-result",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49764094,
-      "source": "ESPN",
-      "headline": "Hull head coach Sergej Jakirovic: Players must 'stay humble' as dream start continues",
-      "description": "Sergej Jakirovic told his Hull players they must stay humble after they continued their perfect start to life back in the Premier League with a 1-0 win away to old Championship rivals Coventry.",
-      "publishedAt": "2026-08-29T19:11:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708600_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49764094/hull-sergej-jakirovic-premier-league",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49762884,
-      "source": "ESPN",
-      "headline": "Muñoz rescues draw for a Liverpool team unable to shake last season's bad habits",
-      "description": "It's a new season for Liverpool, with a new manager, but Andoni Iraola's side are showing the same shortcomings that cost Arne Slot his job last term.",
-      "publishedAt": "2026-08-29T16:12:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708482_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49762884/victor-munoz-liverpool-nottingham-forest-bad-habits-andoni-iraola-arne-slot",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49747249,
-      "source": "ESPN",
-      "headline": "Hull make it two wins in two as Liam Millar scores only goal at Coventry",
-      "description": "Hull continued their dream start to life in the Premier League as substitute Liam Millar snatched a 1-0 win away to Coventry.",
-      "publishedAt": "2026-08-29T16:06:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708538_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879316",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49762893,
-      "source": "ESPN",
-      "headline": "Liverpool's Iraola 'frustrated' not to win first league game vs. Forest",
-      "description": "Liverpool's Iraola 'frustrated' not to win first league game vs. Forest.",
-      "publishedAt": "2026-08-29T15:36:27Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_Liverpools_Iraola_frustrated_not_to_win_first_league_game_vs_Forest/dm_260829_Liverpools_Iraola_frustrated_not_to_win_first_league_game_vs_Forest.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49762893/liverpool-iraola-frustrated-not-win-first-league-game-vs-forest",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
+      "id": "96446d2e606b3fb0075c1e5b37f20bfa",
+      "source": "Sky Sports",
+      "headline": "Ipswich latest: We must respond better to setbacks, says O'Neil",
+      "description": "",
+      "publishedAt": "2026-08-28T14:15:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-30T16:38:38.268Z"
+    "cachedAt": "2026-08-30T21:01:46.358Z"
   }
 }
