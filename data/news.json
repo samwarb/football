@@ -2,18 +2,120 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49735720,
+      "id": 49770153,
       "source": "ESPN",
-      "headline": "European soccer live updates: Chelsea host Brighton & Hove Albion",
-      "description": "Chelsea and Brighton & Hove Albion face off, each seeking their second Premier League victory as another day of matches across Europe begins.",
-      "publishedAt": "2026-08-30T11:27:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707353_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49735720/european-soccer-live-updates-chelsea-host-brighton-hove-albion",
+      "headline": "Transfer rumors, news: Liverpool in talks to sign Ismaïla Sarr",
+      "description": "Crystal Palace winger Ismaïla Sarr is pushing for a move to Liverpool before the summer transfer window closes. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-30T16:16:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1708882_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49770153/transfer-rumors-news-liverpool-talks-sign-ismaila-sarr-crystal-palace",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": 49773168,
+      "source": "ESPN",
+      "headline": "Chelsea put four past Brighton to continue winning start under Xabi Alonso",
+      "description": "Chelsea marked Xabi Alonso's home debut with an entertaining 4-3 victory over Brighton to continue their winning start to the season.",
+      "publishedAt": "2026-08-30T16:14:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1708995_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49773168/chelsea-put-four-brighton-continue-winning-start-xabi-alonso",
       "tag": "Chelsea",
       "teams": [
         "Chelsea",
         "Brighton & Hove Albion"
       ]
+    },
+    {
+      "id": 49773436,
+      "source": "ESPN",
+      "headline": "Michalik: Chelsea are already showing Alonso's identity",
+      "description": "Michalik: Chelsea are already showing Alonso's identity",
+      "publishedAt": "2026-08-30T16:10:50Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_ANALYSIS_Michalik_Chelsea_are_already_showing_Alonsos_identity_2026_8_30/dm_260830_COM_SOC_ANALYSIS_Michalik_Chelsea_are_already_showing_Alonsos_identity_2026_8_30.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49773436/chelsea-already-showing-alonso-identity",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49735720,
+      "source": "ESPN",
+      "headline": "European soccer live updates: Man United look to bounce back vs. Ipswich",
+      "description": "Marcus Rashford makes his first Premier League start for Manchester United since December 2024 as newly promoted Ipswich Town come to Old Trafford.",
+      "publishedAt": "2026-08-30T16:02:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709011_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49735720/european-soccer-live-updates-marcus-rashford-starts-manchester-united-host-ipswich-town",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "31c910185937d15548648184ba14a29f",
+      "source": "Sky Sports",
+      "headline": "McInnes' Rangers earn first league win as VAR denies Aberdeen equaliser",
+      "description": "Lawrence Shankland's penalty proved decisive as Rangers secured a 1-0 win at Aberdeen, their first Scottish Premiership win of the season, after the home side were denied a late equaliser by VAR at Pittodrie, easing the pressure on Derek McInnes.",
+      "publishedAt": "2026-08-30T13:32:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-lawrence-shankland_7335555.jpg?20260830134425",
+      "link": "https://www.skysports.com/football/aberdeen-vs-rangers/report/558351",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "521320c2122018a73d7ef5cca3014092",
+      "source": "Sky Sports",
+      "headline": "Barcelona agree deal to sign Jesus from Arsenal",
+      "description": "Barcelona have agreed a deal in principle with Arsenal to sign Gabriel Jesus for £8.6m (€10m).",
+      "publishedAt": "2026-08-30T13:01:00.000Z",
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-gabriel-jesus-arsenal_7151359.jpg?20260131165341",
+      "link": "https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49771534,
+      "source": "ESPN",
+      "headline": "Liverpool captain Virgil van Dijk urges club to keep a hold of Cody Gakpo",
+      "description": "Virgil van Dijk has urged Liverpool to keep Cody Gakpo at the club amid interest from Manchester City.",
+      "publishedAt": "2026-08-30T12:07:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1708911_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49771534/liverpool-cody-gakpo-man-city-premier-league-transfers-virgil-van-dijk",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49770928,
+      "source": "ESPN",
+      "headline": "Everton eye Folarin Balogun amid Iliman Ndiaye links with Tottenham - sources",
+      "description": "Everton are considering a move for USMNT forward Folarin Balogun ahead of Tuesday's transfer deadline, sources have told ESPN.",
+      "publishedAt": "2026-08-30T11:55:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1708905_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49770928/everton-eye-folarin-balogun-amid-iliman-ndiaye-links-tottenham-sources",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Everton"
+      ]
+    },
+    {
+      "id": "6b96c3f2cb3f4a18dc3622e2c59a6a7c",
+      "source": "Sky Sports",
+      "headline": "Coventry latest: Man City youngster Mfuni joins Sky Blues on loan",
+      "description": "",
+      "publishedAt": "2026-08-30T11:38:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142",
+      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 48990955,
@@ -40,18 +142,15 @@
       ]
     },
     {
-      "id": 49770153,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool in talks to sign Ismaïla Sarr",
-      "description": "Crystal Palace winger Ismaïla Sarr is pushing for a move to Liverpool before the summer transfer window closes. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-30T10:08:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708882_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49770153/transfer-rumors-news-liverpool-talks-sign-ismaila-sarr-crystal-palace",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Crystal Palace"
-      ]
+      "id": "20b981ad3dabe322879f3deb6996f2cb",
+      "source": "Sky Sports",
+      "headline": "Spurs and Everton in advanced talks over Ndiaye and Richarlison",
+      "description": "Tottenham and Everton are in advanced talks over transfers for Iliman Ndiaye and Richarlison.",
+      "publishedAt": "2026-08-30T09:42:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-iliman-ndiaye-richarlison_7335450.jpg?20260830103520",
+      "link": "https://www.skysports.com/football/news/12040/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49770342,
@@ -65,6 +164,17 @@
       "teams": [
         "Tottenham Hotspur"
       ]
+    },
+    {
+      "id": "e120d6205614dfc34e6be31291a1db9d",
+      "source": "Sky Sports",
+      "headline": "Chelsea sign Martinez in £7.5m deal from Villa",
+      "description": "Chelsea have signed Emi Martinez from Aston Villa on a three-year deal.",
+      "publishedAt": "2026-08-30T08:10:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-emiliano-martinez_7335481.jpg?20260830115012",
+      "link": "https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49759947,
@@ -136,17 +246,6 @@
       ]
     },
     {
-      "id": "7ed18bea53b52171ada18340453b5453",
-      "source": "Sky Sports",
-      "headline": "Warrington continue winning streak after edging Hull FC and booking play-off spot!",
-      "description": "Highlights of the Super League match between Hull FC and Warrington Wolves.",
-      "publishedAt": "2026-08-29T23:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugby-warrington_7335341.jpg?20260829232740",
-      "link": "https://www.skysports.com/watch/video/13578907/hull-fc-14-16-warrington-wolves-super-league-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49763383,
       "source": "ESPN",
       "headline": "Nottingham Forest nearing deal for Daniel Muñoz from Crystal Palace - sources",
@@ -200,17 +299,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "7481873bd8016b4820bad387a0a44222",
-      "source": "Sky Sports",
-      "headline": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-08-29T21:22:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49765158,
@@ -370,19 +458,6 @@
       ]
     },
     {
-      "id": 49762820,
-      "source": "ESPN",
-      "headline": "Marli Salmon signs first professional deal at Arsenal after turning 17",
-      "description": "Marli Salmon has signed his first professional contract with Arsenal after turning 17 on Saturday.",
-      "publishedAt": "2026-08-29T15:43:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708532_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49762820/marli-salmon-professional-arsenal-contract-17-birthday-academy",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 49762893,
       "source": "ESPN",
       "headline": "Liverpool's Iraola 'frustrated' not to win first league game vs. Forest",
@@ -394,52 +469,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 49762711,
-      "source": "ESPN",
-      "headline": "Glasner: We should have beaten Liverpool",
-      "description": "Glasner: We should have beaten Liverpool",
-      "publishedAt": "2026-08-29T15:07:48Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_Glasner_We_should_have_beaten_Liverpool/dm_260829_Glasner_We_should_have_beaten_Liverpool.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49762711/beaten-liverpool",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49762646,
-      "source": "ESPN",
-      "headline": "Can Liam Delap flourish again at Nottingham Forest?",
-      "description": "Can Liam Delap flourish again at Nottingham Forest?",
-      "publishedAt": "2026-08-29T14:57:55Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_COM_SOC_ANALYSIS_Can_Liam_Delap_flourish_again_at_Nottingham_Forest_2026_8_29/dm_260829_COM_SOC_ANALYSIS_Can_Liam_Delap_flourish_again_at_Nottingham_Forest_2026_8_29.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49762646/can-liam-delap-flourish-again-nottingham-forest",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49762604,
-      "source": "ESPN",
-      "headline": "Ogden: Wirtz is becoming a problem for Liverpool",
-      "description": "Ogden: Wirtz is becoming a problem for Liverpool",
-      "publishedAt": "2026-08-29T14:52:36Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_COM_SOC_ANALYSIS_Ogden_Wirtz_is_becoming_a_problem_for_Liverpool_2026_8_29/dm_260829_COM_SOC_ANALYSIS_Ogden_Wirtz_is_becoming_a_problem_for_Liverpool_2026_8_29.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49762604/wirtz-becoming-problem-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Nottingham Forest"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-30T11:51:54.570Z"
+    "cachedAt": "2026-08-30T16:38:38.268Z"
   }
 }
