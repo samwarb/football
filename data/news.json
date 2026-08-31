@@ -6,13 +6,67 @@
       "source": "ESPN",
       "headline": "After Man United's rocky start, Carrick's calm vindicated in win over Ipswich",
       "description": "Coach Michael Carrick had a rocky start to Man United's season, but his approach was vindicated in a huge blowout win over Ipswich Town.",
-      "publishedAt": "2026-08-30T20:45:37Z",
+      "publishedAt": "2026-08-30T23:26:07Z",
       "image": "https://a.espncdn.com/photo/2026/0830/r1709098_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49774532/after-man-united-rocky-start-carrick-calm-vindicated-win-ipswich",
       "tag": "Manchester United",
       "teams": [
         "Manchester United",
         "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49770153,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool, Newcastle eye Fernandez-Pardo",
+      "description": "Liverpool and Newcastle are interested in Lille forward Matias Fernandez-Pardo. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-30T23:23:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709244_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49770153/transfer-rumors-news-liverpool-newcastle-eye-fernandez-pardo",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": 49777532,
+      "source": "ESPN",
+      "headline": "Chelsea claim victory in seven-goal classic against Brighton",
+      "description": "Cole Palmer's darting run and classy finish caps off Chelsea's 4-3 victory over Brighton as the Blues maintain their perfect start to the Premier League season.",
+      "publishedAt": "2026-08-30T23:19:34Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_Soccer_HIGHLIGHT_Chelsea_claim_victory_in_seven_goal_classic_against_Brighton_20260831_AUS/dm_260830_Soccer_HIGHLIGHT_Chelsea_claim_victory_in_seven_goal_classic_against_Brighton_20260831_AUS.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49777532/chelsea-claim-victory-seven-goal-classic-brighton",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49777225,
+      "source": "ESPN",
+      "headline": "Fernandes claims hat trick in United's 5-2 win against Ipswich",
+      "description": "Bruno Fernandes nets three goals to guide Manchester United to an important win over Ipswich Town.",
+      "publishedAt": "2026-08-30T22:49:47Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_Soccer_HIGHLIGHT_Fernandes_claims_hat_trick_in_Uniteds_5_2_win_against_Ipswich_20260831_AUS/dm_260830_Soccer_HIGHLIGHT_Fernandes_claims_hat_trick_in_Uniteds_5_2_win_against_Ipswich_20260831_AUS.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49777225/fernandes-claims-hat-trick-united-5-2-win-ipswich",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49776270,
+      "source": "ESPN",
+      "headline": "Carrick: Man United 'happy but always open' as transfer deadline approaches",
+      "description": "Carrick: Man United 'happy but always open' as transfer deadline approaches",
+      "publishedAt": "2026-08-30T21:25:47Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49776270/man-united-happy-always-open-transfer-deadline-approaches",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town",
+        "Manchester United"
       ]
     },
     {
@@ -28,17 +82,6 @@
         "Manchester United",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "47e2ffcebdcd549cb4bc42dc8558c328",
-      "source": "Sky Sports",
-      "headline": "Tottenham latest: Spurs must get themselves right quickly, says Neville",
-      "description": "",
-      "publishedAt": "2026-08-30T20:05:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": "1bb737a0ddabcd12ff8055b01a11fa4b",
@@ -75,17 +118,6 @@
         "Manchester United",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "dfcf837d2882c98c8f01f7e0d7aa59b8",
-      "source": "Sky Sports",
-      "headline": "National League record sale as Abdulmalik leaves Boreham Wood",
-      "description": "",
-      "publishedAt": "2026-08-30T19:10:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-abdul-abdulmalik_7336096.jpg?20260830201102",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49774637,
@@ -226,31 +258,6 @@
       ]
     },
     {
-      "id": "ed652468bf9e6fb4ea75b2fc4eb13dcc",
-      "source": "Sky Sports",
-      "headline": "Hits and misses: Mainoo impresses as well as Fernandes",
-      "description": "",
-      "publishedAt": "2026-08-30T16:31:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-kobbie-mainoo-man-utd_7336086.jpg?20260830195642",
-      "link": "https://www.skysports.com/football/news/12040/13579146/kobbie-mainoo-stars-alongside-bruno-fernandes-in-man-utds-win-over-ipswich-premier-league-hits-and-misses",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49770153,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool in talks to sign Ismaïla Sarr",
-      "description": "Crystal Palace winger Ismaïla Sarr is pushing for a move to Liverpool before the summer transfer window closes. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-30T16:16:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708882_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49770153/transfer-rumors-news-liverpool-talks-sign-ismaila-sarr-crystal-palace",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Crystal Palace"
-      ]
-    },
-    {
       "id": 49773168,
       "source": "ESPN",
       "headline": "Chelsea put four past Brighton to continue winning start under Xabi Alonso",
@@ -371,19 +378,6 @@
       ]
     },
     {
-      "id": 49765222,
-      "source": "ESPN",
-      "headline": "Spurs spent £380m this summer, but De Zerbi & Co. can't buy mentality",
-      "description": "After nearly being relegated last season, Tottenham spent big this summer. In a 2-0 loss to Newcastle on Saturday, they showed the same mental frailty.",
-      "publishedAt": "2026-08-29T23:21:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708661_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49765222/tottenham-hotspur-spent-380-million-transfers-summer-roberto-de-zerbi-cant-buy-mentality",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49766206,
       "source": "ESPN",
       "headline": "Can Liverpool afford to let Gakpo join Man City?",
@@ -425,22 +419,6 @@
       ]
     },
     {
-      "id": 49765158,
-      "source": "ESPN",
-      "headline": "Tottenham's De Zerbi: Richarlison, Danso, Sarr have asked to leave",
-      "description": "Tottenham Hotspur coach Roberto De Zerbi said Richarlison, Kevin Danso and Pape Matar Sarr have asked to leave the club.",
-      "publishedAt": "2026-08-29T21:04:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708658_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49765158/tottenham-roberto-de-zerbi-richarlison-kevin-danso-pape-sarr",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Brazil",
-        "Senegal",
-        "Austria"
-      ]
-    },
-    {
       "id": 49733907,
       "source": "ESPN",
       "headline": "European soccer recap: Liverpool held by Forest, big-spending Spurs stumble vs. Newcastle",
@@ -459,33 +437,20 @@
       ]
     },
     {
-      "id": 49765147,
-      "source": "ESPN",
-      "headline": "De Zerbi apologies to Spurs fans for 'environment' after successive league defeats",
-      "description": "De Zerbi apologies to Spurs fans for 'environment' after successive league defeats",
-      "publishedAt": "2026-08-29T20:16:11Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_De_Zerbi_apologies_to_Spurs_fans_for_environment_after_successive_league_defeats/dm_260829_De_Zerbi_apologies_to_Spurs_fans_for_environment_after_successive_league_defeats.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49765147/de-zerbi-apologies-spurs-fans-environment-successive-league-defeats",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": "96446d2e606b3fb0075c1e5b37f20bfa",
+      "id": "37e65788595de3a6db4bfb98cffdb38d",
       "source": "Sky Sports",
-      "headline": "Ipswich latest: We must respond better to setbacks, says O'Neil",
-      "description": "",
-      "publishedAt": "2026-08-28T14:15:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
+      "headline": "Premier League ins and outs - the confirmed deals so far...",
+      "description": "The summer transfer window opened on June 15 and closes at 11pm UK time on September 1. Find out who is on the move across the Premier League.",
+      "publishedAt": "2026-08-14T13:42:00.000Z",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-transfer-ins-outs_7152975.jpg?20260202081247",
+      "link": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
+      "tag": "News Story",
       "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-30T21:01:46.358Z"
+    "cachedAt": "2026-08-31T05:29:20.912Z"
   }
 }
