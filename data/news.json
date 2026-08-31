@@ -2,6 +2,163 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-31T13:37:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706911_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49750588,
+      "source": "ESPN",
+      "headline": "Bradley Barcola joins Liverpool in £106m move from Paris Saint-Germain",
+      "description": "Liverpool have confirmed the signing of forward Bradley Barcola from Paris Saint-Germain.",
+      "publishedAt": "2026-08-31T13:37:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709440_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49750588/bradley-barcola-joins-liverpool-123-million-move-paris-saint-germain",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": 49780513,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Spurs to make late move for Pulisic?",
+      "description": "The deadline for the summer window in Europe closes tomorrow, and Tottenham Hotspur are interested in AC Milan winger Christian Pulisic. Transfer Talk has the latest.",
+      "publishedAt": "2026-08-31T13:24:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703941_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49780513/transfer-rumors-news-spurs-make-late-move-usmnt-star-christian-pulisic",
+      "tag": "AC Milan",
+      "teams": [
+        "AC Milan",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49782122,
+      "source": "ESPN",
+      "headline": "Liverpool closing in on £30m Lucca Brughmans deal - sources",
+      "description": "Liverpool are closing in on a deal to sign goalkeeper Lucca Brughmans from Belgium side Genk, sources told ESPN.",
+      "publishedAt": "2026-08-31T12:22:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709410_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49782122/liverpool-closing-30m-lucca-brughmans-deal-sources",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49720080,
+      "source": "ESPN",
+      "headline": "Man City announce signing of Allan Elias from Palmeiras",
+      "description": "Manchester City have completed the signing of winger Allan Elias from Palmeiras, the club have announced.",
+      "publishedAt": "2026-08-31T12:04:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706614_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49720080/man-city-transfers-premier-league-palmeiras",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Palmeiras"
+      ]
+    },
+    {
+      "id": 49780927,
+      "source": "ESPN",
+      "headline": "What can we expect on transfer deadline day? Balogun, Enzo, Álvarez updates?",
+      "description": "The summer transfer deadline closes on Sept. 1 at 6 p.m. ET for the Premier League, so here are a few things that could still happen.",
+      "publishedAt": "2026-08-31T12:02:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709375_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49780927/what-expect-transfer-deadline-day-balogun-enzo-alvarez-premier-league-laliga-europe",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City",
+        "Liverpool",
+        "Chelsea",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49781193,
+      "source": "ESPN",
+      "headline": "Harry Maguire: Man United spotlight a 'shock' for new signings",
+      "description": "Harry Maguire has said Manchester United's summer signings will have had a \"shock\" after the reaction to the defeat to Hull City, but insisted the result at the MKM Stadium was never a \"crisis.\"",
+      "publishedAt": "2026-08-31T11:00:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709384_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49781193/harry-maguire-man-united-spotlight-shock-new-signings",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49781322,
+      "source": "ESPN",
+      "headline": "Arteta: Unai Emery's skill as a manager is unquestionable",
+      "description": "Arteta: Unai Emery's skill as a manager is unquestionable",
+      "publishedAt": "2026-08-31T10:19:54Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Arteta_Unai_Emerys_skill_as_a_manager_is_unquestionable/dm_260831_Arteta_Unai_Emerys_skill_as_a_manager_is_unquestionable.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49781322/unai-emery-skill-manager-unquestionable",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 48991120,
+      "source": "ESPN",
+      "headline": "Transfer big board: Best players in each position who could move this summer",
+      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
+      "publishedAt": "2026-08-31T10:08:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49703019,
+      "source": "ESPN",
+      "headline": "Premier League VAR review: Man United handball didn't cancel goal for odd reason",
+      "description": "VAR causes an upset most weeks, but how are those decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
+      "publishedAt": "2026-08-31T08:35:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709133_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": "7c2ab38e5e24c5b05bf7e8aa6fa9287f",
+      "source": "Sky Sports",
+      "headline": "Euro Debrief: Mourinho getting best out of Bellingham at Real Madrid",
+      "description": "",
+      "publishedAt": "2026-08-31T08:00:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-euro-debrief-real-madrid_7336379.jpg?20260831085933",
+      "link": "https://www.skysports.com/football/news/12040/13576939/jude-bellingham-jose-mourinho-getting-best-out-of-england-star-as-a-no-10-at-real-madrid-plus-lots-more-in-the-euro-debrief",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": "b65e3253e9fb5763420e7f017e1db989",
+      "source": "Sky Sports",
+      "headline": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+      "description": "",
+      "publishedAt": "2026-08-31T07:55:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
+      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49774532,
       "source": "ESPN",
       "headline": "After Man United's rocky start, Carrick's calm vindicated in win over Ipswich",
@@ -68,42 +225,6 @@
         "Ipswich Town",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49703019,
-      "source": "ESPN",
-      "headline": "Premier League VAR review: Man United handball didn't cancel goal for odd reason",
-      "description": "VAR causes an upset most weeks, but how are those decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
-      "publishedAt": "2026-08-30T20:14:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709133_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": "1bb737a0ddabcd12ff8055b01a11fa4b",
-      "source": "Sky Sports",
-      "headline": "Arsenal latest: Alvarez returns to Atletico training as deadline expires",
-      "description": "",
-      "publishedAt": "2026-08-30T19:50:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "1efd801c1b9b8914d92d9e7e5ec7ac4b",
-      "source": "Sky Sports",
-      "headline": "Palace latest: Sarr wants out but Eagles refusing to sell",
-      "description": "",
-      "publishedAt": "2026-08-30T19:45:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49735720,
@@ -313,128 +434,15 @@
       ]
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-30T10:42:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708900_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
+      "id": "a015076d5aa917597e4840e7f4e4c3b6",
+      "source": "Sky Sports",
+      "headline": "Why Arsenal still needed Konsa - despite having so many defenders",
+      "description": "The final hours of the transfer window could see Arsenal bring in an attacker. But before the window shuts, a defensive purchase could take centre stage on Monday night.",
+      "publishedAt": "2026-08-28T18:52:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-konsa-arsenal_7336314.jpg?20260831071741",
+      "link": "https://www.skysports.com/football/news/12040/13578303/ezri-konsa-why-arsenal-signed-aston-villas-top-defender-for-55m-despite-having-so-many-defenders",
+      "tag": "News Story",
       "teams": []
-    },
-    {
-      "id": 49770741,
-      "source": "ESPN",
-      "headline": "Premier League will not wait for rebuilt Aston Villa squad to settle - Unai Emery",
-      "description": "Aston Villa boss Unai Emery has said his overhauled squad have to hit the ground running and that the intensity of the Premier League won't wait for them to settle.",
-      "publishedAt": "2026-08-30T10:12:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708894_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49770741/premier-league-not-wait-rebuilt-aston-villa-squad-settle-unai-emery",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 49770342,
-      "source": "ESPN",
-      "headline": "Tottenham boss Roberto De Zerbi defends 'crucial' Sandro Tonali after tough loss to Newcastle",
-      "description": "Roberto De Zerbi leapt to the defence of Tottenham midfielder Sandro Tonali after he endured a night to forget in a 2-0 loss at home to his old club Newcastle.",
-      "publishedAt": "2026-08-30T08:23:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708885_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49770342/tottenham-boss-roberto-de-zerbi-defends-crucial-sandro-tonali-tough-loss-newcastle",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49767560,
-      "source": "ESPN",
-      "headline": "Muñoz, Liverpool rescue late 2-2 draw against Forest",
-      "description": "Víctor Muñoz's powerful 82nd-minute strike levels late for Liverpool in their home opener against Nottingham Forest.",
-      "publishedAt": "2026-08-30T00:37:47Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_EPL_Highlight_Munoz_Liverpool_rescue_late_22_draw_against_Forest_20260830_AUS_ONLY/dm_260829_EPL_Highlight_Munoz_Liverpool_rescue_late_22_draw_against_Forest_20260830_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49767560/munoz-liverpool-rescue-late-2-2-draw-forest",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49767554,
-      "source": "ESPN",
-      "headline": "Newcastle hand big-spending Spurs second-consecutive EPL loss",
-      "description": "Anthony Elanga and Yoane Wisse score for the Magpies to leave a deflated Tottenham pointless after two Premier League games.",
-      "publishedAt": "2026-08-30T00:37:21Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_EPL_Highlight_Newcastle_hand_bigspending_Spurs_secondconsecutive_EPL_loss__20260830_AUS_ONLY/dm_260829_EPL_Highlight_Newcastle_hand_bigspending_Spurs_secondconsecutive_EPL_loss__20260830_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49767554/newcastle-hand-big-spending-spurs-second-consecutive-epl-loss",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49766206,
-      "source": "ESPN",
-      "headline": "Can Liverpool afford to let Gakpo join Man City?",
-      "description": "Can Liverpool afford to let Gakpo join Man City?",
-      "publishedAt": "2026-08-29T22:17:47Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_COM_SOC_ANALYSIS_Can_Liverpool_afford_to_let_Gakpo_join_Man_City_2026_8_26/dm_260829_COM_SOC_ANALYSIS_Can_Liverpool_afford_to_let_Gakpo_join_Man_City_2026_8_26.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49766206/can-liverpool-afford-let-gakpo-join-man-city",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49766194,
-      "source": "ESPN",
-      "headline": "Is Barcola the key to unlocking Wirtz at Liverpool?",
-      "description": "Is Barcola the key to unlocking Wirtz at Liverpool?",
-      "publishedAt": "2026-08-29T22:17:19Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_COM_SOC_ANALYSIS_Is_Barcola_the_key_to_unlocking_Wirtz_at_Liverpool_2026_8_29/dm_260829_COM_SOC_ANALYSIS_Is_Barcola_the_key_to_unlocking_Wirtz_at_Liverpool_2026_8_29.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49766194/is-barcola-key-unlocking-wirtz-liverpool",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49764906,
-      "source": "ESPN",
-      "headline": "Michael Carrick: 'Lazy' to claim Man United lack passion",
-      "description": "Manchester United head coach Michael Carrick has branded claims that his side lacked motivation in their defeat to Hull City as \"lazy.\"",
-      "publishedAt": "2026-08-29T21:30:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708657_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49764906/michael-carrick-man-united-passion-lazy-hull-ipswich",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49733907,
-      "source": "ESPN",
-      "headline": "European soccer recap: Liverpool held by Forest, big-spending Spurs stumble vs. Newcastle",
-      "description": "Soccer matches are kicking off in the Premier League and across Europe with all five of the continent's major leagues finally in action!",
-      "publishedAt": "2026-08-29T21:02:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708595_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49733907/european-live-updates-liverpool-draw-forest-premier-league-action-continues",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Liverpool",
-        "AFC Bournemouth",
-        "Everton",
-        "Coventry City",
-        "Hull City"
-      ]
     },
     {
       "id": "37e65788595de3a6db4bfb98cffdb38d",
@@ -451,6 +459,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-31T05:29:20.912Z"
+    "cachedAt": "2026-08-31T13:43:05.399Z"
   }
 }
