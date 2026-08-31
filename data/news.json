@@ -2,28 +2,73 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 48990955,
+      "id": 49787591,
       "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-31T13:37:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0825/r1706911_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
+      "headline": "Arsenal remain undefeated in the Premier League",
+      "description": "The defending champions sneak past Aston Villa 1-0, thanks to a 59-minute goal from Bukayo Saka.",
+      "publishedAt": "2026-08-31T22:40:47Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Soccer_HIGHLIGHT_Arsenal_remain_undefeated_in_the_Premier_League_20260901_AUS/dm_260831_Soccer_HIGHLIGHT_Arsenal_remain_undefeated_in_the_Premier_League_20260901_AUS.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49787591/arsenal-remain-undefeated-premier-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
     },
     {
-      "id": 49750588,
+      "id": 49786707,
       "source": "ESPN",
-      "headline": "Bradley Barcola joins Liverpool in £106m move from Paris Saint-Germain",
-      "description": "Liverpool have confirmed the signing of forward Bradley Barcola from Paris Saint-Germain.",
-      "publishedAt": "2026-08-31T13:37:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709440_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49750588/bradley-barcola-joins-liverpool-123-million-move-paris-saint-germain",
-      "tag": "Liverpool",
+      "headline": "Arsenal win at Villa shows they're OK without transfer window help, but an attacker would help",
+      "description": "As good as Arsenal already are, it's clear an attacking transfer boost could take the club to a new level in the Premier League title race.",
+      "publishedAt": "2026-08-31T22:37:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709679_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49786707/arsenal-win-villa-shows-ok-transfer-window-help-attacker-help",
+      "tag": "Arsenal",
       "teams": [
-        "Liverpool",
-        "Paris Saint-Germain"
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49783677,
+      "source": "ESPN",
+      "headline": "Sources: Folarin Balogun joining Everton in deal worth up to $54M",
+      "description": "Everton are closing in on a move for Folarin Balogun after submitting a £35 million offer ($47.5m) for the AS Monaco forward, sources have told ESPN.",
+      "publishedAt": "2026-08-31T22:27:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700903_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49783677/everton-deal-usmnt-forward-folarin-balogun-sources",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "AS Monaco",
+        "United States"
+      ]
+    },
+    {
+      "id": 49746585,
+      "source": "ESPN",
+      "headline": "Premier League recap: Saka's winner helps Arsenal defeat Aston Villa",
+      "description": "Enjoy all that happened from Villa Park as Premier League champions Arsenal defeated Aston Villa.",
+      "publishedAt": "2026-08-31T22:18:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709655_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49746585/premier-league-live-updates-aston-villa-host-defending-champs-arsenal",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49787292,
+      "source": "ESPN",
+      "headline": "Nicol: This Arsenal side could play in any era",
+      "description": "Nicol: This Arsenal side could play in any era",
+      "publishedAt": "2026-08-31T21:59:10Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_COM_SOC_Analysis_Nicol_This_Arsenal_side_could_play_in_any_era__20260831_GLOBAL/dm_260831_COM_SOC_Analysis_Nicol_This_Arsenal_side_could_play_in_any_era__20260831_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49787292/arsenal-side-play-era",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
       ]
     },
     {
@@ -31,13 +76,189 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Spurs to make late move for Pulisic?",
       "description": "The deadline for the summer window in Europe closes tomorrow, and Tottenham Hotspur are interested in AC Milan winger Christian Pulisic. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-31T13:24:12Z",
+      "publishedAt": "2026-08-31T21:42:01Z",
       "image": "https://a.espncdn.com/photo/2026/0819/r1703941_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49780513/transfer-rumors-news-spurs-make-late-move-usmnt-star-christian-pulisic",
       "tag": "AC Milan",
       "teams": [
         "AC Milan",
         "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49747269,
+      "source": "ESPN",
+      "headline": "Bukayo Saka goal gives Arsenal narrow win over Aston Villa",
+      "description": "Bukayo Saka's second-half strike gave Arsenal an edgy 1-0 victory at Aston Villa.",
+      "publishedAt": "2026-08-31T21:40:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709670_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879295",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49786706,
+      "source": "ESPN",
+      "headline": "Bukayo Saka scores as Arsenal beat Aston Villa in tight affair",
+      "description": "Bukayo Saka's second-half goal proved the difference as Arsenal overcame a stubborn Aston Villa side in a tight affair at Villa Park.",
+      "publishedAt": "2026-08-31T21:19:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709669_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49786706/bukayo-saka-scores-arsenal-beat-ason-villa-tight-affair",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-08-31T20:33:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709440_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49785040,
+      "source": "ESPN",
+      "headline": "Everton-linked Richarlison asks Tottenham to show 'respect' over transfer away",
+      "description": "Richarlison has opened the door for an emotional return to Everton but warned \"never again will anyone decide my future for me\" in a thinly-veiled dig on social media.",
+      "publishedAt": "2026-08-31T20:33:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709588_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49785040/everton-linked-richarlison-asks-tottenham-show-respect-transfer-away",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Everton"
+      ]
+    },
+    {
+      "id": 49784603,
+      "source": "ESPN",
+      "headline": "Tottenham approach Chelsea over Mykhailo Mudryk, Tosin Adarabioyo transfers - sources",
+      "description": "Tottenham Hotspur have made enquiries to Chelsea for Mykhailo Mudryk and Tosin Adarabioyo, sources have told ESPN.",
+      "publishedAt": "2026-08-31T19:44:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709562_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49784603/tottenham-hotspur-approach-chelsea-mykhailo-mudryk-tosin-adarabioyo-transfers-sources",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "9760de834483a58b846514135c39d519",
+      "source": "Sky Sports",
+      "headline": "Everton latest: Toffees agree £40m Balogun deal",
+      "description": "",
+      "publishedAt": "2026-08-31T19:32:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49784920,
+      "source": "ESPN",
+      "headline": "Sources: Manchester City reach agreement for Everton's Ndiaye",
+      "description": "Manchester City have agreed a deal with Everton for Iliman Ndiaye, sources have told ESPN.",
+      "publishedAt": "2026-08-31T19:01:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692197_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49784920/manchester-city-reach-agreement-everton-ndiaye",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Everton",
+        "Senegal"
+      ]
+    },
+    {
+      "id": "9e47e0a32334bd5b01092292db2797f7",
+      "source": "Sky Sports",
+      "headline": "Man City agree £65m Ndiaye deal as Spurs turn attention to Mudryk",
+      "description": "Manchester City have agreed a £65m deal with Everton for winger Iliman Ndiaye as an alternative to Cody Gakpo.",
+      "publishedAt": "2026-08-31T18:15:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-everton-ndiaye-newcastle_7320023.jpg?20260812193919",
+      "link": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-agree-65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "e14746b06cfb6bcfcf033eb216225c4f",
+      "source": "Sky Sports",
+      "headline": "McInnes ban verdict over 'disgusting' comment revealed after Rangers appeal",
+      "description": "Derek McInnes' immediate touchline ban has been reduced following Rangers' appeal.",
+      "publishedAt": "2026-08-31T18:00:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-derek-mcinnes-rangers_7288098.jpg?20260702132857",
+      "link": "https://www.skysports.com/football/news/12040/13579467/derek-mcinnes-rangers-managers-touchline-ban-changed-after-appeal-over-disgusting-comment-last-season",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "47e80e533b5da79ee3a86928e6e3ba7b",
+      "source": "Sky Sports",
+      "headline": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "description": "",
+      "publishedAt": "2026-08-31T17:55:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
+      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "3adbaca592b9e6f8f23057967e879296",
+      "source": "Sky Sports",
+      "headline": "Penalty appeals rejected after Saka scores opener for Arsenal LIVE!",
+      "description": "",
+      "publishedAt": "2026-08-31T17:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-saka-bukayo-arsenal_7336940.jpg?20260831212209",
+      "link": "https://www.skysports.com/football/aston-villa-vs-arsenal/live/559454",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49783362,
+      "source": "ESPN",
+      "headline": "EFL criticises UEFA after rescheduling three domestic fixtures",
+      "description": "The English Football League has accused UEFA of an \"unwillingness to cooperate\" after it says the European governing body's stance forced them to rearrange three domestic fixtures.",
+      "publishedAt": "2026-08-31T17:12:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707643_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49783362/efl-criticises-uefa-rescheduling-three-domestic-fixtures",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 49784048,
+      "source": "ESPN",
+      "headline": "Cody Gakpo set for Liverpool stay after Man City offer rejected - sources",
+      "description": "Cody Gakpo looks set to stay at Liverpool after the club rejected a bid for the forward from Manchester City, sources told ESPN.",
+      "publishedAt": "2026-08-31T16:53:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0825/r1706612_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49784048/cody-gakpo-set-liverpool-stay-man-city-bid-rejected-sources",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49750588,
+      "source": "ESPN",
+      "headline": "Bradley Barcola joins Liverpool in £123m move from Paris Saint-Germain",
+      "description": "Liverpool have confirmed the signing of forward Bradley Barcola from Paris Saint-Germain.",
+      "publishedAt": "2026-08-31T14:07:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709440_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49750588/bradley-barcola-joins-liverpool-123-million-move-paris-saint-germain",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Paris Saint-Germain"
       ]
     },
     {
@@ -135,28 +356,6 @@
         "Manchester United",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": "7c2ab38e5e24c5b05bf7e8aa6fa9287f",
-      "source": "Sky Sports",
-      "headline": "Euro Debrief: Mourinho getting best out of Bellingham at Real Madrid",
-      "description": "",
-      "publishedAt": "2026-08-31T08:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-euro-debrief-real-madrid_7336379.jpg?20260831085933",
-      "link": "https://www.skysports.com/football/news/12040/13576939/jude-bellingham-jose-mourinho-getting-best-out-of-england-star-as-a-no-10-at-real-madrid-plus-lots-more-in-the-euro-debrief",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
-      "id": "b65e3253e9fb5763420e7f017e1db989",
-      "source": "Sky Sports",
-      "headline": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-      "description": "",
-      "publishedAt": "2026-08-31T07:55:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49774532,
@@ -268,190 +467,13 @@
       ]
     },
     {
-      "id": 49774570,
-      "source": "ESPN",
-      "headline": "Hislop: Chelsea have impressed, but areas of concern remain",
-      "description": "Hislop: Chelsea have impressed, but areas of concern remain",
-      "publishedAt": "2026-08-30T18:50:26Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_ANALYSIS_Hislop_Chelsea_have_impressed_but_areas_of_concern_remain_2026_8_30/dm_260830_COM_SOC_ANALYSIS_Hislop_Chelsea_have_impressed_but_areas_of_concern_remain_2026_8_30.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49774570/chelsea-impressed-areas-concern-remain",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49774267,
-      "source": "ESPN",
-      "headline": "Man United hit Ipswich Town for five, as Bruno Fernandes scores hat trick",
-      "description": "Manchester United captain Bruno Fernandes was on fire against Ipswich Town, as he inspired his team to come from behind to thrash Gary O'Neil's side 5-2.",
-      "publishedAt": "2026-08-30T18:40:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709065_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49774267/man-united-ipswich-town-bruno-fernandes-premier-league-transfers",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49747266,
-      "source": "ESPN",
-      "headline": "Bruno Fernandes nets hat trick as Man United run riot in comeback against Ipswich",
-      "description": "Bruno Fernandes' hat trick helped Manchester United bounce back from their humiliation against Hull City and a poor start against Ipswich to secure a 5-2 comeback victory on Sunday.",
-      "publishedAt": "2026-08-30T18:17:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709043_2_594x334_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879293",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49750271,
-      "source": "ESPN",
-      "headline": "Ollie Watkins departs Aston Villa, joins Saudi Pro League side Al Hilal",
-      "description": "England international Ollie Watkins has joined Al Hilal from Aston Villa, the club has announced.",
-      "publishedAt": "2026-08-30T18:11:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661613_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49750271/ollie-watkins-departs-aston-villa-joins-saudi-pro-league-side-al-hilal",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Al Hilal"
-      ]
-    },
-    {
-      "id": 49774357,
-      "source": "ESPN",
-      "headline": "Alonso: Emi Martinez has 'aura to influence' at Chelsea",
-      "description": "Alonso: Emi Martinez has 'aura to influence' at Chelsea",
-      "publishedAt": "2026-08-30T18:11:09Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_Analysis_Alonso_Emi_Martinez_has_aura_to_influence_at_Chelsea_20260830_GLOBAL/dm_260830_COM_SOC_Analysis_Alonso_Emi_Martinez_has_aura_to_influence_at_Chelsea_20260830_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49774357/emi-martinez-aura-influence-chelsea",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49773669,
-      "source": "ESPN",
-      "headline": "Alonso dropping Enzo Fernández has worked for Chelsea -- so far. Can they afford to let him go?",
-      "description": "Chelsea boss Xabi Alonso has made a big call by dropping Enzo Fernández. But while the midfielder wants out, would the Blues' title hopes leave with him?",
-      "publishedAt": "2026-08-30T17:56:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709060_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49773669/xabi-alonso-dropping-enzo-fernandez-worked-chelsea-far-afford-let-leave",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49747256,
-      "source": "ESPN",
-      "headline": "Dominic Calvert-Lewin scores late equaliser to salvage a 1-1 draw with Brentford at Elland Road",
-      "description": "Dominic Calvert-Lewin fired a late equaliser as Leeds fought back to salvage a 1-1 draw against Brentford in their opening home Premier League game of the season.",
-      "publishedAt": "2026-08-30T17:28:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708986_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879315",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United",
-        "Brentford"
-      ]
-    },
-    {
-      "id": 49747261,
-      "source": "ESPN",
-      "headline": "Sunderland get their first win of the season as Wilson Isidor strike seals 1-0 victory over Fulham",
-      "description": "Sunderland claimed their first win of the season as they edged out Fulham 1-0 thanks to Wilson Isidor's goal, just days after he signed a new contract with the Black Cats.",
-      "publishedAt": "2026-08-30T17:27:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708987_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879313",
-      "tag": "Sunderland",
-      "teams": [
-        "Sunderland",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 49773168,
-      "source": "ESPN",
-      "headline": "Chelsea put four past Brighton to continue winning start under Xabi Alonso",
-      "description": "Chelsea marked Xabi Alonso's home debut with an entertaining 4-3 victory over Brighton to continue their winning start to the season.",
-      "publishedAt": "2026-08-30T16:14:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708995_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49773168/chelsea-put-four-brighton-continue-winning-start-xabi-alonso",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 49773436,
-      "source": "ESPN",
-      "headline": "Michalik: Chelsea are already showing Alonso's identity",
-      "description": "Michalik: Chelsea are already showing Alonso's identity",
-      "publishedAt": "2026-08-30T16:10:50Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_ANALYSIS_Michalik_Chelsea_are_already_showing_Alonsos_identity_2026_8_30/dm_260830_COM_SOC_ANALYSIS_Michalik_Chelsea_are_already_showing_Alonsos_identity_2026_8_30.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49773436/chelsea-already-showing-alonso-identity",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49771534,
-      "source": "ESPN",
-      "headline": "Liverpool captain Virgil van Dijk urges club to keep a hold of Cody Gakpo",
-      "description": "Virgil van Dijk has urged Liverpool to keep Cody Gakpo at the club amid interest from Manchester City.",
-      "publishedAt": "2026-08-30T12:07:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708911_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49771534/liverpool-cody-gakpo-man-city-premier-league-transfers-virgil-van-dijk",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49770928,
-      "source": "ESPN",
-      "headline": "Everton eye Folarin Balogun amid Iliman Ndiaye links with Tottenham - sources",
-      "description": "Everton are considering a move for USMNT forward Folarin Balogun ahead of Tuesday's transfer deadline, sources have told ESPN.",
-      "publishedAt": "2026-08-30T11:55:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708905_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49770928/everton-eye-folarin-balogun-amid-iliman-ndiaye-links-tottenham-sources",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Everton"
-      ]
-    },
-    {
-      "id": "a015076d5aa917597e4840e7f4e4c3b6",
+      "id": "a0776e36bc90f4c5c8471a94a54612fb",
       "source": "Sky Sports",
-      "headline": "Why Arsenal still needed Konsa - despite having so many defenders",
-      "description": "The final hours of the transfer window could see Arsenal bring in an attacker. But before the window shuts, a defensive purchase could take centre stage on Monday night.",
-      "publishedAt": "2026-08-28T18:52:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-konsa-arsenal_7336314.jpg?20260831071741",
-      "link": "https://www.skysports.com/football/news/12040/13578303/ezri-konsa-why-arsenal-signed-aston-villas-top-defender-for-55m-despite-having-so-many-defenders",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "37e65788595de3a6db4bfb98cffdb38d",
-      "source": "Sky Sports",
-      "headline": "Premier League ins and outs - the confirmed deals so far...",
-      "description": "The summer transfer window opened on June 15 and closes at 11pm UK time on September 1. Find out who is on the move across the Premier League.",
-      "publishedAt": "2026-08-14T13:42:00.000Z",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-transfer-ins-outs_7152975.jpg?20260202081247",
-      "link": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
+      "headline": "Liverpool reject bumper £80m Man City offer for Gakpo",
+      "description": "Liverpool have rejected an £80m offer from Manchester City for winger Cody Gakpo, with City turning their attention to Everton's Iliman Ndiaye .",
+      "publishedAt": "2026-08-29T20:20:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-cody-gakpo-liverpool_7330422.jpg?20260824214554",
+      "link": "https://www.skysports.com/football/news/12040/13578880/cody-gakpo-transfer-news-man-city-consider-options-after-liverpool-reject-80m-bid-for-winger",
       "tag": "News Story",
       "teams": []
     }
@@ -459,6 +481,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-08-31T13:43:05.399Z"
+    "cachedAt": "2026-08-31T22:48:07.911Z"
   }
 }
