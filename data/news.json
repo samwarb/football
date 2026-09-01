@@ -2,6 +2,184 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49746632,
+      "source": "ESPN",
+      "headline": "Live transfer rumors, news, updates on deadline day",
+      "description": "We bring you the latest news, rumors, done deals and reaction throughout Europe's transfer deadline day, up to the Premier League window closing at 6 p.m. ET.",
+      "publishedAt": "2026-09-01T11:24:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709704_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49746632/live-transfer-window-rumors-news-updates-deadline-day-premier-league-laliga-bundesliga-serie-ligue-1",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49775025,
+      "source": "ESPN",
+      "headline": "Fabio Vieira joins Hamburg in permanent deal from Arsenal",
+      "description": "Fabio Vieira has completed a permanent move to Bundesliga side Hamburg SV from Arsenal.",
+      "publishedAt": "2026-09-01T11:10:05Z",
+      "image": "https://a.espncdn.com/photo/2024/0823/r1376754_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49775025/fabio-vieira-joins-hamburg-permanent-deal-arsenal",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Hamburg SV"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-09-01T10:50:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709863_3_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49792242,
+      "source": "ESPN",
+      "headline": "Arsenal-linked Malick Fofana set to join Sunderland from Lyon - sources",
+      "description": "Sunderland have agreed a deal to sign winger Malick Fofana from Lyon on a five-year contract, sources have told ESPN.",
+      "publishedAt": "2026-09-01T10:30:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709886_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49792242/arsenal-linked-malick-fofana-set-join-sunderland-lyon-sources",
+      "tag": "Sunderland",
+      "teams": [
+        "Sunderland",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49792150,
+      "source": "ESPN",
+      "headline": "Chelsea make Lamine Camara offer amid Enzo Fernández talks - sources",
+      "description": "Chelsea have made a €45 million bid for Monaco midfielder Lamine Camara amid ongoing talks with Manchester City over the possible departure of Enzo Fernández, sources have told ESPN.",
+      "publishedAt": "2026-09-01T10:22:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709884_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49792150/chelsea-make-lamine-camara-offer-amid-enzo-fernandez-talks-sources",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "AS Monaco"
+      ]
+    },
+    {
+      "id": 49792027,
+      "source": "ESPN",
+      "headline": "Fulham near deal for Real Madrid's Manuel Ángel, Frankfurt's Hugo Larsson - sources",
+      "description": "Fulham are closing in on the signings of Manuel Ángel from Real Madrid and Hugo Larsson from Eintracht Frankfurt but the move for Andrei Ratiu from Rayo Vallecano is in doubt, sources have told ESPN.",
+      "publishedAt": "2026-09-01T09:42:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709880_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49792027/fulham-deal-real-madrid-manuel-angel-frankfurt-hugo-larsson-sources",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham"
+      ]
+    },
+    {
+      "id": 49791930,
+      "source": "ESPN",
+      "headline": "Tottenham agree deal for Chelsea duo Mykhailo Mudryk, Tosin Adarabioyo - sources",
+      "description": "Tottenham have agreed a double deal to sign Mykhailo Mudryk and Tosin Adarabioyo from Chelsea, sources have told ESPN.",
+      "publishedAt": "2026-09-01T09:25:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709876_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49791930/tottenham-agree-deal-chelsea-duo-mykhailo-mudryk-tosin-adarabioyo-sources",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49791826,
+      "source": "ESPN",
+      "headline": "Arsenal's Ethan Nwaneri close to Borussia Dortmund loan - sources",
+      "description": "Arsenal midfielder Ethan Nwaneri is heading to Borussia Dortmund on loan, sources have told ESPN.",
+      "publishedAt": "2026-09-01T09:12:17Z",
+      "image": "https://a.espncdn.com/photo/2025/0716/r1519823_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49791826/arsenal-ethan-nwaneri-close-borussia-dortmund-loan-sources",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49791654,
+      "source": "ESPN",
+      "headline": "Arsenal's Mikel Arteta downplays Cristhian Mosquera injury concerns",
+      "description": "Arsenal boss Mikel Arteta says Cristhian Mosquera is \"fine\" and was taken off as a precaution during Monday night's 1-0 win at Aston Villa after the Spanish defender reported feeling pain.",
+      "publishedAt": "2026-09-01T08:47:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709869_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49791654/arsenal-mikel-arteta-downplays-christhian-mosquera-injury-concerns",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49790853,
+      "source": "ESPN",
+      "headline": "Africa's transfer deadline day - Ndiaye to Man City, Mbaye incoming, Osimhen to Man United?",
+      "description": "Tuesday is the final day of the window, but which African players could get their move over the line before business concludes on Sept. 1?",
+      "publishedAt": "2026-09-01T08:43:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1708897_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49790853/africa-transfer-deadline-day-ndiaye-man-city-mbaye-incoming-osimhen-man-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49791210,
+      "source": "ESPN",
+      "headline": "Yoane Wissa's Newcastle sequel is already looking better than the original",
+      "description": "Two matches into the 26-27 season, and Newcastle United's Yoane Wissa has already matched his Premier League goal tally for the entirety of last term.",
+      "publishedAt": "2026-09-01T08:30:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709866_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/49791210/yoane-wissa-newcastle-sequel-already-looking-better-original",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Congo DR"
+      ]
+    },
+    {
+      "id": "bd7f12356953879ac18052e0536d973a",
+      "source": "Sky Sports",
+      "headline": "Scot Prem latest: Celtic close in on triple deal as Johnstone loan agreed",
+      "description": "",
+      "publishedAt": "2026-09-01T07:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sam-johnstone-wolves_7337172.jpg?20260901083421",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "86a4dc007c753829909e19e4a04e5889",
+      "source": "Sky Sports",
+      "headline": "Chelsea latest: Potential Fernandez replacements eyed",
+      "description": "",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49786707,
+      "source": "ESPN",
+      "headline": "Arsenal win at Villa shows they're OK without transfer move, but an attacker would help",
+      "description": "As good as Arsenal already are, it's clear an attacking transfer boost could take the club to a new level in the Premier League title race.",
+      "publishedAt": "2026-09-01T05:32:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709679_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49786707/arsenal-win-villa-shows-ok-transfer-window-attacker-help",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Aston Villa"
+      ]
+    },
+    {
       "id": 49780513,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Spurs to make late move for Pulisic?",
@@ -13,20 +191,6 @@
       "teams": [
         "AC Milan",
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49786707,
-      "source": "ESPN",
-      "headline": "Arsenal win at Villa shows they're OK without transfer window help, but an attacker would help",
-      "description": "As good as Arsenal already are, it's clear an attacking transfer boost could take the club to a new level in the Premier League title race.",
-      "publishedAt": "2026-09-01T00:26:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709679_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49786707/arsenal-win-villa-shows-ok-transfer-window-help-attacker-help",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa"
       ]
     },
     {
@@ -163,17 +327,6 @@
       "teams": []
     },
     {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-08-31T20:33:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709440_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49785040,
       "source": "ESPN",
       "headline": "Everton-linked Richarlison asks Tottenham to show 'respect' over transfer away",
@@ -202,17 +355,6 @@
       ]
     },
     {
-      "id": "9760de834483a58b846514135c39d519",
-      "source": "Sky Sports",
-      "headline": "Everton latest: Toffees agree £40m Balogun deal",
-      "description": "",
-      "publishedAt": "2026-08-31T19:32:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49784920,
       "source": "ESPN",
       "headline": "Sources: Manchester City reach agreement for Everton's Ndiaye",
@@ -226,28 +368,6 @@
         "Everton",
         "Senegal"
       ]
-    },
-    {
-      "id": "9e47e0a32334bd5b01092292db2797f7",
-      "source": "Sky Sports",
-      "headline": "Man City agree £65m Ndiaye deal as Spurs turn attention to Mudryk",
-      "description": "Manchester City have agreed a £65m deal with Everton for winger Iliman Ndiaye as an alternative to Cody Gakpo.",
-      "publishedAt": "2026-08-31T18:15:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-everton-ndiaye-newcastle_7320023.jpg?20260812193919",
-      "link": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-agree-65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e14746b06cfb6bcfcf033eb216225c4f",
-      "source": "Sky Sports",
-      "headline": "McInnes ban verdict over 'disgusting' comment revealed after Rangers appeal",
-      "description": "Derek McInnes' immediate touchline ban has been reduced following Rangers' appeal.",
-      "publishedAt": "2026-08-31T18:00:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-derek-mcinnes-rangers_7288098.jpg?20260702132857",
-      "link": "https://www.skysports.com/football/news/12040/13579467/derek-mcinnes-rangers-managers-touchline-ban-changed-after-appeal-over-disgusting-comment-last-season",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49783362,
@@ -287,17 +407,6 @@
         "Liverpool",
         "Paris Saint-Germain"
       ]
-    },
-    {
-      "id": "30664276ec88ed693668dab1c3441ae7",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: Spurs close in on double move for Tosin and Mudryk",
-      "description": "",
-      "publishedAt": "2026-08-31T13:34:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49782122,
@@ -342,144 +451,11 @@
         "Chelsea",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 49781193,
-      "source": "ESPN",
-      "headline": "Harry Maguire: Man United spotlight a 'shock' for new signings",
-      "description": "Harry Maguire has said Manchester United's summer signings will have had a \"shock\" after the reaction to the defeat to Hull City, but insisted the result at the MKM Stadium was never a \"crisis.\"",
-      "publishedAt": "2026-08-31T11:00:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709384_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49781193/harry-maguire-man-united-spotlight-shock-new-signings",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49781322,
-      "source": "ESPN",
-      "headline": "Arteta: Unai Emery's skill as a manager is unquestionable",
-      "description": "Arteta: Unai Emery's skill as a manager is unquestionable",
-      "publishedAt": "2026-08-31T10:19:54Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_Arteta_Unai_Emerys_skill_as_a_manager_is_unquestionable/dm_260831_Arteta_Unai_Emerys_skill_as_a_manager_is_unquestionable.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49781322/unai-emery-skill-manager-unquestionable",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 48991120,
-      "source": "ESPN",
-      "headline": "Transfer big board: Best players in each position who could move this summer",
-      "description": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our big board!",
-      "publishedAt": "2026-08-31T10:08:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0613/r1672603_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49774532,
-      "source": "ESPN",
-      "headline": "After Man United's rocky start, Carrick's calm vindicated in win over Ipswich",
-      "description": "Coach Michael Carrick had a rocky start to Man United's season, but his approach was vindicated in a huge blowout win over Ipswich Town.",
-      "publishedAt": "2026-08-30T23:26:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709098_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49774532/after-man-united-rocky-start-carrick-calm-vindicated-win-ipswich",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49770153,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool, Newcastle eye Fernandez-Pardo",
-      "description": "Liverpool and Newcastle are interested in Lille forward Matias Fernandez-Pardo. Transfer Talk has the latest.",
-      "publishedAt": "2026-08-30T23:23:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709244_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49770153/transfer-rumors-news-liverpool-newcastle-eye-fernandez-pardo",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Crystal Palace"
-      ]
-    },
-    {
-      "id": 49777532,
-      "source": "ESPN",
-      "headline": "Chelsea claim victory in seven-goal classic against Brighton",
-      "description": "Cole Palmer's darting run and classy finish caps off Chelsea's 4-3 victory over Brighton as the Blues maintain their perfect start to the Premier League season.",
-      "publishedAt": "2026-08-30T23:19:34Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_Soccer_HIGHLIGHT_Chelsea_claim_victory_in_seven_goal_classic_against_Brighton_20260831_AUS/dm_260830_Soccer_HIGHLIGHT_Chelsea_claim_victory_in_seven_goal_classic_against_Brighton_20260831_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49777532/chelsea-claim-victory-seven-goal-classic-brighton",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49777225,
-      "source": "ESPN",
-      "headline": "Fernandes claims hat trick in United's 5-2 win against Ipswich",
-      "description": "Bruno Fernandes nets three goals to guide Manchester United to an important win over Ipswich Town.",
-      "publishedAt": "2026-08-30T22:49:47Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_Soccer_HIGHLIGHT_Fernandes_claims_hat_trick_in_Uniteds_5_2_win_against_Ipswich_20260831_AUS/dm_260830_Soccer_HIGHLIGHT_Fernandes_claims_hat_trick_in_Uniteds_5_2_win_against_Ipswich_20260831_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49777225/fernandes-claims-hat-trick-united-5-2-win-ipswich",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49776270,
-      "source": "ESPN",
-      "headline": "Carrick: Man United 'happy but always open' as transfer deadline approaches",
-      "description": "Carrick: Man United 'happy but always open' as transfer deadline approaches",
-      "publishedAt": "2026-08-30T21:25:47Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49776270/man-united-happy-always-open-transfer-deadline-approaches",
-      "tag": "Ipswich Town",
-      "teams": [
-        "Ipswich Town",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49735720,
-      "source": "ESPN",
-      "headline": "European soccer recap: Man United cruise past Ipswich",
-      "description": "Man United beat Ipswich Town after a slow start, Chelsea earned a thrilling win over Brighton and more.",
-      "publishedAt": "2026-08-30T19:44:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709052_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49735720/european-soccer-live-updates-marcus-rashford-starts-manchester-united-host-ipswich-town",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49774637,
-      "source": "ESPN",
-      "headline": "Man United's Michael Carrick leaves door open for more transfers before deadline",
-      "description": "Michael Carrick has left the door open for more Manchester United's signings before the transfer deadline, saying \"we'll have to wait and see.\"",
-      "publishedAt": "2026-08-30T19:03:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709094_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49774637/man-united-michael-carrick-leaves-door-open-more-transfers-deadline",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-01T05:03:23.677Z"
+    "cachedAt": "2026-09-01T11:35:33.725Z"
   }
 }
