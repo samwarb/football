@@ -2,17 +2,80 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49800789,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Feyenoord eye loan move for Man United's Obi",
+      "description": "Manchester United striker Chido Obi is reportedly linked with a move to Feyenoord. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-02T20:43:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710574_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Feyenoord Rotterdam"
+      ]
+    },
+    {
+      "id": 49806229,
+      "source": "ESPN",
+      "headline": "Enzo Fernández: Dream to be at club as 'big' as Man City",
+      "description": "Enzo Fernández said he had always dreamed of playing for \"a club as big as Manchester City\" in his first interview since completing his big-money transfer from Chelsea.",
+      "publishedAt": "2026-09-02T20:29:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710567_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49806229/enzo-fernandez-manchester-city-transfer-chelsea-big-club",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Chelsea",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "01fae992374de18040a3b98391fcfd71",
+      "source": "Sky Sports",
+      "headline": "Walsh winner helps send Chelsea through in Women’s Champions League",
+      "description": "Chelsea booked their spot in the Women's Champions League league phase after a 1-0 win over Real Sociedad in the second leg of their third qualifying round tie.",
+      "publishedAt": "2026-09-02T19:15:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-chelsea-women-womens-champions-league_7339186.jpg?20260902202454",
+      "link": "https://www.skysports.com/football/real-sociedad-women-vs-chelsea-women/report/577459",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "3b164339825168735569fb0d96714fb4",
+      "source": "Sky Sports",
+      "headline": "Wrexham, QPR win; Burnley peg back Boro - EFL LIVE!",
+      "description": "",
+      "publishedAt": "2026-09-02T18:15:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-burnley-fc_7339241.jpg?20260902212440",
+      "link": "https://www.skysports.com/football/burnley-vs-middlesbrough/live/560542",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "b3bec4e019b295b8b5e312b6dce3c51b",
+      "source": "Sky Sports",
+      "headline": "Why Balogun's move collapsed to leave Everton, Chelsea and Monaco upset",
+      "description": "The biggest controversy of the summer transfer window happened on Deadline Day, involving three clubs and two players.",
+      "publishedAt": "2026-09-02T17:25:00.000Z",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-balogun-usa_7287725.jpg?20260702023831",
+      "link": "https://www.skysports.com/football/news/12040/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49803814,
       "source": "ESPN",
       "headline": "Monaco CEO still looking for Folarin Balogun transfer after failed Everton move",
       "description": "Folarin Balogun could be forced to consider a move to a Turkey or Saudi Pro League club this week after Monaco said they are still looking to offload the contract of the USMNT forward following the collapse of his $45 million transfer to Everton.",
-      "publishedAt": "2026-09-02T15:36:53Z",
+      "publishedAt": "2026-09-02T16:48:47Z",
       "image": "https://a.espncdn.com/photo/2026/0304/r1622848_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49803814/monaco-ceo-looking-folarin-balogun-transfer-failed-everton-move",
       "tag": "Everton",
       "teams": [
         "Everton",
-        "AS Monaco"
+        "AS Monaco",
+        "United States"
       ]
     },
     {
@@ -90,42 +153,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/49781199/summer-transfer-window-bargains-karetsas-yohanna-mora-more",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": "67a93e6fec3037de43421feb2ad91964",
-      "source": "Sky Sports",
-      "headline": "How does every Premier League club's summer window rank?",
-      "description": "After a summer that brought record spending and Deadline Day drama, Sky Sports' reporters rank every Premier League club's window...",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-transfer_7336559.jpg?20260831131039",
-      "link": "https://www.skysports.com/football/news/12040/13580212/premier-league-transfer-window-sky-sports-reporters-rank-your-clubs-summer-after-dramatic-deadline-day",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "27c19d506fd182bdee418a87054c8ef7",
-      "source": "Sky Sports",
-      "headline": "Best (and worst) buyers and sellers of the transfer window revealed",
-      "description": "Premier League spending totalled £3.4bn in a record-breaking summer transfer window - but how well did your club actually buy and sell?",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-morgan-rogers-bradley-barcola_7338713.jpg?20260902130254",
-      "link": "https://www.skysports.com/football/news/12040/13579892/chelsea-liverpool-aston-villa-best-and-worst-buyers-and-sellers-of-the-summer-transfer-window-between-the-lines",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49793419,
-      "source": "ESPN",
-      "headline": "Gabriel Jesus took pay cut for 'dream' Barcelona transfer from Arsenal",
-      "description": "Gabriel Jesus said he took a pay cut to ensure he landed his \"dream\" transfer after signing for Barcelona from Arsenal on Tuesday.",
-      "publishedAt": "2026-09-02T11:55:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709933_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49793419/gabriel-jesus-took-pay-cut-dream-barcelona-transfer-arsenal",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Arsenal"
-      ]
     },
     {
       "id": 49801809,
@@ -434,25 +461,11 @@
         "Chelsea",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49792513,
-      "source": "ESPN",
-      "headline": "Harvey Elliott leaves Liverpool on loan for Valencia",
-      "description": "Liverpool midfielder Harvey Elliott has joined Spanish side Valencia on a season-long loan.",
-      "publishedAt": "2026-09-01T16:50:05Z",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49792513/harvey-elliott-leaves-liverpool-loan-valencia",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Valencia"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-02T16:32:14.253Z"
+    "cachedAt": "2026-09-02T21:00:15.742Z"
   }
 }
