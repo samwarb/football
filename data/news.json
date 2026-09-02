@@ -2,29 +2,240 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49703019,
+      "source": "ESPN",
+      "headline": "Premier League VAR review: Arsenal should've been awarded a penalty, so why did VAR let it go?",
+      "description": "VAR often causes Premier League controversy, but how are decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
+      "publishedAt": "2026-09-02T04:07:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709700_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window has closed. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-09-02T02:58:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709704_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49781683,
+      "source": "ESPN",
+      "headline": "Chelsea, Real Madrid win transfer window; Liverpool biggest losers",
+      "description": "Once again, the summer transfer window was full of huge moves as the World Cup did little to stop the momentum. Here are our winners and losers.",
+      "publishedAt": "2026-09-02T00:41:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1710148_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49781683/chelsea-real-madrid-win-transfer-window-liverpool-biggest-losers",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Real Madrid",
+        "Atlético Madrid",
+        "Chelsea",
+        "Barcelona",
+        "Arsenal",
+        "Manchester United",
+        "Tottenham Hotspur",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": "714010fc19636e4099b65ce01f1192d6",
+      "source": "Sky Sports",
+      "headline": "Balogun walks away from Everton deal - after move scuppered Camara to Chelsea",
+      "description": "Everton's move for Monaco striker Folarin Balogun has fallen through after a change of heart from the player - after the deal scuppered Chelsea's chances of signing Lamine Camara.",
+      "publishedAt": "2026-09-01T23:21:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-florin-balogun-usa_7290692.jpg?20260705235615",
+      "link": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "19cefcdf8e5e4e55ff1bc09125c68f2f",
+      "source": "Sky Sports",
+      "headline": "'Very unhappy' - Why Chelsea still sold Fernandez despite Camara drama",
+      "description": "Sky Sports chief correspondent Kaveh Solhekol explains why Chelsea sold Enzo Fernandez to rivals Manchester City despite the last-minute collapse of their deal to sign Lamine Camara from Monaco.",
+      "publishedAt": "2026-09-01T23:15:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-enzo-fernandez-camara_7338319.jpg?20260902003548",
+      "link": "https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "01abaa332236dacf1cf5f1e54d866afe",
+      "source": "Sky Sports",
+      "headline": "Sunderland complete Fofana signing after dramatic saga",
+      "description": "Sunderland have finally completed the signing of Lyon winger Malick Fofana after a dramatic Deadline Day transfer saga involving two private jets and the player changing his mind multiple times.",
+      "publishedAt": "2026-09-01T23:15:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-transfer-transfers_7337767.jpg?20260901165515",
+      "link": "https://www.skysports.com/football/news/12040/13580106/malick-fofana-sunderland-finally-complete-signing-of-lyon-winger-after-deadline-day-drama-with-crystal-palace",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49746632,
+      "source": "ESPN",
+      "headline": "Transfer deadline day recap: Everton hopeful on Balogun deal, Enzo signs for Man City",
+      "description": "We recap the latest news, rumors, done deals and reaction throughout Europe's transfer deadline day, up to the Premier League window closing at 6 p.m. ET.",
+      "publishedAt": "2026-09-01T23:03:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1710167_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49746632/live-transfer-window-rumors-news-updates-deadline-day-premier-league-laliga-bundesliga-serie-ligue-1",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49794375,
+      "source": "ESPN",
+      "headline": "Man City sign Enzo Fernández from Chelsea for joint-record fee",
+      "description": "Manchester City have signed Argentine World Cup winner Enzo Fernández from Chelsea for a Premier League record-equaling £125 million ($169m) fee.",
+      "publishedAt": "2026-09-01T22:43:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709997_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49794375/man-city-agree-record-equalling-125m-deal-chelsea-enzo-fernandez-sources",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Manchester City",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "22542bc02dfd91d0ecc61a8f94116f0f",
+      "source": "Sky Sports",
+      "headline": "Man City sign Fernandez in British-record-equalling deal",
+      "description": "Manchester City have signed Enzo Fernandez from Chelsea for a joint-British-record fee of £125m.",
+      "publishedAt": "2026-09-01T22:30:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-enzo-fernandez-manchester-city_7338302.jpg?20260901234926",
+      "link": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49792150,
       "source": "ESPN",
-      "headline": "Chelsea agree €55m deal for Monaco's Lamine Camara - sources",
+      "headline": "Chelsea fume after Monaco's Lamine Camara U-turn - sources",
       "description": "Chelsea have agreed a €55 million ($64m / £47m deal) with AS Monaco for midfielder Lamine Camara, sources have told ESPN.",
-      "publishedAt": "2026-09-01T20:54:58Z",
+      "publishedAt": "2026-09-01T22:29:40Z",
       "image": "https://a.espncdn.com/photo/2026/0901/r1709884_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49792150/chelsea-make-lamine-camara-offer-amid-enzo-fernandez-talks-sources",
       "tag": "Chelsea",
       "teams": [
         "Chelsea",
-        "AS Monaco"
+        "AS Monaco",
+        "Senegal"
       ]
     },
     {
-      "id": 49746632,
+      "id": 49797236,
       "source": "ESPN",
-      "headline": "Live transfer rumors, news, updates on deadline day",
-      "description": "We bring you the latest news, rumors, done deals and reaction throughout Europe's transfer deadline day, up to the Premier League window closing at 6 p.m. ET.",
-      "publishedAt": "2026-09-01T20:53:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707861_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49746632/live-transfer-window-rumors-news-updates-deadline-day-premier-league-laliga-bundesliga-serie-ligue-1",
-      "tag": "Story",
+      "headline": "Moreno not convinced Manchester United have made enough signings",
+      "description": "Moreno not convinced Manchester United have made enough signings",
+      "publishedAt": "2026-09-01T22:18:16Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Moreno_not_convinced_Manchester_United_have_made_enough_signings/dm_260901_Moreno_not_convinced_Manchester_United_have_made_enough_signings.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49797236/moreno-not-convinced-manchester-united-made-enough-signings",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49787439,
+      "source": "ESPN",
+      "headline": "Tottenham sign Mykhailo Mudryk, Tosin Adarabioyo in double deal from Chelsea",
+      "description": "Tottenham Hotspur have signed Mykhailo Mudryk on a season-long loan and Tosin Adarabioyo on a permanent deal from Chelsea, the club has announced,",
+      "publishedAt": "2026-09-01T22:16:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709725_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49787439/tottenham-sign-mykhailo-mudryk-tosin-adarabioyo-chelsea",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "6de699756c940ede8f33bc68d03d892a",
+      "source": "Sky Sports",
+      "headline": "Deal off! Monaco pull out of selling Fernandez replacement Camara to Chelsea",
+      "description": "Monaco have pulled out of the deal to sell Lamine Camara to Chelsea - who feel the French club have acted in an extraordinary and deeply unprofessional way.",
+      "publishedAt": "2026-09-01T22:15:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lamine-camara-monaco_7337652.jpg?20260901154504",
+      "link": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
+      "tag": "News Story",
       "teams": []
+    },
+    {
+      "id": 49791241,
+      "source": "ESPN",
+      "headline": "Jack Grealish re-joins Everton on loan from Man City",
+      "description": "Everton announced Tuesday that midfielder Jack Grealish is returning on loan from Manchester City for the 2026-27 Premier League season.",
+      "publishedAt": "2026-09-01T22:03:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697241_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49791241/jack-grealish-rejoins-everton-loan-man-city",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "4dd557d17d3bdaa54a9e8f125bf7329c",
+      "source": "Sky Sports",
+      "headline": "How much did your club spend? Premier League breaks transfer record",
+      "description": "How much have clubs spent on transfers during the summer window? We crunch the numbers...",
+      "publishedAt": "2026-09-01T22:00:00.000Z",
+      "image": "https://e2.365dm.com/25/09/1920x1080/skysports-graphic-transfers_7009869.jpg?20250903091502",
+      "link": "https://www.skysports.com/football/news/12040/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49792242,
+      "source": "ESPN",
+      "headline": "Sunderland set to beat Crystal Palace in race to sign Lyon's Malick Fofana - sources",
+      "description": "Lyon winger Malick Fofana looks finally set to be joining Sunderland, after a dramatic deadline day battle for his signature, sources have told ESPN.",
+      "publishedAt": "2026-09-01T21:57:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709886_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49792242/crystal-palace-swoop-malick-fofana-sunderland-talks-sources",
+      "tag": "Sunderland",
+      "teams": [
+        "Sunderland",
+        "Arsenal",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": 49796963,
+      "source": "ESPN",
+      "headline": "Nicol backs Man City to compete for the title after Fernandez signing",
+      "description": "Nicol backs Man City to compete for the title after Fernandez signing",
+      "publishedAt": "2026-09-01T21:46:23Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Nicol_backs_Man_City_to_compete_for_the_title_after_Fernandez_signing/dm_260901_Nicol_backs_Man_City_to_compete_for_the_title_after_Fernandez_signing.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49796963/nicol-backs-man-city-compete-title-fernandez-signing",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49791828,
+      "source": "ESPN",
+      "headline": "Liverpool complete £30 million deal for goalkeeper Lucca Brughmans",
+      "description": "Liverpool have completed the transfer of goalkeeper Lucca Brughmans from Belgian side Genk.",
+      "publishedAt": "2026-09-01T21:24:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709410_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49791828/liverpool-complete-deal-goalkeeper-lucca-brughmans-genk",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Racing Genk"
+      ]
     },
     {
       "id": 49773926,
@@ -41,28 +252,6 @@
       ]
     },
     {
-      "id": "a2155c2c3242c7aaf62b61a5fdc45413",
-      "source": "Sky Sports",
-      "headline": "Chelsea agree £47m deal to sign Monaco's Camara",
-      "description": "Chelsea have agreed a £47m deal to sign Monaco midfielder Lamine Camara.",
-      "publishedAt": "2026-09-01T20:30:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lamine-camara-monaco_7337652.jpg?20260901154504",
-      "link": "https://www.skysports.com/football/news/12040/13579974/lamine-camara-chelsea-agree-deal-to-sign-monaco-midfielder-as-enzo-fernandez-replacement",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-09-01T20:15:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1710109_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49791826,
       "source": "ESPN",
       "headline": "Arsenal's Ethan Nwaneri joins Borussia Dortmund on loan",
@@ -74,31 +263,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49791828,
-      "source": "ESPN",
-      "headline": "Liverpool complete £30 million deal for goalkeeper Lucca Brughmans - sources",
-      "description": "Liverpool have completed the transfer of goalkeeper Lucca Brughmans from Belgian side Genk.",
-      "publishedAt": "2026-09-01T18:33:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709410_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49791828/liverpool-complete-deal-goalkeeper-lucca-brughmans-genk",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Racing Genk"
-      ]
-    },
-    {
-      "id": "0b6fc562b081ec313134e178bf41f9bd",
-      "source": "Sky Sports",
-      "headline": "West Ham lead Wolves in thriller; Swans, Saints ahead - EFL LIVE on Sky!",
-      "description": "",
-      "publishedAt": "2026-09-01T18:15:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-jarrod-bowen-west-ham_7338013.jpg?20260901204204",
-      "link": "https://www.skysports.com/football/west-ham-united-vs-wolverhampton-wanderers/live/560541",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49795336,
@@ -114,17 +278,6 @@
       ]
     },
     {
-      "id": "51db8cc3eb83c87602d259c92549662f",
-      "source": "Sky Sports",
-      "headline": "Newcastle latest: Juventus sign Woltemade on loan",
-      "description": "",
-      "publishedAt": "2026-09-01T17:41:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-newcastle-news-rumours_7331922.jpg?20260826153948",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49795133,
       "source": "ESPN",
       "headline": "Have Chelsea or Man City got the better deal with Enzo Fernandez's big move?",
@@ -132,20 +285,6 @@
       "publishedAt": "2026-09-01T17:34:03Z",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Have_Chelsea_or_Man_City_got_the_better_deal_with_Enzo_Fernandezs_big_move/dm_260901_Have_Chelsea_or_Man_City_got_the_better_deal_with_Enzo_Fernandezs_big_move.jpg",
       "link": "https://www.espn.com/video/clip/_/id/49795133/have-chelsea-man-city-got-better-deal-enzo-fernandez-big-move",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49794375,
-      "source": "ESPN",
-      "headline": "Man City agree to record-equaling £125m deal with Chelsea for Enzo Fernández - sources",
-      "description": "Manchester City have agreed to a Premier League record-equaling £125 million ($169m) deal with Chelsea for Enzo Fernández, sources have told ESPN.",
-      "publishedAt": "2026-09-01T17:06:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709997_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49794375/man-city-agree-record-equalling-125m-deal-chelsea-enzo-fernandez-sources",
       "tag": "Chelsea",
       "teams": [
         "Chelsea",
@@ -223,21 +362,6 @@
       ]
     },
     {
-      "id": 49792242,
-      "source": "ESPN",
-      "headline": "Crystal Palace swoop for Malick Fofana despite Sunderland talks - sources",
-      "description": "Crystal Palace have made a late move to hijack Sunderland's move for Lyon star Malick Fofana and are optimistic of securing his signature, sources have told ESPN.",
-      "publishedAt": "2026-09-01T12:19:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709886_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49792242/crystal-palace-swoop-malick-fofana-sunderland-talks-sources",
-      "tag": "Sunderland",
-      "teams": [
-        "Sunderland",
-        "Arsenal",
-        "Crystal Palace"
-      ]
-    },
-    {
       "id": 49792643,
       "source": "ESPN",
       "headline": "Ibrahim Mbaye and Taylor Harwood-Bellis join Aston Villa",
@@ -265,17 +389,6 @@
         "Arsenal",
         "Hamburg SV"
       ]
-    },
-    {
-      "id": "9e93d813d1a4ca90c274e1e2cc451aa6",
-      "source": "Sky Sports",
-      "headline": "Fulham latest: Real Madrid midfielder deal completed with two more to join",
-      "description": "",
-      "publishedAt": "2026-09-01T10:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49792027,
@@ -343,34 +456,6 @@
       ]
     },
     {
-      "id": 49786707,
-      "source": "ESPN",
-      "headline": "Arsenal win at Villa shows they're OK without transfer move, but an attacker would help",
-      "description": "As good as Arsenal already are, it's clear an attacking transfer boost could take the club to a new level in the Premier League title race.",
-      "publishedAt": "2026-09-01T05:32:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709679_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49786707/arsenal-win-villa-shows-ok-transfer-window-attacker-help",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 49780513,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Spurs to make late move for Pulisic?",
-      "description": "The deadline for the summer window in Europe closes tomorrow, and Tottenham Hotspur are interested in AC Milan winger Christian Pulisic. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-01T04:41:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0819/r1703941_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49780513/transfer-rumors-news-spurs-make-late-move-usmnt-star-christian-pulisic",
-      "tag": "AC Milan",
-      "teams": [
-        "AC Milan",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49788307,
       "source": "ESPN",
       "headline": "Arsenal remain undefeated in the Premier League",
@@ -381,20 +466,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 49703019,
-      "source": "ESPN",
-      "headline": "Premier League VAR review: Arsenal should've been awarded a penalty, so why did VAR let it go?",
-      "description": "VAR often causes Premier League controversy, but how are decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
-      "publishedAt": "2026-08-31T22:58:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709700_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Ipswich Town"
       ]
     },
     {
@@ -411,51 +482,20 @@
       ]
     },
     {
-      "id": 49787292,
-      "source": "ESPN",
-      "headline": "Nicol: This Arsenal side could play in any era",
-      "description": "Nicol: This Arsenal side could play in any era",
-      "publishedAt": "2026-08-31T21:59:10Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_COM_SOC_Analysis_Nicol_This_Arsenal_side_could_play_in_any_era__20260831_GLOBAL/dm_260831_COM_SOC_Analysis_Nicol_This_Arsenal_side_could_play_in_any_era__20260831_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49787292/arsenal-side-play-era",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 49747269,
-      "source": "ESPN",
-      "headline": "Bukayo Saka goal gives Arsenal narrow win over Aston Villa",
-      "description": "Bukayo Saka's second-half strike gave Arsenal an edgy 1-0 victory at Aston Villa.",
-      "publishedAt": "2026-08-31T21:40:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709670_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879295",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49786706,
-      "source": "ESPN",
-      "headline": "Bukayo Saka scores as Arsenal beat Aston Villa in tight affair",
-      "description": "Bukayo Saka's second-half goal proved the difference as Arsenal overcame a stubborn Aston Villa side in a tight affair at Villa Park.",
-      "publishedAt": "2026-08-31T21:19:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709669_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49786706/bukayo-saka-scores-arsenal-beat-ason-villa-tight-affair",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Aston Villa"
-      ]
+      "id": "f4a21d128c1f14824713f78bb43f3bbc",
+      "source": "Sky Sports",
+      "headline": "Spurs sign Chelsea duo Mudryk and Tosin on Deadline Day",
+      "description": "Tottenham have signed Chelsea winger Mykhailo Mudryk on a season-long loan with an option to buy.",
+      "publishedAt": "2026-08-01T22:06:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-chelsea_7337897.jpg?20260901184905",
+      "link": "https://www.skysports.com/football/news/12040/13579537/mykhailo-mudryk-transfer-news-tottenham-sign-chelsea-winger-on-loan-as-tosin-joins-in-permanent-deal",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-01T20:59:47.539Z"
+    "cachedAt": "2026-09-02T04:28:38.880Z"
   }
 }
