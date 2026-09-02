@@ -2,11 +2,39 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49803814,
+      "source": "ESPN",
+      "headline": "Monaco CEO still looking for Folarin Balogun transfer after failed Everton move",
+      "description": "Folarin Balogun could be forced to consider a move to a Turkey or Saudi Pro League club this week after Monaco said they are still looking to offload the contract of the USMNT forward following the collapse of his $45 million transfer to Everton.",
+      "publishedAt": "2026-09-02T15:36:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0304/r1622848_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49803814/monaco-ceo-looking-folarin-balogun-transfer-failed-everton-move",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "AS Monaco"
+      ]
+    },
+    {
+      "id": 49800449,
+      "source": "ESPN",
+      "headline": "Sources: Folarin Balogun U-turn after deadline scuppered Everton move",
+      "description": "Folarin Balogun's £40 million ($54M) move from Monaco to Everton collapsed after the USMNT forward pulled the plug on the deal after the transfer deadline, sources told ESPN.",
+      "publishedAt": "2026-09-02T15:24:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682242_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49800449/folarin-balogun-uturn-deadline-scuppered-everton-move-sources",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "AS Monaco"
+      ]
+    },
+    {
       "id": 49789601,
       "source": "ESPN",
       "headline": "Balogun's failed Everton transfer sums up USMNT's underwhelming summer window",
-      "description": "Folarin Balogun's move to Everton collapsed on deadline day, while Strasbourg may be Gio Reyna's last-chance saloon. Jeff Carlisle looks at the USMNT's most noteworthy summer transfers.",
-      "publishedAt": "2026-09-02T10:49:27Z",
+      "description": "Folarin Balogun's move to Everton collapsed on deadline day, while Strasbourg might be Gio Reyna's last-chance saloon. Jeff Carlisle looks at the USMNT's most noteworthy summer transfers.",
+      "publishedAt": "2026-09-02T14:21:09Z",
       "image": "https://a.espncdn.com/photo/2026/0902/r1710278_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49789601/folarin-balogun-deadline-day-everton-usmnt-summer-transfer-window-gio-reyna",
       "tag": "United States",
@@ -19,11 +47,92 @@
       ]
     },
     {
+      "id": 49794711,
+      "source": "ESPN",
+      "headline": "Worst 2026 transfers, ranked: How Man United, Tottenham and others might have messed up",
+      "description": "We've ranked the 11 moves of this summer transfer window that are likely to fail. Did Man United, Tottenham and Chelsea mess up?",
+      "publishedAt": "2026-09-02T14:10:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710222_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49794711/worst-2026-summer-transfers-man-united-tottenham-arsenal-fernandez-rodri-guimaraes-tielemans-tonali",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Arsenal",
+        "Chelsea",
+        "Manchester City",
+        "Barcelona",
+        "Paris Saint-Germain",
+        "Juventus"
+      ]
+    },
+    {
+      "id": 49803024,
+      "source": "ESPN",
+      "headline": "Nicol: Liverpool won't finish in the top four",
+      "description": "Nicol: Liverpool won't finish in the top four",
+      "publishedAt": "2026-09-02T14:05:57Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49803024/liverpool-finish-top-four",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49781199,
+      "source": "ESPN",
+      "headline": "Summer transfer window bargains: Karetsas, Yohanna, Mora and more",
+      "description": "Some clubs around Europe have spent hundreds of millions to bring in new players, but what about the bargain deals?",
+      "publishedAt": "2026-09-02T12:53:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709390_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49781199/summer-transfer-window-bargains-karetsas-yohanna-mora-more",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "67a93e6fec3037de43421feb2ad91964",
+      "source": "Sky Sports",
+      "headline": "How does every Premier League club's summer window rank?",
+      "description": "After a summer that brought record spending and Deadline Day drama, Sky Sports' reporters rank every Premier League club's window...",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-transfer_7336559.jpg?20260831131039",
+      "link": "https://www.skysports.com/football/news/12040/13580212/premier-league-transfer-window-sky-sports-reporters-rank-your-clubs-summer-after-dramatic-deadline-day",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "27c19d506fd182bdee418a87054c8ef7",
+      "source": "Sky Sports",
+      "headline": "Best (and worst) buyers and sellers of the transfer window revealed",
+      "description": "Premier League spending totalled £3.4bn in a record-breaking summer transfer window - but how well did your club actually buy and sell?",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-morgan-rogers-bradley-barcola_7338713.jpg?20260902130254",
+      "link": "https://www.skysports.com/football/news/12040/13579892/chelsea-liverpool-aston-villa-best-and-worst-buyers-and-sellers-of-the-summer-transfer-window-between-the-lines",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49793419,
+      "source": "ESPN",
+      "headline": "Gabriel Jesus took pay cut for 'dream' Barcelona transfer from Arsenal",
+      "description": "Gabriel Jesus said he took a pay cut to ensure he landed his \"dream\" transfer after signing for Barcelona from Arsenal on Tuesday.",
+      "publishedAt": "2026-09-02T11:55:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709933_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49793419/gabriel-jesus-took-pay-cut-dream-barcelona-transfer-arsenal",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Arsenal"
+      ]
+    },
+    {
       "id": 49801809,
       "source": "ESPN",
       "headline": "Premier League sets new record for transfer spending",
       "description": "The Premier League set a new record for transfer spending as the window closed with a flurry of deals.",
-      "publishedAt": "2026-09-02T10:43:37Z",
+      "publishedAt": "2026-09-02T11:49:59Z",
       "image": "https://a.espncdn.com/photo/2026/0902/r1710316_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49801809/premier-league-transfers-record-spend",
       "tag": "HeadlineNews",
@@ -117,27 +226,6 @@
       ]
     },
     {
-      "id": 49794711,
-      "source": "ESPN",
-      "headline": "Worst 2026 transfers, ranked: How Man United, Tottenham and others might have messed up",
-      "description": "We've ranked the 11 moves of this summer transfer window that are likely to fail. Did Man United, Tottenham and Chelsea mess up?",
-      "publishedAt": "2026-09-02T08:13:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710222_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49794711/worst-2026-summer-transfers-man-united-tottenham-arsenal-fernandez-rodri-guimaraes-tielemans-tonali",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Tottenham Hotspur",
-        "Aston Villa",
-        "Arsenal",
-        "Chelsea",
-        "Manchester City",
-        "Barcelona",
-        "Paris Saint-Germain",
-        "Juventus"
-      ]
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -189,17 +277,6 @@
       ]
     },
     {
-      "id": 49781199,
-      "source": "ESPN",
-      "headline": "Summer transfer window bargains: Karetsas, Yohanna, Mora and more",
-      "description": "Some clubs around Europe have spent hundreds of millions to bring in new players, but what about the bargain deals?",
-      "publishedAt": "2026-09-02T07:19:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709390_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49781199/summer-transfer-window-bargains-karetsas-yohanna-mora-more",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 49800564,
       "source": "ESPN",
       "headline": "Transfers recap - Senegal's stars, and Man City, dominate deadline day",
@@ -211,20 +288,6 @@
       "teams": [
         "Manchester City",
         "Senegal"
-      ]
-    },
-    {
-      "id": 49800449,
-      "source": "ESPN",
-      "headline": "Folarin Balogun U-turn after deadline scuppered Everton move - sources",
-      "description": "Folarin Balogun's £40 million ($54m) move from Monaco to Everton collapsed after the USMNT forward pulled the plug on the deal after the transfer deadline, sources told ESPN.",
-      "publishedAt": "2026-09-02T06:19:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682242_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49800449/folarin-balogun-uturn-deadline-scuppered-everton-move-sources",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "AS Monaco"
       ]
     },
     {
@@ -249,39 +312,6 @@
       ]
     },
     {
-      "id": "6edb6119c8071b8d9954523ba8720f9a",
-      "source": "Sky Sports",
-      "headline": "Balogun walks away from Everton deal",
-      "description": "Everton's move for Monaco striker Folarin Balogun has fallen through following a change of heart from the player after the deal scuppered Chelsea's chances of signing Lamine Camara.",
-      "publishedAt": "2026-09-01T23:21:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-florin-balogun-usa_7290692.jpg?20260705235615",
-      "link": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "19cefcdf8e5e4e55ff1bc09125c68f2f",
-      "source": "Sky Sports",
-      "headline": "'Very unhappy' - Why Chelsea still sold Fernandez despite Camara drama",
-      "description": "Sky Sports chief correspondent Kaveh Solhekol explains why Chelsea sold Enzo Fernandez to rivals Manchester City despite the last-minute collapse of their deal to sign Lamine Camara from Monaco.",
-      "publishedAt": "2026-09-01T23:15:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-enzo-fernandez-camara_7338319.jpg?20260902003548",
-      "link": "https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "01abaa332236dacf1cf5f1e54d866afe",
-      "source": "Sky Sports",
-      "headline": "Sunderland complete Fofana signing after dramatic saga",
-      "description": "Sunderland have finally completed the signing of Lyon winger Malick Fofana after a dramatic Deadline Day transfer saga involving two private jets and the player changing his mind multiple times.",
-      "publishedAt": "2026-09-01T23:15:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-transfer-transfers_7337767.jpg?20260901165515",
-      "link": "https://www.skysports.com/football/news/12040/13580106/malick-fofana-sunderland-finally-complete-signing-of-lyon-winger-after-deadline-day-drama-with-crystal-palace",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49794375,
       "source": "ESPN",
       "headline": "Man City sign Enzo Fernández from Chelsea for joint-record fee",
@@ -295,17 +325,6 @@
         "Manchester City",
         "Argentina"
       ]
-    },
-    {
-      "id": "22542bc02dfd91d0ecc61a8f94116f0f",
-      "source": "Sky Sports",
-      "headline": "Man City sign Fernandez in British-record-equalling deal",
-      "description": "Manchester City have signed Enzo Fernandez from Chelsea for a joint-British-record fee of £125m.",
-      "publishedAt": "2026-09-01T22:30:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-enzo-fernandez-manchester-city_7338302.jpg?20260901234926",
-      "link": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49797236,
@@ -333,17 +352,6 @@
         "Chelsea",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "f311fbf89c14c01fc2dd94c86ba1d32f",
-      "source": "Sky Sports",
-      "headline": "'Chelsea are really unhappy!' - Monaco pull out of selling Camara",
-      "description": "Monaco have pulled out of the deal to sell Lamine Camara to Chelsea, who feel the French club have acted in an extraordinary and deeply unprofessional way.",
-      "publishedAt": "2026-09-01T22:15:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lamine-camara-monaco_7337652.jpg?20260901154504",
-      "link": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49791241,
@@ -440,52 +448,11 @@
         "Liverpool",
         "Valencia"
       ]
-    },
-    {
-      "id": 49773859,
-      "source": "ESPN",
-      "headline": "Gabriel Jesus completes transfer to Barcelona from Arsenal",
-      "description": "Barcelona have completed the signing of Gabriel Jesus from Arsenal, the two clubs confirmed on Tuesday.",
-      "publishedAt": "2026-09-01T15:27:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709931_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49773859/gabriel-jesus-completes-transfer-barcelona-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 49793419,
-      "source": "ESPN",
-      "headline": "Gabriel Jesus took pay cut for 'dream' Barcelona transfer from Arsenal",
-      "description": "Gabriel Jesus said he took a pay cut to ensure he landed his \"dream\" transfer after signing for Barcelona from Arsenal on Tuesday.",
-      "publishedAt": "2026-09-01T15:22:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1709933_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49793419/gabriel-jesus-took-pay-cut-dream-barcelona-transfer-arsenal",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49793852,
-      "source": "ESPN",
-      "headline": "Ogden: Man Utd failing to sign a defender is a 'dereliction of duty'",
-      "description": "Ogden: Man Utd failing to sign a defender is a 'dereliction of duty'",
-      "publishedAt": "2026-09-01T14:51:39Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Ogden_Man_Utd_failing_to_sign_a_defender_is_a_dereliction_of_duty/dm_260901_Ogden_Man_Utd_failing_to_sign_a_defender_is_a_dereliction_of_duty.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49793852/man-utd-failing-sign-defender-dereliction-duty",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-02T11:13:39.027Z"
+    "cachedAt": "2026-09-02T16:32:14.253Z"
   }
 }
