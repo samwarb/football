@@ -2,18 +2,168 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49800789,
+      "id": 49794711,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Feyenoord eye loan move for Man United's Obi",
-      "description": "Manchester United striker Chido Obi is reportedly linked with a move to Feyenoord. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-02T20:43:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710574_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
+      "headline": "Worst 2026 transfers, ranked: How Man United, Tottenham and others might have messed up",
+      "description": "We've ranked the 11 moves of this summer transfer window that are likely to fail. Did Man United, Tottenham and Chelsea mess up?",
+      "publishedAt": "2026-09-03T03:41:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710222_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49794711/worst-2026-summer-transfers-man-united-tottenham-arsenal-fernandez-rodri-guimaraes-tielemans-tonali",
       "tag": "Manchester United",
       "teams": [
         "Manchester United",
-        "Feyenoord Rotterdam"
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Arsenal",
+        "Chelsea",
+        "Manchester City",
+        "Barcelona",
+        "Paris Saint-Germain",
+        "Juventus"
       ]
+    },
+    {
+      "id": 49800789,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Could Maguire depart Man United next season?",
+      "description": "Several Manchester United defenders could reportedly depart next season. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-03T02:03:11Z",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710637_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 48990955,
+      "source": "ESPN",
+      "headline": "Summer transfer window: Grading big signings in men's soccer",
+      "description": "The 2026 summer transfer window has closed. Here is how we rated the biggest deals.",
+      "publishedAt": "2026-09-03T00:20:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710301_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 49807377,
+      "source": "ESPN",
+      "headline": "Why Folarin Balogun's Everton move broke down",
+      "description": "Why Folarin Balogun's Everton move broke down",
+      "publishedAt": "2026-09-02T22:20:32Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Why_Folarin_Baloguns_Everton_movebroke_down_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Why_Folarin_Baloguns_Everton_movebroke_down_2026_9_2.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49807377/why-folarin-balogun-everton-move-broke-down",
+      "tag": "AS Monaco",
+      "teams": [
+        "AS Monaco",
+        "Everton"
+      ]
+    },
+    {
+      "id": 49807316,
+      "source": "ESPN",
+      "headline": "Hislop: I feel no sympathy for Chelsea over Camara breakdown",
+      "description": "Hislop: I feel no sympathy for Chelsea over Camara breakdown",
+      "publishedAt": "2026-09-02T22:12:01Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Hislop_I_feel_no_sympathy_for_Chelsea_over_Camara_breakdown_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Hislop_I_feel_no_sympathy_for_Chelsea_over_Camara_breakdown_2026_9_2.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49807316/feel-no-sympathy-chelsea-camara-breakdown",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49807263,
+      "source": "ESPN",
+      "headline": "Will Enzo Fernandez live up to his £125m fee?",
+      "description": "Will Enzo Fernandez live up to his £125m fee?",
+      "publishedAt": "2026-09-02T22:05:54Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Will_Enzo_Fernandez_live_up_to_his_125m_fee_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Will_Enzo_Fernandez_live_up_to_his_125m_fee_2026_9_2.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49807263/will-enzo-fernandez-live-125m-fee",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49803024,
+      "source": "ESPN",
+      "headline": "Nicol: Liverpool won't finish in the top four",
+      "description": "Nicol: Liverpool won't finish in the top four",
+      "publishedAt": "2026-09-02T22:03:00Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49803024/liverpool-finish-top-four",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "311d9931f8cd7b60e6ceb0b59d4c1aa7",
+      "source": "Sky Sports",
+      "headline": "Shankland at the double as Rangers win at Falkirk",
+      "description": "Lawrence Shankland's stunning double secured back-to-back Scottish Premiership wins for Rangers with a 2-1 victory at Falkirk on Wednesday night.",
+      "publishedAt": "2026-09-02T20:50:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-shankland-lawrence_7339261.jpg?20260902214252",
+      "link": "https://www.skysports.com/football/falkirk-vs-rangers/report/558359",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "9c66802b8fdab1190bb025cab3f28fc5",
+      "source": "Sky Sports",
+      "headline": "Papers: Wantaway Spurs striker Richarlison agrees Trabzonspor terms",
+      "description": "The top stories and transfer rumours from Thursday's newspapers...",
+      "publishedAt": "2026-09-02T20:45:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13580536/richarlison-transfer-news-tottenham-striker-agrees-terms-with-trabzonspor-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "129f59feb3163c973f068557b3259f03",
+      "source": "Sky Sports",
+      "headline": "Burnley battle back to hold Middlesbrough",
+      "description": "Ugo Raghouber's first goal for Burnley earned only their second point from their opening four Championship matches as they came from behind to draw 1-1 with Middlesbrough.",
+      "publishedAt": "2026-09-02T20:35:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-burnley-fc_7339241.jpg?20260902212440",
+      "link": "https://www.skysports.com/football/burnley-vs-middlesbrough/report/560542",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "78db4898047995bdf49c41a3005fb618",
+      "source": "Sky Sports",
+      "headline": "Charlton hit back to hold West Brom",
+      "description": "Charlton's 100 per cent record was brought to and end but they remain unbeaten as Tyreece Campbell's second-half strike earned a 1-1 draw against West Brom.",
+      "publishedAt": "2026-09-02T20:35:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-charlton-athletic_7339236.jpg?20260902212224",
+      "link": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "a46002eb90da00530d38a105aa903030",
+      "source": "Sky Sports",
+      "headline": "Wrexham earn first win of the season at Millwall",
+      "description": "Wrexham got their first win of the Championship season in style as Millwall were swept aside 3-0 at the New Den.",
+      "publishedAt": "2026-09-02T20:35:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-wrexham-afc_7339235.jpg?20260902212106",
+      "link": "https://www.skysports.com/football/millwall-vs-wrexham/report/560543",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "e6986d20646b318c2861d9a389628662",
+      "source": "Sky Sports",
+      "headline": "Burrell double steers QPR to victory",
+      "description": "Rumarn Burrell scored both QPR goals as they beat Cardiff 2-1 at Loftus Road to continue their impressive start to the Championship season.",
+      "publishedAt": "2026-09-02T20:35:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-qpr-fc_7339225.jpg?20260902210917",
+      "link": "https://www.skysports.com/football/queens-park-rangers-vs-cardiff-city/report/560544",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49806229,
@@ -42,25 +192,14 @@
       "teams": []
     },
     {
-      "id": "3b164339825168735569fb0d96714fb4",
+      "id": "2eba6aadd26ca1ecc4c8ac4ac07745d9",
       "source": "Sky Sports",
-      "headline": "Wrexham, QPR win; Burnley peg back Boro - EFL LIVE!",
+      "headline": "Wrexham, QPR win as Burnley hold Boro - EFL highlights",
       "description": "",
       "publishedAt": "2026-09-02T18:15:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-burnley-fc_7339241.jpg?20260902212440",
-      "link": "https://www.skysports.com/football/burnley-vs-middlesbrough/live/560542",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wrexham-afc_7339289.jpg?20260902215939",
+      "link": "https://www.skysports.com/football/live-blog/12040/13579447/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "b3bec4e019b295b8b5e312b6dce3c51b",
-      "source": "Sky Sports",
-      "headline": "Why Balogun's move collapsed to leave Everton, Chelsea and Monaco upset",
-      "description": "The biggest controversy of the summer transfer window happened on Deadline Day, involving three clubs and two players.",
-      "publishedAt": "2026-09-02T17:25:00.000Z",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-balogun-usa_7287725.jpg?20260702023831",
-      "link": "https://www.skysports.com/football/news/12040/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -107,40 +246,6 @@
         "AS Monaco",
         "Strasbourg",
         "Borussia Mönchengladbach"
-      ]
-    },
-    {
-      "id": 49794711,
-      "source": "ESPN",
-      "headline": "Worst 2026 transfers, ranked: How Man United, Tottenham and others might have messed up",
-      "description": "We've ranked the 11 moves of this summer transfer window that are likely to fail. Did Man United, Tottenham and Chelsea mess up?",
-      "publishedAt": "2026-09-02T14:10:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710222_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49794711/worst-2026-summer-transfers-man-united-tottenham-arsenal-fernandez-rodri-guimaraes-tielemans-tonali",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Tottenham Hotspur",
-        "Aston Villa",
-        "Arsenal",
-        "Chelsea",
-        "Manchester City",
-        "Barcelona",
-        "Paris Saint-Germain",
-        "Juventus"
-      ]
-    },
-    {
-      "id": 49803024,
-      "source": "ESPN",
-      "headline": "Nicol: Liverpool won't finish in the top four",
-      "description": "Nicol: Liverpool won't finish in the top four",
-      "publishedAt": "2026-09-02T14:05:57Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49803024/liverpool-finish-top-four",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
       ]
     },
     {
@@ -251,17 +356,6 @@
         "AS Monaco",
         "Senegal"
       ]
-    },
-    {
-      "id": 48990955,
-      "source": "ESPN",
-      "headline": "Summer transfer window: Grading big signings in men's soccer",
-      "description": "The 2026 summer transfer window has closed. Here is how we rated the biggest deals.",
-      "publishedAt": "2026-09-02T08:12:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710301_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 49746632,
@@ -408,20 +502,6 @@
       ]
     },
     {
-      "id": 49791828,
-      "source": "ESPN",
-      "headline": "Liverpool complete £30 million deal for goalkeeper Lucca Brughmans",
-      "description": "Liverpool have completed the transfer of goalkeeper Lucca Brughmans from Belgian side Genk.",
-      "publishedAt": "2026-09-01T21:24:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709410_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49791828/liverpool-complete-deal-goalkeeper-lucca-brughmans-genk",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Racing Genk"
-      ]
-    },
-    {
       "id": 49773926,
       "source": "ESPN",
       "headline": "Iliman Ndiaye joins Man City from Everton for £65 million",
@@ -434,38 +514,11 @@
         "Everton",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49795336,
-      "source": "ESPN",
-      "headline": "Olley can't make sense of Spurs' move for Mudryk",
-      "description": "Olley can't make sense of Spurs' move for Mudryk",
-      "publishedAt": "2026-09-01T17:49:39Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Olley_cant_make_sense_of_Spurs_move_for_Mudryk/dm_260901_Olley_cant_make_sense_of_Spurs_move_for_Mudryk.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49795336/olley-make-sense-spurs-move-mudryk",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49795133,
-      "source": "ESPN",
-      "headline": "Have Chelsea or Man City got the better deal with Enzo Fernandez's big move?",
-      "description": "Have Chelsea or Man City got the better deal with Enzo Fernandez's big move?",
-      "publishedAt": "2026-09-01T17:34:03Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Have_Chelsea_or_Man_City_got_the_better_deal_with_Enzo_Fernandezs_big_move/dm_260901_Have_Chelsea_or_Man_City_got_the_better_deal_with_Enzo_Fernandezs_big_move.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49795133/have-chelsea-man-city-got-better-deal-enzo-fernandez-big-move",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-02T21:00:15.742Z"
+    "cachedAt": "2026-09-03T04:19:42.823Z"
   }
 }
