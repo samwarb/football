@@ -2,6 +2,139 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49823180,
+      "source": "ESPN",
+      "headline": "Mike Dean's 'games' claim is 'nonsense' - ex-Premier League ref Graham Scott",
+      "description": "Former Premier League referee Graham Scott has accused Mike Dean of \"clickbait\" following the ex-referee's comments about \"playing games\" during top-flight matches.",
+      "publishedAt": "2026-09-04T09:34:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711226_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49823180/mike-dean-graham-scott-premier-league-referees",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 49822982,
+      "source": "ESPN",
+      "headline": "Liverpool sign Djylian N'Guessan, 18, for next season",
+      "description": "Liverpool have signed teenage forward Djylian N'Guessan although he won't play for the club until at least next season.",
+      "publishedAt": "2026-09-04T09:08:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711229_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49822982/liverpool-sign-djylian-nguessan-18-join-next-season",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49815697,
+      "source": "ESPN",
+      "headline": "Man City's busy summer: How Maresca & Co. navigated Rodri exit, rebuilding midfield",
+      "description": "Man City and coach Enzo Maresca were caught by surprise with Rodri's decision to leave this summer, and that exit was the highlight of a busy window in which not everything went their way.",
+      "publishedAt": "2026-09-04T09:07:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0903/r1710988_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49815697/manchester-city-rodri-barcelona-enzo-maresca-enzo-fernandez-summer-transfer-window",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49817568,
+      "source": "ESPN",
+      "headline": "Igor Jesus targeting Champions League football, unsure if future is at Nottingham Forest",
+      "description": "Nottingham Forest forward Igor Jesus has set his sights on playing Champions League football in the future, and said he does not know whether he will fulfil that ambition at the City Ground or elsewhere.",
+      "publishedAt": "2026-09-04T08:51:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0903/r1711059_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49817568/nottingham-forest-targeting-uefa-champions-league-football",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49822914,
+      "source": "ESPN",
+      "headline": "Hislop has 'no sympathy' for Everton over Balogun transfer saga",
+      "description": "Hislop has 'no sympathy' for Everton over Balogun transfer saga",
+      "publishedAt": "2026-09-04T08:24:57Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_COM_SOC_Analysis_Hislop_has_no_sympathy_for_Everton_over_Balogun_transfer_saga__20260904_GLOBA/dm_260904_COM_SOC_Analysis_Hislop_has_no_sympathy_for_Everton_over_Balogun_transfer_saga__20260904_GLOBA.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49822914/hislop-no-sympathy-everton-balogun-transfer-saga",
+      "tag": "AS Monaco",
+      "teams": [
+        "AS Monaco",
+        "Everton",
+        "United States"
+      ]
+    },
+    {
+      "id": 49822690,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Trabzonspor eye Richarlison move on deadline day",
+      "description": "Richarlison is a target for Turkish side Trabzonspor after the Tottenham forward was left out of the team's Premier League squad. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-04T08:05:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708658_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49822690/transfer-rumors-news-trabzonspor-eye-richarlison-move-deadline-day",
+      "tag": "Trabzonspor",
+      "teams": [
+        "Trabzonspor",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "f8144b6052780a238e02d008d8a74aca",
+      "source": "Sky Sports",
+      "headline": "The assistant headteacher about to become England manager for a week",
+      "description": "Andy McCann has only just returned to work.",
+      "publishedAt": "2026-09-04T08:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-andy-mccann-cheshire-league_7340119.jpg?20260903172059",
+      "link": "https://www.skysports.com/football/news/12040/13577442/andy-mccann-interview-the-assistant-headteacher-from-liverpool-about-to-become-england-manager-for-a-week",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "fb0c196f36ddbd5281001f6e6b78184c",
+      "source": "Sky Sports",
+      "headline": "Andrews: Brentford are playing with verve - let's see if we can break the ceiling",
+      "description": "Seconds before the curtain came down on the 2025/26 season, Brentford had a golden chance to do what they had never done before: qualify for Europe.",
+      "publishedAt": "2026-09-04T08:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-keith-andrews-brentford_7339692.jpg?20260903111725",
+      "link": "https://www.skysports.com/football/news/12040/13580770/keith-andrews-exclusive-brentford-head-coach-on-the-improvements-he-hopes-can-help-break-the-ceiling-and-help-the-bees-reach-europe",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49817274,
+      "source": "ESPN",
+      "headline": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost",
+      "description": "There's how much a transfer costs vs. what a club can afford to pay. We've ranked the *actual* 50 most expensive transfers of the 2026 summer window.",
+      "publishedAt": "2026-09-04T07:21:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711182_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49817274/ranked-top-50-most-expensive-premier-league-transfers-summer-true-cost",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "Manchester City",
+        "Brentford"
+      ]
+    },
+    {
+      "id": "910fcd6cbc660138a86fa3f40ee16813",
+      "source": "Sky Sports",
+      "headline": "Inside the neighbourhood club that made Arteta, Alonso and Iraola",
+      "description": "Between a row of white apartment buildings and an artificial pitch set into the green hills of Berio in San Sebastian that Antiguoko now call home, there is a strip of land where Mikel Arteta, Xabi Alonso and Andoni Iraola learned their craft.",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-arteta-alonso-iraola_7340015.jpg?20260903160948",
+      "link": "https://www.skysports.com/football/news/12040/13580891/mikel-arteta-xabi-alonso-and-andoni-iraola-started-their-paths-to-the-top-at-antiguoko-if-i-really-think-about-it-its-absolutely-crazy",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49816199,
       "source": "ESPN",
       "headline": "Weekend predictions: Arsenal take on Chelsea in a London derby, can PSG bounce back?",
@@ -45,17 +178,6 @@
       ]
     },
     {
-      "id": "0eecaf3e5a9cbaad9de853a258f94b18",
-      "source": "Sky Sports",
-      "headline": "WSL window winners & losers: Ecstatic Arsenal but have Man City & Chelsea done enough?",
-      "description": "Arsenal are looking to win their first Women's Super League title since 2019 after signing eight new players, while can London City Lionesses' big-spending summer - including the purchase of Alexia Putellas, \"the biggest signing the league has seen\" - lead them to an unlikely title challenge?",
-      "publishedAt": "2026-09-03T22:00:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-wsl-womens-super-league_7306581.jpg?20260725163326",
-      "link": "https://www.skysports.com/football/news/12040/13581035/wsl-2026-27-transfer-window-winners-and-losers-ecstatic-arsenal-but-have-man-city-and-chelsea-done-enough",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
       "id": 49811226,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool to sign Camara in January?",
@@ -83,24 +205,13 @@
       ]
     },
     {
-      "id": "19806da90931f1309cff9e799106a080",
+      "id": "299e24a2dd328cd007fc42ce9ac5444c",
       "source": "Sky Sports",
-      "headline": "FIFA accuses UEFA of launching 'smear campaign' against Gianni Infantino",
+      "headline": "FIFA accuses UEFA of launching 'smear campaign' against Infantino",
       "description": "FIFA has accused European football’s governing body of launching a “smear campaign” against Gianni Infantino in a challenge to legal action over the aborted attempt to sell part of the World Cup to private investors.",
       "publishedAt": "2026-09-03T18:12:00.000Z",
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-gianni-infantino_7316467.jpg?20260807222346",
       "link": "https://www.skysports.com/football/news/12040/13580984/gianni-infantino-latest-fifa-accuses-uefa-of-launching-a-smear-campaign-after-legal-cases-filed-in-american-courts",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "c73e7f3ba0f81ad8032a7ab1eaf73d55",
-      "source": "Sky Sports",
-      "headline": "A squad once worth over £1bn! The free agents your club could still sign",
-      "description": "The summer transfer window might be shut, but a host of free agents once worth a combined value of £1.15bn are still available to sign.",
-      "publishedAt": "2026-09-03T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-free-agent-image_7340253.jpg?20260903193238",
-      "link": "https://www.skysports.com/football/news/12040/13580813/free-agents-jadon-sancho-paul-pogba-and-dele-alli-among-players-available-on-free-transfer-after-summer-window-shuts",
       "tag": "News Story",
       "teams": []
     },
@@ -362,112 +473,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49807263,
-      "source": "ESPN",
-      "headline": "Will Enzo Fernandez live up to his £125m fee?",
-      "description": "Will Enzo Fernandez live up to his £125m fee?",
-      "publishedAt": "2026-09-02T22:05:54Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_COM_SOC_ANALYSIS_Will_Enzo_Fernandez_live_up_to_his_125m_fee_2026_9_2/dm_260902_COM_SOC_ANALYSIS_Will_Enzo_Fernandez_live_up_to_his_125m_fee_2026_9_2.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49807263/will-enzo-fernandez-live-125m-fee",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49803024,
-      "source": "ESPN",
-      "headline": "Nicol: Liverpool won't finish in the top four",
-      "description": "Nicol: Liverpool won't finish in the top four",
-      "publishedAt": "2026-09-02T22:03:00Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four/dm_260902_Nicol_Liverpool_wont_in_the_finish_top_four.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49803024/liverpool-finish-top-four",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49806229,
-      "source": "ESPN",
-      "headline": "Enzo Fernández: Dream to be at club as 'big' as Man City",
-      "description": "Enzo Fernández said he had always dreamed of playing for \"a club as big as Manchester City\" in his first interview since completing his big-money transfer from Chelsea.",
-      "publishedAt": "2026-09-02T20:29:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710567_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49806229/enzo-fernandez-manchester-city-transfer-chelsea-big-club",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Chelsea",
-        "Argentina"
-      ]
-    },
-    {
-      "id": 49803814,
-      "source": "ESPN",
-      "headline": "Monaco CEO still looking for Folarin Balogun transfer after failed Everton move",
-      "description": "Folarin Balogun could be forced to consider a move to a Turkey or Saudi Pro League club this week after Monaco said they are still looking to offload the contract of the USMNT forward following the collapse of his $45 million transfer to Everton.",
-      "publishedAt": "2026-09-02T16:48:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0304/r1622848_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49803814/monaco-ceo-looking-folarin-balogun-transfer-failed-everton-move",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "AS Monaco",
-        "United States"
-      ]
-    },
-    {
-      "id": 49801733,
-      "source": "ESPN",
-      "headline": "Nicol: Spurs have had the worst transfer window",
-      "description": "Nicol: Spurs have had the worst transfer window",
-      "publishedAt": "2026-09-02T10:20:37Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Nicol_Spurs_have_had_the_worst_transfer_window/dm_260902_Nicol_Spurs_have_had_the_worst_transfer_window.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49801733/spurs-had-worst-transfer-window",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49801654,
-      "source": "ESPN",
-      "headline": "Ogden: Balogun 'left Everton's transfer window in tatters'",
-      "description": "Ogden: Balogun 'left Everton's transfer window in tatters'",
-      "publishedAt": "2026-09-02T09:55:17Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0902/dm_260902_Ogden_Balogun_left_Everton_transfer_window_in_tatters/dm_260902_Ogden_Balogun_left_Everton_transfer_window_in_tatters.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49801654/balogun-left-everton-transfer-window-tatters",
-      "tag": "AS Monaco",
-      "teams": [
-        "AS Monaco",
-        "Everton"
-      ]
-    },
-    {
-      "id": 49797144,
-      "source": "ESPN",
-      "headline": "Premier League transfers: Under-the-radar deals you missed - but need to know about",
-      "description": "ESPN picks out eight exciting signings picked up by Premier League clubs on the final day of the summer transfer window. Forget the big boys, it's the rest of the league that did some smart business.",
-      "publishedAt": "2026-09-02T09:41:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710305_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49797144/premier-league-transfers-radar-deals-missed-need-know-about",
-      "tag": "Sunderland",
-      "teams": [
-        "Sunderland",
-        "Newcastle United",
-        "Leeds United",
-        "Hull City",
-        "Fulham"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-04T04:27:47.676Z"
+    "cachedAt": "2026-09-04T11:13:51.795Z"
   }
 }
