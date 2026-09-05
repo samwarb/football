@@ -2,18 +2,253 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49837481,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi says wrong decisions cost Tottenham as wait for first Premier League win goes on",
+      "description": "Tottenham boss Roberto De Zerbi is not concerned despite his side limping to a third successive Premier League game without a goal.",
+      "publishedAt": "2026-09-05T19:25:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711858_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49837481/roberto-de-zerbi-spurs-nottingham-forest-premier-league-transfers",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49838440,
+      "source": "ESPN",
+      "headline": "Robson: I cannot see Chelsea beating Arsenal this early in the season",
+      "description": "Robson: I cannot see Chelsea beating Arsenal this early in the season",
+      "publishedAt": "2026-09-05T19:14:42Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Robson_I_cannot_see_Chelsea_beating_Arsenal_this_early_in_the_season/dm_260905_Robson_I_cannot_see_Chelsea_beating_Arsenal_this_early_in_the_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49838440/cannot-see-chelsea-beating-arsenal-early-season",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
       "id": 49817484,
       "source": "ESPN",
-      "headline": "Premier League live updates: Man City face Coventry, Spurs take on Forest",
-      "description": "We have more matches across Europe this Saturday as we start things off with Newcastle United hosting Bournemouth.",
-      "publishedAt": "2026-09-05T14:54:08Z",
+      "headline": "European soccer recap: Haaland wins it for Man City, Inter with comeback vs. Napoli",
+      "description": "Erling Haaland scores again as Manchester City win and Inter staged an incredible comeback against Napoli, as a busy Saturday unfolded across Europe.",
+      "publishedAt": "2026-09-05T19:09:14Z",
       "image": "https://a.espncdn.com/photo/2026/0905/r1711764_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49817484/premier-league-live-updates-newcastle-host-bournemouth-man-city-coventry-city-inter-napoli",
-      "tag": "Newcastle United",
+      "tag": "Manchester City",
       "teams": [
-        "Newcastle United",
-        "AFC Bournemouth"
+        "Manchester City",
+        "Napoli",
+        "Internazionale"
       ]
+    },
+    {
+      "id": 49837672,
+      "source": "ESPN",
+      "headline": "Man City have given Maresca everything he needs to challenge this season",
+      "description": "Enzo Maresca asked for new signings during his first season at Manchester City. Now, he has the pieces necessary to compete on all fronts.",
+      "publishedAt": "2026-09-05T18:59:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711867_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49837672/manchester-city-given-enzo-maresca-everything-needs-challenge-season",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 49838329,
+      "source": "ESPN",
+      "headline": "Should Nottingham Forest's disallowed goal vs. Spurs have stood?",
+      "description": "Should Nottingham Forest's disallowed goal vs. Spurs have stood?",
+      "publishedAt": "2026-09-05T18:57:34Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Should_Nottingham_Forests_disallowed_goal_vs_Spurs_have_stood/dm_260905_Should_Nottingham_Forests_disallowed_goal_vs_Spurs_have_stood.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49838329/should-nottingham-forest-disallowed-goal-vs-spurs-stood",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49838159,
+      "source": "ESPN",
+      "headline": "Hislop: Donnarumma showed he is not comfortable with the ball at his feet",
+      "description": "Hislop: Donnarumma showed he is not comfortable with the ball at his feet",
+      "publishedAt": "2026-09-05T18:45:34Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Hislop_Donnarumma_showed_he_is_not_comfortable_with_the_ball_at_his_feet/dm_260905_Hislop_Donnarumma_showed_he_is_not_comfortable_with_the_ball_at_his_feet.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49838159/donnarumma-showed-not-comfortable-ball-feet",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49818802,
+      "source": "ESPN",
+      "headline": "Hull continue unbeaten start to the Premier League season following goalless draw with Aston Villa",
+      "description": "Hull's unbeaten start to life back in the Premier League continued as Sergej Jakirovic's surprise package ended a breathless week by holding rebuilding Aston Villa to a 0-0 draw.",
+      "publishedAt": "2026-09-05T18:37:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711887_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401878781",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 49837674,
+      "source": "ESPN",
+      "headline": "Fabian Hurzeler: Luka Vušković can be top player for Brighton after first goal",
+      "description": "Brighton boss Fabian Hurzeler believes the Premier League will be an education for teenage record signing Luka Vuskovic after his first goal in English football rescued a 1-1 draw against Leeds.",
+      "publishedAt": "2026-09-05T18:14:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711874_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49837674/fabian-hurzeler-luka-vuskovic-top-player-brighton-first-goal",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 49837522,
+      "source": "ESPN",
+      "headline": "Maresca: Man City could have scored more in 'ugly' win vs. Coventry",
+      "description": "Maresca: Man City could have scored more in 'ugly' win vs. Coventry",
+      "publishedAt": "2026-09-05T17:52:58Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Maresca_Man_City_could_have_scored_more_in_ugly_win_vs_Coventry/dm_260905_Maresca_Man_City_could_have_scored_more_in_ugly_win_vs_Coventry.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49837522/man-city-scored-more-ugly-win-vs-coventry",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49833077,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool, Man United eye Mane",
+      "description": "The transfer window may be over, but that hasn't stopped clubs doing business. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-05T17:50:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711840_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49833077/transfer-rumors-news-arsenal-set-sign-teenage-georgian-midfielder",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool",
+        "Wolverhampton Wanderers"
+      ]
+    },
+    {
+      "id": 49837306,
+      "source": "ESPN",
+      "headline": "Enzo Maresca: Man City spending spree necessary to compete with Arsenal",
+      "description": "Enzo Maresca has said Manchester City's summer spending spree was needed if they are to challenge Arsenal this season.",
+      "publishedAt": "2026-09-05T17:41:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711852_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49837306/enzo-maresca-man-city-spending-spree-necessary-compete-arsenal",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49703019,
+      "source": "ESPN",
+      "headline": "Premier League VAR review: Should Forest's goal have stood vs. Spurs?",
+      "description": "VAR often causes Premier League controversy, but how are decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
+      "publishedAt": "2026-09-05T17:13:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711837_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49818799,
+      "source": "ESPN",
+      "headline": "Spurs survive disallowed goal in goalless draw at Forest, take first point of season",
+      "description": "Tottenham earned their first point of the Premier League season after a 0-0 draw with Nottingham Forest, but things are still not clicking for Roberto De Zerbi's new-look side.",
+      "publishedAt": "2026-09-05T16:34:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711826_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401878780",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49818795,
+      "source": "ESPN",
+      "headline": "Ben Chilwell returns to Crystal Palace with winner for Fulham in 3-2 thriller",
+      "description": "Ben Chilwell celebrated his return to Crystal Palace with a late winner in their 3-2 comeback victory over Fulham at Craven Cottage.",
+      "publishedAt": "2026-09-05T16:20:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711800_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879289",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": 49818754,
+      "source": "ESPN",
+      "headline": "Enzo Le Fée scores late penalty for Sunderland in lively 1-1 draw with Brentford",
+      "description": "Enzo Le Fée scored a late penalty to rescue a point for Sunderland in a lively 1-1 draw against Brentford at the Gtech Community Stadium.",
+      "publishedAt": "2026-09-05T16:19:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711816_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879311",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 49818797,
+      "source": "ESPN",
+      "headline": "Erling Haaland scores only goal as Man City squeeze past Coventry",
+      "description": "Erling Haaland's first-half header saw Manchester City edge out Coventry 1-0 and make it three wins from three as Enzo Fernandez made an earlier than planned debut.",
+      "publishedAt": "2026-09-05T16:12:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711794_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879287",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 49818758,
+      "source": "ESPN",
+      "headline": "Teenager Luka Vušković rescues a point for Brighton in 1-1 draw against Leeds",
+      "description": "Brighton's club-record signing Luka Vušković headed his first goal in English football to earn a 1-1 Premier League draw at home to Leeds.",
+      "publishedAt": "2026-09-05T16:09:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711811_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879290",
+      "tag": "Brighton & Hove Albion",
+      "teams": [
+        "Brighton & Hove Albion",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 49835710,
+      "source": "ESPN",
+      "headline": "Ex-Premier League ref Mike Dean says he did his job 'properly and professionally' after podcast claims",
+      "description": "Former referee Mike Dean regrets his controversial comments on a podcast this week, but insists he always did his job \"properly and professionally\" during his 25-year career.",
+      "publishedAt": "2026-09-05T15:25:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711771_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49835710/mike-dean-premier-league-var-refereeing",
+      "tag": "HeadlineNews",
+      "teams": []
     },
     {
       "id": 49818753,
@@ -28,6 +263,50 @@
         "Newcastle United",
         "AFC Bournemouth"
       ]
+    },
+    {
+      "id": "b19372c27f9f5d2e287f2d25f318fe3e",
+      "source": "Sky Sports",
+      "headline": "Lincoln hit back to hold Southampton",
+      "description": "Mikkel Ladefoged scored his first goal in English football to secure Lincoln a deserved late point against Southampton as they battled to a 1-1 draw with one of the Championship promotion favourites.",
+      "publishedAt": "2026-09-05T13:35:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-southampton-lincoln_7341825.jpg?20260905142002",
+      "link": "https://www.skysports.com/football/lincoln-city-vs-southampton/report/560548",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "41b7fbfda8ad0dad7b7ea7df8013c109",
+      "source": "Sky Sports",
+      "headline": "Preston earn first points of the season with win over Blackburn",
+      "description": "Callum Lang bagged an early brace as Preston edged past local rivals Blackburn 2-1 at Deepdale.",
+      "publishedAt": "2026-09-05T13:35:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-football-callum-lang_7341732.jpg?20260905130710",
+      "link": "https://www.skysports.com/football/preston-north-end-vs-blackburn-rovers/report/560551",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "91edd4a8a72a4e2c8e7ce853b47c02c6",
+      "source": "Sky Sports",
+      "headline": "Ramsey rescues draw for Newcastle against Bournemouth",
+      "description": "Newcastle fought back from two goals down as Jacob Ramsey's late strike rescued a 2-2 against Bournemouth at St James' Park.",
+      "publishedAt": "2026-09-05T13:30:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-newcastle-jacob-ramsey_7341898.jpg?20260905145513",
+      "link": "https://www.skysports.com/football/newcastle-united-vs-bournemouth/report/559472",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "28709a1c792340ebdff203dd61db0f5a",
+      "source": "Sky Sports",
+      "headline": "Villa hold on to earn first WSL point against Chelsea",
+      "description": "Aston Villa came from behind to earn a 1-1 draw against Chelsea at Stamford Bridge as Sonia Bompastor's side were denied a winning start to their Women's Super League campaign.",
+      "publishedAt": "2026-09-05T13:20:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-aston-villa-chelsea_7341901.jpg?20260905150016",
+      "link": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/report/575756",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49834549,
@@ -53,19 +332,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 49833077,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal set to sign teenage Georgian midfielder",
-      "description": "The transfer window may be over, but that hasn't stopped clubs doing business. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-05T12:16:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711684_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49833077/transfer-rumors-news-arsenal-set-sign-teenage-georgian-midfielder",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
       ]
     },
     {
@@ -108,17 +374,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "bcec39a53205d77e6a09f782481072dd",
-      "source": "Sky Sports",
-      "headline": "EFL latest: SEVEN games live on Sky at 12.30pm",
-      "description": "",
-      "publishedAt": "2026-09-05T07:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-efl-live-championship_7337353.jpg?20260901110416",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49830465,
@@ -203,251 +458,20 @@
       ]
     },
     {
-      "id": "ffed6ed78d51db92de549491bbb7798b",
+      "id": "735b6f4d9ec5cd742c7be31e141aaa26",
       "source": "Sky Sports",
-      "headline": "Everton latest: Moyes has not spoken to owners since making Toffees return",
+      "headline": "Naderi has Rangers ahead vs Motherwell LIVE!",
       "description": "",
-      "publishedAt": "2026-09-04T21:49:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-09-03T11:26:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rangers-ryan-naderi_7341933.jpg?20260905152114",
+      "link": "https://www.skysports.com/football/rangers-vs-motherwell/live/558366",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49826046,
-      "source": "ESPN",
-      "headline": "Richarlison declined new contract months before Tottenham squad omission - Roberto De Zerbi",
-      "description": "Roberto De Zerbi has revealed that he was happy for Richarlison to sign an extension to his Tottenham contract, but the now exiled player declined.",
-      "publishedAt": "2026-09-04T21:31:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711400_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49826046/richarlison-was-offered-new-contract-months-tottenham-squad-omission-roberto-de-zerbi",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49817274,
-      "source": "ESPN",
-      "headline": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost",
-      "description": "There's how much a transfer costs vs. what a club can afford to pay. We've ranked the *actual* 50 most expensive transfers of the 2026 summer window.",
-      "publishedAt": "2026-09-04T20:54:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711182_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49817274/ranked-top-50-most-expensive-premier-league-transfers-summer-true-cost",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "Aston Villa",
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "Manchester City",
-        "Brentford"
-      ]
-    },
-    {
-      "id": 49826169,
-      "source": "ESPN",
-      "headline": "Arteta backs Arsenal's transfer window: 'I love my players'",
-      "description": "Arteta backs Arsenal's transfer window: 'I love my players'",
-      "publishedAt": "2026-09-04T16:20:14Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Arteta_backs_Arsenals_transfer_window_I_love_my_players/dm_260904_Arteta_backs_Arsenals_transfer_window_I_love_my_players.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49826169/love-my-players",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49824792,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi stands by Mykhailo Mudryk Ballon d'Or potential prediction",
-      "description": "Tottenham head coach Roberto De Zerbi has stood by his past prediction of Mykhailo Mudryk being a player that can win the Ballon d'Or if he can realise his potential.",
-      "publishedAt": "2026-09-04T15:12:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0429/r1651012_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49824792/roberto-de-zerbi-stands-mykhailo-mudryk-ballon-dor-potential-prediction",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49825461,
-      "source": "ESPN",
-      "headline": "Alonso calls for Chelsea to 'move forward' after Fernandez's departure",
-      "description": "Alonso calls for Chelsea to 'move forward' after Fernandez's departure",
-      "publishedAt": "2026-09-04T14:33:10Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_COM_SOC_Presser_Alonso_calls_for_Chelsea_to_move_forward_after_Fernandezs_departure__20260904/dm_260904_COM_SOC_Presser_Alonso_calls_for_Chelsea_to_move_forward_after_Fernandezs_departure__20260904.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49825461/alonso-calls-chelsea-move-forward-fernandez-departure",
-      "tag": "Argentina",
-      "teams": [
-        "Argentina",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49824950,
-      "source": "ESPN",
-      "headline": "Mikel Arteta happy with Arsenal 'intention' in transfer market despite Vinícius Júnior, Julián Álvarez snubs",
-      "description": "Mikel Arteta has insisted Arsenal showed enough ambition in the transfer market this summer despite missing out on signing a top class forward.",
-      "publishedAt": "2026-09-04T13:43:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1696990_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49824950/mikel-arteta-arsenal-transfers-vinicius-junior-julian-alvarez-snubs",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49824937,
-      "source": "ESPN",
-      "headline": "Maresca: Enzo Fernandez is 'a winner'",
-      "description": "Maresca: Enzo Fernandez is 'a winner'",
-      "publishedAt": "2026-09-04T13:35:35Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Maresca_Enzo_Fernandez_is_a_winner/dm_260904_Maresca_Enzo_Fernandez_is_a_winner.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49824937/enzo-fernandez-winner",
-      "tag": "Argentina",
-      "teams": [
-        "Argentina",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49824904,
-      "source": "ESPN",
-      "headline": "Man United 'made the most' of money available with transfers - Michael Carrick",
-      "description": "Michael Carrick has said he's \"largely happy\" with Manchester United's summer transfer business and insisted the club have \"made the most\" of the money they had available.",
-      "publishedAt": "2026-09-04T13:34:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49824904/man-united-made-most-money-available-transfers-michael-carrick",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49824435,
-      "source": "ESPN",
-      "headline": "Yankuba Minteh can 'fulfil his dream' next year after Liverpool bid rejected - Brighton boss",
-      "description": "Brighton head coach Fabian Hurzeler has challenged Yankuba Minteh to help Brighton succeed before earning a dream transfer move.",
-      "publishedAt": "2026-09-04T12:55:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711270_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49824435/yankuba-minteh-brighton-liverpool-premier-league-transfer-rumours",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49815697,
-      "source": "ESPN",
-      "headline": "Man City's busy summer: How Maresca & Co. navigated Rodri exit, rebuilding midfield",
-      "description": "Man City and coach Enzo Maresca were caught by surprise with Rodri's decision to leave this summer, and that exit was the highlight of a busy window in which not everything went their way.",
-      "publishedAt": "2026-09-04T12:38:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710988_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49815697/manchester-city-rodri-barcelona-enzo-maresca-enzo-fernandez-summer-transfer-window",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49824214,
-      "source": "ESPN",
-      "headline": "Frank Lampard: Coventry must learn to recover from 'difficult result'",
-      "description": "Coventry City boss Frank Lampard says his side will have to get used to that losing feeling this season.",
-      "publishedAt": "2026-09-04T12:11:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698767_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49824214/frank-lampard-coventry-learn-recover-difficult-result",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 49823683,
-      "source": "ESPN",
-      "headline": "Newcastle 'counting' on Man United target Lewis Hall long-term - Matthias Jaissle",
-      "description": "Matthias Jaissle is braced for more suitors to sniff around Lewis Hall this winter but the Newcastle head coach is optimistic that the left-back will have a long-lasting future at the club.",
-      "publishedAt": "2026-09-04T11:48:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711244_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49823683/lewis-hall-newcastle-man-united-premier-league-transfer-rumours",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49823180,
-      "source": "ESPN",
-      "headline": "Mike Dean's 'games' claim is 'nonsense' - ex-Premier League ref Graham Scott",
-      "description": "Former Premier League referee Graham Scott has accused Mike Dean of \"clickbait\" following the ex-referee's comments about \"playing games\" during top-flight matches.",
-      "publishedAt": "2026-09-04T09:34:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711226_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49823180/mike-dean-graham-scott-premier-league-referees",
-      "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 49822982,
-      "source": "ESPN",
-      "headline": "Liverpool sign Djylian N'Guessan, 18, for next season",
-      "description": "Liverpool have signed teenage forward Djylian N'Guessan although he won't play for the club until at least next season.",
-      "publishedAt": "2026-09-04T09:08:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711229_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49822982/liverpool-sign-djylian-nguessan-18-join-next-season",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49817568,
-      "source": "ESPN",
-      "headline": "Igor Jesus targeting Champions League football, unsure if future is at Nottingham Forest",
-      "description": "Nottingham Forest forward Igor Jesus has set his sights on playing Champions League football in the future, and said he does not know whether he will fulfil that ambition at the City Ground or elsewhere.",
-      "publishedAt": "2026-09-04T08:51:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711059_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49817568/nottingham-forest-targeting-uefa-champions-league-football",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49822914,
-      "source": "ESPN",
-      "headline": "Hislop has 'no sympathy' for Everton over Balogun transfer saga",
-      "description": "Hislop has 'no sympathy' for Everton over Balogun transfer saga",
-      "publishedAt": "2026-09-04T08:24:57Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_COM_SOC_Analysis_Hislop_has_no_sympathy_for_Everton_over_Balogun_transfer_saga__20260904_GLOBA/dm_260904_COM_SOC_Analysis_Hislop_has_no_sympathy_for_Everton_over_Balogun_transfer_saga__20260904_GLOBA.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49822914/hislop-no-sympathy-everton-balogun-transfer-saga",
-      "tag": "AS Monaco",
-      "teams": [
-        "AS Monaco",
-        "Everton",
-        "United States"
-      ]
-    },
-    {
-      "id": "ea0d39ff6561abe3cbf6da299c5c3310",
-      "source": "Sky Sports",
-      "headline": "Chelsea 2.0: How transitional Blues are rebuilding for WSL and WCL success",
-      "description": "\"Chelsea are going through a transitional moment and it takes time for the club to rebuild.\"",
-      "publishedAt": "2026-08-25T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-wsl-womens-super-league_7319386.jpg?20260812070718",
-      "link": "https://www.skysports.com/football/news/12040/13568830/chelsea-women-sonia-bompastor-and-ellie-carpenter-on-blues-transitional-moment-as-they-target-wsl-and-champions-league-success",
-      "tag": "News Story",
       "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-05T15:10:26.074Z"
+    "cachedAt": "2026-09-05T20:17:28.400Z"
   }
 }
