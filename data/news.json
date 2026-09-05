@@ -2,11 +2,79 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49830465,
+      "source": "ESPN",
+      "headline": "Isak's quickfire double gives Iraola first Reds win",
+      "description": "Alexander Isak was the star for Liverpool in their 2-0 win over Ipswich Town, scoring a three minute brace after just nine minutes of play giving Andoni Iraola his first win as Liverpool manager.",
+      "publishedAt": "2026-09-05T01:44:48Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Soccer_HIGHLIGHT_Isaks_quickfire_double_gives_Iraola_first_Reds_win_20260905_AUS/dm_260904_Soccer_HIGHLIGHT_Isaks_quickfire_double_gives_Iraola_first_Reds_win_20260905_AUS.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49830465/isak-quickfire-double-gives-iraola-first-reds-win",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49822690,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Will Chelsea's Neto leave in January?",
+      "description": "Chelsea's Pedro Neto may consider his options in January regarding his future. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-05T00:58:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711536_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49822690/transfer-rumors-news-trabzonspor-eye-richarlison-move-deadline-day",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49827868,
+      "source": "ESPN",
+      "headline": "Liverpool ratings: With 9/10 performance, is Isak's big breakout coming?",
+      "description": "Alexander Isak was disappointing after his record transfer fee last summer, but he was Liverpool's best player at Ipswich on Friday.",
+      "publishedAt": "2026-09-05T00:32:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711517_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49827868/liverpool-player-ratings-9-10-performance-alexander-isak-big-breakout-coming",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49828925,
+      "source": "ESPN",
+      "headline": "Alexander Isak kickstarts Liverpool career after 'difficult' start",
+      "description": "Alexander Isak said his difficult start to his Liverpool career is now behind him after he scored a brace inside nine minutes to inspire his side to a 2-0 win at Ipswich on Friday.",
+      "publishedAt": "2026-09-04T23:33:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711542_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49828925/liverpool-alexander-isak-produce-numbers-andoni-iraola",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Sweden"
+      ]
+    },
+    {
+      "id": 49828685,
+      "source": "ESPN",
+      "headline": "Nicol: Time for Iraola to drop Wirtz at Liverpool",
+      "description": "Nicol: Time for Iraola to drop Wirtz at Liverpool",
+      "publishedAt": "2026-09-04T22:24:26Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_COM_SOC_Analysis_Nicol_Time_for_Iraola_to_drop_Wirtz_at_Liverpool_20260904_GLOBAL/dm_260904_COM_SOC_Analysis_Nicol_Time_for_Iraola_to_drop_Wirtz_at_Liverpool_20260904_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49828685/iraola-drop-wirtz-liverpool",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town",
+        "Liverpool"
+      ]
+    },
+    {
       "id": 49817110,
       "source": "ESPN",
-      "headline": "Premier League live updates: Isak brace gives Liverpool early lead over Ipswich",
-      "description": "Enjoy all the updates from Portman Road as Ipswich Town host Liverpool in Premier League action.",
-      "publishedAt": "2026-09-04T20:35:55Z",
+      "headline": "Premier League recap: Isak's brace vs. Ipswich gives Liverpool first win of the season",
+      "description": "Enjoy all that happened from Portman Road as Liverpool defeated Ipswich Town 2-0 for their first win of the Premier League season.",
+      "publishedAt": "2026-09-04T22:00:44Z",
       "image": "https://a.espncdn.com/photo/2026/0904/r1711431_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49817110/premier-league-live-updates-ipswich-town-host-liverpool-friday-night-clash",
       "tag": "Ipswich Town",
@@ -14,6 +82,65 @@
         "Ipswich Town",
         "Liverpool"
       ]
+    },
+    {
+      "id": 49826046,
+      "source": "ESPN",
+      "headline": "Richarlison declined new contract months before Tottenham squad omission - Roberto De Zerbi",
+      "description": "Roberto De Zerbi has revealed that he was happy for Richarlison to sign an extension to his Tottenham contract, but the now exiled player declined.",
+      "publishedAt": "2026-09-04T21:31:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711400_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49826046/richarlison-was-offered-new-contract-months-tottenham-squad-omission-roberto-de-zerbi",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49818731,
+      "source": "ESPN",
+      "headline": "Alexander Isak gives Andoni Iraola first Liverpool win as Bradley Barcola debuts",
+      "description": "A quickfire brace from Alexander Isak ensured new Liverpool boss Andoni Iraola got off the mark at the third time of asking with a 2-0 win at Ipswich.",
+      "publishedAt": "2026-09-04T21:06:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711466_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879288",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49817274,
+      "source": "ESPN",
+      "headline": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost",
+      "description": "There's how much a transfer costs vs. what a club can afford to pay. We've ranked the *actual* 50 most expensive transfers of the 2026 summer window.",
+      "publishedAt": "2026-09-04T20:54:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711182_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49817274/ranked-top-50-most-expensive-premier-league-transfers-summer-true-cost",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "Manchester City",
+        "Brentford"
+      ]
+    },
+    {
+      "id": "528ca58543bcd41dc26985e8a4ba8438",
+      "source": "Sky Sports",
+      "headline": "Star-studded London City cruise to win over Man Utd",
+      "description": "London City Lionesses started their star-studded era and the new Women's Super League season with a comfortable 2-1 win over Manchester United.",
+      "publishedAt": "2026-09-04T20:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-danielle-van-de-donk_7341321.jpg?20260904204835",
+      "link": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/report/575755",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49826169,
@@ -96,17 +223,6 @@
       ]
     },
     {
-      "id": "c995fd9cb855ab9c9b413cfca20b8762",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: Alonso 'happy' with squad despite Camara deal collapse",
-      "description": "",
-      "publishedAt": "2026-09-04T13:12:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49824435,
       "source": "ESPN",
       "headline": "Yankuba Minteh can 'fulfil his dream' next year after Liverpool bid rejected - Brighton boss",
@@ -131,27 +247,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 49817274,
-      "source": "ESPN",
-      "headline": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost",
-      "description": "There's how much a transfer costs vs. what a club can afford to pay. We've ranked the *actual* 50 most expensive transfers of the 2026 summer window.",
-      "publishedAt": "2026-09-04T12:25:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711182_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49817274/ranked-top-50-most-expensive-premier-league-transfers-summer-true-cost",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "Aston Villa",
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "Manchester City",
-        "Brentford"
       ]
     },
     {
@@ -182,20 +277,6 @@
       ]
     },
     {
-      "id": 49822690,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Trabzonspor eye Richarlison move on deadline day",
-      "description": "Richarlison is a target for Turkish side Trabzonspor after the Tottenham forward was left out of the team's Premier League squad. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-04T11:43:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708658_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49822690/transfer-rumors-news-trabzonspor-eye-richarlison-move-deadline-day",
-      "tag": "Trabzonspor",
-      "teams": [
-        "Trabzonspor",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
       "id": 49823180,
       "source": "ESPN",
       "headline": "Mike Dean's 'games' claim is 'nonsense' - ex-Premier League ref Graham Scott",
@@ -220,17 +301,6 @@
       ]
     },
     {
-      "id": "ef8ba278415372b2c238d0c87339693f",
-      "source": "Sky Sports",
-      "headline": "Play Super 6 to win £1m!",
-      "description": "",
-      "publishedAt": "2026-09-04T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-super-6-sky-bet_7320401.jpg?20260813100058",
-      "link": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49817568,
       "source": "ESPN",
       "headline": "Igor Jesus targeting Champions League football, unsure if future is at Nottingham Forest",
@@ -242,17 +312,6 @@
       "teams": [
         "Nottingham Forest"
       ]
-    },
-    {
-      "id": "77d53b3f2f3db99a28eda7889ad143f4",
-      "source": "Sky Sports",
-      "headline": "Arsenal’s ever-improving defence meets one that got away in Rogers",
-      "description": "",
-      "publishedAt": "2026-09-04T08:44:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-calafiori-rogers_7340923.png?20260904144654",
-      "link": "https://www.skysports.com/football/news/12040/13581188/arsenals-defence-still-improving-even-without-william-saliba-but-morgan-rogers-and-chelsea-are-tougher-test-the-radar",
-      "tag": "Article/Blog",
-      "teams": []
     },
     {
       "id": 49822914,
@@ -368,41 +427,6 @@
       ]
     },
     {
-      "id": "b00f7bc50797470c6ca7825319c50a68",
-      "source": "Sky Sports",
-      "headline": "Spurs latest: De Zerbi on Mudryk availability and Richarlison transfer",
-      "description": "",
-      "publishedAt": "2026-09-03T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49813236,
-      "source": "ESPN",
-      "headline": "Bold predictions, 2026-27: Ballon d'Or for Olise, Brentford in Champions League",
-      "description": "Early in every season, Bill Connelly makes some bold predictions ... and he's often right. This year: expect Michael Olise to become the best player in the world, and Brentford to qualify for the Champions League.",
-      "publishedAt": "2026-09-03T16:55:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710892_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49813236/bill-connelly-bold-soccer-predictions-michael-olise-ballon-dor-brentford-champions-league-tottenham",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Fiorentina",
-        "Alavés",
-        "Paris FC",
-        "England",
-        "Brighton & Hove Albion",
-        "RB Leipzig",
-        "Crystal Palace",
-        "Internazionale",
-        "AS Roma",
-        "Brentford",
-        "Bayern Munich"
-      ]
-    },
-    {
       "id": 48990955,
       "source": "ESPN",
       "headline": "Summer transfer window: Grading big signings in men's soccer",
@@ -412,85 +436,11 @@
       "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
       "tag": "Story",
       "teams": []
-    },
-    {
-      "id": 49801809,
-      "source": "ESPN",
-      "headline": "Premier League sets new record for transfer spending",
-      "description": "The Premier League set a new record for transfer spending as the window closed with a flurry of deals.",
-      "publishedAt": "2026-09-03T14:34:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710316_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49801809/premier-league-transfers-record-spend",
-      "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 49814190,
-      "source": "ESPN",
-      "headline": "Ismaïla Sarr will need time to process failed Liverpool move - Crystal Palace's Pierre Sage",
-      "description": "Ismaïla Sarr will need time to process his proposed move to Liverpool collapsing, Crystal Palace boss Pierre Sage has said.",
-      "publishedAt": "2026-09-03T14:19:22Z",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710863_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49814190/ismaila-sarr-need-process-failed-liverpool-move-crystal-palace-pierre-sage",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49813425,
-      "source": "ESPN",
-      "headline": "Iraola 'very happy' with Barcola ahead of potential Liverpool debut",
-      "description": "Iraola 'very happy' with Barcola ahead of potential Liverpool debut",
-      "publishedAt": "2026-09-03T12:20:55Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_COM_SOC_Presser_Iraola_very_happy_with_Barcola_ahead_of_potential_Liverpool_debut_20260903_GLO/dm_260903_COM_SOC_Presser_Iraola_very_happy_with_Barcola_ahead_of_potential_Liverpool_debut_20260903_GLO.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49813425/iraola-very-happy-barcola-ahead-potential-liverpool-debut",
-      "tag": "Ipswich Town",
-      "teams": [
-        "Ipswich Town",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49812775,
-      "source": "ESPN",
-      "headline": "Mike Dean admits to playing secret 'game' to not blow whistle while refereeing Premier League matches",
-      "description": "Former Premier League referee Mike Dean has revealed he used to play secret \"games\" while refereeing top-flight matches, including one where he tried to avoid giving a foul for as long as possible.",
-      "publishedAt": "2026-09-03T11:53:27Z",
-      "image": "https://a.espncdn.com/photo/2023/0825/r1215267_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49812775/mike-dean-admits-playing-secret-game-not-blow-whistle-refereeing-premier-league-matches",
-      "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 49813003,
-      "source": "ESPN",
-      "headline": "Hull condemn 'abhorrent' racist abuse directed towards deadline-day signing Robinio Vaz",
-      "description": "Hull City have condemned the racist abuse directed towards new signing Robinio Vaz on social media.",
-      "publishedAt": "2026-09-03T11:51:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710820_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49813003/hull-condemn-abhorrent-racist-abuse-directed-towards-deadline-day-signing-robinio-vaz",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City"
-      ]
-    },
-    {
-      "id": "f3e0a764db83c2eca57d90ce6bb290ff",
-      "source": "Sky Sports",
-      "headline": "Man City latest: 'Fernandez is ready,' says Maresca",
-      "description": "",
-      "publishedAt": "2026-09-02T14:18:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-04T20:43:28.101Z"
+    "cachedAt": "2026-09-05T04:22:30.364Z"
   }
 }

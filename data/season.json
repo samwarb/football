@@ -1,8 +1,8 @@
 {
   "season": "2025-2026",
-  "currentRound": 2,
+  "currentRound": 3,
   "complete": false,
-  "scope": "Rounds 1-4",
+  "scope": "Rounds 1-5",
   "rounds": [
     {
       "round": 1,
@@ -563,6 +563,146 @@
           "tvChannels": []
         }
       ]
+    },
+    {
+      "round": 5,
+      "fixtures": [
+        {
+          "id": "2267115",
+          "round": 5,
+          "date": "2025-09-20",
+          "time": "15:00:00",
+          "venue": "American Express Stadium",
+          "status": "FT",
+          "played": true,
+          "live": false,
+          "home": {
+            "slug": "brighton",
+            "name": "Brighton and Hove Albion",
+            "shortName": "Brighton",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+          },
+          "away": {
+            "slug": "tottenham-hotspur",
+            "name": "Tottenham Hotspur",
+            "shortName": "Tottenham",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+          },
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267116",
+          "round": 5,
+          "date": "2025-09-20",
+          "time": "15:00:00",
+          "venue": "Turf Moor",
+          "status": "FT",
+          "played": true,
+          "live": false,
+          "home": {
+            "slug": "burnley",
+            "name": "Burnley",
+            "shortName": "Burnley",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
+          },
+          "away": {
+            "slug": "nottingham-forest",
+            "name": "Nottingham Forest",
+            "shortName": "Nottingham Forest",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png"
+          },
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267117",
+          "round": 5,
+          "date": "2025-09-20",
+          "time": "20:00:00",
+          "venue": "Craven Cottage",
+          "status": "FT",
+          "played": true,
+          "live": false,
+          "home": {
+            "slug": "fulham",
+            "name": "Fulham",
+            "shortName": "Fulham",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+          },
+          "away": {
+            "slug": "brentford",
+            "name": "Brentford",
+            "shortName": "Brentford",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+          },
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267118",
+          "round": 5,
+          "date": "2025-09-20",
+          "time": "12:30:00",
+          "venue": "Anfield",
+          "status": "FT",
+          "played": true,
+          "live": false,
+          "home": {
+            "slug": "liverpool",
+            "name": "Liverpool",
+            "shortName": "Liverpool",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+          },
+          "away": {
+            "slug": "everton",
+            "name": "Everton",
+            "shortName": "Everton",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+          },
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "tvChannels": []
+        },
+        {
+          "id": "2267119",
+          "round": 5,
+          "date": "2025-09-20",
+          "time": "17:30:00",
+          "venue": "Old Trafford",
+          "status": "FT",
+          "played": true,
+          "live": false,
+          "home": {
+            "slug": "manchester-united",
+            "name": "Manchester United",
+            "shortName": "Man United",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+          },
+          "away": {
+            "slug": "chelsea",
+            "name": "Chelsea",
+            "shortName": "Chelsea",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+          },
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "tvChannels": []
+        }
+      ]
     }
   ],
   "fixtures": [
@@ -1105,11 +1245,146 @@
         "away": 0
       },
       "tvChannels": []
+    },
+    {
+      "id": "2267115",
+      "round": 5,
+      "date": "2025-09-20",
+      "time": "15:00:00",
+      "venue": "American Express Stadium",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "brighton",
+        "name": "Brighton and Hove Albion",
+        "shortName": "Brighton",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+      },
+      "away": {
+        "slug": "tottenham-hotspur",
+        "name": "Tottenham Hotspur",
+        "shortName": "Tottenham",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267116",
+      "round": 5,
+      "date": "2025-09-20",
+      "time": "15:00:00",
+      "venue": "Turf Moor",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "burnley",
+        "name": "Burnley",
+        "shortName": "Burnley",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
+      },
+      "away": {
+        "slug": "nottingham-forest",
+        "name": "Nottingham Forest",
+        "shortName": "Nottingham Forest",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267117",
+      "round": 5,
+      "date": "2025-09-20",
+      "time": "20:00:00",
+      "venue": "Craven Cottage",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "fulham",
+        "name": "Fulham",
+        "shortName": "Fulham",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+      },
+      "away": {
+        "slug": "brentford",
+        "name": "Brentford",
+        "shortName": "Brentford",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267118",
+      "round": 5,
+      "date": "2025-09-20",
+      "time": "12:30:00",
+      "venue": "Anfield",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "liverpool",
+        "name": "Liverpool",
+        "shortName": "Liverpool",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+      },
+      "away": {
+        "slug": "everton",
+        "name": "Everton",
+        "shortName": "Everton",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267119",
+      "round": 5,
+      "date": "2025-09-20",
+      "time": "17:30:00",
+      "venue": "Old Trafford",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "manchester-united",
+        "name": "Manchester United",
+        "shortName": "Man United",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+      },
+      "away": {
+        "slug": "chelsea",
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "tvChannels": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-04T20:43:28.410Z"
+    "cachedAt": "2026-09-05T04:22:30.443Z"
   }
 }

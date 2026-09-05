@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "ipswich town|liverpool": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "newcastle united|bournemouth": [
       "TNT Sports 1",
       "TNT Sports Ultimate",
@@ -170,6 +166,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-04T20:43:26.945Z"
+    "cachedAt": "2026-09-05T04:22:30.747Z"
   }
 }
