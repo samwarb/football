@@ -2,6 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49846491,
+      "source": "ESPN",
+      "headline": "Tottenham boss Roberto De Zerbi says Mykhailo Mudryk will need time to find his best form",
+      "description": "Tottenham boss Roberto De Zerbi has said Mykhailo Mudryk will need time to show his best after making his first appearance in almost two years.",
+      "publishedAt": "2026-09-06T09:12:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712191_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49846491/tottenham-boss-roberto-de-zerbi-says-mykhailo-mudryk-need-find-best-form",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49846296,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool eye Ismaïla Sarr move in January",
+      "description": "The transfer window may be over, but that hasn't stopped clubs doing business. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-06T08:34:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707211_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49846296/transfer-rumors-news-liverpool-eye-ismaila-sarr-move-january",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Crystal Palace"
+      ]
+    },
+    {
       "id": 49843727,
       "source": "ESPN",
       "headline": "City squeeze past Coventry behind Haaland's winner",
@@ -428,38 +455,11 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": 49830465,
-      "source": "ESPN",
-      "headline": "Isak's quickfire double gives Iraola first Reds win",
-      "description": "Alexander Isak was the star for Liverpool in their 2-0 win over Ipswich Town, scoring a three minute brace after just nine minutes of play giving Andoni Iraola his first win as Liverpool manager.",
-      "publishedAt": "2026-09-05T01:44:48Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Soccer_HIGHLIGHT_Isaks_quickfire_double_gives_Iraola_first_Reds_win_20260905_AUS/dm_260904_Soccer_HIGHLIGHT_Isaks_quickfire_double_gives_Iraola_first_Reds_win_20260905_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49830465/isak-quickfire-double-gives-iraola-first-reds-win",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49828925,
-      "source": "ESPN",
-      "headline": "Alexander Isak kickstarts Liverpool career after 'difficult' start",
-      "description": "Alexander Isak said his difficult start to his Liverpool career is now behind him after he scored a brace inside nine minutes to inspire his side to a 2-0 win at Ipswich on Friday.",
-      "publishedAt": "2026-09-04T23:33:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711542_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49828925/liverpool-alexander-isak-produce-numbers-andoni-iraola",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Sweden"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-06T04:33:56.372Z"
+    "cachedAt": "2026-09-06T10:52:15.655Z"
   }
 }

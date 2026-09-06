@@ -2,15 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "newcastle united|bournemouth": [
-      "TNT Sports 1",
-      "TNT Sports Ultimate",
-      "HBO Max"
-    ],
-    "hull city|aston villa": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "everton|manchester united": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -166,6 +157,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-06T04:33:57.538Z"
+    "cachedAt": "2026-09-06T10:52:15.898Z"
   }
 }
