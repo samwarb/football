@@ -2,13 +2,95 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49818808,
+      "id": 49846296,
       "source": "ESPN",
-      "headline": "Last-gasp Ainsley Maitland-Niles screamer snatches a point for Everton against Manchester United in 2-2 thriller",
-      "description": "Ainsley Maitland-Niles scored a dream stoppage-time equaliser on his Everton debut to earn a 2-2 draw against Manchester United and lift the mood at the end of a difficult week.",
-      "publishedAt": "2026-09-06T15:14:22Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Carrick_delighted_with_new_Manchester_United_signings/dm_260905_Carrick_delighted_with_new_Manchester_United_signings.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879291",
+      "headline": "Transfer rumors, news: Richarlison could be forced into Saudi move",
+      "description": "The transfer window may be over, but that hasn't stopped clubs from doing business. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-06T20:13:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712441_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49846296/transfer-rumors-news-liverpool-eye-ismaila-sarr-move-january",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49849522,
+      "source": "ESPN",
+      "headline": "Chelsea are on the rise, but Arsenal remain kings of Premier League",
+      "description": "Arsenal continue to overcome every obstacle they face in the Premier League -- including London rivals and title aspirants Chelsea.",
+      "publishedAt": "2026-09-06T19:56:52Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712396_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49849522/chelsea-rise-arsenal-remain-kings-premier-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49850924,
+      "source": "ESPN",
+      "headline": "Leboeuf concerned over 'fragile' Chelsea defense",
+      "description": "Leboeuf concerned over 'fragile' Chelsea defense",
+      "publishedAt": "2026-09-06T19:32:33Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_COM_SOC_Analysis_Leboeuf_concerned_over_fragile_Chelsea_defence_20260906_GLOBAL/dm_260906_COM_SOC_Analysis_Leboeuf_concerned_over_fragile_Chelsea_defence_20260906_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49850924/leboeuf-concerned-fragile-chelsea-defense",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49851128,
+      "source": "ESPN",
+      "headline": "Mikel Arteta: Arsenal can go to a 'higher level' than last season",
+      "description": "Mikel Arteta believes Arsenal's 2-1 win over Chelsea is proof the Gunners can go to a \"higher level\" than last season.",
+      "publishedAt": "2026-09-06T19:30:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712404_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49851128/mikel-arteta-arsenal-chelsea-premier-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49851430,
+      "source": "ESPN",
+      "headline": "Arteta 'enjoyed every minute' of Arsenal's win over Chelsea",
+      "description": "Arteta 'enjoyed every minute' of Arsenal's win over Chelsea",
+      "publishedAt": "2026-09-06T19:29:03Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_Arteta_enjoyed_every_minute_of_Arsenals_win_over_Chelsea/dm_260906_Arteta_enjoyed_every_minute_of_Arsenals_win_over_Chelsea.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49851430/arteta-enjoyed-every-minute-arsenal-win-chelsea",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49850276,
+      "source": "ESPN",
+      "headline": "Martin Ødegaard, Kai Havertz strikes give Arsenal statement London derby win over Chelsea",
+      "description": "Arsenal came from behind to record a statement 2-1 win in a vintage London derby against Chelsea at the Emirates on Sunday.",
+      "publishedAt": "2026-09-06T19:07:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712362_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49850276/martin-odegaard-kai-havertz-arsenal-statement-london-derby-chelsea-report-reaction",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49851253,
+      "source": "ESPN",
+      "headline": "Leboeuf: Everton made Bruno Fernandes 'invisible' in Man United draw",
+      "description": "Leboeuf: Everton made Bruno Fernandes 'invisible' in Man United draw",
+      "publishedAt": "2026-09-06T19:04:16Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_COM_SOC_Analysis_Leboeuf_Everton_made_Bruno_Fernandes_invisible_in_Man_United_draw_20260906_G/dm_260906_COM_SOC_Analysis_Leboeuf_Everton_made_Bruno_Fernandes_invisible_in_Man_United_draw_20260906_G.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49851253/everton-made-bruno-fernandes-invisible-man-united-draw",
       "tag": "Everton",
       "teams": [
         "Everton",
@@ -16,13 +98,124 @@
       ]
     },
     {
+      "id": 49851060,
+      "source": "ESPN",
+      "headline": "Burley hails 'sublime' Odegaard after Arsenal impress vs. Chelsea",
+      "description": "Burley hails 'sublime' Odegaard after Arsenal impress vs. Chelsea",
+      "publishedAt": "2026-09-06T18:44:20Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_COM_SOC_Analysis_Burley_hails_sublime_Odegaard_after_Arsenal_impress_vs_Chelsea_20260906_GLOB/dm_260906_COM_SOC_Analysis_Burley_hails_sublime_Odegaard_after_Arsenal_impress_vs_Chelsea_20260906_GLOB.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49851060/burley-hails-sublime-odegaard-arsenal-impress-vs-chelsea",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49851013,
+      "source": "ESPN",
+      "headline": "Xabi Alonso: Chelsea must 'address' defensive issues after Arsenal defeat",
+      "description": "Xabi Alonso said Chelsea must resolve their defensive frailties after a 2-1 defeat against Arsenal took their goals conceded tally to seven in just three games this sea",
+      "publishedAt": "2026-09-06T18:41:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712398_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49851013/xabi-alonso-chelsea-address-defensive-issues-arsenal-defeat",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
       "id": 49817781,
       "source": "ESPN",
-      "headline": "Premier League live updates: Man United slump to late draw; Arsenal-Chelsea up next",
-      "description": "We have more matches across Europe this Sunday as we start things off in the Premier League with Everton taking on Manchester United.",
-      "publishedAt": "2026-09-06T15:02:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712293_1296x729_16-9.jpg",
+      "headline": "Premier League recap: Arsenal defeat Chelsea in thrilling London derby",
+      "description": "",
+      "publishedAt": "2026-09-06T18:22:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712363_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49817781/premier-league-live-updates-everton-take-manchester-united-chelsea-arsenal-barcelona-valencia-juventus-milan",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49849587,
+      "source": "ESPN",
+      "headline": "Another game, more dropped points: Are Man United still a work in progress?",
+      "description": "Manchester United are just three games into the Premier League season, but they've already dropped points twice.",
+      "publishedAt": "2026-09-06T18:18:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712293_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49849587/another-game-more-dropped-points-man-united-work-progress",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Everton"
+      ]
+    },
+    {
+      "id": 49818821,
+      "source": "ESPN",
+      "headline": "Arsenal come from behind to beat Chelsea and maintain perfect start in pulsating London derby",
+      "description": "Arsenal needed to come from behind to win a breathless game 2-1 against Chelsea at the Emirates Stadium as Kai Havertz scored for the third time in the Premier League against his former club.",
+      "publishedAt": "2026-09-06T17:52:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712370_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879292",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49849966,
+      "source": "ESPN",
+      "headline": "Michael Carrick: Man United draw to Everton 'feels like defeat'",
+      "description": "Michael Carrick has said that Manchester United's 2-2 draw with Everton \"feels like a defeat\" after his team conceded a 96th-minute equaliser at Hill Dickinson Stadium.",
+      "publishedAt": "2026-09-06T17:14:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712293_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49849966/man-united-draw-everton-feels-defeat",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Everton"
+      ]
+    },
+    {
+      "id": 49849520,
+      "source": "ESPN",
+      "headline": "Everton deny Manchester United second win of season with last-gasp equalizer",
+      "description": "Everton struck late to break Manchester United hearts on Merseyside, as Ainsley Maitland-Niles equalized in the 96th minute, resulting in a 2-2 draw on Sunday.",
+      "publishedAt": "2026-09-06T17:06:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712307_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49849520/man-united-everton-premier-league-bryan-mbeumo-benjamin-sesko-ainsley-maitland-niles-tyrique-george",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Everton"
+      ]
+    },
+    {
+      "id": 49849674,
+      "source": "ESPN",
+      "headline": "Carrick 'bitterly disappointed' with Man Utd's late Everton draw",
+      "description": "Carrick 'bitterly disappointed' with Man Utd's late Everton draw",
+      "publishedAt": "2026-09-06T16:14:27Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_Carrick_bitterly_disappointed_with_Man_Utds_late_Everton_draw/dm_260906_Carrick_bitterly_disappointed_with_Man_Utds_late_Everton_draw.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49849674/carrick-bitterly-disappointed-man-utd-late-everton-draw",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49818808,
+      "source": "ESPN",
+      "headline": "Last-gasp Ainsley Maitland-Niles screamer snatches point for Everton against Man United",
+      "description": "Ainsley Maitland-Niles scored a dream stoppage-time equaliser on his Everton debut to earn a 2-2 draw against Manchester United and lift the mood at the end of a difficult week.",
+      "publishedAt": "2026-09-06T15:30:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712301_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879291",
       "tag": "Everton",
       "teams": [
         "Everton",
@@ -63,20 +256,6 @@
       "teams": []
     },
     {
-      "id": 49846296,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye Ismaïla Sarr move in January",
-      "description": "The transfer window may be over, but that hasn't stopped clubs from doing business. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-06T12:27:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707211_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49846296/transfer-rumors-news-liverpool-eye-ismaila-sarr-move-january",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Crystal Palace"
-      ]
-    },
-    {
       "id": 49846491,
       "source": "ESPN",
       "headline": "Tottenham boss Roberto De Zerbi says Mykhailo Mudryk will need time to find his best form",
@@ -101,20 +280,6 @@
       "teams": [
         "Coventry City",
         "Manchester City"
-      ]
-    },
-    {
-      "id": 49703019,
-      "source": "ESPN",
-      "headline": "Premier League VAR review: Should Forest's goal have stood vs. Spurs?",
-      "description": "VAR often causes Premier League controversy, but how are decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
-      "publishedAt": "2026-09-06T00:47:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711837_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Ipswich Town"
       ]
     },
     {
@@ -281,175 +446,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 49833077,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool, Man United eye Mane",
-      "description": "The transfer window may be over, but that hasn't stopped clubs doing business. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-05T17:50:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711840_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49833077/transfer-rumors-news-arsenal-set-sign-teenage-georgian-midfielder",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Liverpool",
-        "Wolverhampton Wanderers"
-      ]
-    },
-    {
-      "id": 49837306,
-      "source": "ESPN",
-      "headline": "Enzo Maresca: Man City spending spree necessary to compete with Arsenal",
-      "description": "Enzo Maresca has said Manchester City's summer spending spree was needed if they are to challenge Arsenal this season.",
-      "publishedAt": "2026-09-05T17:41:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711852_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49837306/enzo-maresca-man-city-spending-spree-necessary-compete-arsenal",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49818799,
-      "source": "ESPN",
-      "headline": "Spurs survive disallowed goal in goalless draw at Forest, take first point of season",
-      "description": "Tottenham earned their first point of the Premier League season after a 0-0 draw with Nottingham Forest, but things are still not clicking for Roberto De Zerbi's new-look side.",
-      "publishedAt": "2026-09-05T16:34:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711826_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401878780",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49818795,
-      "source": "ESPN",
-      "headline": "Ben Chilwell returns to Crystal Palace with winner for Fulham in 3-2 thriller",
-      "description": "Ben Chilwell celebrated his return to Crystal Palace with a late winner in their 3-2 comeback victory over Fulham at Craven Cottage.",
-      "publishedAt": "2026-09-05T16:20:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711800_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879289",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Crystal Palace"
-      ]
-    },
-    {
-      "id": 49818754,
-      "source": "ESPN",
-      "headline": "Enzo Le Fée scores late penalty for Sunderland in lively 1-1 draw with Brentford",
-      "description": "Enzo Le Fée scored a late penalty to rescue a point for Sunderland in a lively 1-1 draw against Brentford at the Gtech Community Stadium.",
-      "publishedAt": "2026-09-05T16:19:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711816_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879311",
-      "tag": "Brentford",
-      "teams": [
-        "Brentford",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49818797,
-      "source": "ESPN",
-      "headline": "Erling Haaland scores only goal as Man City squeeze past Coventry",
-      "description": "Erling Haaland's first-half header saw Manchester City edge out Coventry 1-0 and make it three wins from three as Enzo Fernandez made an earlier than planned debut.",
-      "publishedAt": "2026-09-05T16:12:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711794_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879287",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 49818758,
-      "source": "ESPN",
-      "headline": "Teenager Luka Vušković rescues a point for Brighton in 1-1 draw against Leeds",
-      "description": "Brighton's club-record signing Luka Vušković headed his first goal in English football to earn a 1-1 Premier League draw at home to Leeds.",
-      "publishedAt": "2026-09-05T16:09:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711811_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879290",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 49835710,
-      "source": "ESPN",
-      "headline": "Ex-Premier League ref Mike Dean says he did his job 'properly and professionally' after podcast claims",
-      "description": "Former referee Mike Dean regrets his controversial comments on a podcast this week, but insists he always did his job \"properly and professionally\" during his 25-year career.",
-      "publishedAt": "2026-09-05T15:25:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711771_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49835710/mike-dean-premier-league-var-refereeing",
-      "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 49818753,
-      "source": "ESPN",
-      "headline": "Jacob Ramsey scores last-gasp equaliser to salvage a point for Newcastle, Bournemouth drop points from winning position again",
-      "description": "Substitute Jacob Ramsey struck late on as Newcastle came from 2-0 down to snatch a 2-2 draw against Bournemouth and preserve Matthias Jaissle's unbeaten start to his time on Tyneside.",
-      "publishedAt": "2026-09-05T14:25:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711732_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879286",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United",
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 49834549,
-      "source": "ESPN",
-      "headline": "Liverpool boss Andoni Iraola says Bradley Barcola is 'in a good place' but patience will help",
-      "description": "Andoni Iraola does not expect Liverpool's new £123 million signing Bradley Barcola to require a \"special build-up\" after he made his debut in Friday's 2-0 win at Ipswich.",
-      "publishedAt": "2026-09-05T12:49:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711713_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49834549/liverpool-boss-andoni-iraola-says-bradley-barcola-good-place-patience-help-premier-league",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49834440,
-      "source": "ESPN",
-      "headline": "Carrick 'delighted' with new Manchester United signings",
-      "description": "Carrick 'delighted' with new Manchester United signings",
-      "publishedAt": "2026-09-05T12:31:36Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Carrick_delighted_with_new_Manchester_United_signings/dm_260905_Carrick_delighted_with_new_Manchester_United_signings.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49834440/carrick-delighted-new-manchester-united-signings",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49834162,
-      "source": "ESPN",
-      "headline": "Maresca watched Lampard's Chelsea and Everton teams to prepare for Coventry",
-      "description": "Maresca watched Lampard's Chelsea and Everton teams to prepare for Coventry",
-      "publishedAt": "2026-09-05T11:57:05Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Maresca_watched_Lampards_Chelsea_and_Everton_teams_to_prepare_for_Coventry/dm_260905_Maresca_watched_Lampards_Chelsea_and_Everton_teams_to_prepare_for_Coventry.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49834162/maresca-watched-lampard-chelsea-everton-teams-prepare-coventry",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-06T15:25:34.743Z"
+    "cachedAt": "2026-09-06T20:22:30.780Z"
   }
 }
