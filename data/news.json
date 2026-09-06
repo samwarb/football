@@ -2,6 +2,81 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49818808,
+      "source": "ESPN",
+      "headline": "Last-gasp Ainsley Maitland-Niles screamer snatches a point for Everton against Manchester United in 2-2 thriller",
+      "description": "Ainsley Maitland-Niles scored a dream stoppage-time equaliser on his Everton debut to earn a 2-2 draw against Manchester United and lift the mood at the end of a difficult week.",
+      "publishedAt": "2026-09-06T15:14:22Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Carrick_delighted_with_new_Manchester_United_signings/dm_260905_Carrick_delighted_with_new_Manchester_United_signings.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879291",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49817781,
+      "source": "ESPN",
+      "headline": "Premier League live updates: Man United slump to late draw; Arsenal-Chelsea up next",
+      "description": "We have more matches across Europe this Sunday as we start things off in the Premier League with Everton taking on Manchester United.",
+      "publishedAt": "2026-09-06T15:02:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712293_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49817781/premier-league-live-updates-everton-take-manchester-united-chelsea-arsenal-barcelona-valencia-juventus-milan",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "191a60977310757fda9fc95c18ba46a5",
+      "source": "Sky Sports",
+      "headline": "'That's OUTRAGEOUS!' - Maitland-Niles' audacious strike levels for Everton on debut",
+      "description": "Ainsley Maitland-Niles score a last-minute stunner to snatch a point for Everton in their Premier League clash with Manchester United.",
+      "publishedAt": "2026-09-06T15:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-everton-man-united_7343295.jpg?20260906161238",
+      "link": "https://www.skysports.com/watch/video/13582384/goal-a-maitland-niles-906-everton-2-2-manchester-utd",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "858d6645409bf97656a3ce42b9f576de",
+      "source": "Sky Sports",
+      "headline": "Arsenal vs Chelsea LIVE! & highlights",
+      "description": "",
+      "publishedAt": "2026-09-06T13:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7336356.jpg?20260831080249",
+      "link": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "f366c717256ed1f9cc9fb6c6da2ab587",
+      "source": "Sky Sports",
+      "headline": "'Saka NEEDS to level up' - Nev, Wright, Carra & Sturridge debate Arsenal's attack",
+      "description": "Ian Wright, Jamie Carragher, Gary Neville and Daniel Sturridge debate how Arsenal's attack shapes up and whether Bukayo Saka needs to step up to another level for the Gunners.",
+      "publishedAt": "2026-09-06T12:28:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-saka-super-sunday_7343033.jpg?20260906133538",
+      "link": "https://www.skysports.com/watch/video/13582290/carragher-wright-neville-and-sturridge-debate-whether-saka-needs-to-step-up-more-for-arsenal",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 49846296,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool eye Ismaïla Sarr move in January",
+      "description": "The transfer window may be over, but that hasn't stopped clubs from doing business. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-06T12:27:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707211_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49846296/transfer-rumors-news-liverpool-eye-ismaila-sarr-move-january",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Crystal Palace"
+      ]
+    },
+    {
       "id": 49846491,
       "source": "ESPN",
       "headline": "Tottenham boss Roberto De Zerbi says Mykhailo Mudryk will need time to find his best form",
@@ -12,20 +87,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49846296,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye Ismaïla Sarr move in January",
-      "description": "The transfer window may be over, but that hasn't stopped clubs doing business. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-06T08:34:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707211_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49846296/transfer-rumors-news-liverpool-eye-ismaila-sarr-move-january",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Crystal Palace"
       ]
     },
     {
@@ -95,28 +156,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "bfc55051cdae060aab6f3533e1a578c7",
-      "source": "Sky Sports",
-      "headline": "Swansea miss chance to go three points clear with Wrexham draw",
-      "description": "Championship leaders Swansea and visitors Wrexham fought out a 0-0 draw in a passionate all-Welsh affair.",
-      "publishedAt": "2026-09-05T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wrexham-swansea_7342668.jpg?20260905220849",
-      "link": "https://www.skysports.com/football/swansea-city-vs-wrexham/report/560555",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "5be740f735bffe05668338b3d668c2b4",
-      "source": "Sky Sports",
-      "headline": "Wigan thrash Leeds to take control of Shield race",
-      "description": "Wigan Warriors thrashed Leeds Rhinos 40-8 at Headingley to move two points clear at the top of Super League with one regular-season game remaining.",
-      "publishedAt": "2026-09-05T20:55:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wigan-leeds_7342658.jpg?20260905215743",
-      "link": "https://www.skysports.com/watch/video/13582137/leeds-rhinos-v-wigan-warriors-wigan-hit-40-to-take-control-of-league-leaders-shield-race",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 49837481,
@@ -215,17 +254,6 @@
         "Hull City",
         "Aston Villa"
       ]
-    },
-    {
-      "id": "07ebf20e825cb589b96059072cd5b8b2",
-      "source": "Sky Sports",
-      "headline": "Villa take first point but rue missed chances in Hull stalemate",
-      "description": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
-      "publishedAt": "2026-09-05T18:30:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-emiliano-buendia_7342467.jpg?20260905192217",
-      "link": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49837674,
@@ -354,17 +382,6 @@
       ]
     },
     {
-      "id": "fa4e6dc719320225f6cb7ff47491c35f",
-      "source": "Sky Sports",
-      "headline": "Aberdeen and Kilmarnock end losing streaks with draw",
-      "description": "Aberdeen and 10-man Kilmarnock battled out a tetchy 0-0 Premiership draw at Pittodrie as both sides brought their losing streaks to an end.",
-      "publishedAt": "2026-09-05T15:50:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kilmarnock-djenairo_7342302.jpg?20260905175618",
-      "link": "https://www.skysports.com/football/aberdeen-vs-kilmarnock/report/558363",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49835710,
       "source": "ESPN",
       "headline": "Ex-Premier League ref Mike Dean says he did his job 'properly and professionally' after podcast claims",
@@ -428,38 +445,11 @@
         "Coventry City",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49833840,
-      "source": "ESPN",
-      "headline": "Liverpool sporting director Richard Hughes steps down",
-      "description": "Liverpool have confirmed the departure of sporting director Richard Hughes, will sources telling ESPN he is expected to take up a similar role at Saudi Pro League side Al Hilal.",
-      "publishedAt": "2026-09-05T11:25:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711693_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49833840/liverpool-richard-hughes-sporting-director-transfer-window-premier-league-saudi-pro-league-al-hilal",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Al Hilal"
-      ]
-    },
-    {
-      "id": 49833828,
-      "source": "ESPN",
-      "headline": "Iraola 'pleased' to secure first Liverpool win",
-      "description": "Iraola 'pleased' to secure first Liverpool win",
-      "publishedAt": "2026-09-05T11:14:46Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Iraola_pleased_to_secure_first_Liverpool_win/dm_260905_Iraola_pleased_to_secure_first_Liverpool_win.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49833828/iraola-pleased-secure-first-liverpool-win",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-06T10:52:15.655Z"
+    "cachedAt": "2026-09-06T15:25:34.743Z"
   }
 }
