@@ -2,11 +2,40 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49859996,
+      "source": "ESPN",
+      "headline": "Arsenal's Ezri Konsa 'loved' battle with England teammate Morgan Rogers in Chelsea clash",
+      "description": "Ezri Konsa was delighted with his tackle on former teammate Morgan Rogers that brought a roar of approval from Arsenal fans during Sunday's 2-1 win over Chelsea.",
+      "publishedAt": "2026-09-07T15:29:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712804_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49859996/ezri-konsa-arsenal-morgan-rogers-chelsea-aston-villa-england-premier-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "England"
+      ]
+    },
+    {
+      "id": 49858056,
+      "source": "ESPN",
+      "headline": "Man United still pursuing Leicester midfielder Louis Page - sources",
+      "description": "Manchester United are still in the hunt for Louis Page despite missing out on a deadline day move for the Leicester City midfielder, sources have told ESPN.",
+      "publishedAt": "2026-09-07T14:26:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712698_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49858056/man-united-leicester-louis-page-premier-league-transfers-league-one",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Leicester City"
+      ]
+    },
+    {
       "id": 49854825,
       "source": "ESPN",
       "headline": "Arsenal show Chelsea, Premier League who's boss; Inter the team to beat in Serie A",
-      "description": "Arsenal looked rattled against Chelsea thanks to an early goal, but Mikel Arteta's side quickly showed why they are the team to beat in England. Plus Inter prove they are Serie A's top team, as Gab Marcotti recaps the weekend.",
-      "publishedAt": "2026-09-07T12:18:22Z",
+      "description": "Arsenal looked rattled against Chelsea thanks to an early goal, but Mikel Arteta's side quickly showed why it's the team to beat in England. Plus Inter prove they are Serie A's top team, as Gab Marcotti recaps the weekend.",
+      "publishedAt": "2026-09-07T13:22:37Z",
       "image": "https://a.espncdn.com/photo/2026/0907/r1712653_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49854825/arsenal-beat-chelsea-premier-league-analysis-gab-marcotti-inter-milan-napoli-serie-a",
       "tag": "Chelsea",
@@ -16,6 +45,28 @@
         "Internazionale",
         "Napoli"
       ]
+    },
+    {
+      "id": "ecc7608186c337ea56c60e526dd8668d",
+      "source": "Sky Sports",
+      "headline": "Leicester have sunk to new low under Martin but can he turn it around?",
+      "description": "A decade ago in September 2016, Leicester City were getting ready to play in the Champions League.",
+      "publishedAt": "2026-09-07T12:41:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-russell-martin-leicester_7344281.jpg?20260907134812",
+      "link": "https://www.skysports.com/football/news/12040/13582797/leicester-city-sink-to-new-low-in-league-one-but-can-russell-martin-turn-it-around",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "d15a6ceb00bde5d5af597cc08809b73d",
+      "source": "Sky Sports",
+      "headline": "Putellas outshone by Cascarino on debut but is spine of London City's success",
+      "description": "Sky Sports columnist Laura Hunter analyses the big talking points from the first round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
+      "publishedAt": "2026-09-07T12:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-london-city-man-city_7344315.jpg?20260907144433",
+      "link": "https://www.skysports.com/football/news/12040/13582679/womens-super-league-alexia-putellas-debut-for-london-city-analysed-with-more-on-man-city-and-chelsea",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49858651,
@@ -29,20 +80,6 @@
       "teams": [
         "Manchester United",
         "Everton"
-      ]
-    },
-    {
-      "id": 49858056,
-      "source": "ESPN",
-      "headline": "Man United still pursuing Leicester midfielder Louis Page - sources",
-      "description": "Manchester United are still in the hunt for Louis Page despite missing out on a deadline day move for the Leicester City midfielder, sources have told ESPN.",
-      "publishedAt": "2026-09-07T10:34:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712698_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49858056/man-united-leicester-louis-page-premier-league-transfers-league-one",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Leicester City"
       ]
     },
     {
@@ -74,31 +111,6 @@
       ]
     },
     {
-      "id": "67a82a114b61975a0e75a6bda908964c",
-      "source": "Sky Sports",
-      "headline": "Hampshire Police investigating Bielik incident at Portsmouth",
-      "description": "Hampshire Police are investigating an incident between Cardiff's Krystian Bielik and a home supporter during Portsmouth's 2-0 win at Fratton Park on Saturday.",
-      "publishedAt": "2026-09-07T08:10:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/sky-sports-football-championship_7342646.jpg?20260905214205",
-      "link": "https://www.skysports.com/football/news/12040/13582657/krystian-bielik-hampshire-police-investigating-incident-between-cardiff-midfielder-and-portsmouth-supporter",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49857058,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea eye Scott to replace Enzo Fernández",
-      "description": "Chelsea are at the front of the queue to sign AFC Bournemouth midfielder Alex Scott. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-07T07:11:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708517_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49857058/transfer-rumors-news-chelsea-eye-bournemouth-scott-replace-enzo-fernandez",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 49856811,
       "source": "ESPN",
       "headline": "Chelsea defence slammed by Gary Neville after Arsenal defeat: 'All over the place'",
@@ -126,17 +138,6 @@
         "Tottenham Hotspur",
         "Everton"
       ]
-    },
-    {
-      "id": "24a04ca3a4ba41d8abf1c1769ea4df90",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Ndiaye says next move 'was always going to be City'",
-      "description": "",
-      "publishedAt": "2026-09-06T22:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49851013,
@@ -444,6 +445,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-07T12:26:00.921Z"
+    "cachedAt": "2026-09-07T21:28:58.772Z"
   }
 }
