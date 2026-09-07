@@ -2,6 +2,57 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49852864,
+      "source": "ESPN",
+      "headline": "Iliman Ndiaye on Tottenham links: 'When Manchester City comes through you don't say no'",
+      "description": "Iliman Ndiaye has insisted signing for Manchester City was the obvious choice for him this week after he made his debut for Enzo Maresca's side in Saturday's 1-0 win over Coventry.",
+      "publishedAt": "2026-09-06T22:03:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712497_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49852864/iliman-ndiaye-tottenham-links-manchester-city-comes-dont-say-no",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Tottenham Hotspur",
+        "Everton"
+      ]
+    },
+    {
+      "id": "24a04ca3a4ba41d8abf1c1769ea4df90",
+      "source": "Sky Sports",
+      "headline": "Man City latest: Ndiaye says next move 'was always going to be City'",
+      "description": "",
+      "publishedAt": "2026-09-06T22:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "60ce5b0b29178ec2f50b3c3d1587c6da",
+      "source": "Sky Sports",
+      "headline": "Papers: Ex Man-Utd winger Sancho set for stunning Borussia Dortmund return",
+      "description": "The top stories and transfer rumours from Monday's newspapers...",
+      "publishedAt": "2026-09-06T21:41:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13582586/transfer-news-former-manchester-united-and-england-winger-jadon-sancho-lined-up-for-stunning-borussia-dortmund-return-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49851013,
+      "source": "ESPN",
+      "headline": "Xabi Alonso: Chelsea must 'address' defensive issues after Arsenal defeat",
+      "description": "Xabi Alonso said Chelsea must resolve their defensive frailties after a 2-1 defeat against Arsenal took their goals conceded tally to seven in just three games this season.",
+      "publishedAt": "2026-09-06T21:39:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712398_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49851013/xabi-alonso-chelsea-address-defensive-issues-arsenal-defeat",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
       "id": 49846296,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Richarlison could be forced into Saudi move",
@@ -112,20 +163,6 @@
       ]
     },
     {
-      "id": 49851013,
-      "source": "ESPN",
-      "headline": "Xabi Alonso: Chelsea must 'address' defensive issues after Arsenal defeat",
-      "description": "Xabi Alonso said Chelsea must resolve their defensive frailties after a 2-1 defeat against Arsenal took their goals conceded tally to seven in just three games this sea",
-      "publishedAt": "2026-09-06T18:41:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712398_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49851013/xabi-alonso-chelsea-address-defensive-issues-arsenal-defeat",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 49817781,
       "source": "ESPN",
       "headline": "Premier League recap: Arsenal defeat Chelsea in thrilling London derby",
@@ -223,39 +260,6 @@
       ]
     },
     {
-      "id": "191a60977310757fda9fc95c18ba46a5",
-      "source": "Sky Sports",
-      "headline": "'That's OUTRAGEOUS!' - Maitland-Niles' audacious strike levels for Everton on debut",
-      "description": "Ainsley Maitland-Niles score a last-minute stunner to snatch a point for Everton in their Premier League clash with Manchester United.",
-      "publishedAt": "2026-09-06T15:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-everton-man-united_7343295.jpg?20260906161238",
-      "link": "https://www.skysports.com/watch/video/13582384/goal-a-maitland-niles-906-everton-2-2-manchester-utd",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "858d6645409bf97656a3ce42b9f576de",
-      "source": "Sky Sports",
-      "headline": "Arsenal vs Chelsea LIVE! & highlights",
-      "description": "",
-      "publishedAt": "2026-09-06T13:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7336356.jpg?20260831080249",
-      "link": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "f366c717256ed1f9cc9fb6c6da2ab587",
-      "source": "Sky Sports",
-      "headline": "'Saka NEEDS to level up' - Nev, Wright, Carra & Sturridge debate Arsenal's attack",
-      "description": "Ian Wright, Jamie Carragher, Gary Neville and Daniel Sturridge debate how Arsenal's attack shapes up and whether Bukayo Saka needs to step up to another level for the Gunners.",
-      "publishedAt": "2026-09-06T12:28:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-saka-super-sunday_7343033.jpg?20260906133538",
-      "link": "https://www.skysports.com/watch/video/13582290/carragher-wright-neville-and-sturridge-debate-whether-saka-needs-to-step-up-more-for-arsenal",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 49846491,
       "source": "ESPN",
       "headline": "Tottenham boss Roberto De Zerbi says Mykhailo Mudryk will need time to find his best form",
@@ -320,20 +324,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 49837481,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi says wrong decisions cost Tottenham as wait for first Premier League win goes on",
-      "description": "Tottenham boss Roberto De Zerbi is not concerned despite his side limping to a third successive Premier League game without a goal.",
-      "publishedAt": "2026-09-05T20:21:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711858_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49837481/roberto-de-zerbi-spurs-nottingham-forest-premier-league-transfers",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Nottingham Forest"
       ]
     },
     {
@@ -451,6 +441,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-06T20:22:30.780Z"
+    "cachedAt": "2026-09-07T04:35:18.564Z"
   }
 }
