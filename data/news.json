@@ -2,6 +2,117 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49854825,
+      "source": "ESPN",
+      "headline": "Arsenal show Chelsea, Premier League who's boss; Inter the team to beat in Serie A",
+      "description": "Arsenal looked rattled against Chelsea thanks to an early goal, but Mikel Arteta's side quickly showed why they are the team to beat in England. Plus Inter prove they are Serie A's top team, as Gab Marcotti recaps the weekend.",
+      "publishedAt": "2026-09-07T12:18:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712653_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49854825/arsenal-beat-chelsea-premier-league-analysis-gab-marcotti-inter-milan-napoli-serie-a",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Arsenal",
+        "Internazionale",
+        "Napoli"
+      ]
+    },
+    {
+      "id": 49858651,
+      "source": "ESPN",
+      "headline": "Benjamin Šeško urges Man United to find positives after 'painful' Everton draw",
+      "description": "Benjamin Sesko has said Manchester United must try to take positives from the \"painful\" last-gasp draw at Everton and reset ahead of their long-awaited Champions League return.",
+      "publishedAt": "2026-09-07T11:57:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712717_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49858651/benjamin-šeško-urges-man-united-find-positives-painful-everton-draw",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Everton"
+      ]
+    },
+    {
+      "id": 49858056,
+      "source": "ESPN",
+      "headline": "Man United still pursuing Leicester midfielder Louis Page - sources",
+      "description": "Manchester United are still in the hunt for Louis Page despite missing out on a deadline day move for the Leicester City midfielder, sources have told ESPN.",
+      "publishedAt": "2026-09-07T10:34:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712698_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49858056/man-united-leicester-louis-page-premier-league-transfers-league-one",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Leicester City"
+      ]
+    },
+    {
+      "id": 49857536,
+      "source": "ESPN",
+      "headline": "Wayne Rooney: Arsenal defender Gabriel 'extremely lucky' to avoid red in Chelsea win",
+      "description": "Wayne Rooney has said Arsenal defender Gabriel was \"extremely lucky\" to avoid being sent off in his side's 2-1 win over Chelsea on Sunday.",
+      "publishedAt": "2026-09-07T09:34:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712690_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49857536/wayne-rooney-arsenal-gabriel-magalhaes-extremely-lucky-avoid-red-chelsea-win",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49857446,
+      "source": "ESPN",
+      "headline": "Alonso: Defeat to Arsenal 'needs to hurt in a positive way' for Chelsea",
+      "description": "Alonso: Defeat to Arsenal 'needs to hurt in a positive way' for Chelsea",
+      "publishedAt": "2026-09-07T08:34:37Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/dm_260907_Alonso_Defeat_to_Arsenal_needs_to_hurt_in_a_positive_way_for_Chelsea/dm_260907_Alonso_Defeat_to_Arsenal_needs_to_hurt_in_a_positive_way_for_Chelsea.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49857446/defeat-arsenal-needs-hurt-positive-way-chelsea",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "67a82a114b61975a0e75a6bda908964c",
+      "source": "Sky Sports",
+      "headline": "Hampshire Police investigating Bielik incident at Portsmouth",
+      "description": "Hampshire Police are investigating an incident between Cardiff's Krystian Bielik and a home supporter during Portsmouth's 2-0 win at Fratton Park on Saturday.",
+      "publishedAt": "2026-09-07T08:10:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/sky-sports-football-championship_7342646.jpg?20260905214205",
+      "link": "https://www.skysports.com/football/news/12040/13582657/krystian-bielik-hampshire-police-investigating-incident-between-cardiff-midfielder-and-portsmouth-supporter",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49857058,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea eye Scott to replace Enzo Fernández",
+      "description": "Chelsea are at the front of the queue to sign AFC Bournemouth midfielder Alex Scott. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-07T07:11:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708517_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49857058/transfer-rumors-news-chelsea-eye-bournemouth-scott-replace-enzo-fernandez",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49856811,
+      "source": "ESPN",
+      "headline": "Chelsea defence slammed by Gary Neville after Arsenal defeat: 'All over the place'",
+      "description": "Gary Neville has criticised Chelsea for being \"all over the place\" defensively in the 2-1 defeat to Arsenal, insisting Xabi Alonso should focus on reinforcements at the back.",
+      "publishedAt": "2026-09-07T07:06:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712679_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49856811/chelsea-defence-all-place-arsenal-gary-neville",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Arsenal"
+      ]
+    },
+    {
       "id": 49852864,
       "source": "ESPN",
       "headline": "Iliman Ndiaye on Tottenham links: 'When Manchester City comes through you don't say no'",
@@ -25,17 +136,6 @@
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
       "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "60ce5b0b29178ec2f50b3c3d1587c6da",
-      "source": "Sky Sports",
-      "headline": "Papers: Ex Man-Utd winger Sancho set for stunning Borussia Dortmund return",
-      "description": "The top stories and transfer rumours from Monday's newspapers...",
-      "publishedAt": "2026-09-06T21:41:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13582586/transfer-news-former-manchester-united-and-england-winger-jadon-sancho-lined-up-for-stunning-borussia-dortmund-return-paper-talk",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -339,108 +439,11 @@
         "Arsenal",
         "Chelsea"
       ]
-    },
-    {
-      "id": 49817484,
-      "source": "ESPN",
-      "headline": "European soccer recap: Haaland wins it for Man City, Inter with comeback vs. Napoli",
-      "description": "Erling Haaland scores again as Manchester City win and Inter staged an incredible comeback against Napoli, as a busy Saturday unfolded across Europe.",
-      "publishedAt": "2026-09-05T19:09:14Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711764_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49817484/premier-league-live-updates-newcastle-host-bournemouth-man-city-coventry-city-inter-napoli",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Napoli",
-        "Internazionale"
-      ]
-    },
-    {
-      "id": 49837672,
-      "source": "ESPN",
-      "headline": "Man City have given Maresca everything he needs to challenge this season",
-      "description": "Enzo Maresca asked for new signings during his first season at Manchester City. Now, he has the pieces necessary to compete on all fronts.",
-      "publishedAt": "2026-09-05T18:59:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711867_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49837672/manchester-city-given-enzo-maresca-everything-needs-challenge-season",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 49838329,
-      "source": "ESPN",
-      "headline": "Should Nottingham Forest's disallowed goal vs. Spurs have stood?",
-      "description": "Should Nottingham Forest's disallowed goal vs. Spurs have stood?",
-      "publishedAt": "2026-09-05T18:57:34Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Should_Nottingham_Forests_disallowed_goal_vs_Spurs_have_stood/dm_260905_Should_Nottingham_Forests_disallowed_goal_vs_Spurs_have_stood.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49838329/should-nottingham-forest-disallowed-goal-vs-spurs-stood",
-      "tag": "Nottingham Forest",
-      "teams": [
-        "Nottingham Forest",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49838159,
-      "source": "ESPN",
-      "headline": "Hislop: Donnarumma showed he is not comfortable with the ball at his feet",
-      "description": "Hislop: Donnarumma showed he is not comfortable with the ball at his feet",
-      "publishedAt": "2026-09-05T18:45:34Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Hislop_Donnarumma_showed_he_is_not_comfortable_with_the_ball_at_his_feet/dm_260905_Hislop_Donnarumma_showed_he_is_not_comfortable_with_the_ball_at_his_feet.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49838159/donnarumma-showed-not-comfortable-ball-feet",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49818802,
-      "source": "ESPN",
-      "headline": "Hull continue unbeaten start to the Premier League season following goalless draw with Aston Villa",
-      "description": "Hull's unbeaten start to life back in the Premier League continued as Sergej Jakirovic's surprise package ended a breathless week by holding rebuilding Aston Villa to a 0-0 draw.",
-      "publishedAt": "2026-09-05T18:37:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711887_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401878781",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 49837674,
-      "source": "ESPN",
-      "headline": "Fabian Hurzeler: Luka Vušković can be top player for Brighton after first goal",
-      "description": "Brighton boss Fabian Hurzeler believes the Premier League will be an education for teenage record signing Luka Vuskovic after his first goal in English football rescued a 1-1 draw against Leeds.",
-      "publishedAt": "2026-09-05T18:14:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711874_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49837674/fabian-hurzeler-luka-vuskovic-top-player-brighton-first-goal",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 49837522,
-      "source": "ESPN",
-      "headline": "Maresca: Man City could have scored more in 'ugly' win vs. Coventry",
-      "description": "Maresca: Man City could have scored more in 'ugly' win vs. Coventry",
-      "publishedAt": "2026-09-05T17:52:58Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Maresca_Man_City_could_have_scored_more_in_ugly_win_vs_Coventry/dm_260905_Maresca_Man_City_could_have_scored_more_in_ugly_win_vs_Coventry.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49837522/man-city-scored-more-ugly-win-vs-coventry",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-07T04:35:18.564Z"
+    "cachedAt": "2026-09-07T12:26:00.921Z"
   }
 }
