@@ -2,16 +2,134 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "0afdc4385ac86dad0a816d4aabcda54a",
+      "source": "Sky Sports",
+      "headline": "Midweek millions! Play Super 6 to win £1m",
+      "description": "",
+      "publishedAt": "2026-09-08T15:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-super-6-sky-bet_7320401.jpg?20260813100058",
+      "link": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "cd39bf6c40a2a8f2a861562108d4bfd5",
+      "source": "Sky Sports",
+      "headline": "Kane, Rice, Bellingham among Ballon d'Or nominees but no Ronaldo",
+      "description": "The 2026 Ballon d'Or nominees have been announced as the best male and female footballers of the year are identified.",
+      "publishedAt": "2026-09-08T15:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ballon-dor-kane_7345056.png?20260908135734",
+      "link": "https://www.skysports.com/football/news/12040/13582892/ballon-dor-2026-harry-kane-declan-rice-jude-bellingham-among-nominees-but-no-cristiano-ronaldo",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49867443,
       "source": "ESPN",
       "headline": "Liverpool announce Turkish Airlines as main shirt sponsor from 2027",
       "description": "Liverpool have confirmed that Turkish Airlines will become the club's front-of-shirt sponsor from the 2027/28 season. Liverpool have confirmed that Turkish Airlines will become the club's front-of-shirt sponsor from the 2027-28 season.",
-      "publishedAt": "2026-09-08T10:41:10Z",
+      "publishedAt": "2026-09-08T14:56:40Z",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692111_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49867443/liverpool-announce-turkish-airlines-main-shirt-sponsor-2027",
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": 49868479,
+      "source": "ESPN",
+      "headline": "Liverpool's Alexis Mac Allister 'very, very sad' after not being offered new contract",
+      "description": "Liverpool midfielder Alexis Mac Allister has said he was left \"very, very, sad\" after he was not offered a new contract at the club.",
+      "publishedAt": "2026-09-08T14:12:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713205_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49868479/liverpool-alexis-mac-allister-very-very-sad-not-being-offered-new-contract",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "da6fbc7ac3753aad068687a4c31a93fe",
+      "source": "Sky Sports",
+      "headline": "Man Utd's £1bn rebuild faces toughest test",
+      "description": "Michael Carrick transformed Manchester United's fortunes after his appointment in January, steering the side from seventh to third and clinching their return to the Champions League.",
+      "publishedAt": "2026-09-08T14:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-michale-michael-carrick_7345147.jpg?20260908145237",
+      "link": "https://www.skysports.com/football/news/12040/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49866443,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal set for Rice talks to ward off Real Madrid interest",
+      "description": "Real Madrid are eyeing up Declan Rice, but Arsenal are making moves to keep him. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-08T12:52:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713118_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49866443/transfer-rumors-news-arsenal-set-declan-rice-talks-real-madrid-interest",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49860446,
+      "source": "ESPN",
+      "headline": "Premier League clubs are overspending on wingers who can't score goals",
+      "description": "After Messi and Ronaldo proved wingers can do more than cross the ball, why are Premier League clubs paying so much for so little production?",
+      "publishedAt": "2026-09-08T12:50:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712835_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49860446/premier-league-clubs-overspending-wingers-cannot-score-goals-transfers",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Arsenal",
+        "Chelsea",
+        "Newcastle United",
+        "Manchester City",
+        "Brentford"
+      ]
+    },
+    {
+      "id": 49866342,
+      "source": "ESPN",
+      "headline": "'Centre-half' Declan Rice wouldn't start for Man City, Real Madrid - Graeme Souness",
+      "description": "Graeme Souness has doubled down on his criticism of Declan Rice, reiterating the Arsenal midfielder is more of a defender and claiming he wouldn't start for any of his club's top European rivals.",
+      "publishedAt": "2026-09-08T12:47:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713118_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49866342/centre-half-declan-rice-man-city-real-madrid-graeme-souness",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "057d1341413722cdccdbf47317776dbf",
+      "source": "Sky Sports",
+      "headline": "Mac Allister 'very sad' over no new Liverpool deal",
+      "description": "Liverpool midfielder Alexis Mac Allister is \"very sad\" that he has not been offered a new contract and admitted he had \"options to leave\" in the summer.",
+      "publishedAt": "2026-09-08T12:27:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-liverpool_7344990.jpg?20260908131848",
+      "link": "https://www.skysports.com/football/news/12040/13583123/alexis-mac-allister-liverpool-midfielder-very-sad-over-no-new-contract-and-admits-he-could-have-left-in-summer",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49867513,
+      "source": "ESPN",
+      "headline": "Man United fan group call for unified pre-derby protest amid season ticket 'fiasco'",
+      "description": "A Manchester United fan group has called for a unified protest against the \"season ticket ban fiasco\" ahead of Sunday's derby against Manchester City.",
+      "publishedAt": "2026-09-08T11:23:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713146_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49867513/manchester-united-fan-group-call-pre-derby-protest-amid-season-ticket-fiasco",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
       ]
     },
     {
@@ -60,27 +178,6 @@
       ]
     },
     {
-      "id": 49860446,
-      "source": "ESPN",
-      "headline": "Premier League clubs are overspending on wingers who can't score goals",
-      "description": "After Messi and Ronaldo proved wingers can do more than cross the ball, why are Premier League clubs paying so much for so little production?",
-      "publishedAt": "2026-09-08T07:57:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712835_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49860446/premier-league-clubs-overspending-wingers-cannot-score-goals-transfers",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "Aston Villa",
-        "Arsenal",
-        "Chelsea",
-        "Newcastle United",
-        "Manchester City",
-        "Brentford"
-      ]
-    },
-    {
       "id": 49866585,
       "source": "ESPN",
       "headline": "Can versatile Iliman Ndiaye avoid Manchester City's expensive talent graveyard?",
@@ -95,20 +192,6 @@
       ]
     },
     {
-      "id": 49866443,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal set for Rice talks to ward off Real Madrid interest",
-      "description": "Real Madrid are eyeing up Declan Rice, but Arsenal are making moves to keep him. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-08T07:35:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713118_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49866443/transfer-rumors-news-arsenal-set-declan-rice-talks-real-madrid-interest",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
       "id": "c9b68fc04e97b6581495bfe76ee84232",
       "source": "Sky Sports",
       "headline": "Newcastle chief: Summer was 'not chaotic' with Howe exit prepared for",
@@ -116,17 +199,6 @@
       "publishedAt": "2026-09-08T07:30:00.000Z",
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-newcastle_7344796.jpg?20260908082623",
       "link": "https://www.skysports.com/football/news/12040/13583036/ross-wilson-newcastle-chief-reveals-club-prepared-for-eddie-howe-exit-in-summer-that-never-felt-chaotic",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e5189c358c3c9ec41e6a7b68a38fe14a",
-      "source": "Sky Sports",
-      "headline": "How Calafiori has become 'the best left-back in the league by far'",
-      "description": "Riccardo Calafiori returns to Italy with Arsenal this week - and he's a very different player compared to the one who departed for England two years ago.",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-calafiori-arsenal_7344220.jpg?20260907124727",
-      "link": "https://www.skysports.com/football/news/12040/13582771/riccardo-calafiori-how-arsenals-defender-has-emerged-as-one-of-the-premier-leagues-best-left-backs",
       "tag": "News Story",
       "teams": []
     },
@@ -144,19 +216,6 @@
       ]
     },
     {
-      "id": 49866342,
-      "source": "ESPN",
-      "headline": "'Centre-half' Declan Rice wouldn't start for Man City, Real Madrid - Graeme Souness",
-      "description": "Graeme Souness has doubled down on his criticism of Declan Rice, reiterating the Arsenal midfielder is more of a defender and claiming he wouldn't start for any of his club's top European rivals.",
-      "publishedAt": "2026-09-08T06:55:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713118_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49866342/centre-half-declan-rice-man-city-real-madrid-graeme-souness",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 49866212,
       "source": "ESPN",
       "headline": "Erling Haaland fears lack of break could take toll as Man City star reveals unusual escape",
@@ -168,17 +227,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "fa04550178bb3b13b9965c45c6ccf97a",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd monitoring Dortmund star Nmecha",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-09-07T22:15:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13582860/transfer-news-borussia-dortmund-midfielder-felix-nmecha-on-man-utds-radar-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49862787,
@@ -222,6 +270,17 @@
         "Manchester United",
         "Leicester City"
       ]
+    },
+    {
+      "id": "51f8d35d3714ae5a3fe6db5aae71d0ea",
+      "source": "Sky Sports",
+      "headline": "No Cash for Villa as Emery makes three changes vs Club Brugge LIVE!",
+      "description": "",
+      "publishedAt": "2026-09-07T14:24:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-nicolas-jackson-aston-villa_7345248.jpg?20260908162230",
+      "link": "https://www.skysports.com/football/club-brugge-vs-aston-villa/live/577599",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49854825,
@@ -393,20 +452,6 @@
       ]
     },
     {
-      "id": 49850276,
-      "source": "ESPN",
-      "headline": "Martin Ødegaard, Kai Havertz strikes give Arsenal statement London derby win over Chelsea",
-      "description": "Arsenal came from behind to record a statement 2-1 win in a vintage London derby against Chelsea at the Emirates on Sunday.",
-      "publishedAt": "2026-09-06T19:07:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712362_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49850276/martin-odegaard-kai-havertz-arsenal-statement-london-derby-chelsea-report-reaction",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 49851253,
       "source": "ESPN",
       "headline": "Leboeuf: Everton made Bruno Fernandes 'invisible' in Man United draw",
@@ -449,20 +494,6 @@
       ]
     },
     {
-      "id": 49849587,
-      "source": "ESPN",
-      "headline": "Another game, more dropped points: Are Man United still a work in progress?",
-      "description": "Manchester United are just three games into the Premier League season, but they've already dropped points twice.",
-      "publishedAt": "2026-09-06T18:18:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712293_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49849587/another-game-more-dropped-points-man-united-work-progress",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Everton"
-      ]
-    },
-    {
       "id": 49818821,
       "source": "ESPN",
       "headline": "Arsenal come from behind to beat Chelsea and maintain perfect start in pulsating London derby",
@@ -480,6 +511,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-08T11:13:40.836Z"
+    "cachedAt": "2026-09-08T16:35:32.064Z"
   }
 }
