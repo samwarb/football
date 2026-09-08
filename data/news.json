@@ -2,6 +2,42 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "fa04550178bb3b13b9965c45c6ccf97a",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd monitoring Dortmund star Nmecha",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "publishedAt": "2026-09-07T22:15:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13582860/transfer-news-borussia-dortmund-midfielder-felix-nmecha-on-man-utds-radar-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49862787,
+      "source": "ESPN",
+      "headline": "Are Arsenal building a Premier League dynasty?",
+      "description": "Are Arsenal building a Premier League dynasty?",
+      "publishedAt": "2026-09-07T22:00:58Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/dm_260907_COM_SOC_ANALYSIS_Can_Havertz_lead_Arsenal_to_Champions_League_glory_2026_9_26/dm_260907_COM_SOC_ANALYSIS_Can_Havertz_lead_Arsenal_to_Champions_League_glory_2026_9_26.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49862787/are-arsenal-building-premier-league-dynasty",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "51debe03518f859c959c9d987460bb70",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+      "description": "",
+      "publishedAt": "2026-09-07T16:35:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49859996,
       "source": "ESPN",
       "headline": "Arsenal's Ezri Konsa 'loved' battle with England teammate Morgan Rogers in Chelsea clash",
@@ -54,17 +90,6 @@
       "publishedAt": "2026-09-07T12:41:00.000Z",
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-russell-martin-leicester_7344281.jpg?20260907134812",
       "link": "https://www.skysports.com/football/news/12040/13582797/leicester-city-sink-to-new-low-in-league-one-but-can-russell-martin-turn-it-around",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "d15a6ceb00bde5d5af597cc08809b73d",
-      "source": "Sky Sports",
-      "headline": "Putellas outshone by Cascarino on debut but is spine of London City's success",
-      "description": "Sky Sports columnist Laura Hunter analyses the big talking points from the first round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
-      "publishedAt": "2026-09-07T12:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-london-city-man-city_7344315.jpg?20260907144433",
-      "link": "https://www.skysports.com/football/news/12040/13582679/womens-super-league-alexia-putellas-debut-for-london-city-analysed-with-more-on-man-city-and-chelsea",
       "tag": "News Story",
       "teams": []
     },
@@ -426,25 +451,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 49838440,
-      "source": "ESPN",
-      "headline": "Robson: I cannot see Chelsea beating Arsenal this early in the season",
-      "description": "Robson: I cannot see Chelsea beating Arsenal this early in the season",
-      "publishedAt": "2026-09-05T19:14:42Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Robson_I_cannot_see_Chelsea_beating_Arsenal_this_early_in_the_season/dm_260905_Robson_I_cannot_see_Chelsea_beating_Arsenal_this_early_in_the_season.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49838440/cannot-see-chelsea-beating-arsenal-early-season",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-07T21:28:58.772Z"
+    "cachedAt": "2026-09-08T04:30:49.490Z"
   }
 }
