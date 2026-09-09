@@ -2,6 +2,109 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "31de570f5fbcca236e02526ed25fadfe",
+      "source": "Sky Sports",
+      "headline": "Papers: Blow for Man Utd as top target agrees new contract",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "publishedAt": "2026-09-08T22:15:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49866443,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City eye move for Atleti's Baena",
+      "description": "Manchester City are looking to sign World Cup-winning midfielder Álex Baena from Atlético Madrid. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-08T21:53:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713445_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49866443/transfer-rumors-news-arsenal-set-declan-rice-talks-real-madrid-interest",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Atlético Madrid",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "8c054bc991860314746955de39dbf1a9",
+      "source": "Sky Sports",
+      "headline": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
+      "description": "",
+      "publishedAt": "2026-09-08T21:42:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-federico-valverde_7345472.jpg?20260908213657",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "70e24587e509da47b37792568c9b2c0a",
+      "source": "Sky Sports",
+      "headline": "Bowen at the double as West Ham climb top of the Championship",
+      "description": "Captain Jarrod Bowen scored twice as West Ham's 3-2 win over Bolton took them top of the Sky Bet Championship on goal difference and earned a first ever win at the Toughsheet Community Stadium.",
+      "publishedAt": "2026-09-08T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jarrod-bowen-west-ham_7345528.jpg?20260908221801",
+      "link": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "39a092d66e2a30e117547b6c1e66aa32",
+      "source": "Sky Sports",
+      "headline": "Willock grabs late goal as Newcastle edge Millwall",
+      "description": "Joe Willock's late goal sent a relieved Newcastle into the fourth round of the Carabao Cup as the Premier League side scraped to a 1-0 victory at Sky Bet Championship outfit Millwall.",
+      "publishedAt": "2026-09-08T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-willock-newcastle_7345529.jpg?20260908222156",
+      "link": "https://www.skysports.com/football/millwall-vs-newcastle-united/report/577582",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "ed3f221a543a65e93fccdf15b7f6f98b",
+      "source": "Sky Sports",
+      "headline": "Haaland scores twice in win over Porto but Man City struggle to impress",
+      "description": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but struggled to convince.",
+      "publishedAt": "2026-09-08T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-porto_7345520.jpg?20260908221222",
+      "link": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "6f9c5ae8ff76bae2acbab0078ac17094",
+      "source": "Sky Sports",
+      "headline": "Christie nets hat-trick as Bournemouth blitz Championship Lincoln",
+      "description": "Ryan Christie scored a hat-trick to give Marco Rose his first win as Bournemouth manager as the Cherries swept aside Sky Bet Championship side Lincoln 4-0.",
+      "publishedAt": "2026-09-08T20:35:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ryan-christie-bournemouth_7345497.jpg?20260908215326",
+      "link": "https://www.skysports.com/football/bournemouth-vs-lincoln-city/report/577572",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "3b57b4284bc49ad7b3a1ac23cc58a05d",
+      "source": "Sky Sports",
+      "headline": "Southampton knock Swansea off Championship top spot",
+      "description": "Cyle Larin scored his fifth goal of the season as Southampton beat Swansea 3-1 to humble a table-topper for the second home match in a row.",
+      "publishedAt": "2026-09-08T20:30:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-leo-scienza-southampton_7345513.jpg?20260908220249",
+      "link": "https://www.skysports.com/football/southampton-vs-swansea-city/report/560563",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "82a36aea46efc33c930a2c7ba5d9d0de",
+      "source": "Sky Sports",
+      "headline": "Colwill earns Cardiff point but winless start continues",
+      "description": "Cardiff's winless start to the season continued as Stoke held on for a 1-1 draw and their first away point since January in the Welsh capital.",
+      "publishedAt": "2026-09-08T20:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-joel-colwill-cardiff_7345517.jpg?20260908220810",
+      "link": "https://www.skysports.com/football/cardiff-city-vs-stoke-city/report/560561",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49867974,
       "source": "ESPN",
       "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
@@ -15,6 +118,17 @@
         "Paris Saint-Germain",
         "Barcelona"
       ]
+    },
+    {
+      "id": "231cd208152c0cfae2413ab33ff02a90",
+      "source": "Sky Sports",
+      "headline": "Newcastle latest: Hall hails Jaissle for lifting 'negativity'",
+      "description": "",
+      "publishedAt": "2026-09-08T19:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-newcastle-news-rumours_7331922.jpg?20260826153948",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49868479,
@@ -43,28 +157,6 @@
       ]
     },
     {
-      "id": "0afdc4385ac86dad0a816d4aabcda54a",
-      "source": "Sky Sports",
-      "headline": "Midweek millions! Play Super 6 to win £1m",
-      "description": "",
-      "publishedAt": "2026-09-08T15:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-super-6-sky-bet_7320401.jpg?20260813100058",
-      "link": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "cd39bf6c40a2a8f2a861562108d4bfd5",
-      "source": "Sky Sports",
-      "headline": "Kane, Rice, Bellingham among Ballon d'Or nominees but no Ronaldo",
-      "description": "The 2026 Ballon d'Or nominees have been announced as the best male and female footballers of the year are identified.",
-      "publishedAt": "2026-09-08T15:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ballon-dor-kane_7345056.png?20260908135734",
-      "link": "https://www.skysports.com/football/news/12040/13582892/ballon-dor-2026-harry-kane-declan-rice-jude-bellingham-among-nominees-but-no-cristiano-ronaldo",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49867443,
       "source": "ESPN",
       "headline": "Liverpool announce Turkish Airlines as main shirt sponsor from 2027",
@@ -75,31 +167,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "da6fbc7ac3753aad068687a4c31a93fe",
-      "source": "Sky Sports",
-      "headline": "Man Utd's £1bn rebuild faces toughest test",
-      "description": "Michael Carrick transformed Manchester United's fortunes after his appointment in January, steering the side from seventh to third and clinching their return to the Champions League.",
-      "publishedAt": "2026-09-08T14:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-michale-michael-carrick_7345147.jpg?20260908145237",
-      "link": "https://www.skysports.com/football/news/12040/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49866443,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal set for Rice talks to ward off Real Madrid interest",
-      "description": "Real Madrid are eyeing up Declan Rice, but Arsenal are making moves to keep him. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-08T12:52:24Z",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713118_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49866443/transfer-rumors-news-arsenal-set-declan-rice-talks-real-madrid-interest",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Real Madrid"
       ]
     },
     {
@@ -135,17 +202,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "057d1341413722cdccdbf47317776dbf",
-      "source": "Sky Sports",
-      "headline": "Mac Allister 'very sad' over no new Liverpool deal",
-      "description": "Liverpool midfielder Alexis Mac Allister is \"very sad\" that he has not been offered a new contract and admitted he had \"options to leave\" in the summer.",
-      "publishedAt": "2026-09-08T12:27:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-liverpool_7344990.jpg?20260908131848",
-      "link": "https://www.skysports.com/football/news/12040/13583123/alexis-mac-allister-liverpool-midfielder-very-sad-over-no-new-contract-and-admits-he-could-have-left-in-summer",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49163915,
@@ -205,17 +261,6 @@
         "Manchester City",
         "Senegal"
       ]
-    },
-    {
-      "id": "c9b68fc04e97b6581495bfe76ee84232",
-      "source": "Sky Sports",
-      "headline": "Newcastle chief: Summer was 'not chaotic' with Howe exit prepared for",
-      "description": "Newcastle sporting director Ross Wilson says they were \"prepared for a number of months\" for Eddie Howe's exit in a summer that \"never felt chaotic\".",
-      "publishedAt": "2026-09-08T07:30:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-newcastle_7344796.jpg?20260908082623",
-      "link": "https://www.skysports.com/football/news/12040/13583036/ross-wilson-newcastle-chief-reveals-club-prepared-for-eddie-howe-exit-in-summer-that-never-felt-chaotic",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49866292,
@@ -285,17 +330,6 @@
         "Manchester United",
         "Leicester City"
       ]
-    },
-    {
-      "id": "51f8d35d3714ae5a3fe6db5aae71d0ea",
-      "source": "Sky Sports",
-      "headline": "No Cash for Villa as Emery makes three changes vs Club Brugge LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-07T14:24:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-nicolas-jackson-aston-villa_7345248.jpg?20260908162230",
-      "link": "https://www.skysports.com/football/club-brugge-vs-aston-villa/live/577599",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49854825,
@@ -512,6 +546,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-08T21:06:44.939Z"
+    "cachedAt": "2026-09-09T04:37:29.280Z"
   }
 }
