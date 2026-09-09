@@ -2,6 +2,125 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49878227,
+      "source": "ESPN",
+      "headline": "Marcus Rashford returns to training ahead of Manchester United's Champions League clash",
+      "description": "Marcus Rashford trained as normal with the Manchester United squad on Wednesday ahead of the Champions League tie with Sabah FK.",
+      "publishedAt": "2026-09-09T10:35:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713674_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49878227/marcus-rashford-returns-training-ahead-manchester-united-champions-league-clash",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49877506,
+      "source": "ESPN",
+      "headline": "Xabi Alonso insists Estêvão remains integral part of Chelsea plans despite limited minutes",
+      "description": "Xabi Alonso insists Estêvão remains an important part of his plans despite limited opportunities for the young Brazilian so far.",
+      "publishedAt": "2026-09-09T10:05:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713660_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49877506/xabi-alonso-insists-estevao-remains-integral-part-chelsea-plans-limited-minutes",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "019ab49d794ba785ff35f7731ef27c35",
+      "source": "Sky Sports",
+      "headline": "Ipswich latest: Maguire goal backed by KMI Panel despite 'deliberate' handball",
+      "description": "",
+      "publishedAt": "2026-09-09T09:45:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49877964,
+      "source": "ESPN",
+      "headline": "Gabriel Jesus: I was made to train alone at Arsenal before Barcelona move",
+      "description": "Gabriel Jesus has said he was made to train alone at Arsenal this summer as the club sought to move him on during the transfer window.",
+      "publishedAt": "2026-09-09T09:43:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713666_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49877964/gabriel-jesus-was-made-train-alone-arsenal-barcelona-move",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 49877847,
+      "source": "ESPN",
+      "headline": "Ex-Liverpool, Real Oviedo midfielder Ovie Ejaria takes to LinkedIn in new club search",
+      "description": "Former Liverpool and Real Oviedo midfielder Ovie Ejaria has taken to LinkedIn as he bids to find a new club.",
+      "publishedAt": "2026-09-09T09:41:19Z",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713667_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49877847/ex-liverpool-real-oviedo-midfielder-ovie-ejaria-looking-new-club-linkedin",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Real Oviedo",
+        "La Liga AFE"
+      ]
+    },
+    {
+      "id": "dc3d71208ebca08970a4fee10024df35",
+      "source": "Sky Sports",
+      "headline": "Carra: Haaland will be greatest goalscorer of all time",
+      "description": "Jamie Carragher believes Erling Haaland will be the \"best goalscorer of all time\" after his double earned Manchester City a 2-0 win at Porto in the Champions League.",
+      "publishedAt": "2026-09-09T08:47:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-erling-haaland-man-city_7345823.jpg?20260909102520",
+      "link": "https://www.skysports.com/football/news/12040/13583453/erling-haaland-jamie-carragher-believes-manchester-city-striker-will-be-greatest-goalscorer-of-all-time",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49876963,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United blow as Hall agrees new Newcastle deal",
+      "description": "Manchester United target Lewis Hall has reportedly agreed a new contract with Newcastle United. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-09T07:44:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711244_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49876963/transfer-rumors-news-man-united-blow-hall-agrees-new-newcastle-deal",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 49876933,
+      "source": "ESPN",
+      "headline": "Man United scouted Kylian Mbappé but rejected chance to sign him - Ryan Giggs",
+      "description": "Former Manchester United winger Ryan Giggs has revealed that the club scouted Kylian Mbappé when he was at Monaco and decided against him signing him.",
+      "publishedAt": "2026-09-09T07:16:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713413_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49876933/man-united-scouted-kylian-mbappe-didnt-try-sign-ryan-giggs",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49876884,
+      "source": "ESPN",
+      "headline": "Pep Guardiola called Marcus Rashford Man United's best player: 'I'd take him tomorrow'",
+      "description": "Pep Guardiola once described Marcus Rashford as Manchester United's best player and said he would sign the forward \"tomorrow,\" according to legendary midfielder Ryan Giggs.",
+      "publishedAt": "2026-09-09T07:08:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713644_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49876884/pep-guardiola-called-marcus-rashford-man-united-best-player-man-city-ryan-giggs",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Manchester City"
+      ]
+    },
+    {
       "id": "31de570f5fbcca236e02526ed25fadfe",
       "source": "Sky Sports",
       "headline": "Papers: Blow for Man Utd as top target agrees new contract",
@@ -39,72 +158,6 @@
       "teams": []
     },
     {
-      "id": "70e24587e509da47b37792568c9b2c0a",
-      "source": "Sky Sports",
-      "headline": "Bowen at the double as West Ham climb top of the Championship",
-      "description": "Captain Jarrod Bowen scored twice as West Ham's 3-2 win over Bolton took them top of the Sky Bet Championship on goal difference and earned a first ever win at the Toughsheet Community Stadium.",
-      "publishedAt": "2026-09-08T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jarrod-bowen-west-ham_7345528.jpg?20260908221801",
-      "link": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/report/560559",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "39a092d66e2a30e117547b6c1e66aa32",
-      "source": "Sky Sports",
-      "headline": "Willock grabs late goal as Newcastle edge Millwall",
-      "description": "Joe Willock's late goal sent a relieved Newcastle into the fourth round of the Carabao Cup as the Premier League side scraped to a 1-0 victory at Sky Bet Championship outfit Millwall.",
-      "publishedAt": "2026-09-08T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-willock-newcastle_7345529.jpg?20260908222156",
-      "link": "https://www.skysports.com/football/millwall-vs-newcastle-united/report/577582",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "ed3f221a543a65e93fccdf15b7f6f98b",
-      "source": "Sky Sports",
-      "headline": "Haaland scores twice in win over Porto but Man City struggle to impress",
-      "description": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but struggled to convince.",
-      "publishedAt": "2026-09-08T21:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-porto_7345520.jpg?20260908221222",
-      "link": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "6f9c5ae8ff76bae2acbab0078ac17094",
-      "source": "Sky Sports",
-      "headline": "Christie nets hat-trick as Bournemouth blitz Championship Lincoln",
-      "description": "Ryan Christie scored a hat-trick to give Marco Rose his first win as Bournemouth manager as the Cherries swept aside Sky Bet Championship side Lincoln 4-0.",
-      "publishedAt": "2026-09-08T20:35:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ryan-christie-bournemouth_7345497.jpg?20260908215326",
-      "link": "https://www.skysports.com/football/bournemouth-vs-lincoln-city/report/577572",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "3b57b4284bc49ad7b3a1ac23cc58a05d",
-      "source": "Sky Sports",
-      "headline": "Southampton knock Swansea off Championship top spot",
-      "description": "Cyle Larin scored his fifth goal of the season as Southampton beat Swansea 3-1 to humble a table-topper for the second home match in a row.",
-      "publishedAt": "2026-09-08T20:30:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-leo-scienza-southampton_7345513.jpg?20260908220249",
-      "link": "https://www.skysports.com/football/southampton-vs-swansea-city/report/560563",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "82a36aea46efc33c930a2c7ba5d9d0de",
-      "source": "Sky Sports",
-      "headline": "Colwill earns Cardiff point but winless start continues",
-      "description": "Cardiff's winless start to the season continued as Stoke held on for a 1-1 draw and their first away point since January in the Welsh capital.",
-      "publishedAt": "2026-09-08T20:30:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-joel-colwill-cardiff_7345517.jpg?20260908220810",
-      "link": "https://www.skysports.com/football/cardiff-city-vs-stoke-city/report/560561",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49867974,
       "source": "ESPN",
       "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
@@ -118,17 +171,6 @@
         "Paris Saint-Germain",
         "Barcelona"
       ]
-    },
-    {
-      "id": "231cd208152c0cfae2413ab33ff02a90",
-      "source": "Sky Sports",
-      "headline": "Newcastle latest: Hall hails Jaissle for lifting 'negativity'",
-      "description": "",
-      "publishedAt": "2026-09-08T19:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-newcastle-news-rumours_7331922.jpg?20260826153948",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49868479,
@@ -419,20 +461,6 @@
       ]
     },
     {
-      "id": 49851013,
-      "source": "ESPN",
-      "headline": "Xabi Alonso: Chelsea must 'address' defensive issues after Arsenal defeat",
-      "description": "Xabi Alonso said Chelsea must resolve their defensive frailties after a 2-1 defeat against Arsenal took their goals conceded tally to seven in just three games this season.",
-      "publishedAt": "2026-09-06T21:39:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712398_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49851013/xabi-alonso-chelsea-address-defensive-issues-arsenal-defeat",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 49846296,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Richarlison could be forced into Saudi move",
@@ -443,48 +471,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49849522,
-      "source": "ESPN",
-      "headline": "Chelsea are on the rise, but Arsenal remain kings of Premier League",
-      "description": "Arsenal continue to overcome every obstacle they face in the Premier League -- including London rivals and title aspirants Chelsea.",
-      "publishedAt": "2026-09-06T19:56:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712396_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49849522/chelsea-rise-arsenal-remain-kings-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49850924,
-      "source": "ESPN",
-      "headline": "Leboeuf concerned over 'fragile' Chelsea defense",
-      "description": "Leboeuf concerned over 'fragile' Chelsea defense",
-      "publishedAt": "2026-09-06T19:32:33Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_COM_SOC_Analysis_Leboeuf_concerned_over_fragile_Chelsea_defence_20260906_GLOBAL/dm_260906_COM_SOC_Analysis_Leboeuf_concerned_over_fragile_Chelsea_defence_20260906_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49850924/leboeuf-concerned-fragile-chelsea-defense",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49851128,
-      "source": "ESPN",
-      "headline": "Mikel Arteta: Arsenal can go to a 'higher level' than last season",
-      "description": "Mikel Arteta believes Arsenal's 2-1 win over Chelsea is proof the Gunners can go to a \"higher level\" than last season.",
-      "publishedAt": "2026-09-06T19:30:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712404_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49851128/mikel-arteta-arsenal-chelsea-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
       ]
     },
     {
@@ -499,53 +485,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49851253,
-      "source": "ESPN",
-      "headline": "Leboeuf: Everton made Bruno Fernandes 'invisible' in Man United draw",
-      "description": "Leboeuf: Everton made Bruno Fernandes 'invisible' in Man United draw",
-      "publishedAt": "2026-09-06T19:04:16Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_COM_SOC_Analysis_Leboeuf_Everton_made_Bruno_Fernandes_invisible_in_Man_United_draw_20260906_G/dm_260906_COM_SOC_Analysis_Leboeuf_Everton_made_Bruno_Fernandes_invisible_in_Man_United_draw_20260906_G.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49851253/everton-made-bruno-fernandes-invisible-man-united-draw",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49851060,
-      "source": "ESPN",
-      "headline": "Burley hails 'sublime' Odegaard after Arsenal impress vs. Chelsea",
-      "description": "Burley hails 'sublime' Odegaard after Arsenal impress vs. Chelsea",
-      "publishedAt": "2026-09-06T18:44:20Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_COM_SOC_Analysis_Burley_hails_sublime_Odegaard_after_Arsenal_impress_vs_Chelsea_20260906_GLOB/dm_260906_COM_SOC_Analysis_Burley_hails_sublime_Odegaard_after_Arsenal_impress_vs_Chelsea_20260906_GLOB.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49851060/burley-hails-sublime-odegaard-arsenal-impress-vs-chelsea",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49817781,
-      "source": "ESPN",
-      "headline": "Premier League recap: Arsenal defeat Chelsea in thrilling London derby",
-      "description": "",
-      "publishedAt": "2026-09-06T18:22:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712363_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49817781/premier-league-live-updates-everton-take-manchester-united-chelsea-arsenal-barcelona-valencia-juventus-milan",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-09T04:37:29.280Z"
+    "cachedAt": "2026-09-09T11:18:25.607Z"
   }
 }
