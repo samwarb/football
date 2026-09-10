@@ -2,6 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49880797,
+      "source": "ESPN",
+      "headline": "The Premier League belongs to Erling Haaland after summer transfer window",
+      "description": "The Premier League was once a league of superstars, but after a summer of clubs signing depth over singular talent, Haaland is now the biggest star left, though it hasn't dampened the league's popularity or power one bit.",
+      "publishedAt": "2026-09-10T16:01:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713882_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49880797/premier-league-erling-haaland-manchester-city-instagram-summer-transfers-world-cup-norway",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49892616,
+      "source": "ESPN",
+      "headline": "Hull's Sergej Jakirovic: Best way to stop Chelsea is 'to kick them'",
+      "description": "Hull boss Sergej Jakirovic joked that the best way to stop Chelsea's free-flowing attack is \"to kick them.\"",
+      "publishedAt": "2026-09-10T15:32:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714351_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49892616/hull-sergej-jakirovic-best-way-stop-chelsea-kick-them",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a73e724f8c4776f7485e7c9e27c27d41",
+      "source": "Sky Sports",
+      "headline": "Premier League fixtures: Bumper festive period announced",
+      "description": "The Premier League's festive fixtures have been announced for this season - with 29 matches available to watch live on Sky Sports between Boxing Day and January 7.",
+      "publishedAt": "2026-09-10T14:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-fixtures_7346970.jpg?20260910121013",
+      "link": "https://www.skysports.com/football/news/12040/13583921/premier-league-christmas-fixtures-boxing-day-and-festive-schedule-announced-as-29-matches-shown-live-on-sky-sports",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "3015847959b9a7c298e05d6c63a75247",
+      "source": "Sky Sports",
+      "headline": "Bournemouth latest: Can Rose celebrate turning 50 with milestone win?",
+      "description": "",
+      "publishedAt": "2026-09-10T13:27:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49889462,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United, Tottenham eye Club Brugge striker",
@@ -32,30 +81,6 @@
       ]
     },
     {
-      "id": "fe01421537a3b8a08a8bec7af6b73509",
-      "source": "Sky Sports",
-      "headline": "How to watch Sky Sport's Big Weekend",
-      "description": "Football, F1, cricket, golf, tennis and NFL all on one weekend - and all on Sky Sports. Here's everything you need to know so you don't miss a minute of the action.",
-      "publishedAt": "2026-09-10T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-big-weekend-now-tv_7345865.jpg?20260909113302",
-      "link": "https://www.skysports.com/football/news/12040/13583497/how-to-watch-premier-league-wsl-spanish-grand-prix-us-open-finals-solheim-cup-and-nfl-with-sky-sports-and-now",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49880797,
-      "source": "ESPN",
-      "headline": "The Premier League belongs to Erling Haaland after summer transfer window",
-      "description": "The Premier League was once a league of superstars, but after a summer of clubs signing depth over singular talent, Haaland is now the biggest star left, though it hasn't dampened the league's popularity or power one bit.",
-      "publishedAt": "2026-09-10T08:54:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713882_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49880797/premier-league-erling-haaland-manchester-city-instagram-summer-transfers-world-cup-norway",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 49889522,
       "source": "ESPN",
       "headline": "Ødegaard: Arsenal on 'another level' after Champions League win continues unbeaten start",
@@ -67,17 +92,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "e78a38af646072e46607e980347b3b7a",
-      "source": "Sky Sports",
-      "headline": "Poch: I hope to return to Premier League in future",
-      "description": "Mauricio Pochettino has always been good company - warm, engaging and likeable. Having had a few weeks to reset away from the spotlight, there were enthusiastic hugs all round for the Sky Sports News team as we all swapped summer stories. His, though, has been rather busier than ours.",
-      "publishedAt": "2026-09-10T06:48:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346131.jpg?20260909143053",
-      "link": "https://www.skysports.com/football/news/12040/13583564/mauricio-pochettino-ex-tottenham-and-chelsea-boss-hopes-to-return-to-premier-league-in-future",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49889093,
@@ -92,17 +106,6 @@
         "Tottenham Hotspur",
         "Chelsea"
       ]
-    },
-    {
-      "id": "2c26f8cff6eb48efe6dd807942a42dd8",
-      "source": "Sky Sports",
-      "headline": "Arteta explains new role for transformed Odegaard",
-      "description": "Martin Odegaard is a player transformed at the start of this season - and Arsenal boss Mikel Arteta puts his captain's impressive form down to fitness and new positioning.",
-      "publishedAt": "2026-09-09T22:05:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-martin-odegaard-arsenal_7346630.jpg?20260909231300",
-      "link": "https://www.skysports.com/football/news/12040/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49876963,
@@ -457,25 +460,11 @@
         "Internazionale",
         "Napoli"
       ]
-    },
-    {
-      "id": 49858651,
-      "source": "ESPN",
-      "headline": "Benjamin Šeško urges Man United to find positives after 'painful' Everton draw",
-      "description": "Benjamin Sesko has said Manchester United must try to take positives from the \"painful\" last-gasp draw at Everton and reset ahead of their long-awaited Champions League return.",
-      "publishedAt": "2026-09-07T11:57:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712717_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49858651/benjamin-šeško-urges-man-united-find-positives-painful-everton-draw",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Everton"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-10T11:14:39.121Z"
+    "cachedAt": "2026-09-10T16:21:33.007Z"
   }
 }
