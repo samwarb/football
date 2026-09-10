@@ -2,6 +2,98 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49889462,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Tottenham eye Club Brugge striker",
+      "description": "Club Brugge striker Nicolo Tresoldi has emerged as a potential target for both Manchester United and Tottenham. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-10T10:49:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714230_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49889462/transfer-rumors-news-man-united-tottenham-eye-club-brugge-striker",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur",
+        "Club Brugge"
+      ]
+    },
+    {
+      "id": 49867974,
+      "source": "ESPN",
+      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
+      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
+      "publishedAt": "2026-09-10T10:47:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "Paris Saint-Germain",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "fe01421537a3b8a08a8bec7af6b73509",
+      "source": "Sky Sports",
+      "headline": "How to watch Sky Sport's Big Weekend",
+      "description": "Football, F1, cricket, golf, tennis and NFL all on one weekend - and all on Sky Sports. Here's everything you need to know so you don't miss a minute of the action.",
+      "publishedAt": "2026-09-10T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-big-weekend-now-tv_7345865.jpg?20260909113302",
+      "link": "https://www.skysports.com/football/news/12040/13583497/how-to-watch-premier-league-wsl-spanish-grand-prix-us-open-finals-solheim-cup-and-nfl-with-sky-sports-and-now",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49880797,
+      "source": "ESPN",
+      "headline": "The Premier League belongs to Erling Haaland after summer transfer window",
+      "description": "The Premier League was once a league of superstars, but after a summer of clubs signing depth over singular talent, Haaland is now the biggest star left, though it hasn't dampened the league's popularity or power one bit.",
+      "publishedAt": "2026-09-10T08:54:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0909/r1713882_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49880797/premier-league-erling-haaland-manchester-city-instagram-summer-transfers-world-cup-norway",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49889522,
+      "source": "ESPN",
+      "headline": "Ødegaard: Arsenal on 'another level' after Champions League win continues unbeaten start",
+      "description": "Martin Ødegaard has said Arsenal are \"on another level\" this season after winning the Premier League title gave Mikel Arteta's side a new level of confidence.",
+      "publishedAt": "2026-09-10T08:14:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714233_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49889522/martin-odegaard-arsenal-another-level-champions-league-napoli-win",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e78a38af646072e46607e980347b3b7a",
+      "source": "Sky Sports",
+      "headline": "Poch: I hope to return to Premier League in future",
+      "description": "Mauricio Pochettino has always been good company - warm, engaging and likeable. Having had a few weeks to reset away from the spotlight, there were enthusiastic hugs all round for the Sky Sports News team as we all swapped summer stories. His, though, has been rather busier than ours.",
+      "publishedAt": "2026-09-10T06:48:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346131.jpg?20260909143053",
+      "link": "https://www.skysports.com/football/news/12040/13583564/mauricio-pochettino-ex-tottenham-and-chelsea-boss-hopes-to-return-to-premier-league-in-future",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49889093,
+      "source": "ESPN",
+      "headline": "Mauricio Pochettino: Strip Chelsea of 2016-17 Premier League title and award it to Tottenham",
+      "description": "Mauricio Pochettino has claimed Tottenham should be awarded the Premier League title from the 2016-17 campaign.",
+      "publishedAt": "2026-09-10T06:22:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714221_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49889093/mauricio-pochettino-strip-chelsea-2016-17-premier-league-title-award-tottenham",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Chelsea"
+      ]
+    },
+    {
       "id": "2c26f8cff6eb48efe6dd807942a42dd8",
       "source": "Sky Sports",
       "headline": "Arteta explains new role for transformed Odegaard",
@@ -10,39 +102,6 @@
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-martin-odegaard-arsenal_7346630.jpg?20260909231300",
       "link": "https://www.skysports.com/football/news/12040/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "3ea165fe875b38c835a26cacda65a82e",
-      "source": "Sky Sports",
-      "headline": "Odegaard gives dominant Arsenal win over Napoli",
-      "description": "Martin Odegaard's superb strike gave Arsenal a deserved 1-0 victory over Napoli in their Champions League opener.",
-      "publishedAt": "2026-09-09T21:07:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-odegaard-martin-arsenal_7346526.jpg?20260909214019",
-      "link": "https://www.skysports.com/football/napoli-vs-arsenal/report/577605",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "c9e1602046e728bf5e6074732ead2fb2",
-      "source": "Sky Sports",
-      "headline": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
-      "description": "An incredible second-half comeback including six goals in 41 minutes saw Chelsea finally blow away Leeds 6-3 in one of the all-time Carabao Cup classics at Stamford Bridge.",
-      "publishedAt": "2026-09-09T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-morgan-rogers-chelsea_7346571.jpg?20260909221341",
-      "link": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "c6cfa7b15e67e3f7230a1e55a3f56b38",
-      "source": "Sky Sports",
-      "headline": "West Brom win with 10 men at Derby to move top of Championship",
-      "description": "West Brom celebrated a memorable 1-0 victory over Derby at Pride Park after playing for more than an hour with 10 men.",
-      "publishedAt": "2026-09-09T21:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-west-brom-james-morrison_7346574.jpg?20260909221651",
-      "link": "https://www.skysports.com/football/derby-county-vs-west-bromwich-albion/report/560567",
-      "tag": "Report",
       "teams": []
     },
     {
@@ -194,21 +253,6 @@
         "Arsenal",
         "Atlético Madrid",
         "Manchester City"
-      ]
-    },
-    {
-      "id": 49867974,
-      "source": "ESPN",
-      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
-      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
-      "publishedAt": "2026-09-08T19:22:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "Paris Saint-Germain",
-        "Barcelona"
       ]
     },
     {
@@ -399,31 +443,6 @@
       ]
     },
     {
-      "id": 49858056,
-      "source": "ESPN",
-      "headline": "Man United still pursuing Leicester midfielder Louis Page - sources",
-      "description": "Manchester United are still in the hunt for Louis Page despite missing out on a deadline day move for the Leicester City midfielder, sources have told ESPN.",
-      "publishedAt": "2026-09-07T14:26:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712698_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49858056/man-united-leicester-louis-page-premier-league-transfers-league-one",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Leicester City"
-      ]
-    },
-    {
-      "id": "24e15aa1dfcdf5936e19cad358f616d6",
-      "source": "Sky Sports",
-      "headline": "Everton latest: Short in key positions? The cost of the transfer window assessed",
-      "description": "",
-      "publishedAt": "2026-09-07T14:15:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49854825,
       "source": "ESPN",
       "headline": "Arsenal show Chelsea, Premier League who's boss; Inter the team to beat in Serie A",
@@ -452,64 +471,11 @@
         "Manchester United",
         "Everton"
       ]
-    },
-    {
-      "id": 49857536,
-      "source": "ESPN",
-      "headline": "Wayne Rooney: Arsenal defender Gabriel 'extremely lucky' to avoid red in Chelsea win",
-      "description": "Wayne Rooney has said Arsenal defender Gabriel was \"extremely lucky\" to avoid being sent off in his side's 2-1 win over Chelsea on Sunday.",
-      "publishedAt": "2026-09-07T09:34:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712690_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49857536/wayne-rooney-arsenal-gabriel-magalhaes-extremely-lucky-avoid-red-chelsea-win",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49857446,
-      "source": "ESPN",
-      "headline": "Alonso: Defeat to Arsenal 'needs to hurt in a positive way' for Chelsea",
-      "description": "Alonso: Defeat to Arsenal 'needs to hurt in a positive way' for Chelsea",
-      "publishedAt": "2026-09-07T08:34:37Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/dm_260907_Alonso_Defeat_to_Arsenal_needs_to_hurt_in_a_positive_way_for_Chelsea/dm_260907_Alonso_Defeat_to_Arsenal_needs_to_hurt_in_a_positive_way_for_Chelsea.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49857446/defeat-arsenal-needs-hurt-positive-way-chelsea",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49856811,
-      "source": "ESPN",
-      "headline": "Chelsea defence slammed by Gary Neville after Arsenal defeat: 'All over the place'",
-      "description": "Gary Neville has criticised Chelsea for being \"all over the place\" defensively in the 2-1 defeat to Arsenal, insisting Xabi Alonso should focus on reinforcements at the back.",
-      "publishedAt": "2026-09-07T07:06:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712679_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49856811/chelsea-defence-all-place-arsenal-gary-neville",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "490214dc8cfd70cfd2aac46f57ed363a",
-      "source": "Sky Sports",
-      "headline": "Mac Allister wins it for Liverpool against Atletico on Barcola's eventful full debut",
-      "description": "Alexis Mac Allister's superb strike saw Liverpool come from behind to beat Atletico Madrid 2-1 at Anfield as Bradley Barcola went off with \"cramp\" on an eventful home debut.",
-      "publishedAt": "2026-07-21T11:22:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-alexis-mac-allister_7346585.jpg?20260909222846",
-      "link": "https://www.skysports.com/football/liverpool-vs-atletico-madrid/report/577604",
-      "tag": "Report",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-10T04:37:28.823Z"
+    "cachedAt": "2026-09-10T11:14:39.121Z"
   }
 }
