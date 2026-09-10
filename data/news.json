@@ -2,6 +2,50 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "2c26f8cff6eb48efe6dd807942a42dd8",
+      "source": "Sky Sports",
+      "headline": "Arteta explains new role for transformed Odegaard",
+      "description": "Martin Odegaard is a player transformed at the start of this season - and Arsenal boss Mikel Arteta puts his captain's impressive form down to fitness and new positioning.",
+      "publishedAt": "2026-09-09T22:05:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-martin-odegaard-arsenal_7346630.jpg?20260909231300",
+      "link": "https://www.skysports.com/football/news/12040/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "3ea165fe875b38c835a26cacda65a82e",
+      "source": "Sky Sports",
+      "headline": "Odegaard gives dominant Arsenal win over Napoli",
+      "description": "Martin Odegaard's superb strike gave Arsenal a deserved 1-0 victory over Napoli in their Champions League opener.",
+      "publishedAt": "2026-09-09T21:07:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-odegaard-martin-arsenal_7346526.jpg?20260909214019",
+      "link": "https://www.skysports.com/football/napoli-vs-arsenal/report/577605",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "c9e1602046e728bf5e6074732ead2fb2",
+      "source": "Sky Sports",
+      "headline": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
+      "description": "An incredible second-half comeback including six goals in 41 minutes saw Chelsea finally blow away Leeds 6-3 in one of the all-time Carabao Cup classics at Stamford Bridge.",
+      "publishedAt": "2026-09-09T21:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-morgan-rogers-chelsea_7346571.jpg?20260909221341",
+      "link": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "c6cfa7b15e67e3f7230a1e55a3f56b38",
+      "source": "Sky Sports",
+      "headline": "West Brom win with 10 men at Derby to move top of Championship",
+      "description": "West Brom celebrated a memorable 1-0 victory over Derby at Pride Park after playing for more than an hour with 10 men.",
+      "publishedAt": "2026-09-09T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-west-brom-james-morrison_7346574.jpg?20260909221651",
+      "link": "https://www.skysports.com/football/derby-county-vs-west-bromwich-albion/report/560567",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49876963,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool prepare bid for Crystal Palace's Wharton",
@@ -83,17 +127,6 @@
       ]
     },
     {
-      "id": "eaf7304af1613911c7a3c92bcacf0131",
-      "source": "Sky Sports",
-      "headline": "Leeds full-back Miller ruled out of Super League play-offs",
-      "description": "Leeds Rhinos will be without Lachie Miller for the Super League play-offs after head coach Brad Arthur revealed the star full-back will be sidelined for 10 to 12 weeks, due to a torn hamstring.",
-      "publishedAt": "2026-09-09T14:30:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lachie-miller_7346212.jpg?20260909155232",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13583618/leeds-rhinos-full-back-lachie-miller-ruled-out-of-super-league-play-offs-due-to-hamstring-injury",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49862659,
       "source": "ESPN",
       "headline": "Man United's Champions League return: What does success look like?",
@@ -105,17 +138,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "1d1a448f61a5939f72c1191dfe990443",
-      "source": "Sky Sports",
-      "headline": "Merson: Arsenal didn't make X-factor signing to win Champions League",
-      "description": "Arsenal's record last year was amazing in the Champions League and they're going to be there or thereabouts again – but I don't think they bought that X factor signing to take them to that next level.",
-      "publishedAt": "2026-09-09T11:43:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-merson-says-vinicius-jr_7346081.jpg?20260909131959",
-      "link": "https://www.skysports.com/football/news/12040/13583541/arsenal-didnt-make-x-factor-signing-like-vinicius-junior-or-julian-alvarez-to-win-champions-league-says-paul-merson",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49878463,
@@ -130,17 +152,6 @@
         "Manchester United",
         "Arsenal"
       ]
-    },
-    {
-      "id": "019ab49d794ba785ff35f7731ef27c35",
-      "source": "Sky Sports",
-      "headline": "Ipswich latest: Maguire goal backed by KMI Panel despite 'deliberate' handball",
-      "description": "",
-      "publishedAt": "2026-09-09T09:45:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49876933,
@@ -169,17 +180,6 @@
         "Manchester United",
         "Manchester City"
       ]
-    },
-    {
-      "id": "1aa4649b484a366e7fd5895be1916798",
-      "source": "Sky Sports",
-      "headline": "EFL latest: Three Championship games live on Sky tonight!",
-      "description": "",
-      "publishedAt": "2026-09-08T22:13:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-efl-championship_7344851.jpg?20260908102831",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49866443,
@@ -413,6 +413,17 @@
       ]
     },
     {
+      "id": "24e15aa1dfcdf5936e19cad358f616d6",
+      "source": "Sky Sports",
+      "headline": "Everton latest: Short in key positions? The cost of the transfer window assessed",
+      "description": "",
+      "publishedAt": "2026-09-07T14:15:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49854825,
       "source": "ESPN",
       "headline": "Arsenal show Chelsea, Premier League who's boss; Inter the team to beat in Serie A",
@@ -483,11 +494,22 @@
         "Chelsea",
         "Arsenal"
       ]
+    },
+    {
+      "id": "490214dc8cfd70cfd2aac46f57ed363a",
+      "source": "Sky Sports",
+      "headline": "Mac Allister wins it for Liverpool against Atletico on Barcola's eventful full debut",
+      "description": "Alexis Mac Allister's superb strike saw Liverpool come from behind to beat Atletico Madrid 2-1 at Anfield as Bradley Barcola went off with \"cramp\" on an eventful home debut.",
+      "publishedAt": "2026-07-21T11:22:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-alexis-mac-allister_7346585.jpg?20260909222846",
+      "link": "https://www.skysports.com/football/liverpool-vs-atletico-madrid/report/577604",
+      "tag": "Report",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-09T20:53:54.295Z"
+    "cachedAt": "2026-09-10T04:37:28.823Z"
   }
 }
