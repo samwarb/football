@@ -2,6 +2,30 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49897449,
+      "source": "ESPN",
+      "headline": "Šeško makes his case for Man United ahead of Manchester derby",
+      "description": "Benjamin Šeško's form for Manchester United has given Michael Carrick a selection decision to make ahead of Sunday's Manchester derby.",
+      "publishedAt": "2026-09-10T23:45:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714615_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49897449/benjamin-sesko-makes-case-manchester-united-ahead-manchester-derby",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "b5b56256dee7a78b58f5156de285a09a",
+      "source": "Sky Sports",
+      "headline": "Papers: Zubimendi may push to leave Arsenal",
+      "description": "The top stories and transfer rumours from Friday's newspapers...",
+      "publishedAt": "2026-09-10T22:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49889462,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Zubimendi to leave Arsenal in January?",
@@ -40,6 +64,17 @@
         "West Ham United",
         "Wrexham"
       ]
+    },
+    {
+      "id": "159840e6105e7591e4db549616bba25b",
+      "source": "Sky Sports",
+      "headline": "PL Predictions: Hull's run can't continue at Chelsea, can it? Oh, it can",
+      "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action.",
+      "publishedAt": "2026-09-10T17:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933",
+      "link": "https://www.skysports.com/football/news/12040/13583782/premier-league-predictions-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can",
+      "tag": "Article/Blog",
+      "teams": []
     },
     {
       "id": 49892616,
@@ -94,28 +129,6 @@
       ]
     },
     {
-      "id": "a73e724f8c4776f7485e7c9e27c27d41",
-      "source": "Sky Sports",
-      "headline": "Premier League fixtures: Bumper festive period announced",
-      "description": "The Premier League's festive fixtures have been announced for this season - with 29 matches available to watch live on Sky Sports between Boxing Day and January 7.",
-      "publishedAt": "2026-09-10T14:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-fixtures_7346970.jpg?20260910121013",
-      "link": "https://www.skysports.com/football/news/12040/13583921/premier-league-christmas-fixtures-boxing-day-and-festive-schedule-announced-as-29-matches-shown-live-on-sky-sports",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "3015847959b9a7c298e05d6c63a75247",
-      "source": "Sky Sports",
-      "headline": "Bournemouth latest: Can Rose celebrate turning 50 with milestone win?",
-      "description": "",
-      "publishedAt": "2026-09-10T13:27:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49867974,
       "source": "ESPN",
       "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
@@ -142,6 +155,17 @@
       "teams": [
         "Arsenal"
       ]
+    },
+    {
+      "id": "2d1345be26d9e19318da01633925d261",
+      "source": "Sky Sports",
+      "headline": "Euro latest: Kane scores as Bayern thrash Bodo",
+      "description": "",
+      "publishedAt": "2026-09-09T21:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-harry-kane-bayern_7347497.jpg?20260910222819",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49876963,
@@ -293,6 +317,17 @@
         "Atlético Madrid",
         "Manchester City"
       ]
+    },
+    {
+      "id": "6f6b3a907305f114155a6a52dbd829fb",
+      "source": "Sky Sports",
+      "headline": "Man Utd put four past Sabah on Champions League return",
+      "description": "Manchester United made a winning return to the Champions League as they beat Sabah FC in style with a 4-0 victory at Old Trafford.",
+      "publishedAt": "2026-09-08T19:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-bruno-fernandes-youri_7347456.jpg?20260910205714",
+      "link": "https://www.skysports.com/football/manchester-united-vs-sabah/report/577612",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49868479,
@@ -451,25 +486,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 49862787,
-      "source": "ESPN",
-      "headline": "Are Arsenal building a Premier League dynasty?",
-      "description": "Are Arsenal building a Premier League dynasty?",
-      "publishedAt": "2026-09-07T22:00:58Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/dm_260907_COM_SOC_ANALYSIS_Can_Havertz_lead_Arsenal_to_Champions_League_glory_2026_9_26/dm_260907_COM_SOC_ANALYSIS_Can_Havertz_lead_Arsenal_to_Champions_League_glory_2026_9_26.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49862787/are-arsenal-building-premier-league-dynasty",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-10T20:49:18.770Z"
+    "cachedAt": "2026-09-11T04:35:19.663Z"
   }
 }
