@@ -1,0 +1,145 @@
+{
+  "season": "2025-2026",
+  "round": 6,
+  "fixtures": [
+    {
+      "id": "2267124",
+      "round": 6,
+      "date": "2025-09-27",
+      "time": "12:30:00",
+      "venue": "Brentford Community Stadium",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "brentford",
+        "name": "Brentford",
+        "shortName": "Brentford",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+      },
+      "away": {
+        "slug": "manchester-united",
+        "name": "Manchester United",
+        "shortName": "Man United",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267125",
+      "round": 6,
+      "date": "2025-09-27",
+      "time": "15:00:00",
+      "venue": "Stamford Bridge",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "chelsea",
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+      },
+      "away": {
+        "slug": "brighton",
+        "name": "Brighton and Hove Albion",
+        "shortName": "Brighton",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267126",
+      "round": 6,
+      "date": "2025-09-27",
+      "time": "15:00:00",
+      "venue": "Selhurst Park",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "crystal-palace",
+        "name": "Crystal Palace",
+        "shortName": "Crystal Palace",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+      },
+      "away": {
+        "slug": "liverpool",
+        "name": "Liverpool",
+        "shortName": "Liverpool",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267128",
+      "round": 6,
+      "date": "2025-09-27",
+      "time": "15:00:00",
+      "venue": "Elland Road",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "leeds-united",
+        "name": "Leeds United",
+        "shortName": "Leeds",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+      },
+      "away": {
+        "slug": "bournemouth",
+        "name": "Bournemouth",
+        "shortName": "Bournemouth",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "tvChannels": []
+    },
+    {
+      "id": "2267129",
+      "round": 6,
+      "date": "2025-09-27",
+      "time": "15:00:00",
+      "venue": "Etihad Stadium",
+      "status": "FT",
+      "played": true,
+      "live": false,
+      "home": {
+        "slug": "manchester-city",
+        "name": "Manchester City",
+        "shortName": "Man City",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+      },
+      "away": {
+        "slug": "burnley",
+        "name": "Burnley",
+        "shortName": "Burnley",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
+      },
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "tvChannels": []
+    }
+  ],
+  "meta": {
+    "cache": "hit",
+    "cachedAt": "2026-09-12T20:31:09.950Z"
+  }
+}

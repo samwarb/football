@@ -4,11 +4,109 @@
     {
       "id": 49894589,
       "source": "ESPN",
-      "headline": "Premier League live updates: Chelsea take on Hull, Liverpool face Fulham",
-      "description": "Unbeaten Hull City are heading top of the Premier League if they can beat Chelsea, while Liverpool face Fulham on a Saturday full of matches across Europe.",
-      "publishedAt": "2026-09-12T15:25:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715325_1296x729_16-9.jpg",
+      "headline": "Premier League live updates: Arsenal lead at Sunderland after Raya penalty save",
+      "description": "Our final game of the day: defending champs Arsenal are looking for another win, this time at Sunderland. Elsewhere, Tottenham's winless streak in the Premier League continued with a 0-0 draw vs. Everton, and Hull City drew Chelsea on a busy Saturday.",
+      "publishedAt": "2026-09-12T20:23:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715527_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49894589/premier-league-live-updates-chelsea-hull-city-tottenham-everton-sunderland-arsenal-real-madrid-ac-milan",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Hull City",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49917628,
+      "source": "ESPN",
+      "headline": "Winless Tottenham lack confidence and physical conditioning - Roberto De Zerbi",
+      "description": "Roberto de Zerbi has admitted Tottenham lack \"physical condition\" and \"confidence\" but insisted they can overcome their slow start to the season.",
+      "publishedAt": "2026-09-12T20:21:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715500_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49917628/winless-tottenham-lack-confidence-physical-conditioning-roberto-de-zerbi",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49917030,
+      "source": "ESPN",
+      "headline": "Nicol: Everton are a mid-table side at best",
+      "description": "Nicol: Everton are a mid-table side at best",
+      "publishedAt": "2026-09-12T19:15:29Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_COM_SOC_ANALYSIS_Nicol_Everton_are_a_mid-table_side_at_best_2026_9_12/dm_260912_COM_SOC_ANALYSIS_Nicol_Everton_are_a_mid-table_side_at_best_2026_9_12.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49917030/everton-mid-table-side-best",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49916988,
+      "source": "ESPN",
+      "headline": "Nicol: De Zerbi should be concerned about Tottenham's attack",
+      "description": "Nicol: De Zerbi should be concerned about Tottenham's attack",
+      "publishedAt": "2026-09-12T19:12:06Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_COM_SOC_ANALYSIS_Nicol_De_Zerbi_should_be_concerned_about_Tottenhams_attack_2026_9_12/dm_260912_COM_SOC_ANALYSIS_Nicol_De_Zerbi_should_be_concerned_about_Tottenhams_attack_2026_9_12.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49916988/de-zerbi-concerned-tottenham-attack",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49897575,
+      "source": "ESPN",
+      "headline": "Winless Tottenham still searching for first goal of season after draw with Everton",
+      "description": "Tottenham Hotspur fired another blank after being frustrated by Everton in a 0-0 draw to extend their winless start to the new Premier League season to four matches.",
+      "publishedAt": "2026-09-12T18:56:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715450_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879277",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Everton"
+      ]
+    },
+    {
+      "id": 49916096,
+      "source": "ESPN",
+      "headline": "Andoni Iraola cites 'lack of freshness' after Liverpool's draw with Fulham",
+      "description": "Liverpool manager Andoni Iraola said his players were tired but refused to use it as an excuse after being held to a 0-0 draw by Fulham at Anfield.",
+      "publishedAt": "2026-09-12T18:35:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715431_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49916096/andoni-iraola-lack-freshness-liverpool-draw-fulham",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 49914765,
+      "source": "ESPN",
+      "headline": "Hull continue unbeaten Premier League streak with entertaining 2-2 draw at Chelsea",
+      "description": "Hull continued their unbeaten start to the Premier League season after an entertaining 2-2 draw at Chelsea.",
+      "publishedAt": "2026-09-12T17:40:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715373_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49914765/hull-continue-unbeaten-premier-league-streak-entertaining-2-2-draw-chelsea",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49915725,
+      "source": "ESPN",
+      "headline": "Xabi Alonso wants more 'boring' wins as Chelsea draw with Hull",
+      "description": "Xabi Alonso says his Chelsea side must show more desire in defence, and warns it will take time to fix their frailties at the back after they drew 2-2 with Hull City at Stamford Bridge on Saturday.",
+      "publishedAt": "2026-09-12T17:31:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715413_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49915725/xabi-alonso-wants-more-boring-wins-chelsea-slip-hull-draw",
       "tag": "Chelsea",
       "teams": [
         "Chelsea",
@@ -16,18 +114,208 @@
       ]
     },
     {
-      "id": 49911577,
+      "id": 49915838,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye Bournemouth defender to replace Shaw",
-      "description": "Manchester United see AFC Bournemouth defender Adrien Truffert as a future replacement for Luke Shaw. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-12T12:57:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715244_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49911577/transfer-rumors-news-man-united-eye-bournemouth-defender-replace-shaw",
+      "headline": "Nicol: There is no fear factor at Anfield",
+      "description": "Nicol: There is no fear factor at Anfield",
+      "publishedAt": "2026-09-12T17:29:47Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_Nicol_There_is_no_fear_factor_at_Anfield/dm_260912_Nicol_There_is_no_fear_factor_at_Anfield.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49915838/there-no-fear-factor-anfield",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49915702,
+      "source": "ESPN",
+      "headline": "Nicol: Chelsea's defence isn't good enough to win the title",
+      "description": "Nicol: Chelsea's defence isn't good enough to win the title",
+      "publishedAt": "2026-09-12T17:23:05Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_COM_SOC_ANALYSIS_Nicol__Chelseas_defence_isnt_good_enough_to_win_the_title_2026_9_12/dm_260912_COM_SOC_ANALYSIS_Nicol__Chelseas_defence_isnt_good_enough_to_win_the_title_2026_9_12.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49915702/chelsea-defence-good-enough-win-title",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49897528,
+      "source": "ESPN",
+      "headline": "Nottingham Forest's late winner deepens Aston Villa's new season woe",
+      "description": "Igor Jesus piled the misery on Aston Villa as his late goal snatched a 2-1 victory for Nottingham Forest at Villa Park.",
+      "publishedAt": "2026-09-12T17:03:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715379_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879284",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 49897531,
+      "source": "ESPN",
+      "headline": "Chelsea draw with Premier League surprise package Hull City",
+      "description": "Chelsea's chaotic start to life under Xabi Alonso continued with an entertaining 2-2 draw against Hull at Stamford Bridge.",
+      "publishedAt": "2026-09-12T16:35:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715369_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879283",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49912334,
+      "source": "ESPN",
+      "headline": "In-form Hull show why Chelsea fans are in for a rough ride this season",
+      "description": "Chelsea have a star-studded attack which has saved them many times already this season, but their defense was exposed again vs. an impressive Hull City.",
+      "publishedAt": "2026-09-12T16:34:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715362_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49912334/in-form-hull-show-why-chelsea-fans-a-rough-ride-season",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49897552,
+      "source": "ESPN",
+      "headline": "Liverpool momentum dented by Anfield draw with struggling Fulham",
+      "description": "Fulham frustrated Liverpool to claim their first point of the season with a goalless draw at Anfield on Saturday.",
+      "publishedAt": "2026-09-12T16:33:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715366_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879279",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 49897526,
+      "source": "ESPN",
+      "headline": "Kevin Schade brace denies Bournemouth a first Premier League win of season",
+      "description": "Bournemouth boss Marco Rose was denied a first Premier League win after a calamitous goalkeeping mistake allowed Brentford to claim a 2-2 draw.",
+      "publishedAt": "2026-09-12T16:32:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715372_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879285",
       "tag": "AFC Bournemouth",
       "teams": [
         "AFC Bournemouth",
-        "Manchester United"
+        "Brentford"
       ]
+    },
+    {
+      "id": 49897537,
+      "source": "ESPN",
+      "headline": "Ipswich's impressive start continues with win over 10-man Crystal Palace",
+      "description": "Zian Flemming's first goal for Ipswich snatched a dramatic 3-2 victory at 10-man Crystal Palace for their second Premier League win of the season.",
+      "publishedAt": "2026-09-12T16:30:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715376_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879281",
+      "tag": "Crystal Palace",
+      "teams": [
+        "Crystal Palace",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49912330,
+      "source": "ESPN",
+      "headline": "Liverpool ratings: Barcola, Wirtz, Gravenberch struggle in Fulham draw",
+      "description": "Liverpool were held to a 0-0 draw with struggling Fulham at Anfield, as a host of top players failed to perform.",
+      "publishedAt": "2026-09-12T16:27:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715338_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49912330/liverpool-ratings-barcola-wirtz-gravenberch-struggle-fulham-draw",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "cd8df6498567e5c2dab4d723ff3acd6a",
+      "source": "Sky Sports",
+      "headline": "Blackburn see off Millwall",
+      "description": "Dapo Afolayan's brace helped Blackburn secure a much-needed 3-1 win over Millwall at a discontented Ewood Park.",
+      "publishedAt": "2026-09-12T16:15:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-blackburn-rovers_7349276.jpg?20260912160701",
+      "link": "https://www.skysports.com/football/blackburn-rovers-vs-millwall/report/560570",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "ab16da60421435c2f489b2a5c685bdba",
+      "source": "Sky Sports",
+      "headline": "Resurgent Stoke win at Watford",
+      "description": "Jack McGlynn orchestrated Stoke's first away win since January with a deserved 2-1 success at Watford.",
+      "publishedAt": "2026-09-12T16:15:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-eric-bocat-stoke_7349356.jpg?20260912164652",
+      "link": "https://www.skysports.com/football/watford-vs-stoke-city/report/560579",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 49911577,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool look at Inter's Stankovic",
+      "description": "Liverpool remain keen on Internazionale midfielder Aleksandar Stankovic after enquiring about him while negotiating Curtis Jones' €35 million move to San Siro. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-12T16:07:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715245_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49911577/transfer-rumors-news-man-united-eye-bournemouth-defender-replace-shaw",
+      "tag": "Internazionale",
+      "teams": [
+        "Internazionale",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "68d927bf9b9dee27b786d6088a13a040",
+      "source": "Sky Sports",
+      "headline": "Late Ipswich comeback sinks 10-man Palace",
+      "description": "Ipswich came from behind to secure their first Premier League away win since April 2025 after beating 10-man Crystal Palace 3-2.",
+      "publishedAt": "2026-09-12T16:07:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-zian-flemming-ipswich_7349417.jpg?20260912170637",
+      "link": "https://www.skysports.com/football/crystal-palace-vs-ipswich-town/report/559478",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "c87de4ef5de32bf26a4b602c8dea8715",
+      "source": "Sky Sports",
+      "headline": "Liverpool held at Anfield as Fulham pick up first point",
+      "description": "Liverpool were held to a frustrating goalless draw as Fulham picked up their first point of the Premier League season at Anfield.",
+      "publishedAt": "2026-09-12T16:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-oscar-bobb-milos-kerkez_7349317.jpg?20260912162621",
+      "link": "https://www.skysports.com/football/liverpool-vs-fulham/report/559480",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "30775d36f216341215661529c84e44c3",
+      "source": "Sky Sports",
+      "headline": "Glasner haunts Emery again as Forest win at Aston Villa",
+      "description": "Nottingham Forest beat Aston Villa 2-1 at Villa Park to leave Unai Emery's side still searching for their first Premier League victory of the season.",
+      "publishedAt": "2026-09-12T16:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-igor-jesus-nottingham-forest_7349383.jpg?20260912165738",
+      "link": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/report/559474",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "bc8e2549f83e499d70523636877bde70",
+      "source": "Sky Sports",
+      "headline": "Poor Chelsea defending sees Hull remain unbeaten in Stamford Bridge draw",
+      "description": "Hull continued their unbeaten start in the Premier League as they capitalised on some poor Chelsea defending to draw 2-2 at Stamford Bridge.",
+      "publishedAt": "2026-09-12T16:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-mohamed-belloumi_7349211.jpg?20260912153510",
+      "link": "https://www.skysports.com/football/chelsea-vs-hull-city/report/559476",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49911868,
@@ -82,17 +370,6 @@
         "Arsenal",
         "Sunderland"
       ]
-    },
-    {
-      "id": "47b6396b17966f8aacd08d3a3b1216ca",
-      "source": "Sky Sports",
-      "headline": "Papers: Amorim takes swipe at Man Utd players-turned-pundits",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-09-11T22:16:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49904487,
@@ -191,32 +468,6 @@
       ]
     },
     {
-      "id": 49886118,
-      "source": "ESPN",
-      "headline": "Chelsea under Xabi Alonso are unlike anything the Premier League has seen before",
-      "description": "Chelsea are a team out of control under Xabi Alonso: Will it continue and, more importantly, will it keep working for them?",
-      "publishedAt": "2026-09-11T12:56:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714085_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49886118/chelsea-xabi-alonso-unlike-anything-premier-league-seen-before",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49892093,
-      "source": "ESPN",
-      "headline": "Have Man United made a mistake waiting until next summer to rebuild the defense?",
-      "description": "Man United's slow approach to their squad rebuild -- prioritizing one position every summer -- has left them light in defense, where they arguably need the most help.",
-      "publishedAt": "2026-09-11T12:50:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714436_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49892093/manchester-united-defense-transfers-ineos-glazers-jason-wilcox-harry-maguire",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49903038,
       "source": "ESPN",
       "headline": "Luke Shaw to face late fitness test ahead of Manchester derby - Michael Carrick",
@@ -229,206 +480,11 @@
         "Manchester United",
         "Manchester City"
       ]
-    },
-    {
-      "id": 49903001,
-      "source": "ESPN",
-      "headline": "'Kings of Manchester': City boss Enzo Maresca defends Elliot Anderson's claim ahead of derby",
-      "description": "Enzo Maresca believes Elliot Anderson was justified in describing Manchester City as the \"kings of Manchester.\"",
-      "publishedAt": "2026-09-11T12:27:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1714829_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49903001/man-united-man-city-derby-enzo-maresca-elliot-anderson",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49902944,
-      "source": "ESPN",
-      "headline": "Andoni Iraola calls for Liverpool to start quicker in games: 'Everything looks easier'",
-      "description": "Andoni Iraola wants to see his Liverpool side make a fast start in Saturday's Premier League clash with Fulham to avoid another match where they need to come from behind.",
-      "publishedAt": "2026-09-11T12:20:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1714067_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49902944/andoni-iraola-calls-liverpool-start-quicker-games-everything-looks-easier",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49902248,
-      "source": "ESPN",
-      "headline": "Álvaro Arbeloa responds after Fulham social media revolt: 'I have a very good group'",
-      "description": "Fulham boss Álvaro Arbeloa has challenged everyone in his squad to keep showing him a positive attitude and help get the team back on track.",
-      "publishedAt": "2026-09-11T12:01:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1714802_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49902248/alvaro-arbeloa-praises-fulham-attitude-amid-social-media-disruption",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham"
-      ]
-    },
-    {
-      "id": 49902523,
-      "source": "ESPN",
-      "headline": "Man United youth coach on 15-year-old starlet JJ Gabriel: 'My job not to ruin him'",
-      "description": "Manchester United talent JJ Gabriel is making waves at 15 and the club is working hard to provide the right pathway to allow him to fulfil his eye-catching potential.",
-      "publishedAt": "2026-09-11T11:37:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0512/r1657348_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49902523/man-united-youth-coach-15-year-old-starlet-jj-gabriel-my-job-not-ruin-him",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49902002,
-      "source": "ESPN",
-      "headline": "Arteta praises 'extremely intelligent' Havertz ahead of Sunderland trip",
-      "description": "Arteta praises 'extremely intelligent' Havertz ahead of Sunderland trip",
-      "publishedAt": "2026-09-11T10:36:20Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_COM_SOC_Presser_Arteta_praises_extremely_intelligent_Havertz_ahead_of_Sunderland_trip_20260911/dm_260911_COM_SOC_Presser_Arteta_praises_extremely_intelligent_Havertz_ahead_of_Sunderland_trip_20260911.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49902002/arteta-praises-extremely-intelligent-havertz-ahead-sunderland-trip",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49901936,
-      "source": "ESPN",
-      "headline": "New Hull signing Sorba Thomas unhurt after flipping car near Premier League side's training ground",
-      "description": "Hull have confirmed Sorba Thomas is unhurt after flipping his car near the club's training ground on Friday morning.",
-      "publishedAt": "2026-09-11T10:34:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1714793_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49901936/hull-sorba-thomas-unhurt-flipping-car-premier-league-training-ground",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49901752,
-      "source": "ESPN",
-      "headline": "Mikel Arteta reveals how he sabotaged Arsenal preseason to prepare for chaos",
-      "description": "Mikel Arteta has revealed he deliberately sabotaged elements of Arsenal's preseason in order to better prepare his players for the campaign ahead.",
-      "publishedAt": "2026-09-11T10:09:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709723_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49901752/mikel-arteta-reveals-how-sabotaged-arsenal-preseason",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49890784,
-      "source": "ESPN",
-      "headline": "The staggering numbers behind Premier League's spending power over Europe",
-      "description": "Barcola's big move from PSG to Liverpool was a highlight of another summer transfer window in which the Premier League effectively subsidizes big European leagues such as Ligue 1.",
-      "publishedAt": "2026-09-11T08:58:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714304_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49890784/summer-transfer-window-analysis-premier-league-laliga-ligue-1-gab-marcotti",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 49901345,
-      "source": "ESPN",
-      "headline": "Man United target Lewis Hall signs new contract at Newcastle: 'Absolutely delighted'",
-      "description": "Manchester United transfer target Lewis Hall has signed a new contract at Newcastle, the club have confirmed.",
-      "publishedAt": "2026-09-11T08:29:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711244_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49901345/man-united-transfer-target-lewis-hall-new-contract-newcastle",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49897449,
-      "source": "ESPN",
-      "headline": "Šeško makes his case for Man United ahead of Manchester derby",
-      "description": "Benjamin Šeško's form for Manchester United has given Michael Carrick a selection decision to make ahead of Sunday's Manchester derby.",
-      "publishedAt": "2026-09-10T23:45:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714615_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49897449/benjamin-sesko-makes-case-manchester-united-ahead-manchester-derby",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49889462,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Zubimendi to leave Arsenal in January?",
-      "description": "Arsenal midfielder Martín Zubimendi could reportedly leave the club during the winter transfer window. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-10T19:59:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714490_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49889462/transfer-rumors-news-man-united-tottenham-eye-club-brugge-striker",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49891922,
-      "source": "ESPN",
-      "headline": "Weekend predictions: Can Wrexham get a win? Who wins Manchester derby? Elversberg over Bayern?",
-      "description": "Arsenal host Chelsea in a heavyweight clash this early in the Premier League, while teams such as PSG and Napoli are on the ropes in their respective title races.",
-      "publishedAt": "2026-09-10T18:43:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714342_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49891922/weekend-predictions-wins-manchester-derby-elversberg-stun-bayern",
-      "tag": "Paris Saint-Germain",
-      "teams": [
-        "Paris Saint-Germain",
-        "Bayern Munich",
-        "Manchester City",
-        "Real Madrid",
-        "Manchester United",
-        "Tottenham Hotspur",
-        "Everton",
-        "Manchester United",
-        "Chelsea",
-        "Rayo Vallecano",
-        "Brest",
-        "Lazio",
-        "AC Milan",
-        "West Ham United",
-        "Wrexham"
-      ]
-    },
-    {
-      "id": 49892616,
-      "source": "ESPN",
-      "headline": "Hull's Sergej Jakirovic jokes about plan stop Chelsea: 'Kick them'",
-      "description": "Hull boss Sergej Jakirovic joked that the best way to stop Chelsea's free-flowing attack is \"to kick them.\"",
-      "publishedAt": "2026-09-10T16:46:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714351_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49892616/hull-sergej-jakirovic-best-way-stop-chelsea-kick-them",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49892988,
-      "source": "ESPN",
-      "headline": "Premier League confirms return of traditional Boxing Day fixtures",
-      "description": "The Premier League has confirmed the return of its traditional set of Boxing Day fixtures, with seven matches set to take place on Dec. 26.",
-      "publishedAt": "2026-09-10T16:22:28Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714363_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49892988/premier-league-confirms-return-traditional-boxing-day-fixtures",
-      "tag": "HeadlineNews",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-12T15:29:18.109Z"
+    "cachedAt": "2026-09-12T20:31:09.480Z"
   }
 }
