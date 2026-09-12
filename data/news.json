@@ -2,15 +2,45 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "143a1c1d62d3b7014040d63f37b7c951",
-      "source": "Sky Sports",
-      "headline": "Wolves youngsters beat Toulouse to secure third spot",
-      "description": "Warrington Wolves beat Toulouse Olympique 26-14 at the Halliwell Jones Stadium to finish third in the Super League table.",
-      "publishedAt": "2026-09-11T22:52:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-warrington-toulouse_7348692.jpg?20260911235606",
-      "link": "https://www.skysports.com/watch/video/13584672/warrington-wolves-v-toulouse-olympique-super-league-highlights",
-      "tag": "Video",
-      "teams": []
+      "id": 49894589,
+      "source": "ESPN",
+      "headline": "Premier League live updates: Chelsea take on unbeaten Hull City",
+      "description": "Chelsea will look to bounce back from the loss to Arsenal as they take on unbeaten Hull City, while Liverpool face Fulham on a Saturday full of matches across Europe.",
+      "publishedAt": "2026-09-12T10:23:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714457_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49894589/premier-league-live-updates-chelsea-hull-city-tottenham-everton-sunderland-arsenal-real-madrid-ac-milan",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49911577,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye Bournemouth defender to replace Shaw",
+      "description": "Manchester United see AFC Bournemouth defender Adrien Truffert as a future replacement for Luke Shaw. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-12T08:22:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715244_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49911577/transfer-rumors-news-man-united-eye-bournemouth-defender-replace-shaw",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49906828,
+      "source": "ESPN",
+      "headline": "Dalot still dreams of putting Manchester United back on top",
+      "description": "After eight years at Old Trafford, Diogo Dalot still has the desire to win the biggest trophies with Manchester United as another crucial derby looms.",
+      "publishedAt": "2026-09-12T07:22:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1715049_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49906828/diogo-dalot-dreams-putting-manchester-united-back-top",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
     },
     {
       "id": 49907509,
@@ -372,20 +402,6 @@
       ]
     },
     {
-      "id": 49889093,
-      "source": "ESPN",
-      "headline": "Mauricio Pochettino: Strip Chelsea of 2016-17 Premier League title and award it to Tottenham",
-      "description": "Mauricio Pochettino has claimed Tottenham should be awarded the Premier League title from the 2016-17 campaign.",
-      "publishedAt": "2026-09-10T16:32:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714221_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49889093/mauricio-pochettino-strip-chelsea-2016-17-premier-league-title-award-tottenham",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 49892988,
       "source": "ESPN",
       "headline": "Premier League confirms return of traditional Boxing Day fixtures",
@@ -395,19 +411,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/49892988/premier-league-confirms-return-traditional-boxing-day-fixtures",
       "tag": "HeadlineNews",
       "teams": []
-    },
-    {
-      "id": 49880797,
-      "source": "ESPN",
-      "headline": "The Premier League belongs to Erling Haaland after summer transfer window",
-      "description": "The Premier League was once a league of superstars, but after a summer of clubs signing depth over singular talent, Haaland is now the biggest star left, though it hasn't dampened the league's popularity or power one bit.",
-      "publishedAt": "2026-09-10T16:01:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713882_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49880797/premier-league-erling-haaland-manchester-city-instagram-summer-transfers-world-cup-norway",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     },
     {
       "id": 49867974,
@@ -423,24 +426,11 @@
         "Paris Saint-Germain",
         "Barcelona"
       ]
-    },
-    {
-      "id": 49889522,
-      "source": "ESPN",
-      "headline": "Ødegaard: Arsenal on 'another level' after Champions League win continues unbeaten start",
-      "description": "Martin Ødegaard has said Arsenal are \"on another level\" this season after winning the Premier League title gave Mikel Arteta's side a new level of confidence.",
-      "publishedAt": "2026-09-10T08:14:27Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714233_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49889522/martin-odegaard-arsenal-another-level-champions-league-napoli-win",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-12T04:30:27.012Z"
+    "cachedAt": "2026-09-12T10:41:47.645Z"
   }
 }
