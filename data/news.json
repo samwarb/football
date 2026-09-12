@@ -2,6 +2,56 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "143a1c1d62d3b7014040d63f37b7c951",
+      "source": "Sky Sports",
+      "headline": "Wolves youngsters beat Toulouse to secure third spot",
+      "description": "Warrington Wolves beat Toulouse Olympique 26-14 at the Halliwell Jones Stadium to finish third in the Super League table.",
+      "publishedAt": "2026-09-11T22:52:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-warrington-toulouse_7348692.jpg?20260911235606",
+      "link": "https://www.skysports.com/watch/video/13584672/warrington-wolves-v-toulouse-olympique-super-league-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 49907509,
+      "source": "ESPN",
+      "headline": "Fjørtoft: Fulham will be a 'mental test' for Liverpool",
+      "description": "Fjørtoft: Fulham will be a 'mental test' for Liverpool",
+      "publishedAt": "2026-09-11T22:20:57Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_Fjortoft_Fulham_will_be_a_mental_test_for_Liverpool/dm_260911_Fjortoft_Fulham_will_be_a_mental_test_for_Liverpool.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49907509/fulham-mental-test-liverpool",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49907512,
+      "source": "ESPN",
+      "headline": "Leboeuf: Arteta disrupting Arsenal's routine is a good tactic",
+      "description": "Leboeuf: Arteta disrupting Arsenal's routine is a good tactic",
+      "publishedAt": "2026-09-11T22:20:50Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_Leboeuf_Arteta_disrupting_Arsenals_routine_is_a_good_tactic/dm_260911_Leboeuf_Arteta_disrupting_Arsenals_routine_is_a_good_tactic.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49907512/arteta-disrupting-arsenal-routine-good-tactic",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": "47b6396b17966f8aacd08d3a3b1216ca",
+      "source": "Sky Sports",
+      "headline": "Papers: Amorim takes swipe at Man Utd players-turned-pundits",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-09-11T22:16:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49904487,
       "source": "ESPN",
       "headline": "Arsenal reach agreement to sign 17-year-old winger Andria Bartishvili",
@@ -43,17 +93,6 @@
       ]
     },
     {
-      "id": "b86c37a10963c760ec785d1372abbfb6",
-      "source": "Sky Sports",
-      "headline": "Kings of Manchester: Who will reign when United and City clash?",
-      "description": "Manchester City have been \"the Kings of Manchester\".",
-      "publishedAt": "2026-09-11T16:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-carrick-maresca-united_7348189.png?20260911155510",
-      "link": "https://www.skysports.com/football/news/12040/13584470/man-utd-vs-man-city-kings-of-manchester-hotly-debated-ahead-of-old-trafford-derby-showdown",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49904189,
       "source": "ESPN",
       "headline": "Xabi Alonso enjoys Morgan Rogers and Cole Palmer's man of the match argument",
@@ -81,17 +120,6 @@
       ]
     },
     {
-      "id": "a866cd11148e6eb6aaecedd75f9bfe87",
-      "source": "Sky Sports",
-      "headline": "Scottish Premiership latest: Rangers director Purdy steps down",
-      "description": "",
-      "publishedAt": "2026-09-11T14:35:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-dan-purdy-gretar-steinsson_7348084.jpg?20260911141532",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49903951,
       "source": "ESPN",
       "headline": "Carrick expects 'different' Manchester derby after last season's win",
@@ -104,17 +132,6 @@
         "Manchester City",
         "Manchester United"
       ]
-    },
-    {
-      "id": "a4af8d5058a7763219e0e6116fee62f7",
-      "source": "Sky Sports",
-      "headline": "Celtic given 'general behaviour' message by police ahead of Old Firm clash",
-      "description": "Martin O'Neill revealed Celtic were given a \"general behaviour\" warning by Police Scotland ahead of Sunday's League Cup quarter-final against Rangers at Ibrox.",
-      "publishedAt": "2026-09-11T14:15:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-martin-oneill-celtic_7335029.jpg?20260911150306",
-      "link": "https://www.skysports.com/football/news/12040/13584448/rangers-vs-celtic-martin-oneill-reveals-general-behaviour-message-from-police-ahead-of-old-firm-league-cup-clash",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49903272,
@@ -224,17 +241,6 @@
       ]
     },
     {
-      "id": "aaaa48a86d3a15befab6107922b19b89",
-      "source": "Sky Sports",
-      "headline": "Tottenham latest: De Zerbi on Kudus and Maddison availability vs Everton",
-      "description": "",
-      "publishedAt": "2026-09-11T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49902002,
       "source": "ESPN",
       "headline": "Arteta praises 'extremely intelligent' Havertz ahead of Sunderland trip",
@@ -296,30 +302,6 @@
       "tag": "Newcastle United",
       "teams": [
         "Newcastle United"
-      ]
-    },
-    {
-      "id": "b9671ebadff0830d91134335350432a9",
-      "source": "Sky Sports",
-      "headline": "EFL latest: Antonio signs for Watford",
-      "description": "",
-      "publishedAt": "2026-09-11T08:05:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-michail-antonio-watford_7348182.jpg?20260911155001",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 49901037,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Could Brazil offer Richarlison a route out of Tottenham?",
-      "description": "Tottenham Hotspur's Richarlison is still looking for a way out of the club, while James Rodríguez is caught in a surprise transfer saga. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-11T07:43:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712441_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49901037/transfer-rumors-news-brazil-vasco-da-gama-offer-richarlison-route-tottenham",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
       ]
     },
     {
@@ -454,24 +436,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49883172,
-      "source": "ESPN",
-      "headline": "Tottenham's Mykhailo Mudryk out until at least October with ankle injury - sources\"",
-      "description": "Mykhailo Mudryk is set to be sidelined until October at the earliest after suffering an ankle injury in training, sources have told ESPN.",
-      "publishedAt": "2026-09-09T19:36:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713908_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49883172/mykhailo-mudryk-tottenham-premier-league-spurs-injuries",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-11T20:55:43.185Z"
+    "cachedAt": "2026-09-12T04:30:27.012Z"
   }
 }
