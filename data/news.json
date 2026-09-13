@@ -2,6 +2,59 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49894830,
+      "source": "ESPN",
+      "headline": "Premier League live updates: Coventry host Brighton ahead of Manchester derby",
+      "description": "Coventry City will look for their first win of the season as they take on Brighton & Hove Albion on a Sunday full of matches across Europe.",
+      "publishedAt": "2026-09-13T11:38:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714468_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49894830/premier-league-europe-soccer-live-updates-coventry-city-brighton-manchester-united-manchester-city-barcelona-bayern-munich",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 49925331,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea to return for Roma star Koné",
+      "description": "Chelsea are ready to reignite their interest in AS Roma midfielder Manu Koné. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-13T10:03:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708284_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49925331/transfer-rumors-news-chelsea-return-roma-star-manu-kone",
+      "tag": "AS Roma",
+      "teams": [
+        "AS Roma",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49703019,
+      "source": "ESPN",
+      "headline": "Premier League VAR review: Was Sunderland's penalty legit vs. Arsenal?",
+      "description": "VAR often causes Premier League controversy, but how are decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
+      "publishedAt": "2026-09-13T09:56:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715793_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": "325e045da5277c6c5c04bcc2b80d9df0",
+      "source": "Sky Sports",
+      "headline": "How to watch Man Utd v Man City",
+      "description": "Manchester United host rivals Manchester City in a huge Premier League Manchester derby on September 13, live on Sky Sports .",
+      "publishedAt": "2026-09-13T06:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-now-tv_7345860.jpg?20260909103704",
+      "link": "https://www.skysports.com/football/news/12040/13583655/man-utd-vs-man-city-how-to-watch-premier-league-contest-tv-channel-live-stream-now-tv-and-score-prediction",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49921825,
       "source": "ESPN",
       "headline": "Belloumi's double leads Hull City in draw against Chelsea",
@@ -37,20 +90,6 @@
       "publishedAt": "2026-09-12T22:55:58Z",
       "image": "https://a.espncdn.com/photo/2026/0912/r1715527_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49919381/arsenal-mikel-arteta-fumes-sunderland-penalty-decision-unacceptable",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49703019,
-      "source": "ESPN",
-      "headline": "Premier League VAR review: Was Sunderland's penalty legit vs. Arsenal?",
-      "description": "VAR often causes Premier League controversy, but how are decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
-      "publishedAt": "2026-09-12T22:19:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715573_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
       "tag": "Arsenal",
       "teams": [
         "Arsenal",
@@ -137,17 +176,6 @@
       ]
     },
     {
-      "id": "ae8025a48faa2457ca95675c98b4b569",
-      "source": "Sky Sports",
-      "headline": "Guimaraes haunts Sunderland as Arsenal continue winning start",
-      "description": "Bruno Guimaraes scored a stunning goal two minutes after David Raya had saved a penalty as Arsenal beat Sunderland 2-0 to move above Manchester City at the top of the Premier League.",
-      "publishedAt": "2026-09-12T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-arsenal-sunderland_7349776.jpg?20260912212658",
-      "link": "https://www.skysports.com/football/sunderland-vs-arsenal/report/559482",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49917628,
       "source": "ESPN",
       "headline": "Winless Tottenham lack confidence and physical conditioning - Roberto De Zerbi",
@@ -173,17 +201,6 @@
         "Everton",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "04816db70d0c1d64f75eac95260b986b",
-      "source": "Sky Sports",
-      "headline": "West Ham secure first WSL win of season against London City Lionesses",
-      "description": "West Ham claimed their first Women's Super League win of the season with a 2-1 home victory over London City Lionesses.",
-      "publishedAt": "2026-09-12T19:15:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-west-ham-viviane_7349734.jpg?20260912202023",
-      "link": "https://www.skysports.com/football/news/12040/13585167/west-ham-2-1-london-city-lionesses-kelly-gago-and-viviane-asseyi-strike-as-hammers-secure-first-womens-super-league-win-of-season",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49916988,
@@ -226,17 +243,6 @@
         "Liverpool",
         "Fulham"
       ]
-    },
-    {
-      "id": "8d54d912aa858f7f50f04c84934b8568",
-      "source": "Sky Sports",
-      "headline": "Iraola bemoans Liverpool's lack of cutting edge and explains Barcola plan",
-      "description": "Liverpool manager Andoni Iraola bemoaned lack of creativity and cutting edge after his side were held to a 0-0 draw by Fulham at Anfield.",
-      "publishedAt": "2026-09-12T17:47:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-iraola-kerkez-andoni_7349671.jpg?20260912192353",
-      "link": "https://www.skysports.com/football/news/12040/13585141/liverpool-boss-andoni-iraola-bemoans-lack-of-creativity-and-cutting-edge-against-fulham-and-explains-bradley-barcola-plan",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49914765,
@@ -431,48 +437,20 @@
       ]
     },
     {
-      "id": 49907509,
-      "source": "ESPN",
-      "headline": "Fjørtoft: Fulham will be a 'mental test' for Liverpool",
-      "description": "Fjørtoft: Fulham will be a 'mental test' for Liverpool",
-      "publishedAt": "2026-09-11T22:20:57Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_Fjortoft_Fulham_will_be_a_mental_test_for_Liverpool/dm_260911_Fjortoft_Fulham_will_be_a_mental_test_for_Liverpool.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49907509/fulham-mental-test-liverpool",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49907512,
-      "source": "ESPN",
-      "headline": "Leboeuf: Arteta disrupting Arsenal's routine is a good tactic",
-      "description": "Leboeuf: Arteta disrupting Arsenal's routine is a good tactic",
-      "publishedAt": "2026-09-11T22:20:50Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_Leboeuf_Arteta_disrupting_Arsenals_routine_is_a_good_tactic/dm_260911_Leboeuf_Arteta_disrupting_Arsenals_routine_is_a_good_tactic.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49907512/arteta-disrupting-arsenal-routine-good-tactic",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": "1c01a830bd8fdeb97fecd22ae71d204e",
+      "id": "9a810361537a82e490dba2c411d2a831",
       "source": "Sky Sports",
-      "headline": "Papers: Richarlison takes aim at Spurs after failed Vasco da Gama move",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-09-11T22:16:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13585182/tottenham-transfer-news-spurs-forward-richarlison-takes-aim-at-spurs-following-collapse-of-proposed-vasco-da-gama-transfer-paper-talk",
-      "tag": "News Story",
+      "headline": "WSL LIVE! Man Utd vs Chelsea team news",
+      "description": "",
+      "publishedAt": "2026-09-11T09:52:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-utd-chelsea-wsl_7344369.jpg?20260907154824",
+      "link": "https://www.skysports.com/football/manchester-united-women-vs-chelsea-women/live/575768",
+      "tag": "Liveblog",
       "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-13T04:42:58.414Z"
+    "cachedAt": "2026-09-13T11:46:54.250Z"
   }
 }

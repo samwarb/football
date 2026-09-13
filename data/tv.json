@@ -2,15 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "tottenham hotspur|everton": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
-    "sunderland|arsenal": [
-      "TNT Sports 1",
-      "TNT Sports Ultimate",
-      "HBO Max"
-    ],
     "coventry city|brighton and hove albion": [
       "Sky Sports Premier League"
     ],
@@ -258,6 +249,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-13T04:42:58.563Z"
+    "cachedAt": "2026-09-13T11:46:53.889Z"
   }
 }
