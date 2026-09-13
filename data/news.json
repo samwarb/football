@@ -2,13 +2,94 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49894830,
+      "id": 49928532,
       "source": "ESPN",
-      "headline": "Premier League live updates: Coventry host Brighton ahead of Manchester derby",
-      "description": "Coventry City will look for their first win of the season as they take on Brighton & Hove Albion on a Sunday full of matches across Europe.",
-      "publishedAt": "2026-09-13T11:38:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714468_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49894830/premier-league-europe-soccer-live-updates-coventry-city-brighton-manchester-united-manchester-city-barcelona-bayern-munich",
+      "headline": "Man City's Phil Foden sent off in derby after kick on Man United's Bruno Fernandes",
+      "description": "Manchester City's Phil Foden was sent off after a kick on Manchester United captain Bruno Fernandes in the first half of the derby on Sunday.",
+      "publishedAt": "2026-09-13T16:07:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0119/r1602819_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49928532/manchester-city-phil-foden-sent-manchester-united-derby-kick-bruno-fernandes",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49914694,
+      "source": "ESPN",
+      "headline": "Arsenal ratings: Guimaraes 8/10, Raya 9/10 in win at Sunderland",
+      "description": "Bruno Guimaraes and David Raya were instrumental as Arsenal fought off Sunderland's aggressive effort to pick up a big win in Saturday's late Premier League game.",
+      "publishedAt": "2026-09-13T15:55:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715540_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49914694/arsenal-bruno-guimaraes-david-raya-player-ratings-mikel-arteta-premier-league",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49928452,
+      "source": "ESPN",
+      "headline": "Arteta 'cannot find an explanation' for penalty decision vs. Sunderland",
+      "description": "Arteta 'cannot find an explanation' for penalty decision vs. Sunderland",
+      "publishedAt": "2026-09-13T15:52:23Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Arteta_cannot_find_an_explanation_for_penalty_decision_vs_Sunderland/dm_260913_Arteta_cannot_find_an_explanation_for_penalty_decision_vs_Sunderland.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49928452/arteta-cannot-find-explanation-penalty-decision-vs-sunderland",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 49927940,
+      "source": "ESPN",
+      "headline": "Man United fans protest 'season ticket ban fiasco' ahead of derby kick-off",
+      "description": "Manchester United supporters expressed fury with the club's owners in a pre-derby protest organised by The 1958 fan group about the \"season ticket ban fiasco.\"",
+      "publishedAt": "2026-09-13T15:43:53Z",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715916_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49927940/manchester-united-fans-protest-season-ticket-ban-fiasco-derby-kick-off",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49927454,
+      "source": "ESPN",
+      "headline": "Man United vs. Man City: Marcus Rashford, Elliot Anderson start Manchester derby",
+      "description": "Marcus Rashford will line up for Manchester United against Manchester City for the first time since March 2024.",
+      "publishedAt": "2026-09-13T15:38:41Z",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715905_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49927454/man-united-vs-man-city-marcus-rashford-elliot-anderson-start-manchester-derby",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49925331,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Bayern eye move for Liverpool's Wirtz",
+      "description": "Bayern Munich are ready to pounce to sign Liverpool midfielder Florian Wirtz if there is a chance. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-13T15:18:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705865_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49925331/transfer-rumors-news-chelsea-return-roma-star-manu-kone",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49897617,
+      "source": "ESPN",
+      "headline": "Lewis Dunk screamer helps Brighton pile more Premier League misery on Coventry",
+      "description": "Brighton dealt 10-man Coventry a crushing 5-0 defeat to condemn them to a fourth straight Premier League loss.",
+      "publishedAt": "2026-09-13T15:16:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715898_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879282",
       "tag": "Coventry City",
       "teams": [
         "Coventry City",
@@ -16,17 +97,58 @@
       ]
     },
     {
-      "id": 49925331,
+      "id": 49927897,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea to return for Roma star Koné",
-      "description": "Chelsea are ready to reignite their interest in AS Roma midfielder Manu Koné. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-13T10:03:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708284_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49925331/transfer-rumors-news-chelsea-return-roma-star-manu-kone",
-      "tag": "AS Roma",
+      "headline": "Alonso: Chelsea have been 'punished' over defensive problems",
+      "description": "Alonso: Chelsea have been 'punished' over defensive problems",
+      "publishedAt": "2026-09-13T15:07:02Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Alonso_Chelsea_have_been_punished_over_defensive_problems/dm_260913_Alonso_Chelsea_have_been_punished_over_defensive_problems.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49927897/chelsea-punished-defensive-problems",
+      "tag": "Chelsea",
       "teams": [
-        "AS Roma",
-        "Chelsea"
+        "Chelsea",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 49927223,
+      "source": "ESPN",
+      "headline": "Iraola: Liverpool haven't been as good offensively as other days",
+      "description": "Iraola: Liverpool haven't been as good offensively as other days",
+      "publishedAt": "2026-09-13T14:05:48Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Iraola_Liverpool_havent_been_as_good_offensively_as_other_days/dm_260913_Iraola_Liverpool_havent_been_as_good_offensively_as_other_days.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49927223/liverpool-good-offensively-other-days",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49927079,
+      "source": "ESPN",
+      "headline": "Maresca: Manchester United are a 'dangerous' team",
+      "description": "Maresca: Manchester United are a 'dangerous' team",
+      "publishedAt": "2026-09-13T13:33:29Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Maresca_Manchester_United_are_a_dangerous_team/dm_260913_Maresca_Manchester_United_are_a_dangerous_team.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49927079/manchester-united-dangerous-team",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49926499,
+      "source": "ESPN",
+      "headline": "Man United's Benjamin Sesko 'in perfect place' after injury recovery",
+      "description": "Benjamin Sesko now feels in the \"perfect\" place having recovered from the injury which brought his first season with Manchester United to a premature end.",
+      "publishedAt": "2026-09-13T12:13:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715825_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49926499/man-united-benjamin-sesko-perfect-place-injury-recovery",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
       ]
     },
     {
@@ -148,19 +270,6 @@
       ]
     },
     {
-      "id": 49914694,
-      "source": "ESPN",
-      "headline": "Arsenal ratings: Guimaraes 8/10, Raya 9/10 in win at Sunderland",
-      "description": "Bruno Guimaraes and David Raya were instrumental as Arsenal fought off Sunderland's aggressive effort to pick up a big win in Saturday's late Premier League game.",
-      "publishedAt": "2026-09-12T21:18:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715540_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49914694/arsenal-bruno-guimaraes-david-raya-player-ratings-mikel-arteta-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 49894589,
       "source": "ESPN",
       "headline": "Premier League recap: Arsenal get big win at Sunderland, Spurs still winless",
@@ -245,20 +354,6 @@
       ]
     },
     {
-      "id": 49914765,
-      "source": "ESPN",
-      "headline": "Hull continue unbeaten Premier League streak with entertaining 2-2 draw at Chelsea",
-      "description": "Hull continued their unbeaten start to the Premier League season after an entertaining 2-2 draw at Chelsea.",
-      "publishedAt": "2026-09-12T17:40:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715373_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49914765/hull-continue-unbeaten-premier-league-streak-entertaining-2-2-draw-chelsea",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 49915725,
       "source": "ESPN",
       "headline": "Xabi Alonso wants more 'boring' wins as Chelsea draw with Hull",
@@ -315,20 +410,6 @@
       ]
     },
     {
-      "id": 49897531,
-      "source": "ESPN",
-      "headline": "Chelsea draw with Premier League surprise package Hull City",
-      "description": "Chelsea's chaotic start to life under Xabi Alonso continued with an entertaining 2-2 draw against Hull at Stamford Bridge.",
-      "publishedAt": "2026-09-12T16:35:21Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715369_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879283",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Hull City"
-      ]
-    },
-    {
       "id": 49912334,
       "source": "ESPN",
       "headline": "In-form Hull show why Chelsea fans are in for a rough ride this season",
@@ -339,61 +420,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 49897552,
-      "source": "ESPN",
-      "headline": "Liverpool momentum dented by Anfield draw with struggling Fulham",
-      "description": "Fulham frustrated Liverpool to claim their first point of the season with a goalless draw at Anfield on Saturday.",
-      "publishedAt": "2026-09-12T16:33:32Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715366_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879279",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 49897526,
-      "source": "ESPN",
-      "headline": "Kevin Schade brace denies Bournemouth a first Premier League win of season",
-      "description": "Bournemouth boss Marco Rose was denied a first Premier League win after a calamitous goalkeeping mistake allowed Brentford to claim a 2-2 draw.",
-      "publishedAt": "2026-09-12T16:32:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715372_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879285",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Brentford"
-      ]
-    },
-    {
-      "id": 49897537,
-      "source": "ESPN",
-      "headline": "Ipswich's impressive start continues with win over 10-man Crystal Palace",
-      "description": "Zian Flemming's first goal for Ipswich snatched a dramatic 3-2 victory at 10-man Crystal Palace for their second Premier League win of the season.",
-      "publishedAt": "2026-09-12T16:30:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715376_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879281",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Ipswich Town"
-      ]
-    },
-    {
-      "id": 49912330,
-      "source": "ESPN",
-      "headline": "Liverpool ratings: Barcola, Wirtz, Gravenberch struggle in Fulham draw",
-      "description": "Liverpool were held to a 0-0 draw with struggling Fulham at Anfield, as a host of top players failed to perform.",
-      "publishedAt": "2026-09-12T16:27:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715338_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49912330/liverpool-ratings-barcola-wirtz-gravenberch-struggle-fulham-draw",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
       ]
     },
     {
@@ -411,32 +437,6 @@
       ]
     },
     {
-      "id": 49911868,
-      "source": "ESPN",
-      "headline": "Xabi Alonso on Chelsea's João Pedro: Like Karim Benzema, as good as Erling Haaland",
-      "description": "Chelsea boss Xabi Alonso has compared striker João Pedro to the like of Erling Haaland and Karim Benzema following his flying start to the Premier League this season.",
-      "publishedAt": "2026-09-12T12:13:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715246_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49911868/xabi-alonso-chelsea-joao-pedro-karim-benzema-good-erling-haaland",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49906828,
-      "source": "ESPN",
-      "headline": "Dalot still dreams of putting Manchester United back on top",
-      "description": "After eight years at Old Trafford, Diogo Dalot still has the desire to win the biggest trophies with Manchester United as another crucial derby looms.",
-      "publishedAt": "2026-09-12T07:22:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1715049_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49906828/diogo-dalot-dreams-putting-manchester-united-back-top",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": "9a810361537a82e490dba2c411d2a831",
       "source": "Sky Sports",
       "headline": "WSL LIVE! Man Utd vs Chelsea team news",
@@ -451,6 +451,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-13T11:46:54.250Z"
+    "cachedAt": "2026-09-13T16:13:40.191Z"
   }
 }
