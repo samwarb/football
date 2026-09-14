@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "leeds united|newcastle united": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "brentford|chelsea": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -242,6 +238,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-14T12:40:34.291Z"
+    "cachedAt": "2026-09-14T21:47:19.239Z"
   }
 }
