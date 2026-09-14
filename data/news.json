@@ -2,6 +2,167 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49938529,
+      "source": "ESPN",
+      "headline": "Manchester derby mess shows VAR's quest for perfection is doomed to fail",
+      "description": "Erling Haaland's goal in the Manchester derby proved that perfection will always be out of reach for VAR, despite it being there to give us exactly that.",
+      "publishedAt": "2026-09-14T12:29:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716471_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49938529/erling-haaland-manchester-city-manchester-united-derby-goal-premier-league-var",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49939346,
+      "source": "ESPN",
+      "headline": "Liverpool boss Andoni Iraola calls for help from forwards: 'Need to recover the ball as high as possible'",
+      "description": "Liverpool head coach Andoni Iraola has called for his forward line to provide more support for the players behind them amid criticism of his team's midfield.",
+      "publishedAt": "2026-09-14T12:22:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716494_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49939346/liverpool-boss-andoni-iraola-attackers-need-recover-ball-high-possible",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 49939086,
+      "source": "ESPN",
+      "headline": "Michael Carrick calls on Man United squad to 'move on' after derby loss, Erling Haaland goal 'injustice'",
+      "description": "Michael Carrick has told his Manchester United players to put their derby disappointment behind them quickly despite feeling frustration that Erling Haaland's winner was allowed to stand.",
+      "publishedAt": "2026-09-14T11:52:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716479_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49939086/michael-carrick-manchester-united-move-city-loss-erling-haaland-goal-stands",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49930019,
+      "source": "ESPN",
+      "headline": "Maresca fine with Foden red, says Bruno should have been sent off too",
+      "description": "Manchester City manager Enzo Maresca backed referee Michael Oliver's decision to send off Phil Foden in his team's 1-0 win against Manchester United, but said that Reds captain Bruno Fernandes should also have been shown a red card.",
+      "publishedAt": "2026-09-14T10:41:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716047_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49930019/maresca-fine-foden-red-bruno-sent-off",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49929461,
+      "source": "ESPN",
+      "headline": "Manchester derby reaction: Short-handed Man City outplay Man United",
+      "description": "Manchester City outplayed their city rivals as Manchester United failed to take advantage of Phil Foden's early red card.",
+      "publishedAt": "2026-09-14T10:39:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716042_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49929461/manchester-derby-reaction-city-united-var-haaland-mainoo-rashford",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49937841,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal keeping tabs on Liverpool teen Ngumoha",
+      "description": "Arsenal are watching developments between Liverpool and Rio Ngumoha with interest. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-14T09:01:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0411/r1641945_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49937841/transfer-rumors-news-arsenal-keeping-tabs-liverpool-teen-ngumoha",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49938225,
+      "source": "ESPN",
+      "headline": "Former West Ham goalkeeper Luděk Mikloško dies at 64 after cancer diagnosis",
+      "description": "Former West Ham goalkeeper Luděk Mikloško has died aged 64 following a battle with cancer.",
+      "publishedAt": "2026-09-14T08:59:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716464_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49938225/former-west-ham-goalkeeper-luděk-mikloško-dies-64-cancer-diagnosis",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 49703019,
+      "source": "ESPN",
+      "headline": "Premier League VAR review: How was Enzo Fernández not offside? Wrongly awarded goal costs Man United",
+      "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
+      "publishedAt": "2026-09-14T08:50:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716456_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "aed9803e2084062d9920fd326f3fc13d",
+      "source": "Sky Sports",
+      "headline": "We know Haaland's goal was a mistake - but WHY did it happen?",
+      "description": "Erling Haaland's winning goal in Sunday's Manchester derby came in controversial circumstances - and there are still a number of questions left unanswered.",
+      "publishedAt": "2026-09-14T08:10:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-manchester-united_7351193.jpg?20260914092442",
+      "link": "https://www.skysports.com/football/news/12040/13585716/erling-haalands-goal-for-man-city-against-man-utd-was-a-mistake-but-why-did-it-happen",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49938044,
+      "source": "ESPN",
+      "headline": "Maresca: Fernandes should have been sent off with Foden",
+      "description": "Maresca: Fernandes should have been sent off with Foden",
+      "publishedAt": "2026-09-14T07:47:21Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_Maresca_Fernandes_should_have_been_sent_off_with_Foden/dm_260914_Maresca_Fernandes_should_have_been_sent_off_with_Foden.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49938044/fernandes-sent-foden",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49938008,
+      "source": "ESPN",
+      "headline": "Carrick fumes over 'worrying' officiating standards after VAR mistake",
+      "description": "Carrick fumes over 'worrying' officiating standards after VAR mistake",
+      "publishedAt": "2026-09-14T07:33:57Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Presser_Carrick_fumes_over_worrying_officiating_standards_after_VAR_mistake_20260914_G/dm_260914_COM_SOC_Presser_Carrick_fumes_over_worrying_officiating_standards_after_VAR_mistake_20260914_G.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49938008/carrick-fumes-worrying-officiating-standards-var-mistake",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49937740,
+      "source": "ESPN",
+      "headline": "'Scrap VAR' - Peter Schmeichel calls for end of football 'annoyance' after Man United vs. Man City",
+      "description": "Former Manchester United goalkeeper Peter Schmeichel has called for VAR to be scrapped following Erling Haaland's controversial goal in the Manchester derby.",
+      "publishedAt": "2026-09-14T07:05:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716457_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49937740/scrap-var-man-united-man-city-peter-schmeichel-annoyance",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Manchester City"
+      ]
+    },
+    {
       "id": 49934017,
       "source": "ESPN",
       "headline": "City win Manchester derby in controversial fashion",
@@ -100,17 +261,6 @@
       ]
     },
     {
-      "id": "f0e56248fe222197cdee868528b9758c",
-      "source": "Sky Sports",
-      "headline": "Awarding Man City's winner at Man Utd an error, admits refereeing body",
-      "description": "Refereeing body Pro Ref has admitted an error in awarding Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford.",
-      "publishedAt": "2026-09-13T20:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-var-enzo-fernandez_7350682.jpg?20260913182730",
-      "link": "https://www.skysports.com/football/news/12040/13585607/erling-haalands-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49930265,
       "source": "ESPN",
       "headline": "Lisandro Martínez, Michael Carrick blast 'injustice' to allow Erling Haaland, Man City's winner in derby",
@@ -118,47 +268,6 @@
       "publishedAt": "2026-09-13T19:55:04Z",
       "image": "https://a.espncdn.com/photo/2026/0913/r1716064_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49930265/lisandro-martinez-michael-carrick-manchester-united-blast-decision-allow-erling-haaland-manhester-city-winning-goal-derby",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49930019,
-      "source": "ESPN",
-      "headline": "Maresca fine with Foden red, says Bruno should have been sent off too",
-      "description": "Manchester City manager Enzo Maresca backed referee Michael Oliver's decision to send off Phil Foden in his team's 1-0 win against Manchester United, but said that Reds captain Bruno Fernandes should also have been shown a red card.",
-      "publishedAt": "2026-09-13T19:45:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716047_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49930019/maresca-fine-foden-red-bruno-sent-off",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49703019,
-      "source": "ESPN",
-      "headline": "Premier League VAR review: Wrongly awarded goal costs Man United",
-      "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
-      "publishedAt": "2026-09-13T19:41:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716082_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49929461,
-      "source": "ESPN",
-      "headline": "Manchester derby reaction: Short-handed Man City outplay Man United",
-      "description": "Manchester City outplayed their city rivals as Manchester United failed to take advantage of Phil Foden's early red card.",
-      "publishedAt": "2026-09-13T19:15:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716042_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49929461/manchester-derby-reaction-city-united-var-haaland-mainoo-rashford",
       "tag": "Manchester City",
       "teams": [
         "Manchester City",
@@ -232,19 +341,6 @@
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
-      ]
-    },
-    {
-      "id": 49914694,
-      "source": "ESPN",
-      "headline": "Arsenal ratings: Guimaraes 8/10, Raya 9/10 in win at Sunderland",
-      "description": "Bruno Guimaraes and David Raya were instrumental as Arsenal fought off Sunderland's aggressive effort to pick up a big win in Saturday's late Premier League game.",
-      "publishedAt": "2026-09-13T15:55:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715540_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49914694/arsenal-bruno-guimaraes-david-raya-player-ratings-mikel-arteta-premier-league",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
       ]
     },
     {
@@ -329,106 +425,11 @@
         "Manchester City",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49926499,
-      "source": "ESPN",
-      "headline": "Man United's Benjamin Sesko 'in perfect place' after injury recovery",
-      "description": "Benjamin Sesko now feels in the \"perfect\" place having recovered from the injury which brought his first season with Manchester United to a premature end.",
-      "publishedAt": "2026-09-13T12:13:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715825_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49926499/man-united-benjamin-sesko-perfect-place-injury-recovery",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49921825,
-      "source": "ESPN",
-      "headline": "Belloumi's double leads Hull City in draw against Chelsea",
-      "description": "Mohamed Belloumi nets a quickfire double as Hull City continue to surprise in the Premier League with an entertaining 2-2 draw at Chelsea.",
-      "publishedAt": "2026-09-13T01:19:05Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_EPL_Highlight_Belloumis_double_leads_Hull_City_in_draw_against_Chelsea__20260913_AUS_ONLY/dm_260912_EPL_Highlight_Belloumis_double_leads_Hull_City_in_draw_against_Chelsea__20260913_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49921825/belloumi-double-leads-hull-city-draw-chelsea",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 49921087,
-      "source": "ESPN",
-      "headline": "Guimarães' stunner headlines Arsenal's 2-0 win",
-      "description": "Bruno Guimarães scores a marvellous long-range goal for the Gunners as Arsenal maintain their perfect start to the season with a win over Sunderland.",
-      "publishedAt": "2026-09-13T00:21:23Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_EPL_Highlight_Guimaraes_stunner_headlines_Arsenals_20_win_20260913_AUS_ONLY/dm_260912_EPL_Highlight_Guimaraes_stunner_headlines_Arsenals_20_win_20260913_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49921087/guimaraes-stunner-headlines-arsenal-2-0-win",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49919381,
-      "source": "ESPN",
-      "headline": "Arsenal's Mikel Arteta fumes at Sunderland penalty decision: 'Unacceptable'",
-      "description": "Mikel Arteta railed against the officials' decision to award Sunderland a penalty against Arsenal despite his side going on to win the match 2-0.",
-      "publishedAt": "2026-09-12T22:55:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715527_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49919381/arsenal-mikel-arteta-fumes-sunderland-penalty-decision-unacceptable",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49919283,
-      "source": "ESPN",
-      "headline": "Man City's Elliot Anderson: My first thought when getting ball is finding Erling Haaland",
-      "description": "Elliot Anderson has quickly learned what his one of his main jobs at Manchester City is -- to give the ball to Erling Haaland.",
-      "publishedAt": "2026-09-12T22:10:11Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715583_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49919283/manchester-city-elliot-anderson-first-thought-where-erling-haaland",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49919393,
-      "source": "ESPN",
-      "headline": "Nicol convinced Arsenal will be champions after Sunderland win",
-      "description": "Nicol convinced Arsenal will be champions after Sunderland win",
-      "publishedAt": "2026-09-12T22:04:45Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0912/dm_260912_Nicol_convinced_Arsenal_will_be_champions_after_Sunderland_win/dm_260912_Nicol_convinced_Arsenal_will_be_champions_after_Sunderland_win.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49919393/nicol-convinced-arsenal-champions-sunderland-win",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49897581,
-      "source": "ESPN",
-      "headline": "Bruno Guimarães scores stunner as Arsenal overcome Sunderland",
-      "description": "Bruno Guimarães and Bukayo Saka helped maintain Arsenal's perfect start in the Premier League with a 2-0 win over Sunderland.",
-      "publishedAt": "2026-09-12T21:18:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715534_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401878779",
-      "tag": "Sunderland",
-      "teams": [
-        "Sunderland",
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-14T04:51:03.389Z"
+    "cachedAt": "2026-09-14T12:40:34.357Z"
   }
 }
