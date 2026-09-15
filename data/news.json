@@ -2,6 +2,60 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49943886,
+      "source": "ESPN",
+      "headline": "Mikel Arteta promises Max Dowman minutes this season but warns they must be earned",
+      "description": "Mikel Arteta has insisted Arsenal starlet Max Dowman will get minutes this season but warned they must be earned ahead of Tuesday's Carabao Cup fourth-round tie at Ipswich.",
+      "publishedAt": "2026-09-14T23:42:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703351_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49943886/mikel-arteta-promises-max-dowman-minutes-season-warns-earned",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49944120,
+      "source": "ESPN",
+      "headline": "Leeds pile on the goals in 4-1 rout of Newcastle",
+      "description": "Leeds United have stunned Newcastle United with three goals in 15 minutes in the first half, before Noah Okafor scored a beauty to put The home side into third place on the table.",
+      "publishedAt": "2026-09-14T23:04:51Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_Soccer_HIGHLIGHT_Leeds_pile_on_the_goals_in_4_1_rout_of_Newcastle_20260915_AUS/dm_260914_Soccer_HIGHLIGHT_Leeds_pile_on_the_goals_in_4_1_rout_of_Newcastle_20260915_AUS.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49944120/leeds-pile-goals-4-1-rout-newcastle",
+      "tag": "Leeds United",
+      "teams": [
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 49943897,
+      "source": "ESPN",
+      "headline": "Hislop: Arteta playing mind games with referees over Sunderland penalty",
+      "description": "Hislop: Arteta playing mind games with referees over Sunderland penalty",
+      "publishedAt": "2026-09-14T22:43:52Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Analysis_Hislop_Arteta_playing_mind_games_with_referees_over_Sunderland_penalty_2026091/dm_260914_COM_SOC_Analysis_Hislop_Arteta_playing_mind_games_with_referees_over_Sunderland_penalty_2026091.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49943897/arteta-playing-mind-games-referees-sunderland-penalty",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 49943722,
+      "source": "ESPN",
+      "headline": "Burley: VAR issues caused by incompetent humans, not technology",
+      "description": "Burley: VAR issues caused by incompetent humans, not technology",
+      "publishedAt": "2026-09-14T22:20:00Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49943722/var-issues-caused-incompetent-humans-not-technology",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United"
+      ]
+    },
+    {
       "id": 49937841,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool eye move for Bournemouth's Rayan",
@@ -44,6 +98,39 @@
       ]
     },
     {
+      "id": "ea3e24519f4ae847b8118467698da48e",
+      "source": "Sky Sports",
+      "headline": "Papers: Blundering VAR duo set to be blocked from officiating on Man Utd games",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "publishedAt": "2026-09-14T21:10:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13585971/blundering-var-duo-set-to-be-blocked-from-officiating-on-manchester-united-games-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b8d6ca371c99f789d95ba9ee0db65afd",
+      "source": "Sky Sports",
+      "headline": "Calvert-Lewin and Leeds bully Newcastle in dominant victory",
+      "description": "Leeds United maintained their unbeaten start to the Premier League campaign with a breathless 4-1 victory over Newcastle.",
+      "publishedAt": "2026-09-14T20:50:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-dominic-calvert-lewin_7351773.jpg?20260914224441",
+      "link": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/report/559479",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "fb3483e73a7ee365d646cd590ef4bd46",
+      "source": "Sky Sports",
+      "headline": "Carra: Arteta becoming like Sir Alex after ref criticism",
+      "description": "Jamie Carragher says Arsenal boss Mikel Arteta is \"becoming the Sir Alex Ferguson of the Premier League\" after strongly criticising the penalty awarded against his side in Saturday's 2-0 win at Sunderland.",
+      "publishedAt": "2026-09-14T18:41:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-mikel-arteta-arsneal_7349847.jpg?20260912232852",
+      "link": "https://www.skysports.com/football/news/12040/13585895/jamie-carragher-arsenal-boss-mikel-arteta-becoming-like-sir-alex-ferguson-after-ref-criticism-of-sunderland-penalty",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49939662,
       "source": "ESPN",
       "headline": "Arsenal to contact Pro Ref over Sunderland penalty incident - source",
@@ -82,6 +169,17 @@
       ]
     },
     {
+      "id": "6627628673c4de0810eae2ac1382f6fb",
+      "source": "Sky Sports",
+      "headline": "'We'll get what we deserve' | Hull KR coach weighs up Warrington clash",
+      "description": "Hull KR head coach Willie Peters looks ahead to their first clash against Warrington Wolves.",
+      "publishedAt": "2026-09-14T15:16:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-rugby-peters_7351534.jpg?20260914162103",
+      "link": "https://www.skysports.com/watch/video/13585875/well-get-what-we-deserve-hull-kr-coach-willie-peters-weighs-up-warrington-wolves-clash",
+      "tag": "Video",
+      "teams": []
+    },
+    {
       "id": "54479c803c79ff5b4f5f5e2d1505d1b7",
       "source": "Sky Sports",
       "headline": "McGregor criticises 'team of individuals' after Celtic's Old Firm collapse",
@@ -104,17 +202,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "7edf29841c3a8973e5a66bc8bb98d797",
-      "source": "Sky Sports",
-      "headline": "Aston Villa latest: Merson's verdict on potential relegation battle",
-      "description": "",
-      "publishedAt": "2026-09-14T13:57:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49940001,
@@ -210,20 +297,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 49929461,
-      "source": "ESPN",
-      "headline": "Manchester derby reaction: Short-handed Man City outplay Man United",
-      "description": "Manchester City outplayed their city rivals as Manchester United failed to take advantage of Phil Foden's early red card.",
-      "publishedAt": "2026-09-14T10:39:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716042_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49929461/manchester-derby-reaction-city-united-var-haaland-mainoo-rashford",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
       ]
     },
     {
@@ -406,53 +479,11 @@
         "Manchester City",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49930506,
-      "source": "ESPN",
-      "headline": "Hutchison: Manchester United will not be title contenders",
-      "description": "Hutchison: Manchester United will not be title contenders",
-      "publishedAt": "2026-09-13T18:48:19Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Hutchison_Manchester_United_will_not_be_title_contenders/dm_260913_Hutchison_Manchester_United_will_not_be_title_contenders.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49930506/manchester-united-not-title-contenders",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49894830,
-      "source": "ESPN",
-      "headline": "Premier League recap: Haaland, Man City defeat United in derby",
-      "description": "",
-      "publishedAt": "2026-09-13T18:19:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715984_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49894830/premier-league-europe-soccer-live-updates-coventry-city-brighton-manchester-united-manchester-city-barcelona-bayern-munich",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49897649,
-      "source": "ESPN",
-      "headline": "Contentious Erling Haaland goal decides Manchester derby in Man City's favor",
-      "description": "Erling Haaland secured Manchester City a memorable derby-day triumph as Manchester United failed to capitalise on Phil Foden's sending-off on a day of contentious decisions.",
-      "publishedAt": "2026-09-13T18:04:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716007_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879278",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-14T21:47:19.303Z"
+    "cachedAt": "2026-09-15T04:50:23.825Z"
   }
 }
