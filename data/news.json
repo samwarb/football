@@ -2,13 +2,180 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49947329,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Bruno Fernandes contract talks stall",
+      "description": "Manchester United want to retain Bruno Fernandes and have begun talks over a new contract. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-15T11:30:35Z",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709025_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49947329/transfer-rumors-news-man-united-bruno-fernandes-contract-talks-stall",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "81ec7dc99399e05b63f4249347ac2081",
+      "source": "Sky Sports",
+      "headline": "EFL latest: Wales boss Bellamy reveals truth about 'flattering' Burnley approach",
+      "description": "",
+      "publishedAt": "2026-09-15T10:15:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-southampton-fc_7345492.jpg?20260908215006",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "71a3458d40bd6f3479a4be4ca89e7b42",
+      "source": "Sky Sports",
+      "headline": "Five newcomers included in Pocognoli's first Scotland squad",
+      "description": "Sevilla striker Robbie Ure and Brondby's Luis Binks are among five players handed their maiden full Scotland call-ups in new head coach Sebastien Pocognoli's first squad.",
+      "publishedAt": "2026-09-15T10:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-scotland-sebastian_7323963.jpg?20260817114034",
+      "link": "https://www.skysports.com/football/news/12040/13585835/scotland-robbie-ure-luis-binks-and-colby-donovan-among-five-newcomers-included-in-sebastien-pocognolis-first-squad",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "3c96265cf691e603ef43448af0d7f871",
+      "source": "Sky Sports",
+      "headline": "Wilson returns to Wales squad as Ashford receives first call-up",
+      "description": "",
+      "publishedAt": "2026-09-15T09:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-harry-wilson-wales_7351983.jpg?20260915094512",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "a5ea092e14859bc1163fc54425ccecdc",
+      "source": "Sky Sports",
+      "headline": "Coventry latest: Lampard hints at changes for Villa cup tie",
+      "description": "",
+      "publishedAt": "2026-09-15T09:30:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142",
+      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "54d632349bccec1a96c3ebc4c1396849",
+      "source": "Sky Sports",
+      "headline": "Man City latest: Haaland hails 'monster' Donnarumma after derby heroics",
+      "description": "",
+      "publishedAt": "2026-09-15T09:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49947483,
+      "source": "ESPN",
+      "headline": "Tottenham's Richarlison reacts to Carabao Cup exclusion: 'Why?'",
+      "description": "Tottenham's exiled forward Richarlison reacted to news that Roberto De Zerbi won't be picking him for the Carabao Cup clash against Liverpool with a one word response on social media -- \"Why?\" accompanied by a tearful emoji.",
+      "publishedAt": "2026-09-15T08:26:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708658_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49947483/tottenham-richarlison-reacts-carabao-cup-exclusion-why",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49940737,
+      "source": "ESPN",
+      "headline": "Judging Premier League overreactions: Title race down to Arsenal and Man City?",
+      "description": "Let's overreact to last weekend's Premier League action, from Arsenal and Man City separating from the pack to the VAR controversies on everyone's mind.",
+      "publishedAt": "2026-09-15T08:04:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716669_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49940737/judging-premier-league-overreactions-title-race-var-arsenal-man-city-hull-spurs-coventry-lampard",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49945295,
+      "source": "ESPN",
+      "headline": "All 20 Premier League teams ranked: Which managers fired first?",
+      "description": "The Premier League is a constant carousel of coaches being fired and hired. Who's safe and who's on the chopping block? Let's rank everyone!",
+      "publishedAt": "2026-09-15T07:48:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1716846_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49945295/all-20-premier-league-teams-ranked-which-managers-fired-first",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Chelsea",
+        "Manchester City",
+        "Aston Villa",
+        "Everton",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Brentford",
+        "Nottingham Forest",
+        "Fulham",
+        "Brighton & Hove Albion",
+        "Newcastle United",
+        "Crystal Palace",
+        "Leeds United",
+        "Sunderland",
+        "Hull City",
+        "Coventry City"
+      ]
+    },
+    {
       "id": 49943886,
       "source": "ESPN",
       "headline": "Mikel Arteta promises Max Dowman minutes this season but warns they must be earned",
       "description": "Mikel Arteta has insisted Arsenal starlet Max Dowman will get minutes this season but warned they must be earned ahead of Tuesday's Carabao Cup fourth-round tie at Ipswich.",
-      "publishedAt": "2026-09-14T23:42:56Z",
+      "publishedAt": "2026-09-15T07:44:23Z",
       "image": "https://a.espncdn.com/photo/2026/0818/r1703351_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49943886/mikel-arteta-promises-max-dowman-minutes-season-warns-earned",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49947453,
+      "source": "ESPN",
+      "headline": "Arteta: Max Dowman will 'earn his minutes like anybody else'",
+      "description": "Arteta: Max Dowman will 'earn his minutes like anybody else'",
+      "publishedAt": "2026-09-15T07:44:17Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Arteta_Max_Dowman_will_earn_his_minutes_like_anybody_else/dm_260915_Arteta_Max_Dowman_will_earn_his_minutes_like_anybody_else.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49947453/max-dowman-earn-minutes-anybody-else",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Ipswich Town"
+      ]
+    },
+    {
+      "id": 49947328,
+      "source": "ESPN",
+      "headline": "Jamie Carragher on Mikel Arteta referee rant: 'Becoming Sir Alex Ferguson of Premier League now'",
+      "description": "Jamie Carragher has compared Arsenal boss Mikel Arteta to Sir Alex Ferguson for the manner in which he criticised referees following the Gunners' 2-0 win over Sunderland.",
+      "publishedAt": "2026-09-15T07:19:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1716919_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49947328/jamie-carragher-mikel-arteta-referee-rant-becoming-sir-alex-ferguson-premier-league-now",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49947285,
+      "source": "ESPN",
+      "headline": "Cesc Fabregas takes inspiration from Arsenal 'set-play goals' as Como win again",
+      "description": "Cesc Fabregas said he wants his Como side to follow Arsenal's lead in having defenders score more from set-pieces after they continued their unbeaten start to the Serie A season.",
+      "publishedAt": "2026-09-15T07:19:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1716921_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49947285/cesc-fabregas-takes-inspiration-arsenal-set-play-goals-como-win-again",
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
@@ -98,39 +265,6 @@
       ]
     },
     {
-      "id": "ea3e24519f4ae847b8118467698da48e",
-      "source": "Sky Sports",
-      "headline": "Papers: Blundering VAR duo set to be blocked from officiating on Man Utd games",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-09-14T21:10:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13585971/blundering-var-duo-set-to-be-blocked-from-officiating-on-manchester-united-games-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b8d6ca371c99f789d95ba9ee0db65afd",
-      "source": "Sky Sports",
-      "headline": "Calvert-Lewin and Leeds bully Newcastle in dominant victory",
-      "description": "Leeds United maintained their unbeaten start to the Premier League campaign with a breathless 4-1 victory over Newcastle.",
-      "publishedAt": "2026-09-14T20:50:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-dominic-calvert-lewin_7351773.jpg?20260914224441",
-      "link": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/report/559479",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "fb3483e73a7ee365d646cd590ef4bd46",
-      "source": "Sky Sports",
-      "headline": "Carra: Arteta becoming like Sir Alex after ref criticism",
-      "description": "Jamie Carragher says Arsenal boss Mikel Arteta is \"becoming the Sir Alex Ferguson of the Premier League\" after strongly criticising the penalty awarded against his side in Saturday's 2-0 win at Sunderland.",
-      "publishedAt": "2026-09-14T18:41:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-mikel-arteta-arsneal_7349847.jpg?20260912232852",
-      "link": "https://www.skysports.com/football/news/12040/13585895/jamie-carragher-arsenal-boss-mikel-arteta-becoming-like-sir-alex-ferguson-after-ref-criticism-of-sunderland-penalty",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49939662,
       "source": "ESPN",
       "headline": "Arsenal to contact Pro Ref over Sunderland penalty incident - source",
@@ -142,17 +276,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "0214adc3a3ac76eca8c406536c708043",
-      "source": "Sky Sports",
-      "headline": "Man Utd latest: Carragher labels Bruno 'guilty party' in Foden red card",
-      "description": "",
-      "publishedAt": "2026-09-14T15:57:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49940750,
@@ -167,28 +290,6 @@
         "Manchester United",
         "Manchester City"
       ]
-    },
-    {
-      "id": "6627628673c4de0810eae2ac1382f6fb",
-      "source": "Sky Sports",
-      "headline": "'We'll get what we deserve' | Hull KR coach weighs up Warrington clash",
-      "description": "Hull KR head coach Willie Peters looks ahead to their first clash against Warrington Wolves.",
-      "publishedAt": "2026-09-14T15:16:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-rugby-peters_7351534.jpg?20260914162103",
-      "link": "https://www.skysports.com/watch/video/13585875/well-get-what-we-deserve-hull-kr-coach-willie-peters-weighs-up-warrington-wolves-clash",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "54479c803c79ff5b4f5f5e2d1505d1b7",
-      "source": "Sky Sports",
-      "headline": "McGregor criticises 'team of individuals' after Celtic's Old Firm collapse",
-      "description": "\"You saw a team and a team of individuals.\"",
-      "publishedAt": "2026-09-14T15:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-celtic-callum-mcgregor_7351546.jpg?20260914164745",
-      "link": "https://www.skysports.com/football/news/12040/13585884/celtic-captain-callum-mcgregor-hits-out-at-team-of-individuals-after-old-firm-league-cup-defeat-to-rangers",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49940193,
@@ -287,19 +388,6 @@
       ]
     },
     {
-      "id": 49930019,
-      "source": "ESPN",
-      "headline": "Maresca fine with Foden red, says Bruno should have been sent off too",
-      "description": "Manchester City manager Enzo Maresca backed referee Michael Oliver's decision to send off Phil Foden in his team's 1-0 win against Manchester United, but said that Reds captain Bruno Fernandes should also have been shown a red card.",
-      "publishedAt": "2026-09-14T10:41:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716047_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49930019/maresca-fine-foden-red-bruno-sent-off",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 49938225,
       "source": "ESPN",
       "headline": "Former West Ham goalkeeper Luděk Mikloško dies at 64 after cancer diagnosis",
@@ -394,96 +482,11 @@
         "Bayern Munich",
         "Liverpool"
       ]
-    },
-    {
-      "id": 49933209,
-      "source": "ESPN",
-      "headline": "Leboeuf on Foden's red card in Manchester derby: 'It's a joke!'",
-      "description": "Leboeuf on Foden's red card in Manchester derby: 'It's a joke!'",
-      "publishedAt": "2026-09-13T21:47:24Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Leboeuf_on_Fodens_red_card_in_Manchester_derby_Its_a_joke/dm_260913_Leboeuf_on_Fodens_red_card_in_Manchester_derby_Its_a_joke.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49933209/joke",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49932785,
-      "source": "ESPN",
-      "headline": "Hislop claims 'refs failed to apply common sense' during Manchester derby",
-      "description": "Hislop claims 'refs failed to apply common sense' during Manchester derby",
-      "publishedAt": "2026-09-13T21:24:02Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Hislop_claims_refs_failed_to_apply_common_sense_during_Manchester_derby/dm_260913_Hislop_claims_refs_failed_to_apply_common_sense_during_Manchester_derby.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49932785/hislop-claims-refs-failed-apply-common-sense-manchester-derby",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49932067,
-      "source": "ESPN",
-      "headline": "Premier League referees' body apologizes to Man United after derby offside controversy",
-      "description": "Pro Ref, the Premier League referees' body, has apologized to Manchester United after admitting the VAR awarded Erling Haaland's winning goal in Manchester City's 1-0 win by \"error.\"",
-      "publishedAt": "2026-09-13T21:16:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716064_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49932067/premier-league-referees-body-apologises-man-united-derby-offside-controversy",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49931033,
-      "source": "ESPN",
-      "headline": "Micah Richards: Manchester derby a 'bad day for referees' after Phil Foden red, Erling Haaland winner",
-      "description": "Micah Richards said the Manchester derby was a \"bad day for referees\" after City claimed a 1-0 win with a controversial goal.",
-      "publishedAt": "2026-09-13T20:41:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716101_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49931033/micah-richard-manchester-city-united-bad-day-referees-phil-foden-red-erling-haaland-winner",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49930265,
-      "source": "ESPN",
-      "headline": "Lisandro Martínez, Michael Carrick blast 'injustice' to allow Erling Haaland, Man City's winner in derby",
-      "description": "Lisandro Martínez branded the decision to allow Manchester City's winning goal against Manchester United as \"an injustice\" while Michael Carrick said it was an \"obvious\" error.",
-      "publishedAt": "2026-09-13T19:55:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716064_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49930265/lisandro-martinez-michael-carrick-manchester-united-blast-decision-allow-erling-haaland-manhester-city-winning-goal-derby",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49930538,
-      "source": "ESPN",
-      "headline": "Hutchison: Haaland's goal should have been disallowed",
-      "description": "Hutchison: Haaland's goal should have been disallowed",
-      "publishedAt": "2026-09-13T18:48:33Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Hutchison_Haalands_goal_should_have_been_disallowed/dm_260913_Hutchison_Haalands_goal_should_have_been_disallowed.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49930538/haaland-goal-disallowed",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-15T04:50:23.825Z"
+    "cachedAt": "2026-09-15T11:40:17.558Z"
   }
 }
