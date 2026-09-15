@@ -2,15 +2,42 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49950304,
+      "source": "ESPN",
+      "headline": "Man United need wins after bad week of JJ Gabriel unrest, protests and derby drama",
+      "description": "Things have gone from bad to worse this week for Man United, with defeats on and off the field. Victory against Brighton in midweek would go a long way to lifting the mood.",
+      "publishedAt": "2026-09-15T18:45:59Z",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717115_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49950304/manchester-united-jj-gabriel-fan-protests-manchester-derby-var-defeat-analysis-michael-carrick",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
       "id": 49948971,
       "source": "ESPN",
       "headline": "Man United wonderkid JJ Gabriel, 15, asks to leave club - sources",
       "description": "Manchester United wonderkid JJ Gabriel has asked to leave the club, sources have told ESPN.",
-      "publishedAt": "2026-09-15T16:49:42Z",
+      "publishedAt": "2026-09-15T18:44:08Z",
       "image": "https://a.espncdn.com/photo/2026/0915/r1717007_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49948971/man-united-starlet-jj-gabriel-15-asks-leave-club-sources",
       "tag": "Manchester United",
       "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49950514,
+      "source": "ESPN",
+      "headline": "Ogden: Manchester derby mistake has broken trust in VAR",
+      "description": "Ogden: Manchester derby mistake has broken trust in VAR",
+      "publishedAt": "2026-09-15T17:27:10Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_COM_SOC_Analysis_Ogden_Manchester_derby_mistake_has_broken_trust_in_VAR__20260915_GLOBAL/dm_260915_COM_SOC_Analysis_Ogden_Manchester_derby_mistake_has_broken_trust_in_VAR__20260915_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49950514/manchester-derby-mistake-broken-trust-var",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
         "Manchester United"
       ]
     },
@@ -104,19 +131,6 @@
         "Sunderland",
         "Hull City",
         "Coventry City"
-      ]
-    },
-    {
-      "id": 49947329,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, Bruno Fernandes contract talks stall",
-      "description": "Manchester United want to retain Bruno Fernandes and have begun talks over a new contract. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-15T12:37:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709025_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49947329/transfer-rumors-news-man-united-bruno-fernandes-contract-talks-stall",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
       ]
     },
     {
@@ -442,20 +456,6 @@
       ]
     },
     {
-      "id": 49703019,
-      "source": "ESPN",
-      "headline": "Premier League VAR review: How was Enzo Fernández not offside? Wrongly awarded goal costs Man United",
-      "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
-      "publishedAt": "2026-09-14T08:50:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716456_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49938044,
       "source": "ESPN",
       "headline": "Maresca: Fernandes should have been sent off with Foden",
@@ -487,6 +487,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-15T16:55:50.338Z"
+    "cachedAt": "2026-09-15T21:17:55.617Z"
   }
 }
