@@ -2,6 +2,104 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49957510,
+      "source": "ESPN",
+      "headline": "Omar Marmoush certain Tottenham close to finding the key to unlock their attack",
+      "description": "Spurs summer signing Omar Marmoush believes Tottenham are close to finding the key to turn around their terrible start to the season.",
+      "publishedAt": "2026-09-16T16:00:22Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717568_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49957510/omar-marmoush-spurs-premier-league-roberto-de-zerbi-james-maddison",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49957188,
+      "source": "ESPN",
+      "headline": "João Pedro wants a new nickname for Chelsea's goalscoring trio",
+      "description": "João Pedro called for a new nickname for Chelsea's in-form front three as he discussed his growing understanding with Cole Palmer and Morgan Rogers.",
+      "publishedAt": "2026-09-16T15:42:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717540_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49957188/joao-pedro-cole-palmer-morgan-rogers-chelsea-jp-morgan-cpr",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49955473,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barça, Madrid believe Haaland could exit Man City next summer",
+      "description": "Could LaLiga giants Barcelona and Real Madrid make a move for Manchester City star Erling Haaland next summer?Transfer talk has the latest.",
+      "publishedAt": "2026-09-16T15:10:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716041_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49955473/transfer-rumors-news-barca-madrid-believe-haaland-leave-man-city-next-summer",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 49956007,
+      "source": "ESPN",
+      "headline": "Soccer should learn from the NFL to fix the mess that VAR has created",
+      "description": "Is it time to give the VAR the red card, or does soccer actually need the red flag? The Manchester derby controversy could have been avoided with an on-field challenge.",
+      "publishedAt": "2026-09-16T13:51:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717460_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49956007/soccer-learn-nfl-fix-mess-var-created",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49956518,
+      "source": "ESPN",
+      "headline": "VAR right not to send off Arsenal's Gabriel for Emi Martínez kick, panel finds",
+      "description": "The referee and VAR were correct not to issue a red card to Arsenal defender Gabriel for his kick to the head of Chelsea goalkeeper Emiliano Martínez earlier this month, a panel has found.",
+      "publishedAt": "2026-09-16T13:21:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717485_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49956518/var-right-not-send-arsenal-gabriel-emi-martinez-kick-panel-finds",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49956431,
+      "source": "ESPN",
+      "headline": "Abdelkarim praises Norwegian striker, accepts 'Haaland of the Nile' comparison",
+      "description": "Abdelkarim praises Norwegian striker, accepts 'Haaland of the Nile' comparison",
+      "publishedAt": "2026-09-16T13:03:36Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0916/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison/dm_260916_Abdelkarim_praises_Norwegian_striker_accepts_Haaland_of_the_Nile_comparison.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49956431/abdelkarim-praises-norwegian-striker-accepts-haaland-nile-comparison",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona",
+        "Egypt",
+        "Manchester City",
+        "Norway"
+      ]
+    },
+    {
+      "id": 49956250,
+      "source": "ESPN",
+      "headline": "Leading sports barrister highlights 'incredible delay' on two-year anniversary of Man City hearing",
+      "description": "Leading sports barrister Nick De Marco has highlighted the \"most incredible delay\" in reaching an outcome in the key Manchester City legal case.",
+      "publishedAt": "2026-09-16T12:18:20Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717467_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49956250/man-city-115-charges-legal-case-premier-league-lord-david-pannick-nick-de-marco",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": 49955999,
       "source": "ESPN",
       "headline": "Big-spending Tottenham get £120m boost from owners - reports",
@@ -76,21 +174,6 @@
       "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
       "teams": []
-    },
-    {
-      "id": 49955473,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barça, Madrid believe Haaland could exit Man City next summer",
-      "description": "Could LaLiga giants Barcelona and Real Madrid make a move for Manchester City star Erling Haaland next summer?Transfer talk has the latest.",
-      "publishedAt": "2026-09-16T07:54:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716041_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49955473/transfer-rumors-news-barca-madrid-believe-haaland-leave-man-city-next-summer",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Barcelona",
-        "Real Madrid"
-      ]
     },
     {
       "id": "ac3615f95fdc0ebc3191db297b9ec8e8",
@@ -414,89 +497,6 @@
       ]
     },
     {
-      "id": 49939662,
-      "source": "ESPN",
-      "headline": "Arsenal to contact Pro Ref over Sunderland penalty incident - source",
-      "description": "Arsenal will contact Pro Ref, the body in charge of officiating in English football, over the decision to award Sunderland a penalty in Saturday's Premier League match at the Stadium of Light, a source has told ESPN.",
-      "publishedAt": "2026-09-14T17:35:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716509_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49939662/arsenal-contact-pro-ref-sunderland-penalty-incident-source",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49940750,
-      "source": "ESPN",
-      "headline": "VAR from Manchester derby not given a Premier League game for upcoming weekend",
-      "description": "The VAR who made an \"error of judgement\" in awarding a goal to Manchester City in Sunday's derby at Old Trafford has not been appointed to a Premier League game this weekend.",
-      "publishedAt": "2026-09-14T15:48:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716022_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49940750/var-manchester-derby-not-given-premier-league-games-upcoming-weekend",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49940193,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi leaves Richarlison out of Spurs' Carabao Cup squad for Liverpool clash",
-      "description": "Roberto De Zerbi has turned down the chance to include Richarlison in Tottenham's squad for Tuesday's Carabao Cup tie at Liverpool.",
-      "publishedAt": "2026-09-14T14:40:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712441_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49940193/roberto-de-zerbi-leaves-richarlison-spurs-carabao-cup-squad-liverpool-clash",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49940001,
-      "source": "ESPN",
-      "headline": "Iraola: Fulham draw was a step back for Liverpool",
-      "description": "Iraola: Fulham draw was a step back for Liverpool",
-      "publishedAt": "2026-09-14T13:54:13Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_Iraola_Fulham_draw_was_a_step_back_for_Liverpool/dm_260914_Iraola_Fulham_draw_was_a_step_back_for_Liverpool.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49940001/fulham-draw-was-step-back-liverpool",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49939998,
-      "source": "ESPN",
-      "headline": "Ex-Man United striker Wayne Rooney: 'Baffling' that VAR awarded Erling Haaland goal",
-      "description": "Former Manchester United striker Wayne Rooney said it was \"baffling\" VAR awarded Erling Haaland's winner in the Manchester derby.",
-      "publishedAt": "2026-09-14T13:53:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716456_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49939998/ex-man-united-striker-wayne-rooney-baffling-var-awarded-erling-haaland-goal",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49936126,
-      "source": "ESPN",
-      "headline": "Manchester derby defined by VAR drama; Real Madrid booed; Chelsea bullied by Hull",
-      "description": "Sunday's Manchester derby was fascinating and not just because of the referee/VAR errors. Also: Real Madrid get booed again, and Chelsea should be worried after being bullied by Hull City, as Gab Marcotti recaps the weekend.",
-      "publishedAt": "2026-09-14T13:22:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716497_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49936126/manchester-united-manchester-city-var-drama-real-madrid-chelsea-premier-league-analysis",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Manchester City",
-        "Real Madrid",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "55be933d19dbf91b68b29420561b2b2d",
       "source": "Sky Sports",
       "headline": "Carabao Cup: Four more ties plus fourth-round draw on Sky tonight!",
@@ -511,6 +511,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-16T11:27:41.234Z"
+    "cachedAt": "2026-09-16T16:50:51.720Z"
   }
 }
