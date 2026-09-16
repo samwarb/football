@@ -2,6 +2,97 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49952647,
+      "source": "ESPN",
+      "headline": "Liverpool's Andoni Iraola lauds Dominik Szoboszlai for 'worldie' in Tottenham win",
+      "description": "Andoni Iraola has heaped praise on midfielder Dominik Szoboszlai after he scored a \"worldie\" in Liverpool's 3-1 victory over Tottenham Hotspur.",
+      "publishedAt": "2026-09-15T23:10:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717265_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49952647/andoni-iraola-lauds-dominik-szoboszlai-worldie-tottenham-win",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "153253ee3936478de229cea6efb62b2f",
+      "source": "Sky Sports",
+      "headline": "Szoboszlai scores 30-yard SCREAMER as Liverpool beat Spurs to progress",
+      "description": "Highlights of the Carabao Cup match between Liverpool and Tottenham.",
+      "publishedAt": "2026-09-15T21:20:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-liverpool-tottenham_7352708.jpg?20260915222805",
+      "link": "https://www.skysports.com/watch/video/13586401/liverpool-3-1-spurs-carabao-cup-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "8aaa38b8e62e187e122c1803e44b0989",
+      "source": "Sky Sports",
+      "headline": "Dowman shines as Arsenal ease past Ipswich",
+      "description": "Highlights from the Carabao Cup round three clash between Ipswich and Arsenal.",
+      "publishedAt": "2026-09-15T21:04:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-arsenal-ipswich_7352672.jpg?20260915220756",
+      "link": "https://www.skysports.com/watch/video/13586378/ipswich-town-2-4-arsenal-carabao-cup-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "0118bc5ab213dd9b858bf25df5a86a4a",
+      "source": "Sky Sports",
+      "headline": "Peterborough edge out Barnsley on penalties after six-goal thriller",
+      "description": "Peterborough moved into the fourth round of the Carabao Cup for the first time since 2009 thanks to a 7-6 penalty shootout victory over Barnsley that followed a thrilling 3-3 draw between the two League One sides.",
+      "publishedAt": "2026-09-15T20:35:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-peterborough-barnsley_7352759.jpg?20260915233750",
+      "link": "https://www.skysports.com/football/peterborough-united-vs-barnsley/report/577583",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "3453f3f706040764693a2d8f5e65d36d",
+      "source": "Sky Sports",
+      "headline": "Fulham edge West Ham in five-goal thriller",
+      "description": "Fulham came out on top of a thrilling London derby as they reached the fourth round of the Carabao Cup with a 3-2 win over West Ham.",
+      "publishedAt": "2026-09-15T20:35:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-oscar-bobb_7352609.jpg?20260915213107",
+      "link": "https://www.skysports.com/football/west-ham-united-vs-fulham/report/577587",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "1645edd299724787e4021c4b4612ec89",
+      "source": "Sky Sports",
+      "headline": "Spurs do score but Szoboszlai stunner seals cup tie for Liverpool",
+      "description": "Dominik Szoboszlai’s stunning strike sealed a 3-1 win for Liverpool over Tottenham in the third round of the Carabao Cup at Anfield.",
+      "publishedAt": "2026-09-15T20:35:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-dominik-szoboszlai_7352680.jpg?20260915220857",
+      "link": "https://www.skysports.com/football/liverpool-vs-tottenham-hotspur/report/577579",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "b83c13d0e048377743a6a3e15872e6dc",
+      "source": "Sky Sports",
+      "headline": "Lincoln win at Bristol City to haunt old boss Skubala",
+      "description": "Bristol City boss Michael Skubala suffered defeat at the hands of his former club as Freddie Draper's second-half goal proved enough to give Lincoln a 1-0 Championship victory.",
+      "publishedAt": "2026-09-15T20:35:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lincoln-city-bristol_7352619.jpg?20260915213959",
+      "link": "https://www.skysports.com/football/bristol-city-vs-lincoln-city/report/560560",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "9e6eff12a660fe611ac3bc38d29c2f7b",
+      "source": "Sky Sports",
+      "headline": "Middlesbrough battle back for point but miss chance to go top",
+      "description": "Middlesbrough missed out on the chance to climb to the top of the Sky Bet Championship despite coming from behind to earn a 2-2 draw with Millwall.",
+      "publishedAt": "2026-09-15T20:35:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-middlesbrough-fc_7352585.jpg?20260915211146",
+      "link": "https://www.skysports.com/football/middlesbrough-vs-millwall/report/560562",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49950304,
       "source": "ESPN",
       "headline": "Man United need wins after bad week of JJ Gabriel unrest, protests and derby drama",
@@ -56,28 +147,6 @@
       ]
     },
     {
-      "id": "d0970ec19d92541b60f54914448b46fe",
-      "source": "Sky Sports",
-      "headline": "Webb: VAR had 'tunnel vision' on Haaland which led to Enzo error",
-      "description": "Pro Ref chief Howard Webb says VAR missed Enzo Fernandez being offside for Erling Haaland's winning goal in the Manchester derby due to \"tunnel vision\".",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-micd-up_7352330.jpg?20260915150810",
-      "link": "https://www.skysports.com/football/news/12040/13586101/pro-ref-chief-howard-webb-admits-var-had-tunnel-vision-on-erling-haaland-leading-to-enzo-fernandez-error",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "3e5a151e2a18b4c05e75b5d48a4ee9dc",
-      "source": "Sky Sports",
-      "headline": "Webb: Foden red justified but Fernandes escaped yellow for 'petulant' kick",
-      "description": "Pro Ref chief Howard Webb has backed the decision to send off Phil Foden in the Manchester derby but revealed VAR could not intervene to caution Bruno Fernandes for the \"petulant\" kick that sparked the altercation.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-bruno-fernandes-phil-foden_7352408.jpg?20260915172646",
-      "link": "https://www.skysports.com/football/news/12040/13586192/pro-ref-chief-howard-webb-agrees-with-phil-foden-red-card-in-manchester-derby-but-admits-bruno-fernandes-should-have-been-booked",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49940737,
       "source": "ESPN",
       "headline": "Judging Premier League overreactions: Title race down to Arsenal and Man City?",
@@ -90,17 +159,6 @@
         "Arsenal",
         "Manchester City"
       ]
-    },
-    {
-      "id": "c93b1315c577dd66dfc542d41fbb06a7",
-      "source": "Sky Sports",
-      "headline": "Scot Prem latest: Celtic legend McGrain diagnosed with Alzheimer’s",
-      "description": "",
-      "publishedAt": "2026-09-15T14:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-danny-mcgrain-celtic_7352332.jpg?20260915150906",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49945295,
@@ -146,17 +204,6 @@
         "Manchester United",
         "Cameroon"
       ]
-    },
-    {
-      "id": "044a6b79c5e30e8da260579e28d0a4ef",
-      "source": "Sky Sports",
-      "headline": "Sterling admits driving Lamborghini dangerously ahead of motorway crash",
-      "description": "England footballer Raheem Sterling has admitted dangerously driving a Lamborghini on the motorway.",
-      "publishedAt": "2026-09-15T09:14:00.000Z",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-raheem-sterling-feyenoord_7261497.jpg?20260530104513",
-      "link": "https://www.skysports.com/football/news/12040/13586078/raheem-sterling-admits-driving-lamborghini-dangerously-ahead-of-motorway-crash",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49947483,
@@ -376,17 +423,6 @@
       ]
     },
     {
-      "id": "015a2b0a7032aa9897680de3924a6d4a",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Donnarumma reflects on derby win and discusses 'harsh' Foden red",
-      "description": "",
-      "publishedAt": "2026-09-14T13:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49936126,
       "source": "ESPN",
       "headline": "Manchester derby defined by VAR drama; Real Madrid booed; Chelsea bullied by Hull",
@@ -470,23 +506,20 @@
       ]
     },
     {
-      "id": 49938008,
-      "source": "ESPN",
-      "headline": "Carrick fumes over 'worrying' officiating standards after VAR mistake",
-      "description": "Carrick fumes over 'worrying' officiating standards after VAR mistake",
-      "publishedAt": "2026-09-14T07:33:57Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Presser_Carrick_fumes_over_worrying_officiating_standards_after_VAR_mistake_20260914_G/dm_260914_COM_SOC_Presser_Carrick_fumes_over_worrying_officiating_standards_after_VAR_mistake_20260914_G.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49938008/carrick-fumes-worrying-officiating-standards-var-mistake",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
+      "id": "124ade291478b44d31be52b51f0ab22a",
+      "source": "Sky Sports",
+      "headline": "Brentford hold off Reading to reach round four of Carabao Cup",
+      "description": "Brentford emerged from a tense finish against Reading to book their place in the Carabao Cup fourth round with a 2-1 victory at Select Car Leasing Stadium.",
+      "publishedAt": "2026-09-08T20:35:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-reading-brentford_7352752.jpg?20260915233227",
+      "link": "https://www.skysports.com/football/reading-vs-brentford/report/577584",
+      "tag": "Report",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-15T21:17:55.617Z"
+    "cachedAt": "2026-09-16T04:45:36.758Z"
   }
 }
