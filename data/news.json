@@ -2,6 +2,55 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49958777,
+      "source": "ESPN",
+      "headline": "Chelsea's João Pedro withdraws from Brazil squad with injury",
+      "description": "Chelsea striker João Pedro has withdrawn from the Brazil squad because of injury.",
+      "publishedAt": "2026-09-16T18:53:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717671_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49958777/chelsea-joao-pedro-brazil-squad-injury-friendlies",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Brazil"
+      ]
+    },
+    {
+      "id": 49958149,
+      "source": "ESPN",
+      "headline": "Arsenal's Mikel Merino: 'Special talent' Max Dowman has similarities with Lamine Yamal",
+      "description": "Arsenal midfielder Mikel Merino has hailed Max Dowman as a \"special talent\" and believes there are similarities to his Spanish compatriot Lamine Yamal.",
+      "publishedAt": "2026-09-16T18:04:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717633_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49958149/arsenal-merino-special-talent-max-dowman-similarities-lamine-yamal",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "60694303166f1ae0665f492e92faf60d",
+      "source": "Sky Sports",
+      "headline": "Hibernian sack Gray amid winless run",
+      "description": "Hibernian have sacked head coach David Gray with the club ninth in the Scottish Premiership.",
+      "publishedAt": "2026-09-16T16:22:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-gray-david-hibs_7353576.jpg?20260916114432",
+      "link": "https://www.skysports.com/football/news/12040/13588540/david-gray-hibernian-sack-head-coach-with-club-ninth-in-scottish-premiership-after-kilmarnock-defeat",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "833eb30c739d49f92578e0500b27ac58",
+      "source": "Sky Sports",
+      "headline": "Arsenal latest: Merino sees similarities to Lamine Yamal with Dowman",
+      "description": "",
+      "publishedAt": "2026-09-16T16:07:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49957510,
       "source": "ESPN",
       "headline": "Omar Marmoush certain Tottenham close to finding the key to unlock their attack",
@@ -25,21 +74,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 49955473,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barça, Madrid believe Haaland could exit Man City next summer",
-      "description": "Could LaLiga giants Barcelona and Real Madrid make a move for Manchester City star Erling Haaland next summer?Transfer talk has the latest.",
-      "publishedAt": "2026-09-16T15:10:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716041_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49955473/transfer-rumors-news-barca-madrid-believe-haaland-leave-man-city-next-summer",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Barcelona",
-        "Real Madrid"
       ]
     },
     {
@@ -113,6 +147,17 @@
       ]
     },
     {
+      "id": "e1e3dc50327a5442ea6667cff479f8b3",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Watch Szoboszlai's best goals and vote which is the best...",
+      "description": "",
+      "publishedAt": "2026-09-16T11:18:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49955946,
       "source": "ESPN",
       "headline": "Cole Palmer temporarily suspended from Twitch after streaming EA FC 27 early: 'Unban me pls'",
@@ -124,17 +169,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "0cc174d7db0612a37498e6a9470b77ad",
-      "source": "Sky Sports",
-      "headline": "Arsenal latest: Gabriel kick on Martinez was NOT red card, says KMI panel",
-      "description": "",
-      "publishedAt": "2026-09-16T10:15:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49955685,
@@ -165,57 +199,13 @@
       ]
     },
     {
-      "id": "6aa540195b646c501cd8216dddbd120f",
+      "id": "ed476eac0d668644d0f4109c86a59dbf",
       "source": "Sky Sports",
-      "headline": "Man City latest: Maresca wants focus on 'unbelievable' derby performance",
+      "headline": "Man City latest: Director of football Viana on summer transfer window and Maresca",
       "description": "",
       "publishedAt": "2026-09-16T08:00:00.000Z",
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
       "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "ac3615f95fdc0ebc3191db297b9ec8e8",
-      "source": "Sky Sports",
-      "headline": "Eating grass, meditation and more – What Tuchel said in viral documentary",
-      "description": "Thomas Tuchel wishes he'd eaten grass from the Azteca pitch after England's World Cup win over Mexico this summer.",
-      "publishedAt": "2026-09-16T07:30:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7291130.jpg?20260706123454",
-      "link": "https://www.skysports.com/football/news/12040/13588472/thomas-tuchel-england-boss-on-world-cup-reflections-wishing-hed-eaten-azteca-grass-and-an-exciting-future",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "9efa75e1e94ee0e001b65adf4dd99919",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Koumas and McConnell deserve to play, says Szoboszlai",
-      "description": "",
-      "publishedAt": "2026-09-16T07:00:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "876ad002b7f7b9e94dc2362b3f139b39",
-      "source": "Sky Sports",
-      "headline": "Donnarumma: Man City are not in transition, it's going to be a great season",
-      "description": "\"This is who we are. This is our team. This is City.\"",
-      "publishedAt": "2026-09-16T07:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-gianluigi-donnarumma_7351973.jpg?20260915093227",
-      "link": "https://www.skysports.com/football/news/12040/13586227/gianluigi-donnarumma-interview-man-city-goalkeeper-insists-club-are-not-in-a-transition-year-and-backs-club-to-have-a-great-season",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "8ae361ce0638c5f2f02fe69cc293d240",
-      "source": "Sky Sports",
-      "headline": "Real Madrid score injury-time winner to move level on points with leaders Barcelona",
-      "description": "",
-      "publishedAt": "2026-09-16T06:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-real-madrid-arda-guler_7353332.jpg?20260916073145",
-      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "tag": "Liveblog",
       "teams": []
     },
@@ -481,36 +471,11 @@
         "Leeds United",
         "Newcastle United"
       ]
-    },
-    {
-      "id": 49897667,
-      "source": "ESPN",
-      "headline": "Unbeaten Leeds cruise past Newcastle 4-1 in Premier League clash",
-      "description": "Leeds sent sorry Newcastle spinning to a 4-1 defeat at Elland Road to extend their unbeaten Premier League start and climb to third in the table.",
-      "publishedAt": "2026-09-14T21:23:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716677_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879280",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": "55be933d19dbf91b68b29420561b2b2d",
-      "source": "Sky Sports",
-      "headline": "Carabao Cup: Four more ties plus fourth-round draw on Sky tonight!",
-      "description": "Watch every Carabao Cup third-round tie this week live on Sky Sports!",
-      "publishedAt": "2026-09-14T11:22:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-carabao-cup-trophy_7311954.jpg?20260801184714",
-      "link": "https://www.skysports.com/football/news/12040/13585806/carabao-cup-2026-27-watch-liverpool-spurs-arsenal-man-utd-and-man-city-with-every-game-live-on-sky-sports",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-16T16:50:51.720Z"
+    "cachedAt": "2026-09-16T21:15:27.305Z"
   }
 }
