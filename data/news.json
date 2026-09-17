@@ -2,6 +2,148 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49960706,
+      "source": "ESPN",
+      "headline": "Boehly, Walter sell Chelsea stakes as Clearlake takes full control",
+      "description": "Clearlake Capital has taken full control of Chelsea after acquiring the ownership stakes of Mark Walter and Todd Boehly, the Premier League club announced Wednesday.",
+      "publishedAt": "2026-09-16T23:59:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717842_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49960706/chelsea-clarlake-capital-todd-boehly-mark-walter-ownership",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49960828,
+      "source": "ESPN",
+      "headline": "Man United will be 'careful' with Gabriel future, Carrick says",
+      "description": "Michael Carrick confirmed he is involved in conversations about JJ Gabriel's future after the 15-year-old's request to leave Manchester United made major ripples and that the team is being \"careful\" with the situation.",
+      "publishedAt": "2026-09-16T23:43:16Z",
+      "image": "sportscenter://x-callback-url/showStory?uid=49950304",
+      "link": "https://www.espn.com/soccer/story/_/id/49960828/man-united-careful-gabriel-future",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49960829,
+      "source": "ESPN",
+      "headline": "Man United's collapse puts Carrick under pressure for first time",
+      "description": "After being eliminated to Brighton & Hove Albion in the Carabao Cup, Manchester United boss Michael Carrick is now facing the first real pressure of his reign.",
+      "publishedAt": "2026-09-16T23:34:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717818_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49960829/manchester-united-collapse-puts-michael-carrick-pressure-first",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 49960667,
+      "source": "ESPN",
+      "headline": "Michael Carrick: 'We can't accept' Man United showing in Carabao Cup exit, 'I take responsibility'",
+      "description": "Michael Carrick branded Manchester United's capitulation as unacceptable, after watching his team lose 3-2 to Brighton in the Carabao Cup after leading 2-0.",
+      "publishedAt": "2026-09-16T22:58:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717812_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49960667/michael-carrick-accept-manchester-united-showing-carabao-cup-exit-take-responsibility",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": "74cc9db8c678f5233dab29e46e21c27d",
+      "source": "Sky Sports",
+      "headline": "Brighton latest: Belief and character helped beat Man Utd, says Hurzeler",
+      "description": "",
+      "publishedAt": "2026-09-16T22:25:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "3decdd388610a877828014ceeb0609b4",
+      "source": "Sky Sports",
+      "headline": "Papers: Shaw may leave Man Utd next summer with no new deal in sight",
+      "description": "The top stories and transfer rumours from Thursday's newspapers...",
+      "publishedAt": "2026-09-16T22:20:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13588777/luke-shaw-may-leave-manchester-united-next-summer-with-no-new-deal-in-sight-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "4f74ac3a24a23f79e4874d5fece2fb0a",
+      "source": "Sky Sports",
+      "headline": "Everton latest: Dibling’s progression hailed as he shines in Wolves win",
+      "description": "",
+      "publishedAt": "2026-09-16T22:12:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "c2ccfa4bbeb5d6295d3d8b75fa6c8fc2",
+      "source": "Sky Sports",
+      "headline": "Liverpool face Chelsea as Carabao Cup fourth-round draw confirmed",
+      "description": "Liverpool will host Chelsea in the fourth round of the Carabao Cup, while Premier League champions Arsenal have drawn the lowest-ranked side left in the competition, Fleetwood Town.",
+      "publishedAt": "2026-09-16T21:36:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-liverpool-chelsea_7354106.jpg?20260916224146",
+      "link": "https://www.skysports.com/football/news/12040/13588651/carabao-cup-fourth-round-draw-liverpool-to-host-chelsea-as-arsenal-drawn-away-to-league-two-fleetwood",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "fe5d48be12d69cf79ce8bbd96d8ea3e4",
+      "source": "Sky Sports",
+      "headline": "Everton strike late to beat much-changed Wolves in Carabao Cup",
+      "description": "Substitute Charly Alcaraz hit a late winner to give Everton a 1-0 home win over much-changed Wolves in the third round of the Carabao Cup.",
+      "publishedAt": "2026-09-16T21:10:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-everton-charly-alcaraz_7354121.jpg?20260916225417",
+      "link": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/report/577575",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "c546659ae9651f8c25e7a4c1c020ace1",
+      "source": "Sky Sports",
+      "headline": "Horror own goal sees Fleetwood shock Sheff Utd and book Arsenal tie",
+      "description": "Rhys Norrington-Davies' horror own goal sent Fleetwood into the last 16 of the Carabao Cup for the first time as the League Two side stunned Championship Sheffield United 1-0 at Highbury.",
+      "publishedAt": "2026-09-16T20:35:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-fleetwood-sheffield-united_7354076.jpg?20260916222052",
+      "link": "https://www.skysports.com/football/fleetwood-town-vs-sheffield-united/report/577576",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "d56c858fa42f5707558a3c0060429a7d",
+      "source": "Sky Sports",
+      "headline": "Abraham double helps Villa cruise past Coventry into fourth round",
+      "description": "Tammy Abraham scored twice as Aston Villa won 3-1 at Coventry City to book their place in the fourth round of the Carabao Cup.",
+      "publishedAt": "2026-09-16T20:35:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-aston-villa-tammy-abraham_7354054.jpg?20260916220656",
+      "link": "https://www.skysports.com/football/coventry-city-vs-aston-villa/report/577573",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "2cfafa45346df45fb9235186bac4d362",
+      "source": "Sky Sports",
+      "headline": "Man Utd collapse from 2-0 up to exit Carabao Cup to Brighton",
+      "description": "Manchester United hit a new low under Michael Carrick as they threw away a two-goal lead to lose 3-2 to Brighton - and exit the Carabao Cup at the first hurdle for a second straight year.",
+      "publishedAt": "2026-09-16T20:35:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-utd-brighton_7354036.jpg?20260916214341",
+      "link": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/report/577581",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49958777,
       "source": "ESPN",
       "headline": "Chelsea's João Pedro withdraws from Brazil squad with injury",
@@ -27,28 +169,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "60694303166f1ae0665f492e92faf60d",
-      "source": "Sky Sports",
-      "headline": "Hibernian sack Gray amid winless run",
-      "description": "Hibernian have sacked head coach David Gray with the club ninth in the Scottish Premiership.",
-      "publishedAt": "2026-09-16T16:22:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-gray-david-hibs_7353576.jpg?20260916114432",
-      "link": "https://www.skysports.com/football/news/12040/13588540/david-gray-hibernian-sack-head-coach-with-club-ninth-in-scottish-premiership-after-kilmarnock-defeat",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "833eb30c739d49f92578e0500b27ac58",
-      "source": "Sky Sports",
-      "headline": "Arsenal latest: Merino sees similarities to Lamine Yamal with Dowman",
-      "description": "",
-      "publishedAt": "2026-09-16T16:07:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49957510,
@@ -147,17 +267,6 @@
       ]
     },
     {
-      "id": "e1e3dc50327a5442ea6667cff479f8b3",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Watch Szoboszlai's best goals and vote which is the best...",
-      "description": "",
-      "publishedAt": "2026-09-16T11:18:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49955946,
       "source": "ESPN",
       "headline": "Cole Palmer temporarily suspended from Twitch after streaming EA FC 27 early: 'Unban me pls'",
@@ -197,17 +306,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "ed476eac0d668644d0f4109c86a59dbf",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Director of football Viana on summer transfer window and Maresca",
-      "description": "",
-      "publishedAt": "2026-09-16T08:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49952647,
@@ -417,65 +515,20 @@
       ]
     },
     {
-      "id": 49943897,
-      "source": "ESPN",
-      "headline": "Hislop: Arteta playing mind games with referees over Sunderland penalty",
-      "description": "Hislop: Arteta playing mind games with referees over Sunderland penalty",
-      "publishedAt": "2026-09-14T22:43:52Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Analysis_Hislop_Arteta_playing_mind_games_with_referees_over_Sunderland_penalty_2026091/dm_260914_COM_SOC_Analysis_Hislop_Arteta_playing_mind_games_with_referees_over_Sunderland_penalty_2026091.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49943897/arteta-playing-mind-games-referees-sunderland-penalty",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49943722,
-      "source": "ESPN",
-      "headline": "Burley: VAR issues caused by incompetent humans, not technology",
-      "description": "Burley: VAR issues caused by incompetent humans, not technology",
-      "publishedAt": "2026-09-14T22:20:00Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49943722/var-issues-caused-incompetent-humans-not-technology",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49937841,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye move for Bournemouth's Rayan",
-      "description": "Liverpool are reportedly looking to sign Bournemouth's Rayan next summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-14T21:43:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716721_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49937841/transfer-rumors-news-arsenal-keeping-tabs-liverpool-teen-ngumoha",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 49943268,
-      "source": "ESPN",
-      "headline": "Burley: Newcastle 'a shell of themselves' after 4-1 defeat to Leeds",
-      "description": "Burley: Newcastle 'a shell of themselves' after 4-1 defeat to Leeds",
-      "publishedAt": "2026-09-14T21:29:38Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Analysis_Burley_Newcastle_a_shell_of_themselves_after_4_1_defeat_to_Leeds_20260914_GL/dm_260914_COM_SOC_Analysis_Burley_Newcastle_a_shell_of_themselves_after_4_1_defeat_to_Leeds_20260914_GL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49943268/newcastle-shell-4-1-defeat-leeds",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United",
-        "Newcastle United"
-      ]
+      "id": "707df771dd9fb23252848c6774e3bff5",
+      "source": "Sky Sports",
+      "headline": "Sunderland begin European adventure with AZ Alkmaar win",
+      "description": "Enzo Le Fee's penalty ensured Sunderland kicked off their Europa League adventure with a 1-0 win over AZ Alkmaar at the Stadium of Light.",
+      "publishedAt": "2026-07-22T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-enzo-le-fee-wilson-isidor_7354053.jpg?20260916220445",
+      "link": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/report/577749",
+      "tag": "Report",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-16T21:15:27.305Z"
+    "cachedAt": "2026-09-17T04:48:42.981Z"
   }
 }
