@@ -2,6 +2,123 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49957535,
+      "source": "ESPN",
+      "headline": "World soccer's hottest men's teams right now: Can anyone stop Barcelona?",
+      "description": "Is there any team hotter in world soccer right now than Barcelona? Bill Connelly crunches the numbers to tell us the most in-form European teams heading into the international break.",
+      "publishedAt": "2026-09-17T11:33:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717661_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49957535/soccer-hottest-teams-form-analysis-barcelona-arsenal-psg",
+      "tag": "Barcelona",
+      "teams": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 49963233,
+      "source": "ESPN",
+      "headline": "Liverpool's Dominik Szoboszlai on his best position: 'I just want to be on the pitch'",
+      "description": "Liverpool midfielder Dominik Szoboszlai has said he does not mind where he plays under Andoni Iraola amid criticism of his recent performances.",
+      "publishedAt": "2026-09-17T11:01:29Z",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1717982_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49963233/liverpool-dominik-szoboszlai-andoni-iraola",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ab9cb9b1f36e198369443de8e4c532f9",
+      "source": "Sky Sports",
+      "headline": "'Man City are not champions' - Why Greenwood's claim should scare rivals",
+      "description": "Manchester City have set their stall out scarily early. Captain Alex Greenwood did so in pre-season. \"A true champion is someone who goes and wins again. A winner might be one-off. But a champion does it over and over.\"",
+      "publishedAt": "2026-09-17T11:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-wsl-womens-super-league_7319389.jpg?20260812071000",
+      "link": "https://www.skysports.com/football/news/12040/13579874/man-city-vs-liverpool-why-graduating-from-wsl-winner-to-champion-is-so-important-to-alex-greenwood",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49958777,
+      "source": "ESPN",
+      "headline": "Chelsea's João Pedro withdraws from Brazil squad with injury",
+      "description": "Chelsea striker João Pedro has withdrawn from the Brazil squad because of injury.",
+      "publishedAt": "2026-09-17T10:49:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717671_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49958777/chelsea-joao-pedro-brazil-squad-injury-friendlies",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Brazil"
+      ]
+    },
+    {
+      "id": 49962983,
+      "source": "ESPN",
+      "headline": "Andy Burnham watches Everton with Canadian PM Mark Carney",
+      "description": "British Prime Minister Andy Burnham enjoyed Everton's Carabao Cup victory over Wolves on Wednesday with Canadian counterpart and fellow Toffees fan Mark Carney.",
+      "publishedAt": "2026-09-17T10:46:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1717967_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49962983/andy-burnham-watches-everton-canadian-pm-mark-carney",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Wolverhampton"
+      ]
+    },
+    {
+      "id": "025af1b3653f2c110a9fc889ade39f29",
+      "source": "Sky Sports",
+      "headline": "Tuchel must win back trust ahead of pivotal England camp",
+      "description": "Despite achieving England's best-ever World Cup performance on foreign soil, this international break feels like a pivotal moment in Thomas Tuchel's tenure.",
+      "publishedAt": "2026-09-17T09:13:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7300317.jpg?20260717184818",
+      "link": "https://www.skysports.com/football/news/12040/13588885/thomas-tuchel-england-manager-faces-pivotal-international-break-to-win-over-some-players-and-supporters-after-world-cup-exit",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49962718,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal still keen on Real Madrid winger Rodrygo",
+      "description": "Arsenal remain in contact with the camp of Real Madrid winger Rodrygo as a potential long-term target Transfer talk has the latest.",
+      "publishedAt": "2026-09-17T09:08:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0427/r1649941_3_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49962718/transfer-rumors-news-arsenal-keen-real-madrid-winger-rodrygo",
+      "tag": "Real Madrid",
+      "teams": [
+        "Real Madrid",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 49960829,
+      "source": "ESPN",
+      "headline": "Man United's collapse puts Carrick under pressure for first time",
+      "description": "After being eliminated by Brighton & Hove Albion in the Carabao Cup, Manchester United boss Michael Carrick is now facing the first real pressure of his reign.",
+      "publishedAt": "2026-09-17T08:51:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717818_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49960829/manchester-united-collapse-puts-michael-carrick-pressure-first",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 49960828,
+      "source": "ESPN",
+      "headline": "Man United will be 'careful' with Gabriel future, Carrick says",
+      "description": "Michael Carrick confirmed he is involved in conversations about JJ Gabriel's future after the 15-year-old's request to leave Manchester United made major ripples and that the team is being \"careful\" with the situation.",
+      "publishedAt": "2026-09-17T07:35:28Z",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717007_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49960828/man-united-careful-gabriel-future",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
       "id": 49960706,
       "source": "ESPN",
       "headline": "Boehly, Walter sell Chelsea stakes as Clearlake takes full control",
@@ -12,33 +129,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 49960828,
-      "source": "ESPN",
-      "headline": "Man United will be 'careful' with Gabriel future, Carrick says",
-      "description": "Michael Carrick confirmed he is involved in conversations about JJ Gabriel's future after the 15-year-old's request to leave Manchester United made major ripples and that the team is being \"careful\" with the situation.",
-      "publishedAt": "2026-09-16T23:43:16Z",
-      "image": "sportscenter://x-callback-url/showStory?uid=49950304",
-      "link": "https://www.espn.com/soccer/story/_/id/49960828/man-united-careful-gabriel-future",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49960829,
-      "source": "ESPN",
-      "headline": "Man United's collapse puts Carrick under pressure for first time",
-      "description": "After being eliminated to Brighton & Hove Albion in the Carabao Cup, Manchester United boss Michael Carrick is now facing the first real pressure of his reign.",
-      "publishedAt": "2026-09-16T23:34:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717818_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49960829/manchester-united-collapse-puts-michael-carrick-pressure-first",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Brighton & Hove Albion"
       ]
     },
     {
@@ -56,108 +146,6 @@
       ]
     },
     {
-      "id": "74cc9db8c678f5233dab29e46e21c27d",
-      "source": "Sky Sports",
-      "headline": "Brighton latest: Belief and character helped beat Man Utd, says Hurzeler",
-      "description": "",
-      "publishedAt": "2026-09-16T22:25:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "3decdd388610a877828014ceeb0609b4",
-      "source": "Sky Sports",
-      "headline": "Papers: Shaw may leave Man Utd next summer with no new deal in sight",
-      "description": "The top stories and transfer rumours from Thursday's newspapers...",
-      "publishedAt": "2026-09-16T22:20:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13588777/luke-shaw-may-leave-manchester-united-next-summer-with-no-new-deal-in-sight-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "4f74ac3a24a23f79e4874d5fece2fb0a",
-      "source": "Sky Sports",
-      "headline": "Everton latest: Dibling’s progression hailed as he shines in Wolves win",
-      "description": "",
-      "publishedAt": "2026-09-16T22:12:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "c2ccfa4bbeb5d6295d3d8b75fa6c8fc2",
-      "source": "Sky Sports",
-      "headline": "Liverpool face Chelsea as Carabao Cup fourth-round draw confirmed",
-      "description": "Liverpool will host Chelsea in the fourth round of the Carabao Cup, while Premier League champions Arsenal have drawn the lowest-ranked side left in the competition, Fleetwood Town.",
-      "publishedAt": "2026-09-16T21:36:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-liverpool-chelsea_7354106.jpg?20260916224146",
-      "link": "https://www.skysports.com/football/news/12040/13588651/carabao-cup-fourth-round-draw-liverpool-to-host-chelsea-as-arsenal-drawn-away-to-league-two-fleetwood",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "fe5d48be12d69cf79ce8bbd96d8ea3e4",
-      "source": "Sky Sports",
-      "headline": "Everton strike late to beat much-changed Wolves in Carabao Cup",
-      "description": "Substitute Charly Alcaraz hit a late winner to give Everton a 1-0 home win over much-changed Wolves in the third round of the Carabao Cup.",
-      "publishedAt": "2026-09-16T21:10:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-everton-charly-alcaraz_7354121.jpg?20260916225417",
-      "link": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/report/577575",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "c546659ae9651f8c25e7a4c1c020ace1",
-      "source": "Sky Sports",
-      "headline": "Horror own goal sees Fleetwood shock Sheff Utd and book Arsenal tie",
-      "description": "Rhys Norrington-Davies' horror own goal sent Fleetwood into the last 16 of the Carabao Cup for the first time as the League Two side stunned Championship Sheffield United 1-0 at Highbury.",
-      "publishedAt": "2026-09-16T20:35:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-fleetwood-sheffield-united_7354076.jpg?20260916222052",
-      "link": "https://www.skysports.com/football/fleetwood-town-vs-sheffield-united/report/577576",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "d56c858fa42f5707558a3c0060429a7d",
-      "source": "Sky Sports",
-      "headline": "Abraham double helps Villa cruise past Coventry into fourth round",
-      "description": "Tammy Abraham scored twice as Aston Villa won 3-1 at Coventry City to book their place in the fourth round of the Carabao Cup.",
-      "publishedAt": "2026-09-16T20:35:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-aston-villa-tammy-abraham_7354054.jpg?20260916220656",
-      "link": "https://www.skysports.com/football/coventry-city-vs-aston-villa/report/577573",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "2cfafa45346df45fb9235186bac4d362",
-      "source": "Sky Sports",
-      "headline": "Man Utd collapse from 2-0 up to exit Carabao Cup to Brighton",
-      "description": "Manchester United hit a new low under Michael Carrick as they threw away a two-goal lead to lose 3-2 to Brighton - and exit the Carabao Cup at the first hurdle for a second straight year.",
-      "publishedAt": "2026-09-16T20:35:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-utd-brighton_7354036.jpg?20260916214341",
-      "link": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/report/577581",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 49958777,
-      "source": "ESPN",
-      "headline": "Chelsea's João Pedro withdraws from Brazil squad with injury",
-      "description": "Chelsea striker João Pedro has withdrawn from the Brazil squad because of injury.",
-      "publishedAt": "2026-09-16T18:53:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717671_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49958777/chelsea-joao-pedro-brazil-squad-injury-friendlies",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Brazil"
-      ]
-    },
-    {
       "id": 49958149,
       "source": "ESPN",
       "headline": "Arsenal's Mikel Merino: 'Special talent' Max Dowman has similarities with Lamine Yamal",
@@ -169,6 +157,17 @@
       "teams": [
         "Arsenal"
       ]
+    },
+    {
+      "id": "6782d8ef891f16c0140dccf005483f78",
+      "source": "Sky Sports",
+      "headline": "Arsenal latest: Havertz granted rest time during international break",
+      "description": "",
+      "publishedAt": "2026-09-16T16:07:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49957510,
@@ -322,6 +321,17 @@
       ]
     },
     {
+      "id": "2810ecb4c146b210585c49c9ab7cb1bf",
+      "source": "Sky Sports",
+      "headline": "45 players! Klopp picks TWO separate Germany squads for international break",
+      "description": "",
+      "publishedAt": "2026-09-15T22:45:00.000Z",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jurgen-klopp-germany_7305661.jpg?20260724110858",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 49950304,
       "source": "ESPN",
       "headline": "Man United need wins after bad week of JJ Gabriel unrest, protests and derby drama",
@@ -448,19 +458,6 @@
       ]
     },
     {
-      "id": 49943886,
-      "source": "ESPN",
-      "headline": "Mikel Arteta promises Max Dowman minutes this season but warns they must be earned",
-      "description": "Mikel Arteta has insisted Arsenal starlet Max Dowman will get minutes this season but warned they must be earned ahead of Tuesday's Carabao Cup fourth-round tie at Ipswich.",
-      "publishedAt": "2026-09-15T07:44:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703351_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49943886/mikel-arteta-promises-max-dowman-minutes-season-warns-earned",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": 49947453,
       "source": "ESPN",
       "headline": "Arteta: Max Dowman will 'earn his minutes like anybody else'",
@@ -473,62 +470,11 @@
         "Arsenal",
         "Ipswich Town"
       ]
-    },
-    {
-      "id": 49947328,
-      "source": "ESPN",
-      "headline": "Jamie Carragher on Mikel Arteta referee rant: 'Becoming Sir Alex Ferguson of Premier League now'",
-      "description": "Jamie Carragher has compared Arsenal boss Mikel Arteta to Sir Alex Ferguson for the manner in which he criticised referees following the Gunners' 2-0 win over Sunderland.",
-      "publishedAt": "2026-09-15T07:19:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716919_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49947328/jamie-carragher-mikel-arteta-referee-rant-becoming-sir-alex-ferguson-premier-league-now",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49947285,
-      "source": "ESPN",
-      "headline": "Cesc Fabregas takes inspiration from Arsenal 'set-play goals' as Como win again",
-      "description": "Cesc Fabregas said he wants his Como side to follow Arsenal's lead in having defenders score more from set-pieces after they continued their unbeaten start to the Serie A season.",
-      "publishedAt": "2026-09-15T07:19:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716921_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49947285/cesc-fabregas-takes-inspiration-arsenal-set-play-goals-como-win-again",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49944120,
-      "source": "ESPN",
-      "headline": "Leeds pile on the goals in 4-1 rout of Newcastle",
-      "description": "Leeds United have stunned Newcastle United with three goals in 15 minutes in the first half, before Noah Okafor scored a beauty to put The home side into third place on the table.",
-      "publishedAt": "2026-09-14T23:04:51Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_Soccer_HIGHLIGHT_Leeds_pile_on_the_goals_in_4_1_rout_of_Newcastle_20260915_AUS/dm_260914_Soccer_HIGHLIGHT_Leeds_pile_on_the_goals_in_4_1_rout_of_Newcastle_20260915_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49944120/leeds-pile-goals-4-1-rout-newcastle",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United"
-      ]
-    },
-    {
-      "id": "707df771dd9fb23252848c6774e3bff5",
-      "source": "Sky Sports",
-      "headline": "Sunderland begin European adventure with AZ Alkmaar win",
-      "description": "Enzo Le Fee's penalty ensured Sunderland kicked off their Europa League adventure with a 1-0 win over AZ Alkmaar at the Stadium of Light.",
-      "publishedAt": "2026-07-22T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-enzo-le-fee-wilson-isidor_7354053.jpg?20260916220445",
-      "link": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/report/577749",
-      "tag": "Report",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-17T04:48:42.981Z"
+    "cachedAt": "2026-09-17T11:37:06.201Z"
   }
 }
