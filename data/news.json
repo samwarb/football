@@ -2,6 +2,82 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49966527,
+      "source": "ESPN",
+      "headline": "Weekend predictions: Madrid derby heats up LaLiga, Brighton to stun Arsenal?",
+      "description": "It's another big weekend of matches in Europe which will include heated derbies, top-of-the-table matchups and other rivalries.",
+      "publishedAt": "2026-09-17T19:37:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718195_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49966527/weekend-predictions-madrid-derby-heats-laliga-brighton-stun-arsenal",
+      "tag": "AS Roma",
+      "teams": [
+        "AS Roma",
+        "Internazionale",
+        "Atlético Madrid",
+        "Real Madrid",
+        "Brighton & Hove Albion",
+        "Arsenal",
+        "Paris FC",
+        "Strasbourg",
+        "FC Porto",
+        "Benfica",
+        "Celtic",
+        "Rangers",
+        "Millwall",
+        "West Ham United"
+      ]
+    },
+    {
+      "id": 49962718,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool targeting former Bayern Munich midfielder",
+      "description": "PSV Eindhoven's Paul Wanner has emerged as a Liverpool target. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-17T19:31:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718179_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49962718/transfer-rumors-news-arsenal-keen-real-madrid-winger-rodrygo",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "PSV Eindhoven",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": 49965902,
+      "source": "ESPN",
+      "headline": "Michail Antonio found guilty of failing to identify driver of his Lamborgini to police",
+      "description": "Michail Antonio has been found guilty of failing to identify the driver of his Lamborghini supercar when it was suspected of involvement in a motoring offence in central London.",
+      "publishedAt": "2026-09-17T17:12:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718151_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49965902/michail-antonio-found-guilty-failing-identify-driver-lamborgini-police",
+      "tag": "West Ham United",
+      "teams": [
+        "West Ham United"
+      ]
+    },
+    {
+      "id": "a2212c3132f0b7d285fb8bef6cea9fdb",
+      "source": "Sky Sports",
+      "headline": "Man City vs Norwich team news LIVE!",
+      "description": "",
+      "publishedAt": "2026-09-17T17:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-efl-carabao-cup-manchester-city_7351300.jpg?20260914113052",
+      "link": "https://www.skysports.com/football/manchester-city-vs-norwich-city/live/577580",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "40b92407920b354228602f957e021b16",
+      "source": "Sky Sports",
+      "headline": "Calvert-Lewin becoming the complete striker",
+      "description": "",
+      "publishedAt": "2026-09-17T16:40:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-calvert-lewin-dominic_7354790.jpg?20260917173617",
+      "link": "https://www.skysports.com/football/news/12040/13589022/dominic-calvert-lewin-adds-goals-to-become-one-of-premier-leagues-most-complete-strikers-the-radar",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49965317,
       "source": "ESPN",
       "headline": "Newcastle boss Matthias Jaissle hoping for 'positive' update on Anthony Elanga injury",
@@ -13,6 +89,17 @@
       "teams": [
         "Newcastle United"
       ]
+    },
+    {
+      "id": "f156012b608a604b400a7f27050129d2",
+      "source": "Sky Sports",
+      "headline": "Will Palmer, Foden and Trent be recalled to England squad?",
+      "description": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big names left out of the World Cup squad.",
+      "publishedAt": "2026-09-17T15:30:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cole-palmer-phil-foden_7354736.jpg?20260917161529",
+      "link": "https://www.skysports.com/football/news/12040/13588982/england-squad-will-cole-palmer-phil-foden-and-trent-alexander-arnold-be-left-out-again-after-world-cup-snubs",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49964446,
@@ -41,6 +128,17 @@
       ]
     },
     {
+      "id": "b025f2e64811af54857b2356230ed2bc",
+      "source": "Sky Sports",
+      "headline": "Alonso: Chelsea didn't need a reset - they just needed an update",
+      "description": "Xabi Alonso says Chelsea were in need of \"an update\" rather than a full reset when he was appointed manager this summer.",
+      "publishedAt": "2026-09-17T14:30:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-xabi-alonso-chelsea_7354698.jpg?20260917152155",
+      "link": "https://www.skysports.com/football/news/12040/13589015/xabi-alonso-chelsea-manager-says-blues-needed-an-update-rather-than-a-reset-when-he-took-over-at-stamford-bridge",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49963884,
       "source": "ESPN",
       "headline": "Chelsea boss Xabi Alonso thanks Todd Boehly, Mark Walter after sale",
@@ -52,6 +150,17 @@
       "teams": [
         "Chelsea"
       ]
+    },
+    {
+      "id": "b8d6d0aa8ee56d9ee32d67cf52e3c380",
+      "source": "Sky Sports",
+      "headline": "Man Utd wonderkid Gabriel attracting interest from top European clubs",
+      "description": "Real Madrid, Barcelona, Paris Saint-Germain and Bayern Munich, along with several Premier League clubs, are interested in Manchester United forward JJ Gabriel.",
+      "publishedAt": "2026-09-17T12:40:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jj-gabriel-man-utd_7354610.jpg?20260917135159",
+      "link": "https://www.skysports.com/football/news/12040/13588989/jj-gabriel-transfer-news-man-utd-wonderkid-attracting-interest-from-real-madrid-barcelona-psg-bayern-munich-and-premier-league-clubs",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49957535,
@@ -93,17 +202,6 @@
       ]
     },
     {
-      "id": "ab9cb9b1f36e198369443de8e4c532f9",
-      "source": "Sky Sports",
-      "headline": "'Man City are not champions' - Why Greenwood's claim should scare rivals",
-      "description": "Manchester City have set their stall out scarily early. Captain Alex Greenwood did so in pre-season. \"A true champion is someone who goes and wins again. A winner might be one-off. But a champion does it over and over.\"",
-      "publishedAt": "2026-09-17T11:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-wsl-womens-super-league_7319389.jpg?20260812071000",
-      "link": "https://www.skysports.com/football/news/12040/13579874/man-city-vs-liverpool-why-graduating-from-wsl-winner-to-champion-is-so-important-to-alex-greenwood",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49958777,
       "source": "ESPN",
       "headline": "Chelsea's João Pedro withdraws from Brazil squad with injury",
@@ -129,31 +227,6 @@
       "teams": [
         "Everton",
         "Wolverhampton"
-      ]
-    },
-    {
-      "id": "025af1b3653f2c110a9fc889ade39f29",
-      "source": "Sky Sports",
-      "headline": "Tuchel must win back trust ahead of pivotal England camp",
-      "description": "Despite achieving England's best-ever World Cup performance on foreign soil, this international break feels like a pivotal moment in Thomas Tuchel's tenure.",
-      "publishedAt": "2026-09-17T09:13:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7300317.jpg?20260717184818",
-      "link": "https://www.skysports.com/football/news/12040/13588885/thomas-tuchel-england-manager-faces-pivotal-international-break-to-win-over-some-players-and-supporters-after-world-cup-exit",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49962718,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal still keen on Real Madrid winger Rodrygo",
-      "description": "Arsenal remain in contact with the camp of Real Madrid winger Rodrygo as a potential long-term target Transfer talk has the latest.",
-      "publishedAt": "2026-09-17T09:08:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0427/r1649941_3_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49962718/transfer-rumors-news-arsenal-keen-real-madrid-winger-rodrygo",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Arsenal"
       ]
     },
     {
@@ -222,17 +295,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "6782d8ef891f16c0140dccf005483f78",
-      "source": "Sky Sports",
-      "headline": "Arsenal latest: Havertz granted rest time during international break",
-      "description": "",
-      "publishedAt": "2026-09-16T16:07:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49957510,
@@ -386,17 +448,6 @@
       ]
     },
     {
-      "id": "2810ecb4c146b210585c49c9ab7cb1bf",
-      "source": "Sky Sports",
-      "headline": "45 players! Klopp picks TWO separate Germany squads for international break",
-      "description": "",
-      "publishedAt": "2026-09-15T22:45:00.000Z",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jurgen-klopp-germany_7305661.jpg?20260724110858",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49950304,
       "source": "ESPN",
       "headline": "Man United need wins after bad week of JJ Gabriel unrest, protests and derby drama",
@@ -404,19 +455,6 @@
       "publishedAt": "2026-09-15T18:45:59Z",
       "image": "https://a.espncdn.com/photo/2026/0915/r1717115_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49950304/manchester-united-jj-gabriel-fan-protests-manchester-derby-var-defeat-analysis-michael-carrick",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49948971,
-      "source": "ESPN",
-      "headline": "Man United wonderkid JJ Gabriel, 15, asks to leave club - sources",
-      "description": "Manchester United wonderkid JJ Gabriel has asked to leave the club, sources have told ESPN.",
-      "publishedAt": "2026-09-15T18:44:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717007_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49948971/man-united-starlet-jj-gabriel-15-asks-leave-club-sources",
       "tag": "Manchester United",
       "teams": [
         "Manchester United"
@@ -435,25 +473,11 @@
         "Manchester City",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49950126,
-      "source": "ESPN",
-      "headline": "Pro Ref chief Howard Webb: 'Tunnel vision' helped Erling Haaland goal to stand, Enzo Fernández offside missed",
-      "description": "Referees' chief Howard Webb said \"tunnel vision\" from VAR Matt Donohue led to Manchester City's derby winner being allowed to stand -- but that the assistant VAR should have intervened.",
-      "publishedAt": "2026-09-15T16:39:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716042_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49950126/pro-ref-chief-howard-webb-tunnel-vision-allowed-erling-haaland-goal-stand",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-17T16:57:07.407Z"
+    "cachedAt": "2026-09-17T21:19:09.163Z"
   }
 }
