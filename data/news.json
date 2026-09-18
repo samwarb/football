@@ -2,6 +2,139 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49968118,
+      "source": "ESPN",
+      "headline": "Maresca has been pushing all the right buttons in perfect Man City start",
+      "description": "Despite using an alternative team, Manchester City made it six wins from six under Enzo Maresca, highlighting just how smoothly the post-Pep Guardiola era has begun.",
+      "publishedAt": "2026-09-17T23:05:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718300_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49968118/enzo-maresca-pushing-all-right-buttons-perfect-man-city-start",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49968164,
+      "source": "ESPN",
+      "headline": "Marco Rose proud of 'Bournemouth football' in European debut win over Real Sociedad",
+      "description": "Marco Rose was delighted to watch \"Bournemouth football\" during a 2-1 win at Real Sociedad and a memorable first match in Europe for the Premier League club.",
+      "publishedAt": "2026-09-17T22:50:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718306_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49968164/marco-rose-proud-bournemouth-football-european-debut-win-real-sociedad",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth"
+      ]
+    },
+    {
+      "id": "afa8712ac6cd7f0eff3ec0658a63637f",
+      "source": "Sky Sports",
+      "headline": "Palace latest: Sage says the fans love Sarr - and he deserves it!",
+      "description": "",
+      "publishedAt": "2026-09-17T22:39:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49967991,
+      "source": "ESPN",
+      "headline": "Man City's 17-year-old Floyd Samba: Debut brace vs. Norwich was 'mind-blowing'",
+      "description": "Teenager Floyd Samba said his debut was \"mind-blowing\" after his stunning two-goal display in Manchester City's 5-0 thrashing of Norwich.",
+      "publishedAt": "2026-09-17T22:18:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718297_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49967991/manchester-city-floyd-samba-debut-brace-vs-norwich-was-mind-blowing",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49967974,
+      "source": "ESPN",
+      "headline": "Hislop: I do not see Chelsea beating Brentford",
+      "description": "Hislop: I do not see Chelsea beating Brentford",
+      "publishedAt": "2026-09-17T21:57:17Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_analysis_Hislop_I_do_not_see_Chelsea_beating_Brentford_20260917_GLOBAL/dm_260917_COM_SOC_analysis_Hislop_I_do_not_see_Chelsea_beating_Brentford_20260917_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49967974/do-not-see-chelsea-beating-brentford",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49967931,
+      "source": "ESPN",
+      "headline": "Phil Jones: Old Trafford has a 'massive effect' on the players",
+      "description": "Phil Jones: Old Trafford has a 'massive effect' on the players",
+      "publishedAt": "2026-09-17T21:46:30Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_analysis_Phil_Jones_Old_Trafford_has_a_massive_effect_on_the_players_20260917_GLOBAL/dm_260917_COM_SOC_analysis_Phil_Jones_Old_Trafford_has_a_massive_effect_on_the_players_20260917_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49967931/old-trafford-massive-effect-players",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "167b05d5fe24d6f9bcbc8d33cdf83977",
+      "source": "Sky Sports",
+      "headline": "MK Dons still searching for first win after goalless draw at Wimbledon",
+      "description": "MK Dons are without a win in seven League One games this season after being held to a 0-0 draw by AFC Wimbledon at the Cherry Red Records Stadium.",
+      "publishedAt": "2026-09-17T21:00:00.000Z",
+      "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021",
+      "link": "https://www.skysports.com/football/afc-wimbledon-vs-milton-keynes-dons/report/561674",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "5e44d4c6efde210c35232a8e1ef1e39f",
+      "source": "Sky Sports",
+      "headline": "Sloppy mistakes cost Celtic again as they lose Europa League opener",
+      "description": "Celtic were punished again for their defensive errors as they followed up their Old Firm loss with a 3-1 home defeat to Ferencvaros in their Europa League opener.",
+      "publishedAt": "2026-09-17T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-celtic-martin-oneill_7354980.jpg?20260917221800",
+      "link": "https://www.skysports.com/football/celtic-vs-ferencvaros/report/577751",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "44ce04441497a7915fa0c8849e1b8232",
+      "source": "Sky Sports",
+      "headline": "Palace power past Lech Poznan to win on Europa League debut",
+      "description": "Crystal Palace cruised to victory in their first-ever Europa League game with a 4-0 win over Polish champions Lech Poznan at Selhurst Park.",
+      "publishedAt": "2026-09-17T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-crystal-palace-pino_7354931.jpg?20260917222620",
+      "link": "https://www.skysports.com/football/crystal-palace-vs-lech-poznan/report/577752",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "96cc6f2f3574d18cdbb2519ab4b2d634",
+      "source": "Sky Sports",
+      "headline": "Bournemouth enjoy winning start to Europa League campaign at Sociedad",
+      "description": "First-half goals by Justin Kluivert and Rayan helped Bournemouth start their maiden European campaign with a memorable 2-1 win at Real Sociedad.",
+      "publishedAt": "2026-09-17T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-justin-kluivert-bournemouth_7354883.jpg?20260917203207",
+      "link": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/report/577757",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "f99b91a2c7e24c490f2effd10851fc4f",
+      "source": "Sky Sports",
+      "headline": "Chris Samba's son Floyd shines on debut as Man City ease past Norwich",
+      "description": "Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich.",
+      "publishedAt": "2026-09-17T20:21:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-floyd-samba_7354867.jpg?20260917200631",
+      "link": "https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 49966527,
       "source": "ESPN",
       "headline": "Weekend predictions: Madrid derby heats up LaLiga, Brighton to stun Arsenal?",
@@ -56,28 +189,6 @@
       ]
     },
     {
-      "id": "a2212c3132f0b7d285fb8bef6cea9fdb",
-      "source": "Sky Sports",
-      "headline": "Man City vs Norwich team news LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-17T17:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-efl-carabao-cup-manchester-city_7351300.jpg?20260914113052",
-      "link": "https://www.skysports.com/football/manchester-city-vs-norwich-city/live/577580",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "40b92407920b354228602f957e021b16",
-      "source": "Sky Sports",
-      "headline": "Calvert-Lewin becoming the complete striker",
-      "description": "",
-      "publishedAt": "2026-09-17T16:40:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-calvert-lewin-dominic_7354790.jpg?20260917173617",
-      "link": "https://www.skysports.com/football/news/12040/13589022/dominic-calvert-lewin-adds-goals-to-become-one-of-premier-leagues-most-complete-strikers-the-radar",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49965317,
       "source": "ESPN",
       "headline": "Newcastle boss Matthias Jaissle hoping for 'positive' update on Anthony Elanga injury",
@@ -89,17 +200,6 @@
       "teams": [
         "Newcastle United"
       ]
-    },
-    {
-      "id": "f156012b608a604b400a7f27050129d2",
-      "source": "Sky Sports",
-      "headline": "Will Palmer, Foden and Trent be recalled to England squad?",
-      "description": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big names left out of the World Cup squad.",
-      "publishedAt": "2026-09-17T15:30:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cole-palmer-phil-foden_7354736.jpg?20260917161529",
-      "link": "https://www.skysports.com/football/news/12040/13588982/england-squad-will-cole-palmer-phil-foden-and-trent-alexander-arnold-be-left-out-again-after-world-cup-snubs",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49964446,
@@ -128,17 +228,6 @@
       ]
     },
     {
-      "id": "b025f2e64811af54857b2356230ed2bc",
-      "source": "Sky Sports",
-      "headline": "Alonso: Chelsea didn't need a reset - they just needed an update",
-      "description": "Xabi Alonso says Chelsea were in need of \"an update\" rather than a full reset when he was appointed manager this summer.",
-      "publishedAt": "2026-09-17T14:30:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-xabi-alonso-chelsea_7354698.jpg?20260917152155",
-      "link": "https://www.skysports.com/football/news/12040/13589015/xabi-alonso-chelsea-manager-says-blues-needed-an-update-rather-than-a-reset-when-he-took-over-at-stamford-bridge",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49963884,
       "source": "ESPN",
       "headline": "Chelsea boss Xabi Alonso thanks Todd Boehly, Mark Walter after sale",
@@ -150,17 +239,6 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": "b8d6d0aa8ee56d9ee32d67cf52e3c380",
-      "source": "Sky Sports",
-      "headline": "Man Utd wonderkid Gabriel attracting interest from top European clubs",
-      "description": "Real Madrid, Barcelona, Paris Saint-Germain and Bayern Munich, along with several Premier League clubs, are interested in Manchester United forward JJ Gabriel.",
-      "publishedAt": "2026-09-17T12:40:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jj-gabriel-man-utd_7354610.jpg?20260917135159",
-      "link": "https://www.skysports.com/football/news/12040/13588989/jj-gabriel-transfer-news-man-utd-wonderkid-attracting-interest-from-real-madrid-barcelona-psg-bayern-munich-and-premier-league-clubs",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49957535,
@@ -404,80 +482,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49955685,
-      "source": "ESPN",
-      "headline": "Barcelona, Real Madrid monitoring JJ Gabriel situation at Man United - sources",
-      "description": "Barcelona and Real Madrid are among the clubs monitoring JJ Gabriel's stand-off with Manchester United, sources have told ESPN.",
-      "publishedAt": "2026-09-16T09:52:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49955685/jj-gabriel-barcelona-real-madrid-man-united-chelsea-man-city",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 49955585,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi on misfiring Tottenham: 'We are going to win many games and score many goals'",
-      "description": "Roberto De Zerbi has said that when his Tottenham Hotspur team clicks, they \"are going to win many games and score many goals.\"",
-      "publishedAt": "2026-09-16T09:21:58Z",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717438_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49955585/roberto-de-zerbi-misfiring-tottenham-going-win-many-games-score-many-goals",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49952647,
-      "source": "ESPN",
-      "headline": "Liverpool's Andoni Iraola lauds Dominik Szoboszlai for 'worldie' in Tottenham win",
-      "description": "Andoni Iraola has heaped praise on midfielder Dominik Szoboszlai after he scored a \"worldie\" in Liverpool's 3-1 victory over Tottenham Hotspur.",
-      "publishedAt": "2026-09-15T23:10:29Z",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717265_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49952647/andoni-iraola-lauds-dominik-szoboszlai-worldie-tottenham-win",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49950304,
-      "source": "ESPN",
-      "headline": "Man United need wins after bad week of JJ Gabriel unrest, protests and derby drama",
-      "description": "Things have gone from bad to worse this week for Man United, with defeats on and off the field. Victory against Brighton in midweek would go a long way to lifting the mood.",
-      "publishedAt": "2026-09-15T18:45:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717115_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49950304/manchester-united-jj-gabriel-fan-protests-manchester-derby-var-defeat-analysis-michael-carrick",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49950514,
-      "source": "ESPN",
-      "headline": "Ogden: Manchester derby mistake has broken trust in VAR",
-      "description": "Ogden: Manchester derby mistake has broken trust in VAR",
-      "publishedAt": "2026-09-15T17:27:10Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_COM_SOC_Analysis_Ogden_Manchester_derby_mistake_has_broken_trust_in_VAR__20260915_GLOBAL/dm_260915_COM_SOC_Analysis_Ogden_Manchester_derby_mistake_has_broken_trust_in_VAR__20260915_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49950514/manchester-derby-mistake-broken-trust-var",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-17T21:19:09.163Z"
+    "cachedAt": "2026-09-18T04:39:01.195Z"
   }
 }
