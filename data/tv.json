@@ -2,10 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "brentford|chelsea": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "tottenham hotspur|aston villa": [
       "TNT Sports 1",
       "TNT Sports Ultimate",
@@ -238,6 +234,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-18T20:52:12.413Z"
+    "cachedAt": "2026-09-19T04:33:49.701Z"
   }
 }

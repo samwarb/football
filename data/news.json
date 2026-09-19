@@ -2,11 +2,62 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49975410,
+      "source": "ESPN",
+      "headline": "Xabi Alonso says Chelsea were 'out of control' in Brentford loss",
+      "description": "Xabi Alonso said his Chelsea team lost control against Brentford in their 3-0 defeat on Friday evening and agreed with Levi Colwill that his side were bullied in set pieces.",
+      "publishedAt": "2026-09-18T23:02:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718798_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49975410/alonso-says-chelsea-were-control-brentford-defeat",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Brentford"
+      ]
+    },
+    {
+      "id": 49975446,
+      "source": "ESPN",
+      "headline": "Arsenal, Mikel Arteta open to Max Dowman loan move",
+      "description": "Arsenal are \"open\" to allowing teen sensation Max Dowman to leave the club on loan if he does not play enough matches.",
+      "publishedAt": "2026-09-18T23:00:24Z",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717224_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49975446/arsenal-mikel-arteta-open-max-dowman-loan-move",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "67c59607ca71cfd721a41c779df54ba5",
+      "source": "Sky Sports",
+      "headline": "'Bullied' and 'out of control' - Chelsea's defensive issues laid bare",
+      "description": "\"You need to feel it. We're not feeling it,\" said Xabi Alonso after Chelsea's 3-0 loss at Brentford. Yet Chelsea are stuck in a familiar feeling.",
+      "publishedAt": "2026-09-18T22:18:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-chelsea-brentford_7355898.jpg?20260918232408",
+      "link": "https://www.skysports.com/football/news/12040/13589535/brentford-3-0-chelsea-defensive-issues-for-xabi-alonso-laid-bare-after-chastening-west-london-derby-defeat",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49974564,
+      "source": "ESPN",
+      "headline": "How can erratic Chelsea find stability? For starters: Look to Brentford",
+      "description": "Brentford's 3-0 thrashing of Chelsea served as a humbling reminder of what a well-run club can accomplish.",
+      "publishedAt": "2026-09-18T21:45:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718755_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49974564/how-chelsea-find-stability-look-brentford-premier-league",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
       "id": 49973574,
       "source": "ESPN",
-      "headline": "Brentford vs. Chelsea LIVE: Premier League updates as Blues search for way back",
-      "description": "Brentford host London rivals Chelsea in the Premier League's Friday evening action, and you can follow live with ESPN.",
-      "publishedAt": "2026-09-18T20:27:37Z",
+      "headline": "Brentford 3-0 Chelsea: Premier League action as Bees sink Xabi Alonso's Blues - as it happened",
+      "description": "Goals from Jaidon Anthony, Igor Thiago and Fábio Carvalho see Brentford beat Chelsea. Follow reaction with ESPN.",
+      "publishedAt": "2026-09-18T21:32:09Z",
       "image": "https://a.espncdn.com/photo/2026/0918/r1718740_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49973574/brentford-chelsea-live-premier-league-updates-commentary-score-news-west-london-clash",
       "tag": "Chelsea",
@@ -14,6 +65,56 @@
         "Chelsea",
         "Brentford"
       ]
+    },
+    {
+      "id": "cf6ff51df0cbfe5e15487d97929aaa11",
+      "source": "Sky Sports",
+      "headline": "Arteta: Dowman could go out on loan in future",
+      "description": "Arsenal manager Mikel Arteta has not ruled out loaning out Max Dowman in the future and says the club evaluates the 16-year-old sensation's progress every six months.",
+      "publishedAt": "2026-09-18T21:30:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-max-dowman-arsenal_7352769.jpg?20260916101230",
+      "link": "https://www.skysports.com/football/news/12040/13589421/max-dowman-mikel-arteta-admits-16-year-old-arsenal-wonderkid-could-go-out-on-loan-in-the-future",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49975058,
+      "source": "ESPN",
+      "headline": "Nicol: Chelsea aren't performing any better than last year",
+      "description": "Nicol: Chelsea aren't performing any better than last year",
+      "publishedAt": "2026-09-18T21:22:13Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_Nicol_Chelsea_arent_performing_any_better_than_last_year/dm_260918_Nicol_Chelsea_arent_performing_any_better_than_last_year.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49975058/chelsea-performing-better-last-year",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49968426,
+      "source": "ESPN",
+      "headline": "High-flying Brentford hammer struggling Chelsea",
+      "description": "Chelsea's winless run in the Premier League stretched to three matches as Brentford ran out deserved 3-0 winners at the Gtech Community Stadium.",
+      "publishedAt": "2026-09-18T21:12:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718753_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879275",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "dfbe41c150d9b1ef87c6c7417a9e9e8d",
+      "source": "Sky Sports",
+      "headline": "Ballard heads Bristol City past Watford as they climb to fifth",
+      "description": "Bristol City moved into the Championship play-off places with a 1-0 victory over depleted Watford.",
+      "publishedAt": "2026-09-18T20:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-dom-dominic-ballard_7355830.jpg?20260918220143",
+      "link": "https://www.skysports.com/football/bristol-city-vs-watford/report/560583",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49970584,
@@ -30,28 +131,6 @@
         "Philadelphia Union",
         "Manchester City"
       ]
-    },
-    {
-      "id": "de9a33c398af24a21933a94485b2f569",
-      "source": "Sky Sports",
-      "headline": "Gabriel edging closer to Man Utd exit after Barca talks",
-      "description": "JJ Gabriel and his representatives are in Barcelona for talks about a potential move to the Catalan club.",
-      "publishedAt": "2026-09-18T16:20:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-jj-gabriel-manchester-united_7352292.jpg?20260918173930",
-      "link": "https://www.skysports.com/football/news/12040/13589387/jj-gabriel-edging-closer-to-manchester-united-exit-amid-barcelona-talks-about-a-potential-move-for-the-forward",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "53fbe54a775048a40529c9b1ce27d6fd",
-      "source": "Sky Sports",
-      "headline": "Will Celtic ease the pressure or Rangers narrow the gap?",
-      "description": "Will Derek McInnes complete the double against Celtic, or can Martin O'Neill recover from a nightmare week to move eight points clear of Rangers?",
-      "publishedAt": "2026-09-18T15:25:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-scottish-premiership_7355144.jpg?20260918092858",
-      "link": "https://www.skysports.com/football/news/12040/13589047/celtic-vs-rangers-old-firm-talking-points-ahead-first-premiership-clash-of-season-live-on-sky-sports-on-sunday",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49973247,
@@ -78,17 +157,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "3e2630d9cd12e20d058700bec31bae20",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Iraola 'very happy' with Wirtz contribution",
-      "description": "",
-      "publishedAt": "2026-09-18T13:51:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49972775,
@@ -184,17 +252,6 @@
         "Arsenal",
         "Brighton & Hove Albion"
       ]
-    },
-    {
-      "id": "33e88716429d0923f221d4d217e810ca",
-      "source": "Sky Sports",
-      "headline": "'Embrace the chaos' - What we learnt from Tuchel's England picks",
-      "description": "",
-      "publishedAt": "2026-09-18T11:15:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kobbie-mainoo-trent-alexander-arnold_7355291.jpg?20260918114847",
-      "link": "https://www.skysports.com/football/news/12040/13589219/england-squad-thomas-tuchels-three-lions-selections-analysed-as-trent-alexander-arnold-and-cole-palmer-return-after-world-cup",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49971694,
@@ -419,96 +476,31 @@
       ]
     },
     {
-      "id": 49965317,
-      "source": "ESPN",
-      "headline": "Newcastle boss Matthias Jaissle hoping for 'positive' update on Anthony Elanga injury",
-      "description": "Matthias Jaissle hopes Anthony Elanga's injury is \"not that serious\" as Newcastle prepare to face Hull City on Saturday.",
-      "publishedAt": "2026-09-17T15:40:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718114_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49965317/newcastle-boss-matthias-jaissle-hoping-positive-update-anthony-elanga-injury",
-      "tag": "Newcastle United",
-      "teams": [
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 49964446,
-      "source": "ESPN",
-      "headline": "Still at zero: Viral Man United fan's haircut challenge nears two years",
-      "description": "Viral Manchester United fan Frank Ilett's haircut challenge is nearing the two-year mark and he's back to square 1.",
-      "publishedAt": "2026-09-17T15:10:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0210/r1613205_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49964446/still-zero-viral-man-united-fan-haircut-challenge-nears-two-years",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49964818,
-      "source": "ESPN",
-      "headline": "Fabian Hürzeler urges Brighton to stay humble despite impressive comeback win over Man United",
-      "description": "Fabian Hürzeler called for humility and continued focus on the basics as Brighton host Arsenal fresh from their remarkable Carabao Cup turnaround at Manchester United.",
-      "publishedAt": "2026-09-17T14:42:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718073_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49964818/fabian-hurzeler-brighton-stay-humble-comeback-win-man-united",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 49963884,
-      "source": "ESPN",
-      "headline": "Chelsea boss Xabi Alonso thanks Todd Boehly, Mark Walter after sale",
-      "description": "Chelsea manager Xabi Alonso has thanked outgoing co-owners Todd Boehly and Mark Walter, who have sold their stakes in the club, and hailed the ownership change as an \"important day.\"",
-      "publishedAt": "2026-09-17T13:18:51Z",
-      "image": "https://a.espncdn.com/photo/2024/0904/r1381813_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49963884/chelsea-boss-xabi-alonso-thanks-todd-boehly-mark-walter-sale",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49963760,
-      "source": "ESPN",
-      "headline": "Frank Lampard urges Coventry to stay positive amid four-game losing streak",
-      "description": "Coventry boss Frank Lampard has urged his players to stay positive ahead of Saturday's Premier League trip to Nottingham Forest.",
-      "publishedAt": "2026-09-17T12:12:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0917/r1718005_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49963760/frank-lampard-coventry-stay-positive-four-game-losing-streak",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City"
-      ]
-    },
-    {
-      "id": "56e5857d3817a77779a6eb1d6098fc30",
+      "id": "a1f4f3d4a8ead0b00838551f3c611865",
       "source": "Sky Sports",
-      "headline": "Brentford vs Chelsea build-up LIVE on Sky!",
+      "headline": "Brentford 3-0 Chelsea highlights and rate the players",
       "description": "",
       "publishedAt": "2026-08-18T16:55:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-brentford_7351240.jpg?20260914102811",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-brentford-chelsea_7355800.jpg?20260918212721",
       "link": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "5746b4cc5765b220a9da07177726cb98",
+      "id": "f9c7936a0946b99c0853716f9cbdf562",
       "source": "Sky Sports",
-      "headline": "Why Klopp's 'one of 83 million' cap was significant",
-      "description": "Jurgen Klopp has named two separate Germany squads for the upcoming Nations League matches in his first act as head coach.",
-      "publishedAt": "2026-06-30T11:42:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jurgen-klopp-germany_7355349.jpg?20260918123215",
-      "link": "https://www.skysports.com/football/news/12040/13589259/why-jurgen-klopps-one-of-83-million-cap-was-significant-as-he-named-two-germany-squads",
-      "tag": "News Story",
+      "headline": "Chelsea's defensive woes continue as Brentford win derby",
+      "description": "Chelsea's defensive and set-piece woes continued under Xabi Alonso as Brentford claimed an emphatic 3-0 victory in the west London derby.",
+      "publishedAt": "2026-07-17T20:45:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-igor-thiago-brentford_7355821.jpg?20260918215630",
+      "link": "https://www.skysports.com/football/brentford-vs-chelsea/report/559485",
+      "tag": "Report",
       "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-18T20:52:11.866Z"
+    "cachedAt": "2026-09-19T04:33:49.840Z"
   }
 }
