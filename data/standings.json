@@ -1,6 +1,6 @@
 {
   "season": "2025-2026",
-  "updatedAt": "2026-09-19T10:54:24.552Z",
+  "updatedAt": "2026-09-19T15:51:14.027Z",
   "teams": [
     {
       "providerId": "359",
@@ -255,13 +255,31 @@
       "note": ""
     },
     {
+      "providerId": "362",
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "shortName": "Aston Villa",
+      "abbreviation": "AVL",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+      "rank": 15,
+      "played": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 9,
+      "goalDifference": -5,
+      "points": 4,
+      "note": ""
+    },
+    {
       "providerId": "349",
       "slug": "bournemouth",
       "name": "Bournemouth",
       "shortName": "Bournemouth",
       "abbreviation": "BOU",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "rank": 15,
+      "rank": 16,
       "played": 4,
       "wins": 0,
       "draws": 3,
@@ -279,7 +297,7 @@
       "shortName": "Crystal Palace",
       "abbreviation": "CRY",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "rank": 16,
+      "rank": 17,
       "played": 4,
       "wins": 1,
       "draws": 0,
@@ -297,16 +315,16 @@
       "shortName": "Tottenham",
       "abbreviation": "TOT",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "rank": 17,
-      "played": 4,
+      "rank": 18,
+      "played": 5,
       "wins": 0,
       "draws": 2,
-      "losses": 2,
-      "goalsFor": 0,
-      "goalsAgainst": 5,
-      "goalDifference": -5,
+      "losses": 3,
+      "goalsFor": 2,
+      "goalsAgainst": 8,
+      "goalDifference": -6,
       "points": 2,
-      "note": ""
+      "note": "Relegation"
     },
     {
       "providerId": "370",
@@ -315,7 +333,7 @@
       "shortName": "Fulham",
       "abbreviation": "FUL",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "rank": 18,
+      "rank": 19,
       "played": 4,
       "wins": 0,
       "draws": 1,
@@ -323,24 +341,6 @@
       "goalsFor": 4,
       "goalsAgainst": 7,
       "goalDifference": -3,
-      "points": 1,
-      "note": "Relegation"
-    },
-    {
-      "providerId": "362",
-      "slug": "aston-villa",
-      "name": "Aston Villa",
-      "shortName": "Aston Villa",
-      "abbreviation": "AVL",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "rank": 19,
-      "played": 4,
-      "wins": 0,
-      "draws": 1,
-      "losses": 3,
-      "goalsFor": 1,
-      "goalsAgainst": 7,
-      "goalDifference": -6,
       "points": 1,
       "note": "Relegation"
     },
@@ -365,6 +365,6 @@
   ],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-19T10:54:24.552Z"
+    "cachedAt": "2026-09-19T15:51:14.027Z"
   }
 }
