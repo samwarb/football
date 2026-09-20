@@ -2,18 +2,109 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 49945948,
+      "id": 49989841,
       "source": "ESPN",
-      "headline": "European soccer live updates: Man City, Liverpool in action",
-      "description": "The European soccer weekend continues with Man City looking to go clear at the top of the Premier League vs. Sunderland, and Liverpool facing Bournemouth.",
-      "publishedAt": "2026-09-20T11:02:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716875_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49945948/european-soccer-live-updates-liverpool-manchester-city-atletico-madrid-real-madrid-manchester-united",
+      "headline": "Dominic Calvert-Lewin fails to match 23-year Premier League goal record for Leeds",
+      "description": "Dominic Calvert-Lewin was denied the chance to make a small piece of Elland Road history in Leeds' goalless home draw with Crystal Palace.",
+      "publishedAt": "2026-09-20T16:00:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719498_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49989841/dominic-calvert-lewin-fails-match-23-year-premier-league-goal-record-leeds",
+      "tag": "Leeds United",
+      "teams": [
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 49989640,
+      "source": "ESPN",
+      "headline": "Erling Haaland sets unique goal milestone as Man City beat Sunderland",
+      "description": "Erling Haaland scored the eighth goal of the game as Manchester City beat Sunderland but it gave him a unique personal record.",
+      "publishedAt": "2026-09-20T15:50:33Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719479_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49989640/erling-haaland-sets-unique-goal-milestone-man-city-beat-sunderland",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49968497,
+      "source": "ESPN",
+      "headline": "Man City down Sunderland in eight-goal thriller",
+      "description": "Brian Brobbey scored a hat trick in a losing cause as Manchester City maintained their 100% Premier League start with a frantic 5-3 win over Sunderland.",
+      "publishedAt": "2026-09-20T15:49:02Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719453_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879272",
       "tag": "Manchester City",
       "teams": [
         "Manchester City",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": 49945948,
+      "source": "ESPN",
+      "headline": "European soccer live updates: Manchester United visit Fulham",
+      "description": "Sunday's action continues with Manchester United out to end a run of two straight losses at Fulham, who are yet to win in the Premier League this season.",
+      "publishedAt": "2026-09-20T15:30:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719464_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49945948/european-soccer-live-updates-liverpool-manchester-city-atletico-madrid-real-madrid-manchester-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49968487,
+      "source": "ESPN",
+      "headline": "Alexander Isak winner for Liverpool on Andoni Iraola return to Bournemouth",
+      "description": "Alexander Isak's second-half strike secured Liverpool boss Andoni Iraola all three points on his return to the Vitality Stadium in a 1-0 victory over his old club Bournemouth.",
+      "publishedAt": "2026-09-20T15:13:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719454_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879276",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
         "Liverpool"
       ]
+    },
+    {
+      "id": 49968492,
+      "source": "ESPN",
+      "headline": "Leeds and Crystal Palace battle to gritty goalless draw",
+      "description": "",
+      "publishedAt": "2026-09-20T14:59:55Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719456_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879273",
+      "tag": "Leeds United",
+      "teams": [
+        "Leeds United",
+        "Crystal Palace"
+      ]
+    },
+    {
+      "id": 49988672,
+      "source": "ESPN",
+      "headline": "Bruno Guimarães: Arsenal performance in Brighton defeat not fit for champions",
+      "description": "Bruno Guimarães said Arsenal's \"unacceptable\" performance in their defeat at Brighton was not fit for a Premier League champions' shirt.",
+      "publishedAt": "2026-09-20T13:19:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719400_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49988672/bruno-guimaraes-arsenal-performance-brighton-defeat-not-fit-champions",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "72f4c96659007d2c7548f5240ad6bd64",
+      "source": "Sky Sports",
+      "headline": "Celtic make fast start against Rangers with early opener ruled out LIVE!",
+      "description": "",
+      "publishedAt": "2026-09-20T10:08:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-scottish-premiership_7356895.jpg?20260920121930",
+      "link": "https://www.skysports.com/football/celtic-vs-rangers/live/558374",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49987712,
@@ -167,39 +258,6 @@
       ]
     },
     {
-      "id": "4749e9669398c17d2c15b4f225257e36",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd legend set to sign up for I'm A Celebrity",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-09-19T21:30:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13589966/wayne-rooney-manchester-united-and-england-legend-set-to-sign-up-for-im-a-celebrity-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "433c30544b8f1dd5687769d6bbdd7135",
-      "source": "Sky Sports",
-      "headline": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
-      "description": "",
-      "publishedAt": "2026-09-19T21:09:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-hits-and-misses_7356593.jpg?20260919185236",
-      "link": "https://www.skysports.com/football/news/12040/13589567/tottenham-continue-downward-spiral-as-arsenal-prove-they-are-not-perfect-premier-league-hits-and-misses",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "c8bd0ab59e8c9a1506c6e90bf7aa636e",
-      "source": "Sky Sports",
-      "headline": "Rosenior goads Strasbourg fans after Paris FC win",
-      "description": "",
-      "publishedAt": "2026-09-19T20:52:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-liam-rosenior-image_7356727.jpg?20260919213930",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49979878,
       "source": "ESPN",
       "headline": "Roberto De Zerbi refuses to speak to Tottenham players, calls on 'leaders' to 'lead'",
@@ -240,28 +298,6 @@
         "Nottingham Forest",
         "Coventry City"
       ]
-    },
-    {
-      "id": "6206f1d6ba63e7e817ec72d41b2f0bd0",
-      "source": "Sky Sports",
-      "headline": "Warrington beat Hull KR to set up semi against Leeds as Hiku sees red",
-      "description": "Warrington Wolves set up a Super League semi-final with Leeds Rhinos after a 35-12 victory over reigning champions Hull KR in their eliminator showdown at the Halliwell Jones Stadium.",
-      "publishedAt": "2026-09-19T18:30:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7356623.jpg?20260919191253",
-      "link": "https://www.skysports.com/rugby-league/warrington-vs-hull-k-r/report/63346",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "b4d6777c061383aa6896206a1b9863d7",
-      "source": "Sky Sports",
-      "headline": "Coventry seal first PL win in 25 years at Forest amid VAR controversy",
-      "description": "Coventry earned their first Premier League victory in 25 years after Jay Dasilva's winner and a controversial disallowed Nottingham Forest equaliser saw the promoted side win 1-0 at the City Ground.",
-      "publishedAt": "2026-09-19T18:30:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jay-dasilva-premier-league_7356581.jpg?20260919184931",
-      "link": "https://www.skysports.com/football/nottingham-forest-vs-coventry-city/report/559492",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49981309,
@@ -361,17 +397,6 @@
       ]
     },
     {
-      "id": "1dd6bbe2df5f3db28c0b75d8d1de3366",
-      "source": "Sky Sports",
-      "headline": "Portsmouth hit back to hold Blackburn",
-      "description": "Colby Bishop scored a fortuitous late leveller as Portsmouth drew 2-2 with Blackburn at Fratton Park.",
-      "publishedAt": "2026-09-19T16:15:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-efl-championship_7356385.jpg?20260919170402",
-      "link": "https://www.skysports.com/football/portsmouth-vs-blackburn-rovers/report/560589",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49968474,
       "source": "ESPN",
       "headline": "Thierno Barry strikes for Everton to sink 10-man Ipswich",
@@ -399,90 +424,31 @@
       ]
     },
     {
-      "id": 49979655,
-      "source": "ESPN",
-      "headline": "Nicol: Tottenham handed Aston Villa the win",
-      "description": "Nicol: Tottenham handed Aston Villa the win",
-      "publishedAt": "2026-09-19T14:30:16Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_Nicol_Tottenham_handed_Aston_Villa_the_win/dm_260919_Nicol_Tottenham_handed_Aston_Villa_the_win.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49979655/tottenham-handed-aston-villa-win",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Tottenham Hotspur"
-      ]
+      "id": "d2474a7fd963811474626ad4c82ed0d3",
+      "source": "Sky Sports",
+      "headline": "Arsenal latest: Guimaraes: Brighton defeat was 'unacceptable'",
+      "description": "",
+      "publishedAt": "2026-09-17T18:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
-      "id": 49968428,
-      "source": "ESPN",
-      "headline": "Drab Tottenham fall to Aston Villa loss despite ending goalless run",
-      "description": "Aston Villa piled the pressure on big-spending Tottenham and Roberto De Zerbi with a 3-2 away victory to claim a first win in the Premier League this season.",
-      "publishedAt": "2026-09-19T13:39:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1718935_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879269",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 49979008,
-      "source": "ESPN",
-      "headline": "Chelsea 'hurt' by Brentford thumping - Levi Colwill",
-      "description": "Levi Colwill said Chelsea were left \"hurt\" by the margin of defeat as they were thumped 3-0 by Brentford at the Gtech Community Stadium.",
-      "publishedAt": "2026-09-19T12:35:59Z",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1718922_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49979008/chelsea-hurt-brentford-thumping-levi-colwill",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49977798,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal's Madueke eyed by Premier League rivals",
-      "description": "Noni Madueke could leave for one of Arsenal's Premier League rivals in January in a search for more playing time. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-19T12:25:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1718883_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49977798/transfer-rumors-news-arsenal-noni-madueke-eyed-premier-league-rivals",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49978381,
-      "source": "ESPN",
-      "headline": "Arteta: Dowman is balancing school and football",
-      "description": "Arteta: Dowman is balancing school and football",
-      "publishedAt": "2026-09-19T11:25:28Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_COM_SOC_PRESSER_Arteta_Dowman_is_balancing_school_and_football_2026_9_19/dm_260919_COM_SOC_PRESSER_Arteta_Dowman_is_balancing_school_and_football_2026_9_19.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49978381/dowman-balancing-school-football",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49977893,
-      "source": "ESPN",
-      "headline": "Liverpool's Andoni Iraola admits Bournemouth will be aware of his tactics ahead of 'tricky' return",
-      "description": "Andoni Iraola is looking forward to returning to Bournemouth with Liverpool -- even if the opponents may understand his methods better than his own players.",
-      "publishedAt": "2026-09-19T08:43:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0531/r1666241_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49977893/liverpool-andoni-iraola-admits-bournemouth-aware-tactics-ahead-tricky-return",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "AFC Bournemouth"
-      ]
+      "id": "876ad002b7f7b9e94dc2362b3f139b39",
+      "source": "Sky Sports",
+      "headline": "Donnarumma: Man City are not in transition, it's going to be a great season",
+      "description": "\"This is who we are. This is our team. This is City.\"",
+      "publishedAt": "2026-09-16T07:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-gianluigi-donnarumma_7351973.jpg?20260915093227",
+      "link": "https://www.skysports.com/football/news/12040/13586227/gianluigi-donnarumma-interview-man-city-goalkeeper-insists-club-are-not-in-a-transition-year-and-backs-club-to-have-a-great-season",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-20T11:18:25.818Z"
+    "cachedAt": "2026-09-20T16:01:45.723Z"
   }
 }
