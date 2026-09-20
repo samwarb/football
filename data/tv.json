@@ -2,19 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "bournemouth|liverpool": [
-      "Sky Sports Main Event"
-    ],
-    "leeds united|crystal palace": [
-      "Sky Sports Tennis"
-    ],
-    "manchester city|sunderland": [
-      "Sky Sports Premier League"
-    ],
-    "fulham|manchester united": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "arsenal|leeds united": [
       "TNT Sports 1",
       "TNT Sports Ultimate",
@@ -225,6 +212,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-20T16:01:45.635Z"
+    "cachedAt": "2026-09-20T20:46:19.180Z"
   }
 }
