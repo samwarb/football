@@ -2,16 +2,133 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49984178,
+      "source": "ESPN",
+      "headline": "Tottenham's horror start continues with home loss to Villa",
+      "description": "Aston Villa heap pressure on Roberto De Zerbi's big-spending and still winless Spurs with a 3-2 victory at Tottenham Hotspur stadium.",
+      "publishedAt": "2026-09-20T00:37:33Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_EPL_Highlight_Tottenhams_horror_start_continues_with_home_loss_to_Villa_20260920_AUS_ONLY/dm_260919_EPL_Highlight_Tottenhams_horror_start_continues_with_home_loss_to_Villa_20260920_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49984178/tottenham-horror-start-continues-home-loss-villa",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49983806,
+      "source": "ESPN",
+      "headline": "Brighton shatter Arsenal's perfect start",
+      "description": "Brighton shock Mikel Arteta's dumbstruck side 3-0 to end Arsenal's 100% start to their EPL title defense in stunning fashion.",
+      "publishedAt": "2026-09-19T23:52:59Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_EPL_Highlight_Brighton_shatter_Arsenals_perfect_start__20260920_AUS_ONLY/dm_260919_EPL_Highlight_Brighton_shatter_Arsenals_perfect_start__20260920_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49983806/brighton-shatter-arsenal-perfect-start",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 49982774,
+      "source": "ESPN",
+      "headline": "Hislop: Arsenal have lost one game, there's no need to panic",
+      "description": "Hislop: Arsenal have lost one game, there's no need to panic",
+      "publishedAt": "2026-09-19T22:25:42Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_Hislop_Arsenal_have_lost_one_game_theres_no_need_to_panic/dm_260919_Hislop_Arsenal_have_lost_one_game_theres_no_need_to_panic.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49982774/arsenal-lost-one-game-there-no-need-panic",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 49982914,
+      "source": "ESPN",
+      "headline": "Keller: Tottenham don't have the ownership they need",
+      "description": "Keller: Tottenham don't have the ownership they need",
+      "publishedAt": "2026-09-19T22:25:34Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_Keller_Tottenham_dont_have_the_ownership_they_need/dm_260919_Keller_Tottenham_dont_have_the_ownership_they_need.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49982914/tottenham-ownership-need",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 49982583,
+      "source": "ESPN",
+      "headline": "Frank Lampard values Coventry's hard work after first Premier League win in 25 years",
+      "description": "Frank Lampard said he was grateful for his team's work ethic after Coventry ended a four-game losing streak to claim their first Premier League win for 25 years.",
+      "publishedAt": "2026-09-19T21:48:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0919/r1719129_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49982583/frank-lampard-values-coventry-hard-work-first-premier-league-win-25-years",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City",
+        "Nottingham Forest"
+      ]
+    },
+    {
       "id": 49703019,
       "source": "ESPN",
       "headline": "Premier League VAR review: Was Rice lucky not to be sent off at Brighton?",
       "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
-      "publishedAt": "2026-09-19T20:22:52Z",
+      "publishedAt": "2026-09-19T21:40:01Z",
       "image": "https://a.espncdn.com/photo/2026/0914/r1716456_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
+      ]
+    },
+    {
+      "id": "4749e9669398c17d2c15b4f225257e36",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd legend set to sign up for I'm A Celebrity",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-09-19T21:30:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13589966/wayne-rooney-manchester-united-and-england-legend-set-to-sign-up-for-im-a-celebrity-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "433c30544b8f1dd5687769d6bbdd7135",
+      "source": "Sky Sports",
+      "headline": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
+      "description": "",
+      "publishedAt": "2026-09-19T21:09:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-hits-and-misses_7356593.jpg?20260919185236",
+      "link": "https://www.skysports.com/football/news/12040/13589567/tottenham-continue-downward-spiral-as-arsenal-prove-they-are-not-perfect-premier-league-hits-and-misses",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "c8bd0ab59e8c9a1506c6e90bf7aa636e",
+      "source": "Sky Sports",
+      "headline": "Rosenior goads Strasbourg fans after Paris FC win",
+      "description": "",
+      "publishedAt": "2026-09-19T20:52:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-liam-rosenior-image_7356727.jpg?20260919213930",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49979878,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi refuses to speak to Tottenham players, calls on 'leaders' to 'lead'",
+      "description": "Roberto De Zerbi called on the \"leaders\" in the Tottenham squad to \"lead the team\" as he criticized the manner in which they conceded the first two of Aston Villa's goals.",
+      "publishedAt": "2026-09-19T20:41:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0919/r1718972_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49979878/roberto-de-zerbi-demands-tottenham-leaders-lead-team-aston-villa-loss",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Aston Villa"
       ]
     },
     {
@@ -41,6 +158,28 @@
         "Nottingham Forest",
         "Coventry City"
       ]
+    },
+    {
+      "id": "6206f1d6ba63e7e817ec72d41b2f0bd0",
+      "source": "Sky Sports",
+      "headline": "Warrington beat Hull KR to set up semi against Leeds as Hiku sees red",
+      "description": "Warrington Wolves set up a Super League semi-final with Leeds Rhinos after a 35-12 victory over reigning champions Hull KR in their eliminator showdown at the Halliwell Jones Stadium.",
+      "publishedAt": "2026-09-19T18:30:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7356623.jpg?20260919191253",
+      "link": "https://www.skysports.com/rugby-league/warrington-vs-hull-k-r/report/63346",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "b4d6777c061383aa6896206a1b9863d7",
+      "source": "Sky Sports",
+      "headline": "Coventry seal first PL win in 25 years at Forest amid VAR controversy",
+      "description": "Coventry earned their first Premier League victory in 25 years after Jay Dasilva's winner and a controversial disallowed Nottingham Forest equaliser saw the promoted side win 1-0 at the City Ground.",
+      "publishedAt": "2026-09-19T18:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jay-dasilva-premier-league_7356581.jpg?20260919184931",
+      "link": "https://www.skysports.com/football/nottingham-forest-vs-coventry-city/report/559492",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 49980636,
@@ -96,20 +235,6 @@
       "teams": [
         "Arsenal",
         "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 49979878,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi refuses to speak to Tottenham players, calls on 'leaders' to 'lead'",
-      "description": "Roberto De Zerbi called on the \"leaders\" in the Tottenham squad to \"lead the team\" as he criticized the manner in which they conceded the first two of Aston Villa's goals.",
-      "publishedAt": "2026-09-19T16:59:52Z",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1718972_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49979878/roberto-de-zerbi-demands-tottenham-leaders-lead-team-aston-villa-loss",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Aston Villa"
       ]
     },
     {
@@ -193,50 +318,6 @@
       "teams": []
     },
     {
-      "id": "7bdc7f0154a416ae43e3fc3e57e6c766",
-      "source": "Sky Sports",
-      "headline": "Preston denied by comeback from 10-man QPR",
-      "description": "Paul Smyth scored a 90th-minute equaliser for 10-man QPR as they came back from two goals down to draw 2-2 with struggling Preston.",
-      "publishedAt": "2026-09-19T16:15:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-johnny-kenny-efl_7356363.jpg?20260919170040",
-      "link": "https://www.skysports.com/football/queens-park-rangers-vs-preston-north-end/report/560590",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "26674d9519fe771213ae892f6803de1b",
-      "source": "Sky Sports",
-      "headline": "Swansea go top after victory at Lincoln",
-      "description": "Swansea moved to the top of the Sky Bet Championship after Stephen Eustaquio's first goal for the club earned a 2-1 victory at Lincoln at the ProAmpac Stadium.",
-      "publishedAt": "2026-09-19T16:15:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-swansea-lincoln_7356301.jpg?20260919162428",
-      "link": "https://www.skysports.com/football/lincoln-city-vs-swansea-city/report/560586",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "c9eb81ce4a769544330ff0bc42f08b44",
-      "source": "Sky Sports",
-      "headline": "Burnley still winless after Derby strike late to earn point",
-      "description": "Burnley were denied a first league victory since February as Mohammed Fuseini's dramatic stoppage-time equaliser earned Derby a 1-1 draw at Turf Moor in the Championship.",
-      "publishedAt": "2026-09-19T16:15:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-burnley-derby_7356255.jpg?20260919155629",
-      "link": "https://www.skysports.com/football/burnley-vs-derby-county/report/560584",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "553291f97bbfe31f68fafb6478d0ed2f",
-      "source": "Sky Sports",
-      "headline": "Wrexham beat Southampton after late own goal",
-      "description": "Wrexham secured a smash-and-grab 2-1 victory against wasteful Southampton courtesy of Keven Schlotterbeck's late own goal.",
-      "publishedAt": "2026-09-19T16:15:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kieffer-moore-wrexham_7356243.jpg?20260919154814",
-      "link": "https://www.skysports.com/football/wrexham-vs-southampton/report/560593",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49968474,
       "source": "ESPN",
       "headline": "Thierno Barry strikes for Everton to sink 10-man Ipswich",
@@ -262,17 +343,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": "209eb3071efaf0b20fc8f55398ddb97a",
-      "source": "Sky Sports",
-      "headline": "West Ham latest: Spitting allegation made as Nuno backs Kante red-card foul",
-      "description": "",
-      "publishedAt": "2026-09-19T15:23:00.000Z",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49979655,
@@ -407,82 +477,11 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": 49974564,
-      "source": "ESPN",
-      "headline": "How can erratic Chelsea find stability? For starters: Look to Brentford",
-      "description": "Brentford's 3-0 thrashing of Chelsea served as a humbling reminder of what a well-run club can accomplish.",
-      "publishedAt": "2026-09-18T21:45:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718755_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49974564/how-chelsea-find-stability-look-brentford-premier-league",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49973574,
-      "source": "ESPN",
-      "headline": "Brentford 3-0 Chelsea: Premier League action as Bees sink Xabi Alonso's Blues - as it happened",
-      "description": "Goals from Jaidon Anthony, Igor Thiago and Fábio Carvalho see Brentford beat Chelsea. Follow reaction with ESPN.",
-      "publishedAt": "2026-09-18T21:32:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718740_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49973574/brentford-chelsea-live-premier-league-updates-commentary-score-news-west-london-clash",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Brentford"
-      ]
-    },
-    {
-      "id": 49975058,
-      "source": "ESPN",
-      "headline": "Nicol: Chelsea aren't performing any better than last year",
-      "description": "Nicol: Chelsea aren't performing any better than last year",
-      "publishedAt": "2026-09-18T21:22:13Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/dm_260918_Nicol_Chelsea_arent_performing_any_better_than_last_year/dm_260918_Nicol_Chelsea_arent_performing_any_better_than_last_year.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49975058/chelsea-performing-better-last-year",
-      "tag": "Brentford",
-      "teams": [
-        "Brentford",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49968426,
-      "source": "ESPN",
-      "headline": "High-flying Brentford hammer struggling Chelsea",
-      "description": "Chelsea's winless run in the Premier League stretched to three matches as Brentford ran out deserved 3-0 winners at the Gtech Community Stadium.",
-      "publishedAt": "2026-09-18T21:12:33Z",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718753_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879275",
-      "tag": "Brentford",
-      "teams": [
-        "Brentford",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 49970584,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid, Barcelona track Man City-bound USMNT star Sullivan",
-      "description": "Real Madrid and Barcelona could make a future move for USMNT youngster Cavan Sullivan. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-18T19:11:31Z",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711097_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49970584/transfer-rumors-news-real-madrid-barcelona-track-man-city-bound-usmnt-star-sullivan",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Barcelona",
-        "Philadelphia Union",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-19T20:36:21.273Z"
+    "cachedAt": "2026-09-20T04:50:25.104Z"
   }
 }
