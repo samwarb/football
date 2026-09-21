@@ -2,6 +2,243 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49997321,
+      "source": "ESPN",
+      "headline": "Carrick has an impossible job at Man United after transfer failures",
+      "description": "Manchester United's players aren't good enough and the club isn't doing enough to rectify that, so where does that leave manager Michael Carrick?",
+      "publishedAt": "2026-09-21T12:27:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719923_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49997321/michael-carrick-impossible-job-man-united-transfer-failures",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49997658,
+      "source": "ESPN",
+      "headline": "Antoine Semenyo happy to lead Man City's attack if needed",
+      "description": "Antoine Semenyo is ready to take on the challenge of leading Manchester City's attack if needed.",
+      "publishedAt": "2026-09-21T11:37:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719951_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49997658/antoine-semenyo-man-city-erling-haaland-premier-league-enzo-maresca",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49997685,
+      "source": "ESPN",
+      "headline": "Lamine Camara better off in Monaco, ex-Chelsea midfielder says",
+      "description": "Chelsea transfer target Lamine Camara has been told he is better off where he is by Monaco teammate and former Blues cast-off Denis Zakaria.",
+      "publishedAt": "2026-09-21T11:28:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719953_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49997685/lamine-camara-better-monaco-ex-chelsea-midfielder-says",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 49997462,
+      "source": "ESPN",
+      "headline": "Ruben Amorim: 'I can't repeat my mistakes' after Man United",
+      "description": "Ruben Amorim has vowed not to repeat the mistakes of his Manchester United tenure at AC Milan.",
+      "publishedAt": "2026-09-21T11:09:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708048_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49997462/ruben-amorim-cant-repeat-my-mistakes-man-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "AC Milan"
+      ]
+    },
+    {
+      "id": "aa6608c17ed445ec9bf4e51ebcbcff77",
+      "source": "Sky Sports",
+      "headline": "Wilson ruled out of Wales' Nations League games",
+      "description": "",
+      "publishedAt": "2026-09-21T11:09:00.000Z",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-harry-wilson-wales_7204014.jpg?20260326202607",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49997530,
+      "source": "ESPN",
+      "headline": "Matheus Cunha urges calm after disproving 'Man United will go to Championship' fear",
+      "description": "Matheus Cunha has said it's too early to write off Manchester United this season after reminding critics they were able to recover from a poor start a year ago to finish third in the Premier League.",
+      "publishedAt": "2026-09-21T11:06:46Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719949_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49997530/matheus-cunha-urges-calm-disproving-man-united-go-championship-fear",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "db705cd869f5fabc75376648257117ce",
+      "source": "Sky Sports",
+      "headline": "Sunderland latest: Xhaka withdraws from Switzerland squad",
+      "description": "",
+      "publishedAt": "2026-09-21T11:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "afce1023bb2444261ae6e27e58289c6f",
+      "source": "Sky Sports",
+      "headline": "Out-run? Walking too much? Man Utd's running stats examined",
+      "description": "Manchester United's intensity levels are back in the spotlight after their 1-1 draw at Fulham in the Premier League.",
+      "publishedAt": "2026-09-21T11:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-youri-tielemans-manchester_7357812.jpg?20260921113924",
+      "link": "https://www.skysports.com/football/news/12040/13590371/manchester-united-running-stats-for-michael-carricks-side-examined-after-intensity-criticism-in-draw-at-fulham",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49996901,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal eye versatile Dortmund forward Beier",
+      "description": "Arsenal are monitoring Borussia Dortmund forward Maximilian Beier as a potential attacking reinforcement. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-21T09:43:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719920_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
+      "tag": "Borussia Dortmund",
+      "teams": [
+        "Borussia Dortmund",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7c7939d036957384c230bed809099b85",
+      "source": "Sky Sports",
+      "headline": "Merson: There's no way Man City win the league",
+      "description": "Paul Merson believes Premier League leaders Manchester City have \"no way\" of winning the title if they keep playing as they are.",
+      "publishedAt": "2026-09-21T09:37:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-haaland-man-city_7357757.jpg?20260921104931",
+      "link": "https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": 49996979,
+      "source": "ESPN",
+      "headline": "Carragher questions Wirtz future in Liverpool XI after latest struggles",
+      "description": "Jamie Carragher has called on Andoni Iraola to drop Florian Wirtz for Liverpool's clash with Manchester City after describing the midfielder's display against Bournemouth as one of his worst since arriving at Anfield.",
+      "publishedAt": "2026-09-21T09:05:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719919_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49996979/carragher-questions-wirtz-future-liverpool-xi-latest-struggles",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 49997130,
+      "source": "ESPN",
+      "headline": "Man United's Michael Carrick concerned about Benjamin Sesko's latest injury",
+      "description": "Michael Carrick has raised concerns about Benjamin Sesko's latest injury by revealing the problem is connected to the same shin issue which kept the striker sidelined for more than two months over the summer.",
+      "publishedAt": "2026-09-21T08:59:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719927_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49997130/man-united-michael-carrick-concerned-benjamin-sesko-latest-injury",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49940653,
+      "source": "ESPN",
+      "headline": "Why this 3-week international break is longest ever (and why that's a good thing)",
+      "description": "Fans have grown used to international games interrupting the club season, but this break will be a week longer than before. It's not as bad as it sounds.",
+      "publishedAt": "2026-09-21T07:52:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1716998_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49940653/why-3-week-international-break-longest-ever-why-thats-good-thing",
+      "tag": "Argentina",
+      "teams": [
+        "Argentina",
+        "Australia",
+        "Brazil",
+        "England",
+        "France",
+        "Germany",
+        "Italy",
+        "Japan",
+        "Mexico",
+        "Netherlands",
+        "Nigeria",
+        "Portugal",
+        "South Korea",
+        "United States"
+      ]
+    },
+    {
+      "id": "e92065f8736d027ac04288d081436f5f",
+      "source": "Sky Sports",
+      "headline": "Palmer withdrawing from England squad",
+      "description": "Cole Palmer is withdrawing from the England squad because of a muscle injury.",
+      "publishedAt": "2026-09-21T07:25:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cole-palmer_7357649.jpg?20260921095715",
+      "link": "https://www.skysports.com/football/news/12040/13590334/england-latest-cole-palmer-withdraws-from-thomas-tuchels-squad-ahead-of-long-international-break",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b6f8dceaf77a8c6068724a3f43cdae31",
+      "source": "Sky Sports",
+      "headline": "Man Utd latest: Neville calls for formation change after 'worst 15 mins' vs Fulham",
+      "description": "",
+      "publishedAt": "2026-09-21T07:15:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49991106,
+      "source": "ESPN",
+      "headline": "Carrick quashes notion Manchester United are out of shape",
+      "description": "Michael Carrick played down concerns that Manchester United's poor start to the season has been caused by a lack of fitness within the squad.",
+      "publishedAt": "2026-09-21T06:55:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719613_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49991106/carrick-squashes-notion-manchester-united-shape",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "6f2f584464b406689848858b29e796f6",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Does Wirtz play vs Man City? Name your starting XI",
+      "description": "",
+      "publishedAt": "2026-09-21T06:55:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 49996523,
+      "source": "ESPN",
+      "headline": "Isak's winner lifts Liverpool to victory",
+      "description": "Alexander Isak's second-half strike secures Liverpool boss Andoni Iraola a 1-0 victory over his former club Bournemouth.",
+      "publishedAt": "2026-09-21T05:55:49Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0921/dm_260921_EPL_Highlight_Isaks_winner_lifts_Liverpool_to_victory_20260921_AUS_ONLY/dm_260921_EPL_Highlight_Isaks_winner_lifts_Liverpool_to_victory_20260921_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49996523/isak-winner-lifts-liverpool-victory",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Liverpool"
+      ]
+    },
+    {
       "id": 49995690,
       "source": "ESPN",
       "headline": "Manchester City score five in thrilling win over Sunderland",
@@ -86,19 +323,6 @@
       ]
     },
     {
-      "id": 49991106,
-      "source": "ESPN",
-      "headline": "Carrick squashes notion Manchester United are out of shape",
-      "description": "Michael Carrick played down concerns that Manchester United's poor start to the season has been caused by a lack of fitness within the squad.",
-      "publishedAt": "2026-09-20T19:26:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719613_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49991106/carrick-squashes-notion-manchester-united-shape",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49991293,
       "source": "ESPN",
       "headline": "Maresca isn't getting excited about Man City being top",
@@ -124,17 +348,6 @@
         "Manchester United",
         "Manchester City"
       ]
-    },
-    {
-      "id": "2d9d418d21b4ca89f5ecd6a3e350919c",
-      "source": "Sky Sports",
-      "headline": "Hits and misses: Maresca's Man City serve up pure chaos as Gakpo shines",
-      "description": "",
-      "publishedAt": "2026-09-20T19:15:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-pl-hits-and-misses_7357347.jpg?20260920184427",
-      "link": "https://www.skysports.com/football/news/12040/13590166/man-city-serve-up-pure-chaos-under-enzo-maresca-as-cody-gakpo-shines-for-liverpool-premier-league-hits-and-misses",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49991142,
@@ -175,28 +388,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "2f6d8acc99fdf1a7f13400203a7ca216",
-      "source": "Sky Sports",
-      "headline": "Neville: Carrick must stop defending Man Utd players after Fulham 'disgrace'",
-      "description": "Gary Neville has urged Michael Carrick to stop defending Manchester United players after another troubling performance in their draw at Fulham.",
-      "publishedAt": "2026-09-20T18:50:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-michael-carrick-lisandro-martinez_7357426.jpg?20260920194716",
-      "link": "https://www.skysports.com/football/news/12040/13590228/gary-neville-michael-carrick-has-got-to-stop-defending-man-utd-players-after-lacklustre-draw-at-fulham",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
-      "id": "e7a6e44fcdb1209be74720e610bea734",
-      "source": "Sky Sports",
-      "headline": "'Might be time to wrap it up' - O'Neill to consider Celtic future",
-      "description": "Martin O'Neill will take stock as his future as Celtic boss comes under further scrutiny following the 1-0 defeat by Rangers at Parkhead.",
-      "publishedAt": "2026-09-20T18:50:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-martin-oneill-celtic_7357325.jpg?20260920182927",
-      "link": "https://www.skysports.com/football/news/12040/13590236/martin-oneill-to-consider-celtic-future-as-rangers-defeat-adds-to-growing-scrutiny-might-be-time-to-wrap-it-up",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49990867,
@@ -308,146 +499,20 @@
       ]
     },
     {
-      "id": 49968497,
-      "source": "ESPN",
-      "headline": "Man City down Sunderland in eight-goal thriller",
-      "description": "Brian Brobbey scored a hat trick in a losing cause as Manchester City maintained their 100% Premier League start with a frantic 5-3 win over Sunderland.",
-      "publishedAt": "2026-09-20T15:49:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719453_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879272",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49968487,
-      "source": "ESPN",
-      "headline": "Alexander Isak winner for Liverpool on Andoni Iraola return to Bournemouth",
-      "description": "Alexander Isak's second-half strike secured Liverpool boss Andoni Iraola all three points on his return to the Vitality Stadium in a 1-0 victory over his old club Bournemouth.",
-      "publishedAt": "2026-09-20T15:13:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719454_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879276",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49968492,
-      "source": "ESPN",
-      "headline": "Leeds and Crystal Palace battle to gritty goalless draw",
+      "id": "0b3a5e2f83c342df7ded78383ceb9a22",
+      "source": "Sky Sports",
+      "headline": "Ref Watch & Premier League weekend reaction",
       "description": "",
-      "publishedAt": "2026-09-20T14:59:55Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719456_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879273",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United",
-        "Crystal Palace"
-      ]
-    },
-    {
-      "id": 49988672,
-      "source": "ESPN",
-      "headline": "Bruno Guimarães: Arsenal performance in Brighton defeat not fit for champions",
-      "description": "Bruno Guimarães said Arsenal's \"unacceptable\" performance in their defeat at Brighton was not fit for a Premier League champions' shirt.",
-      "publishedAt": "2026-09-20T13:19:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719400_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49988672/bruno-guimaraes-arsenal-performance-brighton-defeat-not-fit-champions",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 49987712,
-      "source": "ESPN",
-      "headline": "Tottenham boss Roberto De Zerbi wants more from Dominic Solanke: 'Not good enough'",
-      "description": "Roberto De Zerbi has acknowledged Tottenham Hotspur need more from Dominic Solanke after he criticised the physical condition of the forward.",
-      "publishedAt": "2026-09-20T09:20:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719361_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49987712/tottenham-boss-roberto-de-zerbi-wants-more-dominic-solanke-not-good-enough",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49987262,
-      "source": "ESPN",
-      "headline": "Michael Carrick: Man United cannot let VAR error have 'impact' on rest of season",
-      "description": "Michael Carrick has warned his Manchester United players last weekend's VAR controversy in their derby defeat to rivals City cannot become a pivotal moment in their season.",
-      "publishedAt": "2026-09-20T07:03:00Z",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716944_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49987262/michael-carrick-man-united-cannot-let-var-error-impact-rest-season",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49984178,
-      "source": "ESPN",
-      "headline": "Tottenham's horror start continues with home loss to Villa",
-      "description": "Aston Villa heap pressure on Roberto De Zerbi's big-spending and still winless Spurs with a 3-2 victory at Tottenham Hotspur stadium.",
-      "publishedAt": "2026-09-20T00:37:33Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_EPL_Highlight_Tottenhams_horror_start_continues_with_home_loss_to_Villa_20260920_AUS_ONLY/dm_260919_EPL_Highlight_Tottenhams_horror_start_continues_with_home_loss_to_Villa_20260920_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49984178/tottenham-horror-start-continues-home-loss-villa",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 49983806,
-      "source": "ESPN",
-      "headline": "Brighton shatter Arsenal's perfect start",
-      "description": "Brighton shock Mikel Arteta's dumbstruck side 3-0 to end Arsenal's 100% start to their EPL title defense in stunning fashion.",
-      "publishedAt": "2026-09-19T23:52:59Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_EPL_Highlight_Brighton_shatter_Arsenals_perfect_start__20260920_AUS_ONLY/dm_260919_EPL_Highlight_Brighton_shatter_Arsenals_perfect_start__20260920_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49983806/brighton-shatter-arsenal-perfect-start",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 49982774,
-      "source": "ESPN",
-      "headline": "Hislop: Arsenal have lost one game, there's no need to panic",
-      "description": "Hislop: Arsenal have lost one game, there's no need to panic",
-      "publishedAt": "2026-09-19T22:25:42Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_Hislop_Arsenal_have_lost_one_game_theres_no_need_to_panic/dm_260919_Hislop_Arsenal_have_lost_one_game_theres_no_need_to_panic.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49982774/arsenal-lost-one-game-there-no-need-panic",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 49982914,
-      "source": "ESPN",
-      "headline": "Keller: Tottenham don't have the ownership they need",
-      "description": "Keller: Tottenham don't have the ownership they need",
-      "publishedAt": "2026-09-19T22:25:34Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0919/dm_260919_Keller_Tottenham_dont_have_the_ownership_they_need/dm_260919_Keller_Tottenham_dont_have_the_ownership_they_need.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49982914/tottenham-ownership-need",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa",
-        "Tottenham Hotspur"
-      ]
+      "publishedAt": "2026-09-14T15:30:00.000Z",
+      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-ref-watch-arsenal_7097559.jpg?20251201130707",
+      "link": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-21T04:51:13.487Z"
+    "cachedAt": "2026-09-21T12:43:03.105Z"
   }
 }
