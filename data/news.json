@@ -2,17 +2,45 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49995690,
+      "source": "ESPN",
+      "headline": "Manchester City score five in thrilling win over Sunderland",
+      "description": "The Sky Blues remain top of the Premier League table after a goal-filled 5-3 victory over the Black Cats.",
+      "publishedAt": "2026-09-21T02:40:47Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/Int_260920_Soccer_HIGHLIGHT_Manchester_City_score_five_in_thrilling_win_over_Sunderland_2026921_AUS/Int_260920_Soccer_HIGHLIGHT_Manchester_City_score_five_in_thrilling_win_over_Sunderland_2026921_AUS.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49995690/manchester-city-score-five-thrilling-win-sunderland",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Sunderland"
+      ]
+    },
+    {
       "id": 49991048,
       "source": "ESPN",
       "headline": "Michael Carrick keen to find Man United positives, but there aren't many right now",
       "description": "This is Man United's worst start in a Premier League season in 12 years. Is there any reason to believe a turnaround is ahead?",
-      "publishedAt": "2026-09-20T19:42:42Z",
+      "publishedAt": "2026-09-21T01:28:50Z",
       "image": "https://a.espncdn.com/photo/2026/0920/r1719563_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/49991048/michael-carrick-keen-find-man-united-positives-there-many-right-now",
       "tag": "Manchester United",
       "teams": [
         "Manchester United",
         "Fulham"
+      ]
+    },
+    {
+      "id": 49995197,
+      "source": "ESPN",
+      "headline": "United stumble again at Fulham",
+      "description": "A comical own goal by Lisandro Martínez saw Manchester United fail to win for a third Premier League game in a row as they drew 1-1 with Fulham.",
+      "publishedAt": "2026-09-21T01:09:42Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/49995197/united-stumble-again-fulham",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Manchester United"
       ]
     },
     {
@@ -98,6 +126,17 @@
       ]
     },
     {
+      "id": "2d9d418d21b4ca89f5ecd6a3e350919c",
+      "source": "Sky Sports",
+      "headline": "Hits and misses: Maresca's Man City serve up pure chaos as Gakpo shines",
+      "description": "",
+      "publishedAt": "2026-09-20T19:15:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-pl-hits-and-misses_7357347.jpg?20260920184427",
+      "link": "https://www.skysports.com/football/news/12040/13590166/man-city-serve-up-pure-chaos-under-enzo-maresca-as-cody-gakpo-shines-for-liverpool-premier-league-hits-and-misses",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49991142,
       "source": "ESPN",
       "headline": "Iraola: Isak got his reward vs. Bournemouth",
@@ -136,6 +175,28 @@
       "teams": [
         "Manchester City"
       ]
+    },
+    {
+      "id": "2f6d8acc99fdf1a7f13400203a7ca216",
+      "source": "Sky Sports",
+      "headline": "Neville: Carrick must stop defending Man Utd players after Fulham 'disgrace'",
+      "description": "Gary Neville has urged Michael Carrick to stop defending Manchester United players after another troubling performance in their draw at Fulham.",
+      "publishedAt": "2026-09-20T18:50:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-michael-carrick-lisandro-martinez_7357426.jpg?20260920194716",
+      "link": "https://www.skysports.com/football/news/12040/13590228/gary-neville-michael-carrick-has-got-to-stop-defending-man-utd-players-after-lacklustre-draw-at-fulham",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": "e7a6e44fcdb1209be74720e610bea734",
+      "source": "Sky Sports",
+      "headline": "'Might be time to wrap it up' - O'Neill to consider Celtic future",
+      "description": "Martin O'Neill will take stock as his future as Celtic boss comes under further scrutiny following the 1-0 defeat by Rangers at Parkhead.",
+      "publishedAt": "2026-09-20T18:50:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-martin-oneill-celtic_7357325.jpg?20260920182927",
+      "link": "https://www.skysports.com/football/news/12040/13590236/martin-oneill-to-consider-celtic-future-as-rangers-defeat-adds-to-growing-scrutiny-might-be-time-to-wrap-it-up",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49990867,
@@ -221,28 +282,6 @@
       ]
     },
     {
-      "id": "976c7e949c7d68f0f69a2701716a7066",
-      "source": "Sky Sports",
-      "headline": "Carra: One of worst I've seen from Wirtz - he can't play vs Man City",
-      "description": "Jamie Carragher says Florian Wirtz put in his worst performance yet in a Liverpool shirt away at Bournemouth - and he would not want the midfielder in Andoni Iraola's team to face Manchester City in the next game.",
-      "publishedAt": "2026-09-20T17:13:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-wirtz-liverpool_7357301.jpg?20260920182421",
-      "link": "https://www.skysports.com/football/news/12040/13590105/liverpools-florian-wirtz-put-in-one-of-his-worst-performances-at-bournemouth-and-shouldnt-play-against-man-city-says-jamie-carragher",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "710da9ec55e001e1ab774e0068fac9f8",
-      "source": "Sky Sports",
-      "headline": "Arsenal latest: Gunners defeat to Brighton is good for the league, says Carra",
-      "description": "",
-      "publishedAt": "2026-09-20T16:40:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49989640,
       "source": "ESPN",
       "headline": "Erling Haaland sets unique goal milestone as Man City beat Sunderland",
@@ -283,17 +322,6 @@
       ]
     },
     {
-      "id": "7f2529c2ac66b3856b13f91353b407cd",
-      "source": "Sky Sports",
-      "headline": "Palace secure valuable point at unbeaten Leeds",
-      "description": "Crystal Palace secured a useful point at in-form and unbeaten Leeds as Pierre Sage's side produced a much-improved defensive display to hold the hosts to a goalless draw at Elland Road.",
-      "publishedAt": "2026-09-20T15:20:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-tyrick-mitchell-premier-league_7357096.jpg?20260920151532",
-      "link": "https://www.skysports.com/football/leeds-united-vs-crystal-palace/report/559489",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49968487,
       "source": "ESPN",
       "headline": "Alexander Isak winner for Liverpool on Andoni Iraola return to Bournemouth",
@@ -306,17 +334,6 @@
         "AFC Bournemouth",
         "Liverpool"
       ]
-    },
-    {
-      "id": "28162f05a1c28acfa3a7014461f54340",
-      "source": "Sky Sports",
-      "headline": "Eight goals and complete CHAOS as Man City somehow beat Sunderland",
-      "description": "Manchester City head into the extended international break three points clear at the top of the Premier League after edging a completely bonkers, gloriously chaotic eight-goal thriller against Sunderland, winning 5-3.",
-      "publishedAt": "2026-09-20T15:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-antoine-semenyo-premier-league_7357115.jpg?20260920152410",
-      "link": "https://www.skysports.com/football/manchester-city-vs-sunderland/report/559490",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 49968492,
@@ -333,28 +350,6 @@
       ]
     },
     {
-      "id": "772ca6677fe1ce9ed343506f5ede7b77",
-      "source": "Sky Sports",
-      "headline": "Isak wins it for Liverpool on Iraola's return to Bournemouth",
-      "description": "Alexander Isak scored the winning goal as Liverpool beat Bournemouth 1-0 on Andoni Iraola's return to the Vitality Stadium.",
-      "publishedAt": "2026-09-20T14:50:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-isak-liverpool_7357212.jpg?20260920173819",
-      "link": "https://www.skysports.com/football/bournemouth-vs-liverpool/report/559484",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "a266637ecb0944f58c12ebbc7dc0367f",
-      "source": "Sky Sports",
-      "headline": "Bolton prevail at Norwich in seven-goal thriller",
-      "description": "Norwich suffered their second successive 4-3 Sky Bet Championship defeat as Bolton came out on top in a thrilling encounter at Carrow Road.",
-      "publishedAt": "2026-09-20T14:38:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-gaizka-larrazabal_7357039.jpg?20260920142958",
-      "link": "https://www.skysports.com/football/norwich-city-vs-bolton-wanderers/report/560588",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 49988672,
       "source": "ESPN",
       "headline": "Bruno Guimarães: Arsenal performance in Brighton defeat not fit for champions",
@@ -366,17 +361,6 @@
       "teams": [
         "Arsenal"
       ]
-    },
-    {
-      "id": "e2f7d5ead9450fa78fd421b6a9b6ecb4",
-      "source": "Sky Sports",
-      "headline": "Man Utd level late on at Fulham after HORROR Martinez OG LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-20T11:30:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-matheus-cunha-premier-league_7357317.jpg?20260920181900",
-      "link": "https://www.skysports.com/football/fulham-vs-manchester-united/live/559488",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49987712,
@@ -459,39 +443,11 @@
         "Aston Villa",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 49982583,
-      "source": "ESPN",
-      "headline": "Frank Lampard values Coventry's hard work after first Premier League win in 25 years",
-      "description": "Frank Lampard said he was grateful for his team's work ethic after Coventry ended a four-game losing streak to claim their first Premier League win for 25 years.",
-      "publishedAt": "2026-09-19T21:48:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1719129_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49982583/frank-lampard-values-coventry-hard-work-first-premier-league-win-25-years",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 49944459,
-      "source": "ESPN",
-      "headline": "European soccer recap: Brighton humble Arsenal, Villa keep Spurs winless",
-      "description": "Another weekend of European soccer action continues with Brighton & Hove Albion hosting Premier League leaders and defending champions Arsenal.",
-      "publishedAt": "2026-09-19T18:51:35Z",
-      "image": "https://a.espncdn.com/photo/2026/0919/r1718991_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49944459/european-soccer-live-updates-tottenham-aston-villa-brighton-arsenal-inter-roma-sevilla-barcelona",
-      "tag": "Brighton & Hove Albion",
-      "teams": [
-        "Brighton & Hove Albion",
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-20T20:46:19.357Z"
+    "cachedAt": "2026-09-21T04:51:13.487Z"
   }
 }
