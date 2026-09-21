@@ -101,6 +101,85 @@
       "Sky Sports Main Event",
       "Sky Sports Premier League"
     ],
+    "everton|coventry city": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "leeds united|tottenham hotspur": [
+      "TNT Sports 1",
+      "TNT Sports Ultimate",
+      "HBO Max"
+    ],
+    "nottingham forest|manchester city": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "brighton and hove albion|brentford": [
+      "Sky Sports TBC"
+    ],
+    "crystal palace|liverpool": [
+      "Sky Sports TBC"
+    ],
+    "ipswich town|bournemouth": [
+      "Sky Sports TBC"
+    ],
+    "sunderland|chelsea": [
+      "Sky Sports TBC"
+    ],
+    "manchester united|aston villa": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "manchester city|fulham": [
+      "TNT Sports 1",
+      "TNT Sports Ultimate",
+      "HBO Max"
+    ],
+    "newcastle united|arsenal": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "hull city|brighton and hove albion": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "liverpool|manchester united": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "brentford|everton": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "nottingham forest|chelsea": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "ipswich town|aston villa": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
+    "everton|liverpool": [
+      "TNT Sports 1",
+      "TNT Sports Ultimate",
+      "HBO Max"
+    ],
+    "brighton and hove albion|newcastle united": [
+      "Sky Sports TBC"
+    ],
+    "crystal palace|hull city": [
+      "Sky Sports TBC"
+    ],
+    "fulham|bournemouth": [
+      "Sky Sports TBC"
+    ],
+    "sunderland|tottenham hotspur": [
+      "Sky Sports TBC"
+    ],
+    "arsenal|manchester city": [
+      "Sky Sports Main Event",
+      "Sky Sports Premier League"
+    ],
     "aston villa|leeds united": [
       "TNT Sports 1",
       "TNT Sports Ultimate",
@@ -212,6 +291,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-21T12:43:02.937Z"
+    "cachedAt": "2026-09-21T21:56:50.430Z"
   }
 }

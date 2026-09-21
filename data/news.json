@@ -2,6 +2,73 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 49996901,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Mesloub to replace Gabriel at Man United?",
+      "description": "Could Lens winger Mezian Mesloub be Manchester United's latest teenage signing? Transfer Talk has the latest.",
+      "publishedAt": "2026-09-21T21:34:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720167_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
+      "tag": "Lens",
+      "teams": [
+        "Lens",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49997130,
+      "source": "ESPN",
+      "headline": "Man United's Michael Carrick concerned about Benjamin Sesko's latest injury",
+      "description": "Michael Carrick has raised concerns about Benjamin Sesko's latest injury by revealing the problem is connected to the same shin issue which kept the striker sidelined for more than two months over the summer.",
+      "publishedAt": "2026-09-21T17:28:08Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719927_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49997130/man-united-michael-carrick-concerned-benjamin-sesko-latest-injury",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "068f59b984e891590937cf8d060e7cb2",
+      "source": "Sky Sports",
+      "headline": "Liverpool vs Man Utd, Arsenal vs Man City live on Sky - November fixtures here",
+      "description": "Liverpool vs Man Utd and Arsenal vs Man City are among the 18 Premier League games being shown live on Sky Sports in November.",
+      "publishedAt": "2026-09-21T15:00:00.000Z",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270616.jpg?20260611102432",
+      "link": "https://www.skysports.com/football/news/12040/13590457/premier-league-fixtures-on-sky-sports-liverpool-vs-man-utd-and-arsenal-vs-man-city-in-november",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 49998485,
+      "source": "ESPN",
+      "headline": "Harry Maguire: Man United didn't take chances against Fulham, paid the price",
+      "description": "Harry Maguire said Manchester United paid the price for failing to take their chances in Sunday's 1-1 draw against Fulham.",
+      "publishedAt": "2026-09-21T14:47:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720012_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49998485/man-united-harry-maguire-fulham-michael-carrick-premier-league",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 49996528,
+      "source": "ESPN",
+      "headline": "Mourinho's ref rants overshadow Madrid derby defeat; can Arsenal shrug off heavy loss?",
+      "description": "Real Madrid lost the derby to Atletico this weekend, but Jose Mourinho's focus was on the refereeing postgame, not the result. Plus: Can Arsenal shake off a deservedly heavy defeat at Brighton?",
+      "publishedAt": "2026-09-21T13:36:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719918_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49996528/real-madrid-atletico-madrid-jose-mourinho-ref-complaint-arsenal-brighton-arteta-marcotti",
+      "tag": "Real Madrid",
+      "teams": [
+        "Real Madrid",
+        "Atlético Madrid",
+        "Arsenal"
+      ]
+    },
+    {
       "id": 49997321,
       "source": "ESPN",
       "headline": "Carrick has an impossible job at Man United after transfer failures",
@@ -26,6 +93,17 @@
       "teams": [
         "Manchester City"
       ]
+    },
+    {
+      "id": "2d835ae486b938081f79eb9936f44f72",
+      "source": "Sky Sports",
+      "headline": "Spurs bottom of PL but more than £300m spent - where do they go from here?",
+      "description": "This time it was supposed to be different. After multiple false dawns for Tottenham Hotspur, the club had a manager with proven Premier League experience, and had handed him a £300m+ war chest - easily the biggest in its entire history.",
+      "publishedAt": "2026-09-21T11:36:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-james-maddison-tottenham_7358043.jpg?20260921165609",
+      "link": "https://www.skysports.com/football/news/12040/13590421/tottenham-bottom-of-premier-league-despite-300m-summer-spend-where-do-they-go-from-here",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 49997685,
@@ -55,17 +133,6 @@
       ]
     },
     {
-      "id": "aa6608c17ed445ec9bf4e51ebcbcff77",
-      "source": "Sky Sports",
-      "headline": "Wilson ruled out of Wales' Nations League games",
-      "description": "",
-      "publishedAt": "2026-09-21T11:09:00.000Z",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-harry-wilson-wales_7204014.jpg?20260326202607",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49997530,
       "source": "ESPN",
       "headline": "Matheus Cunha urges calm after disproving 'Man United will go to Championship' fear",
@@ -79,53 +146,6 @@
       ]
     },
     {
-      "id": "db705cd869f5fabc75376648257117ce",
-      "source": "Sky Sports",
-      "headline": "Sunderland latest: Xhaka withdraws from Switzerland squad",
-      "description": "",
-      "publishedAt": "2026-09-21T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538",
-      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "afce1023bb2444261ae6e27e58289c6f",
-      "source": "Sky Sports",
-      "headline": "Out-run? Walking too much? Man Utd's running stats examined",
-      "description": "Manchester United's intensity levels are back in the spotlight after their 1-1 draw at Fulham in the Premier League.",
-      "publishedAt": "2026-09-21T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-youri-tielemans-manchester_7357812.jpg?20260921113924",
-      "link": "https://www.skysports.com/football/news/12040/13590371/manchester-united-running-stats-for-michael-carricks-side-examined-after-intensity-criticism-in-draw-at-fulham",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 49996901,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal eye versatile Dortmund forward Beier",
-      "description": "Arsenal are monitoring Borussia Dortmund forward Maximilian Beier as a potential attacking reinforcement. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-21T09:43:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719920_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
-      "tag": "Borussia Dortmund",
-      "teams": [
-        "Borussia Dortmund",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7c7939d036957384c230bed809099b85",
-      "source": "Sky Sports",
-      "headline": "Merson: There's no way Man City win the league",
-      "description": "Paul Merson believes Premier League leaders Manchester City have \"no way\" of winning the title if they keep playing as they are.",
-      "publishedAt": "2026-09-21T09:37:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-haaland-man-city_7357757.jpg?20260921104931",
-      "link": "https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland",
-      "tag": "Article/Blog",
-      "teams": []
-    },
-    {
       "id": 49996979,
       "source": "ESPN",
       "headline": "Carragher questions Wirtz future in Liverpool XI after latest struggles",
@@ -137,19 +157,6 @@
       "teams": [
         "Liverpool",
         "Manchester City"
-      ]
-    },
-    {
-      "id": 49997130,
-      "source": "ESPN",
-      "headline": "Man United's Michael Carrick concerned about Benjamin Sesko's latest injury",
-      "description": "Michael Carrick has raised concerns about Benjamin Sesko's latest injury by revealing the problem is connected to the same shin issue which kept the striker sidelined for more than two months over the summer.",
-      "publishedAt": "2026-09-21T08:59:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719927_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49997130/man-united-michael-carrick-concerned-benjamin-sesko-latest-injury",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
       ]
     },
     {
@@ -179,28 +186,6 @@
       ]
     },
     {
-      "id": "e92065f8736d027ac04288d081436f5f",
-      "source": "Sky Sports",
-      "headline": "Palmer withdrawing from England squad",
-      "description": "Cole Palmer is withdrawing from the England squad because of a muscle injury.",
-      "publishedAt": "2026-09-21T07:25:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cole-palmer_7357649.jpg?20260921095715",
-      "link": "https://www.skysports.com/football/news/12040/13590334/england-latest-cole-palmer-withdraws-from-thomas-tuchels-squad-ahead-of-long-international-break",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b6f8dceaf77a8c6068724a3f43cdae31",
-      "source": "Sky Sports",
-      "headline": "Man Utd latest: Neville calls for formation change after 'worst 15 mins' vs Fulham",
-      "description": "",
-      "publishedAt": "2026-09-21T07:15:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 49991106,
       "source": "ESPN",
       "headline": "Carrick quashes notion Manchester United are out of shape",
@@ -212,17 +197,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "6f2f584464b406689848858b29e796f6",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Does Wirtz play vs Man City? Name your starting XI",
-      "description": "",
-      "publishedAt": "2026-09-21T06:55:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49996523,
@@ -473,46 +447,20 @@
       ]
     },
     {
-      "id": 49989640,
-      "source": "ESPN",
-      "headline": "Erling Haaland sets unique goal milestone as Man City beat Sunderland",
-      "description": "Erling Haaland scored the eighth goal of the game as Manchester City beat Sunderland but it gave him a unique personal record.",
-      "publishedAt": "2026-09-20T16:04:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719479_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49989640/erling-haaland-sets-unique-goal-milestone-man-city-beat-sunderland",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49989841,
-      "source": "ESPN",
-      "headline": "Dominic Calvert-Lewin fails to match 23-year Premier League goal record for Leeds",
-      "description": "Dominic Calvert-Lewin was denied the chance to make a small piece of Elland Road history in Leeds' goalless home draw with Crystal Palace.",
-      "publishedAt": "2026-09-20T16:00:18Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719498_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49989841/dominic-calvert-lewin-fails-match-23-year-premier-league-goal-record-leeds",
-      "tag": "Leeds United",
-      "teams": [
-        "Leeds United"
-      ]
-    },
-    {
-      "id": "0b3a5e2f83c342df7ded78383ceb9a22",
+      "id": "8d940e7f08f2ae8f61489b0d9a250be4",
       "source": "Sky Sports",
-      "headline": "Ref Watch & Premier League weekend reaction",
-      "description": "",
-      "publishedAt": "2026-09-14T15:30:00.000Z",
-      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-ref-watch-arsenal_7097559.jpg?20251201130707",
-      "link": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
-      "tag": "Liveblog",
+      "headline": "What now for O'Neill and Celtic?",
+      "description": "There is no denying Martin O'Neill is a legend at Celtic, but is a change needed before their problems become a crisis?",
+      "publishedAt": "2026-09-20T14:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-martin-celtic-oneill_7357324.jpg?20260920182849",
+      "link": "https://www.skysports.com/football/news/12040/13590358/celtic-martin-oneill-takes-time-to-reflect-but-where-do-scottish-premiership-champions-go-from-here",
+      "tag": "News Story",
       "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-21T12:43:03.105Z"
+    "cachedAt": "2026-09-21T21:56:50.173Z"
   }
 }
