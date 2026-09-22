@@ -2,6 +2,119 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50004227,
+      "source": "ESPN",
+      "headline": "Man United-linked Lewis Hall: 'No-brainer' to stay at Newcastle",
+      "description": "Lewis Hall has said it was a \"no-brainer\" to sign a new contract to extend his Newcastle United stay after summer transfer interest from Manchester United.",
+      "publishedAt": "2026-09-22T10:48:58Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720332_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50004227/man-united-linked-lewis-hall-no-brainer-stay-newcastle-united-transfer",
+      "tag": "Newcastle United",
+      "teams": [
+        "Newcastle United",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50003301,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool, Arsenal, Man City in race for Feyenoord defender",
+      "description": "Liverpool are monitoring Feyenoord right back Givairo Read, but face competition from Arsenal and Manchester City. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-22T10:25:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720304_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
+      "tag": "Feyenoord Rotterdam",
+      "teams": [
+        "Feyenoord Rotterdam",
+        "Liverpool",
+        "Arsenal",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50004082,
+      "source": "ESPN",
+      "headline": "Wayne Rooney: 'Disappointing' if 'top player' JJ Gabriel leaves Man United",
+      "description": "Wayne Rooney has said it would be \"disappointing\" for Manchester United to lose \"special talent\" JJ Gabriel.",
+      "publishedAt": "2026-09-22T10:19:57Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50004082/wayne-rooney-disappointing-top-player-jj-gabriel-leaves-man-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50003732,
+      "source": "ESPN",
+      "headline": "Lacroix: We watched Zidane on TV, now we can train with him 1 Like reaction.",
+      "description": "Lacroix: We watched Zidane on TV, now we can train with him 1 Like reaction.",
+      "publishedAt": "2026-09-22T08:16:26Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50003732/watched-zidane-tv-now-train-1-reaction",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "France",
+        "Türkiye"
+      ]
+    },
+    {
+      "id": 49953407,
+      "source": "ESPN",
+      "headline": "Soccer's wildest warmup kits of 2026-27: The good, the bad and the ugly",
+      "description": "Forget home, away and third alternate jerseys -- the prematch warmup kit is where the real fun is to be had. Get a load of this season's best and worst.",
+      "publishedAt": "2026-09-22T08:01:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717453_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49953407/soccer-wildest-warmup-kits-2026-27-good-bad-ugly",
+      "tag": "AC Milan",
+      "teams": [
+        "AC Milan",
+        "Arsenal",
+        "Atlético Madrid",
+        "Barcelona",
+        "Bayern Munich",
+        "Chelsea",
+        "Internazionale",
+        "Juventus",
+        "Liverpool",
+        "Manchester City",
+        "Manchester United",
+        "Paris Saint-Germain",
+        "Real Madrid",
+        "Tottenham Hotspur",
+        "Wrexham"
+      ]
+    },
+    {
+      "id": 50003497,
+      "source": "ESPN",
+      "headline": "Thierno Barry, Everton's last striker standing, begins to silence doubters",
+      "description": "Given that Thierno Barry essentially finds himself Everton's only centre-forward option after a muddled end to the transfer window, he probably doesn't care too much how the goals come at the moment.",
+      "publishedAt": "2026-09-22T07:29:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0919/r1718997_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/50003497/thierno-barry-everton-last-striker-standing-begins-silence-doubters",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "Guinea"
+      ]
+    },
+    {
+      "id": 50000502,
+      "source": "ESPN",
+      "headline": "Is it time for Liverpool to give up on Florian Wirtz already? Or is he a superstar-in-progress?",
+      "description": "Liverpool spent a then-club record fee to sign Florian Wirtz, but his low stats have many writing him off. Is it too soon, or should Liverpool move on?",
+      "publishedAt": "2026-09-22T07:24:01Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720178_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50000502/liverpool-give-florian-wirtz-already-a-superstar-progress",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Bayer Leverkusen"
+      ]
+    },
+    {
       "id": 49996901,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Mesloub to replace Gabriel at Man United?",
@@ -129,17 +242,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "2d835ae486b938081f79eb9936f44f72",
-      "source": "Sky Sports",
-      "headline": "Spurs bottom of PL but more than £300m spent - where do they go from here?",
-      "description": "This time it was supposed to be different. After multiple false dawns for Tottenham Hotspur, the club had a manager with proven Premier League experience, and had handed him a £300m+ war chest - easily the biggest in its entire history.",
-      "publishedAt": "2026-09-21T11:36:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-james-maddison-tottenham_7358043.jpg?20260921165609",
-      "link": "https://www.skysports.com/football/news/12040/13590421/tottenham-bottom-of-premier-league-despite-300m-summer-spend-where-do-they-go-from-here",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49997685,
@@ -360,59 +462,6 @@
       ]
     },
     {
-      "id": 49990636,
-      "source": "ESPN",
-      "headline": "Liverpool win as new-arrival Jacquet makes 'step forward'",
-      "description": "Andoni Iraola heaped praise on defender Jeremy Jacquet after his impressive performance in Liverpool's 1-0 victory over AFC Bournemouth at the Vitality Stadium on Sunday.",
-      "publishedAt": "2026-09-20T18:57:52Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Analysis_Nicol3A_Liverpool_were_lucky_to_claim_3_points_vs_Bournemouth__GLOBAL_2026-09-20/dm_260920_COM_SOC_Analysis_Nicol3A_Liverpool_were_lucky_to_claim_3_points_vs_Bournemouth__GLOBAL_2026-09-20.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49990636/liverpool-win-jacquet-makes-step-forward",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 49990267,
-      "source": "ESPN",
-      "headline": "Enzo Maresca relieved as Manchester City pass difficult Sunderland test",
-      "description": "Enzo Maresca can enjoy a little relaxation over the international break after Manchester City extended their perfect start to the season -- but Sunday's frantic 5-3 win over Sunderland was not good for his blood pressure.",
-      "publishedAt": "2026-09-20T18:52:08Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719539_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49990267/enzo-maresca-relieved-manchester-city-pass-sunderland-test",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49990867,
-      "source": "ESPN",
-      "headline": "Gary Neville explains 'worst 15 minutes' Manchester United claim",
-      "description": "Gary Neville branded Manchester United's early second-half display against Fulham as the worst he had seen in more than 45 years.",
-      "publishedAt": "2026-09-20T18:47:19Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719490_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49990867/gary-neville-explains-worst-15-minutes-manchester-united-claim",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49703019,
-      "source": "ESPN",
-      "headline": "Premier League VAR review: Why no Man United penalty at Fulham?",
-      "description": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
-      "publishedAt": "2026-09-20T18:44:40Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719560_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Fulham"
-      ]
-    },
-    {
       "id": 49991013,
       "source": "ESPN",
       "headline": "Nicol: Liverpool were lucky to claim 3 points vs. Bournemouth",
@@ -425,53 +474,11 @@
         "AFC Bournemouth",
         "Liverpool"
       ]
-    },
-    {
-      "id": 49990954,
-      "source": "ESPN",
-      "headline": "Leboeuf: Man United can't be happy with a point vs. Fulham",
-      "description": "Leboeuf: Man United can't be happy with a point vs. Fulham",
-      "publishedAt": "2026-09-20T18:42:32Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Analysis_Leboeuf3A_Man_United_canE28099t_be_happy_with_a_point_vs_Fulham_GLOBAL_2026-09-20/dm_260920_COM_SOC_Analysis_Leboeuf3A_Man_United_canE28099t_be_happy_with_a_point_vs_Fulham_GLOBAL_2026-09-20.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49990954/man-united-happy-point-vs-fulham",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49990950,
-      "source": "ESPN",
-      "headline": "Was Man City vs. Sunderland the best game of the season?",
-      "description": "Was Man City vs. Sunderland the best game of the season?",
-      "publishedAt": "2026-09-20T18:41:38Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Analysis_Was_Man_City_vs_Sunderland_the_best_game_of_the_season3F__GLOBAL_2026-09-20/dm_260920_COM_SOC_Analysis_Was_Man_City_vs_Sunderland_the_best_game_of_the_season3F__GLOBAL_2026-09-20.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49990950/was-man-city-vs-sunderland-best-game-season",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49968526,
-      "source": "ESPN",
-      "headline": "Man United rescue draw at Fulham after own goal shocker",
-      "description": "A comical own goal by Lisandro Martinez saw Manchester United fail to win for a third Premier League game in a row as they drew 1-1 with Fulham at Craven Cottage.",
-      "publishedAt": "2026-09-20T17:37:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719540_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401878777",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-22T04:50:25.692Z"
+    "cachedAt": "2026-09-22T11:33:27.268Z"
   }
 }
