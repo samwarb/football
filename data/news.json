@@ -2,6 +2,65 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50006334,
+      "source": "ESPN",
+      "headline": "Estêvão on reduced game time at Chelsea: 'I try to seize every opportunity I have'",
+      "description": "Estêvão says he is focused only on what he can control after struggling for game time at Chelsea under new manager Xabi Alonso.",
+      "publishedAt": "2026-09-22T16:26:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720447_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50006334/estevao-chelsea-brazil-premier-league-xabi-alonso-joao-pedro-morgan-rogers-cole-palmer",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Brazil"
+      ]
+    },
+    {
+      "id": 50003301,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool, Arsenal, Man City in race for Feyenoord defender",
+      "description": "Liverpool are monitoring Feyenoord right back Givairo Read, but face competition from Arsenal and Manchester City. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-22T15:58:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720304_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
+      "tag": "Feyenoord Rotterdam",
+      "teams": [
+        "Feyenoord Rotterdam",
+        "Liverpool",
+        "Arsenal",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50004798,
+      "source": "ESPN",
+      "headline": "Benjamin Šeško vows to 'fully dedicate' himself to recovery after Man United injury setback",
+      "description": "Manchester United striker Benjamin Sesko has vowed to \"fully dedicate\" himself to his recovery from an ongoing shin issue.",
+      "publishedAt": "2026-09-22T13:19:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720362_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50004798/benjamin-šeško-vows-fully-dedicate-recovery-man-united-injury-setback",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50004516,
+      "source": "ESPN",
+      "headline": "Kylian Mbappé on past Liverpool transfer talks: 'Mum went to Anfield and fell in love'",
+      "description": "Kylian Mbappé has described how his mother \"fell in love\" with Anfield and was keen for him to sign for Liverpool before he decided to join PSG.",
+      "publishedAt": "2026-09-22T12:02:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720348_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50004516/kylian-mbappe-liverpool-transfer-talks-mum-went-anfield-fell-love",
+      "tag": "AS Monaco",
+      "teams": [
+        "AS Monaco",
+        "Real Madrid",
+        "Paris Saint-Germain",
+        "Liverpool"
+      ]
+    },
+    {
       "id": 50004227,
       "source": "ESPN",
       "headline": "Man United-linked Lewis Hall: 'No-brainer' to stay at Newcastle",
@@ -16,22 +75,6 @@
       ]
     },
     {
-      "id": 50003301,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool, Arsenal, Man City in race for Feyenoord defender",
-      "description": "Liverpool are monitoring Feyenoord right back Givairo Read, but face competition from Arsenal and Manchester City. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-22T10:25:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720304_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
-      "tag": "Feyenoord Rotterdam",
-      "teams": [
-        "Feyenoord Rotterdam",
-        "Liverpool",
-        "Arsenal",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50004082,
       "source": "ESPN",
       "headline": "Wayne Rooney: 'Disappointing' if 'top player' JJ Gabriel leaves Man United",
@@ -43,6 +86,17 @@
       "teams": [
         "Manchester United"
       ]
+    },
+    {
+      "id": "633d83a677f8299b1ae36251b5f15a63",
+      "source": "Sky Sports",
+      "headline": "England Q&A! Send in your questions to be answered live on SSN!",
+      "description": "",
+      "publishedAt": "2026-09-22T08:55:00.000Z",
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50003732,
@@ -143,17 +197,6 @@
       ]
     },
     {
-      "id": "771cb1053a1000fb3f0d05441c2a8d3b",
-      "source": "Sky Sports",
-      "headline": "Papers: Dowman to link up with England squad",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-09-21T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13590534/arsenal-starlet-max-dowman-to-link-up-with-england-senior-squad-after-mass-withdrawals-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 49997130,
       "source": "ESPN",
       "headline": "Man United's Michael Carrick concerned about Benjamin Sesko's latest injury",
@@ -165,28 +208,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "bec0d6a089bd2cee4094de870b2a1213",
-      "source": "Sky Sports",
-      "headline": "Atletico hit back at Mourinho for ref criticism after derby defeat",
-      "description": "Atletico Madrid have hit back at Real Madrid's criticism of the referring decisions during the derby on Sunday.",
-      "publishedAt": "2026-09-21T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-jose-mourinho-real-madrid_7358147.jpg?20260921203754",
-      "link": "https://www.skysports.com/football/news/12040/13590525/jose-mourinho-atletico-madrid-hit-back-at-real-madrid-boss-after-referee-criticism-following-derby-defeat",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "068f59b984e891590937cf8d060e7cb2",
-      "source": "Sky Sports",
-      "headline": "Liverpool vs Man Utd, Arsenal vs Man City live on Sky - November fixtures here",
-      "description": "Liverpool vs Man Utd and Arsenal vs Man City are among the 18 Premier League games being shown live on Sky Sports in November.",
-      "publishedAt": "2026-09-21T15:00:00.000Z",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270616.jpg?20260611102432",
-      "link": "https://www.skysports.com/football/news/12040/13590457/premier-league-fixtures-on-sky-sports-liverpool-vs-man-utd-and-arsenal-vs-man-city-in-november",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 49998485,
@@ -393,21 +414,6 @@
       ]
     },
     {
-      "id": 49987466,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool, Man City eye Real Sociedad's Aramburu",
-      "description": "Man City and Liverpool are both looking at Real Sociedad defender Jon Aramburu. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-20T19:39:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719638_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49987466/transfer-rumors-news-liverpool-man-city-eye-real-sociedad-aramburu",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City",
-        "Real Sociedad"
-      ]
-    },
-    {
       "id": 49991430,
       "source": "ESPN",
       "headline": "Carrick encouraged by Man United's late draw vs. Fulham",
@@ -434,20 +440,6 @@
       ]
     },
     {
-      "id": 49945948,
-      "source": "ESPN",
-      "headline": "European soccer recap: Man City win a thriller, Man United draw Fulham, more",
-      "description": "Here is all of Sunday's action, as it happened in our live blog: Man City earned a thrilling win, Man United scraped by with a draw at Fulham and more.",
-      "publishedAt": "2026-09-20T19:15:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719418_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49945948/european-soccer-live-updates-liverpool-manchester-city-atletico-madrid-real-madrid-manchester-united",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 49991142,
       "source": "ESPN",
       "headline": "Iraola: Isak got his reward vs. Bournemouth",
@@ -460,25 +452,11 @@
         "AFC Bournemouth",
         "Liverpool"
       ]
-    },
-    {
-      "id": 49991013,
-      "source": "ESPN",
-      "headline": "Nicol: Liverpool were lucky to claim 3 points vs. Bournemouth",
-      "description": "Nicol: Liverpool were lucky to claim 3 points vs. Bournemouth",
-      "publishedAt": "2026-09-20T18:43:20Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Analysis_Nicol3A_Liverpool_were_lucky_to_claim_3_points_vs_Bournemouth__GLOBAL_2026-09-20/dm_260920_COM_SOC_Analysis_Nicol3A_Liverpool_were_lucky_to_claim_3_points_vs_Bournemouth__GLOBAL_2026-09-20.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49991013/liverpool-were-lucky-claim-3-points-vs-bournemouth",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-22T11:33:27.268Z"
+    "cachedAt": "2026-09-22T16:54:39.415Z"
   }
 }
