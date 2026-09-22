@@ -2,6 +2,30 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50006711,
+      "source": "ESPN",
+      "headline": "Andy Robertson opens up about Liverpool after Diogo Jota's death: 'We didn't care about football'",
+      "description": "Former Liverpool defender Andy Robertson has said that the death of teammate Diogo Jota was \"horrendous\" and had a major impact on the players that knew him.",
+      "publishedAt": "2026-09-22T17:39:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720463_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50006711/andy-robertson-liverpool-diogo-jota-premier-league",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "488086600ba047b61b2001414c9b0f49",
+      "source": "Sky Sports",
+      "headline": "Arteta agrees new Arsenal contract",
+      "description": "Mikel Arteta has agreed a new deal to extend his stay at Arsenal.",
+      "publishedAt": "2026-09-22T17:26:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-mikel-arteta-arsenal_7258629.jpg?20260526085536",
+      "link": "https://www.skysports.com/football/news/12040/13588507/mikel-arteta-contract-arsenal-boss-agrees-new-deal-to-extend-stay-at-premier-league-champions",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50006334,
       "source": "ESPN",
       "headline": "Estêvão on reduced game time at Chelsea: 'I try to seize every opportunity I have'",
@@ -14,6 +38,17 @@
         "Chelsea",
         "Brazil"
       ]
+    },
+    {
+      "id": "f3cf82d665908eec8907f67bb815d99e",
+      "source": "Sky Sports",
+      "headline": "WCL: Mead pulls goal back for Man City at Bayern Munich LIVE!",
+      "description": "",
+      "publishedAt": "2026-09-22T16:16:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-bayern-munich-giulia-gwinn_7358829.jpg?20260922181233",
+      "link": "https://www.skysports.com/football/bayern-munich-women-vs-manchester-city-women/live/578233",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50003301,
@@ -30,6 +65,17 @@
         "Arsenal",
         "Manchester City"
       ]
+    },
+    {
+      "id": "192e8dc06a6d9f013be538de63932191",
+      "source": "Sky Sports",
+      "headline": "Scotland's Pocognoli has 'good mix' as he eyes winning start to his reign",
+      "description": "New Scotland head Sebastien Pocognoli has told Sky Sports it was time for change, believing he has a \"good mix\" in his first squad.",
+      "publishedAt": "2026-09-22T14:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sebastien-s-pocognoli_7358638.jpg?20260922151618",
+      "link": "https://www.skysports.com/football/news/12040/13590702/scotland-sebastian-pocognoli-has-good-mix-as-new-head-coach-targets-winning-start-in-nations-league",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 50004798,
@@ -86,17 +132,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "633d83a677f8299b1ae36251b5f15a63",
-      "source": "Sky Sports",
-      "headline": "England Q&A! Send in your questions to be answered live on SSN!",
-      "description": "",
-      "publishedAt": "2026-09-22T08:55:00.000Z",
-      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50003732,
@@ -305,6 +340,17 @@
       ]
     },
     {
+      "id": "52f797184c576545386864091028e4e7",
+      "source": "Sky Sports",
+      "headline": "PL assessed: Spurs lack backbone and history repeating itself at Man Utd",
+      "description": "Are Manchester City really title contenders? Is history repeating itself at Manchester United? Why do big-spending Tottenham still lack a backbone? After just five games, a number of storylines are already emerging.",
+      "publishedAt": "2026-09-21T10:20:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-sky-sports_7358487.jpg?20260922130922",
+      "link": "https://www.skysports.com/football/news/12040/13590390/premier-league-2026-27-sky-sports-writers-assess-early-talking-points-including-man-utd-arsenal-liverpool-and-man-city",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 49996979,
       "source": "ESPN",
       "headline": "Carragher questions Wirtz future in Liverpool XI after latest struggles",
@@ -386,20 +432,6 @@
       ]
     },
     {
-      "id": 49991048,
-      "source": "ESPN",
-      "headline": "Michael Carrick keen to find Man United positives, but there aren't many right now",
-      "description": "This is Man United's worst start in a Premier League season in 12 years. Is there any reason to believe a turnaround is ahead?",
-      "publishedAt": "2026-09-21T01:28:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719563_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49991048/michael-carrick-keen-find-man-united-positives-there-many-right-now",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Fulham"
-      ]
-    },
-    {
       "id": 49995197,
       "source": "ESPN",
       "headline": "United stumble again at Fulham",
@@ -457,6 +489,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-22T16:54:39.415Z"
+    "cachedAt": "2026-09-22T21:15:39.800Z"
   }
 }
