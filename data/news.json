@@ -2,6 +2,45 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50011570,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Could Man United replace Shaw with Mitchell?",
+      "description": "Tyrick Mitchell is linked with a move away from Crystal Palace, will Manchester United or Liverpool sign him? Transfer Talk has the latest.",
+      "publishedAt": "2026-09-23T21:08:48Z",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721031_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50011570/transfer-rumors-news-bayern-munich-sign-erling-haaland-replace-harry-kane",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Crystal Palace",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50015330,
+      "source": "ESPN",
+      "headline": "Eric Cantona 'wouldn't have joined' Man United if Jim Ratcliffe had been in charge in 90s",
+      "description": "Manchester United great Eric Cantona has said he would never have joined the club had current co-owner Sir Jim Ratcliffe been in charge.",
+      "publishedAt": "2026-09-23T20:35:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721017_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50015330/eric-cantona-jim-ratcliffe-man-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "f02c9143b5a5cac833cafde28ca76a6e",
+      "source": "Sky Sports",
+      "headline": "Ronaldo eyes scoring 1,000th goal for Portugal after considering international retirement",
+      "description": "Cristiano Ronaldo considered retiring from international football after the World Cup before deciding to extend his Portugal career.",
+      "publishedAt": "2026-09-23T17:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
+      "link": "https://www.skysports.com/football/news/12040/13591141/cristiano-ronaldo-portugal-legend-considered-international-retirement-after-2026-world-cup-but-is-still-targeting-1000-goals",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50013903,
       "source": "ESPN",
       "headline": "Man United selling chunks of Old Trafford pitch",
@@ -38,20 +77,6 @@
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": 50011570,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Could Bayern sign Haaland to replace Kane?",
-      "description": "Erling Haaland is contracted to Manchester City for another eight years, but could Bayern Munich sign him? Transfer Talk has the latest.",
-      "publishedAt": "2026-09-23T11:10:06Z",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707612_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50011570/transfer-rumors-news-bayern-munich-sign-erling-haaland-replace-harry-kane",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Bayern Munich"
       ]
     },
     {
@@ -92,39 +117,6 @@
       "teams": []
     },
     {
-      "id": "87f4570f267a79f6e8d0db75947df0e7",
-      "source": "Sky Sports",
-      "headline": "The other Sessegnon: Ryan's twin Steven rebuilding at AFC Wimbledon",
-      "description": "Steven and Ryan Sessegnon walked out at Craven Cottage side by side, each holding their daughters, last month.",
-      "publishedAt": "2026-09-23T09:00:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-steven-sessegnon_7358385.jpg?20260922105006",
-      "link": "https://www.skysports.com/football/news/12040/13582837/steven-sessegnon-interview",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "beed8538ad1fb77a843a2251a180f203",
-      "source": "Sky Sports",
-      "headline": "Can Arteta turn champions into serial winners?",
-      "description": "When Mikel Arteta signed his last Arsenal contract in September 2024, his quest to bring major silverware back to the club was ongoing. Two years later, he agrees his new one after leading them to a long-awaited Premier League title.",
-      "publishedAt": "2026-09-23T08:53:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-mikel-artet-arteta_7359235.jpg?20260923103715",
-      "link": "https://www.skysports.com/football/news/12040/13590953/mikel-arteta-to-begin-new-era-at-arsenal-as-club-eye-premier-league-dominance-and-champions-league-success",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "1fa9e9fda410a2613d985e442d5d67db",
-      "source": "Sky Sports",
-      "headline": "Arsenal latest: YOUR VIEWS on new Arteta deal - and where does he rank?",
-      "description": "",
-      "publishedAt": "2026-09-23T08:45:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 50011845,
       "source": "ESPN",
       "headline": "Joseph Yobo backs Alex Iwobi to break Ahmed Musa's Nigeria appearance record",
@@ -154,17 +146,6 @@
       ]
     },
     {
-      "id": "896569371328c35d115f3fe263b709a4",
-      "source": "Sky Sports",
-      "headline": "The Italian Job gets a sequel! Can Mancini inspire a new generation?",
-      "description": "This year, Italian football fell to its lowest ebb. In Europe, no Italian club made it past the quarter-finals - while Atalanta were the only Serie A side to reach the Champions League last 16. But that was nothing compared to the national team.",
-      "publishedAt": "2026-09-23T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-mancini-italy_7358028.jpg?20260921163951",
-      "link": "https://www.skysports.com/football/news/12040/13590474/roberto-mancini-returns-as-italy-head-coach-but-can-the-azzurri-recover-from-lowest-ebb-with-a-youth-inspired-revolution",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50004082,
       "source": "ESPN",
       "headline": "Wayne Rooney: 'Disappointing' if 'top player' JJ Gabriel leaves Man United",
@@ -176,17 +157,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "3bd5d3166533b824fa368e2c5114b1de",
-      "source": "Sky Sports",
-      "headline": "Aston Villa latest: 'LaLiga clubs monitoring Garnacho'",
-      "description": "",
-      "publishedAt": "2026-09-23T06:20:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50006711,
@@ -464,20 +434,6 @@
       ]
     },
     {
-      "id": 49996979,
-      "source": "ESPN",
-      "headline": "Carragher questions Wirtz future in Liverpool XI after latest struggles",
-      "description": "Jamie Carragher has called on Andoni Iraola to drop Florian Wirtz for Liverpool's clash with Manchester City after describing the midfielder's display against Bournemouth as one of his worst since arriving at Anfield.",
-      "publishedAt": "2026-09-21T09:05:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719919_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49996979/carragher-questions-wirtz-future-liverpool-xi-latest-struggles",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 49940653,
       "source": "ESPN",
       "headline": "Why this 3-week international break is longest ever (and why that's a good thing)",
@@ -507,6 +463,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-23T16:53:51.430Z"
+    "cachedAt": "2026-09-23T21:27:52.156Z"
   }
 }
