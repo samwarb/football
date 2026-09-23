@@ -2,6 +2,45 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50013903,
+      "source": "ESPN",
+      "headline": "Man United selling chunks of Old Trafford pitch",
+      "description": "Old Trafford -- the home of Manchester United -- has seen plenty of history over the years. Now, fans can own a piece of the pitch ...for £125 ($165).",
+      "publishedAt": "2026-09-23T16:35:56Z",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720872_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50013903/man-united-old-trafford-selling-pitch-pieces",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50012381,
+      "source": "ESPN",
+      "headline": "Man United transfer strategy 'financial sustainable' as losses increase - CEO",
+      "description": "Manchester United's summer transfer strategy had \"financial sustainability in mind,\" according to CEO Omar Berrada, after reporting a increased financial losses.",
+      "publishedAt": "2026-09-23T13:57:35Z",
+      "image": "https://a.espncdn.com/photo/2024/0903/r1381409_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50012381/man-united-transfer-strategy-financial-sustainable-losses-increase-ceo",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50012180,
+      "source": "ESPN",
+      "headline": "Sources: Mikel Arteta agrees a new long-term contract extension with Arsenal",
+      "description": "Arsenal are expected to announce Mikel Arteta has signed a new long-term contract after the 44-year-old agreed terms to stay on as manager, sources have told ESPN.",
+      "publishedAt": "2026-09-23T13:43:21Z",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720765_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50012180/mikel-arteta-agrees-new-long-term-contract-extension-arsenal-sources",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": 50011570,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Could Bayern sign Haaland to replace Kane?",
@@ -13,19 +52,6 @@
       "teams": [
         "Manchester City",
         "Bayern Munich"
-      ]
-    },
-    {
-      "id": 50012180,
-      "source": "ESPN",
-      "headline": "Mikel Arteta agrees a new long-term contract extension with Arsenal - sources",
-      "description": "Arsenal are expected to announce Mikel Arteta has signed a new long-term contract after the 44-year-old agreed terms to stay on as manager, sources have told ESPN.",
-      "publishedAt": "2026-09-23T10:39:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720765_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50012180/mikel-arteta-agrees-new-long-term-contract-extension-arsenal-sources",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
       ]
     },
     {
@@ -53,6 +79,50 @@
       "teams": [
         "Arsenal"
       ]
+    },
+    {
+      "id": "fc75585246c797038b1ef3bf188610ed",
+      "source": "Sky Sports",
+      "headline": "'Scotland was always the one for me' - Binks' pride at first call-up",
+      "description": "\"I've wanted to play for Scotland for years, and now the opportunity has come. I'm just really proud.\"",
+      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-binks-luis-scotland_7359264.jpg?20260923105918",
+      "link": "https://www.skysports.com/football/news/12040/13590964/luis-binks-scotland-was-always-the-one-for-me-brondby-defender-determined-to-make-mark-in-first-squad",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "87f4570f267a79f6e8d0db75947df0e7",
+      "source": "Sky Sports",
+      "headline": "The other Sessegnon: Ryan's twin Steven rebuilding at AFC Wimbledon",
+      "description": "Steven and Ryan Sessegnon walked out at Craven Cottage side by side, each holding their daughters, last month.",
+      "publishedAt": "2026-09-23T09:00:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-steven-sessegnon_7358385.jpg?20260922105006",
+      "link": "https://www.skysports.com/football/news/12040/13582837/steven-sessegnon-interview",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "beed8538ad1fb77a843a2251a180f203",
+      "source": "Sky Sports",
+      "headline": "Can Arteta turn champions into serial winners?",
+      "description": "When Mikel Arteta signed his last Arsenal contract in September 2024, his quest to bring major silverware back to the club was ongoing. Two years later, he agrees his new one after leading them to a long-awaited Premier League title.",
+      "publishedAt": "2026-09-23T08:53:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-mikel-artet-arteta_7359235.jpg?20260923103715",
+      "link": "https://www.skysports.com/football/news/12040/13590953/mikel-arteta-to-begin-new-era-at-arsenal-as-club-eye-premier-league-dominance-and-champions-league-success",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "1fa9e9fda410a2613d985e442d5d67db",
+      "source": "Sky Sports",
+      "headline": "Arsenal latest: YOUR VIEWS on new Arteta deal - and where does he rank?",
+      "description": "",
+      "publishedAt": "2026-09-23T08:45:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50011845,
@@ -84,6 +154,17 @@
       ]
     },
     {
+      "id": "896569371328c35d115f3fe263b709a4",
+      "source": "Sky Sports",
+      "headline": "The Italian Job gets a sequel! Can Mancini inspire a new generation?",
+      "description": "This year, Italian football fell to its lowest ebb. In Europe, no Italian club made it past the quarter-finals - while Atalanta were the only Serie A side to reach the Champions League last 16. But that was nothing compared to the national team.",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-mancini-italy_7358028.jpg?20260921163951",
+      "link": "https://www.skysports.com/football/news/12040/13590474/roberto-mancini-returns-as-italy-head-coach-but-can-the-azzurri-recover-from-lowest-ebb-with-a-youth-inspired-revolution",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50004082,
       "source": "ESPN",
       "headline": "Wayne Rooney: 'Disappointing' if 'top player' JJ Gabriel leaves Man United",
@@ -95,6 +176,17 @@
       "teams": [
         "Manchester United"
       ]
+    },
+    {
+      "id": "3bd5d3166533b824fa368e2c5114b1de",
+      "source": "Sky Sports",
+      "headline": "Aston Villa latest: 'LaLiga clubs monitoring Garnacho'",
+      "description": "",
+      "publishedAt": "2026-09-23T06:20:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50006711,
@@ -122,28 +214,6 @@
         "Manchester United",
         "Borussia Dortmund"
       ]
-    },
-    {
-      "id": "b600b26ab4186173b39ec971cd964098",
-      "source": "Sky Sports",
-      "headline": "Papers: Rice prepared to commit long-term future to Arsenal",
-      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "publishedAt": "2026-09-22T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13590828/declan-rice-prepared-to-commit-long-term-future-to-arsenal-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "488086600ba047b61b2001414c9b0f49",
-      "source": "Sky Sports",
-      "headline": "Arteta agrees new Arsenal contract",
-      "description": "Mikel Arteta has agreed a new deal to extend his stay at Arsenal.",
-      "publishedAt": "2026-09-22T17:26:00.000Z",
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-mikel-arteta-arsenal_7258629.jpg?20260526085536",
-      "link": "https://www.skysports.com/football/news/12040/13588507/mikel-arteta-contract-arsenal-boss-agrees-new-deal-to-extend-stay-at-premier-league-champions",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50006334,
@@ -328,21 +398,6 @@
       ]
     },
     {
-      "id": 49996528,
-      "source": "ESPN",
-      "headline": "Mourinho's ref rants overshadow Madrid derby defeat; can Arsenal shrug off heavy loss?",
-      "description": "Real Madrid lost the derby to Atletico this weekend, but Jose Mourinho's focus was on the refereeing postgame, not the result. Plus: Can Arsenal shake off a deservedly heavy defeat at Brighton?",
-      "publishedAt": "2026-09-21T13:36:43Z",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719918_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49996528/real-madrid-atletico-madrid-jose-mourinho-ref-complaint-arsenal-brighton-arteta-marcotti",
-      "tag": "Real Madrid",
-      "teams": [
-        "Real Madrid",
-        "Atlético Madrid",
-        "Arsenal"
-      ]
-    },
-    {
       "id": 49997321,
       "source": "ESPN",
       "headline": "Carrick has an impossible job at Man United after transfer failures",
@@ -447,25 +502,11 @@
         "South Korea",
         "United States"
       ]
-    },
-    {
-      "id": 49996523,
-      "source": "ESPN",
-      "headline": "Isak's winner lifts Liverpool to victory",
-      "description": "Alexander Isak's second-half strike secures Liverpool boss Andoni Iraola a 1-0 victory over his former club Bournemouth.",
-      "publishedAt": "2026-09-21T05:55:49Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0921/dm_260921_EPL_Highlight_Isaks_winner_lifts_Liverpool_to_victory_20260921_AUS_ONLY/dm_260921_EPL_Highlight_Isaks_winner_lifts_Liverpool_to_victory_20260921_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49996523/isak-winner-lifts-liverpool-victory",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-23T11:30:27.216Z"
+    "cachedAt": "2026-09-23T16:53:51.430Z"
   }
 }
