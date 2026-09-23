@@ -2,6 +2,114 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50011570,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Could Bayern sign Haaland to replace Kane?",
+      "description": "Erling Haaland is contracted to Manchester City for another eight years, but could Bayern Munich sign him? Transfer Talk has the latest.",
+      "publishedAt": "2026-09-23T11:10:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707612_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50011570/transfer-rumors-news-bayern-munich-sign-erling-haaland-replace-harry-kane",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": 50012180,
+      "source": "ESPN",
+      "headline": "Mikel Arteta agrees a new long-term contract extension with Arsenal - sources",
+      "description": "Arsenal are expected to announce Mikel Arteta has signed a new long-term contract after the 44-year-old agreed terms to stay on as manager, sources have told ESPN.",
+      "publishedAt": "2026-09-23T10:39:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720765_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50012180/mikel-arteta-agrees-new-long-term-contract-extension-arsenal-sources",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50012203,
+      "source": "ESPN",
+      "headline": "Liverpool close to appointing Julian Ward as sporting director - sources",
+      "description": "Liverpool are closing in on the appointment of Julian Ward as the club's new sporting director, sources told ESPN.",
+      "publishedAt": "2026-09-23T10:33:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720766_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50012203/liverpool-close-appointing-julian-ward-sporting-director-sources",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50012076,
+      "source": "ESPN",
+      "headline": "Sunderland penalty against Arsenal incorrect - Premier League panel",
+      "description": "A penalty award strongly contested by Arsenal manager Mikel Arteta at Sunderland was incorrect, according to a unanimous decision from a Premier League panel.",
+      "publishedAt": "2026-09-23T10:13:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1715793_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50012076/sunderland-penalty-arsenal-incorrect-premier-league-panel",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50011845,
+      "source": "ESPN",
+      "headline": "Joseph Yobo backs Alex Iwobi to break Ahmed Musa's Nigeria appearance record",
+      "description": "Former Nigeria captain Joseph Yobo believes Alex Iwobi can push his international career beyond 130 appearances, after becoming only the fourth Super Eagles player to reach 100 caps.",
+      "publishedAt": "2026-09-23T08:35:27Z",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670140_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/50011845/joseph-yobo-backs-alex-iwobi-break-ahmed-musa-nigeria-appearance-record",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Nigeria"
+      ]
+    },
+    {
+      "id": 50011831,
+      "source": "ESPN",
+      "headline": "Emmanuel Adebayor tips Antoine Semenyo to be the 'best and key' player for Manchester City",
+      "description": "Former Arsenal and Manchester City forward Emmanuel Adebayor told Antoine Semenyo to trust his ability and play without pressure, predicting the Ghana forward can establish himself as one of City's most important players.",
+      "publishedAt": "2026-09-23T08:18:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1719951_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/50011831/emmanuel-adebayor-tips-antoine-semenyo-best-key-player-manchester-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Ghana",
+        "Togo"
+      ]
+    },
+    {
+      "id": 50004082,
+      "source": "ESPN",
+      "headline": "Wayne Rooney: 'Disappointing' if 'top player' JJ Gabriel leaves Man United",
+      "description": "Wayne Rooney has said it would be \"disappointing\" for Manchester United to lose \"special talent\" JJ Gabriel.",
+      "publishedAt": "2026-09-23T06:51:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50004082/wayne-rooney-disappointing-top-player-jj-gabriel-leaves-man-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50006711,
+      "source": "ESPN",
+      "headline": "Andy Robertson opens up about Liverpool after Diogo Jota's death: 'We didn't care about football'",
+      "description": "Former Liverpool defender Andy Robertson has said that the death of teammate Diogo Jota was \"horrendous\" and had a major impact on the players that knew him.",
+      "publishedAt": "2026-09-23T06:16:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720463_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50006711/andy-robertson-liverpool-diogo-jota-premier-league",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": 50003301,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United want Guirassy as potential Zirkzee replacement",
@@ -27,30 +135,6 @@
       "teams": []
     },
     {
-      "id": "ecc810df66dbc5cc112c491ef6da5844",
-      "source": "Sky Sports",
-      "headline": "Celtic CEO backs O’Neill despite 'painful' week",
-      "description": "Celtic chief executive Michael Nicholson has backed manager Martin O’Neill despite a \"painful\" week.",
-      "publishedAt": "2026-09-22T18:30:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-celtic-martin-oneill_7357336.jpg?20260920183359",
-      "link": "https://www.skysports.com/football/news/12040/13590809/celtic-martin-oneill-backed-by-chief-executive-michael-nicholson-despite-painful-week",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 50006711,
-      "source": "ESPN",
-      "headline": "Andy Robertson opens up about Liverpool after Diogo Jota's death: 'We didn't care about football'",
-      "description": "Former Liverpool defender Andy Robertson has said that the death of teammate Diogo Jota was \"horrendous\" and had a major impact on the players that knew him.",
-      "publishedAt": "2026-09-22T17:39:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720463_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50006711/andy-robertson-liverpool-diogo-jota-premier-league",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": "488086600ba047b61b2001414c9b0f49",
       "source": "Sky Sports",
       "headline": "Arteta agrees new Arsenal contract",
@@ -74,17 +158,6 @@
         "Chelsea",
         "Brazil"
       ]
-    },
-    {
-      "id": "192e8dc06a6d9f013be538de63932191",
-      "source": "Sky Sports",
-      "headline": "Scotland's Pocognoli has 'good mix' as he eyes winning start to his reign",
-      "description": "New Scotland head Sebastien Pocognoli has told Sky Sports it was time for change, believing he has a \"good mix\" in his first squad.",
-      "publishedAt": "2026-09-22T14:30:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sebastien-s-pocognoli_7358638.jpg?20260922151618",
-      "link": "https://www.skysports.com/football/news/12040/13590702/scotland-sebastian-pocognoli-has-good-mix-as-new-head-coach-targets-winning-start-in-nations-league",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50004798,
@@ -126,19 +199,6 @@
       "tag": "Newcastle United",
       "teams": [
         "Newcastle United",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 50004082,
-      "source": "ESPN",
-      "headline": "Wayne Rooney: 'Disappointing' if 'top player' JJ Gabriel leaves Man United",
-      "description": "Wayne Rooney has said it would be \"disappointing\" for Manchester United to lose \"special talent\" JJ Gabriel.",
-      "publishedAt": "2026-09-22T10:19:57Z",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50004082/wayne-rooney-disappointing-top-player-jj-gabriel-leaves-man-united",
-      "tag": "Manchester United",
-      "teams": [
         "Manchester United"
       ]
     },
@@ -389,19 +449,6 @@
       ]
     },
     {
-      "id": 49991106,
-      "source": "ESPN",
-      "headline": "Carrick quashes notion Manchester United are out of shape",
-      "description": "Michael Carrick played down concerns that Manchester United's poor start to the season has been caused by a lack of fitness within the squad.",
-      "publishedAt": "2026-09-21T06:55:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719613_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49991106/carrick-squashes-notion-manchester-united-shape",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 49996523,
       "source": "ESPN",
       "headline": "Isak's winner lifts Liverpool to victory",
@@ -414,79 +461,11 @@
         "AFC Bournemouth",
         "Liverpool"
       ]
-    },
-    {
-      "id": 49995690,
-      "source": "ESPN",
-      "headline": "Manchester City score five in thrilling win over Sunderland",
-      "description": "The Sky Blues remain top of the Premier League table after a goal-filled 5-3 victory over the Black Cats.",
-      "publishedAt": "2026-09-21T02:40:47Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/Int_260920_Soccer_HIGHLIGHT_Manchester_City_score_five_in_thrilling_win_over_Sunderland_2026921_AUS/Int_260920_Soccer_HIGHLIGHT_Manchester_City_score_five_in_thrilling_win_over_Sunderland_2026921_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49995690/manchester-city-score-five-thrilling-win-sunderland",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 49995197,
-      "source": "ESPN",
-      "headline": "United stumble again at Fulham",
-      "description": "A comical own goal by Lisandro Martínez saw Manchester United fail to win for a third Premier League game in a row as they drew 1-1 with Fulham.",
-      "publishedAt": "2026-09-21T01:09:42Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49995197/united-stumble-again-fulham",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49991430,
-      "source": "ESPN",
-      "headline": "Carrick encouraged by Man United's late draw vs. Fulham",
-      "description": "Carrick encouraged by Man United's late draw vs. Fulham",
-      "publishedAt": "2026-09-20T19:32:44Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Presser_Carrick_encouraged_by_Man_Uniteds_late_draw_vs_Fulham__20260920_GLOBAL/dm_260920_COM_SOC_Presser_Carrick_encouraged_by_Man_Uniteds_late_draw_vs_Fulham__20260920_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49991430/carrick-encouraged-man-united-late-draw-vs-fulham",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49991293,
-      "source": "ESPN",
-      "headline": "Maresca isn't getting excited about Man City being top",
-      "description": "Maresca isn't getting excited about Man City being top",
-      "publishedAt": "2026-09-20T19:16:22Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Presser_Maresca_isnt_getting_excited_about_Man_City_being_top_20260920_GLOBAL/dm_260920_COM_SOC_Presser_Maresca_isnt_getting_excited_about_Man_City_being_top_20260920_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49991293/maresca-getting-excited-man-city-being-top",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49991142,
-      "source": "ESPN",
-      "headline": "Iraola: Isak got his reward vs. Bournemouth",
-      "description": "Iraola: Isak got his reward vs. Bournemouth",
-      "publishedAt": "2026-09-20T19:01:27Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Analysis_Iraola3A_Isak_got_his_reward_vs_Bournemouth_GLOBAL_2026-09-20/dm_260920_COM_SOC_Analysis_Iraola3A_Isak_got_his_reward_vs_Bournemouth_GLOBAL_2026-09-20.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/49991142/isak-got-reward-vs-bournemouth",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Liverpool"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-23T04:41:21.868Z"
+    "cachedAt": "2026-09-23T11:30:27.216Z"
   }
 }
