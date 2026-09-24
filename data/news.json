@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "916be0e710b846d7ce5ee1c4ac9c4e8a",
+      "source": "Sky Sports",
+      "headline": "Man of Steel nominee Miller agrees Leeds contract extension to 2028",
+      "description": "",
+      "publishedAt": "2026-09-24T17:15:00.000Z",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-rugby-league-super-league_7206352.jpg?20260924181131",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "561f7ea52cfad960ed74c965227da40f",
+      "source": "Sky Sports",
+      "headline": "Premier League in joint call for FIFA reform amid Infantino crisis",
+      "description": "The Premier League and three of its top European counterparts will on Friday issue a joint call for urgent governance reform at FIFA amid the crisis engulfing its president, Gianni Infantino.",
+      "publishedAt": "2026-09-24T17:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-gianni-infantino_7316467.jpg?20260807222346",
+      "link": "https://www.skysports.com/football/news/12040/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50021083,
       "source": "ESPN",
       "headline": "Former England forward Andy Carroll says he was sexually assaulted by a man in 2021",
@@ -17,36 +39,14 @@
       ]
     },
     {
-      "id": "475fb68fa9a1e6effdcb50f004bd8d94",
+      "id": "6ba02ec8d11f5db1f57af21e4e24de92",
       "source": "Sky Sports",
-      "headline": "Hibs appoint 34-year-old Reedijk as new boss",
-      "description": "Hibernian have appointed Marink Reedijk as their new manager, following the sacking of David Gray earlier this month.",
-      "publishedAt": "2026-09-24T11:20:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-marinus-reedijk-beveren_7360187.jpg?20260924123007",
-      "link": "https://www.skysports.com/football/news/12040/13591387/hibernian-appoint-marink-reedijk-thirty-four-year-old-dutchman-arrives-at-easter-road-after-success-in-belgium",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "104db1ad9d9ebac15620983865b26d18",
-      "source": "Sky Sports",
-      "headline": "Fox signs new Arsenal deal",
-      "description": "Arsenal defender Emily Fox has signed a new contract at the club.",
-      "publishedAt": "2026-09-24T11:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-emily-fox-arsenal_7359843.jpg?20260923214243",
-      "link": "https://www.skysports.com/football/news/12040/13591163/arsenal-usa-international-emily-fox-signs-new-deal-with-womens-super-league-club",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e3ca3c04e5a6bab0bc63029ad71bf410",
-      "source": "Sky Sports",
-      "headline": "How Barry Hearn is helping shape the future of his local non-league club",
-      "description": "Barry Hearn is best known for transforming snooker, darts and boxing into major television sports.",
-      "publishedAt": "2026-09-24T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-barry-hearn-brentwood-town_7359749.jpg?20260923192036",
-      "link": "https://www.skysports.com/football/news/12040/13582843/brentwood-town-how-former-leyton-orient-owner-barry-hearn-is-helping-shape-the-future-of-his-local-non-league-club",
-      "tag": "News Story",
+      "headline": "Ronaldo starts for Portugal against depleted Wales LIVE!",
+      "description": "",
+      "publishedAt": "2026-09-24T14:22:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
+      "link": "https://www.skysports.com/football/portugal-vs-wales/live/553987",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -65,17 +65,6 @@
         "Philadelphia Union",
         "Red Bull New York"
       ]
-    },
-    {
-      "id": "ee4b253fa129282c981f7126d827530f",
-      "source": "Sky Sports",
-      "headline": "Man Utd latest: Fans able to buy sections of Old Trafford pitch",
-      "description": "",
-      "publishedAt": "2026-09-24T06:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50011570,
@@ -144,6 +133,17 @@
       "teams": [
         "Manchester United"
       ]
+    },
+    {
+      "id": "bca3ce37a69be55d306699474ab36e22",
+      "source": "Sky Sports",
+      "headline": "EFL latest: Preston given permission to speak to Alexander",
+      "description": "",
+      "publishedAt": "2026-09-23T14:55:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-graham-alexander_7360446.jpg?20260924160441",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50012381,
@@ -478,6 +478,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-24T17:07:08.885Z"
+    "cachedAt": "2026-09-24T21:28:29.143Z"
   }
 }
