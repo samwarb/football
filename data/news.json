@@ -2,6 +2,54 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50021083,
+      "source": "ESPN",
+      "headline": "Former England forward Andy Carroll says he was sexually assaulted by a man in 2021",
+      "description": "Former England forward Andy Carroll has revealed in his autobiography he was sexually assaulted by a man during 2021.",
+      "publishedAt": "2026-09-24T16:44:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721325_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50021083/former-england-forward-andy-carroll-says-was-sexually-assaulted-man-2021",
+      "tag": "Dagenham & Redbridge",
+      "teams": [
+        "Dagenham & Redbridge",
+        "Liverpool",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": "475fb68fa9a1e6effdcb50f004bd8d94",
+      "source": "Sky Sports",
+      "headline": "Hibs appoint 34-year-old Reedijk as new boss",
+      "description": "Hibernian have appointed Marink Reedijk as their new manager, following the sacking of David Gray earlier this month.",
+      "publishedAt": "2026-09-24T11:20:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-marinus-reedijk-beveren_7360187.jpg?20260924123007",
+      "link": "https://www.skysports.com/football/news/12040/13591387/hibernian-appoint-marink-reedijk-thirty-four-year-old-dutchman-arrives-at-easter-road-after-success-in-belgium",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "104db1ad9d9ebac15620983865b26d18",
+      "source": "Sky Sports",
+      "headline": "Fox signs new Arsenal deal",
+      "description": "Arsenal defender Emily Fox has signed a new contract at the club.",
+      "publishedAt": "2026-09-24T11:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-emily-fox-arsenal_7359843.jpg?20260923214243",
+      "link": "https://www.skysports.com/football/news/12040/13591163/arsenal-usa-international-emily-fox-signs-new-deal-with-womens-super-league-club",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "e3ca3c04e5a6bab0bc63029ad71bf410",
+      "source": "Sky Sports",
+      "headline": "How Barry Hearn is helping shape the future of his local non-league club",
+      "description": "Barry Hearn is best known for transforming snooker, darts and boxing into major television sports.",
+      "publishedAt": "2026-09-24T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-barry-hearn-brentwood-town_7359749.jpg?20260923192036",
+      "link": "https://www.skysports.com/football/news/12040/13582843/brentwood-town-how-former-leyton-orient-owner-barry-hearn-is-helping-shape-the-future-of-his-local-non-league-club",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50015083,
       "source": "ESPN",
       "headline": "Is Sullivan the next Olise? Comparisons for USMNT's top young stars",
@@ -19,14 +67,14 @@
       ]
     },
     {
-      "id": "538d67cd0ae2874d8497570ea36b5a99",
+      "id": "ee4b253fa129282c981f7126d827530f",
       "source": "Sky Sports",
-      "headline": "'We have our own strengths' – Gordon backs Tuchel’s DNA comments",
-      "description": "Anthony Gordon has backed Thomas Tuchel's view that England's players have an inbuilt inability to control matches with possession - and has urged the team to embrace the country's traditional strengths.",
-      "publishedAt": "2026-09-24T05:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-anthony-gordon-thomas_7359690.jpg?20260923182416",
-      "link": "https://www.skysports.com/football/news/12040/13591079/england-vs-spain-anthony-gordon-backs-thomas-tuchels-dna-comments-about-possession-and-calls-on-three-lions-to-focus-on-their-strengths",
-      "tag": "News Story",
+      "headline": "Man Utd latest: Fans able to buy sections of Old Trafford pitch",
+      "description": "",
+      "publishedAt": "2026-09-24T06:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -71,28 +119,6 @@
       ]
     },
     {
-      "id": "0b56817766fa342d38c8f447874793ee",
-      "source": "Sky Sports",
-      "headline": "Man Utd hammer Sheffield Utd 10-1 in Subway Women's Players Cup",
-      "description": "",
-      "publishedAt": "2026-09-23T22:23:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wsl-womens-super-league_7351336.jpg?20260914114814",
-      "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "6b7cf53a45a68e719da949be7192f9dc",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd line up Conte for sensational PL return",
-      "description": "The top stories and transfer rumours from Thursday's newspapers...",
-      "publishedAt": "2026-09-23T22:20:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13591219/man-utd-antonio-conte-lined-up-for-sensational-premier-league-return-as-replacement-for-michael-carrick-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50016000,
       "source": "ESPN",
       "headline": "Nicol and Burley clash over Palmer's injury",
@@ -105,17 +131,6 @@
         "Chelsea",
         "England"
       ]
-    },
-    {
-      "id": "cb6db68ee665b65733a805762618bbb4",
-      "source": "Sky Sports",
-      "headline": "Kaptein scores winner as Chelsea earn narrow victory over Austria Wien",
-      "description": "Wieke Kaptein scored a stunning goal but Chelsea were given a stern test by Austria Wien as they began their Women's Champions League campaign with a hard-fought 1-0 win at Plough Lane.",
-      "publishedAt": "2026-09-23T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wieke-kaptein-chelsea_7359808.jpg?20260923205428",
-      "link": "https://www.skysports.com/football/chelsea-women-vs-austria-wien-women/report/578238",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 50013903,
@@ -447,20 +462,6 @@
       ]
     },
     {
-      "id": 49997462,
-      "source": "ESPN",
-      "headline": "Ruben Amorim: 'I can't repeat my mistakes' after Man United",
-      "description": "Ruben Amorim has vowed not to repeat the mistakes of his Manchester United tenure at AC Milan.",
-      "publishedAt": "2026-09-21T11:09:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708048_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49997462/ruben-amorim-cant-repeat-my-mistakes-man-united",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "AC Milan"
-      ]
-    },
-    {
       "id": 49997530,
       "source": "ESPN",
       "headline": "Matheus Cunha urges calm after disproving 'Man United will go to Championship' fear",
@@ -477,6 +478,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-24T11:40:59.078Z"
+    "cachedAt": "2026-09-24T17:07:08.885Z"
   }
 }
