@@ -2,6 +2,42 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Which Premier League players got injured in the international break?",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-09-25T10:26:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721392_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 50025809,
+      "source": "ESPN",
+      "headline": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
+      "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
+      "publishedAt": "2026-09-25T10:12:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 50025973,
+      "source": "ESPN",
+      "headline": "United Strand fan: Ruben Amorim told me 'sorry about that'",
+      "description": "The Manchester United fan who has vowed to cut his hair only when the club win five Premier League games in a row has received an apology from former boss Ruben Amorim.",
+      "publishedAt": "2026-09-25T09:18:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721603_861x484_16-9.png",
+      "link": "https://www.espn.com/soccer/story/_/id/50025973/united-stran-fan-ruben-amorim-told-sorry-that",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "AC Milan"
+      ]
+    },
+    {
       "id": 50023298,
       "source": "ESPN",
       "headline": "Anthony Gordon: Premier League players most fatigued at summer tournaments",
@@ -17,12 +53,12 @@
       ]
     },
     {
-      "id": "e067d638fc9e16d9759d3879016ec62a",
+      "id": "f3e6a144e8452a69d1edbf018241095c",
       "source": "Sky Sports",
-      "headline": "Late Gakpo strike denies Klopp winning start with Germany",
+      "headline": "'Only scratched the surface' - Germany boss Klopp positive despite draw",
       "description": "Cody Gakpo hit a stoppage-time volley to earn the Netherlands a 1-1 draw against Germany in their Nations League Group A2 opener on Thursday, denying Jurgen Klopp victory in his first match as Germany boss.",
       "publishedAt": "2026-09-24T21:30:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cody-gakpo-netherlands_7360742.jpg?20260924225115",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-klopp-jurgen-germany_7360835.jpg?20260925071651",
       "link": "https://www.skysports.com/football/netherlands-vs-germany/report/553985",
       "tag": "Report",
       "teams": []
@@ -96,17 +132,6 @@
         "Liverpool",
         "Newcastle United"
       ]
-    },
-    {
-      "id": "2fd4a3ddafa721f38ece79b4f7d471f6",
-      "source": "Sky Sports",
-      "headline": "Wales beaten by Portugal on frustrating night for Ronaldo",
-      "description": "Wales fell to an opening 1-0 Nations League defeat to Portugal as Cristiano Ronaldo drew a blank in Lisbon.",
-      "publishedAt": "2026-09-24T14:02:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cristiano-ronaldo_7360664.jpg?20260924205357",
-      "link": "https://www.skysports.com/football/portugal-vs-wales/report/553987",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 50015083,
@@ -479,51 +504,11 @@
         "Fulham",
         "Manchester United"
       ]
-    },
-    {
-      "id": 49998485,
-      "source": "ESPN",
-      "headline": "Harry Maguire: Man United didn't take chances against Fulham, paid the price",
-      "description": "Harry Maguire said Manchester United paid the price for failing to take their chances in Sunday's 1-1 draw against Fulham.",
-      "publishedAt": "2026-09-21T14:47:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720012_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49998485/man-united-harry-maguire-fulham-michael-carrick-premier-league",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Fulham"
-      ]
-    },
-    {
-      "id": 49997658,
-      "source": "ESPN",
-      "headline": "Antoine Semenyo happy to lead Man City's attack if needed",
-      "description": "Antoine Semenyo is ready to take on the challenge of leading Manchester City's attack if needed.",
-      "publishedAt": "2026-09-21T11:37:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719951_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49997658/antoine-semenyo-man-city-erling-haaland-premier-league-enzo-maresca",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 49997685,
-      "source": "ESPN",
-      "headline": "Lamine Camara better off in Monaco, ex-Chelsea midfielder says",
-      "description": "Chelsea transfer target Lamine Camara has been told he is better off where he is by Monaco teammate and former Blues cast-off Denis Zakaria.",
-      "publishedAt": "2026-09-21T11:28:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719953_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49997685/lamine-camara-better-monaco-ex-chelsea-midfielder-says",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-25T04:53:20.798Z"
+    "cachedAt": "2026-09-25T11:46:52.825Z"
   }
 }
