@@ -2,25 +2,84 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "916be0e710b846d7ce5ee1c4ac9c4e8a",
+      "id": 50023298,
+      "source": "ESPN",
+      "headline": "Anthony Gordon: Premier League players most fatigued at summer tournaments",
+      "description": "Anthony Gordon has said Premier League players are destined to come into summer tournaments more fatigued than any other league.",
+      "publishedAt": "2026-09-24T22:07:10Z",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689667_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50023298/anthony-gordon-premier-league-players-likely-more-fatigued-others-summer-tournaments",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Barcelona",
+        "La Liga AFE"
+      ]
+    },
+    {
+      "id": "e067d638fc9e16d9759d3879016ec62a",
       "source": "Sky Sports",
-      "headline": "Man of Steel nominee Miller agrees Leeds contract extension to 2028",
+      "headline": "Late Gakpo strike denies Klopp winning start with Germany",
+      "description": "Cody Gakpo hit a stoppage-time volley to earn the Netherlands a 1-1 draw against Germany in their Nations League Group A2 opener on Thursday, denying Jurgen Klopp victory in his first match as Germany boss.",
+      "publishedAt": "2026-09-24T21:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cody-gakpo-netherlands_7360742.jpg?20260924225115",
+      "link": "https://www.skysports.com/football/netherlands-vs-germany/report/553985",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "66fcaaa0205f479f868fd71f2f2bd360",
+      "source": "Sky Sports",
+      "headline": "Man City latest: Haaland scores twice as Norway win Nations League opener",
       "description": "",
-      "publishedAt": "2026-09-24T17:15:00.000Z",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-rugby-league-super-league_7206352.jpg?20260924181131",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
+      "publishedAt": "2026-09-24T21:02:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-erling-haaland-norway_7360674.jpg?20260924211141",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": "561f7ea52cfad960ed74c965227da40f",
+      "id": "babcbece33dcf593d97cc2aaf6e0867f",
       "source": "Sky Sports",
-      "headline": "Premier League in joint call for FIFA reform amid Infantino crisis",
-      "description": "The Premier League and three of its top European counterparts will on Friday issue a joint call for urgent governance reform at FIFA amid the crisis engulfing its president, Gianni Infantino.",
-      "publishedAt": "2026-09-24T17:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-gianni-infantino_7316467.jpg?20260807222346",
-      "link": "https://www.skysports.com/football/news/12040/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform",
-      "tag": "News Story",
+      "headline": "Republic of Ireland slip to deserved defeat in Kosovo",
+      "description": "The Republic of Ireland slipped to a 1-0 defeat away to Kosovo in their Nations League opener in Pristina.",
+      "publishedAt": "2026-09-24T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-dara-o-shea_7360714.jpg?20260924222008",
+      "link": "https://www.skysports.com/football/kosovo-vs-republic-of-ireland/report/553983",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "97469e6a6ac40cd3574eb592b352ae9e",
+      "source": "Sky Sports",
+      "headline": "Newcastle latest: Wissa scores in DR Congo win",
+      "description": "",
+      "publishedAt": "2026-09-24T20:02:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-newcastle-news-rumours_7331922.jpg?20260826153948",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "5d157d6d6110a817ac04e8971299934a",
+      "source": "Sky Sports",
+      "headline": "Sunderland latest: Brobbey taken off injured on international duty",
+      "description": "",
+      "publishedAt": "2026-09-24T19:44:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-brian-brobbey-netherlands_7360656.jpg?20260924204243",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "2a72f53a7f910dbca85a7dbf35637672",
+      "source": "Sky Sports",
+      "headline": "Arsenal latest: Havertz off injured in Germany's game vs Netherlands",
+      "description": "",
+      "publishedAt": "2026-09-24T19:39:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-kai-havertz-germany_7360653.jpg?20260924203711",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -39,14 +98,14 @@
       ]
     },
     {
-      "id": "6ba02ec8d11f5db1f57af21e4e24de92",
+      "id": "2fd4a3ddafa721f38ece79b4f7d471f6",
       "source": "Sky Sports",
-      "headline": "Ronaldo starts for Portugal against depleted Wales LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-24T14:22:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
-      "link": "https://www.skysports.com/football/portugal-vs-wales/live/553987",
-      "tag": "Liveblog",
+      "headline": "Wales beaten by Portugal on frustrating night for Ronaldo",
+      "description": "Wales fell to an opening 1-0 Nations League defeat to Portugal as Cristiano Ronaldo drew a blank in Lisbon.",
+      "publishedAt": "2026-09-24T14:02:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cristiano-ronaldo_7360664.jpg?20260924205357",
+      "link": "https://www.skysports.com/football/portugal-vs-wales/report/553987",
+      "tag": "Report",
       "teams": []
     },
     {
@@ -108,6 +167,17 @@
       ]
     },
     {
+      "id": "947c066bef9183bf17a30505eb6a954f",
+      "source": "Sky Sports",
+      "headline": "Papers: Barcelona not interested in signing Man Utd wonderkid Gabriel",
+      "description": "The top stories and transfer rumours from Friday's newspapers...",
+      "publishedAt": "2026-09-23T22:20:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13591497/man-utd-transfer-news-barcelona-not-interested-in-wonderkid-jj-gabriel-says-sporting-director-deco-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50016000,
       "source": "ESPN",
       "headline": "Nicol and Burley clash over Palmer's injury",
@@ -133,17 +203,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "bca3ce37a69be55d306699474ab36e22",
-      "source": "Sky Sports",
-      "headline": "EFL latest: Preston given permission to speak to Alexander",
-      "description": "",
-      "publishedAt": "2026-09-23T14:55:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-graham-alexander_7360446.jpg?20260924160441",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50012381,
@@ -460,24 +519,11 @@
       "teams": [
         "Chelsea"
       ]
-    },
-    {
-      "id": 49997530,
-      "source": "ESPN",
-      "headline": "Matheus Cunha urges calm after disproving 'Man United will go to Championship' fear",
-      "description": "Matheus Cunha has said it's too early to write off Manchester United this season after reminding critics they were able to recover from a poor start a year ago to finish third in the Premier League.",
-      "publishedAt": "2026-09-21T11:06:46Z",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719949_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49997530/matheus-cunha-urges-calm-disproving-man-united-go-championship-fear",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-24T21:28:29.143Z"
+    "cachedAt": "2026-09-25T04:53:20.798Z"
   }
 }
