@@ -2,6 +2,67 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50031688,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, Liverpool eye winger Kevin Schade",
+      "description": "Arsenal and Liverpool are upping their interest in Brentford's Kevin Schade, while the rest of Europe chases center backs. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-26T19:01:43Z",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1721950_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50031688/transfer-rumors-news-arsenal-liverpool-eye-winger-kevin-schade",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Arsenal",
+        "Brentford"
+      ]
+    },
+    {
+      "id": 50029590,
+      "source": "ESPN",
+      "headline": "What's next for Man City after Premier League charges?",
+      "description": "What's next for Man City after Premier League charges?",
+      "publishedAt": "2026-09-26T19:00:36Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0926/dm_260925_COM_SOC_Analysis_WhatE28099s_next_for_Ma899/dm_260925_COM_SOC_Analysis_WhatE28099s_next_for_Ma899.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50029590/next-man-city-premier-league-charges",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "bf9bb442c9342085bc794f1412145742",
+      "source": "Sky Sports",
+      "headline": "Putellas scores her first goal to inspire London City win over Brighton",
+      "description": "Highlights of the WSL match between London City Lionesses and Brighton.",
+      "publishedAt": "2026-09-26T17:58:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-london-city-lionesses_7362048.jpg?20260926190332",
+      "link": "https://www.skysports.com/watch/video/13592247/london-city-lionesses-2-0-brighton-wsl-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "06aac72742956fd84235b94adf0aac9e",
+      "source": "Sky Sports",
+      "headline": "Putellas' first WSL goal helps send London City second with Brighton win",
+      "description": "Alexia Putellas scored her first goal in English football, helping London City Lionesses to a 2-0 win against Brighton and sending them second in the WSL table.",
+      "publishedAt": "2026-09-26T17:55:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-alexia-putellas-london-city-lionesses_7361976.jpg?20260926174329",
+      "link": "https://www.skysports.com/football/london-city-lionesses-vs-brighton-and-hove-albion-women/report/575777",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "b5b7ca069e72c6cfe3b9a7f12b6bcd2c",
+      "source": "Sky Sports",
+      "headline": "What did Pocognoli change in first Scotland game in charge?",
+      "description": "A draw might not be the most inspiring result for a new era, but there were still plenty of positives for Sebastien Pocognoli to take from his first game in charge of Scotland.",
+      "publishedAt": "2026-09-26T17:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sebastien-pocognoli_7361942.jpg?20260926172329",
+      "link": "https://www.skysports.com/football/news/12040/13592137/slovenia-0-0-scotland-what-did-sebastien-pocognoli-change-in-first-game-as-scottish-boss-since-replacing-steve-clarke",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50033305,
       "source": "ESPN",
       "headline": "Man City chairman on club's Premier League charges case: 'Nothing has changed'",
@@ -41,21 +102,6 @@
       ]
     },
     {
-      "id": 50031688,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Arsenal, Liverpool eye winger Kevin Schade",
-      "description": "Arsenal and Liverpool are upping their interest in Brentford's Kevin Schade, while the rest of Europe chases center backs. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-26T13:19:20Z",
-      "image": "https://a.espncdn.com/photo/2026/0926/r1721950_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50031688/transfer-rumors-news-arsenal-liverpool-eye-winger-kevin-schade",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Arsenal",
-        "Brentford"
-      ]
-    },
-    {
       "id": 50032007,
       "source": "ESPN",
       "headline": "Man City charges: Premier League clubs seeking legal advice amid expected guilty verdicts - sources",
@@ -81,17 +127,6 @@
         "Chelsea",
         "Fulham"
       ]
-    },
-    {
-      "id": "92e85d66857db2f4afcc633efd8e649d",
-      "source": "Sky Sports",
-      "headline": "WSL: Charlton vs Man City LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-26T11:45:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-lauren-hemp-man-city_7355658.jpg?20260918191827",
-      "link": "https://www.skysports.com/football/charlton-athletic-women-vs-manchester-city-women/live/575776",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50026166,
@@ -142,17 +177,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "8050506ff6ac6a050ef95a040a3a9934",
-      "source": "Sky Sports",
-      "headline": "Republic of Ireland press conference delayed ahead of facing Israel",
-      "description": "",
-      "publishedAt": "2026-09-26T10:41:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-republic-of-ireland_7360202.jpg?20260924124209",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50004145,
@@ -247,19 +271,6 @@
       ]
     },
     {
-      "id": 50029590,
-      "source": "ESPN",
-      "headline": "What's next for Man City after Premier League charges?",
-      "description": "What's next for Man City after Premier League charges?",
-      "publishedAt": "2026-09-25T22:39:00Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0925/dm_260925_COM_SOC_Analysis_WhatE28099s_next_for_Man_City_after_Premier_League_charges3F_GLOBAL_2026-09-25/dm_260925_COM_SOC_Analysis_WhatE28099s_next_for_Man_City_after_Premier_League_charges3F_GLOBAL_2026-09-25.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50029590/next-man-city-premier-league-charges",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50029194,
       "source": "ESPN",
       "headline": "Rodri 'believes in innocence' of Man City, says success 'deserved'",
@@ -311,6 +322,17 @@
         "Manchester United",
         "AC Milan"
       ]
+    },
+    {
+      "id": "21383fea905195626571a6a815bb8c24",
+      "source": "Sky Sports",
+      "headline": "England vs Spain in the Nations League LIVE!",
+      "description": "",
+      "publishedAt": "2026-09-25T06:41:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-james-trafford-england_7362004.jpg?20260926180900",
+      "link": "https://www.skysports.com/football/england-vs-spain/live/554000",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50023298,
@@ -431,6 +453,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-26T16:20:14.333Z"
+    "cachedAt": "2026-09-26T21:06:23.193Z"
   }
 }
