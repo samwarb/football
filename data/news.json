@@ -2,6 +2,56 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "89c99e49eaa59c06092f1d49dde5a0ce",
+      "source": "Sky Sports",
+      "headline": "Medina stars for Man Utd, Liverpool end Anfield hoodoo, Arsenal's title hopes over?",
+      "description": "",
+      "publishedAt": "2026-09-27T18:06:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-arsenal-man-utd-tottenham_7362744.jpg?20260927190131",
+      "link": "https://www.skysports.com/football/news/12040/13592442/wsl-talking-points",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50043662,
+      "source": "ESPN",
+      "headline": "LaLiga chief Javier Tebas criticises Man City's alleged rule breaches: 'Equal rules for all'",
+      "description": "LaLiga president Javier Tebas has said Manchester City legal battle against the Premier League shows why \"equal rules for all\" are essential.",
+      "publishedAt": "2026-09-27T17:54:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722495_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50043662/laliga-chief-javier-tebas-criticises-man-city-alleged-rule-breaches-equal-rules-all",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50043548,
+      "source": "ESPN",
+      "headline": "Tuchel: England players are not distracted by Man City's Premier League charges",
+      "description": "Tuchel: England players are not distracted by Man City's Premier League charges",
+      "publishedAt": "2026-09-27T17:39:19Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_Analysis_Tuchel3A_England_players_are_not_distracted_by_Man_CityE28099s_Premier_League_charges_G/dm_260927_COM_SOC_Analysis_Tuchel3A_England_players_are_not_distracted_by_Man_CityE28099s_Premier_League_charges_G.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50043548/england-players-not-distracted-man-city-premier-league-charges",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Manchester City",
+        "Spain"
+      ]
+    },
+    {
+      "id": "de712ea8fe11bba73915f60c53af64ba",
+      "source": "Sky Sports",
+      "headline": "Thompson strike seals Chelsea win to end Arsenal's unbeaten run",
+      "description": "Alyssa Thompson scored the only goal as Chelsea secured a 1-0 win against Arsenal to end their unbeaten streak in the Women's Super League.",
+      "publishedAt": "2026-09-27T17:30:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-alyssa-thompson-chelsea_7362706.jpg?20260927174720",
+      "link": "https://www.skysports.com/football/chelsea-women-vs-arsenal-women/report/575779",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 50042792,
       "source": "ESPN",
       "headline": "Gomez: Man City must face a historic punishment",
@@ -69,39 +119,6 @@
       ]
     },
     {
-      "id": "db9990bc2984faac8f1b4f40b7937698",
-      "source": "Sky Sports",
-      "headline": "WSL: Man Utd leading West Ham through Terland header LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-27T11:30:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-elisabeth-terland_7362450.jpg?20260927132147",
-      "link": "https://www.skysports.com/football/manchester-united-women-vs-west-ham-united-women/live/575781",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "91c707a08ff20a7be68d74d16142420b",
-      "source": "Sky Sports",
-      "headline": "Why Tuchel's critics have been forced to stay quiet despite Spain loss",
-      "description": "The narrative before this first post-World Cup international was clear: if England lose, the pressure on Thomas Tuchel could become unbearable.",
-      "publishedAt": "2026-09-27T11:30:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-thomas-tuchel-reporter-notebook_7362420.jpg?20260927123220",
-      "link": "https://www.skysports.com/football/news/12040/13592389/thomas-tuchel-why-england-head-coachs-critics-forced-to-stay-quiet-despite-nations-league-loss-to-spain",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "18ad725bfb98d8a1260b3c7159086955",
-      "source": "Sky Sports",
-      "headline": "'Fairy tales are real!' - Knights book Grand Final place with dramatic late try",
-      "description": "Sandon Smith scored a stunning late interception try to clinch Newcastle Knights' place in the NRL Grand Final for the first time in 25 years.",
-      "publishedAt": "2026-09-27T10:58:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-nrl-panthers-knights_7362415.jpg?20260927121723",
-      "link": "https://www.skysports.com/watch/video/13592384/newcastle-knights-last-gasp-interception-try-seals-grand-final-spot-and-sparks-wild-celebrations",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 50041047,
       "source": "ESPN",
       "headline": "Liverpool's Alexander Isak leaves Sweden camp early with 'minor injury'",
@@ -113,28 +130,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "fc9986a5ea03fda3f27c3e8efa005d25",
-      "source": "Sky Sports",
-      "headline": "Man City charges latest: Chairman's statement, how long process could take and what next?",
-      "description": "Miguel Delaney, Riath Al-Samarrai and Jack Rosser joined Sunday Supplement to discuss the latest in the case of Manchester City's 115 charges.",
-      "publishedAt": "2026-09-27T09:10:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-sunday-supplement_7362360.jpg?20260927102615",
-      "link": "https://www.skysports.com/watch/video/13592364/man-city-latest-chairman-khaldoon-al-mubaraks-statement-how-long-process-could-take-and-what-next-sunday-supplement",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "ec1834e4e469bd86362cfb170b6d4a3e",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd keeping close eye on Barca left-back Balde",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-09-27T09:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13592359/man-utd-transfer-news-barcelona-left-back-alejandro-balde-eyed-for-january-move-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50036795,
@@ -432,41 +427,20 @@
       ]
     },
     {
-      "id": 50021083,
-      "source": "ESPN",
-      "headline": "Former England forward Andy Carroll says he was sexually assaulted by a man in 2021",
-      "description": "Former England forward Andy Carroll has revealed in his autobiography he was sexually assaulted by a man during 2021.",
-      "publishedAt": "2026-09-24T16:44:39Z",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721325_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50021083/former-england-forward-andy-carroll-says-was-sexually-assaulted-man-2021",
-      "tag": "Dagenham & Redbridge",
-      "teams": [
-        "Dagenham & Redbridge",
-        "Liverpool",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 50015083,
-      "source": "ESPN",
-      "headline": "Is Sullivan the next Olise? Comparisons for USMNT's top young stars",
-      "description": "With the USMNT welcoming a new class of debutantes during this international break, ESPN dives into the numbers of the United States' next prodigies.",
-      "publishedAt": "2026-09-24T07:32:36Z",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720961_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50015083/is-cavan-sullivan-next-michael-olise-comparisons-united-states-top-young-stars",
-      "tag": "United States",
-      "teams": [
-        "United States",
-        "Crystal Palace",
-        "Borussia Dortmund",
-        "Philadelphia Union",
-        "Red Bull New York"
-      ]
+      "id": "8a7ffe9cfc4f8b54b77d61b624a2fd94",
+      "source": "Sky Sports",
+      "headline": "Wales comfortably beaten by Denmark in Nations League",
+      "description": "Wales wilted in Copenhagen as a 2-0 defeat to Denmark left them bottom of their Nations League group.",
+      "publishedAt": "2026-07-21T11:22:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-gustav-isaksen-denmark_7362727.jpg?20260927184131",
+      "link": "https://www.skysports.com/football/denmark-vs-wales/report/554008",
+      "tag": "Report",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-27T16:56:03.197Z"
+    "cachedAt": "2026-09-27T21:18:14.994Z"
   }
 }
