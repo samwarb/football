@@ -2,6 +2,54 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50036795,
+      "source": "ESPN",
+      "headline": "England boss Thomas Tuchel: Potential Man City punishments not a distraction in Spain defeat",
+      "description": "Thomas Tuchel has insisted Manchester City's potential punishment for breaching Premier League financial rules was not a distraction for his England players in Saturday's 3-2 Nations League defeat to Spain.",
+      "publishedAt": "2026-09-26T22:48:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1722201_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50036795/england-boss-thomas-tuchel-potential-manchester-city-punishments-not-distraction-spain-defeat",
+      "tag": "England",
+      "teams": [
+        "England",
+        "Spain",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "131c69cddf60737f7f89c79396c1917f",
+      "source": "Sky Sports",
+      "headline": "Keane disagrees with Gordon: There is a gap between Spain and England",
+      "description": "Roy Keane disagreed with Anthony Gordon's assessment that England are at the same level as Spain after the World Cup winners came from behind to beat Thomas Tuchel's side 3-2 in their Nations League opener.",
+      "publishedAt": "2026-09-26T21:50:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mikel-oyarzabal-england_7362135.jpg?20260926213116",
+      "link": "https://www.skysports.com/football/news/12040/13592299/england-2-3-spain-anthony-gordon-and-roy-keane-disagree-over-gap-between-three-lions-and-world-champions",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "07a33a98b4bebb70a94eac0831be4b4a",
+      "source": "Sky Sports",
+      "headline": "England latest: We did enough to beat Spain, says Tuchel",
+      "description": "",
+      "publishedAt": "2026-09-26T21:01:00.000Z",
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "faca6fc0900ee704fa7c2e3b70464e75",
+      "source": "Sky Sports",
+      "headline": "Spain show their class as errors cost England in Nations League loss",
+      "description": "Spain showed why they are the best national team in the world by emerging 3-2 winners from a thrilling, chaotic Nations League clash at Wembley, in which England's flaws undermined their exciting attacking play.",
+      "publishedAt": "2026-09-26T20:45:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-harry-kane-england_7362127.jpg?20260926212026",
+      "link": "https://www.skysports.com/football/england-vs-spain/report/554000",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 50031688,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal, Liverpool eye winger Kevin Schade",
@@ -28,39 +76,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "bf9bb442c9342085bc794f1412145742",
-      "source": "Sky Sports",
-      "headline": "Putellas scores her first goal to inspire London City win over Brighton",
-      "description": "Highlights of the WSL match between London City Lionesses and Brighton.",
-      "publishedAt": "2026-09-26T17:58:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-london-city-lionesses_7362048.jpg?20260926190332",
-      "link": "https://www.skysports.com/watch/video/13592247/london-city-lionesses-2-0-brighton-wsl-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "06aac72742956fd84235b94adf0aac9e",
-      "source": "Sky Sports",
-      "headline": "Putellas' first WSL goal helps send London City second with Brighton win",
-      "description": "Alexia Putellas scored her first goal in English football, helping London City Lionesses to a 2-0 win against Brighton and sending them second in the WSL table.",
-      "publishedAt": "2026-09-26T17:55:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-alexia-putellas-london-city-lionesses_7361976.jpg?20260926174329",
-      "link": "https://www.skysports.com/football/london-city-lionesses-vs-brighton-and-hove-albion-women/report/575777",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "b5b7ca069e72c6cfe3b9a7f12b6bcd2c",
-      "source": "Sky Sports",
-      "headline": "What did Pocognoli change in first Scotland game in charge?",
-      "description": "A draw might not be the most inspiring result for a new era, but there were still plenty of positives for Sebastien Pocognoli to take from his first game in charge of Scotland.",
-      "publishedAt": "2026-09-26T17:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sebastien-pocognoli_7361942.jpg?20260926172329",
-      "link": "https://www.skysports.com/football/news/12040/13592137/slovenia-0-0-scotland-what-did-sebastien-pocognoli-change-in-first-game-as-scottish-boss-since-replacing-steve-clarke",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50033305,
@@ -324,17 +339,6 @@
       ]
     },
     {
-      "id": "21383fea905195626571a6a815bb8c24",
-      "source": "Sky Sports",
-      "headline": "England vs Spain in the Nations League LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-25T06:41:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-james-trafford-england_7362004.jpg?20260926180900",
-      "link": "https://www.skysports.com/football/england-vs-spain/live/554000",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 50023298,
       "source": "ESPN",
       "headline": "Anthony Gordon: Premier League players most fatigued at summer tournaments",
@@ -435,24 +439,11 @@
         "Chelsea",
         "England"
       ]
-    },
-    {
-      "id": 50013903,
-      "source": "ESPN",
-      "headline": "Man United selling chunks of Old Trafford pitch",
-      "description": "Old Trafford -- the home of Manchester United -- has seen plenty of history over the years. Now, fans can own a piece of the pitch ...for £125 ($165).",
-      "publishedAt": "2026-09-23T16:35:56Z",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720872_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50013903/man-united-old-trafford-selling-pitch-pieces",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-26T21:06:23.193Z"
+    "cachedAt": "2026-09-27T05:14:39.546Z"
   }
 }
