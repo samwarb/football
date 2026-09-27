@@ -2,6 +2,36 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50042792,
+      "source": "ESPN",
+      "headline": "Gomez: Man City must face a historic punishment",
+      "description": "Gomez: Man City must face a historic punishment",
+      "publishedAt": "2026-09-27T15:19:36Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_ANALYSIS_Gomez_Man_City_must_face_a_historic_punishment_2026_9_27/dm_260927_COM_SOC_ANALYSIS_Gomez_Man_City_must_face_a_historic_punishment_2026_9_27.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50042792/man-city-face-historic-punishment",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50040914,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool among clubs interested in Alexander-Arnold",
+      "description": "A group of Premier League clubs are keeping an eye on Trent Alexander-Arnold. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-27T14:02:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50040914/transfer-rumors-news-liverpool-clubs-interested-alexander-arnold",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Chelsea",
+        "Manchester City",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
       "id": 50026166,
       "source": "ESPN",
       "headline": "Which Premier League players got injured in the international break?",
@@ -39,6 +69,39 @@
       ]
     },
     {
+      "id": "db9990bc2984faac8f1b4f40b7937698",
+      "source": "Sky Sports",
+      "headline": "WSL: Man Utd leading West Ham through Terland header LIVE!",
+      "description": "",
+      "publishedAt": "2026-09-27T11:30:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-elisabeth-terland_7362450.jpg?20260927132147",
+      "link": "https://www.skysports.com/football/manchester-united-women-vs-west-ham-united-women/live/575781",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "91c707a08ff20a7be68d74d16142420b",
+      "source": "Sky Sports",
+      "headline": "Why Tuchel's critics have been forced to stay quiet despite Spain loss",
+      "description": "The narrative before this first post-World Cup international was clear: if England lose, the pressure on Thomas Tuchel could become unbearable.",
+      "publishedAt": "2026-09-27T11:30:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-thomas-tuchel-reporter-notebook_7362420.jpg?20260927123220",
+      "link": "https://www.skysports.com/football/news/12040/13592389/thomas-tuchel-why-england-head-coachs-critics-forced-to-stay-quiet-despite-nations-league-loss-to-spain",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "18ad725bfb98d8a1260b3c7159086955",
+      "source": "Sky Sports",
+      "headline": "'Fairy tales are real!' - Knights book Grand Final place with dramatic late try",
+      "description": "Sandon Smith scored a stunning late interception try to clinch Newcastle Knights' place in the NRL Grand Final for the first time in 25 years.",
+      "publishedAt": "2026-09-27T10:58:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-nrl-panthers-knights_7362415.jpg?20260927121723",
+      "link": "https://www.skysports.com/watch/video/13592384/newcastle-knights-last-gasp-interception-try-seals-grand-final-spot-and-sparks-wild-celebrations",
+      "tag": "Video",
+      "teams": []
+    },
+    {
       "id": 50041047,
       "source": "ESPN",
       "headline": "Liverpool's Alexander Isak leaves Sweden camp early with 'minor injury'",
@@ -52,21 +115,26 @@
       ]
     },
     {
-      "id": 50040914,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool among clubs interested in Alexander-Arnold",
-      "description": "A group of Premier League clubs are keeping an eye on Trent Alexander-Arnold. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-27T10:22:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722359_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50040914/transfer-rumors-news-liverpool-clubs-interested-alexander-arnold",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Chelsea",
-        "Manchester City",
-        "Arsenal",
-        "Real Madrid"
-      ]
+      "id": "fc9986a5ea03fda3f27c3e8efa005d25",
+      "source": "Sky Sports",
+      "headline": "Man City charges latest: Chairman's statement, how long process could take and what next?",
+      "description": "Miguel Delaney, Riath Al-Samarrai and Jack Rosser joined Sunday Supplement to discuss the latest in the case of Manchester City's 115 charges.",
+      "publishedAt": "2026-09-27T09:10:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-sunday-supplement_7362360.jpg?20260927102615",
+      "link": "https://www.skysports.com/watch/video/13592364/man-city-latest-chairman-khaldoon-al-mubaraks-statement-how-long-process-could-take-and-what-next-sunday-supplement",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "ec1834e4e469bd86362cfb170b6d4a3e",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd keeping close eye on Barca left-back Balde",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-09-27T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13592359/man-utd-transfer-news-barcelona-left-back-alejandro-balde-eyed-for-january-move-paper-talk",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 50036795,
@@ -82,17 +150,6 @@
         "Spain",
         "Manchester City"
       ]
-    },
-    {
-      "id": "2468500fb6598053602631e971eb2d72",
-      "source": "Sky Sports",
-      "headline": "Keane disagrees with Gordon: 'There is a gap between Spain and England'",
-      "description": "Roy Keane disagreed with Anthony Gordon's assessment that England are at the same level as Spain after the World Cup winners came from behind to beat Thomas Tuchel's side 3-2 in their Nations League opener.",
-      "publishedAt": "2026-09-26T21:50:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mikel-oyarzabal-england_7362135.jpg?20260926213116",
-      "link": "https://www.skysports.com/football/news/12040/13592299/england-2-3-spain-anthony-gordon-and-roy-keane-disagree-over-gap-between-three-lions-and-world-champions",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50031688,
@@ -405,25 +462,11 @@
         "Philadelphia Union",
         "Red Bull New York"
       ]
-    },
-    {
-      "id": 50016000,
-      "source": "ESPN",
-      "headline": "Nicol and Burley clash over Palmer's injury",
-      "description": "Nicol and Burley clash over Palmer's injury",
-      "publishedAt": "2026-09-23T22:18:22Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_COM_SOC_Analysis_Nicol_and_Burley_clash_over_PalmerE28099s_injury__GLOBAL_2026-09-23/dm_260923_COM_SOC_Analysis_Nicol_and_Burley_clash_over_PalmerE28099s_injury__GLOBAL_2026-09-23.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50016000/nicol-burley-clash-palmer-injury",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "England"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-27T11:58:04.683Z"
+    "cachedAt": "2026-09-27T16:56:03.197Z"
   }
 }
