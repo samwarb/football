@@ -2,6 +2,104 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "fdca37111927fcc43afbcd7dcb22ed73",
+      "source": "Sky Sports",
+      "headline": "Liverpool latest: Gakpo withdraws from Netherlands squad with injury",
+      "description": "",
+      "publishedAt": "2026-09-28T13:09:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Which Premier League players got injured in the international break?",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-09-28T10:17:39Z",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722856_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "c977ab421a67df8001767f1507701d5f",
+      "source": "Sky Sports",
+      "headline": "Super League Grand Final 2026: Everything you need to know",
+      "description": "Ahead of the Super League Grand Final between Warrington Wolves and Wakefield Trinity, on Saturday October 3 at Old Trafford, we take you through everything you need to know...",
+      "publishedAt": "2026-09-28T09:45:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7363129.jpg?20260928104259",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13592670/super-league-grand-final-2026-date-venue-timings-as-warrington-wolves-and-wakefield-trinity-look-to-become-sixth-ever-winner",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "f587e12828a8906476c625fb593547e2",
+      "source": "Sky Sports",
+      "headline": "Matos on Swansea's fast start and working with Klopp at Liverpool",
+      "description": "It is Swansea City who sit top of the Championship after eight games. Not something many would have expected at the start of the season.",
+      "publishedAt": "2026-09-28T09:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-vitor-matos-swansea_7361212.jpg?20260925153646",
+      "link": "https://www.skysports.com/football/news/12040/13591791/vitor-matos-interview-swansea-city-boss-on-their-fast-start-and-working-under-jurgen-klopp-at-liverpool",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50046895,
+      "source": "ESPN",
+      "headline": "Nicol believes Klopp is wrong for backing Wirtz's Liverpool performances",
+      "description": "Nicol believes Klopp is wrong for backing Wirtz's Liverpool performances",
+      "publishedAt": "2026-09-28T08:03:16Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_Analysis_Nicol_believes_Klopp_is_wrong_for_backing_WritzE28099s_Liverpool_performances__GLOBAL/dm_260927_COM_SOC_Analysis_Nicol_believes_Klopp_is_wrong_for_backing_WritzE28099s_Liverpool_performances__GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50046895/nicol-believes-klopp-wrong-backing-wirtz-liverpool-performances",
+      "tag": "Germany",
+      "teams": [
+        "Germany",
+        "Greece",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50050442,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Madrid, Barcelona look to Haaland, Sullivan amid Man City uncertainty",
+      "description": "Real Madrid and Barcelona are looking at a host of players due to uncertainty created by the case surrounding Man City's financial rule breaches. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-28T07:45:51Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719394_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50050442/transfer-rumors-news-real-madrid-barcelona-look-haaland-sullivan-amid-man-city-uncertainty",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Real Madrid",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 50027680,
+      "source": "ESPN",
+      "headline": "Man City vs. Premier League: 115 financial charges explained",
+      "description": "The sporting world is waiting for a resolution to the hearings on Man City's charges for allegedly breaching the Premier League's financial rules. Here's what we know, and what might come next.",
+      "publishedAt": "2026-09-28T07:20:15Z",
+      "image": "https://a.espncdn.com/photo/2025/0129/r1444800_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50027680/manchester-city-premier-league-115-financial-charges-explained",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "518d7705581c30d5cd79679bb89c6e5e",
+      "source": "Sky Sports",
+      "headline": "Why Man City charges case could still drag on for years",
+      "description": "Manchester City have been embroiled in legal disputes with UEFA and the Premier League for 12 years and they are so determined to clear their name, and the 115 charges case is so big, that it could still be years before the saga is concluded.",
+      "publishedAt": "2026-09-28T06:25:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-manchester-city-premier-league_7361194.jpg?20260925150441",
+      "link": "https://www.skysports.com/football/news/12040/13592544/man-city-charges-case-involving-alleged-breaches-of-premier-league-financial-rules-could-drag-on-for-years",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50047455,
       "source": "ESPN",
       "headline": "'Not my concern': Ex-Man City boss Mancini brushes off guilty reports",
@@ -42,32 +140,6 @@
       ]
     },
     {
-      "id": 50046895,
-      "source": "ESPN",
-      "headline": "Nicol believes Klopp is wrong for backing Writz's Liverpool performances",
-      "description": "Nicol believes Klopp is wrong for backing Writz's Liverpool performances",
-      "publishedAt": "2026-09-27T22:34:37Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0927/dm_260927_COM_SOC_Analysis_Nicol_believes_Klopp_is_wrong_for_backing_WritzE28099s_Liverpool_performances__GLOBAL/dm_260927_COM_SOC_Analysis_Nicol_believes_Klopp_is_wrong_for_backing_WritzE28099s_Liverpool_performances__GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50046895/nicol-believes-klopp-wrong-backing-writz-liverpool-performances",
-      "tag": "Germany",
-      "teams": [
-        "Germany",
-        "Greece",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "89c99e49eaa59c06092f1d49dde5a0ce",
-      "source": "Sky Sports",
-      "headline": "Medina stars for Man Utd, Liverpool end Anfield hoodoo, Arsenal's title hopes over?",
-      "description": "",
-      "publishedAt": "2026-09-27T18:06:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-arsenal-man-utd-tottenham_7362744.jpg?20260927190131",
-      "link": "https://www.skysports.com/football/news/12040/13592442/wsl-talking-points",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50043662,
       "source": "ESPN",
       "headline": "LaLiga chief Javier Tebas criticises Man City's alleged rule breaches: 'Equal rules for all'",
@@ -94,17 +166,6 @@
         "Manchester City",
         "Spain"
       ]
-    },
-    {
-      "id": "de712ea8fe11bba73915f60c53af64ba",
-      "source": "Sky Sports",
-      "headline": "Thompson strike seals Chelsea win to end Arsenal's unbeaten run",
-      "description": "Alyssa Thompson scored the only goal as Chelsea secured a 1-0 win against Arsenal to end their unbeaten streak in the Women's Super League.",
-      "publishedAt": "2026-09-27T17:30:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-alyssa-thompson-chelsea_7362706.jpg?20260927174720",
-      "link": "https://www.skysports.com/football/chelsea-women-vs-arsenal-women/report/575779",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 50042792,
@@ -135,17 +196,6 @@
         "Arsenal",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Which Premier League players got injured in the international break?",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-09-27T11:44:38Z",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721392_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 50029047,
@@ -334,19 +384,6 @@
       ]
     },
     {
-      "id": 44382463,
-      "source": "ESPN",
-      "headline": "Source: Man City set to be found guilty on majority of Premier League charges",
-      "description": "Manchester City are expected to be found guilty on the vast majority of charges of financial breaches in their legal case with the Premier League, a source confirmed to ESPN.",
-      "publishedAt": "2026-09-25T23:23:18Z",
-      "image": "https://a.espncdn.com/photo/2025/0324/r1468472_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/44382463/man-city-115-charges-premier-league-verdict",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50029608,
       "source": "ESPN",
       "headline": "What sanctions should the Premier League enforce on Man City?",
@@ -415,33 +452,31 @@
       ]
     },
     {
-      "id": 50027680,
-      "source": "ESPN",
-      "headline": "Man City vs. Premier League: 115 financial charges explained",
-      "description": "The sporting world is waiting for a resolution to the hearings on Man City's charges for allegedly breaching the Premier League's financial rules. Here's what we know, and what might come next.",
-      "publishedAt": "2026-09-25T18:11:57Z",
-      "image": "https://a.espncdn.com/photo/2025/0129/r1444800_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50027680/manchester-city-premier-league-115-financial-charges-explained",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
+      "id": "3b584834acf868ac53a481ba9c77f63d",
+      "source": "Sky Sports",
+      "headline": "EFL latest: Alexander joins Preston as boss after leaving Bradford",
+      "description": "",
+      "publishedAt": "2026-09-25T17:42:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-graham-alexander_7360446.jpg?20260924160441",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
-      "id": "8ddffdcb7e7991411c110543ed29b8e4",
+      "id": "5c614f894304b384ed607c063578d0c6",
       "source": "Sky Sports",
-      "headline": "Bellamy 'hurting' after Denmark beat Wales comfortably",
-      "description": "Craig Bellamy says he is “really hurting” after Wales were beaten 2-0 in Copenhagen by a dominant Denmark to leave them bottom of their Nations League group",
-      "publishedAt": "2026-07-21T11:22:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-gustav-isaksen-denmark_7362727.jpg?20260927184131",
-      "link": "https://www.skysports.com/football/denmark-vs-wales/report/554008",
-      "tag": "Report",
+      "headline": "'Warrington WILL go to Old Trafford' - Littler's SPOT-ON prediction back in Feb!",
+      "description": "Speaking back in February, Luke Littler looked ahead to the Super League season and correctly predicted Warrington Wolves would make it to Old Trafford.",
+      "publishedAt": "2026-02-10T11:35:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-littler-warrington_7363270.jpg?20260928124735",
+      "link": "https://www.skysports.com/watch/video/13505661/warrington-wolves-at-old-trafford-luke-littlers-super-league-predictions",
+      "tag": "Video",
       "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-28T05:18:42.976Z"
+    "cachedAt": "2026-09-28T13:48:05.888Z"
   }
 }
