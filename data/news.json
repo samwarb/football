@@ -2,6 +2,32 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50050442,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, Tottenham eye move for Maza",
+      "description": "Both Arsenal and Tottenham Hotspur are competing to sign Bayer Leverkusen's Ibrahim Maza. Transfer Talk has the latest.",
+      "publishedAt": "2026-09-28T20:26:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1723140_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50050442/transfer-rumors-news-real-madrid-barcelona-look-haaland-sullivan-amid-man-city-uncertainty",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Tottenham Hotspur",
+        "Bayer Leverkusen"
+      ]
+    },
+    {
+      "id": "8cf89d95fd5a0255dc26f6f8d82c3907",
+      "source": "Sky Sports",
+      "headline": "Tuchel: On the ball, we were a danger to ourselves",
+      "description": "Thomas Tuchel believes England were a danger to themselves on the ball during their 3-2 defeat to Spain.",
+      "publishedAt": "2026-09-28T18:45:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-england-harry-kane_7363578.jpg?20260928194501",
+      "link": "https://www.skysports.com/football/news/12040/13592651/england-thomas-tuchel-claims-three-lions-were-a-danger-to-themselves-in-possession-as-he-plays-down-defensive-frailties",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "fdca37111927fcc43afbcd7dcb22ed73",
       "source": "Sky Sports",
       "headline": "Liverpool latest: Gakpo withdraws from Netherlands squad with injury",
@@ -13,6 +39,28 @@
       "teams": []
     },
     {
+      "id": "c7a66c6fd327fe34f3539971a9ecd2a6",
+      "source": "Sky Sports",
+      "headline": "Explained: Why Mancini has distanced himself from Man City charges",
+      "description": "Sky Sports News' Kaveh Solhekol explains why Italy head coach and former Manchester City boss Roberto Mancini has distanced himself from the club's 115 charges case. City insist they have irrefutable evidence to prove they did not break the rules.",
+      "publishedAt": "2026-09-28T12:47:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-roberto-mancini-manchester_7363323.jpg?20260928135447",
+      "link": "https://www.skysports.com/watch/video/13592871/explained-why-roberto-mancini-has-distanced-himself-from-man-city-charges",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "fcf1e8fb026aaf45bd578545be947002",
+      "source": "Sky Sports",
+      "headline": "Man City charges: The big questions answered",
+      "description": "Sky Sports News chief reporter Kaveh Solhekol is back to answer the big questions surrounding the Premier League's long-running dispute in their 115 charges against Manchester City.",
+      "publishedAt": "2026-09-28T12:28:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-trophy_7361300.jpg?20260925172954",
+      "link": "https://www.skysports.com/football/news/12040/13592852/manchester-city-charges-everything-we-know-so-far-about-premier-league-allegations-and-what-happens-from-here",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50026166,
       "source": "ESPN",
       "headline": "Which Premier League players got injured in the international break?",
@@ -21,28 +69,6 @@
       "image": "https://a.espncdn.com/photo/2026/0928/r1722856_1296x729_16-9.jpg",
       "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "c977ab421a67df8001767f1507701d5f",
-      "source": "Sky Sports",
-      "headline": "Super League Grand Final 2026: Everything you need to know",
-      "description": "Ahead of the Super League Grand Final between Warrington Wolves and Wakefield Trinity, on Saturday October 3 at Old Trafford, we take you through everything you need to know...",
-      "publishedAt": "2026-09-28T09:45:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7363129.jpg?20260928104259",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13592670/super-league-grand-final-2026-date-venue-timings-as-warrington-wolves-and-wakefield-trinity-look-to-become-sixth-ever-winner",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "f587e12828a8906476c625fb593547e2",
-      "source": "Sky Sports",
-      "headline": "Matos on Swansea's fast start and working with Klopp at Liverpool",
-      "description": "It is Swansea City who sit top of the Championship after eight games. Not something many would have expected at the start of the season.",
-      "publishedAt": "2026-09-28T09:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-vitor-matos-swansea_7361212.jpg?20260925153646",
-      "link": "https://www.skysports.com/football/news/12040/13591791/vitor-matos-interview-swansea-city-boss-on-their-fast-start-and-working-under-jurgen-klopp-at-liverpool",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -61,21 +87,6 @@
       ]
     },
     {
-      "id": 50050442,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Madrid, Barcelona look to Haaland, Sullivan amid Man City uncertainty",
-      "description": "Real Madrid and Barcelona are looking at a host of players due to uncertainty created by the case surrounding Man City's financial rule breaches. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-28T07:45:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719394_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50050442/transfer-rumors-news-real-madrid-barcelona-look-haaland-sullivan-amid-man-city-uncertainty",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Real Madrid",
-        "Barcelona"
-      ]
-    },
-    {
       "id": 50027680,
       "source": "ESPN",
       "headline": "Man City vs. Premier League: 115 financial charges explained",
@@ -87,17 +98,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "518d7705581c30d5cd79679bb89c6e5e",
-      "source": "Sky Sports",
-      "headline": "Why Man City charges case could still drag on for years",
-      "description": "Manchester City have been embroiled in legal disputes with UEFA and the Premier League for 12 years and they are so determined to clear their name, and the 115 charges case is so big, that it could still be years before the saga is concluded.",
-      "publishedAt": "2026-09-28T06:25:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-manchester-city-premier-league_7361194.jpg?20260925150441",
-      "link": "https://www.skysports.com/football/news/12040/13592544/man-city-charges-case-involving-alleged-breaches-of-premier-league-financial-rules-could-drag-on-for-years",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50047455,
@@ -384,13 +384,13 @@
       ]
     },
     {
-      "id": 50029608,
+      "id": 44382463,
       "source": "ESPN",
-      "headline": "What sanctions should the Premier League enforce on Man City?",
-      "description": "What sanctions should the Premier League enforce on Man City?",
-      "publishedAt": "2026-09-25T22:42:54Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0925/dm_260925_COM_SOC_Analysis_What_sanctions_should_the_Premier_League_enforce_on_Man_City3F_GLOBAL_2026-09-25/dm_260925_COM_SOC_Analysis_What_sanctions_should_the_Premier_League_enforce_on_Man_City3F_GLOBAL_2026-09-25.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50029608/what-sanctions-premier-league-enforce-man-city",
+      "headline": "Source: Man City set to be found guilty on majority of Premier League charges",
+      "description": "Manchester City are expected to be found guilty on the vast majority of charges of financial breaches in their legal case with the Premier League, a source confirmed to ESPN.",
+      "publishedAt": "2026-09-25T23:23:18Z",
+      "image": "https://a.espncdn.com/photo/2025/0324/r1468472_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/44382463/man-city-115-charges-premier-league-verdict",
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
@@ -450,33 +450,11 @@
         "Barcelona",
         "Spain"
       ]
-    },
-    {
-      "id": "3b584834acf868ac53a481ba9c77f63d",
-      "source": "Sky Sports",
-      "headline": "EFL latest: Alexander joins Preston as boss after leaving Bradford",
-      "description": "",
-      "publishedAt": "2026-09-25T17:42:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-graham-alexander_7360446.jpg?20260924160441",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "5c614f894304b384ed607c063578d0c6",
-      "source": "Sky Sports",
-      "headline": "'Warrington WILL go to Old Trafford' - Littler's SPOT-ON prediction back in Feb!",
-      "description": "Speaking back in February, Luke Littler looked ahead to the Super League season and correctly predicted Warrington Wolves would make it to Old Trafford.",
-      "publishedAt": "2026-02-10T11:35:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-littler-warrington_7363270.jpg?20260928124735",
-      "link": "https://www.skysports.com/watch/video/13505661/warrington-wolves-at-old-trafford-luke-littlers-super-league-predictions",
-      "tag": "Video",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-28T13:48:05.888Z"
+    "cachedAt": "2026-09-28T23:13:58.784Z"
   }
 }
