@@ -2,16 +2,48 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 50065250,
+      "id": 50070201,
       "source": "ESPN",
-      "headline": "Man City to appeal guilty verdict in Premier League breaches case",
-      "description": "Manchester City have until Friday to lodge an appeal against the guilty verdict handed down in their case with the Premier League and have stated publicly they intend to do so.",
-      "publishedAt": "2026-09-30T12:26:53Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723808_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50065250/man-city-appeal-guilty-verdict-premier-league-breaches-case",
-      "tag": "Manchester City",
+      "headline": "Late penalty drama as Arsenal draw with Paris FC in UWCL",
+      "description": "Late penalty drama as Arsenal draw with Paris FC in UWCL",
+      "publishedAt": "2026-09-30T21:22:13Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/dm_260930_Late_penalty_drama_as_Arsenal_draw_with_Paris_FC_in_UWCL/dm_260930_Late_penalty_drama_as_Arsenal_draw_with_Paris_FC_in_UWCL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50070201/late-penalty-drama-arsenal-draw-paris-fc-uwcl",
+      "tag": "Arsenal",
       "teams": [
+        "Arsenal",
+        "Arsenal",
+        "Paris FC"
+      ]
+    },
+    {
+      "id": 50070645,
+      "source": "ESPN",
+      "headline": "Klopp not preparing for more titles after verdict against Man City",
+      "description": "Jürgen Klopp said Wednesday he would \"wait and see\" before commenting on the Premier League's announcement yesterday that Manchester City had been found guilty of 114 charges for breaching financial rules.",
+      "publishedAt": "2026-09-30T21:04:34Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1724108_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50070645/klopp-not-preparing-title-manchester-city-verdict",
+      "tag": "Germany",
+      "teams": [
+        "Germany",
+        "Liverpool",
         "Manchester City"
+      ]
+    },
+    {
+      "id": 50065113,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool eye move for Mexico's Mora",
+      "description": "Could Mexico's teenage star Gilberto Mora end up moving to Merseyside? Transfer Talk has the latest.",
+      "publishedAt": "2026-09-30T20:09:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1724106_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50065113/transfer-rumors-news-real-madrid-eye-liverpool-van-dijk-free-transfer-end-season",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Tijuana",
+        "Mexico"
       ]
     },
     {
@@ -19,9 +51,94 @@
       "source": "ESPN",
       "headline": "Pep Guardiola after Man City guilty verdict: 'I am behind my club'",
       "description": "Pep Guardiola has released his first statement since Manchester City were found guilty of over 100 breaches of Premier League financial rules, saying \"I am behind my club.\"",
-      "publishedAt": "2026-09-30T12:25:06Z",
+      "publishedAt": "2026-09-30T19:52:19Z",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692093_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50066641/pep-guardiola-fans-man-city-guilty-verdict-here-more-ever",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50070465,
+      "source": "ESPN",
+      "headline": "UK PM Burnham 'concerned' Man City's owners could sell club",
+      "description": "The UK Prime Minister Andy Burnham said he \"would be really concerned\" if Manchester City 's owners sell the club following the guilty verdict for breaching Premier League financial rules.",
+      "publishedAt": "2026-09-30T19:42:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1724093_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50070465/andy-burnham-man-city-owners-sell-uk-prime-minister",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "83b16cb199cee651c3dcdd9df411b10e",
+      "source": "Sky Sports",
+      "headline": "Ronaldo walks out of Portugal camp amid reported rift with head coach",
+      "description": "Cristiano Ronaldo says he has left the Portugal camp and will explain the truth behind his departure in \"due course\".",
+      "publishedAt": "2026-09-30T19:10:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cristiano-ronaldo_7364981.jpg?20260930142800",
+      "link": "https://www.skysports.com/football/news/12040/13593759/cristiano-ronaldo-portugal-captain-decides-to-national-team-leave-camp-amid-reported-rift-with-head-coach-jorge-jesus",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "401a2f4bec5fd09dec9b80bdd658cc1d",
+      "source": "Sky Sports",
+      "headline": "Williamson blunder sees Arsenal squander two-goal lead vs Paris FC",
+      "description": "Arsenal's tough start to the season continued as Leah Williamson gave away a freak penalty late on to see Paris FC come from two goals behind to draw 2-2 with the Gunners.",
+      "publishedAt": "2026-09-30T18:45:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-arsenal-women_7365226.jpg?20260930195805",
+      "link": "https://www.skysports.com/football/paris-fc-women-vs-arsenal-women/report/578244",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 50069602,
+      "source": "ESPN",
+      "headline": "Erling Haaland unaffected by Man City guilty verdict, says Norway teammate",
+      "description": "Norway defender Kristoffer Ajer said football's \"biggest star\" Erling Haaland has been unaffected by Manchester City being found guilty of breaching Premier League financial rules.",
+      "publishedAt": "2026-09-30T18:30:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1724013_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50069602/erling-haaland-man-city-guilty-norway-wales-uefa-nations-league",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Norway",
+        "Wales"
+      ]
+    },
+    {
+      "id": "e61064b36e99e2db29a1f92194e789de",
+      "source": "Sky Sports",
+      "headline": "What if Man City's Premier League titles and trophies are stripped?",
+      "description": "Jamie Carragher has called for Manchester City to be stripped of their titles after the club was found guilty of serious breaches of the Premier League's financial rules – so what would change?",
+      "publishedAt": "2026-09-30T16:20:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-premier-league_7365004.jpg?20260930151532",
+      "link": "https://www.skysports.com/football/news/12040/13593589/man-city-charges-what-if-clubs-premier-league-titles-and-trophies-are-stripped-who-benefits-and-what-changes",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Which Premier League players got injured in the international break?",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-09-30T14:52:42Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723797_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 50067776,
+      "source": "ESPN",
+      "headline": "Independent Football Regulator chief: Man City guilty verdict 'raises serious issues'",
+      "description": "Manchester City's guilty verdict for breaching Premier League financial rules \"raises serious issues\", according to the chair of English football's independent regulator.",
+      "publishedAt": "2026-09-30T14:50:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723915_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50067776/independent-football-regulator-man-city-premier-league-financial-breaches-guilty-verdict",
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
@@ -32,9 +149,49 @@
       "source": "ESPN",
       "headline": "Does Man City's guilty verdict impact Pep Guardiola's legacy as an all-time coaching great?",
       "description": "Pep Guardiola won 16 major honors as Man City manager. They all now count for nothing after the Premier League found the club guilty of systematically breaking financial rules.",
-      "publishedAt": "2026-09-30T12:21:42Z",
+      "publishedAt": "2026-09-30T14:47:50Z",
       "image": "https://a.espncdn.com/photo/2026/0930/r1723842_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50065977/man-city-premier-league-guilty-verdict-impact-pep-guardiola-legacy-all-great-coach-manager",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50067385,
+      "source": "ESPN",
+      "headline": "FA charges Fulham boss Álvaro Arbeloa with misconduct for comments after Man United draw",
+      "description": "Fulham boss Alvaro Arbeloa has been charged with misconduct by the FA for claiming officials would \"not let Manchester United lose\" after Michael Carrick's side scored a late equaliser to draw their Premier League match at Craven Cottage.",
+      "publishedAt": "2026-09-30T14:16:13Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723891_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50067385/fa-charges-fulham-boss-alvaro-arbeloa-misconduct-comments-man-united-draw",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 50027680,
+      "source": "ESPN",
+      "headline": "Man City vs. Premier League: 115 financial charges explained",
+      "description": "The sporting world is waiting for a resolution to the hearings on Man City's charges for allegedly breaching the Premier League's financial rules. Here's what we know, and what might come next.",
+      "publishedAt": "2026-09-30T13:42:50Z",
+      "image": "https://a.espncdn.com/photo/2025/0129/r1444800_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50027680/manchester-city-premier-league-115-financial-charges-explained",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50065250,
+      "source": "ESPN",
+      "headline": "Man City to appeal guilty verdict in Premier League breaches case",
+      "description": "Manchester City have until Friday to lodge an appeal against the guilty verdict handed down in their case with the Premier League and have stated publicly they intend to do so.",
+      "publishedAt": "2026-09-30T12:40:54Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723808_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50065250/man-city-appeal-guilty-verdict-premier-league-breaches-case",
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
@@ -94,20 +251,6 @@
       ]
     },
     {
-      "id": 50065113,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid eye Van Dijk on free transfer at end of season",
-      "description": "Real Madrid are hoping they can sign Virgil van Dijk when his Liverpool contract expires at the end of the season. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-30T07:55:02Z",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706130_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50065113/transfer-rumors-news-real-madrid-eye-liverpool-van-dijk-free-transfer-end-season",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
       "id": 50060239,
       "source": "ESPN",
       "headline": "'The biggest sporting cheating scandal ever' - Man City guilty of financial breaches",
@@ -121,17 +264,6 @@
       ]
     },
     {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Which Premier League players got injured in the international break?",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-09-30T07:26:51Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723797_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
-    },
-    {
       "id": 50058399,
       "source": "ESPN",
       "headline": "Liverpool can't afford to be without Isak, Gakpo ahead of daunting October fixture list",
@@ -143,17 +275,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "7ef5f73875ba88f79466b968c633b9c9",
-      "source": "Sky Sports",
-      "headline": "How the back pages reacted to Man City's guilty verdict",
-      "description": "Sky Sports News' Michael Bridge looks at how Manchester City's guilty verdict on financial charges was covered across the newspapers' back pages.",
-      "publishedAt": "2026-09-30T06:39:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-michael-bridge_7364670.jpg?20260930075019",
-      "link": "https://www.skysports.com/watch/video/13593526/man-city-charges-how-the-back-pages-reacted-to-guilty-verdict",
-      "tag": "Video",
-      "teams": []
     },
     {
       "id": 50064931,
@@ -182,17 +303,6 @@
       ]
     },
     {
-      "id": "35c754986e98d65986d2839918c8fa55",
-      "source": "Sky Sports",
-      "headline": "Williams aiming to change course of Warrington's history with Grand Final victory",
-      "description": "George Williams has set himself one task for when he steps out in the Super League Grand Final as Warrington Wolves skipper: Make sure he leaves the club with a trophy.",
-      "publishedAt": "2026-09-30T06:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-warrington-wolves_7364240.jpg?20260929153942",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13592782/super-league-grand-final-george-williams-hoping-to-change-course-of-warrington-wolves-history-with-victory-in-his-final-game",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50061775,
       "source": "ESPN",
       "headline": "Culture Secretary Lisa Nandy: Man City verdict could lead to Premier League expulsion",
@@ -217,28 +327,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "cb200b54266196a2cbde70d4d02c7ab2",
-      "source": "Sky Sports",
-      "headline": "Gordon-inspired England seal much-needed win over Czech Republic",
-      "description": "Pavel Sulc's first-half red card helped England recover from a nervy start to register an Anthony Gordon-inspired 2-0 Nations League win over the Czech Republic in Prague.",
-      "publishedAt": "2026-09-29T20:45:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-anthony-gordon-goal_7364488.jpg?20260929205617",
-      "link": "https://www.skysports.com/football/czech-republic-vs-england/report/554024",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "cf34ac6ac0b08dc915d592f98ecf236a",
-      "source": "Sky Sports",
-      "headline": "Ten-man Scotland beaten by Switzerland in Pocognoli's first home match",
-      "description": "Sebastien Pocognoli tasted defeat in his first match at Hampden as his 10-man Scotland side were comfortably beaten 3-0 by Switzerland in Nations League B.",
-      "publishedAt": "2026-09-29T20:35:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-scotland-jack-hendry_7364456.jpg?20260929200312",
-      "link": "https://www.skysports.com/football/scotland-vs-switzerland/report/554028",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 50058634,
@@ -345,108 +433,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 50059064,
-      "source": "ESPN",
-      "headline": "Cole Palmer's England withdrawal a product of 'sick' system - PFA chief",
-      "description": "Cole Palmer's recent England withdrawal is the product of a \"sick\" system that is demanding too much of the game's stars, according to Professional Footballers' Association chief executive Maheta Molango.",
-      "publishedAt": "2026-09-29T15:25:36Z",
-      "image": "https://www.espn.com/video/clip/_/id/50054240/england-clash-vs-czechia-win",
-      "link": "https://www.espn.com/soccer/story/_/id/50059064/cole-palmer-england-withdrawal-product-sick-system-pfa-chief",
-      "tag": "England",
-      "teams": [
-        "England",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 50058472,
-      "source": "ESPN",
-      "headline": "Pochettino labels Man City's charges as a 'period of deception'",
-      "description": "Pochettino labels Man City's charges as a 'period of deception'",
-      "publishedAt": "2026-09-29T13:24:04Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Tottenham Hotspur",
-        "United States"
-      ]
-    },
-    {
-      "id": 50057978,
-      "source": "ESPN",
-      "headline": "Man City learned of guilty verdicts in summer before transfer activity - sources",
-      "description": "Manchester City were first informed that they had been found guilty of more than 100 breaches of the Premier League's financial rules in the summer, sources told ESPN, before spending heavily in the transfer market.",
-      "publishedAt": "2026-09-29T12:45:34Z",
-      "image": "https://a.espncdn.com/photo/2025/0324/r1468472_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50057978/man-city-learned-guilty-verdicts-summer-transfer-splurge-sources",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50057375,
-      "source": "ESPN",
-      "headline": "Wayne Rooney wouldn't 'feel comfortable' accepting Premier League medal if Man City stripped of titles",
-      "description": "Wayne Rooney has said he wouldn't feel comfortable being handed another Premier League medal if Manchester City are stripped of their title win in the 2011-12 season.",
-      "publishedAt": "2026-09-29T10:01:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723317_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50057375/wayne-rooney-wouldnt-feel-comfortable-accepting-premier-league-medal-man-city-stripped-titles",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 50057110,
-      "source": "ESPN",
-      "headline": "Patrick Vieira reveals Manchester United, Sir Alex Ferguson talks during Arsenal stint",
-      "description": "Patrick Vieira has revealed he had the opportunity to join Manchester United as a player.",
-      "publishedAt": "2026-09-29T08:33:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0114/r1600453_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50057110/patrick-vieira-reveals-manchester-united-sir-alex-ferguson-talks-arsenal-stint",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Arsenal",
-        "France"
-      ]
-    },
-    {
-      "id": 50056749,
-      "source": "ESPN",
-      "headline": "Man City CEO adamant legal battle with the Premier League is not over - reports",
-      "description": "Manchester City chief executive Ferran Soriano has told his fellow European club bosses the already lengthy legal battle with the Premier League will take \"a lot more time\" to conclude.",
-      "publishedAt": "2026-09-29T07:53:32Z",
-      "image": "https://a.espncdn.com/photo/2018/1109/r461323_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50056749/man-city-financial-breaches-115-charges-premier-league-ferran-soriano",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50056975,
-      "source": "ESPN",
-      "headline": "Joe Hart: I believe Man City chairman claims that club are innocent",
-      "description": "Former Man City goalkeeper Joe Hart has said he trusts club chairman Khaldoon Al Mubarak's claims that the club will \"prove their innocence\" despite the expectation they will be found guilty of the majority of breaches of Premier League financial rules.",
-      "publishedAt": "2026-09-29T07:50:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723304_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50056975/joe-hart-man-city-khaldoon-al-mubarak-115-charges-financial-breaches-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-30T12:29:48.358Z"
+    "cachedAt": "2026-09-30T22:12:19.974Z"
   }
 }
