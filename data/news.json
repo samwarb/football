@@ -2,6 +2,19 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50061775,
+      "source": "ESPN",
+      "headline": "Culture Secretary Lisa Nandy: Man City verdict could lead to Premier League expulsion",
+      "description": "Culture Secretary Lisa Nandy has said Manchester City could be thrown out of the Premier League after being found guilty of all charges of financial breaches by an independent commission.",
+      "publishedAt": "2026-09-29T22:23:09Z",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723653_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50061775/culture-secretary-lisa-nandy-manchester-city-verdict-lead-premier-league-expulsion",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": 50061747,
       "source": "ESPN",
       "headline": "Could Man City face relegation or expulsion from the Premier League?",
@@ -134,50 +147,6 @@
       ]
     },
     {
-      "id": "999489abb5b3a09688ae24a4167c8872",
-      "source": "Sky Sports",
-      "headline": "Leaked video: Man City CEO Soriano sends message to staff and players",
-      "description": "Sky Sports News has obtained a video of Manchester City CEO Ferran Soriano that has been sent to internal staff and players at the club after the guilty verdict in relation to allegations of serious breaches of financial rules.",
-      "publishedAt": "2026-09-29T18:33:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-soriano-ferran-manchester_7364437.jpg?20260929194009",
-      "link": "https://www.skysports.com/watch/video/13593410/man-city-ceo-ferran-soriano-sends-message-to-staff-and-players-in-leaked-video-following-guilty-verdict",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "413c0bc9db464c68a41bb54c7a44849f",
-      "source": "Sky Sports",
-      "headline": "Switzerland take early lead as Scotland down to 10 LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-29T17:20:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ricardo-rodriguez_7364457.jpg?20260929200500",
-      "link": "https://www.skysports.com/football/scotland-vs-switzerland/live/554028",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "05cd675cfb1ce3fa75881728aaca3758",
-      "source": "Sky Sports",
-      "headline": "Czech Republic down to 10 men vs England after Rogers hit post LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-29T17:10:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-pavel-sulc-sent-off_7364462.jpg?20260929201955",
-      "link": "https://www.skysports.com/football/czech-republic-vs-england/live/554024",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "82dc9bdd569501b610e70bf0b23ed551",
-      "source": "Sky Sports",
-      "headline": "Watch as Man City chief quizzed on guilty verdict",
-      "description": "Manchester City CEO Ferran Soriano refuses to answer questions after the club was found guilty of serious breaches of the Premier League's financial rules.",
-      "publishedAt": "2026-09-29T16:46:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ferran-soriano-manchester_7364363.jpg?20260929175459",
-      "link": "https://www.skysports.com/watch/video/13593383/manchester-city-ceo-ferran-soriano-refuses-to-comment-on-guilty-verdict",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 50059589,
       "source": "ESPN",
       "headline": "Olley: Man City's titles will have an asterisk if guilty after appeal",
@@ -189,17 +158,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "5d64ec78231484326e4b900f00fdb155",
-      "source": "Sky Sports",
-      "headline": "Reaction and analysis after Man City found guilty LIVE!",
-      "description": "",
-      "publishedAt": "2026-09-29T15:59:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-manchester-city-etihad-stadium_7364320.jpg?20260929171432",
-      "link": "https://www.skysports.com/football/live-blog/12040/13593363/man-city-charges-reaction-and-findings-as-commission-finds-club-guilty-of-all-charges-related-to-serious-financial-breaches",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50059064,
@@ -242,17 +200,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "75f5a28833934bbaba0b6ba69dc437b5",
-      "source": "Sky Sports",
-      "headline": "Brighton latest: We're chasing a major trophy this season, says Bloom",
-      "description": "",
-      "publishedAt": "2026-09-29T12:05:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50057375,
@@ -460,24 +407,13 @@
         "Arsenal",
         "Real Madrid"
       ]
-    },
-    {
-      "id": 50006976,
-      "source": "ESPN",
-      "headline": "JJ Gabriel and the 'nightmare' battle for Premier League academy talent",
-      "description": "In the fiercely competitive race for the best Premier League academy players, JJ Gabriel won't be the last young talent at the center of a transfer tug-of-war.",
-      "publishedAt": "2026-09-27T11:33:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720886_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50006976/jj-gabriel-nightmare-battle-premier-league-academy-talent",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "Sky Sports: HTTP 429 for https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.skysports.com%2Frss%2F12040"
+  ],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-29T22:12:08.027Z"
+    "cachedAt": "2026-09-30T05:28:13.686Z"
   }
 }
