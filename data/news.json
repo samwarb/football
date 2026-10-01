@@ -2,17 +2,129 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50078680,
+      "source": "ESPN",
+      "headline": "How Man City players, staff are handling Premier League verdict",
+      "description": "As the reaction to Man City's guilty verdict continues to ripple across the sporting world, the club's internal messaging is very much one of confidence and carrying on. It may be easier said than done.",
+      "publishedAt": "2026-10-01T22:00:50Z",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724656_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50078680/how-man-city-players-staff-handling-premier-league-verdict",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": 50075140,
       "source": "ESPN",
-      "headline": "Transfer rumors, news: Real Madrid eye former Liverpool defender Quansah",
-      "description": "Real Madrid are tracking Bayer Leverkusen defender Jarell Quansah ahead of next summer. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-01T12:19:15Z",
-      "image": "https://a.espncdn.com/photo/2025/1011/r1558673_1296x729_16-9.jpg",
+      "headline": "Transfer rumors, news: Several Premier League clubs eye Koundé move",
+      "description": "Could Jules Koundé's next move be in the Premier League? Transfer Talk has the latest.",
+      "publishedAt": "2026-10-01T20:46:16Z",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724622_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50075140/transfer-rumors-news-real-madrid-eye-former-liverpool-defender-quansah",
-      "tag": "Bayer Leverkusen",
+      "tag": "Barcelona",
       "teams": [
-        "Bayer Leverkusen",
-        "Real Madrid"
+        "Barcelona",
+        "Chelsea",
+        "Liverpool",
+        "Arsenal",
+        "Manchester United",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50077292,
+      "source": "ESPN",
+      "headline": "Manchester City guilty charges explained: Premier League's options, how appeal works, more",
+      "description": "Tuesday's news that the Premier League found Man City guilty of 100-plus charges of breaking financial rules is a landmark moment. But what comes next: what punishments are on the table, and how does the appeals process work?",
+      "publishedAt": "2026-10-01T20:02:43Z",
+      "image": "https://a.espncdn.com/photo/2020/0214/r666347_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50077292/manchester-city-guilty-charges-explained-premier-league-punishments-appeals-legal-process",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "da3b9561fb232799881473c3f4b6e765",
+      "source": "Sky Sports",
+      "headline": "Republic of Ireland vs Austria latest score",
+      "description": "",
+      "publishedAt": "2026-10-01T18:43:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-football-troy-parrott_7366024.jpg?20261001200844",
+      "link": "https://www.skysports.com/football/republic-of-ireland-vs-austria/5722446515751361232",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "0cb7894b1029e4b5d0412407109abe74",
+      "source": "Sky Sports",
+      "headline": "Real Madrid lead Man City in Women's Champions League LIVE!",
+      "description": "",
+      "publishedAt": "2026-10-01T18:30:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-man-city-women-womens-champions-league_7358916.jpg?20260922202647",
+      "link": "https://www.skysports.com/football/manchester-city-women-vs-real-madrid-women/live/578248",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "5bb5ec5dea89fa300b37c654ed9dbb76",
+      "source": "Sky Sports",
+      "headline": "Nations League: Wales deservedly level vs Norway LIVE!",
+      "description": "",
+      "publishedAt": "2026-10-01T18:15:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-dan-james_7366031.jpg?20261001202816",
+      "link": "https://www.skysports.com/football/wales-vs-norway/live/554040",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "a43b7bbb26ebfae374745931022e088d",
+      "source": "Sky Sports",
+      "headline": "HMRC asked to explore tax implications of Man City case",
+      "description": "The Treasury Committee has written to the chief executive of HM Revenue and Customs (HMRC) to ask about the tax implications of the Premier League's investigation into Manchester City.",
+      "publishedAt": "2026-10-01T18:10:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-etihad-stadium-manchester-city_7365591.jpg?20261001103740",
+      "link": "https://www.skysports.com/football/news/12040/13594084/man-city-charges-treasury-committee-writes-to-hmrc-to-ask-about-tax-implications-of-premier-league-investigation",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50077746,
+      "source": "ESPN",
+      "headline": "Downing Street clarifies Andy Burnham's remarks on Man City case",
+      "description": "A spokesperson for Andy Burnham has insisted the guilty verdict against Manchester City is \"serious\" after remarks the Prime Minister made about the case on Wednesday raised eyebrows.",
+      "publishedAt": "2026-10-01T17:07:44Z",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694805_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50077746/downing-street-clarifies-andy-burnham-remarks-man-city-case",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Which Premier League players got injured in the international break?",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-10-01T13:41:12Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723797_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 50076437,
+      "source": "ESPN",
+      "headline": "Spain's Víctor Muñoz on Liverpool switch: Premier League more physical than LaLiga",
+      "description": "Liverpool winger Víctor Muñoz has praised the \"intensity\" at the Premier League club since making the switch from LaLiga this summer, saying the change is \"helping me grow\" as a player.",
+      "publishedAt": "2026-10-01T13:14:04Z",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708487_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50076437/spain-victor-munoz-liverpool-switch-premier-league-more-physical-laliga",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Spain"
       ]
     },
     {
@@ -20,7 +132,7 @@
       "source": "ESPN",
       "headline": "Second Hull player flips car outside training ground - reports",
       "description": "A second Hull player has been reported to have flipped his car in an accident close to the club's training ground in Cottingham.",
-      "publishedAt": "2026-10-01T12:11:02Z",
+      "publishedAt": "2026-10-01T13:08:09Z",
       "image": "https://a.espncdn.com/photo/2026/1001/r1724396_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50076311/second-hull-player-flips-car-training-ground-sorba-thomas",
       "tag": "Hull City",
@@ -83,17 +195,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Which Premier League players got injured in the international break?",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-10-01T07:21:05Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723797_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 50012221,
@@ -358,63 +459,20 @@
       ]
     },
     {
-      "id": 50061775,
-      "source": "ESPN",
-      "headline": "Culture Secretary Lisa Nandy: Man City verdict could lead to Premier League expulsion",
-      "description": "Culture Secretary Lisa Nandy has said Manchester City could be thrown out of the Premier League after being found guilty of all charges of financial breaches by an independent commission.",
-      "publishedAt": "2026-09-29T22:23:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723653_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50061775/culture-secretary-lisa-nandy-manchester-city-verdict-lead-premier-league-expulsion",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50061747,
-      "source": "ESPN",
-      "headline": "Could Man City face relegation or expulsion from the Premier League?",
-      "description": "Could Man City face relegation or expulsion from the Premier League?",
-      "publishedAt": "2026-09-29T21:55:56Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Could_Man_City_face_relegation_or_expulsion_from_the_Premier_League_20260929_G/dm_260929_COM_SOC_Analysis_Could_Man_City_face_relegation_or_expulsion_from_the_Premier_League_20260929_G.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50061747/could-man-city-face-relegation-expulsion-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50060178,
-      "source": "ESPN",
-      "headline": "Hard to see how Man City recover from extraordinary guilty verdict",
-      "description": "Tuesday's confirmation that Manchester City were found guilty by the Premier League on over 100 breaches of financial regulations has sent shockwaves through the sport. How do Man City survive this?",
-      "publishedAt": "2026-09-29T20:29:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723479_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50060178/manchester-city-premier-league-guilty-verdict-accounting-gab-marcotti",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50056942,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: USMNT defender Richards to move to Inter?",
-      "description": "Crystal Palace and United States defender Chris Richards is reportedly linked with a move to Inter. Transfer Talk has the latest.",
-      "publishedAt": "2026-09-29T19:57:23Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723568_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50056942/transfer-rumors-news-liverpool-keen-real-madrid-midfielder-tchouameni",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "United States",
-        "Internazionale"
-      ]
+      "id": "4c725cf2093ca1d1a014d3d7f966bb7b",
+      "source": "Sky Sports",
+      "headline": "Arsenal latest: Tzolis hobbles off injured in Greece match",
+      "description": "",
+      "publishedAt": "2026-09-29T06:27:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-01T13:08:27.384Z"
+    "cachedAt": "2026-10-01T22:38:33.023Z"
   }
 }
