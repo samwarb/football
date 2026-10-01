@@ -2,6 +2,44 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50067385,
+      "source": "ESPN",
+      "headline": "FA charges Fulham boss Álvaro Arbeloa with misconduct for comments after Man United draw",
+      "description": "Fulham boss Alvaro Arbeloa has been charged with misconduct by the FA for claiming officials would \"not let Manchester United lose\" after Michael Carrick's side scored a late equaliser to draw their Premier League match at Craven Cottage.",
+      "publishedAt": "2026-10-01T04:28:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723891_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50067385/fa-charges-fulham-boss-alvaro-arbeloa-misconduct-comments-man-united-draw",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 50071749,
+      "source": "ESPN",
+      "headline": "What does the future hold for Manchester City's players?",
+      "description": "What does the future hold for Manchester City's players?",
+      "publishedAt": "2026-09-30T22:11:27Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/dm_260930_COM_SOC_Analysis_What_does_the_future_hold_for_Manchester_Citys_players_20260930_GLOBAL/dm_260930_COM_SOC_Analysis_What_does_the_future_hold_for_Manchester_Citys_players_20260930_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50071749/what-does-future-hold-manchester-city-players",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "3e1fc9ac518c641e56eb06b26e490dfc",
+      "source": "Sky Sports",
+      "headline": "Papers: Rivals demanding sanctions imposed on Man City this season",
+      "description": "The top stories and transfer rumours from Thursday's newspapers...",
+      "publishedAt": "2026-09-30T21:45:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13593813/man-city-guilty-premier-league-rivals-demanding-sanctions-imposed-before-end-of-season-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50070201,
       "source": "ESPN",
       "headline": "Late penalty drama as Arsenal draw with Paris FC in UWCL",
@@ -73,25 +111,25 @@
       ]
     },
     {
-      "id": "83b16cb199cee651c3dcdd9df411b10e",
+      "id": "bd5b40ed48d375be4b1dd86a606c8a84",
       "source": "Sky Sports",
-      "headline": "Ronaldo walks out of Portugal camp amid reported rift with head coach",
-      "description": "Cristiano Ronaldo says he has left the Portugal camp and will explain the truth behind his departure in \"due course\".",
-      "publishedAt": "2026-09-30T19:10:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cristiano-ronaldo_7364981.jpg?20260930142800",
-      "link": "https://www.skysports.com/football/news/12040/13593759/cristiano-ronaldo-portugal-captain-decides-to-national-team-leave-camp-amid-reported-rift-with-head-coach-jorge-jesus",
+      "headline": "Man City sponsor Etihad Airways considering legal action against PL",
+      "description": "Manchester City's principal sponsor, Etihad Airways, has said it is considering taking legal action against the Premier League.",
+      "publishedAt": "2026-09-30T19:40:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-etihad-stadium-manchester-city_7364321.jpg?20260929171517",
+      "link": "https://www.skysports.com/football/news/12040/13593765/man-city-charges-club-sponsor-etihad-airways-considering-legal-action-against-premier-league",
       "tag": "News Story",
       "teams": []
     },
     {
-      "id": "401a2f4bec5fd09dec9b80bdd658cc1d",
+      "id": "57af259c731dc47dbe042942a6a4675d",
       "source": "Sky Sports",
-      "headline": "Williamson blunder sees Arsenal squander two-goal lead vs Paris FC",
-      "description": "Arsenal's tough start to the season continued as Leah Williamson gave away a freak penalty late on to see Paris FC come from two goals behind to draw 2-2 with the Gunners.",
-      "publishedAt": "2026-09-30T18:45:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-arsenal-women_7365226.jpg?20260930195805",
-      "link": "https://www.skysports.com/football/paris-fc-women-vs-arsenal-women/report/578244",
-      "tag": "Report",
+      "headline": "Ronaldo walks out of Portugal camp and vows to reveal 'the truth'",
+      "description": "Cristiano Ronaldo has left Portugal's camp in Denmark and vowed to reveal \"the truth\" behind his departure in due course.",
+      "publishedAt": "2026-09-30T19:10:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cristiano-ronaldo_7365029.jpg?20260930155203",
+      "link": "https://www.skysports.com/football/news/12040/13593759/cristiano-ronaldo-portugal-captain-leaves-squad-amid-reported-rift-with-head-coach-jorge-jesus",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -108,17 +146,6 @@
         "Norway",
         "Wales"
       ]
-    },
-    {
-      "id": "e61064b36e99e2db29a1f92194e789de",
-      "source": "Sky Sports",
-      "headline": "What if Man City's Premier League titles and trophies are stripped?",
-      "description": "Jamie Carragher has called for Manchester City to be stripped of their titles after the club was found guilty of serious breaches of the Premier League's financial rules – so what would change?",
-      "publishedAt": "2026-09-30T16:20:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-premier-league_7365004.jpg?20260930151532",
-      "link": "https://www.skysports.com/football/news/12040/13593589/man-city-charges-what-if-clubs-premier-league-titles-and-trophies-are-stripped-who-benefits-and-what-changes",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50026166,
@@ -155,20 +182,6 @@
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
-      ]
-    },
-    {
-      "id": 50067385,
-      "source": "ESPN",
-      "headline": "FA charges Fulham boss Álvaro Arbeloa with misconduct for comments after Man United draw",
-      "description": "Fulham boss Alvaro Arbeloa has been charged with misconduct by the FA for claiming officials would \"not let Manchester United lose\" after Michael Carrick's side scored a late equaliser to draw their Premier League match at Craven Cottage.",
-      "publishedAt": "2026-09-30T14:16:13Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723891_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50067385/fa-charges-fulham-boss-alvaro-arbeloa-misconduct-comments-man-united-draw",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Fulham"
       ]
     },
     {
@@ -284,19 +297,6 @@
       "publishedAt": "2026-09-30T06:36:33Z",
       "image": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50064931/roy-keane-put-man-city-medals-bin-cheating",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50059403,
-      "source": "ESPN",
-      "headline": "Man City guilty of all charges of Premier League financial breaches",
-      "description": "Manchester City have been found guilty of all charges of serious breaches of Premier League financial regulations, the Premier League confirmed in a 1,545-word statement Tuesday.",
-      "publishedAt": "2026-09-30T06:08:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723465_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50059403/man-city-guilty-all-charges-premier-league-breach-case-independent-commission",
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
@@ -438,6 +438,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-09-30T22:12:19.974Z"
+    "cachedAt": "2026-10-01T05:46:58.177Z"
   }
 }
