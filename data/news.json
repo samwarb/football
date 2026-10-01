@@ -2,6 +2,118 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50075140,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Real Madrid eye former Liverpool defender Quansah",
+      "description": "Real Madrid are tracking Bayer Leverkusen defender Jarell Quansah ahead of next summer. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-01T12:19:15Z",
+      "image": "https://a.espncdn.com/photo/2025/1011/r1558673_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50075140/transfer-rumors-news-real-madrid-eye-former-liverpool-defender-quansah",
+      "tag": "Bayer Leverkusen",
+      "teams": [
+        "Bayer Leverkusen",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 50076311,
+      "source": "ESPN",
+      "headline": "Second Hull player flips car outside training ground - reports",
+      "description": "A second Hull player has been reported to have flipped his car in an accident close to the club's training ground in Cottingham.",
+      "publishedAt": "2026-10-01T12:11:02Z",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724396_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50076311/second-hull-player-flips-car-training-ground-sorba-thomas",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City"
+      ]
+    },
+    {
+      "id": 50075485,
+      "source": "ESPN",
+      "headline": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
+      "description": "Cristiano Ronaldo walked out of the Portugal national team's camp after being benched. It is far from the first high-profile row of his two decades at the top.",
+      "publishedAt": "2026-10-01T11:14:02Z",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
+      "tag": "Portugal",
+      "teams": [
+        "Portugal",
+        "Manchester United",
+        "Real Madrid",
+        "Juventus",
+        "Al Nassr"
+      ]
+    },
+    {
+      "id": 50075558,
+      "source": "ESPN",
+      "headline": "Premier League 'dragged through the mud' by Man City case - Gary Neville",
+      "description": "The Premier League has been \"dragged through the mud\" by the Manchester City guilty verdict, Gary Neville has said.",
+      "publishedAt": "2026-10-01T10:56:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723479_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50075558/premier-league-dragged-mud-man-city-case-gary-neville",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50075848,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi receives backing of Tottenham's chief executive",
+      "description": "Chief executive Vinai Venkatesham has offered his backing to Roberto De Zerbi after Tottenham's poor start to the new campaign.",
+      "publishedAt": "2026-10-01T10:27:50Z",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724368_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50075848/roberto-de-zerbi-receives-backing-tottenham-chief-executive",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50075446,
+      "source": "ESPN",
+      "headline": "Man City owners must sell due to 'shame of their guilt' - Jamie Carragher",
+      "description": "Manchester City's owners must sell up in the wake of the club's guilty verdict for breaching Premier League financial rules, according to former Liverpool defender Jamie Carragher.",
+      "publishedAt": "2026-10-01T08:50:30Z",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723465_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50075446/man-city-owners-sell-due-guilty-verdict-jamie-carragher",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Which Premier League players got injured in the international break?",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-10-01T07:21:05Z",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1723797_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 50012221,
+      "source": "ESPN",
+      "headline": "Premier League depth charts for most popular teams: Who is key?",
+      "description": "The Premier League is well underway, but with the transfer window closed, where do players stand in their teams? How deep do the squads go?",
+      "publishedAt": "2026-10-01T07:05:03Z",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723309_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50012221/premier-league-depth-chart-arsenal-man-united-man-city-liverpool-chelsea-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester United",
+        "Manchester City",
+        "Tottenham Hotspur",
+        "Liverpool"
+      ]
+    },
+    {
       "id": 50067385,
       "source": "ESPN",
       "headline": "FA charges Fulham boss Álvaro Arbeloa with misconduct for comments after Man United draw",
@@ -27,17 +139,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "3e1fc9ac518c641e56eb06b26e490dfc",
-      "source": "Sky Sports",
-      "headline": "Papers: Rivals demanding sanctions imposed on Man City this season",
-      "description": "The top stories and transfer rumours from Thursday's newspapers...",
-      "publishedAt": "2026-09-30T21:45:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13593813/man-city-guilty-premier-league-rivals-demanding-sanctions-imposed-before-end-of-season-paper-talk",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50070201,
@@ -111,28 +212,6 @@
       ]
     },
     {
-      "id": "bd5b40ed48d375be4b1dd86a606c8a84",
-      "source": "Sky Sports",
-      "headline": "Man City sponsor Etihad Airways considering legal action against PL",
-      "description": "Manchester City's principal sponsor, Etihad Airways, has said it is considering taking legal action against the Premier League.",
-      "publishedAt": "2026-09-30T19:40:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-etihad-stadium-manchester-city_7364321.jpg?20260929171517",
-      "link": "https://www.skysports.com/football/news/12040/13593765/man-city-charges-club-sponsor-etihad-airways-considering-legal-action-against-premier-league",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "57af259c731dc47dbe042942a6a4675d",
-      "source": "Sky Sports",
-      "headline": "Ronaldo walks out of Portugal camp and vows to reveal 'the truth'",
-      "description": "Cristiano Ronaldo has left Portugal's camp in Denmark and vowed to reveal \"the truth\" behind his departure in due course.",
-      "publishedAt": "2026-09-30T19:10:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cristiano-ronaldo_7365029.jpg?20260930155203",
-      "link": "https://www.skysports.com/football/news/12040/13593759/cristiano-ronaldo-portugal-captain-leaves-squad-amid-reported-rift-with-head-coach-jorge-jesus",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50069602,
       "source": "ESPN",
       "headline": "Erling Haaland unaffected by Man City guilty verdict, says Norway teammate",
@@ -146,17 +225,6 @@
         "Norway",
         "Wales"
       ]
-    },
-    {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Which Premier League players got injured in the international break?",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-09-30T14:52:42Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723797_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 50067776,
@@ -264,19 +332,6 @@
       ]
     },
     {
-      "id": 50060239,
-      "source": "ESPN",
-      "headline": "'The biggest sporting cheating scandal ever' - Man City guilty of financial breaches",
-      "description": "Mark Ogden, Rob Dawson and James Olley join Mark Donaldson to react to Manchester City being found guilty of financial breaches by the Premier League.",
-      "publishedAt": "2026-09-30T07:46:47Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_The_biggest_sporting_cheating_scandal_ever_Man_City_guilty_of_115_charges/dm_260929_The_biggest_sporting_cheating_scandal_ever_Man_City_guilty_of_115_charges.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50060239/the-biggest-sporting-cheating-scandal-ever-man-city-guilty-financial-breaches",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50058399,
       "source": "ESPN",
       "headline": "Liverpool can't afford to be without Isak, Gakpo ahead of daunting October fixture list",
@@ -329,19 +384,6 @@
       ]
     },
     {
-      "id": 50058634,
-      "source": "ESPN",
-      "headline": "Man City's guilt the talk of the town around English soccer",
-      "description": "The news that Man City were found guilty of 100-plus charges by the Premier League was the only topic of conversation around Manchester, and lower-league games, over the weekend.",
-      "publishedAt": "2026-09-29T20:30:41Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723483_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50058634/manchester-city-guilty-premier-league-english-football-ripples",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50060178,
       "source": "ESPN",
       "headline": "Hard to see how Man City recover from extraordinary guilty verdict",
@@ -349,19 +391,6 @@
       "publishedAt": "2026-09-29T20:29:45Z",
       "image": "https://a.espncdn.com/photo/2026/0929/r1723479_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50060178/manchester-city-premier-league-guilty-verdict-accounting-gab-marcotti",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50060407,
-      "source": "ESPN",
-      "headline": "Man City CEO says Premier League verdict part of 'conspiracy'",
-      "description": "Manchester City chief executive officer Ferran Soriano has claimed the bombshell guilty verdict against the club is the result of a \"Premier League conspiracy theory.\"",
-      "publishedAt": "2026-09-29T20:05:10Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723565_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50060407/man-city-ceo-says-premier-league-verdict-part-conspiracy",
       "tag": "Manchester City",
       "teams": [
         "Manchester City"
@@ -381,63 +410,11 @@
         "United States",
         "Internazionale"
       ]
-    },
-    {
-      "id": 50059830,
-      "source": "ESPN",
-      "headline": "Man City owners inflated revenue by £830m - Premier League breaches findings",
-      "description": "Manchester City's owners artificially inflated the club's commercial revenue by £830 million between 2009 and 2018, the Independent Commission found during the Premier League hearing into the 115 charges for serious financial breaches.",
-      "publishedAt": "2026-09-29T19:23:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723506_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50059830/man-city-owners-inflated-revenue-830m-premier-league-breaches-findings",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50060359,
-      "source": "ESPN",
-      "headline": "Dawson: Man City fans deserve apology after guilty verdict",
-      "description": "Dawson: Man City fans deserve apology after guilty verdict",
-      "publishedAt": "2026-09-29T19:23:14Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Dawson_Man_City_fans_deserve_apology_after_guilty_verdict_20260929_GLOBAL/dm_260929_COM_SOC_Analysis_Dawson_Man_City_fans_deserve_apology_after_guilty_verdict_20260929_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50060359/man-city-fans-deserve-apology-guilty-verdict",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50060141,
-      "source": "ESPN",
-      "headline": "Dawson: Man City's team this season like 'the aliens in Space Jam'",
-      "description": "Dawson: Man City's team this season like 'the aliens in Space Jam'",
-      "publishedAt": "2026-09-29T18:40:18Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Dawson_Man_Citys_team_this_season_like_the_aliens_in_Space_Jam_20260929_GLO/dm_260929_COM_SOC_Analysis_Dawson_Man_Citys_team_this_season_like_the_aliens_in_Space_Jam_20260929_GLO.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50060141/man-city-team-season-aliens-space-jam",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50059589,
-      "source": "ESPN",
-      "headline": "Olley: Man City's titles will have an asterisk if guilty after appeal",
-      "description": "Olley: Man City's titles will have an asterisk if guilty after appeal",
-      "publishedAt": "2026-09-29T16:41:17Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Analysis_Olley_Man_Citys_titles_will_have_an_asterisk_if_guilty_after_appeal_20260929/dm_260929_COM_SOC_Analysis_Olley_Man_Citys_titles_will_have_an_asterisk_if_guilty_after_appeal_20260929.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50059589/man-city-titles-asterisk-guilty-appeal",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-01T05:46:58.177Z"
+    "cachedAt": "2026-10-01T13:08:27.384Z"
   }
 }
