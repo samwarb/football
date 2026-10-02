@@ -2,6 +2,134 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50077292,
+      "source": "ESPN",
+      "headline": "Manchester City guilty charges explained: Premier League's options, how appeal works, more",
+      "description": "Tuesday's news that the Premier League found Man City guilty of 100-plus charges of breaking financial rules is a landmark moment. But what comes next: what punishments are on the table, and how does the appeals process work?",
+      "publishedAt": "2026-10-02T12:25:15Z",
+      "image": "https://a.espncdn.com/photo/2020/0214/r666347_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50077292/manchester-city-guilty-charges-explained-premier-league-punishments-appeals-legal-process",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50083711,
+      "source": "ESPN",
+      "headline": "Man City appeal guilty verdict in Premier League breaches case",
+      "description": "Manchester City have confirmed the club have lodged a \"comprehensive appeal\" after being found guilty of breaching the Premier League's financial rules.",
+      "publishedAt": "2026-10-02T12:20:09Z",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724873_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50083711/man-city-financial-breaches-appeal-guilty-verdict-premier-league",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50083306,
+      "source": "ESPN",
+      "headline": "FA: Man City verdict has 'significant implications for integrity of game'",
+      "description": "The Football Association expressed its concern that the guilty charge aimed at Manchester City over the Premier League's financial rules stains the \"integrity\" of the game.",
+      "publishedAt": "2026-10-02T11:17:31Z",
+      "image": "https://a.espncdn.com/photo/2023/0210/r1129437_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50083306/fa-man-city-verdict-significant-implications-integrity-game",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50058849,
+      "source": "ESPN",
+      "headline": "Ranking the top 10 Premier League summer transfers so far",
+      "description": "Which players have impressed since making a move over the summer? Sometimes a £17 million arrival does better than a £117 million one.",
+      "publishedAt": "2026-10-02T10:40:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723444_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50058849/ranking-premier-league-summer-transfers-far-no1-surprise-you",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Arsenal",
+        "Manchester City",
+        "Chelsea",
+        "Leeds United",
+        "Aston Villa",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Hull City"
+      ]
+    },
+    {
+      "id": 50076894,
+      "source": "ESPN",
+      "headline": "How Aston Villa boss Unai Emery rescued Real Unión, his 'family' club, from ruin",
+      "description": "Real Unión are one of LaLiga's founding clubs, but fell on hard times. Enter Unai Emery, one of the world's top coaches, whose family connection to the club spans four generations.",
+      "publishedAt": "2026-10-02T10:12:39Z",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724844_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50076894/how-aston-villa-manager-unai-emery-rescued-family-club-real-union-irun",
+      "tag": "Real Unión Irun",
+      "teams": [
+        "Real Unión Irun",
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 50083305,
+      "source": "ESPN",
+      "headline": "Sir Alex Ferguson was 'terrified' about Old Trafford return after brain surgery",
+      "description": "Sir Alex Ferguson has revealed he was \"terrified\" when returning to Old Trafford for the first time following brain surgery in 2018.",
+      "publishedAt": "2026-10-02T08:55:39Z",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724845_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50083305/sir-alex-ferguson-man-united-old-trafford-return",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 49867974,
+      "source": "ESPN",
+      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
+      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
+      "publishedAt": "2026-10-02T08:49:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "Paris Saint-Germain",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 50082951,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Chelsea monitoring Benfica defender",
+      "description": "Tomás Araújo is subject to interest from Manchester United and Chelsea, while free agent Jadon Sancho is happy to wait to sign for a club. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-02T07:33:39Z",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724835_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50082951/transfer-rumors-news-man-united-chelsea-monitoring-benfica-defender",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Chelsea",
+        "Benfica"
+      ]
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Which Premier League players got injured in the international break?",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-10-02T06:29:42Z",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
       "id": 50078680,
       "source": "ESPN",
       "headline": "How Man City players, staff are handling Premier League verdict",
@@ -15,17 +143,6 @@
       ]
     },
     {
-      "id": "6ea19be2c5ff0033f016f9d6c9f159e8",
-      "source": "Sky Sports",
-      "headline": "Fernandes sets up two as Portugal beat Denmark after Ronaldo walkout",
-      "description": "",
-      "publishedAt": "2026-10-01T22:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-bruno-fernandes-joao-felix_7366135.jpg?20261001224708",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": "cd9beb2c0b59caf667cd6aee72817011",
       "source": "Sky Sports",
       "headline": "Papers: Man City players could be entitled to rip up contracts",
@@ -34,39 +151,6 @@
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
       "link": "https://www.skysports.com/football/news/12040/13594183/man-city-players-told-they-could-be-entitled-to-rip-up-contracts-after-guilty-verdict-in-premier-league-case-paper-talk",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "f5846615ede455d62d29de72751756ef",
-      "source": "Sky Sports",
-      "headline": "EFL latest: Posh to confirm Savage as new manager",
-      "description": "",
-      "publishedAt": "2026-10-01T21:30:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-robbie-savage-savage_7366124.jpg?20261001223723",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "3523368862556431cfd78e16283d5729",
-      "source": "Sky Sports",
-      "headline": "Shaw earns Man City draw with late Real goal dramatically disallowed",
-      "description": "Bunny Shaw and a dramatic last-gasp decision from the referee ensured Manchester City took a point off Real Madrid with a 1-1 draw in the Women's Champions League.",
-      "publishedAt": "2026-10-01T21:15:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-shaw-bunny-manchester_7366054.jpg?20261001211646",
-      "link": "https://www.skysports.com/football/manchester-city-women-vs-real-madrid-women/report/578248",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "8a41124fd24aa45584a2df03d3ac8614",
-      "source": "Sky Sports",
-      "headline": "Liverpool latest: Wirtz ends goalless run in Klopp's first Germany win",
-      "description": "",
-      "publishedAt": "2026-10-01T21:00:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-wirtz-klopp-jurgen_7366099.jpg?20261001221507",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -88,30 +172,6 @@
       ]
     },
     {
-      "id": "3482d73dde976aee0adadfa0304ecb47",
-      "source": "Sky Sports",
-      "headline": "Bellamy gets perfect response as Wales beat 10-man Norway",
-      "description": "Wales responded to their disappointing defeat to Denmark with a spirited victory over Erling Haaland and 10-man Norway in Cardiff.",
-      "publishedAt": "2026-10-01T20:45:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-neco-williams_7366073.jpg?20261001214423",
-      "link": "https://www.skysports.com/football/wales-vs-norway/report/554040",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 50077292,
-      "source": "ESPN",
-      "headline": "Manchester City guilty charges explained: Premier League's options, how appeal works, more",
-      "description": "Tuesday's news that the Premier League found Man City guilty of 100-plus charges of breaking financial rules is a landmark moment. But what comes next: what punishments are on the table, and how does the appeals process work?",
-      "publishedAt": "2026-10-01T20:02:43Z",
-      "image": "https://a.espncdn.com/photo/2020/0214/r666347_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50077292/manchester-city-guilty-charges-explained-premier-league-punishments-appeals-legal-process",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50077746,
       "source": "ESPN",
       "headline": "Downing Street clarifies Andy Burnham's remarks on Man City case",
@@ -123,28 +183,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "a9aacd96611f3cb37c812870fac72584",
-      "source": "Sky Sports",
-      "headline": "Messi renews Ronaldo rivalry with acquisition of second-tier Spanish club",
-      "description": "",
-      "publishedAt": "2026-10-01T16:26:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-messi-lionel-world_7336718.jpg?20260831170636",
-      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Which Premier League players got injured in the international break?",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-10-01T13:41:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723797_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 50076437,
@@ -398,103 +436,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 50065250,
-      "source": "ESPN",
-      "headline": "Man City to appeal guilty verdict in Premier League breaches case",
-      "description": "Manchester City have until Friday to lodge an appeal against the guilty verdict handed down in their case with the Premier League and have stated publicly they intend to do so.",
-      "publishedAt": "2026-09-30T12:40:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723808_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50065250/man-city-appeal-guilty-verdict-premier-league-breaches-case",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50066026,
-      "source": "ESPN",
-      "headline": "Ex-Man City chairman calls for club's directors to resign after Premier League guilty verdict",
-      "description": "Former Manchester City chairman David Bernstein has called for the club's directors to step down after City were found guilty of serious breaches of the Premier League's financial rules.",
-      "publishedAt": "2026-09-30T11:00:09Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723837_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50066026/man-city-chairman-david-bernstein-directors-resign-premier-league-guilty",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50066069,
-      "source": "ESPN",
-      "headline": "Guardiola's passionate rant about Man City's charges in 2022",
-      "description": "Guardiola's passionate rant about Man City's charges in 2022",
-      "publishedAt": "2026-09-30T10:50:43Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/dm_260930_COM_SOC_Analysis_GuardiolaE28099s_passionate_rant_about_Man_CityE28099s_charges_in_2022_GLOBAL_2026-09-30/dm_260930_COM_SOC_Analysis_GuardiolaE28099s_passionate_rant_about_Man_CityE28099s_charges_in_2022_GLOBAL_2026-09-30.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50066069/guardiola-passionate-rant-man-city-charges-2022",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50065854,
-      "source": "ESPN",
-      "headline": "Man City's Elliot Anderson no handball call was correct - PL panel",
-      "description": "The referee and VAR were correct to rule that Manchester City's Elliot Anderson did not handle the ball against Sunderland, a Premier League panel ruled.",
-      "publishedAt": "2026-09-30T10:16:01Z",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710316_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50065854/man-city-elliot-anderson-no-handball-call-was-correct-pl-panel",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 50065663,
-      "source": "ESPN",
-      "headline": "Man City should be stripped of titles - Jamie Carragher",
-      "description": "Manchester City should be stripped of the titles won during the period where they have been found guilty of breaching Premier League financial rules, Jamie Carragher said",
-      "publishedAt": "2026-09-30T09:48:19Z",
-      "image": "https://a.espncdn.com/photo/2022/0518/r1014416_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50065663/man-city-stripped-titles-jamie-carragher",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50058399,
-      "source": "ESPN",
-      "headline": "Liverpool can't afford to be without Isak, Gakpo ahead of daunting October fixture list",
-      "description": "Between them, Cody Gakpo and Alexander Isak have scored five of Liverpool's seven league goals this season so their injuries during the international break could prove costly.",
-      "publishedAt": "2026-09-30T07:25:48Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723383_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50058399/liverpool-afford-isak-gakpo-ahead-daunting-october-fixture-list",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50064931,
-      "source": "ESPN",
-      "headline": "Roy Keane: I'd put Man City medals 'in the bin' after 'cheating'",
-      "description": "Roy Keane has said if he was a Manchester City player he would put his medals \"in the bin\" following the Premier League's ruling that the club was guilty of breaching over 100 financial regulations.",
-      "publishedAt": "2026-09-30T06:36:33Z",
-      "image": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50064931/roy-keane-put-man-city-medals-bin-cheating",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-02T05:31:53.724Z"
+    "cachedAt": "2026-10-02T12:28:35.895Z"
   }
 }
