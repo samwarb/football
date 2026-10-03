@@ -2,6 +2,50 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "8c0917264acba5bf8f7f6d6e1344762c",
+      "source": "Sky Sports",
+      "headline": "Wakefield win their first-ever Grand Final in commanding victory over Warrington",
+      "description": "Highlights of the Super League Grand Final between Warrington Wolves and Wakefield Trinity.",
+      "publishedAt": "2026-10-03T18:59:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/super-league-hld-grand-final_7367489.jpg?20261003200149",
+      "link": "https://www.skysports.com/watch/video/13594819/warrington-wolves-10-23-wakefield-trinity-super-league-grand-final-highlights",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": "24c05fbb5fcb463074a4a089abe9b5a8",
+      "source": "Sky Sports",
+      "headline": "Keane: Bellingham can become one of greatest players ever",
+      "description": "England and Real Madrid star Jude Bellingham can become one of the world's greatest ever players, according to Sky Sports pundit Roy Keane.",
+      "publishedAt": "2026-10-03T18:30:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jude-bellingham-england_7367472.jpg?20261003193315",
+      "link": "https://www.skysports.com/football/news/12040/13594630/jude-bellingham-england-and-real-madrid-star-tipped-for-greatness-after-croatia-thrashing-by-roy-keane",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "c3739f47173a4b12f5fb2cd80cf18ced",
+      "source": "Sky Sports",
+      "headline": "Seventh heaven for England as Croatia thrashed in stunning win",
+      "description": "England produced a dominant performance that will live long in the memory to defeat Croatia 7-0 in their Nations League tie in Rijeka.",
+      "publishedAt": "2026-10-03T18:00:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-kane-bellingham-saka_7367405.jpg?20261003174940",
+      "link": "https://www.skysports.com/football/croatia-vs-england/report/554052",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "03868fb953d335ba7b45fc5fbe6f2667",
+      "source": "Sky Sports",
+      "headline": "Scotland lead through Bowie in North Macedonia LIVE!",
+      "description": "",
+      "publishedAt": "2026-10-03T17:00:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-scotland-kieron-bowie_7367485.jpg?20261003195809",
+      "link": "https://www.skysports.com/football/north-macedonia-vs-scotland/live/554056",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 50026166,
       "source": "ESPN",
       "headline": "Which Premier League players got injured in the international break?",
@@ -29,14 +73,14 @@
       ]
     },
     {
-      "id": "022d9a096961e9216a54175feef595b2",
+      "id": "ead3ff9f554b322e9dcc9bb018d5320f",
       "source": "Sky Sports",
-      "headline": "Ten injured as car drives into crowd gathered to support NRL team",
-      "description": "Newcastle Knights CEO Peter Parr has expressed his deep concern after a vehicle drove into a crowd of people supporting the NRL team on Saturday, as they prepared for their Grand Final against Sydney Roosters.",
-      "publishedAt": "2026-10-03T08:38:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-nrl-ball_7367112.jpg?20261003102217",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13594605/newcastle-knights-ceo-extends-support-to-victims-after-car-drives-into-crowd-of-nrl-fans-leaving-10-injured",
-      "tag": "News Story",
+      "headline": "Wakefield claim historic win over Warrington to become Super League champions",
+      "description": "Wakefield Trinity were crowned Super League champions for the first time in the club's history with a 23-10 victory over Warrington Wolves in the Grand Final at Old Trafford.",
+      "publishedAt": "2026-10-03T09:11:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-wakefield-super-league_7367507.jpg?20261003202435",
+      "link": "https://www.skysports.com/rugby-league/warrington-vs-wakefield/report/63349",
+      "tag": "Report",
       "teams": []
     },
     {
@@ -219,6 +263,17 @@
       "teams": [
         "Manchester City"
       ]
+    },
+    {
+      "id": "b1c8f2eb0e63e8bcaca26eb5e293e1ee",
+      "source": "Sky Sports",
+      "headline": "Fernandes reveals Ronaldo conversation after Portugal walkout",
+      "description": "",
+      "publishedAt": "2026-10-01T22:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7367450.jpg?20261003183847",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50075140,
@@ -442,6 +497,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-03T16:14:41.410Z"
+    "cachedAt": "2026-10-03T21:11:23.337Z"
   }
 }
