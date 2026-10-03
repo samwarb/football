@@ -2,6 +2,33 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50089210,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Haaland wants LaLiga move over Arsenal",
+      "description": "Manchester City striker Erling Haaland favors a move to Spain over Arsenal. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-03T08:31:00Z",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719479_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50089210/transfer-rumors-news-man-city-erling-haaland-wants-laliga-move-arsenal",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Which Premier League players got injured in the international break?",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-10-03T06:21:45Z",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
       "id": "c46d8eee12255e5c3043099cad3a94fe",
       "source": "Sky Sports",
       "headline": "Papers: Man Utd to consider legal action if Gabriel leaves",
@@ -71,17 +98,6 @@
       ]
     },
     {
-      "id": "e2d1add38b4a7f18d7402ae490101b18",
-      "source": "Sky Sports",
-      "headline": "Man City sponsor's 2015 statement raises questions about appeal strategy",
-      "description": "Manchester City’s strategy in their bid to clear their name after being found guilty of breaking more than 100 of the Premier League's rules has been brought into question by a statement their main sponsor Etihad Airways submitted to the US government in 2015.",
-      "publishedAt": "2026-10-02T18:20:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-etihad-stadium-manchester-city_7365589.jpg?20261001103602",
-      "link": "https://www.skysports.com/football/news/12040/13594496/man-city-appeal-clubs-strategy-brought-into-question-by-2015-statement-main-sponsor-etihad-airways-submitted-to-us-government",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50084918,
       "source": "ESPN",
       "headline": "Erik ten Hag 'was a piece of crap' with Man United squad - Fred",
@@ -121,17 +137,6 @@
         "England",
         "Manchester City"
       ]
-    },
-    {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Which Premier League players got injured in the international break?",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-10-02T15:24:58Z",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 50083711,
@@ -465,24 +470,11 @@
         "Norway",
         "Wales"
       ]
-    },
-    {
-      "id": 50067776,
-      "source": "ESPN",
-      "headline": "Independent Football Regulator chief: Man City guilty verdict 'raises serious issues'",
-      "description": "Manchester City's guilty verdict for breaching Premier League financial rules \"raises serious issues\", according to the chair of English football's independent regulator.",
-      "publishedAt": "2026-09-30T14:50:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723915_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50067776/independent-football-regulator-man-city-premier-league-financial-breaches-guilty-verdict",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-03T05:13:57.998Z"
+    "cachedAt": "2026-10-03T11:35:51.588Z"
   }
 }
