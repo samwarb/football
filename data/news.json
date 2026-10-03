@@ -2,11 +2,22 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Which Premier League players got injured in the international break?",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-10-03T15:43:03Z",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
       "id": 50089210,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Haaland wants LaLiga move over Arsenal",
       "description": "Manchester City striker Erling Haaland favors a move to Spain over Arsenal. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-03T08:31:00Z",
+      "publishedAt": "2026-10-03T15:30:54Z",
       "image": "https://a.espncdn.com/photo/2026/0920/r1719479_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50089210/transfer-rumors-news-man-city-erling-haaland-wants-laliga-move-arsenal",
       "tag": "Manchester City",
@@ -18,58 +29,14 @@
       ]
     },
     {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Which Premier League players got injured in the international break?",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-10-03T06:21:45Z",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "c46d8eee12255e5c3043099cad3a94fe",
+      "id": "022d9a096961e9216a54175feef595b2",
       "source": "Sky Sports",
-      "headline": "Papers: Man Utd to consider legal action if Gabriel leaves",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-10-02T22:07:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
+      "headline": "Ten injured as car drives into crowd gathered to support NRL team",
+      "description": "Newcastle Knights CEO Peter Parr has expressed his deep concern after a vehicle drove into a crowd of people supporting the NRL team on Saturday, as they prepared for their Grand Final against Sydney Roosters.",
+      "publishedAt": "2026-10-03T08:38:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-nrl-ball_7367112.jpg?20261003102217",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13594605/newcastle-knights-ceo-extends-support-to-victims-after-car-drives-into-crowd-of-nrl-fans-leaving-10-injured",
       "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "4731258308c9e2e3a504083c21e6aa4c",
-      "source": "Sky Sports",
-      "headline": "Aston Villa latest: Garnacho scores in Antonio Puerta Trophy win over Sevilla",
-      "description": "",
-      "publishedAt": "2026-10-02T21:40:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "eb147f2f03cf7c6fd1a910188fb4179f",
-      "source": "Sky Sports",
-      "headline": "Zidane's France held by Italy as De Bruyne inspires Belgium",
-      "description": "",
-      "publishedAt": "2026-10-02T21:16:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-italy-france-olise_7366893.jpg?20261002221605",
-      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "1716509004f956fdb75837222cbe3e4a",
-      "source": "Sky Sports",
-      "headline": "Brown scores twice as Northen Ireland cruise to win over Ukraine",
-      "description": "Ciaron Brown's first international goals came as a pair to help a young Northern Ireland side stun Ukraine 3-0 and go clear at the top of Nations League Group B2.",
-      "publishedAt": "2026-10-02T20:47:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-ciaron-brown-northern_7366863.jpg?20261002205336",
-      "link": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
-      "tag": "Report",
       "teams": []
     },
     {
@@ -475,6 +442,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-03T11:35:51.588Z"
+    "cachedAt": "2026-10-03T16:14:41.410Z"
   }
 }
