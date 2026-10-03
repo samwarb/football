@@ -2,6 +2,50 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "c46d8eee12255e5c3043099cad3a94fe",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd to consider legal action if Gabriel leaves",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-10-02T22:07:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "4731258308c9e2e3a504083c21e6aa4c",
+      "source": "Sky Sports",
+      "headline": "Aston Villa latest: Garnacho scores in Antonio Puerta Trophy win over Sevilla",
+      "description": "",
+      "publishedAt": "2026-10-02T21:40:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "eb147f2f03cf7c6fd1a910188fb4179f",
+      "source": "Sky Sports",
+      "headline": "Zidane's France held by Italy as De Bruyne inspires Belgium",
+      "description": "",
+      "publishedAt": "2026-10-02T21:16:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-italy-france-olise_7366893.jpg?20261002221605",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "1716509004f956fdb75837222cbe3e4a",
+      "source": "Sky Sports",
+      "headline": "Brown scores twice as Northen Ireland cruise to win over Ukraine",
+      "description": "Ciaron Brown's first international goals came as a pair to help a young Northern Ireland side stun Ukraine 3-0 and go clear at the top of Nations League Group B2.",
+      "publishedAt": "2026-10-02T20:47:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-ciaron-brown-northern_7366863.jpg?20261002205336",
+      "link": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 50082951,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Jadon Sancho willing to wait for January move",
@@ -27,9 +71,9 @@
       ]
     },
     {
-      "id": "f95f3aec945edb73dea6be04f93b2fc9",
+      "id": "e2d1add38b4a7f18d7402ae490101b18",
       "source": "Sky Sports",
-      "headline": "City sponsor's 2015 statement to US government raises questions about appeal strategy",
+      "headline": "Man City sponsor's 2015 statement raises questions about appeal strategy",
       "description": "Manchester City’s strategy in their bid to clear their name after being found guilty of breaking more than 100 of the Premier League's rules has been brought into question by a statement their main sponsor Etihad Airways submitted to the US government in 2015.",
       "publishedAt": "2026-10-02T18:20:00.000Z",
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-etihad-stadium-manchester-city_7365589.jpg?20261001103602",
@@ -62,17 +106,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "72275175a3a244484891029c5c0c5d1e",
-      "source": "Sky Sports",
-      "headline": "Man Utd latest: Baleba plays first minutes in behind-closed-doors friendly",
-      "description": "",
-      "publishedAt": "2026-10-02T16:26:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50085283,
@@ -450,6 +483,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-02T22:10:45.668Z"
+    "cachedAt": "2026-10-03T05:13:57.998Z"
   }
 }
