@@ -2,14 +2,14 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": 50074316,
-      "source": "ESPN",
-      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
-      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
-      "publishedAt": "2026-10-04T10:38:08Z",
-      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-      "tag": "Story",
+      "id": "89487dff70e34542d9cf803517a2f25b",
+      "source": "Sky Sports",
+      "headline": "Republic of Ireland vs Israel latest score",
+      "description": "",
+      "publishedAt": "2026-10-04T18:59:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-football-troy-parrott_7368251.jpg?20261004205203",
+      "link": "https://www.skysports.com/football/republic-of-ireland-vs-israel/7868547122330107232",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -17,7 +17,7 @@
       "source": "ESPN",
       "headline": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
       "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-04T10:27:26Z",
+      "publishedAt": "2026-10-04T18:14:16Z",
       "image": "https://a.espncdn.com/photo/2026/0823/r1705543_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
       "tag": "Arsenal",
@@ -29,6 +29,28 @@
       ]
     },
     {
+      "id": "ef41107d2b3209fe0d41e85805c1936a",
+      "source": "Sky Sports",
+      "headline": "Ward's on FIRE! Wales goalkeeper denies Denmark twice LIVE!",
+      "description": "",
+      "publishedAt": "2026-10-04T17:30:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-denmark-wales_7368268.jpg?20261004205911",
+      "link": "https://www.skysports.com/football/wales-vs-denmark/live/554066",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 50074316,
+      "source": "ESPN",
+      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
+      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
+      "publishedAt": "2026-10-04T10:38:08Z",
+      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
+      "tag": "Story",
+      "teams": []
+    },
+    {
       "id": 50026166,
       "source": "ESPN",
       "headline": "Which Premier League players got injured in the international break?",
@@ -37,17 +59,6 @@
       "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
       "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "aa5843aacd97bd36fd796fe8111a804f",
-      "source": "Sky Sports",
-      "headline": "Third time lucky for Pocognoli as Scotland mark Robertson's 100th cap with win",
-      "description": "Sebastien Pocognoli secured his first Scotland win at the third time of asking as captain Andy Robertson became just the second player to reach 100 caps.",
-      "publishedAt": "2026-10-03T21:00:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-scotland-kieron-bowie_7367506.jpg?20261003201538",
-      "link": "https://www.skysports.com/football/north-macedonia-vs-scotland/report/554056",
-      "tag": "Report",
       "teams": []
     },
     {
@@ -65,17 +76,6 @@
         "Barcelona",
         "Real Madrid"
       ]
-    },
-    {
-      "id": "ead3ff9f554b322e9dcc9bb018d5320f",
-      "source": "Sky Sports",
-      "headline": "Wakefield claim historic win over Warrington to become Super League champions",
-      "description": "Wakefield Trinity were crowned Super League champions for the first time in the club's history with a 23-10 victory over Warrington Wolves in the Grand Final at Old Trafford.",
-      "publishedAt": "2026-10-03T09:11:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-wakefield-super-league_7367507.jpg?20261003202435",
-      "link": "https://www.skysports.com/rugby-league/warrington-vs-wakefield/report/63349",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 50082951,
@@ -450,6 +450,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-04T12:17:25.790Z"
+    "cachedAt": "2026-10-04T21:20:33.712Z"
   }
 }
