@@ -2,14 +2,41 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "82631639baf50e3520ddecbac197872e",
-      "source": "Sky Sports",
-      "headline": "Papers: Arsenal leading race for winger Nusa",
-      "description": "The top stories and transfer rumours from Sunday's newspapers...",
-      "publishedAt": "2026-10-03T22:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13594837/arsenal-leading-race-for-rb-leipzig-winger-antonio-nusa-paper-talk",
-      "tag": "News Story",
+      "id": 50074316,
+      "source": "ESPN",
+      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
+      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
+      "publishedAt": "2026-10-04T10:38:08Z",
+      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": 50098759,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal among clubs chasing winger Yildiz",
+      "description": "Arsenal, Real Madrid and Bayern Munich are all chasing Juventus winger Kenan Yildiz. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-04T10:27:26Z",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705543_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50098759/transfer-rumors-news-arsenal-clubs-chasing-kenan-yildiz",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Real Madrid",
+        "Juventus",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Which Premier League players got injured in the international break?",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-10-04T06:22:36Z",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
       "teams": []
     },
     {
@@ -21,39 +48,6 @@
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-scotland-kieron-bowie_7367506.jpg?20261003201538",
       "link": "https://www.skysports.com/football/north-macedonia-vs-scotland/report/554056",
       "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "d10d39ce2b13bc47d84d9459657d64e4",
-      "source": "Sky Sports",
-      "headline": "'Complete' England display reinvigorates faith in Tuchel project - for now",
-      "description": "\"We will always have a scar, we will always feel pain and disappointment. But this is the way to move forward.\"",
-      "publishedAt": "2026-10-03T20:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kane-harry-england_7367431.jpg?20261003181901",
-      "link": "https://www.skysports.com/football/news/12040/13594631/croatia-0-7-england-thumping-win-reinvigorates-thomas-tuchels-project-after-world-cup-blow-but-next-spain-test-will-define-progress-towards-success",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "8c0917264acba5bf8f7f6d6e1344762c",
-      "source": "Sky Sports",
-      "headline": "Wakefield win their first-ever Grand Final in commanding victory over Warrington",
-      "description": "Highlights of the Super League Grand Final between Warrington Wolves and Wakefield Trinity.",
-      "publishedAt": "2026-10-03T18:59:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/super-league-hld-grand-final_7367489.jpg?20261003200149",
-      "link": "https://www.skysports.com/watch/video/13594819/warrington-wolves-10-23-wakefield-trinity-super-league-grand-final-highlights",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Which Premier League players got injured in the international break?",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-10-03T15:43:03Z",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
       "teams": []
     },
     {
@@ -410,21 +404,6 @@
       ]
     },
     {
-      "id": 50070201,
-      "source": "ESPN",
-      "headline": "Late penalty drama as Arsenal draw with Paris FC in UWCL",
-      "description": "Late penalty drama as Arsenal draw with Paris FC in UWCL",
-      "publishedAt": "2026-09-30T21:22:13Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/dm_260930_Late_penalty_drama_as_Arsenal_draw_with_Paris_FC_in_UWCL/dm_260930_Late_penalty_drama_as_Arsenal_draw_with_Paris_FC_in_UWCL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50070201/late-penalty-drama-arsenal-draw-paris-fc-uwcl",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Arsenal",
-        "Paris FC"
-      ]
-    },
-    {
       "id": 50070645,
       "source": "ESPN",
       "headline": "Klopp not preparing for more titles after verdict against Man City",
@@ -466,26 +445,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 50069602,
-      "source": "ESPN",
-      "headline": "Erling Haaland unaffected by Man City guilty verdict, says Norway teammate",
-      "description": "Norway defender Kristoffer Ajer said football's \"biggest star\" Erling Haaland has been unaffected by Manchester City being found guilty of breaching Premier League financial rules.",
-      "publishedAt": "2026-09-30T18:30:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1724013_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50069602/erling-haaland-man-city-guilty-norway-wales-uefa-nations-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Norway",
-        "Wales"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-04T05:47:47.971Z"
+    "cachedAt": "2026-10-04T12:17:25.790Z"
   }
 }
