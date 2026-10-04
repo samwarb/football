@@ -2,6 +2,39 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "82631639baf50e3520ddecbac197872e",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal leading race for winger Nusa",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-10-03T22:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13594837/arsenal-leading-race-for-rb-leipzig-winger-antonio-nusa-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "aa5843aacd97bd36fd796fe8111a804f",
+      "source": "Sky Sports",
+      "headline": "Third time lucky for Pocognoli as Scotland mark Robertson's 100th cap with win",
+      "description": "Sebastien Pocognoli secured his first Scotland win at the third time of asking as captain Andy Robertson became just the second player to reach 100 caps.",
+      "publishedAt": "2026-10-03T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-scotland-kieron-bowie_7367506.jpg?20261003201538",
+      "link": "https://www.skysports.com/football/north-macedonia-vs-scotland/report/554056",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "d10d39ce2b13bc47d84d9459657d64e4",
+      "source": "Sky Sports",
+      "headline": "'Complete' England display reinvigorates faith in Tuchel project - for now",
+      "description": "\"We will always have a scar, we will always feel pain and disappointment. But this is the way to move forward.\"",
+      "publishedAt": "2026-10-03T20:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kane-harry-england_7367431.jpg?20261003181901",
+      "link": "https://www.skysports.com/football/news/12040/13594631/croatia-0-7-england-thumping-win-reinvigorates-thomas-tuchels-project-after-world-cup-blow-but-next-spain-test-will-define-progress-towards-success",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "8c0917264acba5bf8f7f6d6e1344762c",
       "source": "Sky Sports",
       "headline": "Wakefield win their first-ever Grand Final in commanding victory over Warrington",
@@ -10,39 +43,6 @@
       "image": "https://e0.365dm.com/26/10/1920x1080/super-league-hld-grand-final_7367489.jpg?20261003200149",
       "link": "https://www.skysports.com/watch/video/13594819/warrington-wolves-10-23-wakefield-trinity-super-league-grand-final-highlights",
       "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "24c05fbb5fcb463074a4a089abe9b5a8",
-      "source": "Sky Sports",
-      "headline": "Keane: Bellingham can become one of greatest players ever",
-      "description": "England and Real Madrid star Jude Bellingham can become one of the world's greatest ever players, according to Sky Sports pundit Roy Keane.",
-      "publishedAt": "2026-10-03T18:30:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jude-bellingham-england_7367472.jpg?20261003193315",
-      "link": "https://www.skysports.com/football/news/12040/13594630/jude-bellingham-england-and-real-madrid-star-tipped-for-greatness-after-croatia-thrashing-by-roy-keane",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "c3739f47173a4b12f5fb2cd80cf18ced",
-      "source": "Sky Sports",
-      "headline": "Seventh heaven for England as Croatia thrashed in stunning win",
-      "description": "England produced a dominant performance that will live long in the memory to defeat Croatia 7-0 in their Nations League tie in Rijeka.",
-      "publishedAt": "2026-10-03T18:00:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-kane-bellingham-saka_7367405.jpg?20261003174940",
-      "link": "https://www.skysports.com/football/croatia-vs-england/report/554052",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "03868fb953d335ba7b45fc5fbe6f2667",
-      "source": "Sky Sports",
-      "headline": "Scotland lead through Bowie in North Macedonia LIVE!",
-      "description": "",
-      "publishedAt": "2026-10-03T17:00:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-scotland-kieron-bowie_7367485.jpg?20261003195809",
-      "link": "https://www.skysports.com/football/north-macedonia-vs-scotland/live/554056",
-      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -263,17 +263,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "b1c8f2eb0e63e8bcaca26eb5e293e1ee",
-      "source": "Sky Sports",
-      "headline": "Fernandes reveals Ronaldo conversation after Portugal walkout",
-      "description": "",
-      "publishedAt": "2026-10-01T22:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7367450.jpg?20261003183847",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50075140,
@@ -497,6 +486,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-03T21:11:23.337Z"
+    "cachedAt": "2026-10-04T05:47:47.971Z"
   }
 }
