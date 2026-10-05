@@ -2,14 +2,14 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "89487dff70e34542d9cf803517a2f25b",
+      "id": "bf5e933478c3520a3b3b9790303e5e91",
       "source": "Sky Sports",
-      "headline": "Republic of Ireland vs Israel latest score",
-      "description": "",
-      "publishedAt": "2026-10-04T18:59:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-football-troy-parrott_7368251.jpg?20261004205203",
-      "link": "https://www.skysports.com/football/republic-of-ireland-vs-israel/7868547122330107232",
-      "tag": "News Story",
+      "headline": "Republic of Ireland draw with Israel in second Nations League meeting",
+      "description": "The Republic of Ireland drew 1-1 with Israel in the second controversial Nations League fixture between the sides.",
+      "publishedAt": "2026-10-04T20:51:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-ireland-israel_7368307.jpg?20261004215623",
+      "link": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
+      "tag": "Report",
       "teams": []
     },
     {
@@ -29,12 +29,12 @@
       ]
     },
     {
-      "id": "ef41107d2b3209fe0d41e85805c1936a",
+      "id": "6ea7b2999cd937488f4b7a36e864399d",
       "source": "Sky Sports",
-      "headline": "Ward's on FIRE! Wales goalkeeper denies Denmark twice LIVE!",
+      "headline": "Hero to zero! Ward makes huge errors as Denmark beat Wales LIVE!",
       "description": "",
       "publishedAt": "2026-10-04T17:30:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-denmark-wales_7368268.jpg?20261004205911",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-wales-denmark_7368286.jpg?20261004213032",
       "link": "https://www.skysports.com/football/wales-vs-denmark/live/554066",
       "tag": "Liveblog",
       "teams": []
@@ -59,6 +59,17 @@
       "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
       "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
       "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "703955ff39564e9568a1460f93601624",
+      "source": "Sky Sports",
+      "headline": "Papers: Ronaldo to make Portugal return",
+      "description": "The top stories and transfer rumours from Monday's newspapers...",
+      "publishedAt": "2026-10-03T22:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13595152/cristiano-ronaldo-to-make-portugal-return-in-2027-paper-talk",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -450,6 +461,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-04T21:20:33.712Z"
+    "cachedAt": "2026-10-05T05:33:48.699Z"
   }
 }
