@@ -2,14 +2,51 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "bf5e933478c3520a3b3b9790303e5e91",
+      "id": 50108326,
+      "source": "ESPN",
+      "headline": "How a mass Man City player exodus would warp the transfer market",
+      "description": "If Manchester City are punished by being relegated from the Premier League, group of players worth more than £1 billion in transfer fees would suddenly become available.",
+      "publishedAt": "2026-10-05T12:46:40Z",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726237_4_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50108326/how-mass-manchester-city-player-exodus-warp-transfer-market",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50108907,
+      "source": "ESPN",
+      "headline": "Ledley King backs Tottenham form to 'turn around very quickly'",
+      "description": "Ledley King has urged Roberto De Zerbi's team to draw on the experiences of last season to end the club's winless start to the new Premier League campaign.",
+      "publishedAt": "2026-10-05T12:36:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0525/r1663333_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50108907/ledley-king-backs-tottenham-form-turn-very-quickly",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Premier League injury concerns from the international break",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-10-05T12:01:30Z",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "2a711233f75aedd8792fedc0dd04b8a9",
       "source": "Sky Sports",
-      "headline": "Republic of Ireland draw with Israel in second Nations League meeting",
-      "description": "The Republic of Ireland drew 1-1 with Israel in the second controversial Nations League fixture between the sides.",
-      "publishedAt": "2026-10-04T20:51:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-ireland-israel_7368307.jpg?20261004215623",
-      "link": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
-      "tag": "Report",
+      "headline": "Hallgrimsson urges UEFA to keep Ireland and Israel apart in future",
+      "description": "Heimir Hallgrimsson has called on UEFA to keep Ireland and Israel apart in future.",
+      "publishedAt": "2026-10-05T06:32:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-heimir-hallgrimsson_7368497.jpg?20261005075318",
+      "link": "https://www.skysports.com/football/news/12040/13595235/republic-of-ireland-heimir-hallgrimsson-calls-on-uefa-to-keep-ireland-and-israel-apart-in-future-after-tense-draw",
+      "tag": "News Story",
       "teams": []
     },
     {
@@ -29,17 +66,6 @@
       ]
     },
     {
-      "id": "6ea7b2999cd937488f4b7a36e864399d",
-      "source": "Sky Sports",
-      "headline": "Hero to zero! Ward makes huge errors as Denmark beat Wales LIVE!",
-      "description": "",
-      "publishedAt": "2026-10-04T17:30:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-wales-denmark_7368286.jpg?20261004213032",
-      "link": "https://www.skysports.com/football/wales-vs-denmark/live/554066",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 50074316,
       "source": "ESPN",
       "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
@@ -48,28 +74,6 @@
       "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Which Premier League players got injured in the international break?",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-10-04T06:22:36Z",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724832_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "703955ff39564e9568a1460f93601624",
-      "source": "Sky Sports",
-      "headline": "Papers: Ronaldo to make Portugal return",
-      "description": "The top stories and transfer rumours from Monday's newspapers...",
-      "publishedAt": "2026-10-03T22:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13595152/cristiano-ronaldo-to-make-portugal-return-in-2027-paper-talk",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -428,39 +432,11 @@
         "Liverpool",
         "Manchester City"
       ]
-    },
-    {
-      "id": 50065113,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye move for Mexico's Mora",
-      "description": "Could Mexico's teenage star Gilberto Mora end up moving to Merseyside? Transfer Talk has the latest.",
-      "publishedAt": "2026-09-30T20:09:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1724106_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50065113/transfer-rumors-news-real-madrid-eye-liverpool-van-dijk-free-transfer-end-season",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Tijuana",
-        "Mexico"
-      ]
-    },
-    {
-      "id": 50070465,
-      "source": "ESPN",
-      "headline": "UK PM Burnham 'concerned' Man City's owners could sell club",
-      "description": "The UK Prime Minister Andy Burnham said he \"would be really concerned\" if Manchester City 's owners sell the club following the guilty verdict for breaching Premier League financial rules.",
-      "publishedAt": "2026-09-30T19:42:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1724093_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50070465/andy-burnham-man-city-owners-sell-uk-prime-minister",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-05T05:33:48.699Z"
+    "cachedAt": "2026-10-05T14:30:38.352Z"
   }
 }
