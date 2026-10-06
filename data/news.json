@@ -2,26 +2,106 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "8758cc61bea1578b6df48aa4bd599fd0",
-      "source": "Sky Sports",
-      "headline": "Papers: Liverpool's Jacquet suffers hamstring strain on France duty",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-10-05T22:15:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13595580/x-paper-talk",
-      "tag": "News Story",
+      "id": 50109791,
+      "source": "ESPN",
+      "headline": "How top Premier League clubs view Man City's guilty verdict",
+      "description": "Four clubs -- Arsenal, Liverpool, Man United and Tottenham -- retained their legal rights in the Premier League's case against Man City. Now that a guilty verdict has been issued, what will they do in response?",
+      "publishedAt": "2026-10-06T13:08:24Z",
+      "image": "https://a.espncdn.com/photo/2021/0609/r865143_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50109791/man-city-premier-league-guilty-verdict-legal-action-arsenal-liverpool-man-united-tottenham",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Premier League injury concerns from the international break",
+      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-10-06T12:22:37Z",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
       "teams": []
     },
     {
-      "id": "6de600650b9ac36b852d08b617175d44",
-      "source": "Sky Sports",
-      "headline": "Mamardashvili's late penalty save denies Northern Ireland win vs Georgia",
-      "description": "Isaac Price missed a late penalty as Northern Ireland were held to a goalless draw by Georgia which nevertheless keeps them top of their Nations League group.",
-      "publishedAt": "2026-10-05T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-giorgi-mamardashvili_7369219.jpg?20261005215745",
-      "link": "https://www.skysports.com/football/northern-ireland-vs-georgia/report/554072",
-      "tag": "Report",
-      "teams": []
+      "id": 50116134,
+      "source": "ESPN",
+      "headline": "Liverpool sweating over Jeremy Jacquet fitness ahead of Man City clash",
+      "description": "Liverpool are waiting to discover the extent of Jeremy Jacquet's fitness issue after the centre-back was left out of France's Nations League win over Belgium.",
+      "publishedAt": "2026-10-06T12:15:01Z",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726765_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50116134/liverpool-jeremy-jacquet-france-nations-league-man-city-premier-league",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "France"
+      ]
+    },
+    {
+      "id": 50115213,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker",
+      "description": "Manchester United are tracking SC Freiburg striker Igor Matanovic alongside Arsenal and Chelsea. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-06T10:31:59Z",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726728_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "SC Freiburg",
+        "Manchester United",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50113281,
+      "source": "ESPN",
+      "headline": "Man City mock draft: How Premier League teams could pick in hypothetical punishment",
+      "description": "Now that Manchester City have been found to have cheated on a huge scale, anything is on the table -- maybe even an American-style Premier League draft?",
+      "publishedAt": "2026-10-06T10:29:56Z",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726637_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50113281/man-city-mock-draft-premier-league-team-picks-hypothetical-cheating-punishment",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United",
+        "Liverpool",
+        "Tottenham Hotspur",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50115373,
+      "source": "ESPN",
+      "headline": "Man City punishment must be 'three to five years' - Jamie Carragher",
+      "description": "Manchester City should face a multi-year punishment for their financial misdemeanours, according to former Liverpool defender Jamie Carragher.",
+      "publishedAt": "2026-10-06T08:36:36Z",
+      "image": "https://a.espncdn.com/photo/2026/0519/r1660275_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50115373/man-city-punishment-three-five-years-jamie-carragher",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50111432,
+      "source": "ESPN",
+      "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
+      "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
+      "publishedAt": "2026-10-06T06:45:38Z",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "England"
+      ]
     },
     {
       "id": 50107972,
@@ -36,31 +116,6 @@
         "AFC Bournemouth",
         "Chelsea"
       ]
-    },
-    {
-      "id": 50111432,
-      "source": "ESPN",
-      "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
-      "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
-      "publishedAt": "2026-10-05T20:14:37Z",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears",
-      "tag": "Everton",
-      "teams": [
-        "Everton",
-        "England"
-      ]
-    },
-    {
-      "id": "2fe91d3a42750772437e2b2814043787",
-      "source": "Sky Sports",
-      "headline": "Iraola's early impact: Big calls, foundations to thrill – and lift-off vs Man City?",
-      "description": "Andoni Iraola has made an unbeaten start as Liverpool boss – but will he get lift-off at Anfield in the huge clash with Manchester City on Sunday?",
-      "publishedAt": "2026-10-05T18:30:00.000Z",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-andoni-iraola-liverpool_7264992.png?20260604073411",
-      "link": "https://www.skysports.com/football/news/12040/13595435/liverpool-andoni-iraolas-early-impact-at-anfield-assessed-ahead-of-huge-super-sunday-showdown-with-man-city",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50110306,
@@ -84,17 +139,6 @@
       "image": "https://a.espncdn.com/photo/2026/1005/r1726394_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50085954/state-position-2026-biggest-soccer-tactical-trends",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "eb3be3fdadd91b359a70fae3a7016748",
-      "source": "Sky Sports",
-      "headline": "Slegers can no longer hide behind 'fine margins' in defence of Arsenal",
-      "description": "Sky Sports columnist Laura Hunter analyses the big talking points from the second round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
-      "publishedAt": "2026-10-05T14:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-leah-williamson-arsenal_7368849.jpg?20261005141340",
-      "link": "https://www.skysports.com/football/news/12040/13595352/arsenal-must-be-accountable-for-their-own-failings-in-faltering-womens-super-league-season",
-      "tag": "Article/Blog",
       "teams": []
     },
     {
@@ -122,17 +166,6 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Premier League injury concerns from the international break",
-      "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-10-05T12:01:30Z",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
     },
     {
       "id": 50098759,
@@ -304,20 +337,6 @@
       ]
     },
     {
-      "id": 50076894,
-      "source": "ESPN",
-      "headline": "How Aston Villa boss Unai Emery rescued Real Unión, his 'family' club, from ruin",
-      "description": "Real Unión are one of LaLiga's founding clubs, but fell on hard times. Enter Unai Emery, one of the world's top coaches, whose family connection to the club spans four generations.",
-      "publishedAt": "2026-10-02T10:12:39Z",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724844_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50076894/how-aston-villa-manager-unai-emery-rescued-family-club-real-union-irun",
-      "tag": "Real Unión Irun",
-      "teams": [
-        "Real Unión Irun",
-        "Aston Villa"
-      ]
-    },
-    {
       "id": 50083305,
       "source": "ESPN",
       "headline": "Sir Alex Ferguson was 'terrified' about Old Trafford return after brain surgery",
@@ -390,20 +409,6 @@
       ]
     },
     {
-      "id": 50076437,
-      "source": "ESPN",
-      "headline": "Spain's Víctor Muñoz on Liverpool switch: Premier League more physical than LaLiga",
-      "description": "Liverpool winger Víctor Muñoz has praised the \"intensity\" at the Premier League club since making the switch from LaLiga this summer, saying the change is \"helping me grow\" as a player.",
-      "publishedAt": "2026-10-01T13:14:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708487_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50076437/spain-victor-munoz-liverpool-switch-premier-league-more-physical-laliga",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Spain"
-      ]
-    },
-    {
       "id": 50076311,
       "source": "ESPN",
       "headline": "Second Hull player flips car outside training ground - reports",
@@ -415,54 +420,11 @@
       "teams": [
         "Hull City"
       ]
-    },
-    {
-      "id": 50075485,
-      "source": "ESPN",
-      "headline": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
-      "description": "Cristiano Ronaldo walked out of the Portugal national team's camp after being benched. It is far from the first high-profile row of his two decades at the top.",
-      "publishedAt": "2026-10-01T11:14:02Z",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-      "tag": "Portugal",
-      "teams": [
-        "Portugal",
-        "Manchester United",
-        "Real Madrid",
-        "Juventus",
-        "Al Nassr"
-      ]
-    },
-    {
-      "id": 50075558,
-      "source": "ESPN",
-      "headline": "Premier League 'dragged through the mud' by Man City case - Gary Neville",
-      "description": "The Premier League has been \"dragged through the mud\" by the Manchester City guilty verdict, Gary Neville has said.",
-      "publishedAt": "2026-10-01T10:56:26Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723479_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50075558/premier-league-dragged-mud-man-city-case-gary-neville",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50075848,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi receives backing of Tottenham's chief executive",
-      "description": "Chief executive Vinai Venkatesham has offered his backing to Roberto De Zerbi after Tottenham's poor start to the new campaign.",
-      "publishedAt": "2026-10-01T10:27:50Z",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724368_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50075848/roberto-de-zerbi-receives-backing-tottenham-chief-executive",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-06T06:15:47.711Z"
+    "cachedAt": "2026-10-06T13:19:48.854Z"
   }
 }
