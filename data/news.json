@@ -2,6 +2,113 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50107972,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
+      "description": "Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.",
+      "publishedAt": "2026-10-05T20:53:41Z",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726526_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 50111432,
+      "source": "ESPN",
+      "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
+      "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
+      "publishedAt": "2026-10-05T20:14:37Z",
+      "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears",
+      "tag": "Everton",
+      "teams": [
+        "Everton",
+        "England"
+      ]
+    },
+    {
+      "id": "76e3d19c9a861533151f06da3a6f2b3c",
+      "source": "Sky Sports",
+      "headline": "Lewis-Skelly features in PL-dominated Golden Boy shortlist",
+      "description": "Arsenal and England midfielder Myles Lewis-Skelly has been included in the 25-man shortlist for this year's Golden Boy award.",
+      "publishedAt": "2026-10-05T18:45:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320052.jpg?20260812201414",
+      "link": "https://www.skysports.com/football/news/12040/13595540/golden-boy-2026-arsenals-myles-lewis-skelly-among-premier-league-stars-on-25-man-shortlist-for-europes-best-u21-player",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "2fe91d3a42750772437e2b2814043787",
+      "source": "Sky Sports",
+      "headline": "Iraola's early impact: Big calls, foundations to thrill – and lift-off vs Man City?",
+      "description": "Andoni Iraola has made an unbeaten start as Liverpool boss – but will he get lift-off at Anfield in the huge clash with Manchester City on Sunday?",
+      "publishedAt": "2026-10-05T18:30:00.000Z",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-andoni-iraola-liverpool_7264992.png?20260604073411",
+      "link": "https://www.skysports.com/football/news/12040/13595435/liverpool-andoni-iraolas-early-impact-at-anfield-assessed-ahead-of-huge-super-sunday-showdown-with-man-city",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50110306,
+      "source": "ESPN",
+      "headline": "JJ Gabriel representatives demanded game time at Manchester United - sources",
+      "description": "Representatives of JJ Gabriel demanded that the teenager played at least 20 minutes in games against Sabah FK, Brighton and Bournemouth before beginning talks about signing a scholarship with Manchester United, sources have told ESPN.",
+      "publishedAt": "2026-10-05T16:53:23Z",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "e2cfc8072ab05d43570357d716c65bad",
+      "source": "Sky Sports",
+      "headline": "Inside JJ Gabriel's Man Utd future and why he was in first-team squad photo",
+      "description": "JJ Gabriel is still expected to leave Manchester United despite featuring in the club's squad photo for the 2026/27 season.",
+      "publishedAt": "2026-10-05T16:52:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jj-gabriel-man-utd_7354610.jpg?20260917135159",
+      "link": "https://www.skysports.com/football/news/12040/13595519/jj-gabriel-man-utd-prodigy-still-expected-to-leave-despite-first-team-photo-inclusion-this-is-how-it-unfolded",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50085954,
+      "source": "ESPN",
+      "headline": "State of each position in 2026: What are the biggest tactical trends?",
+      "description": "Elite soccer has changed dramatically in recent years, and the most valued player skill sets have evolved as a result.",
+      "publishedAt": "2026-10-05T16:24:46Z",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726394_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50085954/state-position-2026-biggest-soccer-tactical-trends",
+      "tag": "Story",
+      "teams": []
+    },
+    {
+      "id": "eb3be3fdadd91b359a70fae3a7016748",
+      "source": "Sky Sports",
+      "headline": "Slegers can no longer hide behind 'fine margins' in defence of Arsenal",
+      "description": "Sky Sports columnist Laura Hunter analyses the big talking points from the second round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
+      "publishedAt": "2026-10-05T14:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-leah-williamson-arsenal_7368849.jpg?20261005141340",
+      "link": "https://www.skysports.com/football/news/12040/13595352/arsenal-must-be-accountable-for-their-own-failings-in-faltering-womens-super-league-season",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": "c7c9f064954c1dee33ff813b9c9b0498",
+      "source": "Sky Sports",
+      "headline": "Man City's rivals do not expect them to be in Premier League next season",
+      "description": "Sympathy is in short supply at other clubs after an independent commission laid bare the scale of Manchester City's rule breaking across nine seasons in a devastating decision published last week.",
+      "publishedAt": "2026-10-05T13:41:00.000Z",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-manchester-city-premier-league_7361194.jpg?20260925150441",
+      "link": "https://www.skysports.com/football/news/12040/13595428/man-city-charges-premier-league-clubs-do-not-expect-city-to-be-in-premier-league-next-season-if-appeal-fails",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50108326,
       "source": "ESPN",
       "headline": "How a mass Man City player exodus would warp the transfer market",
@@ -36,17 +143,6 @@
       "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
       "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
       "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": "2a711233f75aedd8792fedc0dd04b8a9",
-      "source": "Sky Sports",
-      "headline": "Hallgrimsson urges UEFA to keep Ireland and Israel apart in future",
-      "description": "Heimir Hallgrimsson has called on UEFA to keep Ireland and Israel apart in future.",
-      "publishedAt": "2026-10-05T06:32:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-heimir-hallgrimsson_7368497.jpg?20261005075318",
-      "link": "https://www.skysports.com/football/news/12040/13595235/republic-of-ireland-heimir-hallgrimsson-calls-on-uefa-to-keep-ireland-and-israel-apart-in-future-after-tense-draw",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -373,70 +469,11 @@
       "teams": [
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 50075446,
-      "source": "ESPN",
-      "headline": "Man City owners must sell due to 'shame of their guilt' - Jamie Carragher",
-      "description": "Manchester City's owners must sell up in the wake of the club's guilty verdict for breaching Premier League financial rules, according to former Liverpool defender Jamie Carragher.",
-      "publishedAt": "2026-10-01T08:50:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723465_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50075446/man-city-owners-sell-due-guilty-verdict-jamie-carragher",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50012221,
-      "source": "ESPN",
-      "headline": "Premier League depth charts for most popular teams: Who is key?",
-      "description": "The Premier League is well underway, but with the transfer window closed, where do players stand in their teams? How deep do the squads go?",
-      "publishedAt": "2026-10-01T07:05:03Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723309_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50012221/premier-league-depth-chart-arsenal-man-united-man-city-liverpool-chelsea-tottenham",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester United",
-        "Manchester City",
-        "Tottenham Hotspur",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50071749,
-      "source": "ESPN",
-      "headline": "What does the future hold for Manchester City's players?",
-      "description": "What does the future hold for Manchester City's players?",
-      "publishedAt": "2026-09-30T22:11:27Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0930/dm_260930_COM_SOC_Analysis_What_does_the_future_hold_for_Manchester_Citys_players_20260930_GLOBAL/dm_260930_COM_SOC_Analysis_What_does_the_future_hold_for_Manchester_Citys_players_20260930_GLOBAL.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50071749/what-does-future-hold-manchester-city-players",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50070645,
-      "source": "ESPN",
-      "headline": "Klopp not preparing for more titles after verdict against Man City",
-      "description": "Jürgen Klopp said Wednesday he would \"wait and see\" before commenting on the Premier League's announcement yesterday that Manchester City had been found guilty of 114 charges for breaching financial rules.",
-      "publishedAt": "2026-09-30T21:04:34Z",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1724108_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50070645/klopp-not-preparing-title-manchester-city-verdict",
-      "tag": "Germany",
-      "teams": [
-        "Germany",
-        "Liverpool",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-05T14:30:38.352Z"
+    "cachedAt": "2026-10-06T00:00:33.399Z"
   }
 }
