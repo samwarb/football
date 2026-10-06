@@ -2,6 +2,28 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "8758cc61bea1578b6df48aa4bd599fd0",
+      "source": "Sky Sports",
+      "headline": "Papers: Liverpool's Jacquet suffers hamstring strain on France duty",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "publishedAt": "2026-10-05T22:15:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13595580/x-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "6de600650b9ac36b852d08b617175d44",
+      "source": "Sky Sports",
+      "headline": "Mamardashvili's late penalty save denies Northern Ireland win vs Georgia",
+      "description": "Isaac Price missed a late penalty as Northern Ireland were held to a goalless draw by Georgia which nevertheless keeps them top of their Nations League group.",
+      "publishedAt": "2026-10-05T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-giorgi-mamardashvili_7369219.jpg?20261005215745",
+      "link": "https://www.skysports.com/football/northern-ireland-vs-georgia/report/554072",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 50107972,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
@@ -30,17 +52,6 @@
       ]
     },
     {
-      "id": "76e3d19c9a861533151f06da3a6f2b3c",
-      "source": "Sky Sports",
-      "headline": "Lewis-Skelly features in PL-dominated Golden Boy shortlist",
-      "description": "Arsenal and England midfielder Myles Lewis-Skelly has been included in the 25-man shortlist for this year's Golden Boy award.",
-      "publishedAt": "2026-10-05T18:45:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320052.jpg?20260812201414",
-      "link": "https://www.skysports.com/football/news/12040/13595540/golden-boy-2026-arsenals-myles-lewis-skelly-among-premier-league-stars-on-25-man-shortlist-for-europes-best-u21-player",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": "2fe91d3a42750772437e2b2814043787",
       "source": "Sky Sports",
       "headline": "Iraola's early impact: Big calls, foundations to thrill – and lift-off vs Man City?",
@@ -65,17 +76,6 @@
       ]
     },
     {
-      "id": "e2cfc8072ab05d43570357d716c65bad",
-      "source": "Sky Sports",
-      "headline": "Inside JJ Gabriel's Man Utd future and why he was in first-team squad photo",
-      "description": "JJ Gabriel is still expected to leave Manchester United despite featuring in the club's squad photo for the 2026/27 season.",
-      "publishedAt": "2026-10-05T16:52:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jj-gabriel-man-utd_7354610.jpg?20260917135159",
-      "link": "https://www.skysports.com/football/news/12040/13595519/jj-gabriel-man-utd-prodigy-still-expected-to-leave-despite-first-team-photo-inclusion-this-is-how-it-unfolded",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50085954,
       "source": "ESPN",
       "headline": "State of each position in 2026: What are the biggest tactical trends?",
@@ -95,17 +95,6 @@
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-leah-williamson-arsenal_7368849.jpg?20261005141340",
       "link": "https://www.skysports.com/football/news/12040/13595352/arsenal-must-be-accountable-for-their-own-failings-in-faltering-womens-super-league-season",
       "tag": "Article/Blog",
-      "teams": []
-    },
-    {
-      "id": "c7c9f064954c1dee33ff813b9c9b0498",
-      "source": "Sky Sports",
-      "headline": "Man City's rivals do not expect them to be in Premier League next season",
-      "description": "Sympathy is in short supply at other clubs after an independent commission laid bare the scale of Manchester City's rule breaking across nine seasons in a devastating decision published last week.",
-      "publishedAt": "2026-10-05T13:41:00.000Z",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-manchester-city-premier-league_7361194.jpg?20260925150441",
-      "link": "https://www.skysports.com/football/news/12040/13595428/man-city-charges-premier-league-clubs-do-not-expect-city-to-be-in-premier-league-next-season-if-appeal-fails",
-      "tag": "News Story",
       "teams": []
     },
     {
@@ -474,6 +463,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-06T00:00:33.399Z"
+    "cachedAt": "2026-10-06T06:15:47.711Z"
   }
 }
