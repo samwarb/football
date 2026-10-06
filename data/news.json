@@ -2,6 +2,123 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50115213,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Atleti, Juve eye loan move for Arsenal's Madueke",
+      "description": "Could Noni Madueke depart Arsenal for a move to either Spain or Italy? Transfer Talk has the latest.",
+      "publishedAt": "2026-10-06T20:30:24Z",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726964_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Atlético Madrid",
+        "Juventus"
+      ]
+    },
+    {
+      "id": 50075485,
+      "source": "ESPN",
+      "headline": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
+      "description": "Cristiano Ronaldo walked out of the Portugal national team's camp after being benched. It is far from the first high-profile row of his two decades at the top.",
+      "publishedAt": "2026-10-06T20:21:46Z",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
+      "tag": "Portugal",
+      "teams": [
+        "Portugal",
+        "Manchester United",
+        "Real Madrid",
+        "Juventus",
+        "Al Nassr"
+      ]
+    },
+    {
+      "id": "cffb1ad222702d8f21c9d9385f93a524",
+      "source": "Sky Sports",
+      "headline": "Ronaldo breaks silence over Portugal walkout in extraordinary statement",
+      "description": "Cristiano Ronaldo has broken his silence over his Portugal walkout in a lengthy statement in which he declares himself available for the national team.",
+      "publishedAt": "2026-10-06T19:07:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
+      "link": "https://www.skysports.com/football/news/12040/13595921/cristiano-ronaldo-portugal-star-breaks-silence-over-national-team-walkout-in-statement",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "e1b18039029dd875bb6e9a4f10c31410",
+      "source": "Sky Sports",
+      "headline": "O'Neill confirms decision to stay on as Celtic boss",
+      "description": "Martin O'Neill has confirmed his decision to stay on as Celtic manager after reflecting on his future over the international break.",
+      "publishedAt": "2026-10-06T17:36:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-celtic-martin-o-neill_7369953.jpg?20261006185759",
+      "link": "https://www.skysports.com/football/news/12040/13595897/celtic-boss-martin-oneill-confirms-decision-to-stay-after-reflecting-on-future-over-international-break",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50117156,
+      "source": "ESPN",
+      "headline": "Manchester City charges: Features, explainers, what's next after guilty verdict",
+      "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
+      "publishedAt": "2026-10-06T17:14:58Z",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "46dded1cfae9a1e1cef876318ed250d7",
+      "source": "Sky Sports",
+      "headline": "Scotland trail Slovenia in Nations League LIVE!",
+      "description": "",
+      "publishedAt": "2026-10-06T17:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-scotland-slovenia_7370045.jpg?20261006211957",
+      "link": "https://www.skysports.com/football/scotland-vs-slovenia/live/554082",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "dd778bedd44bc0ffa766e2b4e79c4148",
+      "source": "Sky Sports",
+      "headline": "UEFA monitoring Man City case as it considers potential action",
+      "description": "UEFA is monitoring developments and will wait until the end of the Premier League's disciplinary process before deciding whether to take any potential action against Manchester City.",
+      "publishedAt": "2026-10-06T15:00:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-man-city-manchester-city_7369861.jpg?20261006164624",
+      "link": "https://www.skysports.com/football/news/12040/13595795/man-city-charges-uefa-monitoring-premier-league-clubs-case-as-it-considers-potential-action",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50117025,
+      "source": "ESPN",
+      "headline": "Ogden: Haaland will not be at Manchester City next season",
+      "description": "Ogden: Haaland will not be at Manchester City next season",
+      "publishedAt": "2026-10-06T14:48:36Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Norway"
+      ]
+    },
+    {
+      "id": 50116481,
+      "source": "ESPN",
+      "headline": "Viktor Gyökeres to make Arsenal return after goal-laden stint with Sweden",
+      "description": "Viktor Gyökeres will return to Arsenal in confident mood after setting a new Nations League record with four more goals for Sweden over the international break.",
+      "publishedAt": "2026-10-06T13:48:19Z",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726793_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Sweden"
+      ]
+    },
+    {
       "id": 50109791,
       "source": "ESPN",
       "headline": "How top Premier League clubs view Man City's guilty verdict",
@@ -44,20 +161,15 @@
       ]
     },
     {
-      "id": 50115213,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker",
-      "description": "Manchester United are tracking SC Freiburg striker Igor Matanovic alongside Arsenal and Chelsea. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-06T10:31:59Z",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726728_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "SC Freiburg",
-        "Manchester United",
-        "Arsenal"
-      ]
+      "id": "a113af033715e4ed0fefe6fbdf5d0761",
+      "source": "Sky Sports",
+      "headline": "Predicted PL table - latest from the Sky Sports supercomputer",
+      "description": "Who will finish where in the 2026/27 Premier League season? Check the latest expected and predicted standings, according to the Sky Sports supercomputer.",
+      "publishedAt": "2026-10-06T11:00:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-martin-odegaard-arsenal_7343497.jpg?20260906175307",
+      "link": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 50113281,
@@ -290,19 +402,6 @@
       ]
     },
     {
-      "id": 50077292,
-      "source": "ESPN",
-      "headline": "Manchester City guilty charges explained: Premier League's options, how appeal works, more",
-      "description": "Tuesday's news that the Premier League found Man City guilty of 100-plus charges of breaking financial rules is a landmark moment. But what comes next: what punishments are on the table, and how does the appeals process work?",
-      "publishedAt": "2026-10-02T12:25:15Z",
-      "image": "https://a.espncdn.com/photo/2020/0214/r666347_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50077292/manchester-city-guilty-charges-explained-premier-league-punishments-appeals-legal-process",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50083306,
       "source": "ESPN",
       "headline": "FA: Man City verdict has 'significant implications for integrity of game'",
@@ -376,55 +475,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 50075140,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Several Premier League clubs eye Koundé move",
-      "description": "Could Jules Koundé's next move be in the Premier League? Transfer Talk has the latest.",
-      "publishedAt": "2026-10-01T20:46:16Z",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724622_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50075140/transfer-rumors-news-real-madrid-eye-former-liverpool-defender-quansah",
-      "tag": "Barcelona",
-      "teams": [
-        "Barcelona",
-        "Chelsea",
-        "Liverpool",
-        "Arsenal",
-        "Manchester United",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50077746,
-      "source": "ESPN",
-      "headline": "Downing Street clarifies Andy Burnham's remarks on Man City case",
-      "description": "A spokesperson for Andy Burnham has insisted the guilty verdict against Manchester City is \"serious\" after remarks the Prime Minister made about the case on Wednesday raised eyebrows.",
-      "publishedAt": "2026-10-01T17:07:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694805_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50077746/downing-street-clarifies-andy-burnham-remarks-man-city-case",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50076311,
-      "source": "ESPN",
-      "headline": "Second Hull player flips car outside training ground - reports",
-      "description": "A second Hull player has been reported to have flipped his car in an accident close to the club's training ground in Cottingham.",
-      "publishedAt": "2026-10-01T13:08:09Z",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724396_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50076311/second-hull-player-flips-car-training-ground-sorba-thomas",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-06T13:19:48.854Z"
+    "cachedAt": "2026-10-06T22:37:56.995Z"
   }
 }
