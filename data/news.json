@@ -2,6 +2,50 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": "3a5d6750601c801e4cdf5762e6d19bed",
+      "source": "Sky Sports",
+      "headline": "Kane sums up England legacy on special night - but can he make that final step?",
+      "description": "Some things are inevitable in life. Harry Kane delivering for England is always one of those inevitabilities. On his momentous, milestone match, he stuck to the script perfectly.",
+      "publishedAt": "2026-10-06T21:41:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-kane-england_7370090.jpg?20261006225617",
+      "link": "https://www.skysports.com/football/news/12040/13595959/harry-kane-breaks-england-appearance-record-but-can-he-take-that-final-step-to-complete-his-career",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "dd8f54ad0aa97a7b9723d5be9319569b",
+      "source": "Sky Sports",
+      "headline": "Nations League round-up: Merino comes up clutch again for Spain",
+      "description": "",
+      "publishedAt": "2026-10-06T21:25:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-mikel-merino-spain_7370068.jpg?20261006222057",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "185f30a96e92ba873b27a2390ccd78d2",
+      "source": "Sky Sports",
+      "headline": "Papers: Arsenal 'interested' in Paz but bid to sign Como star dealt blow",
+      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "publishedAt": "2026-10-06T20:39:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13595942/arsenal-interested-in-signing-como-star-nico-paz-but-mikel-artetas-hopes-of-landing-creative-midfielder-dealt-blow-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "a876a913fe51c1e263267c8cf2d615cc",
+      "source": "Sky Sports",
+      "headline": "King Kane marks milestone match with star display as England beat Czech Republic",
+      "description": "Harry Kane marked his record-equalling 125th cap with a sensational display as he led England to a 3-0 win over Czech Republic at Wembley.",
+      "publishedAt": "2026-10-06T20:33:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-kane-england_7370037.jpg?20261006210834",
+      "link": "https://www.skysports.com/football/england-vs-czech-republic/report/554078",
+      "tag": "Report",
+      "teams": []
+    },
+    {
       "id": 50115213,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Atleti, Juve eye loan move for Arsenal's Madueke",
@@ -34,10 +78,21 @@
       ]
     },
     {
-      "id": "cffb1ad222702d8f21c9d9385f93a524",
+      "id": "27d7e2a721120b9c47438e84772e44d9",
+      "source": "Sky Sports",
+      "headline": "Who are the winners and losers of England's international break?",
+      "description": "It's been a long international break for England. But it could be a pivotal one in Thomas Tuchel's thinking.",
+      "publishedAt": "2026-10-06T20:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-england-winners-losers_7368872.jpg?20261005142959",
+      "link": "https://www.skysports.com/football/news/12040/13595349/england-winners-and-losers-who-impressed-and-who-is-sweating-over-their-three-lions-spot-after-four-game-international-break",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "bff6e91bcbbfc3b544cccce4b153e716",
       "source": "Sky Sports",
       "headline": "Ronaldo breaks silence over Portugal walkout in extraordinary statement",
-      "description": "Cristiano Ronaldo has broken his silence over his Portugal walkout in a lengthy statement in which he declares himself available for the national team.",
+      "description": "Cristiano Ronaldo has broken his silence over his Portugal walkout in a lengthy statement in which he says he is not retiring from the national team.",
       "publishedAt": "2026-10-06T19:07:00.000Z",
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
       "link": "https://www.skysports.com/football/news/12040/13595921/cristiano-ronaldo-portugal-star-breaks-silence-over-national-team-walkout-in-statement",
@@ -67,17 +122,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "46dded1cfae9a1e1cef876318ed250d7",
-      "source": "Sky Sports",
-      "headline": "Scotland trail Slovenia in Nations League LIVE!",
-      "description": "",
-      "publishedAt": "2026-10-06T17:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-scotland-slovenia_7370045.jpg?20261006211957",
-      "link": "https://www.skysports.com/football/scotland-vs-slovenia/live/554082",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": "dd778bedd44bc0ffa766e2b4e79c4148",
@@ -159,17 +203,6 @@
         "Liverpool",
         "France"
       ]
-    },
-    {
-      "id": "a113af033715e4ed0fefe6fbdf5d0761",
-      "source": "Sky Sports",
-      "headline": "Predicted PL table - latest from the Sky Sports supercomputer",
-      "description": "Who will finish where in the 2026/27 Premier League season? Check the latest expected and predicted standings, according to the Sky Sports supercomputer.",
-      "publishedAt": "2026-10-06T11:00:00.000Z",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-martin-odegaard-arsenal_7343497.jpg?20260906175307",
-      "link": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50113281,
@@ -480,6 +513,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-06T22:37:56.995Z"
+    "cachedAt": "2026-10-07T05:54:10.772Z"
   }
 }
