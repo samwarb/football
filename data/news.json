@@ -2,12 +2,116 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "3a5d6750601c801e4cdf5762e6d19bed",
+      "id": 50124324,
+      "source": "ESPN",
+      "headline": "Tottenham's Mathys Tel equals France under-21 goalscoring record",
+      "description": "Mathys Tel will be hoping to take his goal-scoring exploits with France Under-21s over the international break into Tottenham's fight to turn their Premier League season around.",
+      "publishedAt": "2026-10-07T12:12:04Z",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727283_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50124324/tottenham-mathys-tel-equals-france-21-goalscoring-record",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50004993,
+      "source": "ESPN",
+      "headline": "Mikel Arteta signs new four-year Arsenal contract",
+      "description": "Mikel Arteta has signed a new contract to extend his stay at Arsenal, the Premier League champions confirmed.",
+      "publishedAt": "2026-10-07T11:27:26Z",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727273_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50004993/mikel-arteta-signs-new-arsenal-contract",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50109049,
+      "source": "ESPN",
+      "headline": "We don't get Man City guilty verdict without hacker Rui Pinto, but it doesn't make him a hero",
+      "description": "The Manchester City case, which has rocked English football to its core, wouldn't have been possible without Football Leaks and its founder, Rui Pinto. However, he is a complicated figure, with light and dark to his actions.",
+      "publishedAt": "2026-10-07T11:06:46Z",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727269_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50109049/manchester-city-premier-league-charges-rui-pinto-football-leaks-gab-marcotti",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50123758,
+      "source": "ESPN",
+      "headline": "Man City glory can't be taken from players - Kyle Walker",
+      "description": "Manchester City's glory years cannot be taken away from the players, according to former captain Kyle Walker.",
+      "publishedAt": "2026-10-07T09:42:10Z",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727251_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50123758/man-city-glory-taken-players-kyle-walker",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50117156,
+      "source": "ESPN",
+      "headline": "Manchester City charges: Features, explainers, what's next after guilty verdict",
+      "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
+      "publishedAt": "2026-10-07T09:10:31Z",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "61017bd5ae6d546f488b5c4cb11612d7",
       "source": "Sky Sports",
-      "headline": "Kane sums up England legacy on special night - but can he make that final step?",
+      "headline": "Why England have an obligation to prove themselves against Greece",
+      "description": "When England were consigned to the World Cup play-offs back in June, it felt like a massive step backwards. How were the European champions not a shoo-in for the next major tournament in the international calendar?",
+      "publishedAt": "2026-10-07T08:00:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-england-women-williamson_7369657.jpg?20261006132641",
+      "link": "https://www.skysports.com/football/news/12040/13595760/england-women-in-world-cup-2027-play-offs-lionesses-have-obligation-to-prove-themselves-after-spain-disappointment",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50117025,
+      "source": "ESPN",
+      "headline": "Ogden: Haaland will not play in the Championship",
+      "description": "Ogden: Haaland will not play in the Championship",
+      "publishedAt": "2026-10-07T07:50:31Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Norway"
+      ]
+    },
+    {
+      "id": 50122935,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: PSG eye Man City midfielder Cherki amid Premier League charges",
+      "description": "Paris Saint-Germain are monitoring Manchester City attacking midfielder Rayan Cherki. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-07T07:21:15Z",
+      "image": "https://a.espncdn.com/photo/2026/0911/r1714809_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Paris Saint-Germain"
+      ]
+    },
+    {
+      "id": "8cb2e0a985d4f585e7b81c0464687b08",
+      "source": "Sky Sports",
+      "headline": "Kane sums up England legacy on special night - but can he make final step?",
       "description": "Some things are inevitable in life. Harry Kane delivering for England is always one of those inevitabilities. On his momentous, milestone match, he stuck to the script perfectly.",
       "publishedAt": "2026-10-06T21:41:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-kane-england_7370090.jpg?20261006225617",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-england_7370153.jpg?20261007064514",
       "link": "https://www.skysports.com/football/news/12040/13595959/harry-kane-breaks-england-appearance-record-but-can-he-take-that-final-step-to-complete-his-career",
       "tag": "News Story",
       "teams": []
@@ -75,77 +179,6 @@
         "Real Madrid",
         "Juventus",
         "Al Nassr"
-      ]
-    },
-    {
-      "id": "27d7e2a721120b9c47438e84772e44d9",
-      "source": "Sky Sports",
-      "headline": "Who are the winners and losers of England's international break?",
-      "description": "It's been a long international break for England. But it could be a pivotal one in Thomas Tuchel's thinking.",
-      "publishedAt": "2026-10-06T20:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-england-winners-losers_7368872.jpg?20261005142959",
-      "link": "https://www.skysports.com/football/news/12040/13595349/england-winners-and-losers-who-impressed-and-who-is-sweating-over-their-three-lions-spot-after-four-game-international-break",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "bff6e91bcbbfc3b544cccce4b153e716",
-      "source": "Sky Sports",
-      "headline": "Ronaldo breaks silence over Portugal walkout in extraordinary statement",
-      "description": "Cristiano Ronaldo has broken his silence over his Portugal walkout in a lengthy statement in which he says he is not retiring from the national team.",
-      "publishedAt": "2026-10-06T19:07:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
-      "link": "https://www.skysports.com/football/news/12040/13595921/cristiano-ronaldo-portugal-star-breaks-silence-over-national-team-walkout-in-statement",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "e1b18039029dd875bb6e9a4f10c31410",
-      "source": "Sky Sports",
-      "headline": "O'Neill confirms decision to stay on as Celtic boss",
-      "description": "Martin O'Neill has confirmed his decision to stay on as Celtic manager after reflecting on his future over the international break.",
-      "publishedAt": "2026-10-06T17:36:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-celtic-martin-o-neill_7369953.jpg?20261006185759",
-      "link": "https://www.skysports.com/football/news/12040/13595897/celtic-boss-martin-oneill-confirms-decision-to-stay-after-reflecting-on-future-over-international-break",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 50117156,
-      "source": "ESPN",
-      "headline": "Manchester City charges: Features, explainers, what's next after guilty verdict",
-      "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
-      "publishedAt": "2026-10-06T17:14:58Z",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "dd778bedd44bc0ffa766e2b4e79c4148",
-      "source": "Sky Sports",
-      "headline": "UEFA monitoring Man City case as it considers potential action",
-      "description": "UEFA is monitoring developments and will wait until the end of the Premier League's disciplinary process before deciding whether to take any potential action against Manchester City.",
-      "publishedAt": "2026-10-06T15:00:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-man-city-manchester-city_7369861.jpg?20261006164624",
-      "link": "https://www.skysports.com/football/news/12040/13595795/man-city-charges-uefa-monitoring-premier-league-clubs-case-as-it-considers-potential-action",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 50117025,
-      "source": "ESPN",
-      "headline": "Ogden: Haaland will not be at Manchester City next season",
-      "description": "Ogden: Haaland will not be at Manchester City next season",
-      "publishedAt": "2026-10-06T14:48:36Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-manchester-city-next-season",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Norway"
       ]
     },
     {
@@ -433,86 +466,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 50083306,
-      "source": "ESPN",
-      "headline": "FA: Man City verdict has 'significant implications for integrity of game'",
-      "description": "The Football Association expressed its concern that the guilty charge aimed at Manchester City over the Premier League's financial rules stains the \"integrity\" of the game.",
-      "publishedAt": "2026-10-02T11:17:31Z",
-      "image": "https://a.espncdn.com/photo/2023/0210/r1129437_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50083306/fa-man-city-verdict-significant-implications-integrity-game",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50058849,
-      "source": "ESPN",
-      "headline": "Ranking the top 10 Premier League summer transfers so far",
-      "description": "Which players have impressed since making a move over the summer? Sometimes a £17 million arrival does better than a £117 million one.",
-      "publishedAt": "2026-10-02T10:40:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723444_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50058849/ranking-premier-league-summer-transfers-far-no1-surprise-you",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Arsenal",
-        "Manchester City",
-        "Chelsea",
-        "Leeds United",
-        "Aston Villa",
-        "Brentford",
-        "Brighton & Hove Albion",
-        "Hull City"
-      ]
-    },
-    {
-      "id": 50083305,
-      "source": "ESPN",
-      "headline": "Sir Alex Ferguson was 'terrified' about Old Trafford return after brain surgery",
-      "description": "Sir Alex Ferguson has revealed he was \"terrified\" when returning to Old Trafford for the first time following brain surgery in 2018.",
-      "publishedAt": "2026-10-02T08:55:39Z",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724845_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50083305/sir-alex-ferguson-man-united-old-trafford-return",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 49867974,
-      "source": "ESPN",
-      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
-      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
-      "publishedAt": "2026-10-02T08:49:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
-      "tag": "Bayern Munich",
-      "teams": [
-        "Bayern Munich",
-        "Paris Saint-Germain",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": 50078680,
-      "source": "ESPN",
-      "headline": "How Man City players, staff are handling Premier League verdict",
-      "description": "As the reaction to Man City's guilty verdict continues to ripple across the sporting world, the club's internal messaging is very much one of confidence and carrying on. That may be easier said than done.",
-      "publishedAt": "2026-10-02T00:25:31Z",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724656_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50078680/how-man-city-players-staff-handling-premier-league-verdict",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-07T05:54:10.772Z"
+    "cachedAt": "2026-10-07T13:16:50.752Z"
   }
 }
