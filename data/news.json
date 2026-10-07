@@ -2,24 +2,116 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50128076,
+      "source": "ESPN",
+      "headline": "How hostile will Man City's reception be at Anfield?",
+      "description": "How hostile will Man City's reception be at Anfield?",
+      "publishedAt": "2026-10-07T22:26:04Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_COM_SOC_ANALYSIS_How_hostile_will_Man_Citys_reception_be_at_Anfield_2026_10_7/dm_261007_COM_SOC_ANALYSIS_How_hostile_will_Man_Citys_reception_be_at_Anfield_2026_10_7.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50128076/how-hostile-man-city-reception-anfield",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50122935,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal to sign Mexico's Gilberto Mora?",
+      "description": "Defending Premier League champions Arsenal are reportedly looking to sign Tijuana and Mexico's Gilberto Mora. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-07T21:54:14Z",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727546_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Tijuana",
+        "Mexico"
+      ]
+    },
+    {
+      "id": "8291445385c2f6e353beacb4ea539a04",
+      "source": "Sky Sports",
+      "headline": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
+      "description": "",
+      "publishedAt": "2026-10-07T19:32:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "c21918238e8ec5586e718a16bee08fd7",
+      "source": "Sky Sports",
+      "headline": "Scot Prem latest: Hibs sign ex-Rangers winger as backroom team revealed",
+      "description": "",
+      "publishedAt": "2026-10-07T19:00:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-matondo-rabbi-hibs_7370882.jpg?20261007195455",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 50126152,
+      "source": "ESPN",
+      "headline": "Alexander Isak, Cody Gakpo in doubt for Liverpool vs. Man City clash",
+      "description": "Liverpool head coach Andoni Iraola has cast doubt on the chances of Alexander Isak and Cody Gakpo being fit to face Manchester City this weekend.",
+      "publishedAt": "2026-10-07T17:12:11Z",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727425_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50126152/alexander-isak-cody-gakpo-injury-liverpool-man-city",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City",
+        "Netherlands",
+        "Sweden"
+      ]
+    },
+    {
+      "id": 50110195,
+      "source": "ESPN",
+      "headline": "Another bad Man United run has Carrick feeling the heat. Should he be?",
+      "description": "Michael Carrick is hardly unique in that he brought hope to Man United, but is he on course to become the latest coach to be fired midseason?",
+      "publishedAt": "2026-10-07T16:40:33Z",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726386_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50110195/manchester-united-managerial-cycle-michael-carrick-feeling-heat-he",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
       "id": 50124324,
       "source": "ESPN",
       "headline": "Tottenham's Mathys Tel equals France under-21 goalscoring record",
       "description": "Mathys Tel will be hoping to take his goal-scoring exploits with France Under-21s over the international break into Tottenham's fight to turn their Premier League season around.",
-      "publishedAt": "2026-10-07T12:12:04Z",
+      "publishedAt": "2026-10-07T16:36:08Z",
       "image": "https://a.espncdn.com/photo/2026/1007/r1727283_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50124324/tottenham-mathys-tel-equals-france-21-goalscoring-record",
       "tag": "Tottenham Hotspur",
       "teams": [
-        "Tottenham Hotspur"
+        "Tottenham Hotspur",
+        "France U21"
       ]
+    },
+    {
+      "id": "58392f5d9e2d6cf2ff3301a223e678ae",
+      "source": "Sky Sports",
+      "headline": "Ex-Spurs, Celtic and Switzerland defender Vega to stand against Infantino",
+      "description": "",
+      "publishedAt": "2026-10-07T16:30:00.000Z",
+      "image": "https://e1.365dm.com/17/01/1920x1080/skysports-ramon-vega-tottenham-premier-league_3868034.jpg?20170111113654",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50004993,
       "source": "ESPN",
       "headline": "Mikel Arteta signs new four-year Arsenal contract",
       "description": "Mikel Arteta has signed a new contract to extend his stay at Arsenal, the Premier League champions confirmed.",
-      "publishedAt": "2026-10-07T11:27:26Z",
+      "publishedAt": "2026-10-07T16:18:52Z",
       "image": "https://a.espncdn.com/photo/2026/1007/r1727273_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50004993/mikel-arteta-signs-new-arsenal-contract",
       "tag": "Arsenal",
@@ -67,17 +159,6 @@
       ]
     },
     {
-      "id": "61017bd5ae6d546f488b5c4cb11612d7",
-      "source": "Sky Sports",
-      "headline": "Why England have an obligation to prove themselves against Greece",
-      "description": "When England were consigned to the World Cup play-offs back in June, it felt like a massive step backwards. How were the European champions not a shoo-in for the next major tournament in the international calendar?",
-      "publishedAt": "2026-10-07T08:00:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-england-women-williamson_7369657.jpg?20261006132641",
-      "link": "https://www.skysports.com/football/news/12040/13595760/england-women-in-world-cup-2027-play-offs-lionesses-have-obligation-to-prove-themselves-after-spain-disappointment",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50117025,
       "source": "ESPN",
       "headline": "Ogden: Haaland will not play in the Championship",
@@ -90,64 +171,6 @@
         "Manchester City",
         "Norway"
       ]
-    },
-    {
-      "id": 50122935,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: PSG eye Man City midfielder Cherki amid Premier League charges",
-      "description": "Paris Saint-Germain are monitoring Manchester City attacking midfielder Rayan Cherki. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-07T07:21:15Z",
-      "image": "https://a.espncdn.com/photo/2026/0911/r1714809_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50122935/transfer-rumors-news-psg-eye-man-city-midfielder-cherki-amid-premier-league-charges",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": "8cb2e0a985d4f585e7b81c0464687b08",
-      "source": "Sky Sports",
-      "headline": "Kane sums up England legacy on special night - but can he make final step?",
-      "description": "Some things are inevitable in life. Harry Kane delivering for England is always one of those inevitabilities. On his momentous, milestone match, he stuck to the script perfectly.",
-      "publishedAt": "2026-10-06T21:41:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-england_7370153.jpg?20261007064514",
-      "link": "https://www.skysports.com/football/news/12040/13595959/harry-kane-breaks-england-appearance-record-but-can-he-take-that-final-step-to-complete-his-career",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "dd8f54ad0aa97a7b9723d5be9319569b",
-      "source": "Sky Sports",
-      "headline": "Nations League round-up: Merino comes up clutch again for Spain",
-      "description": "",
-      "publishedAt": "2026-10-06T21:25:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-mikel-merino-spain_7370068.jpg?20261006222057",
-      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "185f30a96e92ba873b27a2390ccd78d2",
-      "source": "Sky Sports",
-      "headline": "Papers: Arsenal 'interested' in Paz but bid to sign Como star dealt blow",
-      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "publishedAt": "2026-10-06T20:39:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13595942/arsenal-interested-in-signing-como-star-nico-paz-but-mikel-artetas-hopes-of-landing-creative-midfielder-dealt-blow-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "a876a913fe51c1e263267c8cf2d615cc",
-      "source": "Sky Sports",
-      "headline": "King Kane marks milestone match with star display as England beat Czech Republic",
-      "description": "Harry Kane marked his record-equalling 125th cap with a sensational display as he led England to a 3-0 win over Czech Republic at Wembley.",
-      "publishedAt": "2026-10-06T20:33:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-kane-england_7370037.jpg?20261006210834",
-      "link": "https://www.skysports.com/football/england-vs-czech-republic/report/554078",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 50115213,
@@ -414,32 +437,6 @@
       ]
     },
     {
-      "id": 50084918,
-      "source": "ESPN",
-      "headline": "Erik ten Hag 'was a piece of crap' with Man United squad - Fred",
-      "description": "Former Manchester United midfielder Fred has accused ex-boss Erik ten Hag of being a 'piece of crap' when it came to squad management.",
-      "publishedAt": "2026-10-02T17:37:45Z",
-      "image": "https://a.espncdn.com/photo/2025/1209/r1587068_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50084918/erik-ten-hag-was-piece-c**p-group-former-manchester-united-midfielder-fred",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 50084463,
-      "source": "ESPN",
-      "headline": "Former Man City boss Roberto Mancini: Unconcerned by guilty verdict",
-      "description": "Former Manchester City manager and current Italy coach Roberto Mancini says he is unconcerned about being implicated in the financial rule-breaking scandal engulfing the English club, which on Friday said it was appealing the verdict.",
-      "publishedAt": "2026-10-02T17:10:45Z",
-      "image": "https://a.espncdn.com/photo/2026/0925/r1721833_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50084463/former-man-city-manager-roberto-mancini-not-concerned-charges",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50085283,
       "source": "ESPN",
       "headline": "Tuchel: Man City charges are a big topic in England camp",
@@ -453,24 +450,11 @@
         "England",
         "Manchester City"
       ]
-    },
-    {
-      "id": 50083711,
-      "source": "ESPN",
-      "headline": "Man City appeal guilty verdict in Premier League breaches case",
-      "description": "Manchester City have confirmed the club have lodged a \"comprehensive appeal\" after being found guilty of breaching the Premier League's financial rules.",
-      "publishedAt": "2026-10-02T13:28:41Z",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724873_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50083711/man-city-financial-breaches-appeal-guilty-verdict-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-07T13:16:50.752Z"
+    "cachedAt": "2026-10-07T23:02:53.685Z"
   }
 }
