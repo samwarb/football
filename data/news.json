@@ -31,6 +31,17 @@
       ]
     },
     {
+      "id": "1f4698fec36e6ca2d030227c0a6a214b",
+      "source": "Sky Sports",
+      "headline": "Papers: Arteta becomes Premier League's highest-paid boss on £20m-a-year",
+      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "publishedAt": "2026-10-07T21:46:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13596325/arsenal-manager-mikel-arteta-becomes-premier-leagues-highest-paid-boss-on-20m-a-year-new-contract-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": "8291445385c2f6e353beacb4ea539a04",
       "source": "Sky Sports",
       "headline": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
@@ -455,6 +466,6 @@
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-07T23:02:53.685Z"
+    "cachedAt": "2026-10-08T05:58:05.598Z"
   }
 }
