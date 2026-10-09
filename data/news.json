@@ -2,14 +2,198 @@
   "season": "2025-2026",
   "articles": [
     {
-      "id": "1dd7753ca0d2ac55b987fdf211eab4c5",
+      "id": 50126359,
+      "source": "ESPN",
+      "headline": "Was epic Man City-Liverpool rivalry all a sham after cheating scandal?",
+      "description": "Under Jürgen Klopp and Pep Guardiola, Liverpool and Man City pushed the Premier League's standards higher than ever. But was it all a sham?",
+      "publishedAt": "2026-10-09T13:00:18Z",
+      "image": "https://a.espncdn.com/photo/2026/1008/r1727969_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50126359/was-epic-man-city-liverpool-rivalry-all-sham-cheating-scandal",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50139759,
+      "source": "ESPN",
+      "headline": "Alexander Isak, Cody Gakpo out of Liverpool vs. Man City - Andoni Iraola",
+      "description": "Alexander Isak and Cody Gakpo are out of Liverpool's match against Manchester City this weekend due to injury, Andoni Iraola confirmed.",
+      "publishedAt": "2026-10-09T12:52:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0414/r1643606_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50139759/alexander-isak-cody-gakpo-liverpool-vs-man-city-andoni-iraola",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50138434,
+      "source": "ESPN",
+      "headline": "Man City charges LIVE reaction: Latest updates as Arteta, Carrick, Iraola, Maresca speak",
+      "description": "The Premier League is back for its first weekend of fixtures since Manchester City were found guilty of breaching its financial rules, a verdict they are appealing.",
+      "publishedAt": "2026-10-09T12:17:50Z",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728191_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50138434/man-city-charges-live-reaction-latest-updates-arteta-carrick-iraola-maresca-speak",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50139079,
+      "source": "ESPN",
+      "headline": "UEFA member nations call FIFA's international break a 'disaster'",
+      "description": "European soccer federations told UEFA they are not happy with the new extended four-game blocks of international matches that finished this week.",
+      "publishedAt": "2026-10-09T11:14:49Z",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1691959_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50139079/uefa-member-nations-call-fifa-international-break-disaster",
+      "tag": "Norway",
+      "teams": [
+        "Norway",
+        "Borussia Dortmund"
+      ]
+    },
+    {
+      "id": 50139097,
+      "source": "ESPN",
+      "headline": "Maresca: The guilty verdict wouldn't have stopped me joining Man City",
+      "description": "Maresca: The guilty verdict wouldn't have stopped me joining Man City",
+      "publishedAt": "2026-10-09T10:55:50Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_PRESSER_Maresca_The_guilty_verdict_wouldnt_have_stopped_me_joining_Man_City_2026_10_9/dm_261009_COM_SOC_PRESSER_Maresca_The_guilty_verdict_wouldnt_have_stopped_me_joining_Man_City_2026_10_9.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50139097/guilty-verdict-stopped-joining-man-city",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50138770,
+      "source": "ESPN",
+      "headline": "Enzo Maresca: Man City titles not tainted by guilty verdict",
+      "description": "Enzo Maresca has said he would still have joined Manchester City as manager if he had known the club had been found guilty of breaching financial rules.",
+      "publishedAt": "2026-10-09T10:53:14Z",
+      "image": "https://a.espncdn.com/photo/2026/0905/r1711867_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50138770/enzo-maresca-joined-man-city-even-knew-guilty-verdict",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50139024,
+      "source": "ESPN",
+      "headline": "Maresca: I completely trust the Man City board",
+      "description": "Maresca: I completely trust the Man City board",
+      "publishedAt": "2026-10-09T10:36:39Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_PRESSER_Maresca_I_completely_trust_the_Man_City_board_2026_10_9/dm_261009_COM_SOC_PRESSER_Maresca_I_completely_trust_the_Man_City_board_2026_10_9.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50139024/completely-trust-man-city-board",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50138814,
+      "source": "ESPN",
+      "headline": "Vincent Kompany 'proud' of Man City achievements despite guilty verdict over Premier League breaches",
+      "description": "Former Manchester City captain Vincent Kompany said he remains \"proud\" of the club's achievements during his time there despite the club being found guilty of more than 100 breaches of Premier League financial rules.",
+      "publishedAt": "2026-10-09T09:30:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1721984_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50138814/vincent-kompany-proud-man-city-achievements-guilty-verdict-premier-league-breaches",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": "2224d607b70ffabce38fee62215a6988",
       "source": "Sky Sports",
-      "headline": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
-      "description": "The top stories and transfer rumours from Friday's newspapers...",
-      "publishedAt": "2026-10-08T21:30:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13596653/jj-gabriel-manchester-united-could-be-forced-to-accept-small-fee-for-wantaway-teen-paper-talk",
+      "headline": "Everton latest: Why are owners putting the club up for sale so quickly?",
+      "description": "",
+      "publishedAt": "2026-10-09T08:30:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 50138355,
+      "source": "ESPN",
+      "headline": "Everton put up for sale by Friedkin Group",
+      "description": "Everton's owners are exploring \"the potential sale of a controlling interest\" in the club.",
+      "publishedAt": "2026-10-09T08:21:53Z",
+      "image": "https://a.espncdn.com/photo/2023/0915/r1224694_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50138355/everton-put-sale-friedkin-group",
+      "tag": "Everton",
+      "teams": [
+        "Everton"
+      ]
+    },
+    {
+      "id": 50134447,
+      "source": "ESPN",
+      "headline": "Premier League reranked: Have we found Arsenal's fatal flaw?",
+      "description": "Let's rank all 20 Premier League teams again: making sense of Chelsea's poor start, Arsenal's weakness, and whether Hull City can survive.",
+      "publishedAt": "2026-10-09T07:58:23Z",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728081_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50134447/premier-league-reranked-all-20-teams-arsenal-fatal-flaw-chelsea-bad",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Chelsea",
+        "Manchester City",
+        "Aston Villa",
+        "Everton",
+        "AFC Bournemouth",
+        "Tottenham Hotspur",
+        "Brentford",
+        "Nottingham Forest",
+        "Fulham",
+        "Brighton & Hove Albion",
+        "Newcastle United",
+        "Crystal Palace",
+        "Leeds United",
+        "Sunderland"
+      ]
+    },
+    {
+      "id": "f7ba8910bc062d511239f189a2f4c016",
+      "source": "Sky Sports",
+      "headline": "Everton owners considering club sale",
+      "description": "The Friedkin Group are considering the potential sale of Everton Football Club - saying \"the time is right\" for the next chapter.",
+      "publishedAt": "2026-10-09T07:38:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-everton-sale_7371820.jpg?20261009085610",
+      "link": "https://www.skysports.com/football/news/12040/13596740/everton-up-for-sale-friedkin-group-considering-new-investment-options-including-the-potential-sale-of-controlling-stake",
       "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "0919192c2b068b034daaada5047a4b6f",
+      "source": "Sky Sports",
+      "headline": "How Glasner turned McAtee into his new Wharton",
+      "description": "When Oliver Glasner moved to Nottingham Forest after departing Crystal Palace, he tasked himself with replicating the 3-4-2-1 system that worked so well at Selhurst Park.",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-mcatee-glasner_7369629.jpg?20261006124242",
+      "link": "https://www.skysports.com/football/news/12040/13595467/james-mcatee-how-oliver-glasner-has-transformed-nottingham-forest-midfielder-from-forgotten-man-to-his-new-adam-wharton",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "71fccaa216b760f18bba86764832b9d4",
+      "source": "Sky Sports",
+      "headline": "West Ham latest: Nuno named September's Manager of the Month",
+      "description": "",
+      "publishedAt": "2026-10-09T06:00:00.000Z",
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "tag": "Liveblog",
       "teams": []
     },
     {
@@ -94,17 +278,6 @@
       ]
     },
     {
-      "id": "f1cfa26f783666a951cf4c8e5e5d089d",
-      "source": "Sky Sports",
-      "headline": "Chelsea latest: Caicedo features in friendly as midfielder steps up recovery",
-      "description": "",
-      "publishedAt": "2026-10-08T19:00:00.000Z",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 50133420,
       "source": "ESPN",
       "headline": "Erling Haaland calls on Man City to 'stay positive' amid Premier League charges case",
@@ -155,28 +328,6 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": "d2907c426f8be2a2233d846d481aefc2",
-      "source": "Sky Sports",
-      "headline": "'Stick together, enjoy the ride and smile' - Haaland's message to Man City fans",
-      "description": "\"Stick together, enjoy the ride and smile,\" is Erling Haaland's message to Man City fans.",
-      "publishedAt": "2026-10-08T15:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-haaland-erling-manchester_7371345.png?20261008144610",
-      "link": "https://www.skysports.com/football/news/12040/13596522/man-city-charges-erling-haaland-encourages-clubs-fans-to-stay-positive-after-guilty-verdict",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "513904504a45dcc704d7cc2fa9c9ebc9",
-      "source": "Sky Sports",
-      "headline": "Southampton boss Eckert welcomes 'clarity' after Spygate suspended FA ban",
-      "description": "Southampton head coach Tonda Eckert says he welcomes the \"clarity\" provided by his suspended FA ban, admitting the Spygate saga has \"changed my life\" after more than four months of uncertainty.",
-      "publishedAt": "2026-10-08T14:30:00.000Z",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-eckert-southampton_7241771.jpg?20260507202456",
-      "link": "https://www.skysports.com/football/news/12040/13596516/spygate-southampton-boss-tonda-eckert-welcomes-clarity-after-suspended-fa-ban-over-scandal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50132726,
@@ -331,155 +482,11 @@
         "Netherlands",
         "Sweden"
       ]
-    },
-    {
-      "id": 50124324,
-      "source": "ESPN",
-      "headline": "Tottenham's Mathys Tel equals France under-21 goalscoring record",
-      "description": "Mathys Tel will be hoping to take his goal-scoring exploits with France Under-21s over the international break into Tottenham's fight to turn their Premier League season around.",
-      "publishedAt": "2026-10-07T16:36:08Z",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727283_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50124324/tottenham-mathys-tel-equals-france-21-goalscoring-record",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "France U21"
-      ]
-    },
-    {
-      "id": 50004993,
-      "source": "ESPN",
-      "headline": "Mikel Arteta signs new four-year Arsenal contract",
-      "description": "Mikel Arteta has signed a new contract to extend his stay at Arsenal, the Premier League champions confirmed.",
-      "publishedAt": "2026-10-07T16:18:52Z",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727273_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50004993/mikel-arteta-signs-new-arsenal-contract",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 50109049,
-      "source": "ESPN",
-      "headline": "We don't get Man City guilty verdict without hacker Rui Pinto, but it doesn't make him a hero",
-      "description": "The Manchester City case, which has rocked English football to its core, wouldn't have been possible without Football Leaks and its founder, Rui Pinto. However, he is a complicated figure, with light and dark to his actions.",
-      "publishedAt": "2026-10-07T11:06:46Z",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727269_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50109049/manchester-city-premier-league-charges-rui-pinto-football-leaks-gab-marcotti",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50123758,
-      "source": "ESPN",
-      "headline": "Man City glory can't be taken from players - Kyle Walker",
-      "description": "Manchester City's glory years cannot be taken away from the players, according to former captain Kyle Walker.",
-      "publishedAt": "2026-10-07T09:42:10Z",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727251_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50123758/man-city-glory-taken-players-kyle-walker",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50117025,
-      "source": "ESPN",
-      "headline": "Ogden: Haaland will not play in the Championship",
-      "description": "Ogden: Haaland will not play in the Championship",
-      "publishedAt": "2026-10-07T07:50:31Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season/dm_261006_Ogden_Haaland_will_not_be_at_Manchester_City_next_season.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50117025/haaland-not-play-championship",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Norway"
-      ]
-    },
-    {
-      "id": 50115213,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Atleti, Juve eye loan move for Arsenal's Madueke",
-      "description": "Could Noni Madueke depart Arsenal for a move to either Spain or Italy? Transfer Talk has the latest.",
-      "publishedAt": "2026-10-06T20:30:24Z",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726964_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Atlético Madrid",
-        "Juventus"
-      ]
-    },
-    {
-      "id": 50075485,
-      "source": "ESPN",
-      "headline": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
-      "description": "Cristiano Ronaldo walked out of the Portugal national team's camp after being benched. It is far from the first high-profile row of his two decades at the top.",
-      "publishedAt": "2026-10-06T20:21:46Z",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-      "tag": "Portugal",
-      "teams": [
-        "Portugal",
-        "Manchester United",
-        "Real Madrid",
-        "Juventus",
-        "Al Nassr"
-      ]
-    },
-    {
-      "id": 50116481,
-      "source": "ESPN",
-      "headline": "Viktor Gyökeres to make Arsenal return after goal-laden stint with Sweden",
-      "description": "Viktor Gyökeres will return to Arsenal in confident mood after setting a new Nations League record with four more goals for Sweden over the international break.",
-      "publishedAt": "2026-10-06T13:48:19Z",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726793_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50116481/viktor-gyokeres-make-arsenal-return-goal-laden-stint-sweden",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Sweden"
-      ]
-    },
-    {
-      "id": 50116134,
-      "source": "ESPN",
-      "headline": "Liverpool sweating over Jeremy Jacquet fitness ahead of Man City clash",
-      "description": "Liverpool are waiting to discover the extent of Jeremy Jacquet's fitness issue after the centre-back was left out of France's Nations League win over Belgium.",
-      "publishedAt": "2026-10-06T12:15:01Z",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726765_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50116134/liverpool-jeremy-jacquet-france-nations-league-man-city-premier-league",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "France"
-      ]
-    },
-    {
-      "id": 50113281,
-      "source": "ESPN",
-      "headline": "Man City mock draft: How Premier League teams could pick in hypothetical punishment",
-      "description": "Now that Manchester City have been found to have cheated on a huge scale, anything is on the table -- maybe even an American-style Premier League draft?",
-      "publishedAt": "2026-10-06T10:29:56Z",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726637_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50113281/man-city-mock-draft-premier-league-team-picks-hypothetical-cheating-punishment",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United",
-        "Liverpool",
-        "Tottenham Hotspur",
-        "Arsenal"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-09T06:03:59.713Z"
+    "cachedAt": "2026-10-09T13:11:35.750Z"
   }
 }

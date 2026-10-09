@@ -35,13 +35,13 @@
       "Sky Sports Premier League"
     ],
     "bournemouth|sunderland": [
-      "Sky Sports TBC"
+      "Sky Sports+"
     ],
     "brighton and hove albion|crystal palace": [
-      "Sky Sports TBC"
+      "Sky Sports Premier League"
     ],
     "leeds united|manchester united": [
-      "Sky Sports TBC"
+      "Sky Sports Main Event"
     ],
     "nottingham forest|arsenal": [
       "Sky Sports Main Event",
@@ -291,6 +291,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-09T06:03:59.917Z"
+    "cachedAt": "2026-10-09T13:11:35.605Z"
   }
 }
