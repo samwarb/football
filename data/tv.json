@@ -65,16 +65,16 @@
       "Sky Sports Premier League"
     ],
     "crystal palace|newcastle united": [
-      "Sky Sports TBC"
+      "Sky Sports+"
     ],
     "hull city|brentford": [
-      "Sky Sports TBC"
+      "Sky Sports Golf"
     ],
     "liverpool|brighton and hove albion": [
-      "Sky Sports TBC"
+      "Sky Sports Premier League"
     ],
     "manchester united|bournemouth": [
-      "Sky Sports TBC"
+      "Sky Sports Main Event"
     ],
     "sunderland|leeds united": [
       "Sky Sports Main Event",
@@ -174,7 +174,7 @@
       "Sky Sports+"
     ],
     "sunderland|tottenham hotspur": [
-      "Sky Sports TBC"
+      "Sky Sports Main Event"
     ],
     "arsenal|manchester city": [
       "Sky Sports Main Event",
@@ -206,34 +206,34 @@
       "Sky Sports Premier League"
     ],
     "hull city|leeds united": [
-      "Sky Sports TBC"
+      "Sky Sports+"
     ],
     "tottenham hotspur|brighton and hove albion": [
-      "Sky Sports TBC"
+      "Sky Sports Main Event"
     ],
     "everton|manchester city": [
-      "Sky Sports TBC"
+      "Sky Sports Premier League"
     ],
     "coventry city|brentford": [
-      "Sky Sports TBC"
+      "Sky Sports Tennis"
     ],
     "crystal palace|bournemouth": [
-      "Sky Sports TBC"
+      "Sky Sports Golf"
     ],
     "fulham|arsenal": [
-      "Sky Sports TBC"
+      "Sky Sports Main Event"
     ],
     "manchester united|sunderland": [
-      "Sky Sports TBC"
+      "Sky Sports Premier League"
     ],
     "newcastle united|nottingham forest": [
-      "Sky Sports TBC"
+      "Sky Sports Cricket"
     ],
     "aston villa|liverpool": [
-      "Sky Sports TBC"
+      "Sky Sports Football"
     ],
     "ipswich town|chelsea": [
-      "Sky Sports TBC"
+      "Sky Sports+"
     ],
     "leeds united|everton": [
       "Sky Sports Main Event",
@@ -291,6 +291,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-09T13:11:35.605Z"
+    "cachedAt": "2026-10-09T22:35:21.299Z"
   }
 }
