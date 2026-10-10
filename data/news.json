@@ -2,6 +2,19 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50143205,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+      "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+      "publishedAt": "2026-10-09T22:56:55Z",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur"
+      ]
+    },
+    {
       "id": 50143021,
       "source": "ESPN",
       "headline": "Arsenal 'very lucky' Mikel Arteta signed new deal, he is the 'best' - Declan Rice",
@@ -84,6 +97,50 @@
         "Manchester United",
         "Slovenia"
       ]
+    },
+    {
+      "id": "fc09a41c102fbdc1f2f881bb3f73f382",
+      "source": "Sky Sports",
+      "headline": "Papers: Man Utd forced into transfer market in January?",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "publishedAt": "2026-10-09T21:30:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "22ee93db3b69c6bdf9b23d1693770d28",
+      "source": "Sky Sports",
+      "headline": "Arteta says conscience clear over time at Man City",
+      "description": "Mikel Arteta has said he has a clear conscience over his former club Manchester City's serious breaches of financial rules.",
+      "publishedAt": "2026-10-09T21:30:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-mikel-arteta-arsenal_7372319.jpg?20261009162603",
+      "link": "https://www.skysports.com/football/news/12040/13596973/man-city-charges-arsenal-boss-mikel-arteta-says-he-has-clear-conscience-over-his-time-at-etihad-after-serious-breaches-of-financial-rules",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "cc4a4a66858c4124a0658a7b1e18be85",
+      "source": "Sky Sports",
+      "headline": "Bowen's late penalty saved as West Ham held by QPR",
+      "description": "Jarrod Bowen saw his 91st-minute penalty saved as West Ham missed the chance to move top of the Sky Bet Championship after a 1-1 draw with QPR.",
+      "publishedAt": "2026-10-09T21:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-west-ham-qpr_7372542.jpg?20261009220148",
+      "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/report/560605",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "3a498a037d92b5a993bbcc7875e90446",
+      "source": "Sky Sports",
+      "headline": "INCREDIBLE! QPR's Charles saves stoppage-time Bowen pen AND rebound!",
+      "description": "Pierce Charles was the QPR hero as he helped them secure a point away to West Ham by saving a last-minute penalty and the rebound.",
+      "publishedAt": "2026-10-09T20:56:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-qpr-charles_7372543.jpg?20261009220256",
+      "link": "https://www.skysports.com/watch/video/13597075/west-ham-vs-qpr-charles-the-hero-as-he-saves-bowens-penalty-and-the-rebound",
+      "tag": "Video",
+      "teams": []
     },
     {
       "id": "b249508639383fb227960b1dea2ffe81",
@@ -228,17 +285,6 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": "5491a89ff1a0680c99ca617a60b446b9",
-      "source": "Sky Sports",
-      "headline": "Bowen fires West Ham level against QPR LIVE!",
-      "description": "",
-      "publishedAt": "2026-10-09T17:00:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jarrod-bowen-west-ham_7372523.jpg?20261009213856",
-      "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/live/560605",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 50140918,
@@ -447,24 +493,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 50134874,
-      "source": "ESPN",
-      "headline": "UK PM Burnham denies downplaying seriousness of Man City findings",
-      "description": "UK PM Burnham denies downplaying seriousness of Man City findings",
-      "publishedAt": "2026-10-08T20:12:55Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_UK_PM_Burnham_denies_downplaying_seriousness_of_Man_City_findings/dm_261008_UK_PM_Burnham_denies_downplaying_seriousness_of_Man_City_findings.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50134874/uk-pm-burnham-denies-downplaying-seriousness-man-city-findings",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-09T22:35:21.089Z"
+    "cachedAt": "2026-10-10T05:47:15.032Z"
   }
 }
