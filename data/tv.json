@@ -2,15 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "arsenal|leeds united": [
-      "TNT Sports 1",
-      "TNT Sports Ultimate",
-      "HBO Max"
-    ],
-    "manchester united|tottenham hotspur": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "crystal palace|nottingham forest": [
       "Sky Sports Main Event"
     ],
@@ -291,6 +282,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-10T12:26:28.138Z"
+    "cachedAt": "2026-10-10T21:39:25.877Z"
   }
 }

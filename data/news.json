@@ -2,17 +2,416 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50150532,
+      "source": "ESPN",
+      "headline": "Roberto De Zerbi: I 'kissed' Rodrigo Bentancur after red card, the 'character' that Spurs need",
+      "description": "Tottenham Hotspur boss Roberto De Zerbi has revealed that he \"kissed\" Rodrigo Bentancur after his red card against Manchester United on Saturday, saying that his Spurs team need this type of \"reaction.\"",
+      "publishedAt": "2026-10-10T20:50:23Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728855_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50150532/roberto-de-zerbi-kissed-rodrigo-bentancur-red-card-character-spurs-need",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50149326,
+      "source": "ESPN",
+      "headline": "Michael Carrick 'hurt' by boos as Man United fall to worst start in 40 years",
+      "description": "Michael Carrick said the boos at Old Trafford \"hurt\" after the 1-1 draw with Tottenham condemned Manchester United to their worst start to a season for 40 years.",
+      "publishedAt": "2026-10-10T20:29:12Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728846_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50149326/man-united-tottenham-dominic-solanke-bryan-mbeumo-premier-league-result",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50150251,
+      "source": "ESPN",
+      "headline": "Carrick: We threw away another win today",
+      "description": "Carrick: We threw away another win today",
+      "publishedAt": "2026-10-10T20:22:26Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_COM_SOC_PRESSER_Carrick_We_threw_away_another_win_today_2026_10_10/dm_261010_COM_SOC_PRESSER_Carrick_We_threw_away_another_win_today_2026_10_10.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50150251/threw-away-another-win-today",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50150239,
+      "source": "ESPN",
+      "headline": "Man United should've beaten Spurs. Not doing so shows how much trouble Carrick & Co. are in",
+      "description": "Up a goal and a man after 90 minutes, Man United could only draw 1-1 vs. Spurs, a result that leaves the Red Devils off to their worst start since 1986.",
+      "publishedAt": "2026-10-10T20:21:38Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728845_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50150239/manchester-united-shouldve-beaten-tottenham-not-doing-shows-how-much-trouble-michael-carrick-co-in",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50150189,
+      "source": "ESPN",
+      "headline": "De Zerbi: I thanked Bentancur for sparking Tottenham's reaction",
+      "description": "De Zerbi: I thanked Bentancur for sparking Tottenham's reaction",
+      "publishedAt": "2026-10-10T20:17:16Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_COM_SOC_PRESSER_De_Zerbi_I_thanked_Bentancur_for_sparking_Tottenhams_reaction_2026_10_10/dm_261010_COM_SOC_PRESSER_De_Zerbi_I_thanked_Bentancur_for_sparking_Tottenhams_reaction_2026_10_10.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50150189/thanked-bentancur-sparking-tottenham-reaction",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50149982,
+      "source": "ESPN",
+      "headline": "Unai Emery 'sad' after Aston Villa draw with Brentford",
+      "description": "Aston Villa boss Unai Emery said he was \"sad\" after his side drew 2-2 with Brentford at Villa Park.",
+      "publishedAt": "2026-10-10T20:10:02Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728828_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50149982/unai-emery-sad-aston-villa-draw-brentford",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Brentford"
+      ]
+    },
+    {
+      "id": 50149695,
+      "source": "ESPN",
+      "headline": "Michallik: Man United are still all over the place",
+      "description": "Michallik: Man United are still all over the place",
+      "publishedAt": "2026-10-10T19:19:36Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_COM_SOC_ANALYSIS_Michallik_Man_United_are_still_all_over_the_place_2026_10_10/dm_261010_COM_SOC_ANALYSIS_Michallik_Man_United_are_still_all_over_the_place_2026_10_10.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50149695/man-united-all-place",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50149674,
+      "source": "ESPN",
+      "headline": "Michallik: Tottenham's draw an encouraging performance to build on",
+      "description": "Michallik: Tottenham's draw an encouraging performance to build on",
+      "publishedAt": "2026-10-10T19:19:19Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_COM_SOC_ANALYSIS_Michallik_Tottenhams_draw_an_encouraging_performance_to_build_on_2026_10_10/dm_261010_COM_SOC_ANALYSIS_Michallik_Tottenhams_draw_an_encouraging_performance_to_build_on_2026_10_10.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50149674/tottenham-draw-encouraging-performance-build-on",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50149185,
+      "source": "ESPN",
+      "headline": "Fulham boss Alvaro Arbeloa on Premier League pressure: I don't feel fear, I coached Real Madrid",
+      "description": "Alvaro Arbeloa bristled at suggestions he cannot handle the pressure after Fulham's 2-1 loss at Ipswich extended their winless run in the Premier League to six matches.",
+      "publishedAt": "2026-10-10T18:31:25Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728773_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50149185/fulham-boss-alvaro-arbeloa-premier-league-pressure-feel-fear-coached-real-madrid",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham"
+      ]
+    },
+    {
       "id": 50134675,
       "source": "ESPN",
-      "headline": "Premier League live updates: Defending champs Arsenal host Leeds",
-      "description": "After a three-week international break, club soccer returns! Arsenal will look to bounce back from their first loss of the Premier League season as they host Leeds.",
-      "publishedAt": "2026-10-10T12:13:57Z",
-      "image": "https://a.espncdn.com/photo/2026/1010/r1728595_1296x729_16-9.jpg",
+      "headline": "Premier League recap: Man United, Spurs settle for draw in can't-lose matchup",
+      "description": "Neither Man United nor Spurs could afford to lose their Saturday meeting, and after some back and forth, neither did. Relive the day's action with ESPN.",
+      "publishedAt": "2026-10-10T18:27:07Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728786_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50134675/premier-league-live-updates-arsenal-leeds-united-manchester-united-tottenham",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50148979,
+      "source": "ESPN",
+      "headline": "Xabi Alonso lauds Chelsea hero Jordan Henderson after brace in Bournemouth thrashing",
+      "description": "Xabi Alonso admitted goalscoring was not high on his list of reasons for signing Jordan Henderson after the veteran's two-goal display against Bournemouth.",
+      "publishedAt": "2026-10-10T18:14:39Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728715_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50148979/xabi-alonso-lauds-chelsea-hero-jordan-henderson-brace-bournemouth-thrashing",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 50147861,
+      "source": "ESPN",
+      "headline": "Mikel Arteta says Arsenal got 'identity' back in Leeds win: 'Had a point to prove'",
+      "description": "Mikel Arteta has hailed Arsenal's comeback win against Leeds after admitting his team had a point to prove as they \"identity was questioned\" when losing to Brighton & Hove Albion.",
+      "publishedAt": "2026-10-10T17:58:32Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728675_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50147861/mikel-arteta-says-arsenal-got-identity-back-leeds-win-had-point-prove",
       "tag": "Arsenal",
       "teams": [
         "Arsenal",
         "Leeds United"
+      ]
+    },
+    {
+      "id": 50148842,
+      "source": "ESPN",
+      "headline": "Riccardo Calafiori channels David Beckham with Arsenal goal in England vs. Greece anniversary boots",
+      "description": "Arsenal's Riccardo Calafiori can lay claim to a unique first after his goal against Leeds United at the Emirates on Saturday.",
+      "publishedAt": "2026-10-10T17:23:50Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728760_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50148842/riccardo-calafiori-channels-david-beckham-arsenal-goal-england-vs-greece-anniversary-boots",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50148766,
+      "source": "ESPN",
+      "headline": "'51 years': Man United fans revive Man City 'trophy drought' banner after financial charges verdict",
+      "description": "Manchester United fans reset the clock on their Stretford End 'ticker' on Saturday to make clear their views on how Manchester City should be punished for breaching the Premier League's financial rules.",
+      "publishedAt": "2026-10-10T17:13:03Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728751_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50148766/man-united-fans-mock-man-city-trophy-banner-51-years-financial-charges-verdict-premier-league",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50148441,
+      "source": "ESPN",
+      "headline": "Michallik: Jordan Henderson could be the Granit Xhaka of Chelsea",
+      "description": "Michallik: Jordan Henderson could be the Granit Xhaka of Chelsea",
+      "publishedAt": "2026-10-10T16:26:49Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_Jordan_Henderson_could_be_the_Granit_Xhaka_of_Chelsea/dm_261010_Michallik_Jordan_Henderson_could_be_the_Granit_Xhaka_of_Chelsea.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50148441/jordan-henderson-granit-xhaka-chelsea",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 50148449,
+      "source": "ESPN",
+      "headline": "Michallik: I believe in Xabi Alonso",
+      "description": "Michallik: I believe in Xabi Alonso",
+      "publishedAt": "2026-10-10T16:26:44Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_I_believe_in_Xabi_Alonso/dm_261010_Michallik_I_believe_in_Xabi_Alonso.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50148449/believe-xabi-alonso",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 50148016,
+      "source": "ESPN",
+      "headline": "Arteta: Arsenal 'had a point to prove' in Leeds win",
+      "description": "Arteta: Arsenal 'had a point to prove' in Leeds win",
+      "publishedAt": "2026-10-10T16:26:40Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Arteta_Arsenal_had_a_point_to_prove_in_Leeds_win/dm_261010_Arteta_Arsenal_had_a_point_to_prove_in_Leeds_win.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50148016/arsenal-had-point-prove-leeds-win",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50128005,
+      "source": "ESPN",
+      "headline": "Ipswich score two late goals to claim dramatic victory against Fulham",
+      "description": "Ipswich produced a dramatic turnaround to beat Fulham 2-1 after late goals by Abdoul Ouattara and Dara O'Shea extended Alvaro Arbeloa's winless start to six Premier League matches.",
+      "publishedAt": "2026-10-10T16:21:57Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728716_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879265",
+      "tag": "Ipswich Town",
+      "teams": [
+        "Ipswich Town",
+        "Fulham"
+      ]
+    },
+    {
+      "id": 50128001,
+      "source": "ESPN",
+      "headline": "Brentford stay unbeaten after back-and-forth slugfest with Aston Villa",
+      "description": "Kristoffer Ajer's second-half equaliser ensured Brentford continued their unbeaten start to the Premier League season in an entertaining 2-2 draw at Aston Villa.",
+      "publishedAt": "2026-10-10T16:16:22Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728711_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401878776",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa",
+        "Brentford"
+      ]
+    },
+    {
+      "id": "1bec8476c8291d6a673cae3dc214f797",
+      "source": "Sky Sports",
+      "headline": "Lankshear scores again as Middlesbrough mark 150th anniversary with win",
+      "description": "Middlesbrough celebrated their 150th anniversary game in style as Will Lankshear's second-half header secured a 1-0 victory over Wolves at the Riverside Stadium.",
+      "publishedAt": "2026-10-10T16:15:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-will-lankshear-middlesbrough_7373317.jpg?20261010171105",
+      "link": "https://www.skysports.com/football/middlesbrough-vs-wolverhampton-wanderers/report/560598",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "ead6fa8ee05b8ac723098902db1989f9",
+      "source": "Sky Sports",
+      "headline": "Bamford at the double as Sheff Utd breeze past Lincoln",
+      "description": "Patrick Bamford scored twice to help Sheffield United to a comfortable 3-0 victory over Lincoln.",
+      "publishedAt": "2026-10-10T16:15:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-patrick-bamford-sheffield-united_7373332.jpg?20261010171431",
+      "link": "https://www.skysports.com/football/sheffield-united-vs-lincoln-city/report/560600",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 50128002,
+      "source": "ESPN",
+      "headline": "Jordan Henderson, 36, nets unlikely brace as Chelsea thrash Bournemouth",
+      "description": "Jordan Henderson was the unlikely hero as Chelsea's entertainers blew Bournemouth away in a comprehensive and chaotic 5-1 win at Stamford Bridge.",
+      "publishedAt": "2026-10-10T16:11:39Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728710_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401878775",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "AFC Bournemouth"
+      ]
+    },
+    {
+      "id": 50128007,
+      "source": "ESPN",
+      "headline": "Brighton keep pressure on Man City, Arsenal with 2-0 Sunderland win",
+      "description": "Maxim De Cuyper and Jaouen Hadjam were both on the scoresheet as 10-man Brighton clinched a 2-0 win over Sunderland at the Stadium of Light.",
+      "publishedAt": "2026-10-10T16:10:10Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728713_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401878772",
+      "tag": "Sunderland",
+      "teams": [
+        "Sunderland",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": "ba06ec9b2c99ab32a1a587a4e8df6532",
+      "source": "Sky Sports",
+      "headline": "Brentford still unbeaten after Ajer levels at Villa",
+      "description": "Kristoffer Ajer's equaliser earned a 2-2 draw for Brentford at Aston Villa to maintain their unbeaten start to the Premier League season.",
+      "publishedAt": "2026-10-10T16:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kristoffer-ajer-aaron-hickey_7373312.jpg?20261010170531",
+      "link": "https://www.skysports.com/football/aston-villa-vs-brentford/report/559495",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "13657c08aac88853c433257f2affbe77",
+      "source": "Sky Sports",
+      "headline": "Ipswich late show keeps Fulham winless under Arbeloa",
+      "description": "Fulham remain winless in the Premier League under Alvaro Arbeloa after Ipswich stung them with two late goals in a 2-1 win.",
+      "publishedAt": "2026-10-10T16:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-dara-o-shea-ipswich-town_7373285.jpg?20261010165644",
+      "link": "https://www.skysports.com/football/ipswich-town-vs-fulham/report/559500",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "8484e23101b6ec44a669d43e4ddcd75c",
+      "source": "Sky Sports",
+      "headline": "Henderson stars as Chelsea thrash Bournemouth",
+      "description": "Chelsea thumped Bournemouth 5-1 in a stunning show of their attacking firepower to go fifth in the early Premier League table.",
+      "publishedAt": "2026-10-10T16:00:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jordan-henderson_7373262.jpg?20261010164222",
+      "link": "https://www.skysports.com/football/chelsea-vs-bournemouth/report/559496",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": 50147075,
+      "source": "ESPN",
+      "headline": "Arsenal fight back to win as Premier League resumes under cloud of Man City verdict",
+      "description": "Does Arsenal's comeback win over Leeds close the gap on leaders Man City, or extend their own lead at the top? This is the perpetual uncertainty that hangs over the Premier League now.",
+      "publishedAt": "2026-10-10T15:49:09Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728627_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50147075/arsenal-beat-leeds-premier-league-resumes-cloud-manchester-city-guilty-verdict",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 50147675,
+      "source": "ESPN",
+      "headline": "Michallik: Arsenal's depth and quality give them an edge",
+      "description": "Michallik: Arsenal's depth and quality give them an edge",
+      "publishedAt": "2026-10-10T14:36:11Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_Arsenals_depth_and_quality_give_them_an_edge/dm_261010_Michallik_Arsenals_depth_and_quality_give_them_an_edge.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50147675/arsenal-depth-quality-give-edge",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 50147438,
+      "source": "ESPN",
+      "headline": "Michallik: Arsenal always find a way to win",
+      "description": "Michallik: Arsenal always find a way to win",
+      "publishedAt": "2026-10-10T14:12:20Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_Arsenal_always_find_a_way_to_win/dm_261010_Michallik_Arsenal_always_find_a_way_to_win.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50147438/arsenal-always-find-way-win",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 50145612,
+      "source": "ESPN",
+      "headline": "Man City whistleblower Rui Pinto to remain in witness protection after U-turn from Portuguese authorities",
+      "description": "The Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain in witness protection after authorities in the country suspended the decision to end it",
+      "publishedAt": "2026-10-10T14:09:56Z",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727269_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50145612/manchester-city-rui-pinto-premier-league-115-charges",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50145785,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
+      "description": "Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-10T13:47:47Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Bayern Munich"
       ]
     },
     {
@@ -43,17 +442,6 @@
       ]
     },
     {
-      "id": "1e85ce68aac3fb6287a0e2b5c555abc4",
-      "source": "Sky Sports",
-      "headline": "Havertz starts for Arsenal vs Leeds LIVE!",
-      "description": "",
-      "publishedAt": "2026-10-10T09:30:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-coventry_7327652.jpg?20260821202117",
-      "link": "https://www.skysports.com/football/arsenal-vs-leeds-united/live/559494",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 50145871,
       "source": "ESPN",
       "headline": "Liverpool boss Andoni Iraola offers backing to Bradley Barcola after France performances criticism",
@@ -78,364 +466,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 50145785,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
-      "description": "Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-10T08:40:07Z",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Bayern Munich"
-      ]
-    },
-    {
-      "id": 50026166,
-      "source": "ESPN",
-      "headline": "Premier League injury concerns from the international break",
-      "description": "All the latest news and updates on Premier League stars injuries after the first international break of the 2026-2027 club season",
-      "publishedAt": "2026-10-10T06:33:51Z",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
-      "tag": "Story",
-      "teams": []
-    },
-    {
-      "id": 50143205,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
-      "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
-      "publishedAt": "2026-10-09T22:56:55Z",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 50143021,
-      "source": "ESPN",
-      "headline": "Arsenal 'very lucky' Mikel Arteta signed new deal, he is the 'best' - Declan Rice",
-      "description": "Declan Rice has said that Arsenal are \"very lucky\" to have the \"best\" coach in Mikel Arteta after the Spaniard signed a four-year contract, committing his future at the club.",
-      "publishedAt": "2026-10-09T22:26:00Z",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728425_3_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50143021/arsenal-lucky-best-arteta-signed-deal-rice",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 50143029,
-      "source": "ESPN",
-      "headline": "Burley: Carrick faces added pressure against Spurs",
-      "description": "Burley: Carrick faces added pressure against Spurs",
-      "publishedAt": "2026-10-09T22:13:25Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Burley_Carrick_faces_added_pressure_against_Spurs/dm_261009_Burley_Carrick_faces_added_pressure_against_Spurs.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50143029/carrick-faces-added-pressure-spurs",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 50143007,
-      "source": "ESPN",
-      "headline": "Nicol: Manchester City will 'struggle at Anfield'",
-      "description": "Nicol: Manchester City will 'struggle at Anfield'",
-      "publishedAt": "2026-10-09T22:13:07Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50143007/manchester-city-struggle-anfield",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50142918,
-      "source": "ESPN",
-      "headline": "Arsenal's Mikel Arteta insists conscience is clear over time at Man City",
-      "description": "Arsenal manager Mikel Arteta has insisted his conscience is clear after former club Manchester City were found guilty of breaking Premier League rules.",
-      "publishedAt": "2026-10-09T21:49:41Z",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728428_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50142918/mikel-arteta-man-city-charges-guilty-arsenal",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50138310,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea eye move for Barcelona's De Jong",
-      "description": "Chelsea are reporting looking at signing Frenkie de Jong from Barcelona. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-09T21:34:28Z",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728422_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall",
-      "tag": "Netherlands",
-      "teams": [
-        "Netherlands",
-        "Barcelona",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 50142759,
-      "source": "ESPN",
-      "headline": "Michael Carrick: No timeline for Benjamin Sesko's Man United return",
-      "description": "Michael Carrick has said there is no timeline for Benjamin Sesko's return after the Manchester United striker suffered a second shin injury.",
-      "publishedAt": "2026-10-09T21:30:09Z",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728417_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50142759/man-united-injury-news-benjamin-sesko-michael-carrick",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Slovenia"
-      ]
-    },
-    {
-      "id": "fc09a41c102fbdc1f2f881bb3f73f382",
-      "source": "Sky Sports",
-      "headline": "Papers: Man Utd forced into transfer market in January?",
-      "description": "The top stories and transfer rumours from Saturday's newspapers...",
-      "publishedAt": "2026-10-09T21:30:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": 50140445,
-      "source": "ESPN",
-      "headline": "Arsenal's Mikel Arteta: Premier League still best in the world despite Man City guilty verdict",
-      "description": "Mikel Arteta has said the Premier League is still the best league in the world despite Manchester City's guilty verdict on breaching financial regulations.",
-      "publishedAt": "2026-10-09T17:51:04Z",
-      "image": "https://a.espncdn.com/photo/2026/0322/r1632364_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50140445/arsenal-mikel-arteta-premier-league-best-world-man-city-guilty-verdict",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50139759,
-      "source": "ESPN",
-      "headline": "Alexander Isak, Cody Gakpo out of Liverpool vs. Man City - Andoni Iraola",
-      "description": "Alexander Isak and Cody Gakpo are out of Liverpool's match against Manchester City this weekend due to injury, Andoni Iraola confirmed.",
-      "publishedAt": "2026-10-09T17:48:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0414/r1643606_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50139759/alexander-isak-cody-gakpo-liverpool-vs-man-city-andoni-iraola",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Sweden",
-        "Netherlands"
-      ]
-    },
-    {
-      "id": 50138770,
-      "source": "ESPN",
-      "headline": "Enzo Maresca: Man City titles not tainted by guilty verdict",
-      "description": "Enzo Maresca has said he would still have joined Manchester City as manager if he had known the club had been found guilty of breaching financial rules.",
-      "publishedAt": "2026-10-09T17:39:54Z",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711867_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50138770/enzo-maresca-joined-man-city-even-knew-guilty-verdict",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50140758,
-      "source": "ESPN",
-      "headline": "Dejan Kulusevski, Pedro Porro to travel with Tottenham squad for Man United clash despite injuries",
-      "description": "Dejan Kulusevski will travel with Tottenham to Manchester United on Saturday but he is only set to offer support along with injured defender Pedro Porro.",
-      "publishedAt": "2026-10-09T17:38:44Z",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711398_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50140758/dejan-kulusevski-pedro-porro-travel-tottenham-squad-man-united-clash-injuries",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 50138825,
-      "source": "ESPN",
-      "headline": "Xabi Alonso insists Cole Palmer committed to representing England after Thomas Tuchel dig",
-      "description": "Chelsea manager Xabi Alonso insists Cole Palmer is committed to representing England following question marks raised by national team boss Thomas Tuchel.",
-      "publishedAt": "2026-10-09T17:37:12Z",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694613_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50138825/xabi-alonso-insists-cole-palmer-committed-representing-england-thomas-tuchel-dig",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "England"
-      ]
-    },
-    {
-      "id": 50141636,
-      "source": "ESPN",
-      "headline": "Carrick: 'Essential' that Man City charges are resolved quickly",
-      "description": "Carrick: 'Essential' that Man City charges are resolved quickly",
-      "publishedAt": "2026-10-09T17:37:08Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Carrick_Essential_that_Man_City_charges_are_resolved_quickly/dm_261009_Carrick_Essential_that_Man_City_charges_are_resolved_quickly.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50141636/essential-man-city-charges-resolved-quickly",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 50140918,
-      "source": "ESPN",
-      "headline": "Kompany: I still have great memories of my time at Man City despite PL charges",
-      "description": "Kompany: I still have great memories of my time at Man City despite PL charges",
-      "publishedAt": "2026-10-09T15:35:26Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_Presser_Kompany3A_I_still_have_great_memories_of_my_time_at_Man_City_despite_PL_charges_GLO/dm_261009_COM_SOC_Presser_Kompany3A_I_still_have_great_memories_of_my_time_at_Man_City_despite_PL_charges_GLO.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50140918/great-memories-my-man-city-pl-charges",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50140875,
-      "source": "ESPN",
-      "headline": "Carrick: Calm about our progress, but pushing for more",
-      "description": "Carrick: Calm about our progress, but pushing for more",
-      "publishedAt": "2026-10-09T15:31:37Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_PRESSER_Carrick_Calm_about_our_progress_but_pushing_for_more_2026_10_9/dm_261009_COM_SOC_PRESSER_Carrick_Calm_about_our_progress_but_pushing_for_more_2026_10_9.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50140875/calm-our-progress-pushing-more",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 50140862,
-      "source": "ESPN",
-      "headline": "Arteta: I'm still evolving as a coach",
-      "description": "Arteta: I'm still evolving as a coach",
-      "publishedAt": "2026-10-09T15:30:47Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_ANALYSIS_Arteta_Im_still_evolving_as_a_coach_2026_10_9/dm_261009_COM_SOC_ANALYSIS_Arteta_Im_still_evolving_as_a_coach_2026_10_9.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50140862/evolving-coach",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 50140767,
-      "source": "ESPN",
-      "headline": "Alonso: We need to be patient over Manchester City guilty verdicts",
-      "description": "Alonso: We need to be patient over Manchester City guilty verdicts",
-      "publishedAt": "2026-10-09T15:21:04Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Alonso_We_need_to_be_patient_over_Manchester_City_guilty_verdicts/dm_261009_Alonso_We_need_to_be_patient_over_Manchester_City_guilty_verdicts.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50140767/need-patient-manchester-city-guilty-verdicts",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50140154,
-      "source": "ESPN",
-      "headline": "Iraola bemoans the 'uncertainty' surrounding Manchester City situation",
-      "description": "Iraola bemoans the 'uncertainty' surrounding Manchester City situation",
-      "publishedAt": "2026-10-09T13:38:27Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_Presser_Iraola_bemoans_the_uncertainty_surrounding_Manchester_City_situation_GLOBAL_2026/dm_261009_COM_SOC_Presser_Iraola_bemoans_the_uncertainty_surrounding_Manchester_City_situation_GLOBAL_2026.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50140154/iraola-bemoans-uncertainty-surrounding-manchester-city-situation",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50138434,
-      "source": "ESPN",
-      "headline": "Man City charges LIVE reaction: Latest updates as Arteta, Carrick, Iraola, Maresca speak",
-      "description": "The Premier League is back for its first weekend of fixtures since Manchester City were found guilty of breaching its financial rules, a verdict they are appealing.",
-      "publishedAt": "2026-10-09T13:27:50Z",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728191_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50138434/man-city-charges-live-reaction-latest-updates-arteta-carrick-iraola-maresca-speak",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50139971,
-      "source": "ESPN",
-      "headline": "Iraola: Isak and Gakpo are unavailable to play vs. Man City",
-      "description": "Iraola: Isak and Gakpo are ruled out to play vs. Man City",
-      "publishedAt": "2026-10-09T13:21:23Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_Presser_Iraola3A_Isak_and_Gakpo_are_ruled_out_to_play_vs_Man_City__GLOBAL_2026-10-09/dm_261009_COM_SOC_Presser_Iraola3A_Isak_and_Gakpo_are_ruled_out_to_play_vs_Man_City__GLOBAL_2026-10-09.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50139971/isak-gakpo-unavailable-play-vs-man-city",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50139079,
-      "source": "ESPN",
-      "headline": "UEFA member nations call FIFA's international break a 'disaster'",
-      "description": "European soccer federations told UEFA they are not happy with the new extended four-game blocks of international matches that finished this week.",
-      "publishedAt": "2026-10-09T11:14:49Z",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1691959_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50139079/uefa-member-nations-call-fifa-international-break-disaster",
-      "tag": "Norway",
-      "teams": [
-        "Norway",
-        "Borussia Dortmund"
-      ]
-    },
-    {
-      "id": 50139097,
-      "source": "ESPN",
-      "headline": "Maresca: The guilty verdict wouldn't have stopped me joining Man City",
-      "description": "Maresca: The guilty verdict wouldn't have stopped me joining Man City",
-      "publishedAt": "2026-10-09T10:55:50Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_PRESSER_Maresca_The_guilty_verdict_wouldnt_have_stopped_me_joining_Man_City_2026_10_9/dm_261009_COM_SOC_PRESSER_Maresca_The_guilty_verdict_wouldnt_have_stopped_me_joining_Man_City_2026_10_9.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50139097/guilty-verdict-stopped-joining-man-city",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50139024,
-      "source": "ESPN",
-      "headline": "Maresca: I completely trust the Man City board",
-      "description": "Maresca: I completely trust the Man City board",
-      "publishedAt": "2026-10-09T10:36:39Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_COM_SOC_PRESSER_Maresca_I_completely_trust_the_Man_City_board_2026_10_9/dm_261009_COM_SOC_PRESSER_Maresca_I_completely_trust_the_Man_City_board_2026_10_9.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50139024/completely-trust-man-city-board",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-10T12:26:28.323Z"
+    "cachedAt": "2026-10-10T21:39:26.018Z"
   }
 }
