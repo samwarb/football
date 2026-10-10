@@ -2,6 +2,109 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50134675,
+      "source": "ESPN",
+      "headline": "Premier League live updates: Defending champs Arsenal host Leeds",
+      "description": "After a three-week international break, club soccer returns! Arsenal will look to bounce back from their first loss of the Premier League season as they host Leeds.",
+      "publishedAt": "2026-10-10T12:13:57Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728595_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50134675/premier-league-live-updates-arsenal-leeds-united-manchester-united-tottenham",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 50146251,
+      "source": "ESPN",
+      "headline": "Kai Havertz and Ezri Konsa start for Arsenal against Leeds despite picking up injuries on international duty",
+      "description": "Kai Havertz and Ezri Konsa have been named in Arsenal's starting lineup for the visit of Leeds United despite withdrawing from their national team camps with injury in the recent Nations League window.",
+      "publishedAt": "2026-10-10T11:11:15Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728584_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/50146251/kai-havertz-ezri-konsa-arsenal-leeds-united-premier-league-mikel-arteta",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50146352,
+      "source": "ESPN",
+      "headline": "Chelsea's Cole Palmer signs new contract until 2034",
+      "description": "Cole Palmer has signed a contract extension keeping him at Chelsea until 2034.",
+      "publishedAt": "2026-10-10T11:08:25Z",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718448_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50146352/chelsea-cole-palmer-premier-league-xabi-alonso",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "England"
+      ]
+    },
+    {
+      "id": "1e85ce68aac3fb6287a0e2b5c555abc4",
+      "source": "Sky Sports",
+      "headline": "Havertz starts for Arsenal vs Leeds LIVE!",
+      "description": "",
+      "publishedAt": "2026-10-10T09:30:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-coventry_7327652.jpg?20260821202117",
+      "link": "https://www.skysports.com/football/arsenal-vs-leeds-united/live/559494",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 50145871,
+      "source": "ESPN",
+      "headline": "Liverpool boss Andoni Iraola offers backing to Bradley Barcola after France performances criticism",
+      "description": "Liverpool head coach Andoni Iraola rejected suggestions summer signing Bradley Barcola was struggling for form after the forward was criticised for his France performances.",
+      "publishedAt": "2026-10-10T09:00:17Z",
+      "image": "https://a.espncdn.com/photo/2026/0912/r1715303_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/50145871/liverpool-andoni-iraola-bradley-barcola-premier-league-france",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50133320,
+      "source": "ESPN",
+      "headline": "'We're Not Really Here': As Man City sanctions loom, it's the fans who suffer",
+      "description": "Manchester City's financial malfeasance could send the club back down the football pyramid, a place where fans of a certain age are very familiar.",
+      "publishedAt": "2026-10-10T08:48:03Z",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728364_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50133320/were-not-really-here-manchester-city-sanctions-loom-premier-league-guilty-verdict-fans-suffer",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50145785,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
+      "description": "Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-10T08:40:07Z",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Bayern Munich"
+      ]
+    },
+    {
+      "id": 50026166,
+      "source": "ESPN",
+      "headline": "Premier League injury concerns from the international break",
+      "description": "All the latest news and updates on Premier League stars injuries after the first international break of the 2026-2027 club season",
+      "publishedAt": "2026-10-10T06:33:51Z",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united",
+      "tag": "Story",
+      "teams": []
+    },
+    {
       "id": 50143205,
       "source": "ESPN",
       "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
@@ -110,88 +213,6 @@
       "teams": []
     },
     {
-      "id": "22ee93db3b69c6bdf9b23d1693770d28",
-      "source": "Sky Sports",
-      "headline": "Arteta says conscience clear over time at Man City",
-      "description": "Mikel Arteta has said he has a clear conscience over his former club Manchester City's serious breaches of financial rules.",
-      "publishedAt": "2026-10-09T21:30:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-mikel-arteta-arsenal_7372319.jpg?20261009162603",
-      "link": "https://www.skysports.com/football/news/12040/13596973/man-city-charges-arsenal-boss-mikel-arteta-says-he-has-clear-conscience-over-his-time-at-etihad-after-serious-breaches-of-financial-rules",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "cc4a4a66858c4124a0658a7b1e18be85",
-      "source": "Sky Sports",
-      "headline": "Bowen's late penalty saved as West Ham held by QPR",
-      "description": "Jarrod Bowen saw his 91st-minute penalty saved as West Ham missed the chance to move top of the Sky Bet Championship after a 1-1 draw with QPR.",
-      "publishedAt": "2026-10-09T21:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-west-ham-qpr_7372542.jpg?20261009220148",
-      "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/report/560605",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "3a498a037d92b5a993bbcc7875e90446",
-      "source": "Sky Sports",
-      "headline": "INCREDIBLE! QPR's Charles saves stoppage-time Bowen pen AND rebound!",
-      "description": "Pierce Charles was the QPR hero as he helped them secure a point away to West Ham by saving a last-minute penalty and the rebound.",
-      "publishedAt": "2026-10-09T20:56:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-qpr-charles_7372543.jpg?20261009220256",
-      "link": "https://www.skysports.com/watch/video/13597075/west-ham-vs-qpr-charles-the-hero-as-he-saves-bowens-penalty-and-the-rebound",
-      "tag": "Video",
-      "teams": []
-    },
-    {
-      "id": "b249508639383fb227960b1dea2ffe81",
-      "source": "Sky Sports",
-      "headline": "Ronaldo scores on Al Nassr return after Portugal walkout",
-      "description": "",
-      "publishedAt": "2026-10-09T20:20:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372504.jpg?20261009211949",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "4c7d82a179b44a8567048e78feb03321",
-      "source": "Sky Sports",
-      "headline": "England take control of World Cup play-off with win in Greece",
-      "description": "England are in control of their World Cup play-off with Greece after winning the first leg 3-1 in Crete.",
-      "publishedAt": "2026-10-09T18:30:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-england-lionesses_7372418.jpg?20261009185834",
-      "link": "https://www.skysports.com/football/greece-women-vs-england-women/report/559077",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": 50138814,
-      "source": "ESPN",
-      "headline": "Vincent Kompany 'proud' of Man City achievements despite guilty verdict over Premier League breaches",
-      "description": "Former Manchester City captain Vincent Kompany said he remains \"proud\" of the club's achievements during his time there despite the club being found guilty of more than 100 breaches of Premier League financial rules.",
-      "publishedAt": "2026-10-09T17:59:30Z",
-      "image": "https://a.espncdn.com/photo/2026/0926/r1721984_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50138814/vincent-kompany-proud-man-city-achievements-guilty-verdict-premier-league-breaches",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Bayern Munich"
-      ]
-    },
-    {
-      "id": 50138355,
-      "source": "ESPN",
-      "headline": "Everton put up for sale by Friedkin Group",
-      "description": "Everton's owners are exploring \"the potential sale of a controlling interest\" in the club.",
-      "publishedAt": "2026-10-09T17:58:06Z",
-      "image": "https://a.espncdn.com/photo/2023/0915/r1224694_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50138355/everton-put-sale-friedkin-group",
-      "tag": "Everton",
-      "teams": [
-        "Everton"
-      ]
-    },
-    {
       "id": 50140445,
       "source": "ESPN",
       "headline": "Arsenal's Mikel Arteta: Premier League still best in the world despite Man City guilty verdict",
@@ -244,19 +265,6 @@
       "tag": "Tottenham Hotspur",
       "teams": [
         "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 50138792,
-      "source": "ESPN",
-      "headline": "Michael Carrick on Man City: Retrospective medals can't replace 'moments'",
-      "description": "Michael Carrick has said being awarded medals retrospectively as a consequence of Manchester City's financial rule breaking will not replace the winning \"moments\" he was denied.",
-      "publishedAt": "2026-10-09T17:37:36Z",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728228_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50138792/michael-carrick-man-city-retrospective-medals-cant-replace-moments",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
       ]
     },
     {
@@ -383,20 +391,6 @@
       ]
     },
     {
-      "id": 50126359,
-      "source": "ESPN",
-      "headline": "Was epic Man City-Liverpool rivalry all a sham after cheating scandal?",
-      "description": "Under Jürgen Klopp and Pep Guardiola, Liverpool and Man City pushed the Premier League's standards higher than ever. But was it all a sham?",
-      "publishedAt": "2026-10-09T13:00:18Z",
-      "image": "https://a.espncdn.com/photo/2026/1008/r1727969_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50126359/was-epic-man-city-liverpool-rivalry-all-sham-cheating-scandal",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50139079,
       "source": "ESPN",
       "headline": "UEFA member nations call FIFA's international break a 'disaster'",
@@ -437,67 +431,11 @@
         "Liverpool",
         "Manchester City"
       ]
-    },
-    {
-      "id": 50134447,
-      "source": "ESPN",
-      "headline": "Premier League reranked: Have we found Arsenal's fatal flaw?",
-      "description": "Let's rank all 20 Premier League teams again: making sense of Chelsea's poor start, Arsenal's weakness, and whether Hull City can survive.",
-      "publishedAt": "2026-10-09T07:58:23Z",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728081_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50134447/premier-league-reranked-all-20-teams-arsenal-fatal-flaw-chelsea-bad",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Liverpool",
-        "Arsenal",
-        "Chelsea",
-        "Manchester City",
-        "Aston Villa",
-        "Everton",
-        "AFC Bournemouth",
-        "Tottenham Hotspur",
-        "Brentford",
-        "Nottingham Forest",
-        "Fulham",
-        "Brighton & Hove Albion",
-        "Newcastle United",
-        "Crystal Palace",
-        "Leeds United",
-        "Sunderland"
-      ]
-    },
-    {
-      "id": 50135294,
-      "source": "ESPN",
-      "headline": "Moreno: Man Utd vs. Spurs a 'must not lose' for both sides",
-      "description": "Moreno: Man Utd vs. Spurs a 'must not lose' for both sides",
-      "publishedAt": "2026-10-08T21:15:29Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_Moreno_Man_Utd_vs_Spurs_a_must_not_lose_for_both_sides/dm_261008_Moreno_Man_Utd_vs_Spurs_a_must_not_lose_for_both_sides.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50135294/man-utd-vs-spurs-not-lose-sides",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 50135036,
-      "source": "ESPN",
-      "headline": "Maresca: Man City players' focus is on Liverpool, not charges",
-      "description": "Maresca: Man City players' focus is on Liverpool, not charges",
-      "publishedAt": "2026-10-08T20:31:21Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_Maresca_Man_City_players_focus_is_on_Liverpool_not_charges/dm_261008_Maresca_Man_City_players_focus_is_on_Liverpool_not_charges.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50135036/man-city-players-focus-liverpool-not-charges",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-10T05:47:15.032Z"
+    "cachedAt": "2026-10-10T12:26:28.323Z"
   }
 }
