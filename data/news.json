@@ -2,6 +2,89 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50155787,
+      "source": "ESPN",
+      "headline": "Senne Lammens: Man United must get 'sour' taste of late Tottenham woe out of mouth",
+      "description": "Senne Lammens says Manchester United head to Atlético Madrid determined to get rid of the \"sour\" taste left in their mouth by Saturday's disappointing late draw against Tottenham.",
+      "publishedAt": "2026-10-11T12:31:51Z",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729104_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50155787/man-united-tottenham-premier-league-senne-lammens",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50134705,
+      "source": "ESPN",
+      "headline": "Premier League live updates: All eyes on Anfield for Liverpool vs. Man City",
+      "description": "Manchester City's first match since being found guilty of 114 charges of breaching the Premier League's financial rules comes against Liverpool at Anfield.",
+      "publishedAt": "2026-10-11T12:20:16Z",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729106_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50134705/premier-league-live-updates-liverpool-manchester-city-ac-milan",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50150239,
+      "source": "ESPN",
+      "headline": "Man United should've beaten Spurs. Not doing so shows how much trouble Carrick & Co. are in",
+      "description": "Up a goal and a man after 90 minutes, Man United could only draw 1-1 vs. Spurs, a result that leaves the Red Devils off to their worst start since 1986.",
+      "publishedAt": "2026-10-11T11:50:50Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728845_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50150239/manchester-united-shouldve-beaten-tottenham-not-doing-shows-how-much-trouble-michael-carrick-co-in",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50117156,
+      "source": "ESPN",
+      "headline": "Manchester City charges: Features, explainers, what's next after guilty verdict",
+      "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
+      "publishedAt": "2026-10-11T11:16:46Z",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50155580,
+      "source": "ESPN",
+      "headline": "Jordan Henderson reveals special free-kick practice with Chelsea during international break",
+      "description": "Jordan Henderson revealed he pulled rank to score the first direct free-kick of his career after practicing them over the international break.",
+      "publishedAt": "2026-10-11T11:06:46Z",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728674_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/football/story/_/id/50155580/jordan-henderson-chelsea-cole-palmer-morgan-rogers",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 50155123,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man City, Man Utd, Spurs eye Atlético's Simeone",
+      "description": "Man City, Man United and Tottenham are all looking at bringing Atlético Madrid's Giuliano Simeone to the Premier League. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-11T09:05:45Z",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729094_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United",
+        "Tottenham Hotspur",
+        "Atlético Madrid"
+      ]
+    },
+    {
       "id": 50152700,
       "source": "ESPN",
       "headline": "Solanke rescues point for 10-man Spurs against United",
@@ -58,12 +141,12 @@
       ]
     },
     {
-      "id": "e4831d65a8b659eb0388755e1a076596",
+      "id": "f00f1138333b83f9b1d7e077da19170a",
       "source": "Sky Sports",
-      "headline": "Carrick must share burden of Man Utd's underperformance with his players",
+      "headline": "Carrick must share burden of Man Utd's failings with his players",
       "description": "\"We couldn't find a way to get ourselves into the game. With the ball, without the ball, we were off it.\" A fair assessment from Michael Carrick, if not a wholly explanatory one.",
       "publishedAt": "2026-10-10T22:30:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261010222915",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261011111018",
       "link": "https://www.skysports.com/football/news/12040/13597374/man-utd-1-1-spurs-michael-carrick-entering-a-defining-period-and-must-correct-underperformance-quickly",
       "tag": "News Story",
       "teams": []
@@ -80,12 +163,12 @@
       "teams": []
     },
     {
-      "id": "92a80ecaded58bdee88f6740dee2f948",
+      "id": "83c22d0a82daa89bb3e10c88a86ed419",
       "source": "Sky Sports",
-      "headline": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
+      "headline": "Jose 'misses news conference' after Vini Jr sent off for hair pull",
       "description": "",
       "publishedAt": "2026-10-10T21:30:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-jose-mourinho_7371933.jpg?20261009104402",
       "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "tag": "Liveblog",
       "teams": []
@@ -133,19 +216,6 @@
       ]
     },
     {
-      "id": 50150239,
-      "source": "ESPN",
-      "headline": "Man United should've beaten Spurs. Not doing so shows how much trouble Carrick & Co. are in",
-      "description": "Up a goal and a man after 90 minutes, Man United could only draw 1-1 vs. Spurs, a result that leaves the Red Devils off to their worst start since 1986.",
-      "publishedAt": "2026-10-10T20:21:38Z",
-      "image": "https://a.espncdn.com/photo/2026/1010/r1728845_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50150239/manchester-united-shouldve-beaten-tottenham-not-doing-shows-how-much-trouble-michael-carrick-co-in",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
       "id": 50150189,
       "source": "ESPN",
       "headline": "De Zerbi: I thanked Bentancur for sparking Tottenham's reaction",
@@ -172,17 +242,6 @@
         "Aston Villa",
         "Brentford"
       ]
-    },
-    {
-      "id": "149352cbad08f01814aeb1ce94a7de38",
-      "source": "Sky Sports",
-      "headline": "Neville's Man Utd warning: 'Get a grip or face worrying few weeks'",
-      "description": "Gary Neville warned Manchester United could be in for a \"worrying few weeks\" if their players don't \"get a grip\" on their season after they were booed in their draw with Tottenham.",
-      "publishedAt": "2026-10-10T19:21:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-harry-maguire-man-utd_7373648.jpg?20261010205053",
-      "link": "https://www.skysports.com/football/news/12040/13597587/gary-neville-warns-man-utd-players-to-get-a-grip-or-face-a-worrying-few-weeks-after-draw-with-10-man-spurs",
-      "tag": "Article/Blog",
-      "teams": []
     },
     {
       "id": 50149695,
@@ -389,80 +448,11 @@
         "Arsenal",
         "Leeds United"
       ]
-    },
-    {
-      "id": 50147675,
-      "source": "ESPN",
-      "headline": "Michallik: Arsenal's depth and quality give them an edge",
-      "description": "Michallik: Arsenal's depth and quality give them an edge",
-      "publishedAt": "2026-10-10T14:36:11Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_Arsenals_depth_and_quality_give_them_an_edge/dm_261010_Michallik_Arsenals_depth_and_quality_give_them_an_edge.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50147675/arsenal-depth-quality-give-edge",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 50147438,
-      "source": "ESPN",
-      "headline": "Michallik: Arsenal always find a way to win",
-      "description": "Michallik: Arsenal always find a way to win",
-      "publishedAt": "2026-10-10T14:12:20Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_Arsenal_always_find_a_way_to_win/dm_261010_Michallik_Arsenal_always_find_a_way_to_win.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50147438/arsenal-always-find-way-win",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 50145785,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
-      "description": "Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-10T13:47:47Z",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Bayern Munich"
-      ]
-    },
-    {
-      "id": 50146251,
-      "source": "ESPN",
-      "headline": "Kai Havertz and Ezri Konsa start for Arsenal against Leeds despite picking up injuries on international duty",
-      "description": "Kai Havertz and Ezri Konsa have been named in Arsenal's starting lineup for the visit of Leeds United despite withdrawing from their national team camps with injury in the recent Nations League window.",
-      "publishedAt": "2026-10-10T11:11:15Z",
-      "image": "https://a.espncdn.com/photo/2026/1010/r1728584_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/50146251/kai-havertz-ezri-konsa-arsenal-leeds-united-premier-league-mikel-arteta",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 50146352,
-      "source": "ESPN",
-      "headline": "Chelsea's Cole Palmer signs new contract until 2034",
-      "description": "Cole Palmer has signed a contract extension keeping him at Chelsea until 2034.",
-      "publishedAt": "2026-10-10T11:08:25Z",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718448_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50146352/chelsea-cole-palmer-premier-league-xabi-alonso",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "England"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-11T05:41:24.331Z"
+    "cachedAt": "2026-10-11T12:44:10.726Z"
   }
 }
