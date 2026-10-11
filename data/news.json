@@ -2,6 +2,95 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50152700,
+      "source": "ESPN",
+      "headline": "Solanke rescues point for 10-man Spurs against United",
+      "description": "Dominic Solanke pounces in injury time as a 10-man Tottenham outfit snatch a late 1-1 draw against Manchester United.",
+      "publishedAt": "2026-10-11T01:11:58Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_EPL_Highlight_Solanke_rescues_point_for_10man_Spurs_against_United_20261011_AUS_ONLY/dm_261010_EPL_Highlight_Solanke_rescues_point_for_10man_Spurs_against_United_20261011_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50152700/solanke-rescues-point-10-man-spurs-united",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50152693,
+      "source": "ESPN",
+      "headline": "Gunners come from behind to beat Leeds",
+      "description": "Arsenal strike twice in eight second-half minutes through Riccardo Calafiori and Bruno Guimarães to claim a 2-1 comeback win over Leeds.",
+      "publishedAt": "2026-10-11T01:11:34Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_EPL_Highlight_Gunners_come_from_behind_to_beat_Leeds__20261011_AUS_ONLY/dm_261010_EPL_Highlight_Gunners_come_from_behind_to_beat_Leeds__20261011_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50152693/gunners-come-beat-leeds",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Leeds United"
+      ]
+    },
+    {
+      "id": 50148441,
+      "source": "ESPN",
+      "headline": "Michallik: Jordan Henderson could be the Granit Xhaka of Chelsea",
+      "description": "Michallik: Jordan Henderson could be the Granit Xhaka of Chelsea",
+      "publishedAt": "2026-10-10T22:43:16Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_Jordan_Henderson_could_be_the_Granit_Xhaka_of_Chelsea/dm_261010_Michallik_Jordan_Henderson_could_be_the_Granit_Xhaka_of_Chelsea.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50148441/jordan-henderson-granit-xhaka-chelsea",
+      "tag": "AFC Bournemouth",
+      "teams": [
+        "AFC Bournemouth",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": 50151323,
+      "source": "ESPN",
+      "headline": "Dawson: Manchester United board may act if results don't improve",
+      "description": "Dawson: Manchester United board may act if results don't improve",
+      "publishedAt": "2026-10-10T22:43:10Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Dawson_Manchester_United_board_may_act_if_results_dont_improve/dm_261010_Dawson_Manchester_United_board_may_act_if_results_dont_improve.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50151323/manchester-united-board-act-results-improve",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": "e4831d65a8b659eb0388755e1a076596",
+      "source": "Sky Sports",
+      "headline": "Carrick must share burden of Man Utd's underperformance with his players",
+      "description": "\"We couldn't find a way to get ourselves into the game. With the ball, without the ball, we were off it.\" A fair assessment from Michael Carrick, if not a wholly explanatory one.",
+      "publishedAt": "2026-10-10T22:30:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261010222915",
+      "link": "https://www.skysports.com/football/news/12040/13597374/man-utd-1-1-spurs-michael-carrick-entering-a-defining-period-and-must-correct-underperformance-quickly",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "8b821e3427495ce602c317544eb0fd97",
+      "source": "Sky Sports",
+      "headline": "Papers: Wenger urged to stand for FIFA presidency",
+      "description": "The top stories and transfer rumours from Sunday's newspapers...",
+      "publishedAt": "2026-10-10T21:36:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13597627/arsene-wenger-urged-to-stand-against-gianni-infantino-for-fifa-presidency-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "92a80ecaded58bdee88f6740dee2f948",
+      "source": "Sky Sports",
+      "headline": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
+      "description": "",
+      "publishedAt": "2026-10-10T21:30:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 50150532,
       "source": "ESPN",
       "headline": "Roberto De Zerbi: I 'kissed' Rodrigo Bentancur after red card, the 'character' that Spurs need",
@@ -83,6 +172,17 @@
         "Aston Villa",
         "Brentford"
       ]
+    },
+    {
+      "id": "149352cbad08f01814aeb1ce94a7de38",
+      "source": "Sky Sports",
+      "headline": "Neville's Man Utd warning: 'Get a grip or face worrying few weeks'",
+      "description": "Gary Neville warned Manchester United could be in for a \"worrying few weeks\" if their players don't \"get a grip\" on their season after they were booed in their draw with Tottenham.",
+      "publishedAt": "2026-10-10T19:21:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-harry-maguire-man-utd_7373648.jpg?20261010205053",
+      "link": "https://www.skysports.com/football/news/12040/13597587/gary-neville-warns-man-utd-players-to-get-a-grip-or-face-a-worrying-few-weeks-after-draw-with-10-man-spurs",
+      "tag": "Article/Blog",
+      "teams": []
     },
     {
       "id": 50149695,
@@ -194,20 +294,6 @@
       ]
     },
     {
-      "id": 50148441,
-      "source": "ESPN",
-      "headline": "Michallik: Jordan Henderson could be the Granit Xhaka of Chelsea",
-      "description": "Michallik: Jordan Henderson could be the Granit Xhaka of Chelsea",
-      "publishedAt": "2026-10-10T16:26:49Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Michallik_Jordan_Henderson_could_be_the_Granit_Xhaka_of_Chelsea/dm_261010_Michallik_Jordan_Henderson_could_be_the_Granit_Xhaka_of_Chelsea.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50148441/jordan-henderson-granit-xhaka-chelsea",
-      "tag": "AFC Bournemouth",
-      "teams": [
-        "AFC Bournemouth",
-        "Chelsea"
-      ]
-    },
-    {
       "id": 50148449,
       "source": "ESPN",
       "headline": "Michallik: I believe in Xabi Alonso",
@@ -263,28 +349,6 @@
       ]
     },
     {
-      "id": "1bec8476c8291d6a673cae3dc214f797",
-      "source": "Sky Sports",
-      "headline": "Lankshear scores again as Middlesbrough mark 150th anniversary with win",
-      "description": "Middlesbrough celebrated their 150th anniversary game in style as Will Lankshear's second-half header secured a 1-0 victory over Wolves at the Riverside Stadium.",
-      "publishedAt": "2026-10-10T16:15:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-will-lankshear-middlesbrough_7373317.jpg?20261010171105",
-      "link": "https://www.skysports.com/football/middlesbrough-vs-wolverhampton-wanderers/report/560598",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "ead6fa8ee05b8ac723098902db1989f9",
-      "source": "Sky Sports",
-      "headline": "Bamford at the double as Sheff Utd breeze past Lincoln",
-      "description": "Patrick Bamford scored twice to help Sheffield United to a comfortable 3-0 victory over Lincoln.",
-      "publishedAt": "2026-10-10T16:15:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-patrick-bamford-sheffield-united_7373332.jpg?20261010171431",
-      "link": "https://www.skysports.com/football/sheffield-united-vs-lincoln-city/report/560600",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 50128002,
       "source": "ESPN",
       "headline": "Jordan Henderson, 36, nets unlikely brace as Chelsea thrash Bournemouth",
@@ -311,39 +375,6 @@
         "Sunderland",
         "Brighton & Hove Albion"
       ]
-    },
-    {
-      "id": "ba06ec9b2c99ab32a1a587a4e8df6532",
-      "source": "Sky Sports",
-      "headline": "Brentford still unbeaten after Ajer levels at Villa",
-      "description": "Kristoffer Ajer's equaliser earned a 2-2 draw for Brentford at Aston Villa to maintain their unbeaten start to the Premier League season.",
-      "publishedAt": "2026-10-10T16:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kristoffer-ajer-aaron-hickey_7373312.jpg?20261010170531",
-      "link": "https://www.skysports.com/football/aston-villa-vs-brentford/report/559495",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "13657c08aac88853c433257f2affbe77",
-      "source": "Sky Sports",
-      "headline": "Ipswich late show keeps Fulham winless under Arbeloa",
-      "description": "Fulham remain winless in the Premier League under Alvaro Arbeloa after Ipswich stung them with two late goals in a 2-1 win.",
-      "publishedAt": "2026-10-10T16:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-dara-o-shea-ipswich-town_7373285.jpg?20261010165644",
-      "link": "https://www.skysports.com/football/ipswich-town-vs-fulham/report/559500",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "8484e23101b6ec44a669d43e4ddcd75c",
-      "source": "Sky Sports",
-      "headline": "Henderson stars as Chelsea thrash Bournemouth",
-      "description": "Chelsea thumped Bournemouth 5-1 in a stunning show of their attacking firepower to go fifth in the early Premier League table.",
-      "publishedAt": "2026-10-10T16:00:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jordan-henderson_7373262.jpg?20261010164222",
-      "link": "https://www.skysports.com/football/chelsea-vs-bournemouth/report/559496",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 50147075,
@@ -388,19 +419,6 @@
       ]
     },
     {
-      "id": 50145612,
-      "source": "ESPN",
-      "headline": "Man City whistleblower Rui Pinto to remain in witness protection after U-turn from Portuguese authorities",
-      "description": "The Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain in witness protection after authorities in the country suspended the decision to end it",
-      "publishedAt": "2026-10-10T14:09:56Z",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727269_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50145612/manchester-city-rui-pinto-premier-league-115-charges",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50145785,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
@@ -440,37 +458,11 @@
         "Chelsea",
         "England"
       ]
-    },
-    {
-      "id": 50145871,
-      "source": "ESPN",
-      "headline": "Liverpool boss Andoni Iraola offers backing to Bradley Barcola after France performances criticism",
-      "description": "Liverpool head coach Andoni Iraola rejected suggestions summer signing Bradley Barcola was struggling for form after the forward was criticised for his France performances.",
-      "publishedAt": "2026-10-10T09:00:17Z",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715303_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/50145871/liverpool-andoni-iraola-bradley-barcola-premier-league-france",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50133320,
-      "source": "ESPN",
-      "headline": "'We're Not Really Here': As Man City sanctions loom, it's the fans who suffer",
-      "description": "Manchester City's financial malfeasance could send the club back down the football pyramid, a place where fans of a certain age are very familiar.",
-      "publishedAt": "2026-10-10T08:48:03Z",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728364_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50133320/were-not-really-here-manchester-city-sanctions-loom-premier-league-guilty-verdict-fans-suffer",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-10T21:39:26.018Z"
+    "cachedAt": "2026-10-11T05:41:24.331Z"
   }
 }
