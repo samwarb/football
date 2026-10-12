@@ -2,6 +2,191 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50165976,
+      "source": "ESPN",
+      "headline": "Mikel Arteta defends Arsenal after Piero Hincapié, Martin Zubimendi injuries",
+      "description": "Mikel Arteta has defended Arsenal's training programme after confirming Piero Hincapié and Martín Zubimendi suffered \"far from ideal\" injuries in a post-match session on Saturday.",
+      "publishedAt": "2026-10-12T13:40:25Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729650_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50165976/mikel-arteta-defends-arsenal-piero-hincapie-martin-zubimendi-injuries",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50163474,
+      "source": "ESPN",
+      "headline": "Man City win at angry Anfield; Mourinho overshadows ugly Madrid win",
+      "description": "Despite the pregame vitriol and ongoing scandal, it was no surprise that Man City won at Liverpool on Sunday. PLUS: Real Madrid won ugly and Mourinho got up to his old tricks after Vinicius' red card.",
+      "publishedAt": "2026-10-12T13:03:10Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729618_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50163474/manchester-city-liverpool-premier-league-charges-jose-mourinho-real-madrid-vinicius-junior-analysis",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": 50165610,
+      "source": "ESPN",
+      "headline": "Football braces for Independent Football Regulator's 'State of the Game' report",
+      "description": "A landmark report examining the financial sustainability of English football will be published on Tuesday.",
+      "publishedAt": "2026-10-12T12:49:51Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729630_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50165610/football-braces-independent-football-regulator-state-game-report",
+      "tag": "HeadlineNews",
+      "teams": []
+    },
+    {
+      "id": 50165374,
+      "source": "ESPN",
+      "headline": "Why did Man City fans bring inflatable bananas to Anfield?",
+      "description": "At Anfield on Sunday, Man City fans waved hundreds of inflatable bananas, but how do they relate to the club's guilty verdict?",
+      "publishedAt": "2026-10-12T12:46:08Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729611_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50163017,
+      "source": "ESPN",
+      "headline": "The Premier League's new villains: Anfield gives Man City a taste of what's to come",
+      "description": "Man City faced fury at Anfield after being found guilty of cheating, but Erling Haaland & Co. answered the hostility with an emphatic 3-0 win.",
+      "publishedAt": "2026-10-12T12:19:38Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729599_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50163017/the-premier-league-new-villains-liverpool-anfield-give-man-city-taste-come",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50165375,
+      "source": "ESPN",
+      "headline": "Ten arrests, police officer injured, after Liverpool vs. Man City",
+      "description": "Merseyside Police have confirmed that 10 people were arrested and an officer sustained a serious injury during the policing operation for Manchester City's clash at Liverpool.",
+      "publishedAt": "2026-10-12T11:53:49Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729621_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50165375/ten-arrests-police-officer-injured-liverpool-vs-man-city",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50164897,
+      "source": "ESPN",
+      "headline": "Liverpool's Virgil van Dijk: Don't view Man City rivalry differently despite guilty verdict",
+      "description": "Virgil van Dijk has said he does not view the rivalry between Liverpool and Manchester City differently in light of the latter's guilty verdict but admitted he will share his opinion on the matter when the process has concluded.",
+      "publishedAt": "2026-10-12T11:00:06Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729607_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50164897/liverpool-virgil-van-dijk-dont-view-man-city-rivalry-differently-guilty-verdict",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50164848,
+      "source": "ESPN",
+      "headline": "Man City 'more together than ever' after chants about charges - Elliot Anderson",
+      "description": "Manchester City midfielder Elliot Anderson has said the criticism the club has received in the wake of being found guilty of financial irregularities has galvanised the players.",
+      "publishedAt": "2026-10-12T09:53:29Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729605_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50164848/man-city-more-together-ever-chants-charges-elliot-anderson",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50164725,
+      "source": "ESPN",
+      "headline": "Liverpool must drop Florian Wirtz - Jamie Carragher",
+      "description": "Jamie Carragher has said Florian Wirtz should be dropped from the Liverpool lineup after another disappointing performance in Sunday's defeat to Manchester City.",
+      "publishedAt": "2026-10-12T09:21:16Z",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720178_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50164725/liverpool-drop-florian-wirtz-jamie-carragher",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9e83ccd9079bb96d5cb0d858a5f5b6c9",
+      "source": "Sky Sports",
+      "headline": "Pressing problems for Man Utd? How viral clip exposes issues for Carrick",
+      "description": "It's the clip that everyone is talking about on social media. By Monday morning, there had been three million views of a video showing Spurs passing through the Man Utd press and breaking up the pitch with ease.",
+      "publishedAt": "2026-10-12T08:59:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-matheus-cunha-manchester_7374952.jpg?20261012113111",
+      "link": "https://www.skysports.com/football/news/12040/13598084/manchester-united-viral-clip-shows-spurs-beat-the-press-at-old-trafford-and-exposes-other-issues",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50164676,
+      "source": "ESPN",
+      "headline": "Maresca: Manchester City dealt with Anfield 'very well'",
+      "description": "Maresca: Manchester City dealt with Anfield 'very well'",
+      "publishedAt": "2026-10-12T08:48:47Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Maresca_Manchester_City_dealt_with_Anfield_very_well/dm_261012_Maresca_Manchester_City_dealt_with_Anfield_very_well.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50164676/manchester-city-dealt-anfield-very-well",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50164587,
+      "source": "ESPN",
+      "headline": "Iraola: Liverpool played 'two different games' against Manchester City",
+      "description": "Iraola: Liverpool played 'two different games' against Manchester City",
+      "publishedAt": "2026-10-12T08:07:32Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Iraola_Liverpool_played_two_different_games_against_Manchester_City/dm_261012_Iraola_Liverpool_played_two_different_games_against_Manchester_City.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50164587/liverpool-played-two-different-games-manchester-city",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50164459,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Liverpool eye Hull GK as Alisson successor",
+      "description": "Liverpool are looking at Hull City GK Konstantinos Tzolakis, while Man United are interested in Fulham teenager Josh King. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-12T07:36:47Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729596_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Hull City"
+      ]
+    },
+    {
+      "id": "255b12438dc090e715eafb2716d2bd72",
+      "source": "Sky Sports",
+      "headline": "If Declan Rice is not a 'lighthouse' anymore, then what is he?",
+      "description": "Coming into the new season, Mikel Arteta had a private conversation with Declan Rice. The topic was his role on the pitch.",
+      "publishedAt": "2026-10-12T07:29:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-arsenal_7374847.jpg?20261012093825",
+      "link": "https://www.skysports.com/football/news/12040/13598047/declan-rice-mikel-arteta-says-arsenal-midfielder-has-transitioned-away-from-his-lighthouse-role-so-what-is-he",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50161470,
       "source": "ESPN",
       "headline": "City trounce Liverpool in first game since guilty verdict",
@@ -112,17 +297,6 @@
       ]
     },
     {
-      "id": "43a162b467cf58672c82509963226c21",
-      "source": "Sky Sports",
-      "headline": "Hits & Misses: Anderson and Wirtz offering opposite value for money",
-      "description": "",
-      "publishedAt": "2026-10-11T19:15:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-anderson-wirtz-liverpool_7374594.jpg?20261011200306",
-      "link": "https://www.skysports.com/football/news/12040/13597832/man-citys-elliot-anderson-deemed-a-bargain-while-florian-wirtz-fails-to-offer-return-on-liverpools-huge-investment-premier-league-hits-and-misses",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50159637,
       "source": "ESPN",
       "headline": "Erling Haaland: 'I'm so proud' of Man City after win at Liverpool",
@@ -176,17 +350,6 @@
       "teams": [
         "Liverpool"
       ]
-    },
-    {
-      "id": "5a59225925da2436a322eb8e38cb0180",
-      "source": "Sky Sports",
-      "headline": "'Barely a foul' - Carra criticises 'shocking' Gravenberch red card decision",
-      "description": "Ryan Gravenberch's sending off in Liverpool's 3-0 home defeat to Manchester City was a \"shocking decision\" by referee Chris Kavanagh, according to Sky Sports pundit Jamie Carragher.",
-      "publishedAt": "2026-10-11T18:40:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-ryan-gravenberch_7374486.jpg?20261011182259",
-      "link": "https://www.skysports.com/football/news/12040/13597935/liverpool-0-3-man-city-ryan-gravenberchs-sending-off-in-premier-league-defeat-criticised-by-jamie-carragher",
-      "tag": "Article/Blog",
-      "teams": []
     },
     {
       "id": 50159355,
@@ -259,17 +422,6 @@
       ]
     },
     {
-      "id": "416b3783e86e6c5275daf4e6b4ed87b1",
-      "source": "Sky Sports",
-      "headline": "Man City defiant and top of the table - but Anfield delivers its own verdict",
-      "description": "The chant from The Kop went up early. \"You haven't won a trophy since 1976.\" It was a reference to Manchester City's League Cup triumph, the last major honour that the club picked up prior to the period of ownership that now finds itself under such scrutiny.",
-      "publishedAt": "2026-10-11T17:30:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-bananas-man-city_7374484.jpg?20261011182157",
-      "link": "https://www.skysports.com/football/news/12040/13593871/liverpool-0-3-man-city-anfield-delivers-own-verdict-on-premier-league-ruling-but-city-are-defiant-and-top-of-the-table",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50156935,
       "source": "ESPN",
       "headline": "Liverpool fans 'welcome' Man City in first Premier League match since guilty verdict",
@@ -281,48 +433,6 @@
       "teams": [
         "Manchester City",
         "Liverpool"
-      ]
-    },
-    {
-      "id": 50128014,
-      "source": "ESPN",
-      "headline": "Crystal Palace come from behind to beat Nottingham Forest 3-1, spoil Oliver Glasner's return to Selhurst Park",
-      "description": "Crystal Palace dealt former boss Oliver Glasner a blow after they bounced back to beat Nottingham Forest 3-1 on the Austrian's first return to Selhurst Park.",
-      "publishedAt": "2026-10-11T16:03:55Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729189_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879266",
-      "tag": "Crystal Palace",
-      "teams": [
-        "Crystal Palace",
-        "Nottingham Forest"
-      ]
-    },
-    {
-      "id": 50157314,
-      "source": "ESPN",
-      "headline": "Dominik Szoboszlai ruled out of Liverpool's huge clash with Man City",
-      "description": "Liverpool midfielder Dominik Szoboszlai has been ruled out of Sunday's Premier League clash with Manchester City due to injury.",
-      "publishedAt": "2026-10-11T15:33:25Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729179_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50157314/dominik-szoboszlai-injury-liverpool-man-city-premier-league",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50128017,
-      "source": "ESPN",
-      "headline": "Mohamed Belloumi strikes to maintain Hull's unbeaten home record against Everton",
-      "description": "Hull retained their unbeaten home record since returning to the Premier League with an entertaining 2-2 draw against Everton at the MKM Stadium.",
-      "publishedAt": "2026-10-11T15:31:05Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729186_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401878774",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Everton"
       ]
     },
     {
@@ -338,136 +448,11 @@
         "Manchester United",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 50156268,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi sees something to build on from Tottenham draw at Man United",
-      "description": "Tottenham's wait for a first Premier League win of the season continues but Roberto De Zerbi takes his side to Spain for a training camp having seen promising signs in the late draw at Manchester United.",
-      "publishedAt": "2026-10-11T13:58:26Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729116_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50156268/tottenham-roberto-de-zerbi-spurs-man-united",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 50156783,
-      "source": "ESPN",
-      "headline": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
-      "description": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
-      "publishedAt": "2026-10-11T13:54:15Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50156783/bentancur-red-card-encouraged-tottenham-play-more-character",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Tottenham Hotspur",
-        "Uruguay"
-      ]
-    },
-    {
-      "id": 50156698,
-      "source": "ESPN",
-      "headline": "Arteta explains unlocking low blocks with Itoje",
-      "description": "Arteta explains unlocking low blocks with Itoje",
-      "publishedAt": "2026-10-11T13:43:43Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Arteta_explains_unlocking_low_blocks_with_Itoje/dm_261011_Arteta_explains_unlocking_low_blocks_with_Itoje.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50156698/arteta-explains-unlocking-low-blocks-itoje",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 50155787,
-      "source": "ESPN",
-      "headline": "Senne Lammens: Man United must get 'sour' taste of late Tottenham woe out of mouth",
-      "description": "Senne Lammens has said that Manchester United head to Atlético Madrid determined to get rid of the \"sour\" taste left in their mouth by Saturday's draw against Tottenham.",
-      "publishedAt": "2026-10-11T12:43:44Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729104_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50155787/man-united-tottenham-premier-league-senne-lammens",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 50117156,
-      "source": "ESPN",
-      "headline": "Manchester City charges: Features, explainers, what's next after guilty verdict",
-      "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
-      "publishedAt": "2026-10-11T11:16:46Z",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50155580,
-      "source": "ESPN",
-      "headline": "Jordan Henderson reveals special free-kick practice with Chelsea during international break",
-      "description": "Jordan Henderson revealed he pulled rank to score the first direct free-kick of his career after practicing them over the international break.",
-      "publishedAt": "2026-10-11T11:06:46Z",
-      "image": "https://a.espncdn.com/photo/2026/1010/r1728674_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/football/story/_/id/50155580/jordan-henderson-chelsea-cole-palmer-morgan-rogers",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": 50152700,
-      "source": "ESPN",
-      "headline": "Solanke rescues point for 10-man Spurs against United",
-      "description": "Dominic Solanke pounces in injury time as a 10-man Tottenham outfit snatch a late 1-1 draw against Manchester United.",
-      "publishedAt": "2026-10-11T01:11:58Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_EPL_Highlight_Solanke_rescues_point_for_10man_Spurs_against_United_20261011_AUS_ONLY/dm_261010_EPL_Highlight_Solanke_rescues_point_for_10man_Spurs_against_United_20261011_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50152700/solanke-rescues-point-10-man-spurs-united",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Tottenham Hotspur"
-      ]
-    },
-    {
-      "id": 50152693,
-      "source": "ESPN",
-      "headline": "Gunners come from behind to beat Leeds",
-      "description": "Arsenal strike twice in eight second-half minutes through Riccardo Calafiori and Bruno Guimarães to claim a 2-1 comeback win over Leeds.",
-      "publishedAt": "2026-10-11T01:11:34Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_EPL_Highlight_Gunners_come_from_behind_to_beat_Leeds__20261011_AUS_ONLY/dm_261010_EPL_Highlight_Gunners_come_from_behind_to_beat_Leeds__20261011_AUS_ONLY.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50152693/gunners-come-beat-leeds",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Leeds United"
-      ]
-    },
-    {
-      "id": 50151323,
-      "source": "ESPN",
-      "headline": "Dawson: Manchester United board may act if results don't improve",
-      "description": "Dawson: Manchester United board may act if results don't improve",
-      "publishedAt": "2026-10-10T22:43:10Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1010/dm_261010_Dawson_Manchester_United_board_may_act_if_results_dont_improve/dm_261010_Dawson_Manchester_United_board_may_act_if_results_dont_improve.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50151323/manchester-united-board-act-results-improve",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-12T05:51:24.169Z"
+    "cachedAt": "2026-10-12T15:16:23.358Z"
   }
 }

@@ -2,16 +2,6 @@
   "season": "2025-2026",
   "source": "https://www.live-footballontv.com/live-english-football-on-tv.html",
   "fixtures": {
-    "crystal palace|nottingham forest": [
-      "Sky Sports Main Event"
-    ],
-    "hull city|everton": [
-      "Sky Sports Premier League"
-    ],
-    "liverpool|manchester city": [
-      "Sky Sports Main Event",
-      "Sky Sports Premier League"
-    ],
     "coventry city|newcastle united": [
       "Sky Sports Main Event",
       "Sky Sports Premier League"
@@ -282,6 +272,6 @@
   "warning": null,
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-12T05:51:23.998Z"
+    "cachedAt": "2026-10-12T15:16:23.165Z"
   }
 }
