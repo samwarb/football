@@ -2,6 +2,36 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50161470,
+      "source": "ESPN",
+      "headline": "City trounce Liverpool in first game since guilty verdict",
+      "description": "Manchester City explode for three goals in 13 minutes to put away a 10-man Liverpool in their first match since being found guilty of financial breaches.",
+      "publishedAt": "2026-10-11T22:12:06Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_EPL_Highlight_City_trounce_Liverpool_in_first_game_since_guilty_verdict_20261012_AUS_ONLY/dm_261011_EPL_Highlight_City_trounce_Liverpool_in_first_game_since_guilty_verdict_20261012_AUS_ONLY.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50161470/city-trounce-liverpool-first-game-guilty-verdict",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50155123,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal, Chelsea, Liverpool want Roma youngster",
+      "description": "AS Roma's Emanuele Lulli has caught the eye of Arsenal, Chelsea and Liverpool. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-11T22:08:12Z",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729418_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Chelsea",
+        "Liverpool",
+        "AS Roma"
+      ]
+    },
+    {
       "id": 50161236,
       "source": "ESPN",
       "headline": "Nicol and Burley clash over Gravenberch's red card vs. Man City",
@@ -14,6 +44,17 @@
         "Liverpool",
         "Manchester City"
       ]
+    },
+    {
+      "id": "c6e42476da3afdc0ed8cbe8ce0c64d91",
+      "source": "Sky Sports",
+      "headline": "Lazio fly high in Serie A, Freiburg lead Bundesliga, Betis go third in Spain",
+      "description": "",
+      "publishedAt": "2026-10-11T20:48:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-nuno-tavares-lazio_7374654.jpg?20261011215935",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 49703019,
@@ -71,6 +112,17 @@
       ]
     },
     {
+      "id": "43a162b467cf58672c82509963226c21",
+      "source": "Sky Sports",
+      "headline": "Hits & Misses: Anderson and Wirtz offering opposite value for money",
+      "description": "",
+      "publishedAt": "2026-10-11T19:15:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-anderson-wirtz-liverpool_7374594.jpg?20261011200306",
+      "link": "https://www.skysports.com/football/news/12040/13597832/man-citys-elliot-anderson-deemed-a-bargain-while-florian-wirtz-fails-to-offer-return-on-liverpools-huge-investment-premier-league-hits-and-misses",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50159637,
       "source": "ESPN",
       "headline": "Erling Haaland: 'I'm so proud' of Man City after win at Liverpool",
@@ -124,6 +176,17 @@
       "teams": [
         "Liverpool"
       ]
+    },
+    {
+      "id": "5a59225925da2436a322eb8e38cb0180",
+      "source": "Sky Sports",
+      "headline": "'Barely a foul' - Carra criticises 'shocking' Gravenberch red card decision",
+      "description": "Ryan Gravenberch's sending off in Liverpool's 3-0 home defeat to Manchester City was a \"shocking decision\" by referee Chris Kavanagh, according to Sky Sports pundit Jamie Carragher.",
+      "publishedAt": "2026-10-11T18:40:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-ryan-gravenberch_7374486.jpg?20261011182259",
+      "link": "https://www.skysports.com/football/news/12040/13597935/liverpool-0-3-man-city-ryan-gravenberchs-sending-off-in-premier-league-defeat-criticised-by-jamie-carragher",
+      "tag": "Article/Blog",
+      "teams": []
     },
     {
       "id": 50159355,
@@ -196,6 +259,17 @@
       ]
     },
     {
+      "id": "416b3783e86e6c5275daf4e6b4ed87b1",
+      "source": "Sky Sports",
+      "headline": "Man City defiant and top of the table - but Anfield delivers its own verdict",
+      "description": "The chant from The Kop went up early. \"You haven't won a trophy since 1976.\" It was a reference to Manchester City's League Cup triumph, the last major honour that the club picked up prior to the period of ownership that now finds itself under such scrutiny.",
+      "publishedAt": "2026-10-11T17:30:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-bananas-man-city_7374484.jpg?20261011182157",
+      "link": "https://www.skysports.com/football/news/12040/13593871/liverpool-0-3-man-city-anfield-delivers-own-verdict-on-premier-league-ruling-but-city-are-defiant-and-top-of-the-table",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50156935,
       "source": "ESPN",
       "headline": "Liverpool fans 'welcome' Man City in first Premier League match since guilty verdict",
@@ -208,17 +282,6 @@
         "Manchester City",
         "Liverpool"
       ]
-    },
-    {
-      "id": "ebd1af75d71b93e0184f849b67f50bdd",
-      "source": "Sky Sports",
-      "headline": "Exeter hold on against Newcastle as Sale extend Harlequins woes",
-      "description": "A hat-trick from Newcastle wing Christian Wade was not enough to stop Exeter claiming their first Gallagher Prem win of the season as they edged a topsy-turvy game at Sandy Park 34-28.",
-      "publishedAt": "2026-10-11T16:10:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-wade-rugby_7374420.jpg?20261011172342",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13597898/gallagher-prem-exeter-chiefs-hold-on-for-narrow-victory-against-newcastle-jets-as-sale-sharks-edge-harlequins-round-up",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50128014,
@@ -277,28 +340,6 @@
       ]
     },
     {
-      "id": "b732a233b004551924a8134ffac04379",
-      "source": "Sky Sports",
-      "headline": "Palace stun Forest on Glasner's Selhurst Park return",
-      "description": "Crystal Palace turned Oliver Glasner's Selhurst Park return on its head, coming from behind to beat Nottingham Forest 3-1 after a remarkable afternoon in south London.",
-      "publishedAt": "2026-10-11T15:10:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-yeremy-pino-jorgen-strand-larsen_7374312.jpg?20261011160658",
-      "link": "https://www.skysports.com/football/crystal-palace-vs-nottingham-forest/report/559498",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "ff3f74c864517e0d0b3c24a8cbda6f40",
-      "source": "Sky Sports",
-      "headline": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
-      "description": "Mohamed Belloumi came off the bench to earn Hull City a 2-2 draw in a thrilling four-goal second-half which leaves Everton still unbeaten.",
-      "publishedAt": "2026-10-11T15:00:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-mohamed-belloumi_7374277.jpg?20261011154734",
-      "link": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 50156268,
       "source": "ESPN",
       "headline": "Roberto De Zerbi sees something to build on from Tottenham draw at Man United",
@@ -342,17 +383,6 @@
       ]
     },
     {
-      "id": "ec32f11f2d863cd83d07dd5e4585d997",
-      "source": "Sky Sports",
-      "headline": "Ten-man Southampton secure first league derby win since 2004",
-      "description": "Ten-man Southampton secured their first South Coast derby win in the league in over two decades with a 1-0 home victory over Portsmouth.",
-      "publishedAt": "2026-10-11T13:00:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-james-bree-southampton_7373976.jpg?20261011122957",
-      "link": "https://www.skysports.com/football/southampton-vs-portsmouth/report/560601",
-      "tag": "Report",
-      "teams": []
-    },
-    {
       "id": 50155787,
       "source": "ESPN",
       "headline": "Senne Lammens: Man United must get 'sour' taste of late Tottenham woe out of mouth",
@@ -390,22 +420,6 @@
       "tag": "Chelsea",
       "teams": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": 50155123,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man City, Man Utd, Spurs eye Atlético's Simeone",
-      "description": "Man City, Man United and Tottenham are all looking at bringing Atlético Madrid's Giuliano Simeone to the Premier League. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-11T09:05:45Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729094_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United",
-        "Tottenham Hotspur",
-        "Atlético Madrid"
       ]
     },
     {
@@ -449,25 +463,11 @@
         "Manchester United",
         "Tottenham Hotspur"
       ]
-    },
-    {
-      "id": 50150532,
-      "source": "ESPN",
-      "headline": "Roberto De Zerbi: I 'kissed' Rodrigo Bentancur after red card, the 'character' that Spurs need",
-      "description": "Tottenham Hotspur boss Roberto De Zerbi has revealed that he \"kissed\" Rodrigo Bentancur after his red card against Manchester United on Saturday, saying that his Spurs team need this type of \"reaction.\"",
-      "publishedAt": "2026-10-10T20:50:23Z",
-      "image": "https://a.espncdn.com/photo/2026/1010/r1728855_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50150532/roberto-de-zerbi-kissed-rodrigo-bentancur-red-card-character-spurs-need",
-      "tag": "Tottenham Hotspur",
-      "teams": [
-        "Tottenham Hotspur",
-        "Manchester United"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-11T21:54:36.505Z"
+    "cachedAt": "2026-10-12T05:51:24.169Z"
   }
 }
