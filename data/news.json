@@ -2,12 +2,154 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50173447,
+      "source": "ESPN",
+      "headline": "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK",
+      "description": "Liverpool are set to be without Alexander Isak, Cody Gakpo and Dominik Szoboszlai for Wednesday's UEFA Champions League clash with LASK.",
+      "publishedAt": "2026-10-13T13:26:34Z",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729179_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50173447/liverpool-alexander-isak-cody-gakpo-dominik-szoboszlai-miss-champions-league-clash-lask",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50171789,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Barcelona, Real Madrid scout Erling Haaland at Anfield",
+      "description": "Barcelona and Real Madrid continue to keep tabs on Erling Haaland, while Chelsea growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-13T13:15:08Z",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730042_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Real Madrid",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 50166633,
+      "source": "ESPN",
+      "headline": "Premier League overreactions: Takeaways from first games post-international break",
+      "description": "After a three-week intermission, the Premier League returned with a bang last weekend. Will Man City eventually crumble under the pressure? Is this the real Man United? Let's overreact!",
+      "publishedAt": "2026-10-13T12:41:41Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729833_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50166633/premier-league-overreactions-takeaways-first-games-post-international-break-man-city-liverpool-man-united",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Manchester United",
+        "Liverpool",
+        "Fulham",
+        "Brighton & Hove Albion"
+      ]
+    },
+    {
+      "id": 50165374,
+      "source": "ESPN",
+      "headline": "Why did Man City fans bring inflatable bananas to Anfield?",
+      "description": "At Anfield on Sunday, Man City fans waved hundreds of inflatable bananas, but how do they relate to the club's guilty verdict?",
+      "publishedAt": "2026-10-13T12:31:44Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729611_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50172881,
+      "source": "ESPN",
+      "headline": "Enzo Maresca on Man City celebration at Anfield: 'What do you want us to do?'",
+      "description": "Enzo Maresca has hit back at criticism of Manchester City's celebrations at Anfield on Sunday by saying: \"What do you want us to do?\"",
+      "publishedAt": "2026-10-13T11:58:01Z",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730084_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50172881/enzo-maresca-man-city-celebration-anfield-do-want-us-do",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "d071e69c3269d1042571cbca5b6caa94",
+      "source": "Sky Sports",
+      "headline": "Why Brighton are the best team in the Premier League right now",
+      "description": "Jaouen Hadjam needed only 309 seconds of his Premier League debut to score Brighton’s second goal in their 2-0 win over Sunderland on Saturday. In doing so, he became the tenth Brighton player to score in the Premier League already this season.",
+      "publishedAt": "2026-10-13T11:30:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-brighton_7375668.jpg?20261013091217",
+      "link": "https://www.skysports.com/football/news/12040/13598114/fabian-hurzelers-brighton-are-the-best-team-in-the-premier-league-right-now-a-collective-effort-with-10-different-scorers",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "bc841f45f472fbe13bcda155d39dfbb6",
+      "source": "Sky Sports",
+      "headline": "A PL giant to fall? Newly-promoted clubs changing relegation equation",
+      "description": "Hull, Coventry and Ipswich have already collected 24 points between them after six games, so the conversation is starting to shift from pre-season vibes on whether all three newly-promoted clubs will be relegated to which established Premier League names could be in the scrap for survival.",
+      "publishedAt": "2026-10-13T10:35:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-relegation_7375761.jpg?20261013111254",
+      "link": "https://www.skysports.com/football/news/12040/13598758/a-premier-league-giant-to-fall-hull-ipswich-and-coventry-are-changing-the-relegation-equation-this-season",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "96eebf0edfab82a60d5eb727d0825209",
+      "source": "Sky Sports",
+      "headline": "Infantino under pressure after second £1.3m salary revealed",
+      "description": "FIFA president Gianni Infantino is under increasing pressure to resign after it was revealed that he received an undeclared second salary of £1.3m in 2024.",
+      "publishedAt": "2026-10-13T10:21:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-gianni-infantino_7375643.jpg?20261013084027",
+      "link": "https://www.skysports.com/football/news/12040/13598724/gianni-infantino-fifa-president-received-undeclared-second-salary-payment-of-1-3m-from-world-cup-company",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "c5b5048eba4e4548106709fe45c24536",
+      "source": "Sky Sports",
+      "headline": "Bloom reiterates Hearts' title ambition ahead of Celtic Park return",
+      "description": "Tony Bloom has reiterated that he would be \"really disappointed\" if Hearts fail to win the Scottish Premiership within a decade.",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-bloom-hearts-tony_7194966.jpg?20260316220917",
+      "link": "https://www.skysports.com/football/news/12040/13596538/tony-bloom-hearts-investor-reiterates-scottish-premiership-title-ambition-ahead-of-celtic-park-return",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50168830,
+      "source": "ESPN",
+      "headline": "Man United could never contend for the Premier League title -- but they aren't so bad either",
+      "description": "Man United fans go from thinking the team will win the Premier League to thinking the sky is falling. The truth is in the middle and it's unlikely to shift.",
+      "publishedAt": "2026-10-13T08:28:35Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729894_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50168830/man-united-never-contend-premier-league-title-bad-either",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50171697,
+      "source": "ESPN",
+      "headline": "Hull winger Mohamed Belloumi has the last laugh after pundits' mockery",
+      "description": "Mohamed Belloumi may have been the brunt of some studio jokes during the Premier League weekend, but the winger again proved why he could be the man to keep Hull City in the top flight this season.",
+      "publishedAt": "2026-10-13T07:07:22Z",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730035_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/espn/story/_/id/50171697/hull-winger-mohamed-belloumi-last-laugh-pundits-mockery",
+      "tag": "Hull City",
+      "teams": [
+        "Hull City",
+        "Algeria"
+      ]
+    },
+    {
       "id": 50169452,
       "source": "ESPN",
       "headline": "Lampard: Coventry 'feet on the ground' after Newcastle win",
       "description": "Coventry City boss Frank Lampard is not allowing his side to get carried away after they earned a thumping 4-1 home victory over Newcastle United on Monday.",
-      "publishedAt": "2026-10-12T23:18:51Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729921_1296x729_16-9.jpg",
+      "publishedAt": "2026-10-13T06:40:13Z",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730029_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
       "tag": "Coventry City",
       "teams": [
@@ -15,13 +157,13 @@
       ]
     },
     {
-      "id": "5108e4348ae036d3f942725249b60e4c",
+      "id": "767f623b6163fbcc3229ea54f747db36",
       "source": "Sky Sports",
-      "headline": "Jaissle sorry for Coventry loss as Carra says Newcastle 'beaten up' again",
-      "description": "Newcastle boss Matthias Jaissle has apologised to the travelling fans following their 4-1 loss at Coventry, as Jamie Carragher said they were \"beaten up\" once again on the road.",
-      "publishedAt": "2026-10-12T22:25:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-matthias-jaissle_7375510.jpg?20261012233326",
-      "link": "https://www.skysports.com/football/news/12040/13598360/matthias-jaissle-newcastle-boss-apologises-for-coventry-loss-as-jamie-carragher-says-they-were-beaten-up",
+      "headline": "Championship Catch-up: Swans soaring, Burnley win and Eckert saga ends",
+      "description": "",
+      "publishedAt": "2026-10-13T06:00:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-championship-catch_7375150.jpg?20261012150238",
+      "link": "https://www.skysports.com/football/news/12040/13598196/swansea-soaring-burnley-get-their-first-win-and-tonda-eckert-saga-ends-championship-catch-up",
       "tag": "News Story",
       "teams": []
     },
@@ -68,17 +210,6 @@
       ]
     },
     {
-      "id": "e2f195162d57937ae199ca6bef942f62",
-      "source": "Sky Sports",
-      "headline": "Papers: Haaland and father buy properties on Man City's Abu Dhabi development",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "publishedAt": "2026-10-12T22:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "link": "https://www.skysports.com/football/news/12040/13598353/erling-haaland-man-city-star-and-father-buy-abu-dhabi-properties-on-premier-league-clubs-development-paper-talk",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50128080,
       "source": "ESPN",
       "headline": "Coventry put four past Newcastle to climb out of relegation zone",
@@ -107,28 +238,6 @@
       ]
     },
     {
-      "id": "b8ad8339b61cafae425051acc7e46c16",
-      "source": "Sky Sports",
-      "headline": "Coventry thump Newcastle for first home win to move out of drop zone",
-      "description": "Coventry made it back-to-back Premier League wins with a thumping 4-1 home victory over Newcastle to move Frank Lampard's side out of the relegation zone.",
-      "publishedAt": "2026-10-12T21:00:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-stephen-mfuni-coventry_7375465.jpg?20261012222055",
-      "link": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
-      "tag": "Report",
-      "teams": []
-    },
-    {
-      "id": "bbb233c962720bf22a03935bea76c601",
-      "source": "Sky Sports",
-      "headline": "'A complete MESS!' - Rudoni gives Coventry lead from spot after Hornicek slow to challenge",
-      "description": "Jack Rudoni scores Coventry's first Premier League home goal for more than 25 years!",
-      "publishedAt": "2026-10-12T19:14:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-coventry_7375372.jpg?20261012201821",
-      "link": "https://www.skysports.com/watch/video/13598307/goal-j-rudoni-6-pen-coventry-1-0-newcastle",
-      "tag": "Video",
-      "teams": []
-    },
-    {
       "id": 50166551,
       "source": "ESPN",
       "headline": "Steven Gerrard says Man City must be stripped of titles after guilty verdict: 'Make them suffer'",
@@ -141,17 +250,6 @@
         "Manchester City",
         "Liverpool"
       ]
-    },
-    {
-      "id": "0970b1b3e1f6b06f52e57852afa57826",
-      "source": "Sky Sports",
-      "headline": "Four Super League clubs show support for NRL deal after Leigh criticism",
-      "description": "Leeds Rhinos, St Helens, Hull KR and Hull FC have released statements in favour of the NRL's investment in Super League after Leigh Leopards owner Derek Beaumont came out against the deal on social media.",
-      "publishedAt": "2026-10-12T15:35:00.000Z",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-peter-vlandys-rugby-league_7320759.jpg?20260813160933",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13598221/leeds-rhinos-st-helens-hull-kr-hull-fc-release-statements-in-support-of-nrl-investment-after-leigh-leopards-owner-comes-out-against-deal",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50165976,
@@ -205,19 +303,6 @@
       "link": "https://www.espn.com/soccer/story/_/id/50165610/football-braces-independent-football-regulator-state-game-report",
       "tag": "HeadlineNews",
       "teams": []
-    },
-    {
-      "id": 50165374,
-      "source": "ESPN",
-      "headline": "Why did Man City fans bring inflatable bananas to Anfield?",
-      "description": "At Anfield on Sunday, Man City fans waved hundreds of inflatable bananas, but how do they relate to the club's guilty verdict?",
-      "publishedAt": "2026-10-12T12:46:08Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729611_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50165374/why-did-man-city-fans-bring-inflatable-bananas-liverpool-anfield",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
     },
     {
       "id": 50163017,
@@ -375,34 +460,6 @@
       ]
     },
     {
-      "id": 50158698,
-      "source": "ESPN",
-      "headline": "Man City show defiance in wake of cheating scandal, trounce depleted Liverpool",
-      "description": "Liverpool fans brought banners and chants aplenty, but Man City showed no signs of slowing down in their first match since the Premier League issued its guilty verdict.",
-      "publishedAt": "2026-10-11T20:08:06Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729296_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50158698/man-city-snarl-defiance-wake-cheating-scandal-thrash-depleted-liverpool",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50159585,
-      "source": "ESPN",
-      "headline": "Liverpool's Andoni Iraola: Ryan Gravenberch did not deserve two yellows in Man City loss",
-      "description": "Liverpool head coach Andoni Iraola has criticised the referee's decision to show Ryan Gravenberch a red card in Sunday's 3-0 defeat to Manchester City.",
-      "publishedAt": "2026-10-11T19:47:16Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729328_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50159585/liverpool-andoni-iraola-ryan-gravenberch-did-not-deserve-two-yellows-man-city-loss",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50159720,
       "source": "ESPN",
       "headline": "Andy Burnham to publish Man City mayoral dealings after intervention draws criticism",
@@ -414,66 +471,11 @@
       "teams": [
         "Manchester City"
       ]
-    },
-    {
-      "id": 50159637,
-      "source": "ESPN",
-      "headline": "Erling Haaland: 'I'm so proud' of Man City after win at Liverpool",
-      "description": "Erling Haaland spoke of his pride after Manchester City claimed victory amid a hostile reception at Anfield.",
-      "publishedAt": "2026-10-11T19:09:55Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729320_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50159637/erling-haaland-proud-man-city-win-liverpool",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50159480,
-      "source": "ESPN",
-      "headline": "Enzo Maresca praises Man City's 'togetherness' as club hierarchy show united front at Liverpool",
-      "description": "Enzo Maresca has praised Manchester City's togetherness after the club's hierarchy showed a united front during Sunday's 3-0 victory over Liverpool.",
-      "publishedAt": "2026-10-11T19:09:34Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Maresca_proud_to_see_Man_City_deal_with_the_noise_in_Anfield_win/dm_261011_Maresca_proud_to_see_Man_City_deal_with_the_noise_in_Anfield_win.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50159480/man-city-enzo-maresca-financial-breaches-liverpool-premier-league",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50159562,
-      "source": "ESPN",
-      "headline": "Iraola questions Gravenberch sending off in defeat to Man City",
-      "description": "Iraola questions Gravenberch sending off in defeat to Man City",
-      "publishedAt": "2026-10-11T18:52:30Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Iraola_questions_Gravenberch_sending_off_in_defeat_to_Man_City/dm_261011_Iraola_questions_Gravenberch_sending_off_in_defeat_to_Man_City.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50159562/iraola-questions-gravenberch-sending-defeat-man-city",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50159387,
-      "source": "ESPN",
-      "headline": "Maresca proud to see Man City 'deal with the noise' in Anfield win",
-      "description": "Maresca proud to see Man City 'deal with the noise' in Anfield win",
-      "publishedAt": "2026-10-11T18:31:17Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Maresca_proud_to_see_Man_City_deal_with_the_noise_in_Anfield_win/dm_261011_Maresca_proud_to_see_Man_City_deal_with_the_noise_in_Anfield_win.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50159387/maresca-proud-see-man-city-deal-noise-anfield-win",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-13T00:35:56.206Z"
+    "cachedAt": "2026-10-13T14:06:31.165Z"
   }
 }
