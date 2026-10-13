@@ -2,16 +2,182 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50169452,
+      "source": "ESPN",
+      "headline": "Lampard: Coventry 'feet on the ground' after Newcastle win",
+      "description": "Coventry City boss Frank Lampard is not allowing his side to get carried away after they earned a thumping 4-1 home victory over Newcastle United on Monday.",
+      "publishedAt": "2026-10-12T23:18:51Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729921_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City"
+      ]
+    },
+    {
+      "id": "5108e4348ae036d3f942725249b60e4c",
+      "source": "Sky Sports",
+      "headline": "Jaissle sorry for Coventry loss as Carra says Newcastle 'beaten up' again",
+      "description": "Newcastle boss Matthias Jaissle has apologised to the travelling fans following their 4-1 loss at Coventry, as Jamie Carragher said they were \"beaten up\" once again on the road.",
+      "publishedAt": "2026-10-12T22:25:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-matthias-jaissle_7375510.jpg?20261012233326",
+      "link": "https://www.skysports.com/football/news/12040/13598360/matthias-jaissle-newcastle-boss-apologises-for-coventry-loss-as-jamie-carragher-says-they-were-beaten-up",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50169204,
+      "source": "ESPN",
+      "headline": "Ogden: Every team's fans will be against Man City after this win",
+      "description": "Ogden: Every team's fans will be against Man City after this win",
+      "publishedAt": "2026-10-12T22:20:24Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Ogden_Every_teams_fans_will_be_against_Man_City_after_this_win_2026_10_12/dm_261012_COM_SOC_ANALYSIS_Ogden_Every_teams_fans_will_be_against_Man_City_after_this_win_2026_10_12.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50169204/every-team-fans-man-city-win",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50169196,
+      "source": "ESPN",
+      "headline": "Ogden: Man United have set Carrick up to fail",
+      "description": "Ogden: Man United have set Carrick up to fail",
+      "publishedAt": "2026-10-12T22:16:44Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Ogden_Man_United_have_set_Carrick_up_to_fail_2026_10_12/dm_261012_COM_SOC_ANALYSIS_Ogden_Man_United_have_set_Carrick_up_to_fail_2026_10_12.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50169196/man-united-set-carrick-fail",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Tottenham Hotspur"
+      ]
+    },
+    {
+      "id": 50169164,
+      "source": "ESPN",
+      "headline": "Should the Man City saga force changes to the Premier League's PSR rules?",
+      "description": "Should the Man City saga force changes to the Premier League's PSR rules?",
+      "publishedAt": "2026-10-12T22:12:21Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Should_the_Man_City_saga_force_changes_to_the_Premier_Leagues_PSR_rules_2026_10/dm_261012_COM_SOC_ANALYSIS_Should_the_Man_City_saga_force_changes_to_the_Premier_Leagues_PSR_rules_2026_10.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50169164/should-man-city-saga-force-changes-premier-league-psr-rules",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool",
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "e2f195162d57937ae199ca6bef942f62",
+      "source": "Sky Sports",
+      "headline": "Papers: Haaland and father buy properties on Man City's Abu Dhabi development",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "publishedAt": "2026-10-12T22:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "link": "https://www.skysports.com/football/news/12040/13598353/erling-haaland-man-city-star-and-father-buy-abu-dhabi-properties-on-premier-league-clubs-development-paper-talk",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50128080,
+      "source": "ESPN",
+      "headline": "Coventry put four past Newcastle to climb out of relegation zone",
+      "description": "Coventry City picked up their first home victory in the Premier League for 25 years with an emphatic 4-1 win over Newcastle United on Monday.",
+      "publishedAt": "2026-10-12T21:31:19Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729844_1296x729_16-9.jpg",
+      "link": "http://www.espn.com/soccer/report/_/gameId/401879267",
+      "tag": "Coventry City",
+      "teams": [
+        "Coventry City",
+        "Newcastle United"
+      ]
+    },
+    {
+      "id": 50164459,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Man United eye move for Fulham youngster King",
+      "description": "Manchester United are reportedly interested in Fulham teenager Josh King. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-12T21:10:22Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729845_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "b8ad8339b61cafae425051acc7e46c16",
+      "source": "Sky Sports",
+      "headline": "Coventry thump Newcastle for first home win to move out of drop zone",
+      "description": "Coventry made it back-to-back Premier League wins with a thumping 4-1 home victory over Newcastle to move Frank Lampard's side out of the relegation zone.",
+      "publishedAt": "2026-10-12T21:00:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-stephen-mfuni-coventry_7375465.jpg?20261012222055",
+      "link": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "bbb233c962720bf22a03935bea76c601",
+      "source": "Sky Sports",
+      "headline": "'A complete MESS!' - Rudoni gives Coventry lead from spot after Hornicek slow to challenge",
+      "description": "Jack Rudoni scores Coventry's first Premier League home goal for more than 25 years!",
+      "publishedAt": "2026-10-12T19:14:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-coventry_7375372.jpg?20261012201821",
+      "link": "https://www.skysports.com/watch/video/13598307/goal-j-rudoni-6-pen-coventry-1-0-newcastle",
+      "tag": "Video",
+      "teams": []
+    },
+    {
+      "id": 50166551,
+      "source": "ESPN",
+      "headline": "Steven Gerrard says Man City must be stripped of titles after guilty verdict: 'Make them suffer'",
+      "description": "Steven Gerrard has said that Manchester City \"have to be stripped\" of their titles after the club were found guilty of 100+ charges of financial misconduct by the Premier League.",
+      "publishedAt": "2026-10-12T16:06:53Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729718_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50166551/steven-gerrard-says-man-city-stripped-titles-guilty-verdict-make-suffer",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0970b1b3e1f6b06f52e57852afa57826",
+      "source": "Sky Sports",
+      "headline": "Four Super League clubs show support for NRL deal after Leigh criticism",
+      "description": "Leeds Rhinos, St Helens, Hull KR and Hull FC have released statements in favour of the NRL's investment in Super League after Leigh Leopards owner Derek Beaumont came out against the deal on social media.",
+      "publishedAt": "2026-10-12T15:35:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-peter-vlandys-rugby-league_7320759.jpg?20260813160933",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13598221/leeds-rhinos-st-helens-hull-kr-hull-fc-release-statements-in-support-of-nrl-investment-after-leigh-leopards-owner-comes-out-against-deal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50165976,
       "source": "ESPN",
       "headline": "Mikel Arteta defends Arsenal after Piero Hincapié, Martin Zubimendi injuries",
       "description": "Mikel Arteta has defended Arsenal's training programme after confirming Piero Hincapié and Martín Zubimendi suffered \"far from ideal\" injuries in a post-match session on Saturday.",
-      "publishedAt": "2026-10-12T13:40:25Z",
+      "publishedAt": "2026-10-12T15:08:33Z",
       "image": "https://a.espncdn.com/photo/2026/1012/r1729650_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50165976/mikel-arteta-defends-arsenal-piero-hincapie-martin-zubimendi-injuries",
       "tag": "Arsenal",
       "teams": [
         "Arsenal"
+      ]
+    },
+    {
+      "id": 50166509,
+      "source": "ESPN",
+      "headline": "'Never happened in seven years!' - Arteta confirms double injury blow",
+      "description": "'Never happened in seven years!' - Arteta confirms double injury blow",
+      "publishedAt": "2026-10-12T15:07:27Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50166509/never-happened-seven-years-arteta-confirms-double-injury-blow",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Lille"
       ]
     },
     {
@@ -123,17 +289,6 @@
       ]
     },
     {
-      "id": "9e83ccd9079bb96d5cb0d858a5f5b6c9",
-      "source": "Sky Sports",
-      "headline": "Pressing problems for Man Utd? How viral clip exposes issues for Carrick",
-      "description": "It's the clip that everyone is talking about on social media. By Monday morning, there had been three million views of a video showing Spurs passing through the Man Utd press and breaking up the pitch with ease.",
-      "publishedAt": "2026-10-12T08:59:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-matheus-cunha-manchester_7374952.jpg?20261012113111",
-      "link": "https://www.skysports.com/football/news/12040/13598084/manchester-united-viral-clip-shows-spurs-beat-the-press-at-old-trafford-and-exposes-other-issues",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50164676,
       "source": "ESPN",
       "headline": "Maresca: Manchester City dealt with Anfield 'very well'",
@@ -160,31 +315,6 @@
         "Liverpool",
         "Manchester City"
       ]
-    },
-    {
-      "id": 50164459,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye Hull GK as Alisson successor",
-      "description": "Liverpool are looking at Hull City GK Konstantinos Tzolakis, while Man United are interested in Fulham teenager Josh King. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-12T07:36:47Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729596_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Hull City"
-      ]
-    },
-    {
-      "id": "255b12438dc090e715eafb2716d2bd72",
-      "source": "Sky Sports",
-      "headline": "If Declan Rice is not a 'lighthouse' anymore, then what is he?",
-      "description": "Coming into the new season, Mikel Arteta had a private conversation with Declan Rice. The topic was his role on the pitch.",
-      "publishedAt": "2026-10-12T07:29:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-arsenal_7374847.jpg?20261012093825",
-      "link": "https://www.skysports.com/football/news/12040/13598047/declan-rice-mikel-arteta-says-arsenal-midfielder-has-transitioned-away-from-his-lighthouse-role-so-what-is-he",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50161470,
@@ -229,17 +359,6 @@
         "Liverpool",
         "Manchester City"
       ]
-    },
-    {
-      "id": "c6e42476da3afdc0ed8cbe8ce0c64d91",
-      "source": "Sky Sports",
-      "headline": "Lazio fly high in Serie A, Freiburg lead Bundesliga, Betis go third in Spain",
-      "description": "",
-      "publishedAt": "2026-10-11T20:48:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-nuno-tavares-lazio_7374654.jpg?20261011215935",
-      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "tag": "Liveblog",
-      "teams": []
     },
     {
       "id": 49703019,
@@ -325,20 +444,6 @@
       ]
     },
     {
-      "id": 50158820,
-      "source": "ESPN",
-      "headline": "Man City thrash Liverpool as Enzo Maresca's men silence vitriolic Anfield",
-      "description": "Manchester City thrashed 10-man Liverpool 3-0 to silence a vitriolic atmosphere at Anfield and maintain their perfect start in the Premier League.",
-      "publishedAt": "2026-10-11T18:54:17Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729249_594x334_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50158820/man-city-thrash-liverpool-enzo-maresca-men-silence-vitriolic-anfield",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
       "id": 50159562,
       "source": "ESPN",
       "headline": "Iraola questions Gravenberch sending off in defeat to Man City",
@@ -349,20 +454,6 @@
       "tag": "Liverpool",
       "teams": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": 50159355,
-      "source": "ESPN",
-      "headline": "Dawson: Anfield win could mean nothing if Man City are punished",
-      "description": "Dawson: Anfield win could mean nothing if Man City are punished",
-      "publishedAt": "2026-10-11T18:38:15Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Dawson_Three_points_vs_Liverpool_could_be_taken_off_Manchester_City/dm_261011_Dawson_Three_points_vs_Liverpool_could_be_taken_off_Manchester_City.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50159355/anfield-win-mean-man-city-punished",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
       ]
     },
     {
@@ -378,81 +469,11 @@
         "Liverpool",
         "Manchester City"
       ]
-    },
-    {
-      "id": 50159375,
-      "source": "ESPN",
-      "headline": "Nicol: I have no sympathy for Manchester City players",
-      "description": "Nicol: I have no sympathy for Manchester City players",
-      "publishedAt": "2026-10-11T18:25:12Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Nicol_I_have_no_sympathy_for_Manchester_City_players/dm_261011_Nicol_I_have_no_sympathy_for_Manchester_City_players.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50159375/no-sympathy-manchester-city-players",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50159327,
-      "source": "ESPN",
-      "headline": "Nicol: We might as well get AI to referee Liverpool vs. Manchester City",
-      "description": "Nicol: We might as well get AI to referee Liverpool vs. Manchester City",
-      "publishedAt": "2026-10-11T18:12:10Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Nicol_We_might_as_well_get_AI_to_referee_Liverpool_vs_Manchester_City/dm_261011_Nicol_We_might_as_well_get_AI_to_referee_Liverpool_vs_Manchester_City.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50159327/well-get-ai-referee-liverpool-vs-manchester-city",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50134705,
-      "source": "ESPN",
-      "headline": "Premier League recap: Man City cruise past 10-man Liverpool",
-      "description": "Liverpool's Ryan Gravenberch was sent off, and Man City responded to his dismissal with three goals in 13 minutes.",
-      "publishedAt": "2026-10-11T18:03:30Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729247_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50134705/premier-league-live-updates-liverpool-manchester-city-ac-milan",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50156935,
-      "source": "ESPN",
-      "headline": "Liverpool fans 'welcome' Man City in first Premier League match since guilty verdict",
-      "description": "With Man City in town to play their first match since being found guilty of breaching Premier League financial rules, Liverpool fans were extremely keen to make their feelings known.",
-      "publishedAt": "2026-10-11T16:53:03Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729124_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50156935/liverpool-fans-welcome-manchester-city-anfield-premier-league-guilty-verdict-cheating-scandal",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50157531,
-      "source": "ESPN",
-      "headline": "Carrick: There's no hiding from reality of Manchester United's points so far",
-      "description": "Carrick: There's no hiding from reality of Manchester United's points so far",
-      "publishedAt": "2026-10-11T15:14:22Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Carrick_Theres_no_hiding_from_reality_of_Manchester_Uniteds_points_so_far/dm_261011_Carrick_Theres_no_hiding_from_reality_of_Manchester_Uniteds_points_so_far.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50157531/there-no-hiding-reality-manchester-united-points-far",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Tottenham Hotspur"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-12T15:16:23.358Z"
+    "cachedAt": "2026-10-13T00:35:56.206Z"
   }
 }
