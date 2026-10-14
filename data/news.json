@@ -2,11 +2,51 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50168830,
+      "source": "ESPN",
+      "headline": "Man United could never contend for the Premier League title -- but they aren't so bad either",
+      "description": "Man United fans go from thinking the team will win the Premier League to thinking the sky is falling. The truth is in the middle and it's unlikely to shift.",
+      "publishedAt": "2026-10-14T03:22:23Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729894_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50168830/man-united-never-contend-premier-league-title-bad-either",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50177357,
+      "source": "ESPN",
+      "headline": "Arsenal showed strength in depth in Lille win, but Gyökeres is a concern",
+      "description": "Arsenal's substitutes made the difference once again, but Mikel Arteta's side still have questions as tougher tests await.",
+      "publishedAt": "2026-10-14T00:37:21Z",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730378_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50177357/arsenal-showed-strength-depth-lille-win-viktor-gyokeres-concern",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50171789,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Chelsea confident in January move for Scott",
+      "description": "Chelsea are growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-13T23:32:19Z",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730398_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "AFC Bournemouth"
+      ]
+    },
+    {
       "id": 50177021,
       "source": "ESPN",
       "headline": "Lisandro Martínez slams Man United hierarchy: Squad not Champions League quality",
       "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
-      "publishedAt": "2026-10-13T22:28:20Z",
+      "publishedAt": "2026-10-13T23:03:43Z",
       "image": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
       "link": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
       "tag": "Manchester United",
@@ -15,19 +55,70 @@
       ]
     },
     {
-      "id": 50171789,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Barcelona, Real Madrid scout Erling Haaland at Anfield",
-      "description": "Barcelona and Real Madrid continue to keep tabs on Erling Haaland, while Chelsea growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-13T21:48:22Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730042_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Real Madrid",
-        "Barcelona"
-      ]
+      "id": "1c06c84d2f56695eb5adba0e1157e96e",
+      "source": "Sky Sports",
+      "headline": "EFL latest: Police investigating after Swansea's Eom targeted by alleged racist chanting",
+      "description": "",
+      "publishedAt": "2026-10-13T22:04:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-eom-ji-sung-swansea_7376416.png?20261013230147",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "fa06f03218d40bef2e55b6f592b3deff",
+      "source": "Sky Sports",
+      "headline": "Potter’s the present, not just the future after impressive England debut",
+      "description": "Lexi Potter could not have done more to prove she should not only be in England’s World Cup squad next summer, she could also be in the starting XI.",
+      "publishedAt": "2026-10-13T21:50:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-lexi-potter-england_7376378.png?20261013224100",
+      "link": "https://www.skysports.com/football/news/12040/13599032/lexi-potter-england-women-midfielder-the-present-not-just-the-future-after-impressive-debut-in-world-cup-play-off",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "e8c6e8dc75db62e0d7d92508d542edcd",
+      "source": "Sky Sports",
+      "headline": "Martinez calls out Man Utd hierarchy",
+      "description": "Manchester United's Lisandro Martinez launched an extraordinary attack on the club’s hierarchy after their 2-0 Champions League loss at Atletico Madrid.",
+      "publishedAt": "2026-10-13T21:30:00.000Z",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-michael-carrick-lisandro-martinez_7357426.jpg?20260920194716",
+      "link": "https://www.skysports.com/football/news/12040/13598950/man-utd-defender-lisandro-martinez-extraordinarily-calls-out-clubs-hierarchy-after-atletico-madrid-loss-in-champions-league",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "6e6a5226c25e9e55ddb76c19d6c7455f",
+      "source": "Sky Sports",
+      "headline": "Man Utd latest: VOTE! Do you agree with explosive Martinez interview?",
+      "description": "",
+      "publishedAt": "2026-10-13T21:12:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "0310fe2e9da390ad249221fa20a933c0",
+      "source": "Sky Sports",
+      "headline": "Saka shines as Arsenal cruise to Champions League win over Lille",
+      "description": "Arsenal scored three goals in seven second-half minutes to beat Lille 3-0 and continue their winning start in the Champions League.",
+      "publishedAt": "2026-10-13T20:45:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-eberechi-eze-myles-lewis-skelly_7376277.jpg?20261013214010",
+      "link": "https://www.skysports.com/football/arsenal-vs-lille/report/577615",
+      "tag": "Report",
+      "teams": []
+    },
+    {
+      "id": "895b2e05c443e6cfe4e9c70b0e81d2ab",
+      "source": "Sky Sports",
+      "headline": "Spurs latest: Outcast Richarlison scores for U21s in EFL trophy loss",
+      "description": "",
+      "publishedAt": "2026-10-13T20:15:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50166633,
@@ -148,50 +239,26 @@
       ]
     },
     {
-      "id": "cdfa25de749680e18cd1f75fd8930edf",
+      "id": "0e9bbd96a89f9b21ae78688be3c9f900",
       "source": "Sky Sports",
-      "headline": "'What do you want us to do?' - Maresca defends Anfield celebrations",
-      "description": "Manchester City boss Enzo Maresca has defended the post-match celebrations of his squad following their 3-0 win at Liverpool on Sunday.",
-      "publishedAt": "2026-10-13T11:45:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-man-city-liverpool_7375820.jpg?20261013123453",
-      "link": "https://www.skysports.com/football/news/12040/13598805/enzo-maresca-man-city-boss-defends-anfield-celebrations-after-beating-liverpool-in-first-game-since-guilty-verdict",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "bc841f45f472fbe13bcda155d39dfbb6",
-      "source": "Sky Sports",
-      "headline": "A PL giant to fall? Newly-promoted clubs changing relegation equation",
-      "description": "Hull, Coventry and Ipswich have already collected 24 points between them after six games, so the conversation is starting to shift from pre-season vibes on whether all three newly-promoted clubs will be relegated to which established Premier League names could be in the scrap for survival.",
-      "publishedAt": "2026-10-13T10:35:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-relegation_7375761.jpg?20261013111254",
-      "link": "https://www.skysports.com/football/news/12040/13598758/a-premier-league-giant-to-fall-hull-ipswich-and-coventry-are-changing-the-relegation-equation-this-season",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "65143bf96696d6122f638db05d28c108",
-      "source": "Sky Sports",
-      "headline": "Arsenal vs Lille LIVE!",
+      "headline": "Arsenal latest: Areta gives update on injured duo Zubimendi and Hincapie",
       "description": "",
-      "publishedAt": "2026-10-13T09:10:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-bruno-guimaraes-arsenal_7372967.jpg?20261010140742",
-      "link": "https://www.skysports.com/football/arsenal-vs-lille/live/577615",
+      "publishedAt": "2026-10-13T11:22:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "tag": "Liveblog",
       "teams": []
     },
     {
-      "id": 50168830,
-      "source": "ESPN",
-      "headline": "Man United could never contend for the Premier League title -- but they aren't so bad either",
-      "description": "Man United fans go from thinking the team will win the Premier League to thinking the sky is falling. The truth is in the middle and it's unlikely to shift.",
-      "publishedAt": "2026-10-13T08:28:35Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729894_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50168830/man-united-never-contend-premier-league-title-bad-either",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
+      "id": "e507a5058db91574099170822e70c9ce",
+      "source": "Sky Sports",
+      "headline": "Arsenal 3-0 Lille commentary",
+      "description": "",
+      "publishedAt": "2026-10-13T09:10:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-eze-arsenal-konda_7376273.jpg?20261013213732",
+      "link": "https://www.skysports.com/football/arsenal-vs-lille/live/577615",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50171697,
@@ -358,20 +425,6 @@
       "teams": []
     },
     {
-      "id": 50163017,
-      "source": "ESPN",
-      "headline": "The Premier League's new villains: Anfield gives Man City a taste of what's to come",
-      "description": "Man City faced fury at Anfield after being found guilty of cheating, but Erling Haaland & Co. answered the hostility with an emphatic 3-0 win.",
-      "publishedAt": "2026-10-12T12:19:38Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729599_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50163017/the-premier-league-new-villains-liverpool-anfield-give-man-city-taste-come",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Liverpool"
-      ]
-    },
-    {
       "id": 50165375,
       "source": "ESPN",
       "headline": "Ten arrests, police officer injured, after Liverpool vs. Man City",
@@ -453,22 +506,11 @@
         "Liverpool",
         "Manchester City"
       ]
-    },
-    {
-      "id": "d4d6ef55897977240f0342612590ae68",
-      "source": "Sky Sports",
-      "headline": "Tottenham latest: Spurs outcast Richarlison starts for U21s in EFL trophy",
-      "description": "",
-      "publishedAt": "2026-10-10T19:45:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-13T22:40:45.693Z"
+    "cachedAt": "2026-10-14T04:48:20.668Z"
   }
 }
