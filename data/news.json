@@ -2,6 +2,66 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50183001,
+      "source": "ESPN",
+      "headline": "Sources: Man United assessing Lisandro Martínez comments",
+      "description": "Manchester United bosses are assessing Lisandro Martínez's comments in the aftermath of the 2-0 defeat to Atletico Madrid before deciding whether to take disciplinary action against the Argentina defender, sources have told ESPN.",
+      "publishedAt": "2026-10-14T18:14:39Z",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730746_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50183001/man-united-lisandro-martinez-comments-atletico-madrid",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "39874943ee591cfa0df7d10bf67fcaa6",
+      "source": "Sky Sports",
+      "headline": "Hollywood star Bettany reflects on Arsenal's title win on Premier League show",
+      "description": "",
+      "publishedAt": "2026-10-14T17:32:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-paul-bettany-premier-league-show_7376694.jpg?20261014114248",
+      "link": "https://www.skysports.com/football/live-blog/12040/13455133/premier-league-show-live-latest-team-news-exclusive-interviews-and-analysis",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": 50177021,
+      "source": "ESPN",
+      "headline": "Lisandro Martínez slams Man United hierarchy: Squad not Champions League quality",
+      "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
+      "publishedAt": "2026-10-14T17:09:01Z",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "c39f36f299e736d98ad57cd0d3f7a4ca",
+      "source": "Sky Sports",
+      "headline": "Man City vs PSG team news LIVE!",
+      "description": "",
+      "publishedAt": "2026-10-14T16:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-rayan-cherki-manchester-city_7374482.jpg?20261011181743",
+      "link": "https://www.skysports.com/football/manchester-city-vs-paris-saint-germain/live/577628",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "0b8998414a50c2e7cae4e5b1164e98d9",
+      "source": "Sky Sports",
+      "headline": "Chelsea latest: Burnley boss says Blues prevented Satpayev facing Charlton",
+      "description": "",
+      "publishedAt": "2026-10-14T15:55:00.000Z",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 50181607,
       "source": "ESPN",
       "headline": "Mikel Merino says Arsenal are 'ready' for Premier League, Champions League double",
@@ -15,17 +75,15 @@
       ]
     },
     {
-      "id": 50177021,
-      "source": "ESPN",
-      "headline": "Lisandro Martínez slams Man United hierarchy: Squad not Champions League quality",
-      "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
-      "publishedAt": "2026-10-14T13:36:50Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
+      "id": "6e0559112d436427c20c6046619a8e7e",
+      "source": "Sky Sports",
+      "headline": "Martinez outburst Q&A: Wilcox, transfer strategy and what next for United?",
+      "description": "Lisandro Martinez's explosive outburst in the aftermath of Man Utd's defeat in Madrid on Tuesday has placed the focus firmly on director of football Jason Wilcox and the club's hierarchy.",
+      "publishedAt": "2026-10-14T14:11:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jason-wilcox_7376908.jpg?20261014154108",
+      "link": "https://www.skysports.com/football/news/12040/13599282/lisandro-martinez-manchester-united-outburst-qa-jason-wilcox-transfer-strategy-and-what-next",
+      "tag": "News Story",
+      "teams": []
     },
     {
       "id": 50180971,
@@ -54,28 +112,6 @@
       ]
     },
     {
-      "id": "26533922c3407acfe83591e7415ab859",
-      "source": "Sky Sports",
-      "headline": "Martinez's future at Man Utd in doubt after public outburst",
-      "description": "Lisandro Martinez's Manchester United future has been called into question following his extraordinary criticism of the club's bosses, and there are real doubts about whether the Argentine defender's contract will be extended when it expires in the summer.",
-      "publishedAt": "2026-10-14T11:00:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-manchester-united_7376722.jpg?20261014121708",
-      "link": "https://www.skysports.com/football/news/12040/13599196/lisandro-martinez-future-of-defender-at-man-utd-in-doubt-following-public-outburst-directed-at-clubs-hierarchy",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "5b1ec91947216d7f58a70640af6f958f",
-      "source": "Sky Sports",
-      "headline": "Saka struggling? He’s more of a threat than ever",
-      "description": "Mikel Arteta challenged Bukayo Saka to start scoring \"two or three goals per game\" before Arsenal's meeting with Lille . The winger clearly was listening. He only needed six minutes to find the net. And that was after providing an assist with his first touch.",
-      "publishedAt": "2026-10-14T10:25:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-arsenal_7376604.jpg?20261014094545",
-      "link": "https://www.skysports.com/football/news/12040/13599187/bukayo-saka-arsenal-winger-more-of-a-goal-threat-than-ever-and-proving-doubters-wrong-as-he-evolves",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
       "id": 50179920,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Real Madrid, Barcelona chase Spurs defender Porro",
@@ -89,28 +125,6 @@
         "Real Madrid",
         "Barcelona"
       ]
-    },
-    {
-      "id": "e92d7d0eb72eba15c4930e3ce24cefb6",
-      "source": "Sky Sports",
-      "headline": "Millwall boss Neil criticises decision to pause game after alleged racist chanting",
-      "description": "Millwall manager Alex Neil criticised the decision to pause Tuesday night's game against Swansea due to alleged racist chanting.",
-      "publishedAt": "2026-10-14T09:50:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-alex-neil-millwall_7376651.jpg?20261014104545",
-      "link": "https://www.skysports.com/football/news/12040/13599173/millwall-alex-neil-criticises-decision-to-pause-game-against-swansea-after-alleged-racist-chanting-towards-eom-ji-sung",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "364fd4d467326c265209dfa182530a4d",
-      "source": "Sky Sports",
-      "headline": "'Awful' and 'disrespectful' - Carra and Rooney criticise Martinez outburst",
-      "description": "Jamie Carragher has branded Lisandro Martinez's comments criticising the Manchester United hierarchy as \"awful\" - saying the player should look at himself because of his \"really poor\" start to the season.",
-      "publishedAt": "2026-10-14T06:06:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lisandro-martinez_7376571.jpg?20261014092822",
-      "link": "https://www.skysports.com/football/news/12040/13599115/lisandro-martinez-jamie-carragher-says-man-utd-defenders-comments-criticising-hierarchy-are-awful-as-wayne-rooney-brands-them-disrespectful",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50168830,
@@ -232,6 +246,17 @@
       "teams": [
         "Aston Villa"
       ]
+    },
+    {
+      "id": "d916eb407c5a62f7d89c80699d343199",
+      "source": "Sky Sports",
+      "headline": "Aston Villa vs Fenerbahce team news LIVE!",
+      "description": "",
+      "publishedAt": "2026-10-13T13:22:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-john-mcginn-aston-villa_7373280.jpg?20261010165436",
+      "link": "https://www.skysports.com/football/aston-villa-vs-fenerbahce/live/577624",
+      "tag": "Liveblog",
+      "teams": []
     },
     {
       "id": 50165374,
@@ -438,23 +463,20 @@
       ]
     },
     {
-      "id": 50164897,
-      "source": "ESPN",
-      "headline": "Liverpool's Virgil van Dijk: Don't view Man City rivalry differently despite guilty verdict",
-      "description": "Virgil van Dijk has said he does not view the rivalry between Liverpool and Manchester City differently in light of the latter's guilty verdict but admitted he will share his opinion on the matter when the process has concluded.",
-      "publishedAt": "2026-10-12T11:00:06Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729607_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50164897/liverpool-virgil-van-dijk-dont-view-man-city-rivalry-differently-guilty-verdict",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
+      "id": "b50a69fd338480a6398cecd99c78599f",
+      "source": "Sky Sports",
+      "headline": "Palace latest: Sage admits Lyon return brings back 'emotion'",
+      "description": "",
+      "publishedAt": "2026-10-11T15:45:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-14T17:06:36.807Z"
+    "cachedAt": "2026-10-14T21:37:53.294Z"
   }
 }
