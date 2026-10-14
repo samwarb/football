@@ -2,6 +2,58 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50181607,
+      "source": "ESPN",
+      "headline": "Mikel Merino says Arsenal are 'ready' for Premier League, Champions League double",
+      "description": "Mikel Merino insists Arsenal are ready to go one better than last season and complete a Premier League and Champions League double.",
+      "publishedAt": "2026-10-14T14:12:19Z",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730620_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50181607/mikel-merino-says-arsenal-ready-premier-league-champions-league-double",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50177021,
+      "source": "ESPN",
+      "headline": "Lisandro Martínez slams Man United hierarchy: Squad not Champions League quality",
+      "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
+      "publishedAt": "2026-10-14T13:36:50Z",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50180971,
+      "source": "ESPN",
+      "headline": "Fulham's Arbeloa fined for ref comments after Man United draw",
+      "description": "Fulham's Álvaro Arbeloa was fined $33,200 and given a warning for his comments after a match against Man United that questioned the integrity of the referee.",
+      "publishedAt": "2026-10-14T12:30:50Z",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706486_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50180971/fulham-arbeloa-fined-ref-comments-manchester-united-draw",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham"
+      ]
+    },
+    {
+      "id": 50180974,
+      "source": "ESPN",
+      "headline": "Andy Burnham: Man City owners didn't mention Premier League charges in meeting",
+      "description": "Andy Burnham has said Manchester City's owners and directors did not raise the Premier League's charges against the club when he met with them.",
+      "publishedAt": "2026-10-14T12:06:21Z",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729327_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50180974/andy-burnham-man-city-owners-mention-premier-league-charges-meeting",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": "26533922c3407acfe83591e7415ab859",
       "source": "Sky Sports",
       "headline": "Martinez's future at Man Utd in doubt after public outburst",
@@ -98,19 +150,6 @@
       "teams": [
         "Chelsea",
         "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 50177021,
-      "source": "ESPN",
-      "headline": "Lisandro Martínez slams Man United hierarchy: Squad not Champions League quality",
-      "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
-      "publishedAt": "2026-10-13T23:03:43Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
       ]
     },
     {
@@ -411,52 +450,11 @@
         "Liverpool",
         "Manchester City"
       ]
-    },
-    {
-      "id": 50164848,
-      "source": "ESPN",
-      "headline": "Man City 'more together than ever' after chants about charges - Elliot Anderson",
-      "description": "Manchester City midfielder Elliot Anderson has said the criticism the club has received in the wake of being found guilty of financial irregularities has galvanised the players.",
-      "publishedAt": "2026-10-12T09:53:29Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729605_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50164848/man-city-more-together-ever-chants-charges-elliot-anderson",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50164725,
-      "source": "ESPN",
-      "headline": "Liverpool must drop Florian Wirtz - Jamie Carragher",
-      "description": "Jamie Carragher has said Florian Wirtz should be dropped from the Liverpool lineup after another disappointing performance in Sunday's defeat to Manchester City.",
-      "publishedAt": "2026-10-12T09:21:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720178_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50164725/liverpool-drop-florian-wirtz-jamie-carragher",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50164676,
-      "source": "ESPN",
-      "headline": "Maresca: Manchester City dealt with Anfield 'very well'",
-      "description": "Maresca: Manchester City dealt with Anfield 'very well'",
-      "publishedAt": "2026-10-12T08:48:47Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Maresca_Manchester_City_dealt_with_Anfield_very_well/dm_261012_Maresca_Manchester_City_dealt_with_Anfield_very_well.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50164676/manchester-city-dealt-anfield-very-well",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-14T11:46:41.353Z"
+    "cachedAt": "2026-10-14T17:06:36.807Z"
   }
 }
