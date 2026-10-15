@@ -2,6 +2,82 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50187937,
+      "source": "ESPN",
+      "headline": "Man United 'a circus' amid Lisandro Martínez rant - Roy Keane",
+      "description": "Roy Keane has branded Manchester United a \"circus\" following Lisandro Martínez's outburst against the club's hierarchy.",
+      "publishedAt": "2026-10-15T10:35:17Z",
+      "image": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50187937/man-united-circus-amid-lisandro-martinez-rant-roy-keane",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50187435,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Martínez's future at Man United in doubt after bust-up",
+      "description": "Lisandro Martínez's future at Manchester United is in question after he pointed fingers at the club's board. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-15T09:55:45Z",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731051_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 50187777,
+      "source": "ESPN",
+      "headline": "Sir Gareth Southgate rules out a return to Premier League management",
+      "description": "Former England head coach Sir Gareth Southgate has said that he doesn't see a scenario where he manages a Premier League club again.",
+      "publishedAt": "2026-10-15T09:48:25Z",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731056_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50187777/gareth-southgate-premier-league-england-management",
+      "tag": "England",
+      "teams": [
+        "England"
+      ]
+    },
+    {
+      "id": 50187730,
+      "source": "ESPN",
+      "headline": "Mamadou Sangare challenges Brentford to aim for 'top two' Premier League finish",
+      "description": "Mamadou Sangare has challenged Brentford to cause a \"real surprise\" and push for a top two finish in the Premier League this season.",
+      "publishedAt": "2026-10-15T08:57:16Z",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731055_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50187730/mamadou-sangare-challenges-brentford-aim-top-two-premier-league-finish",
+      "tag": "Brentford",
+      "teams": [
+        "Brentford"
+      ]
+    },
+    {
+      "id": 50173300,
+      "source": "ESPN",
+      "headline": "Why does Haaland score so many goals? Because he's elite at staying onside",
+      "description": "We know what a dominant scorer Erling Haaland is, but it often goes unnoticed how good he is at avoiding a striker's worst enemy: the offside trap.",
+      "publishedAt": "2026-10-15T07:38:08Z",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730638_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50173300/erling-haaland-goals-offside-trap-premier-league-man-city-john-muller",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": "afc98bfd9d5f8b2baf23be96be379b74",
+      "source": "Sky Sports",
+      "headline": "'Top two - why not?' - Why Sangare turned down top clubs for Brentford",
+      "description": "Mamadou Sangare could have been playing Champions League football this week. After all, the signs point to him being an elite-level player.",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-mamadou-sangare_7351971.jpg?20260915093144",
+      "link": "https://www.skysports.com/football/news/12040/13599149/mamadou-sangare-interview-brentford-midfielder-reveals-why-he-turned-down-top-clubs-in-europe-for-the-bees",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
       "id": 50185048,
       "source": "ESPN",
       "headline": "Was Martinez's Man United statement 'premeditated'?",
@@ -55,6 +131,28 @@
       ]
     },
     {
+      "id": "3fb6224743c4cb164cf84270fe332897",
+      "source": "Sky Sports",
+      "headline": "Martinez releases statement to clarify outburst - but does not apologise",
+      "description": "Manchester United defender Lisandro Martinez has clarified his outburst after Tuesday's Champions League loss at Atletico Madrid in a statement - but stopped short of an apology.",
+      "publishedAt": "2026-10-14T22:05:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lisandro-martinez_7376571.jpg?20261014092822",
+      "link": "https://www.skysports.com/football/news/12040/13599417/lisandro-martinez-man-utd-defender-releases-statement-to-clarify-outburst-but-does-not-apologise",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "87b21367a4aba3ecbba0a6240a924146",
+      "source": "Sky Sports",
+      "headline": "Vinicius Jr to miss El Clasico after hair pull red card",
+      "description": "",
+      "publishedAt": "2026-10-14T22:05:00.000Z",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-real-madrid-vinicius-junior_7375038.jpg?20261012124628",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 50179920,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool eye move for Juventus' Kalulu",
@@ -67,6 +165,28 @@
         "Juventus",
         "Liverpool"
       ]
+    },
+    {
+      "id": "409a390f49a269507e5683e69085744a",
+      "source": "Sky Sports",
+      "headline": "Aston Villa latest: Jackson impresses with double in Fenerbahce thrashing",
+      "description": "",
+      "publishedAt": "2026-10-14T21:18:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "b7eaaf62b25e05690b8f32b074669b9d",
+      "source": "Sky Sports",
+      "headline": "Man City beaten by PSG in thriller as Guardiola returns to Etihad",
+      "description": "Manchester City were beaten 4-2 by a majestic Paris Saint-Germain as Pep Guardiola watched on from the stands in an enthralling Champions League encounter.",
+      "publishedAt": "2026-10-14T20:50:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-erling-haaland-man-city_7377213.jpg?20261014223440",
+      "link": "https://www.skysports.com/football/manchester-city-vs-paris-saint-germain/report/577628",
+      "tag": "Report",
+      "teams": []
     },
     {
       "id": 50177021,
@@ -229,6 +349,17 @@
       ]
     },
     {
+      "id": "1e8ffb843578d367b7fdc426f2e207e8",
+      "source": "Sky Sports",
+      "headline": "Man City latest: Guardiola returns but Maresca says: 'I didn't see him!'",
+      "description": "",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
       "id": 50172881,
       "source": "ESPN",
       "headline": "Enzo Maresca on Man City celebration at Anfield: 'What do you want us to do?'",
@@ -337,80 +468,11 @@
         "Fulham",
         "Manchester United"
       ]
-    },
-    {
-      "id": 50166551,
-      "source": "ESPN",
-      "headline": "Steven Gerrard says Man City must be stripped of titles after guilty verdict: 'Make them suffer'",
-      "description": "Steven Gerrard has said that Manchester City \"have to be stripped\" of their titles after the club were found guilty of 100+ charges of financial misconduct by the Premier League.",
-      "publishedAt": "2026-10-12T16:06:53Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729718_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50166551/steven-gerrard-says-man-city-stripped-titles-guilty-verdict-make-suffer",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50165976,
-      "source": "ESPN",
-      "headline": "Mikel Arteta defends Arsenal after Piero Hincapié, Martin Zubimendi injuries",
-      "description": "Mikel Arteta has defended Arsenal's training programme after confirming Piero Hincapié and Martín Zubimendi suffered \"far from ideal\" injuries in a post-match session on Saturday.",
-      "publishedAt": "2026-10-12T15:08:33Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729650_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50165976/mikel-arteta-defends-arsenal-piero-hincapie-martin-zubimendi-injuries",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 50166509,
-      "source": "ESPN",
-      "headline": "'Never happened in seven years!' - Arteta confirms double injury blow",
-      "description": "'Never happened in seven years!' - Arteta confirms double injury blow",
-      "publishedAt": "2026-10-12T15:07:27Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610/dm_261012_COM_SOC_Presser_Never_happened_in_seven_years_Arteta_confirms_double_injury_blow_202610.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50166509/never-happened-seven-years-arteta-confirms-double-injury-blow",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal",
-        "Lille"
-      ]
-    },
-    {
-      "id": 50163474,
-      "source": "ESPN",
-      "headline": "Man City win at angry Anfield; Mourinho overshadows ugly Madrid win",
-      "description": "Despite the pregame vitriol and ongoing scandal, it was no surprise that Man City won at Liverpool on Sunday. PLUS: Real Madrid won ugly and Mourinho got up to his old tricks after Vinicius' red card.",
-      "publishedAt": "2026-10-12T13:03:10Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729618_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50163474/manchester-city-liverpool-premier-league-charges-jose-mourinho-real-madrid-vinicius-junior-analysis",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": 50165610,
-      "source": "ESPN",
-      "headline": "Football braces for Independent Football Regulator's 'State of the Game' report",
-      "description": "A landmark report examining the financial sustainability of English football will be published on Tuesday.",
-      "publishedAt": "2026-10-12T12:49:51Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729630_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50165610/football-braces-independent-football-regulator-state-game-report",
-      "tag": "HeadlineNews",
-      "teams": []
     }
   ],
-  "warnings": [
-    "Sky Sports: HTTP 500 for https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.skysports.com%2Frss%2F12040"
-  ],
+  "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-15T04:32:49.417Z"
+    "cachedAt": "2026-10-15T11:22:54.240Z"
   }
 }
