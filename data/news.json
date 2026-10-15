@@ -2,6 +2,79 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50189608,
+      "source": "ESPN",
+      "headline": "Moisés Caicedo determined to repay faith shown by Chelsea manager Xabi Alonso",
+      "description": "Moisés Caicedo is determined to repay the faith shown in him by Chelsea boss Xabi Alonso and become more of a leader on the pitch.",
+      "publishedAt": "2026-10-15T16:13:40Z",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731184_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50189608/moises-caicedo-determined-repay-faith-shown-chelsea-manager-xabi-alonso",
+      "tag": "Chelsea",
+      "teams": [
+        "Chelsea",
+        "Ecuador"
+      ]
+    },
+    {
+      "id": "076a2c6491eaa94c44b1f27b0c1084d4",
+      "source": "Sky Sports",
+      "headline": "Long-term success won't be linear, says Spurs Women boss Ho",
+      "description": "Very few successes ever come easy. Whether it's title wins or top three finishes, every WSL season is becoming harder to predict - and plenty of clubs, including Tottenham, have their eyes on the prizes.",
+      "publishedAt": "2026-10-15T15:45:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-martin-ho-tottenham-women_7376148.jpg?20261013184025",
+      "link": "https://www.skysports.com/football/news/12040/13598902/martin-ho-tottenham-women-head-coach-on-summer-transfer-window-wsl-start-and-facing-chelsea-and-arsenal",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "83ae7ff1e51021b50ae58cd4b5105434",
+      "source": "Sky Sports",
+      "headline": "Kane agrees new deal in principle with Bayern Munich",
+      "description": "Harry Kane has agreed a new deal in principle with Bayern Munich until the summer of 2029.",
+      "publishedAt": "2026-10-15T15:23:00.000Z",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-harry-kane-bayern-munich_7350866.jpg?20260913204044",
+      "link": "https://www.skysports.com/football/news/12040/13599678/harry-kane-england-captain-agrees-new-deal-in-principle-with-bayern-munich-until-2029",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "b9fc89e250e0b5469cd382324aa7db71",
+      "source": "Sky Sports",
+      "headline": "PL Predictions: Back buzzing Brentford to sting Liverpool",
+      "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+      "publishedAt": "2026-10-15T15:00:00.000Z",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933",
+      "link": "https://www.skysports.com/football/news/12040/13598732/premier-league-predictions-jones-knows-best-bets-brentford-vs-liverpool-leeds-vs-manchester-united-and-more",
+      "tag": "Article/Blog",
+      "teams": []
+    },
+    {
+      "id": 50188572,
+      "source": "ESPN",
+      "headline": "Marc Guéhi hails Man City unity amid financial charges fallout",
+      "description": "Marc Guéhi hailed Manchester City's unity in the face of adversity after a spirited fightback in the club's first home match since being found guilty of multiple breaches of the Premier League's financial regulations.",
+      "publishedAt": "2026-10-15T13:25:35Z",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731101_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50188572/marc-guehi-hails-man-city-unity-amid-financial-charges-fallout",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50173300,
+      "source": "ESPN",
+      "headline": "Why does Haaland score so many goals? Because he's elite at staying onside",
+      "description": "We know what a dominant scorer Erling Haaland is, but it often goes unnoticed how good he is at avoiding a striker's worst enemy: the offside trap.",
+      "publishedAt": "2026-10-15T12:51:23Z",
+      "image": "https://a.espncdn.com/photo/2026/1014/r1730638_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50173300/erling-haaland-goals-offside-trap-premier-league-man-city-john-muller",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
       "id": 50187937,
       "source": "ESPN",
       "headline": "Man United 'a circus' amid Lisandro Martínez rant - Roy Keane",
@@ -52,30 +125,6 @@
       "teams": [
         "Brentford"
       ]
-    },
-    {
-      "id": 50173300,
-      "source": "ESPN",
-      "headline": "Why does Haaland score so many goals? Because he's elite at staying onside",
-      "description": "We know what a dominant scorer Erling Haaland is, but it often goes unnoticed how good he is at avoiding a striker's worst enemy: the offside trap.",
-      "publishedAt": "2026-10-15T07:38:08Z",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730638_2_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50173300/erling-haaland-goals-offside-trap-premier-league-man-city-john-muller",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "afc98bfd9d5f8b2baf23be96be379b74",
-      "source": "Sky Sports",
-      "headline": "'Top two - why not?' - Why Sangare turned down top clubs for Brentford",
-      "description": "Mamadou Sangare could have been playing Champions League football this week. After all, the signs point to him being an elite-level player.",
-      "publishedAt": "2026-10-15T07:00:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-mamadou-sangare_7351971.jpg?20260915093144",
-      "link": "https://www.skysports.com/football/news/12040/13599149/mamadou-sangare-interview-brentford-midfielder-reveals-why-he-turned-down-top-clubs-in-europe-for-the-bees",
-      "tag": "News Story",
-      "teams": []
     },
     {
       "id": 50185048,
@@ -131,28 +180,6 @@
       ]
     },
     {
-      "id": "3fb6224743c4cb164cf84270fe332897",
-      "source": "Sky Sports",
-      "headline": "Martinez releases statement to clarify outburst - but does not apologise",
-      "description": "Manchester United defender Lisandro Martinez has clarified his outburst after Tuesday's Champions League loss at Atletico Madrid in a statement - but stopped short of an apology.",
-      "publishedAt": "2026-10-14T22:05:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lisandro-martinez_7376571.jpg?20261014092822",
-      "link": "https://www.skysports.com/football/news/12040/13599417/lisandro-martinez-man-utd-defender-releases-statement-to-clarify-outburst-but-does-not-apologise",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "87b21367a4aba3ecbba0a6240a924146",
-      "source": "Sky Sports",
-      "headline": "Vinicius Jr to miss El Clasico after hair pull red card",
-      "description": "",
-      "publishedAt": "2026-10-14T22:05:00.000Z",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-real-madrid-vinicius-junior_7375038.jpg?20261012124628",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 50179920,
       "source": "ESPN",
       "headline": "Transfer rumors, news: Liverpool eye move for Juventus' Kalulu",
@@ -165,28 +192,6 @@
         "Juventus",
         "Liverpool"
       ]
-    },
-    {
-      "id": "409a390f49a269507e5683e69085744a",
-      "source": "Sky Sports",
-      "headline": "Aston Villa latest: Jackson impresses with double in Fenerbahce thrashing",
-      "description": "",
-      "publishedAt": "2026-10-14T21:18:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
-      "id": "b7eaaf62b25e05690b8f32b074669b9d",
-      "source": "Sky Sports",
-      "headline": "Man City beaten by PSG in thriller as Guardiola returns to Etihad",
-      "description": "Manchester City were beaten 4-2 by a majestic Paris Saint-Germain as Pep Guardiola watched on from the stands in an enthralling Champions League encounter.",
-      "publishedAt": "2026-10-14T20:50:00.000Z",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-erling-haaland-man-city_7377213.jpg?20261014223440",
-      "link": "https://www.skysports.com/football/manchester-city-vs-paris-saint-germain/report/577628",
-      "tag": "Report",
-      "teams": []
     },
     {
       "id": 50177021,
@@ -349,17 +354,6 @@
       ]
     },
     {
-      "id": "1e8ffb843578d367b7fdc426f2e207e8",
-      "source": "Sky Sports",
-      "headline": "Man City latest: Guardiola returns but Maresca says: 'I didn't see him!'",
-      "description": "",
-      "publishedAt": "2026-10-13T12:00:00.000Z",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "tag": "Liveblog",
-      "teams": []
-    },
-    {
       "id": 50172881,
       "source": "ESPN",
       "headline": "Enzo Maresca on Man City celebration at Anfield: 'What do you want us to do?'",
@@ -442,37 +436,20 @@
       ]
     },
     {
-      "id": 50128080,
-      "source": "ESPN",
-      "headline": "Coventry put four past Newcastle to climb out of relegation zone",
-      "description": "Coventry City picked up their first home victory in the Premier League for 25 years with an emphatic 4-1 win over Newcastle United on Monday.",
-      "publishedAt": "2026-10-12T21:31:19Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729844_1296x729_16-9.jpg",
-      "link": "http://www.espn.com/soccer/report/_/gameId/401879267",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City",
-        "Newcastle United"
-      ]
-    },
-    {
-      "id": 50164459,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Man United eye move for Fulham youngster King",
-      "description": "Manchester United are reportedly interested in Fulham teenager Josh King. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-12T21:10:22Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729845_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50164459/transfer-rumors-news-liverpool-eye-hull-gk-alisson-successor",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham",
-        "Manchester United"
-      ]
+      "id": "d8eca599d442bcab73564afa469d3f45",
+      "source": "Sky Sports",
+      "headline": "Under-pressure Infantino apologises for World Cup sell-off plan",
+      "description": "FIFA president Gianni Infantino has apologised for his World Cup sell-off plan at a three-hour FIFA Council meeting in Zurich on Thursday.",
+      "publishedAt": "2026-08-04T15:14:00.000Z",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
+      "link": "https://www.skysports.com/football/news/12040/13569748/gianni-infantino-fifa-president-apologises-for-world-cup-sell-off-plan-but-fa-and-other-european-leaders-still-want-him-to-resign",
+      "tag": "News Story",
+      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-15T11:22:54.240Z"
+    "cachedAt": "2026-10-15T16:56:24.517Z"
   }
 }
