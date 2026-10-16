@@ -2,6 +2,333 @@
   "season": "2025-2026",
   "articles": [
     {
+      "id": 50196940,
+      "source": "ESPN",
+      "headline": "David Moyes on new contract talks at Everton: 'Bit of a lull'",
+      "description": "David Moyes has said discussions over a new contract at the Hill Dickinson Stadium have gone quiet following news that Everton could be up for sale.",
+      "publishedAt": "2026-10-16T16:14:54Z",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731684_594x334_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50196940/david-moyes-new-contract-talks-everton-bit-lull",
+      "tag": "Everton",
+      "teams": [
+        "Everton"
+      ]
+    },
+    {
+      "id": 50196950,
+      "source": "ESPN",
+      "headline": "Nottingham Forest vs. Arsenal: Morgan Gibbs-White faces late fitness test for hosts",
+      "description": "Nottingham Forest are sweating on the fitness of Morgan Gibbs-White ahead of Sunday's clash with Arsenal.",
+      "publishedAt": "2026-10-16T16:13:49Z",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731685_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50196950/nottingham-forest-vs-arsenal-morgan-gibbs-white-faces-late-fitness-test-hosts",
+      "tag": "Nottingham Forest",
+      "teams": [
+        "Nottingham Forest",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50196766,
+      "source": "ESPN",
+      "headline": "Arteta happy with Arsenal's 'great attacking flow'",
+      "description": "Arteta happy with Arsenal's 'great attacking flow'",
+      "publishedAt": "2026-10-16T15:49:31Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Arteta_happy_with_Arsenals_great_attacking_flow/dm_261016_Arteta_happy_with_Arsenals_great_attacking_flow.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50196766/arteta-happy-arsenal-great-attacking-flow",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal",
+        "Nottingham Forest"
+      ]
+    },
+    {
+      "id": 50195778,
+      "source": "ESPN",
+      "headline": "Enzo Maresca calls for 'many bananas' at the Etihad in support of Man City",
+      "description": "Enzo Maresca hopes to see the stands filled with inflatable bananas as Manchester City take on Ipswich this weekend.",
+      "publishedAt": "2026-10-16T15:42:01Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729611_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50195778/enzo-maresca-calls-many-bananas-etihad-support-man-city",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50196506,
+      "source": "ESPN",
+      "headline": "Unai Emery to leave Aston Villa team selection for Newcastle clash until last minute",
+      "description": "Aston Villa boss Unai Emery will leave his team selection for Saturday's game with Newcastle until the last minute.",
+      "publishedAt": "2026-10-16T15:11:45Z",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712937_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50196506/unai-emery-leave-aston-villa-team-selection-newcastle-clash-last-minute",
+      "tag": "Aston Villa",
+      "teams": [
+        "Aston Villa"
+      ]
+    },
+    {
+      "id": 50196441,
+      "source": "ESPN",
+      "headline": "Maresca not stressed about Man City's guilty charges",
+      "description": "Maresca not stressed about Man City's guilty charges",
+      "publishedAt": "2026-10-16T14:47:25Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_COM_SOC_Presser_Maresca_not_stressed_about_Man_Citys_guilty_charges_20261016_GLOBAL/dm_261016_COM_SOC_Presser_Maresca_not_stressed_about_Man_Citys_guilty_charges_20261016_GLOBAL.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50196441/maresca-not-stressed-man-city-guilty-charges",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50195723,
+      "source": "ESPN",
+      "headline": "Arsenal's Mikel Arteta defends Viktor Gyökeres after goalless start to season",
+      "description": "Mikel Arteta has defended Viktor Gyökeres amid criticism of the Arsenal striker's start to the season.",
+      "publishedAt": "2026-10-16T13:55:32Z",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702859_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50195723/arsenal-mikel-arteta-defends-viktor-gyokeres-goalless-start-season",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50195749,
+      "source": "ESPN",
+      "headline": "Michael Carrick denies divisions within Man United squad after Lisandro Martínez outburst",
+      "description": "Michael Carrick has insisted there are no divisions within the Manchester United dressing room after Lisandro Martínez criticised the strength of the squad.",
+      "publishedAt": "2026-10-16T13:39:20Z",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731574_2_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50195749/man-united-michael-carrick-lisandro-martinez-premier-league-leeds",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
+      "id": "b84163ef7f91ef289749f7ed4d458a17",
+      "source": "Sky Sports",
+      "headline": "Arteta: Arsenal will take new team photo including Saliba",
+      "description": "Mikel Arteta says Arsenal will take a new team photograph including William Saliba after the defender's surprise absence from the one published this week.",
+      "publishedAt": "2026-10-16T13:30:00.000Z",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-william-saliba_7260206.jpg?20260528122151",
+      "link": "https://www.skysports.com/football/news/12040/13599972/mikel-arteta-says-arsenal-plan-to-take-another-team-photo-including-william-saliba-after-defenders-omission",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "0692957c59fbb0adb001dd9a25e63c61",
+      "source": "Sky Sports",
+      "headline": "Why Henderson-Caicedo axis is the midfield solution for Chelsea after James blow",
+      "description": "\"They give presence.\" Xabi Alonso sat up a little more in his press conference seat and pointed to his chest. \"They give stability.\"",
+      "publishedAt": "2026-10-16T13:20:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-jordan-henderson_7378222.jpg?20261016122233",
+      "link": "https://www.skysports.com/football/news/12040/13599918/chelsea-jordan-henderson-and-moises-caicedo-starred-in-midfield-against-bournemouth-and-will-be-key-after-reece-james-injury-blow",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": "5a3b33bf125f7cefc171a2a45c4e4a48",
+      "source": "Sky Sports",
+      "headline": "Everton latest: Moyes confirms 'lull' in new contract talks",
+      "description": "",
+      "publishedAt": "2026-10-16T13:19:00.000Z",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "tag": "Liveblog",
+      "teams": []
+    },
+    {
+      "id": "b092c45c5afd0a7194d904ba312a01d5",
+      "source": "Sky Sports",
+      "headline": "'I'm telling you the truth' - Carrick insists Martinez situation resolved",
+      "description": "Manchester United boss Michael Carrick insists he is telling the truth when he says the club have moved on from Lisandro Martinez's post-match outburst earlier this week.",
+      "publishedAt": "2026-10-16T12:33:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lisandro-martinez_7376571.jpg?20261014092822",
+      "link": "https://www.skysports.com/football/news/12040/13599948/lisandro-martinez-man-utd-defender-in-squad-for-leeds-trip-and-situation-resolved-after-criticism-of-hierarchy-insists-michael-carrick",
+      "tag": "News Story",
+      "teams": []
+    },
+    {
+      "id": 50195431,
+      "source": "ESPN",
+      "headline": "Florian Wirtz form can improve if Liverpool drop him - Steven Gerrard",
+      "description": "Liverpool legend Steven Gerrard has said that Florian Wirtz \"coming out of the team\" could be the solution to his confidence and form improving after a disappointing start to the season.",
+      "publishedAt": "2026-10-16T12:15:27Z",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731538_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50195431/florian-wirtz-improve-comes-liverpool-team-says-steven-gerrard",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50194612,
+      "source": "ESPN",
+      "headline": "Transfer rumors, news: Arsenal eye January move for Bayern Munich defender",
+      "description": "Arsenal are interested in signing Bayern Munich defender Kim Min-Jae during the January transfer window. Transfer Talk has the latest.",
+      "publishedAt": "2026-10-16T11:36:20Z",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731505_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50194612/transfer-rumors-news-arsenal-eye-january-move-bayern-munich-defender",
+      "tag": "Bayern Munich",
+      "teams": [
+        "Bayern Munich",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50191745,
+      "source": "ESPN",
+      "headline": "Premier League Top 50: Ranking the best players so far this season",
+      "description": "The Premier League Top 50 returns for the 2026-27 season to rank the best players across the league so far.",
+      "publishedAt": "2026-10-16T11:13:11Z",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731434_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50191745/premier-league-top-50-ranked-best-players-2026-27-man-city-united-liverpool-arsenal-chelsea",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City",
+        "Arsenal",
+        "Manchester United",
+        "Liverpool",
+        "Chelsea",
+        "Tottenham Hotspur",
+        "Aston Villa",
+        "Newcastle United",
+        "Brentford",
+        "Brighton & Hove Albion",
+        "Crystal Palace",
+        "Wolverhampton Wanderers",
+        "AFC Bournemouth",
+        "Everton",
+        "Fulham",
+        "Ipswich Town",
+        "Nottingham Forest",
+        "Sunderland",
+        "Leeds United",
+        "Burnley"
+      ]
+    },
+    {
+      "id": 50176627,
+      "source": "ESPN",
+      "headline": "Why do Liverpool's big-money transfers keep failing to deliver?",
+      "description": "Liverpool have spent big over the past two summer transfer windows with little to show for it. Why has their recruitment gone so wrong?",
+      "publishedAt": "2026-10-16T11:12:52Z",
+      "image": "https://a.espncdn.com/photo/2025/0714/r1519139_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50176627/why-do-liverpool-big-money-transfers-keep-failing-deliver",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50195093,
+      "source": "ESPN",
+      "headline": "Alvaro Arbeloa ignoring sack rumours to end Fulham plight",
+      "description": "Fulham head coach Alvaro Arbeloa maintains he cannot allow speculation over his job distract him from keeping everyone focused on beating Hull.",
+      "publishedAt": "2026-10-16T10:46:31Z",
+      "image": "https://a.espncdn.com/photo/2026/0609/r1670420_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50195093/alvaro-arbeloa-ignoring-sack-rumours-fulham",
+      "tag": "Fulham",
+      "teams": [
+        "Fulham"
+      ]
+    },
+    {
+      "id": 50115367,
+      "source": "ESPN",
+      "headline": "Man City's alternate universe: Guardiola, Haaland to Arsenal? Arteta to PSG?",
+      "description": "The course of soccer history could be very different for a lot of players and teams if Man City had stayed within the rules, so what could have happened?",
+      "publishedAt": "2026-10-16T09:58:23Z",
+      "image": "https://a.espncdn.com/photo/2026/1012/soc_man-city-alt_16x9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50115367/manchester-city-alternate-universe-pep-guardiola-erling-haaland-arsenal-mikel-arteta-psg",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50194886,
+      "source": "ESPN",
+      "headline": "Arsenal's Mikel Merino: I am 'fortunate to be alive' after Dortmund bus attack",
+      "description": "Mikel Merino has revealed that the conversations in the dressing room in the aftermath of Arsenal's draw to Wolves last season was when he realised they would win the Premier League.",
+      "publishedAt": "2026-10-16T09:45:18Z",
+      "image": "https://a.espncdn.com/photo/2026/0218/r1617005_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50194886/mikel-merino-knew-arsenal-champions-aftermath-terrible-result",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50194881,
+      "source": "ESPN",
+      "headline": "James Maddison can be the difference maker for Tottenham - former Coventry academy coach",
+      "description": "James Maddison has been backed to be the missing piece of the puzzle for Tottenham by old Coventry academy coach Richard Stevens.",
+      "publishedAt": "2026-10-16T09:05:46Z",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731514_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50194881/james-maddison-tottenham-coventry-premier-league",
+      "tag": "Tottenham Hotspur",
+      "teams": [
+        "Tottenham Hotspur",
+        "Coventry City"
+      ]
+    },
+    {
+      "id": 50194838,
+      "source": "ESPN",
+      "headline": "Trey Nyoni backed by Liverpool's Andoni Iraola amid midfield injury issues",
+      "description": "Liverpool head coach Andoni Iraola has every faith in Trey Nyoni as the 19-year-old looks set for his first Premier League start.",
+      "publishedAt": "2026-10-16T08:51:06Z",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697197_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50194838/trey-nyoni-backed-liverpool-boss-premier-league-start-looms",
+      "tag": "Liverpool",
+      "teams": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": 50117156,
+      "source": "ESPN",
+      "headline": "Manchester City charges: Features, explainers, what's next after guilty verdict",
+      "description": "ESPN has you covered with everything you need to know about the latest in the Manchester City scandal.",
+      "publishedAt": "2026-10-16T08:29:08Z",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50117156/manchester-city-guilty-verdict-premier-league-financial-charges-features-explainers",
+      "tag": "Manchester City",
+      "teams": [
+        "Manchester City"
+      ]
+    },
+    {
+      "id": 50192054,
+      "source": "ESPN",
+      "headline": "Arsenal's Eberechi Eze to perform Cristiano Ronaldo-inspired celebration after loss to IShowSpeed",
+      "description": "Eberechi Eze's next goal celebration has been determined by YouTuber IShowSpeed after the Arsenal forward was beaten by the influencer in an EA Sports FC battle.",
+      "publishedAt": "2026-10-15T22:18:28Z",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731342_1296x729_16-9.jpg",
+      "link": "https://www.espn.com/soccer/story/_/id/50192054/arsenal-eberechi-eze-cristiano-ronaldo-ishowspeed-inspired-goal-celebration",
+      "tag": "Arsenal",
+      "teams": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": 50191983,
+      "source": "ESPN",
+      "headline": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
+      "description": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
+      "publishedAt": "2026-10-15T21:38:10Z",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd/dm_261015_Frank_Leboeuf_calls_for_Lisandro_Martinez_to_leave_Man_Utd.jpg",
+      "link": "https://www.espn.com/video/clip/_/id/50191983/frank-leboeuf-calls-lisandro-martinez-leave-man-utd",
+      "tag": "Manchester United",
+      "teams": [
+        "Manchester United"
+      ]
+    },
+    {
       "id": 50191633,
       "source": "ESPN",
       "headline": "'Frustrated' Pierre Sage: Crystal Palace 'really far off' expectations in Lyon defeat",
@@ -55,39 +382,6 @@
         "Chelsea",
         "Ecuador"
       ]
-    },
-    {
-      "id": "076a2c6491eaa94c44b1f27b0c1084d4",
-      "source": "Sky Sports",
-      "headline": "Long-term success won't be linear, says Spurs Women boss Ho",
-      "description": "Very few successes ever come easy. Whether it's title wins or top three finishes, every WSL season is becoming harder to predict - and plenty of clubs, including Tottenham, have their eyes on the prizes.",
-      "publishedAt": "2026-10-15T15:45:00.000Z",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-martin-ho-tottenham-women_7376148.jpg?20261013184025",
-      "link": "https://www.skysports.com/football/news/12040/13598902/martin-ho-tottenham-women-head-coach-on-summer-transfer-window-wsl-start-and-facing-chelsea-and-arsenal",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "83ae7ff1e51021b50ae58cd4b5105434",
-      "source": "Sky Sports",
-      "headline": "Kane agrees new deal in principle with Bayern Munich",
-      "description": "Harry Kane has agreed a new deal in principle with Bayern Munich until the summer of 2029.",
-      "publishedAt": "2026-10-15T15:23:00.000Z",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-harry-kane-bayern-munich_7350866.jpg?20260913204044",
-      "link": "https://www.skysports.com/football/news/12040/13599678/harry-kane-england-captain-agrees-new-deal-in-principle-with-bayern-munich-until-2029",
-      "tag": "News Story",
-      "teams": []
-    },
-    {
-      "id": "b9fc89e250e0b5469cd382324aa7db71",
-      "source": "Sky Sports",
-      "headline": "PL Predictions: Back buzzing Brentford to sting Liverpool",
-      "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
-      "publishedAt": "2026-10-15T15:00:00.000Z",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933",
-      "link": "https://www.skysports.com/football/news/12040/13598732/premier-league-predictions-jones-knows-best-bets-brentford-vs-liverpool-leeds-vs-manchester-united-and-more",
-      "tag": "Article/Blog",
-      "teams": []
     },
     {
       "id": 50188572,
@@ -166,290 +460,11 @@
       "teams": [
         "Manchester United"
       ]
-    },
-    {
-      "id": 50168830,
-      "source": "ESPN",
-      "headline": "Man United could never contend for the Premier League title -- but they aren't so bad either",
-      "description": "Man United fans go from thinking the team will win the Premier League to thinking the sky is falling. The truth is in the middle and it's unlikely to shift.",
-      "publishedAt": "2026-10-14T22:33:56Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729894_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50168830/man-united-never-contend-premier-league-title-bad-either",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 50184699,
-      "source": "ESPN",
-      "headline": "Lisandro Martínez: I believe in 'everyone working to help' Man United 'move forward'",
-      "description": "Lisandro Martínez has said he believes in \"my teammates, our manager and everyone working to help this club move forward.\"",
-      "publishedAt": "2026-10-14T22:22:15Z",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730521_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50184699/lisandro-martinez-believe-everyone-working-help-man-united-move-forward",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 50183001,
-      "source": "ESPN",
-      "headline": "Sources: Man United assessing Martínez comments as player releases statement",
-      "description": "Manchester United bosses are assessing Lisandro Martínez's comments in the aftermath of the 2-0 defeat to Atletico Madrid before deciding whether to take disciplinary action against the Argentina defender, sources have told ESPN.",
-      "publishedAt": "2026-10-14T22:13:08Z",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730746_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50183001/man-united-lisandro-martinez-comments-atletico-madrid",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United",
-        "Argentina"
-      ]
-    },
-    {
-      "id": 50179920,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Liverpool eye move for Juventus' Kalulu",
-      "description": "Liverpool are reportedly linked with a move for Juventus defender Pierre Kalulu. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-14T21:46:58Z",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730855_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50179920/transfer-rumors-news-real-madrid-barcelona-chase-spurs-defender-porro",
-      "tag": "Juventus",
-      "teams": [
-        "Juventus",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50177021,
-      "source": "ESPN",
-      "headline": "Lisandro Martínez slams Man United hierarchy: Squad not Champions League quality",
-      "description": "Lisandro Martínez launched a stinging verbal attack on Manchester United's hierarchy, after a 2-0 Champions League defeat against Atlético Madrid.",
-      "publishedAt": "2026-10-14T17:09:01Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730374_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50177021/lisandro-martinez-slams-man-united-hierarchys-decisions-not-champions-league-quality-squad",
-      "tag": "Manchester United",
-      "teams": [
-        "Manchester United"
-      ]
-    },
-    {
-      "id": 50181607,
-      "source": "ESPN",
-      "headline": "Mikel Merino says Arsenal are 'ready' for Premier League, Champions League double",
-      "description": "Mikel Merino insists Arsenal are ready to go one better than last season and complete a Premier League and Champions League double.",
-      "publishedAt": "2026-10-14T14:12:19Z",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730620_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50181607/mikel-merino-says-arsenal-ready-premier-league-champions-league-double",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 50180971,
-      "source": "ESPN",
-      "headline": "Fulham's Arbeloa fined for ref comments after Man United draw",
-      "description": "Fulham's Álvaro Arbeloa was fined $33,200 and given a warning for his comments after a match against Man United that questioned the integrity of the referee.",
-      "publishedAt": "2026-10-14T12:30:50Z",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706486_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50180971/fulham-arbeloa-fined-ref-comments-manchester-united-draw",
-      "tag": "Fulham",
-      "teams": [
-        "Fulham"
-      ]
-    },
-    {
-      "id": 50180974,
-      "source": "ESPN",
-      "headline": "Andy Burnham: Man City owners didn't mention Premier League charges in meeting",
-      "description": "Andy Burnham has said Manchester City's owners and directors did not raise the Premier League's charges against the club when he met with them.",
-      "publishedAt": "2026-10-14T12:06:21Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729327_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50180974/andy-burnham-man-city-owners-mention-premier-league-charges-meeting",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50177357,
-      "source": "ESPN",
-      "headline": "Arsenal showed strength in depth in Lille win, but Gyökeres is a concern",
-      "description": "Arsenal's substitutes made the difference once again, but Mikel Arteta's side still have questions as tougher tests await.",
-      "publishedAt": "2026-10-14T00:37:21Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730378_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50177357/arsenal-showed-strength-depth-lille-win-viktor-gyokeres-concern",
-      "tag": "Arsenal",
-      "teams": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": 50171789,
-      "source": "ESPN",
-      "headline": "Transfer rumors, news: Chelsea confident in January move for Scott",
-      "description": "Chelsea are growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.",
-      "publishedAt": "2026-10-13T23:32:19Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730398_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield",
-      "tag": "Chelsea",
-      "teams": [
-        "Chelsea",
-        "AFC Bournemouth"
-      ]
-    },
-    {
-      "id": 50166633,
-      "source": "ESPN",
-      "headline": "Premier League overreactions: Takeaways from first games post-international break",
-      "description": "After a three-week intermission, the Premier League returned with a bang last weekend. Will Man City eventually crumble under the pressure? Is this the real Man United? Let's overreact!",
-      "publishedAt": "2026-10-13T17:46:27Z",
-      "image": "https://a.espncdn.com/photo/2026/1012/r1729833_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50166633/premier-league-overreactions-takeaways-first-games-post-international-break-man-city-liverpool-man-united",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Manchester United",
-        "Liverpool",
-        "Fulham",
-        "Brighton & Hove Albion"
-      ]
-    },
-    {
-      "id": 50174986,
-      "source": "ESPN",
-      "headline": "Man City 'deserved' trophies - PSG boss Luis Enrique on charges",
-      "description": "Paris Saint-Germain boss Luis Enrique has said Manchester City deserve to keep the trophies won during the period in which they have been found guilty of breaching Premier League rules.",
-      "publishedAt": "2026-10-13T17:39:16Z",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708346_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50174986/manchester-city-deserved-trophies-psg-boss-luis-enrique",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City",
-        "Paris Saint-Germain"
-      ]
-    },
-    {
-      "id": 50174651,
-      "source": "ESPN",
-      "headline": "Regulator: English football must address finances 'before it is too late'",
-      "description": "The chair of the Independent Football Regulator says the English game must \"act before it is too late\" to tackle the financial dangers facing it.",
-      "publishedAt": "2026-10-13T16:54:14Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730173_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50174651/independent-football-regulator-english-address-finances-too-late",
-      "tag": "HeadlineNews",
-      "teams": []
-    },
-    {
-      "id": 50174675,
-      "source": "ESPN",
-      "headline": "Football Regulator chair will quit if politics interferes with any Man City investigation",
-      "description": "The chair of the Independent Football Regulator (IFR) has said he will quit if there is political interference in any future investigation launched into Manchester City.",
-      "publishedAt": "2026-10-13T16:45:58Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730170_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50174675/football-regulator-chair-quit-politics-interferes-man-city-investigation",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50173447,
-      "source": "ESPN",
-      "headline": "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK",
-      "description": "Liverpool are set to be without Alexander Isak, Cody Gakpo and Dominik Szoboszlai for Wednesday's UEFA Champions League clash with LASK.",
-      "publishedAt": "2026-10-13T15:57:17Z",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729179_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50173447/liverpool-alexander-isak-cody-gakpo-dominik-szoboszlai-miss-champions-league-clash-lask",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": 50173773,
-      "source": "ESPN",
-      "headline": "Unai Emery keen for Aston Villa to use home advantage in Fenerbahce clash",
-      "description": "Aston Villa boss Unai Emery wants his side to enjoy their home comforts once again when they host Fenerbahce in the Champions League.",
-      "publishedAt": "2026-10-13T14:30:42Z",
-      "image": "https://a.espncdn.com/photo/2026/1010/r1728828_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50173773/unai-emery-keen-aston-villa-use-home-advantage-fenerbahce-clash",
-      "tag": "Aston Villa",
-      "teams": [
-        "Aston Villa"
-      ]
-    },
-    {
-      "id": 50172881,
-      "source": "ESPN",
-      "headline": "Enzo Maresca on Man City celebration at Anfield: 'What do you want us to do?'",
-      "description": "Enzo Maresca has hit back at criticism of Manchester City's celebrations at Anfield on Sunday by saying: \"What do you want us to do?\"",
-      "publishedAt": "2026-10-13T11:58:01Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730084_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50172881/enzo-maresca-man-city-celebration-anfield-do-want-us-do",
-      "tag": "Manchester City",
-      "teams": [
-        "Manchester City"
-      ]
-    },
-    {
-      "id": 50171697,
-      "source": "ESPN",
-      "headline": "Hull winger Mohamed Belloumi has the last laugh after pundits' mockery",
-      "description": "Mohamed Belloumi may have been the brunt of some studio jokes during the Premier League weekend, but the winger again proved why he could be the man to keep Hull City in the top flight this season.",
-      "publishedAt": "2026-10-13T07:07:22Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730035_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/espn/story/_/id/50171697/hull-winger-mohamed-belloumi-last-laugh-pundits-mockery",
-      "tag": "Hull City",
-      "teams": [
-        "Hull City",
-        "Algeria"
-      ]
-    },
-    {
-      "id": 50169452,
-      "source": "ESPN",
-      "headline": "Lampard: Coventry 'feet on the ground' after Newcastle win",
-      "description": "Coventry City boss Frank Lampard is not allowing his side to get carried away after they earned a thumping 4-1 home victory over Newcastle United on Monday.",
-      "publishedAt": "2026-10-13T06:40:13Z",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730029_1296x729_16-9.jpg",
-      "link": "https://www.espn.com/soccer/story/_/id/50169452/lampard-coventry-feet-ground-newcastle-win",
-      "tag": "Coventry City",
-      "teams": [
-        "Coventry City"
-      ]
-    },
-    {
-      "id": 50169204,
-      "source": "ESPN",
-      "headline": "Ogden: Every team's fans will be against Man City after this win",
-      "description": "Ogden: Every team's fans will be against Man City after this win",
-      "publishedAt": "2026-10-12T22:20:24Z",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_COM_SOC_ANALYSIS_Ogden_Every_teams_fans_will_be_against_Man_City_after_this_win_2026_10_12/dm_261012_COM_SOC_ANALYSIS_Ogden_Every_teams_fans_will_be_against_Man_City_after_this_win_2026_10_12.jpg",
-      "link": "https://www.espn.com/video/clip/_/id/50169204/every-team-fans-man-city-win",
-      "tag": "Liverpool",
-      "teams": [
-        "Liverpool",
-        "Manchester City"
-      ]
-    },
-    {
-      "id": "d8eca599d442bcab73564afa469d3f45",
-      "source": "Sky Sports",
-      "headline": "Under-pressure Infantino apologises for World Cup sell-off plan",
-      "description": "FIFA president Gianni Infantino has apologised for his World Cup sell-off plan at a three-hour FIFA Council meeting in Zurich on Thursday.",
-      "publishedAt": "2026-08-04T15:14:00.000Z",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
-      "link": "https://www.skysports.com/football/news/12040/13569748/gianni-infantino-fifa-president-apologises-for-world-cup-sell-off-plan-but-fa-and-other-european-leaders-still-want-him-to-resign",
-      "tag": "News Story",
-      "teams": []
     }
   ],
   "warnings": [],
   "meta": {
     "cache": "fresh",
-    "cachedAt": "2026-10-15T21:19:35.466Z"
+    "cachedAt": "2026-10-16T16:34:49.362Z"
   }
 }
